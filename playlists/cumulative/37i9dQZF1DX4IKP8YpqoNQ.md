@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-208 songs - 17 hr 21 min
+209 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Good To Me \- Live](https://open.spotify.com/track/527RsqHwq8ueWrE67xHgYC) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 4:15 | 2024-10-25 | 2025-02-20 |
 | [Grow \- Live](https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/5hx3IYGZNWMV9NgVBOFWZd) | 3:02 | 2022-02-10 | 2022-10-13 |
 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 | 2022-02-10 | 2024-04-19 |
+| [Headlines \- Recorded at Spotify Studio NYC \- Acoustic](https://open.spotify.com/track/19TNvLuBWsEZEXVRDhEUR9) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:26 | 2024-10-25 |  |
 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 | 2022-02-10 | 2023-03-31 |
 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 | 2022-02-10 |  |
 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 | 2022-02-10 |  |
@@ -139,7 +140,7 @@
 | [On & On \- Live](https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:30 | 2022-02-10 | 2023-10-13 |
 | [Ordinary Day \- Live](https://open.spotify.com/track/3OAe5PVAQBLfAkcHwAGJyh) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [QCBA](https://open.spotify.com/artist/37B0KQjcPVSWjLpOO8ChBb) | [Live at Last](https://open.spotify.com/album/1CiO7szQh4omqmKs2Szfxx) | 6:18 | 2022-02-10 | 2022-07-28 |
 | [Ordinary People \- Live from Spotify Milan](https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 5:08 | 2022-02-10 |  |
-| [Pain in My Heart \- Live at the Whisky a Go Go, 1966](https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [In Person at the Whiskey a Go Go](https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb) | 2:13 | 2024-01-11 |  |
+| [Pain in My Heart \- Live at the Whisky a Go Go, 1966](https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [In Person at the Whiskey a Go Go](https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb) | 2:13 | 2024-01-11 | 2025-02-26 |
 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 | 2022-02-10 |  |
 | [People Get Ready \- Live at The Bitter End, NYC](https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:47 | 2022-02-10 |  |
 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 | 2022-02-10 |  |

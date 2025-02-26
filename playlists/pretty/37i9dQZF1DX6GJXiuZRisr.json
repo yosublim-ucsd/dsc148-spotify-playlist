@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1592887,
+  "num_followers": 1593089,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,26 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "set me free (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4JE2X17Ued82wlJc5Bh8xi"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 233709,
+      "name": "set me free - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/3lhVWN4MfWDv7X8FOaXubv"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -691,26 +695,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "set me free (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4JE2X17Ued82wlJc5Bh8xi"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 233709,
-      "name": "set me free - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/3lhVWN4MfWDv7X8FOaXubv"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
         "name": "Blue Symphony",
         "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
+        "name": "Quezacotl",
+        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Quezacotl",
+      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 235187,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "Quezacotl",
-        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Quezacotl",
-      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 240000,
       "name": "Humans",
       "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
         "name": "Nothing Ever Changes",
         "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
       },
@@ -1211,18 +1227,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1243,26 +1263,6 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1303,46 +1303,6 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 329318,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1367,6 +1327,46 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 329318,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
         "name": "Losing Control (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
       },
@@ -1479,22 +1499,18 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
       "artists": [
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1519,22 +1535,6 @@
       "duration_ms": 217694,
       "name": "Shake & Pop - John Summit Remix",
       "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
-    },
-    {
-      "added_at": "2025-02-21 05:00:26",
-      "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Freyja",
-        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 229959,
-      "name": "Freyja",
-      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+        "name": "Freyja",
+        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+      "duration_ms": 229959,
+      "name": "Freyja",
+      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
     },
     {
       "added_at": "2025-02-21 05:00:26",

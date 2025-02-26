@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,297 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,299 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 25 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
 | 26 | [What's Tea? \- with Kaliii](https://open.spotify.com/track/79Qfwf0duzJhAPhW65apXn) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [What's Tea? \(with Kaliii\)](https://open.spotify.com/album/1229iPo1z4zKGLiruatn7c) | 2:49 |
 | 27 | [Standards](https://open.spotify.com/track/3aYpUar301x64WbolSxdwS) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:55 |
-| 28 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 |
-| 29 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
-| 30 | [Let It Ring](https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:35 |
+| 28 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
+| 29 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 |
+| 30 | [Stand On It](https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 1:56 |
 | 31 | [Toxic Chocolate](https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:28 |
-| 32 | [Stand On It](https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 1:56 |
+| 32 | [Let It Ring](https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:35 |
 | 33 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
 | 34 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
 | 35 | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 | 50 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
 
-Snapshot ID: `Z7plAAAAAAB5cr39Q3k4kOSK8HxksuOb`
+Snapshot ID: `Z7u2gAAAAAB9XBg3j2wEci695n5d4cm3`

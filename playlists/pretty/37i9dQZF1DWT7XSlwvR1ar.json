@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2094975,
+  "num_followers": 2095064,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "That Sea, The Gambler",
         "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 360933,
       "name": "The Stable Song",
       "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Feet Off The Ground (feat. Jade Bird)",
+        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 258188,
+      "name": "Feet Off The Ground (feat. Jade Bird)",
+      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Feet Off The Ground (feat. Jade Bird)",
-        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        },
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 258188,
-      "name": "Feet Off The Ground (feat. Jade Bird)",
-      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1231,6 +1215,22 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+        "name": "German Cars",
+        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ryan Tedder",
-          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
-      "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "German Cars",
-        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
       "artists": [
         {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
         }
       ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+      "duration_ms": 246506,
+      "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
+      "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "What Happiness Is",
         "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "First In Flight",
         "url": "https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd"
       },
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
+        "name": "My Own",
+        "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 211732,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
+      "duration_ms": 210608,
+      "name": "My Own",
+      "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2071,22 +2087,6 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "My Own",
-        "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 210608,
-      "name": "My Own",
-      "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
     },
     {
       "added_at": "2024-07-05 22:00:55",

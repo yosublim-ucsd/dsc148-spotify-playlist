@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation featuring music from Dead Gowns \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+  "description": "indie tunes with country experimentation featuring music from Frog \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
+    },
+    {
+      "album": {
         "name": "Fourth Street",
         "url": "https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 236593,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3BlaXTdNPVK7vY5ZZ77a8P"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 138507,
       "name": "Knew You Well",
       "url": "https://open.spotify.com/track/4PTlKir77x1tXQtecD3SuH"
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 160039,
       "name": "Paige Machine",
       "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
@@ -4396,7 +4414,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 173888,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb"
@@ -4672,7 +4690,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 255317,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
@@ -5188,7 +5206,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 130185,
       "name": "You Know I'm Down",
       "url": "https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT"

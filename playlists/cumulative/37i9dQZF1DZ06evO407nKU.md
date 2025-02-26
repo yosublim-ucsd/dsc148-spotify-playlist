@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 9 min
+128 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 | 2022-09-03 | 2022-12-27 |
 | [El De La Mochila](https://open.spotify.com/track/5jEtP3pBbWthzCzhO0kCyC) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El De La Mochila](https://open.spotify.com/album/6aZFylXVOis3BvUbUAoHum) | 3:56 | 2023-11-10 | 2023-12-16 |
 | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/track/20k6zFGYcY0xQ51hLDrx7r) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/album/3o4AMtRkJGieVeQwmgTair) | 3:34 | 2024-03-04 | 2024-04-02 |
-| [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 |  |
+| [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 | 2025-02-26 |
 | [El Viejón](https://open.spotify.com/track/34GAoi7sp1UWnY94buABzg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Viejón](https://open.spotify.com/album/2P7d2DZU9Po5AnCzjEIybA) | 3:24 | 2024-08-06 | 2024-09-30 |
 | [Enamorado](https://open.spotify.com/track/65Li8S1PcoLMy7dilqQrYh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:38 | 2022-06-01 | 2022-10-11 |
 | [Eso Me Excita](https://open.spotify.com/track/6EzJpdfLbZcjB0BFEoykXJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 2:38 | 2022-06-01 | 2022-10-13 |
@@ -130,6 +130,7 @@
 | [Una Pregunta Obvia](https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi) | [Dariel Ramirez Y Sus Perdidos](https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sesión Acústica](https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak) | 4:14 | 2022-06-01 | 2025-01-30 |
 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 | 2022-06-01 |  |
 | [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 | 2023-07-13 |  |
+| [Voy A Pintar Mi Raya \- En Vivo](https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 4:32 | 2025-02-26 |  |
 | [Vuelve](https://open.spotify.com/track/1P1XPW5SbYOWQA8g9ySYDo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B) | [Vuelve](https://open.spotify.com/album/7EWRTXPRg0QaOur81FIKhL) | 2:15 | 2024-01-23 | 2024-02-18 |
 | [Vuelvo A Emborracharme](https://open.spotify.com/track/6SdTGtwcS47eKXL9P9MVCE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 2:39 | 2023-08-19 | 2023-12-30 |
 | [Y Sigues Siendo Tu \- En Vivo](https://open.spotify.com/track/74pskWmh7XTcaxqaPdZHJq) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:16 | 2022-06-01 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Michael Ekow & May
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,779 likes - 78 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,776 likes - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
-| 2 | [Can't Feel Too Much \(with May\)](https://open.spotify.com/track/7KODMHmnEMmY4ToSZRSEZE) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody](https://open.spotify.com/album/0ktjeKs2v0zOpS3N752Lye) | 2:24 |
+| 2 | [Can't Feel Too Much \(with May\)](https://open.spotify.com/track/7KODMHmnEMmY4ToSZRSEZE) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody \(with May\)](https://open.spotify.com/album/0ktjeKs2v0zOpS3N752Lye) | 2:24 |
 | 3 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
 | 4 | [Sinatra](https://open.spotify.com/track/4J5TEKLKS3hXWlPv0HDe5n) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Sinatra](https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL) | 3:14 |
 | 5 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 77 | [Final Wave](https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Final Wave](https://open.spotify.com/album/2ts4A1dtMnCtrb3JnEA1YB) | 3:52 |
 | 78 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
 
-Snapshot ID: `Z7rU7AAAAAD+s9tUPq2B6BkkPp2HzxBA`
+Snapshot ID: `Z7rU7AAAAACeqKKGe+UVh1fl8DSkUfRA`

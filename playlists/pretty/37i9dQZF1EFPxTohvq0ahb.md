@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,413 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,416 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 127 | [Get In My Car \(feat\. Bun B\)](https://open.spotify.com/track/4ImEeJ5Fsdg4ULiBCOKEPG) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:09 |
 | 128 | [It's Your Life](https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Full Frequency](https://open.spotify.com/album/4AYXhebGFYlUU4Fh0LLTIB) | 3:48 |
 | 129 | [Aces High \(feat\. Serayah\)](https://open.spotify.com/track/06gkJcXenvimOD3Bme9nFA) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 2:27 |
-| 130 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
-| 131 | [Letter To My Son](https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi) | [Don Trip](https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Letter To My Son](https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT) | 4:00 |
+| 130 | [Letter To My Son](https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi) | [Don Trip](https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Letter To My Son](https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT) | 4:00 |
+| 131 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
 | 132 | [Lying \(Next To You\) \(From "Songland"\)](https://open.spotify.com/track/1Af0BvG8ATUwOuONIvXgFs) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Lying \(Next to You\) \[From "Songland"\]](https://open.spotify.com/album/6YNsWggnn9uYyxvUsOVYZQ) | 2:28 |
 | 133 | [Get My Dough](https://open.spotify.com/track/5HnbGdPRLGBJmq6tPlXHIv) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Get My Dough](https://open.spotify.com/album/18ICs54AuTOWxRcLJDRLxh) | 2:53 |
 | 134 | [Crush \(From "Songland"\)](https://open.spotify.com/track/5cDK6gZ5E7OUfI3Sl1DIgs) | [Daniel Feels](https://open.spotify.com/artist/5ZJXhhWpqZS8C2xqOOxro0), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Crush \(From "Songland"\)](https://open.spotify.com/album/28m0PEgWPala52DDvUAhHU) | 2:40 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `AbqeyQAAAAAy9MELCZdSbW6zmsE8TcfP`
+Snapshot ID: `AbqkaAAAAAC4hoNMJAwg6slzMS+My0ht`

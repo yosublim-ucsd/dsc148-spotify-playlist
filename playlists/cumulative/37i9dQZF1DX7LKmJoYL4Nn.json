@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 253880,
       "name": "Majestic Magic",
       "url": "https://open.spotify.com/track/2P4TXa4KdnxJZN8CThBMGk"
@@ -2924,6 +2924,24 @@
       "duration_ms": 248053,
       "name": "\u8056\u5c11\u5e74\u904a\u622f",
       "url": "https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u7d05\u6708\u300c\u91d1\u8272\u5343\u591c\u5922\u821e\u53f0\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/5L23YPqnArhqqm50NFHbTW"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708/\u84ee\u5df3\u656c\u4eba(CV.\u6885\u539f\u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u795e\u5d0e\u98af\u99ac(CV.\u795e\u6c38\u572d\u4f51)",
+          "url": "https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "\u91d1\u8272\u5343\u591c\u5922\u821e\u53f0 - Game Edit",
+      "url": "https://open.spotify.com/track/7bF8aiQ2Y0HywixEytUCgT"
     },
     {
       "album": {

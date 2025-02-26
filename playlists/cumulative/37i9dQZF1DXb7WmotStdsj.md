@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-224 songs - 18 hr 10 min
+225 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 | 2022-09-20 | 2023-07-19 |
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
+| [Beaugossa](https://open.spotify.com/track/0WFx6LG7BUwHPAvhU30gTN) | [Cheb Youcef](https://open.spotify.com/artist/639JWxW2uEqbQQpgsb4TGz), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Beaugossa](https://open.spotify.com/album/7M68J9xTtkOp8owNzRmJr0) | 4:13 | 2025-02-25 |  |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
 | [bent kartier populair](https://open.spotify.com/track/0y2su68WwYXVmXM6cIAeNA) | [Cheba Chinou](https://open.spotify.com/artist/58zwlLsIiWAGDv3dKhgqvg), [Oussama Torkish](https://open.spotify.com/artist/0zDzZpAE9PhHyIzW1cL0jE) | [bent kartier populair](https://open.spotify.com/album/1rgqYoPn3oeHBOshDokftW) | 4:15 | 2023-10-05 |  |
 | [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/track/2Wdk6ZOaVuaKnaQsuNPqST) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Chaba chinou](https://open.spotify.com/artist/1H9GqufB9SphlHrxSxgc0q) | [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/album/70cUTt6eYM0WEdvWsicu8F) | 4:16 | 2023-10-02 | 2023-10-09 |
@@ -170,7 +171,7 @@
 | [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 | 2024-10-15 |  |
 | [Raki Dalmetni](https://open.spotify.com/track/5ZneftpoYQtDYac23jXLQA) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Raki Dalmetni](https://open.spotify.com/album/5Wse1dL3VSYfQTnB9Z4dkq) | 4:57 | 2022-09-20 | 2023-05-26 |
 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 |  |
-| [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 |  |
+| [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 | 2025-02-26 |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 | 2025-02-08 |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |

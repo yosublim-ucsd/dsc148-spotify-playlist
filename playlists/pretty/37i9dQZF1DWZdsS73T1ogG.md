@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lunay, Hadess66, J Abdiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,613 likes - 110 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,784 likes - 110 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 6 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 7 | [FANTASÍA](https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [FANTASÍA](https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs) | 3:06 |
 | 8 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 |
-| 9 | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
+| 9 | [BAILANDO EL DEMBOW](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
 | 10 | [DESEO](https://open.spotify.com/track/6hpbRPCxfUG5oA0o2p39Ez) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [DESEO](https://open.spotify.com/album/2BgyYC7cq0bksO5SY7xETz) | 2:21 |
 | 11 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |
 | 12 | [Parte & Choke \(with Ryan Castro\) \- Remix](https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Parte & Choke \(with Ryan Castro\) \[Remix\]](https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO) | 3:38 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 109 | [CON ÉL](https://open.spotify.com/track/622l31iIv1rmd46OlW9r3m) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:25 |
 | 110 | [BFF](https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 3:11 |
 
-Snapshot ID: `Z7yIcwAAAABxtehB7xWg9nyJ5JolPcv3`
+Snapshot ID: `Z7yIcwAAAABiC3lRHGUMcDf79w8AiUWW`

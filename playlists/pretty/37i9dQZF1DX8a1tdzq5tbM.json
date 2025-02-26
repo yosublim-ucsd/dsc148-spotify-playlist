@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1660975,
+  "num_followers": 1661278,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -628,13 +628,33 @@
           "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "Asher D",
+          "name": "Ashley Walters",
           "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
         }
       ],
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "ResuRection",
+        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -659,26 +679,6 @@
       "duration_ms": 182013,
       "name": "Gettin' Over (feat. Chris Willis & Fergie)",
       "url": "https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "ResuRection",
-        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        },
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
-      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",

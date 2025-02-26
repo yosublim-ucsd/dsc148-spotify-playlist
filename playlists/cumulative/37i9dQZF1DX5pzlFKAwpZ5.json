@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Perennial Grace",
+        "url": "https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ"
+      },
+      "artists": [
+        {
+          "name": "Classy Moon",
+          "url": "https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "A Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc"
+    },
+    {
+      "album": {
         "name": "Heisei No Oto: Japanese Left-field Pop From The CD Age, 1989-1996",
         "url": "https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts"
       },
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 225000,
       "name": "Seis - Daigo Hanada Rework",
       "url": "https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8"

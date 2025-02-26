@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 53386,
+  "num_followers": 53432,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADT8ka8L7HLB4bOZ/UwH1wA",
+  "snapshot_id": "Z7u2gAAAAADhyynVYQJyg/lWQp31rnkN",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Tiempos De Guerra",
-      "url": "https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG"
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas es Martes",
-        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 216633,
-      "name": "Apenas es Martes",
-      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -530,16 +510,20 @@
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
+      "duration_ms": 165826,
+      "name": "Tiempos De Guerra",
+      "url": "https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Alucinaciones",
+        "name": "ALUCINACIONES",
         "url": "https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k"
       },
       "artists": [
@@ -553,7 +537,7 @@
         }
       ],
       "duration_ms": 184060,
-      "name": "Alucinaciones",
+      "name": "ALUCINACIONES",
       "url": "https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8"
     },
     {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Mcklein (Comanches)",
-      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
     },
     {
       "added_at": null,
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Amigo 09",
-      "url": "https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ"
+      "duration_ms": 142133,
+      "name": "Mcklein (Comanches)",
+      "url": "https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J"
     },
     {
       "added_at": null,
@@ -750,15 +734,11 @@
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Chavo F\u00e9lix",
-      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
+      "duration_ms": 169400,
+      "name": "Amigo 09",
+      "url": "https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ"
     },
     {
       "added_at": null,
@@ -818,11 +798,15 @@
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Los Pasajes Del Sera",
-      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+      "duration_ms": 174680,
+      "name": "Chavo F\u00e9lix",
+      "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 140341,
       "name": "Bien Firme el Sombrero",
       "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Los Pasajes Del Sera",
+      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
     },
     {
       "added_at": null,

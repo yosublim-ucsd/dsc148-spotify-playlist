@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Automotivo do Velho",
+        "url": "https://open.spotify.com/album/4csAlsO74B9YVcFqkXeLme"
+      },
+      "artists": [
+        {
+          "name": "DJ CZ",
+          "url": "https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Automotivo do Velho",
+      "url": "https://open.spotify.com/track/2e9YEDE6CkOsJC1qNyHqVk"
+    },
+    {
+      "album": {
         "name": "Automotivo dos Maloqueiro Chique",
         "url": "https://open.spotify.com/album/3ROvdfNMXWMwEuXhYTkfBR"
       },
@@ -2586,6 +2608,10 @@
         {
           "name": "Mc Kitinho",
           "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "DJ Lukas Matheus",
+          "url": "https://open.spotify.com/artist/7sPsy5FMTkslbHy9PGaoFz"
         }
       ],
       "date_added": "2024-11-06",
@@ -3416,7 +3442,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 102732,
       "name": "Mega das Tchutchuca",
       "url": "https://open.spotify.com/track/04kc5SEMpaNQXzZakiAOUv"
@@ -4512,7 +4538,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 107651,
       "name": "MTG DIAMANTE ROSA 2",
       "url": "https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e"
@@ -4688,6 +4714,28 @@
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
+    },
+    {
+      "album": {
+        "name": "MTG Perna Bamba X Piranhas do Helipa",
+        "url": "https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0"
+      },
+      "artists": [
+        {
+          "name": "Detagaz",
+          "url": "https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7"
+        },
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "MTG Perna Bamba X Piranhas do Helipa",
+      "url": "https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k"
     },
     {
       "album": {
@@ -6123,6 +6171,32 @@
     },
     {
       "album": {
+        "name": "RITMADA PODEROSA",
+        "url": "https://open.spotify.com/album/0nqri7shhJOaeoggRFk17c"
+      },
+      "artists": [
+        {
+          "name": "DJ KOALA6",
+          "url": "https://open.spotify.com/artist/4z1BLn6IDIM63tY397l7DV"
+        },
+        {
+          "name": "DJ ROBOCOP MF",
+          "url": "https://open.spotify.com/artist/2j7P1Of6EzzCcHfC7tNzkq"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "RITMADA PODEROSA",
+      "url": "https://open.spotify.com/track/13JOBGfXB8KZGqVbho2bjJ"
+    },
+    {
+      "album": {
         "name": "Ritmada Solitude",
         "url": "https://open.spotify.com/album/4a6CPnvfSd0eRkERXpBpG5"
       },
@@ -6734,7 +6808,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 155999,
       "name": "Solteiro Eu Vim",
       "url": "https://open.spotify.com/track/6y5M6WzSUJnSSoVUrRaLEb"

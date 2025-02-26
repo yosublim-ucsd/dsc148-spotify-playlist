@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Red Tips
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,703 likes - 102 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,738 likes - 102 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

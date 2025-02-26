@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 301201,
+  "num_followers": 301287,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADD3sC+RFf+z02gQuVJcSmb",
+  "snapshot_id": "Z7u2gAAAAACHU7XMKDNChmeVRb8xGf8F",
   "tracks": [
     {
       "added_at": null,
@@ -347,54 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "The Great Southern Trendkill",
-      "url": "https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 336800,
-      "name": "Shedding Skin",
-      "url": "https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Heresy",
-      "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
@@ -420,9 +372,41 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 293360,
-      "name": "War Nerve",
-      "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
+      "duration_ms": 226973,
+      "name": "The Great Southern Trendkill",
+      "url": "https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Heresy",
+      "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 336800,
+      "name": "Shedding Skin",
+      "url": "https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 262328,
       "name": "Piss",
       "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 293360,
+      "name": "War Nerve",
+      "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "13 Steps to Nowhere",
-      "url": "https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234733,
       "name": "The Badge",
       "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "13 Steps to Nowhere",
+      "url": "https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg"
     },
     {
       "added_at": null,

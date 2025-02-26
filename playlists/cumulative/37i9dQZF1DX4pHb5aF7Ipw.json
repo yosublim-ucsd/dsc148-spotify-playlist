@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 177429,
       "name": "3 Case",
       "url": "https://open.spotify.com/track/29LOwNLNY7U5gbrtDQhS6r"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 137608,
       "name": "Assault",
       "url": "https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 149245,
       "name": "Baari Barsi",
       "url": "https://open.spotify.com/track/2HGJVQdduQ756MmKArW0Vj"
@@ -976,6 +976,28 @@
       "duration_ms": 184133,
       "name": "Bars",
       "url": "https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu"
+    },
+    {
+      "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/1fcRpiXs5buxclAyIuf94o"
+      },
+      "artists": [
+        {
+          "name": "AMMAR MASOOD",
+          "url": "https://open.spotify.com/artist/43t5vqZBRFrsQJ0vGInGyu"
+        },
+        {
+          "name": "Yaseer",
+          "url": "https://open.spotify.com/artist/2WSVBRkDf0GpeJIpd4DvQk"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147908,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/0g75t3LGYKsgXpDqlniROe"
     },
     {
       "album": {
@@ -1200,6 +1222,36 @@
       "duration_ms": 178714,
       "name": "Brat",
       "url": "https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU"
+    },
+    {
+      "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/0RDHT989Hs3izZbbhQqvWC"
+      },
+      "artists": [
+        {
+          "name": "Arun Singh Chaudhary",
+          "url": "https://open.spotify.com/artist/6Yeho4e5KHwrBGFxdjNlSG"
+        },
+        {
+          "name": "Benaam",
+          "url": "https://open.spotify.com/artist/2x0zFNXOY0EQACujRbFnSw"
+        },
+        {
+          "name": "Lil Graven",
+          "url": "https://open.spotify.com/artist/3sCsht8mD9tbgQ5c71kfhk"
+        },
+        {
+          "name": "Shabbey",
+          "url": "https://open.spotify.com/artist/5AYkTKXRIrMZjeUtQbG2jg"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/4pWWdpUShpU9bVD4wXGNMQ"
     },
     {
       "album": {
@@ -4292,7 +4344,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 136000,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/0ZB0r2hhVcletU076W6v9y"
@@ -4416,7 +4468,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 150461,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/5EQCNhTYfFaa0KQj2OZPm5"
@@ -4564,6 +4616,36 @@
       "duration_ms": 201351,
       "name": "LKLG",
       "url": "https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb"
+    },
+    {
+      "album": {
+        "name": "Love Notes",
+        "url": "https://open.spotify.com/album/0TYTGzlXa6oGMfI8XZor6m"
+      },
+      "artists": [
+        {
+          "name": "Astitva",
+          "url": "https://open.spotify.com/artist/6tO9ia9y2efWO6yFSH4K5I"
+        },
+        {
+          "name": "Jassh",
+          "url": "https://open.spotify.com/artist/4j0yFPOSu3vwaKxWtOWntI"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/434HdejzZWLiCHmYxf3X16"
+        },
+        {
+          "name": "Ridham",
+          "url": "https://open.spotify.com/artist/5Maz3EzwoyITVZQtNjDlG1"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240004,
+      "name": "Love Notes",
+      "url": "https://open.spotify.com/track/74HszKtY9vNFbmuBr8r40A"
     },
     {
       "album": {
@@ -4772,6 +4854,24 @@
       "duration_ms": 171818,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/50Lze6WoYp3VEjtc5HqvLL"
+    },
+    {
+      "album": {
+        "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+        "url": "https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+      "url": "https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO"
     },
     {
       "album": {
@@ -6992,7 +7092,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 173716,
       "name": "Statement",
       "url": "https://open.spotify.com/track/0nhMNbpjXFDJCAyAoorfMN"

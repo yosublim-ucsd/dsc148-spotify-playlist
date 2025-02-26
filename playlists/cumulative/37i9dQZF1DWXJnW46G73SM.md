@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
+> أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,385 songs - 3 day 5 hr 23 min
+1,386 songs - 3 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,7 +661,7 @@
 | [Mosalsalat](https://open.spotify.com/track/7rbl7UQRa8MLltMQW29edv) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mosalsalat](https://open.spotify.com/album/0qyEh9mvyiq8rLJ5fG5Z2g) | 3:11 | 2024-12-06 | 2025-01-17 |
 | [Msh 2Ad El Ma2am](https://open.spotify.com/track/3HC6Cy165NIrN3uOPAAfBY) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Msh 2Ad El Ma2am](https://open.spotify.com/album/1SnMnQAvI7oQEAwcJAbk1F) | 2:46 | 2024-05-08 | 2024-07-12 |
 | [MSH 3AYZAK](https://open.spotify.com/track/0WDz7KOiwEdORLIo92ByWx) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MSH 3AYZAK](https://open.spotify.com/album/1UhM55r4MlBnSV2RYSXTkm) | 2:23 | 2024-02-29 | 2024-03-07 |
-| [Msh Ader Atakhataky](https://open.spotify.com/track/4wQ8PcHWCSga9ievZrde00) | [Youssef Ismail](https://open.spotify.com/artist/2aAgaRA0NfWZbNJ3aVWVV7) | [Msh Ader Atakhataky](https://open.spotify.com/album/50kq19AeSteU0wtdiLqIUZ) | 3:53 | 2025-01-17 |  |
+| [Msh Ader Atakhataky](https://open.spotify.com/track/4wQ8PcHWCSga9ievZrde00) | [Youssef Ismail](https://open.spotify.com/artist/2aAgaRA0NfWZbNJ3aVWVV7) | [Msh Ader Atakhataky](https://open.spotify.com/album/50kq19AeSteU0wtdiLqIUZ) | 3:53 | 2025-01-17 | 2025-02-26 |
 | [Msh Hawasek](https://open.spotify.com/track/5QWusjaFjFTZRF38SMPicd) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [Msh Hawasek](https://open.spotify.com/album/02nHvDyL80P6WsXhqLJEPz) | 2:41 | 2024-02-09 | 2024-03-30 |
 | [Msh Kitir](https://open.spotify.com/track/7jJD6CVCSFSfDFBNOmZ6cU) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Msh Kitir](https://open.spotify.com/album/7cNB5o7HwVLId2BNKRTmjX) | 3:55 | 2025-01-13 | 2025-02-21 |
 | [Mvp](https://open.spotify.com/track/3b21MKsXitsDlZDE8VFLn8) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Mvp](https://open.spotify.com/album/7yHNAHKMirKVYOWG9l9kTF) | 2:28 | 2023-05-04 | 2023-06-09 |
@@ -1116,6 +1116,7 @@
 | [رقصة الوداع](https://open.spotify.com/track/0UrrIFaHxqEDok5K9XUEzT) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [رقصة الوداع](https://open.spotify.com/album/0wPUCPmfiiv5EgFnf7aJqP) | 3:10 | 2025-01-30 |  |
 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 | 2023-08-15 | 2023-09-29 |
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
+| [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 | 2025-02-25 |  |
 | [زلزال في قلبي](https://open.spotify.com/track/5GkKqh4B8Xla0hz2ydwDjt) | [Mais Hamdan](https://open.spotify.com/artist/2bNO552fJhTniGHpzsyo3J) | [زلزال في قلبي](https://open.spotify.com/album/2e3qvheIVxVd53oWITQZ2v) | 3:13 | 2024-06-13 | 2024-07-25 |
 | [زمان و جبر](https://open.spotify.com/track/1L2lFIpliOVvLjNcxqiWtD) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [زمان و جبر](https://open.spotify.com/album/38T6E0kvxCHnt34wtc5DCk) | 3:54 | 2024-09-26 | 2025-01-25 |
 | [زي اخته](https://open.spotify.com/track/1BU4bq0P5GLKYfGXJtIryR) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زي اخته](https://open.spotify.com/album/7ggAEl5o4dljOnMX6EYbUq) | 2:19 | 2024-11-07 | 2024-11-29 |

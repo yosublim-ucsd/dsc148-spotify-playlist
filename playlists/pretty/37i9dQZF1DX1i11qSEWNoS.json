@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 609222,
+  "num_followers": 609317,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,22 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -619,22 +623,18 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -831,6 +831,26 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Agent Zed",
-          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
         "name": "Lila Wolken - EP",
         "url": "https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -1703,6 +1703,46 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2QG7NUjK3TYm1qNTyqRnDd"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Nik Sitz",
+          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
+        }
+      ],
+      "duration_ms": 241519,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0KC0gOIXRiJohCEBS5aaUl"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
+        "name": "Paradies",
+        "url": "https://open.spotify.com/album/6Kyd3AsrRrRo3SZQ94E4fy"
+      },
+      "artists": [
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Vivi Minu",
+          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
+        }
+      ],
+      "duration_ms": 137592,
+      "name": "Paradies",
+      "url": "https://open.spotify.com/track/3o56QtQiW1m2Uaeri2XzJj"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -1727,26 +1767,6 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/2QG7NUjK3TYm1qNTyqRnDd"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Nik Sitz",
-          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
-        }
-      ],
-      "duration_ms": 241519,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/0KC0gOIXRiJohCEBS5aaUl"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
         "name": "UNISEXKLO",
         "url": "https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 126542,
       "name": "UNISEXKLO",
       "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
-        "name": "Paradies",
-        "url": "https://open.spotify.com/album/6Kyd3AsrRrRo3SZQ94E4fy"
-      },
-      "artists": [
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        },
-        {
-          "name": "Vivi Minu",
-          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
-        }
-      ],
-      "duration_ms": 137592,
-      "name": "Paradies",
-      "url": "https://open.spotify.com/track/3o56QtQiW1m2Uaeri2XzJj"
     },
     {
       "added_at": "2025-02-24 10:12:54",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2025-02-24 10:12:54",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2025-02-24 10:12:54",
+      "album": {
         "name": "N\u00dcCHTERN",
         "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 195125,
       "name": "N\u00dcCHTERN",
       "url": "https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q"
-    },
-    {
-      "added_at": "2025-02-24 10:12:54",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121771,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     }
   ],
   "unique_name": "schiebt anders",

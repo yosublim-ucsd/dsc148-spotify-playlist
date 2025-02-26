@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 104170,
+  "num_followers": 104190,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -331,8 +331,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -519,8 +519,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Albedo 0.39",
-        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 344293,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Keys To Imagination",
-      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "San",
         "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Keys To Imagination",
+      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Oasis [Remastered]",
         "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 332786,
-      "name": "Living Your Ending",
-      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ki",
         "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 418666,
       "name": "Chi",
       "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 332786,
+      "name": "Living Your Ending",
+      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 141613,
-      "name": "Zen Garden of the Soul Part I",
-      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 141613,
+      "name": "Zen Garden of the Soul Part I",
+      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "The First Seven Days",
         "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Glide/Star Gazer",
-        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
       "artists": [
         {
-          "name": "Peter Davison",
-          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 505733,
-      "name": "Glide III",
-      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1379,6 +1363,22 @@
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Glide/Star Gazer",
+        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+      },
+      "artists": [
+        {
+          "name": "Peter Davison",
+          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+        }
+      ],
+      "duration_ms": 505733,
+      "name": "Glide III",
+      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
     },
     {
       "added_at": "2023-08-18 14:02:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,751 likes - 81 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,770 likes - 81 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

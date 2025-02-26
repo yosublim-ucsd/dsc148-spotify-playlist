@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,221 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,228 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 16 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 |
 | 17 | [Sounds Sad, Count Me In](https://open.spotify.com/track/3X7k84W4ZEQdCViQFZkF4H) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [Sounds Sad, Count Me In](https://open.spotify.com/album/1PYzRr2Sc2Q6zLcuyaftYI) | 2:41 |
 | 18 | [RIGHT TURN ON RED](https://open.spotify.com/track/0w3QggJrL5NujLy4wAkQno) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [Jump Start](https://open.spotify.com/album/7g3s82IzIJx7JPowahCrBR) | 2:18 |
-| 19 | [Ouss Ouss](https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Yikes](https://open.spotify.com/artist/18IoM4TIRE1Eaqi0SjlF4w) | [Come Round](https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W) | 6:03 |
+| 19 | [Ouss Ouss](https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Yikes](https://open.spotify.com/artist/0ZQ8cND6EyXIO588Wxezi1) | [Come Round](https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W) | 6:03 |
 | 20 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 |
 | 21 | [Blow Up the Speakers \- Vocal Radio Edit](https://open.spotify.com/track/6CdgkSWJyGUCJMgfwFAG05) | [The Moon](https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC), [DJ Ghost](https://open.spotify.com/artist/6ZIKPrjoaYURaSRnwPw1pg) | [Blow Up the Speakers](https://open.spotify.com/album/2SiwRH2YiyEhe82Jb4jYiy) | 3:28 |
 | 22 | [REDLINE](https://open.spotify.com/track/6ex7hJ472Bsdmaa3T5SK58) | [Fresh Hex](https://open.spotify.com/artist/70l8cTaZCtfsy0woXdUBr3) | [REDLINE](https://open.spotify.com/album/4bwb1zOLu3y4BbEnzHFntO) | 2:25 |

@@ -2,9 +2,9 @@
 
 ### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
 
-> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Sech
+> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Juliana y Piso 21
 
-380 songs - 19 hr 58 min
+381 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/album/26Mksnxwl6TQAJ5FGdQGsm) | 2:53 | 2023-04-14 | 2023-05-19 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-04-14 | 2023-05-20 |
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2022-04-01 | 2022-04-09 |
+| [Aurora](https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:57 | 2025-02-26 |  |
 | [Aurora \- Remix](https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aurora \(Remix\)](https://open.spotify.com/album/3dgoNFp7Rdw1KBH3n5YIAO) | 4:02 | 2022-10-21 | 2023-02-25 |
 | [Ay Mi Moreno](https://open.spotify.com/track/67PusnLUFSD3Geed8IhkED) | [Micheille Soifer](https://open.spotify.com/artist/5ZzuIr5IQbqJdQksiK23pN) | [Ay Mi Moreno](https://open.spotify.com/album/1MAX1nHH985JUlpMdVReIg) | 2:47 | 2023-02-24 | 2023-03-11 |
 | [Azucena](https://open.spotify.com/track/6Fyl1WowJ2Syk0eWgp5kL4) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [SOL](https://open.spotify.com/album/0AS4mfPxoTXSVHXa96pxFG) | 3:50 | 2024-11-08 |  |
@@ -62,7 +63,7 @@
 | [Besos en Cualquier Horario](https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Besos en Cualquier Horario](https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h) | 3:00 | 2021-12-10 | 2023-04-15 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-08 | 2023-10-31 |
 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 | 2022-04-01 | 2022-04-29 |
-| [BLUE](https://open.spotify.com/track/3N6aO0ADLIuiCWZTAQVX0P) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [NAVIDAD BROKIX](https://open.spotify.com/album/3LRBFjka7gdF0K27pEpavX) | 3:03 | 2024-12-20 |  |
+| [BLUE](https://open.spotify.com/track/3N6aO0ADLIuiCWZTAQVX0P) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [NAVIDAD BROKIX](https://open.spotify.com/album/3LRBFjka7gdF0K27pEpavX) | 3:03 | 2024-12-20 | 2025-02-26 |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-24 | 2024-01-27 |
 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 | 2023-06-16 | 2023-07-01 |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-02-24 | 2023-03-18 |

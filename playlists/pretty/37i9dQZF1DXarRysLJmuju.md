@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Selena Gomez, Gracie Abrams, benny blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,259 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,256 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Hopeless Sinners](https://open.spotify.com/track/3Q9CroLbbZzioLrN5Fn05k) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Hopeless Sinners](https://open.spotify.com/album/0MGGzJzPewX1rUcL2pQfYR) | 2:49 |
 | 100 | [BUNNY VALENTINE](https://open.spotify.com/track/0DC86BV7PEg1owrmIYD6iP) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [VERMIN](https://open.spotify.com/album/7i6p8KqXxnb9dTcDJUqNZN) | 2:54 |
 
-Snapshot ID: `Z7y69QAAAADYyZQybc3V4DsrrpLYlCBf`
+Snapshot ID: `Z7y69QAAAAAv77YXdECRpcW2rIMfbpTC`

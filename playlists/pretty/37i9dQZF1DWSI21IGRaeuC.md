@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,534 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,585 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 70 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
 | 71 | [KILO \- Beltran Remix](https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [KILO \(Beltran Remix\)](https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5) | 4:07 |
 | 72 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
-| 73 | [Check One](https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:38 |
-| 74 | [First Light](https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd) | [Pedro Borlado](https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7) | [First Light](https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC) | 3:58 |
+| 73 | [First Light](https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd) | [Pedro Borlado](https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7) | [First Light](https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC) | 3:58 |
+| 74 | [Check One](https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:38 |
 | 75 | [Provenance](https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Provenance](https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk) | 6:41 |
 | 76 | [Flawless](https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Flawless](https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R) | 3:20 |
 | 77 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 93 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
 | 94 | [Sample Inspector](https://open.spotify.com/track/0o7rsjC9mkIMGitGsCV8h9) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Sample Inspector](https://open.spotify.com/album/1NEN6bWbdgfp4ONkbPU1IK) | 2:45 |
 | 95 | [Move](https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Move](https://open.spotify.com/album/3NYXKYSAO7WwAv2gnIlm7H) | 3:11 |
-| 96 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
-| 97 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
+| 96 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
+| 97 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
 | 98 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
 | 99 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
 | 100 | [She Wants Bass](https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:31 |

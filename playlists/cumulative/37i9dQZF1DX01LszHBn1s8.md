@@ -4,7 +4,7 @@
 
 > 🕯🪽🪦🥀🕊️💔 Duo Keyshauna Renee Lingo 💔🕊️🥀🪦🪽🕯
 
-1,586 songs - 3 day 11 hr 39 min
+1,587 songs - 3 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [Resonance](https://open.spotify.com/track/2BGm83eW9sQfwYfQlpBDNS) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/7zEy6OO8aC1sy6T7LwdfKQ) | 3:32 | 2024-02-14 | 2024-04-19 |
 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 | 2023-03-17 | 2025-01-08 |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-05-19 | 2025-01-08 |
+| [Revolving door](https://open.spotify.com/track/3gZqHdjeKghI5QFjTdOWCU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:00 | 2025-02-25 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2022-05-19 | 2025-01-08 |
 | [RICH BOY](https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK) | 1:51 | 2022-05-19 | 2025-01-08 |
 | [RICH BOY](https://open.spotify.com/track/5BEZtiV4ClWO0L2J0Mw7Hf) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/6iihdebiznsKuJbDvFpG9W) | 1:51 | 2022-10-06 | 2024-04-19 |

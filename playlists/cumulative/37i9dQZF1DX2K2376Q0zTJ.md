@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青山テルマ
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: LANA, Medusa Aria, E.V.P, IFE
 
-1,291 songs - 3 day 4 hr 5 min
+1,293 songs - 3 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-07-04 | 2023-09-06 |
 | [Harmless](https://open.spotify.com/track/4nnYvkLwUwIzCUnJQ0osTt) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Taiyokohatsuden](https://open.spotify.com/album/6snu9BjWt7YslUxT1DXpxe) | 2:43 | 2023-02-28 | 2023-04-05 |
 | [harutosyura](https://open.spotify.com/track/3Gqon3Og4agJcIzjwzs2o9) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 5:02 | 2023-04-04 | 2023-05-03 |
-| [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 | 2024-10-22 |  |
+| [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 | 2024-10-22 | 2025-02-26 |
 | [hatred feel](https://open.spotify.com/track/19PcleRjgt50LOpnxqpbny) | [she said](https://open.spotify.com/artist/0xGBwDsVk0dHcZxcm7W0iD) | [So Lonely but Never Alone](https://open.spotify.com/album/037ZxpDnCVa97IpulxhlS2) | 3:08 | 2022-05-04 | 2022-06-01 |
 | [heart drumn](https://open.spotify.com/track/71Dmm2c94SWE36kk6yRG1a) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [heart drumn](https://open.spotify.com/album/5VJRYX3AoJHsNRjAmfP6hH) | 2:39 | 2024-09-24 | 2024-10-23 |
 | [Heart Shakes](https://open.spotify.com/track/0GLI8mexnUIoA4smC92dnx) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Heart Shakes](https://open.spotify.com/album/631mKo4JBNHoX1u1MgLQzy) | 3:17 | 2024-10-22 | 2024-12-05 |
@@ -584,7 +584,7 @@
 | [Old Fashioned](https://open.spotify.com/track/0yhssomPAIOv4cL3HwIAzN) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Old Fashioned](https://open.spotify.com/album/791Y0tkLWKDUzXKyEp89IG) | 3:22 | 2022-04-05 | 2022-05-05 |
 | [Omokage](https://open.spotify.com/track/0GUOzPGEMADiL0oSHimQ0G) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A.O.U](https://open.spotify.com/album/0mBkpjLhZlFr8xqcOWfRog) | 4:00 | 2022-12-06 | 2023-09-06 |
 | [ON](https://open.spotify.com/track/0VyK2oBDqDuZXKRn3vUkT6) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Orbit](https://open.spotify.com/album/5Y95h3smPs2ihUnfe06Mi5) | 3:18 | 2025-02-11 |  |
-| [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 | 2022-05-04 |  |
+| [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 | 2022-05-04 | 2025-02-26 |
 | [on my Side](https://open.spotify.com/track/7iyfDLXG80sHowlgbWR5t5) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 3:24 | 2024-12-04 | 2025-01-18 |
 | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/track/1mKjl4KEhTa3UGCJ2NDU7y) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [New Beautiful](https://open.spotify.com/album/6DQTtGy06K7dcHZMPqO7sW) | 4:14 | 2024-02-06 | 2024-03-06 |
 | [One Last Girl](https://open.spotify.com/track/37ZoA2fQb0R2kB9DTIw6ta) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [One Last Girl](https://open.spotify.com/album/011BhP87Mvcp9f7LHkF7OD) | 4:05 | 2022-03-07 | 2022-04-06 |
@@ -1109,6 +1109,7 @@
 | [ラッキーカラー](https://open.spotify.com/track/51wVMgIHAGqTZxlgNJN11K) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [がんばれ!メロディー](https://open.spotify.com/album/5sKz8vVkaJ73RTjh0X7dEc) | 4:07 | 2023-01-03 | 2023-02-02 |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-09-06 | 2022-10-05 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-02-01 | 2023-03-01 |
+| [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 | 2025-02-25 |  |
 | [ラプンツェル](https://open.spotify.com/track/4KVLQskGbPredtpKNRFxYz) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ラプンツェル](https://open.spotify.com/album/4U0iZAEJ0yg0FPE9gtSSmp) | 3:35 | 2023-11-07 | 2023-11-30 |
 | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-04-04 | 2023-05-03 |
 | [ラヴィング](https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ラヴィング](https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq) | 3:44 | 2024-01-09 | 2024-02-07 |
@@ -1285,6 +1286,7 @@
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-09-06 | 2022-10-05 |
 | [金木犀の夜](https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 4:05 | 2023-11-07 | 2023-11-30 |
 | [鉄線](https://open.spotify.com/track/7bfHQu3qAiViVs2Obeb0pA) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 3:27 | 2022-01-04 | 2022-02-02 |
+| [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 | 2025-02-25 |  |
 | [雨が満ちれば](https://open.spotify.com/track/33sCZggMbJ7IjWYjxsB19c) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [雨が満ちれば](https://open.spotify.com/album/2nJ8dJi5bCeqVKlz3d54k4) | 3:29 | 2025-01-17 | 2025-01-29 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-02-01 | 2022-03-08 |
 | [霞草](https://open.spotify.com/track/5WciyPOjKYlhrLRH1DXaFb) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Absence](https://open.spotify.com/album/7xxeWgLplIIBlArngZz3iu) | 4:04 | 2022-01-04 | 2022-02-02 |

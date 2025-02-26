@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 36587,
+  "num_followers": 36592,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
-        "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
-        "url": "https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs"
-      },
-      "artists": [
-        {
-          "name": "L\u01b0u \u00c1nh Loan",
-          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
-        }
-      ],
-      "duration_ms": 348799,
-      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
-      "url": "https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z"
-    },
-    {
-      "added_at": "2025-02-06 08:18:03",
-      "album": {
         "name": "Nhac Tuyen 2",
         "url": "https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 292091,
       "name": "Ai Kho Vi Ai",
       "url": "https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD"
+    },
+    {
+      "added_at": "2025-02-06 08:18:03",
+      "album": {
+        "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
+        "url": "https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u \u00c1nh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        }
+      ],
+      "duration_ms": 348799,
+      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
+      "url": "https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z"
     },
     {
       "added_at": "2025-02-06 08:18:03",
@@ -779,22 +779,18 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
-        "name": "Tr\u00fac Ph\u01b0\u01a1ng - \u00d4ng Ho\u00e0ng C\u1ee7a D\u00f2ng Nh\u1ea1c Bolero",
-        "url": "https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx"
+        "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
+        "url": "https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO"
       },
       "artists": [
         {
-          "name": "Thanh Phong",
-          "url": "https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc"
-        },
-        {
-          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
-          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
+          "name": "Kh\u00e1nh B\u00ecnh",
+          "url": "https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO"
         }
       ],
-      "duration_ms": 305301,
-      "name": "\u0110\u00f2 chi\u1ec1u",
-      "url": "https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi"
+      "duration_ms": 288466,
+      "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
+      "url": "https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40"
     },
     {
       "added_at": "2025-02-06 08:18:03",
@@ -815,6 +811,26 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
+        "name": "Tr\u00fac Ph\u01b0\u01a1ng - \u00d4ng Ho\u00e0ng C\u1ee7a D\u00f2ng Nh\u1ea1c Bolero",
+        "url": "https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx"
+      },
+      "artists": [
+        {
+          "name": "Thanh Phong",
+          "url": "https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
+          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
+        }
+      ],
+      "duration_ms": 305301,
+      "name": "\u0110\u00f2 chi\u1ec1u",
+      "url": "https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi"
+    },
+    {
+      "added_at": "2025-02-06 08:18:03",
+      "album": {
         "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
         "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 273393,
       "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
       "url": "https://open.spotify.com/track/7J9kYCDB02eCdaXiE1S0MZ"
-    },
-    {
-      "added_at": "2025-02-06 08:18:03",
-      "album": {
-        "name": "Hoa No Ve Dem",
-        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Dung",
-          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
-        }
-      ],
-      "duration_ms": 268022,
-      "name": "Nhung Dom Mat Hoa Chau",
-      "url": "https://open.spotify.com/track/5GBRcENiqamCztJOUE5xyK"
     },
     {
       "added_at": "2025-02-06 08:18:03",

@@ -2,7 +2,7 @@
 
 ### [Doraemon The Movie](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
 
-> Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
+> Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
 
 52 songs - 3 hr 37 min
 

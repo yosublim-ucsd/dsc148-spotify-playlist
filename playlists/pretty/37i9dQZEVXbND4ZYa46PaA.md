@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,607 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,609 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
 | 50 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
 
-Snapshot ID: `L0/goAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1EyIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

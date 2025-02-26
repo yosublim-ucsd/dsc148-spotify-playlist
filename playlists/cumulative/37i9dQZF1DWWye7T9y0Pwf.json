@@ -2513,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "bunnybunnybunny",
+        "url": "https://open.spotify.com/album/2nrBNBlSlBfLNmltiQoDuq"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88040,
+      "name": "bunnybunnybunny",
+      "url": "https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk"
+    },
+    {
+      "album": {
         "name": "Burundanger",
         "url": "https://open.spotify.com/album/0PtH1S5mty6k0ksAVNNlF7"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 367000,
       "name": "Calippo",
       "url": "https://open.spotify.com/track/29pDqr9tx8pXfCRvcaM4QH"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 404889,
       "name": "Charming",
       "url": "https://open.spotify.com/track/3CAqQKyTpm4CUEYAGUTThF"
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 94222,
       "name": "Club Amour / Intro (feat. iKeda, The Femcels)",
       "url": "https://open.spotify.com/track/0rCfOEKsb8eXLPCgyJwN1u"
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 208000,
       "name": "ETC",
       "url": "https://open.spotify.com/track/3YGhlAwShsKbLC93iIrzb0"
@@ -5955,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "Versus 2",
+        "url": "https://open.spotify.com/album/4V5E3xLKMrudSY0m6rvOJb"
+      },
+      "artists": [
+        {
+          "name": "DNGDNGDNG",
+          "url": "https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223337,
+      "name": "Gateo",
+      "url": "https://open.spotify.com/track/2MqjfPI6b63Xl37ePAWwGM"
+    },
+    {
+      "album": {
         "name": "The Booty House Collection",
         "url": "https://open.spotify.com/album/5knyj8FdB73XAWGaCTXvIa"
       },
@@ -6372,7 +6408,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 248470,
       "name": "goodbye <3",
       "url": "https://open.spotify.com/track/6hH7gPjLn24Xbcu7rqx1Va"
@@ -7814,7 +7850,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 186000,
       "name": "Komum",
       "url": "https://open.spotify.com/track/5mnfDivMdfn9mbi9WDJrBh"
@@ -8498,10 +8534,36 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 248000,
       "name": "Luna \u00e1cida",
       "url": "https://open.spotify.com/track/4BEASlpIsdscCzJwUo7DbU"
+    },
+    {
+      "album": {
+        "name": "Luna \u00e1cida (Balam Club Mix)",
+        "url": "https://open.spotify.com/album/36QkPnraHmAOP0kklwt99F"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Balam",
+          "url": "https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL"
+        },
+        {
+          "name": "Fuera",
+          "url": "https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Luna \u00e1cida - Balam Club Mix",
+      "url": "https://open.spotify.com/track/1ZPumVevpVv55X7z3SuQn8"
     },
     {
       "album": {
@@ -10029,6 +10091,24 @@
     },
     {
       "album": {
+        "name": "La Dorada",
+        "url": "https://open.spotify.com/album/59hN8bbUjrBW3lWaiPkQYM"
+      },
+      "artists": [
+        {
+          "name": "Tibi Dabo",
+          "url": "https://open.spotify.com/artist/3PbY6HSGOo5aqdo2TGo5ye"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458338,
+      "name": "No Mantra",
+      "url": "https://open.spotify.com/track/5BeppTbYNEBgVi22rJfEHk"
+    },
+    {
+      "album": {
         "name": "Polyriddim",
         "url": "https://open.spotify.com/album/19p9yvvtAgDJWcAXa6orZ0"
       },
@@ -10376,6 +10456,24 @@
       "duration_ms": 290969,
       "name": "Objetos enterrados",
       "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
+    },
+    {
+      "album": {
+        "name": "megacity1000",
+        "url": "https://open.spotify.com/album/7m0McBqvOHZx8K9bILJ7vL"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2rmTaigCEjze3R7qpe9rWc"
     },
     {
       "album": {
@@ -10957,6 +11055,24 @@
     },
     {
       "album": {
+        "name": "A Line Alone",
+        "url": "https://open.spotify.com/album/7n076Zp8TusUjfBY7Ck9Te"
+      },
+      "artists": [
+        {
+          "name": "s8jfou",
+          "url": "https://open.spotify.com/artist/60NIqlhD0iCriLzDTdW51N"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132298,
+      "name": "Pebble C",
+      "url": "https://open.spotify.com/track/5NCehUUyJfDMhUqt0AM1Jw"
+    },
+    {
+      "album": {
         "name": "Pelle di Luna",
         "url": "https://open.spotify.com/album/3TRgOTbfEChBvkASMuoAfK"
       },
@@ -11478,7 +11594,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 235725,
       "name": "Prototipo",
       "url": "https://open.spotify.com/track/6M6BFzxZnyusuZcCAbxK7K"
@@ -11820,7 +11936,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 245333,
       "name": "Ratra",
       "url": "https://open.spotify.com/track/3Uo2GIBHKLwuzjrsNKrGhs"
@@ -12084,6 +12200,28 @@
       "duration_ms": 312413,
       "name": "Requiem for a Hit",
       "url": "https://open.spotify.com/track/1prgTVhmJG4fv8sPPFzXGS"
+    },
+    {
+      "album": {
+        "name": "Chimborazo / Resbala",
+        "url": "https://open.spotify.com/album/4mpXxe7oezXtVVMWAENi47"
+      },
+      "artists": [
+        {
+          "name": "Entra\u00f1as",
+          "url": "https://open.spotify.com/artist/5yWDRD9Mxe9b50KZl61gJX"
+        },
+        {
+          "name": "Selvagia",
+          "url": "https://open.spotify.com/artist/3xfn3stHs1eGpOlocLTQZV"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Resbala",
+      "url": "https://open.spotify.com/track/2HWS02xm2AeoMkYv5vKXAx"
     },
     {
       "album": {
@@ -13000,10 +13138,32 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 286000,
       "name": "SELVA",
       "url": "https://open.spotify.com/track/0KgXyEQkPMwrRQxMrmc7VU"
+    },
+    {
+      "album": {
+        "name": "Miniteca Selv\u00e1tica",
+        "url": "https://open.spotify.com/album/6GBvv0diMLpAvU0cM7XkQ7"
+      },
+      "artists": [
+        {
+          "name": "WOST",
+          "url": "https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf"
+        },
+        {
+          "name": "Entra\u00f1as",
+          "url": "https://open.spotify.com/artist/5yWDRD9Mxe9b50KZl61gJX"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329794,
+      "name": "Selv\u00e1tica",
+      "url": "https://open.spotify.com/track/2Z1iOxtHIxurgghRGhhjsW"
     },
     {
       "album": {
@@ -14713,6 +14873,28 @@
     },
     {
       "album": {
+        "name": "Tides - Ripperton Mix, Till the End (Panoptikum Instrumental Mix)",
+        "url": "https://open.spotify.com/album/75LJI8TjuAxjezXFGMP8rq"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607720,
+      "name": "Tides (Ripperton Remix)",
+      "url": "https://open.spotify.com/track/2IesHklM8KBYDqBgGpeFws"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki Style",
         "url": "https://open.spotify.com/album/4Yihmb9OIMywaqoEqG4J8f"
       },
@@ -15084,6 +15266,24 @@
       "duration_ms": 583847,
       "name": "Tree Song",
       "url": "https://open.spotify.com/track/2lYCfrY6K50MyzBDruQsWE"
+    },
+    {
+      "album": {
+        "name": "Big Beat Manifesto Vol. X",
+        "url": "https://open.spotify.com/album/6ZMs76GAstuzZ74WIto8SU"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400083,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/5e0OaSdiOjah4FBpyD8qx9"
     },
     {
       "album": {

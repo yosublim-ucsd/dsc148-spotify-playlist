@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ela Taubert en portada.",
-  "num_followers": 89968,
+  "num_followers": 90000,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2025-02-21 06:00:07",
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Pretty GIRL",
+      "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
+    },
+    {
+      "added_at": "2025-02-21 06:00:07",
+      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
-    },
-    {
-      "added_at": "2025-02-21 06:00:07",
-      "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Pretty GIRL",
-      "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
     },
     {
       "added_at": "2025-02-21 06:00:07",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-02-21 06:00:07",
       "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "capricho",
+      "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
+    },
+    {
+      "added_at": "2025-02-21 06:00:07",
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 156467,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
-    },
-    {
-      "added_at": "2025-02-21 06:00:07",
-      "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 239324,
-      "name": "capricho",
-      "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
     },
     {
       "added_at": "2025-02-21 06:00:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-02-21 06:00:07",
       "album": {
-        "name": "Cobard\u00eda",
-        "url": "https://open.spotify.com/album/7rDhsYayebsbXQJo1125io"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Cobard\u00eda",
-      "url": "https://open.spotify.com/track/6ytpDlOTSlyFioKfSvExCZ"
-    },
-    {
-      "added_at": "2025-02-21 06:00:07",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
+    },
+    {
+      "added_at": "2025-02-21 06:00:07",
+      "album": {
+        "name": "Cobard\u00eda",
+        "url": "https://open.spotify.com/album/7rDhsYayebsbXQJo1125io"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cobard\u00eda",
+      "url": "https://open.spotify.com/track/6ytpDlOTSlyFioKfSvExCZ"
     }
   ],
   "unique_name": "Oye Pop",

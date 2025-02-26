@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 57348,
+  "num_followers": 57360,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -823,34 +823,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Danny Boy",
-          "url": "https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga"
-        },
-        {
-          "name": "Syke",
-          "url": "https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm"
-        },
-        {
-          "name": "C-PO",
-          "url": "https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV"
-        }
-      ],
-      "duration_ms": 314906,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "JEFFERY",
         "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
       },
@@ -875,6 +847,34 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Danny Boy",
+          "url": "https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga"
+        },
+        {
+          "name": "Syke",
+          "url": "https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm"
+        },
+        {
+          "name": "C-PO",
+          "url": "https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV"
+        }
+      ],
+      "duration_ms": 314906,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
     }
   ],
   "unique_name": "Steven Victor's Taste",

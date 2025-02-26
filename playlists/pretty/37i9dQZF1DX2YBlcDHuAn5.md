@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,701 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,707 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 2 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
 | 3 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
-| 4 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
-| 5 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 |
+| 4 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 |
+| 5 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 6 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 7 | [Can A Heart Take](https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Can A Heart Take](https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O) | 3:04 |
 | 8 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 30 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 31 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |
 | 32 | [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 |
-| 33 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
-| 34 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 |
+| 33 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 |
+| 34 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
 | 35 | [Angel By My Side](https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Angel By My Side](https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz) | 3:15 |
 | 36 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 |
 | 37 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 40 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
 | 41 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 |
 | 42 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 |
-| 43 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
-| 44 | [I Wasn’t Gonna](https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI) | 3:23 |
-| 45 | [Red White & Blue](https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Red White & Blue](https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj) | 2:47 |
+| 43 | [Red White & Blue](https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Red White & Blue](https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj) | 2:47 |
+| 44 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
+| 45 | [I Wasn’t Gonna](https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI) | 3:23 |
 | 46 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 |
 | 47 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
 | 48 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 |
-| 49 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 |
-| 50 | [Ready To Go Now](https://open.spotify.com/track/6pWLI7M2ecHX9nOxFQoMU3) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Autopilot](https://open.spotify.com/album/1WsYkqjd4EkVejkTcpS3Fw) | 3:27 |
+| 49 | [Ready To Go Now](https://open.spotify.com/track/6pWLI7M2ecHX9nOxFQoMU3) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Autopilot](https://open.spotify.com/album/1WsYkqjd4EkVejkTcpS3Fw) | 3:27 |
+| 50 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 |
 
 Snapshot ID: `Z7e0AAAAAAAYkYD/jCa/0tSxXsq9r84Q`

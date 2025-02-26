@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611094,
+  "num_followers": 611088,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "My Drummer's Girlfriend",
-        "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 157029,
-      "name": "My Drummer's Girlfriend",
-      "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "My Drummer's Girlfriend",
+        "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 157029,
+      "name": "My Drummer's Girlfriend",
+      "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Shadow (I'm Breaking Down)",
-        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
+        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
+        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
       },
       "artists": [
         {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        },
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
         }
       ],
-      "duration_ms": 218121,
-      "name": "Shadow (I'm Breaking Down)",
-      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
+      "duration_ms": 177213,
+      "name": "Poison or Patience (feat. OSTON)",
+      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
-        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
       },
       "artists": [
         {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        },
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Poison or Patience (feat. OSTON)",
-      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "The Matrix",
         "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
       },
@@ -1475,6 +1475,54 @@
       "duration_ms": 154025,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "All Comes Crashing",
+        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1499,38 +1547,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "All Comes Crashing",
-        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Too Late to Start Over",
-        "url": "https://open.spotify.com/album/64qrzqncu8wFubOIsUPuFk"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 220215,
-      "name": "Little Cup",
-      "url": "https://open.spotify.com/track/6uZIOBN8nph3sYzYgkGPt0"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Hate Me If You Want",
         "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 172855,
       "name": "Hate Me If You Want",
       "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Too Late to Start Over",
+        "url": "https://open.spotify.com/album/64qrzqncu8wFubOIsUPuFk"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 220215,
+      "name": "Little Cup",
+      "url": "https://open.spotify.com/track/6uZIOBN8nph3sYzYgkGPt0"
     },
     {
       "added_at": "2024-10-10 16:12:27",

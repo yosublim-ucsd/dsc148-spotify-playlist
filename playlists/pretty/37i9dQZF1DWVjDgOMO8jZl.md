@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Gli e le emergenti dell'anno in Italia per Spotify\. Cover: Coca Puma
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,336 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

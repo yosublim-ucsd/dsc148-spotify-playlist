@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47143,
+  "num_followers": 47151,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 186078,
-      "name": "Giovane e triste",
-      "url": "https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "No Hooks",
         "url": "https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192000,
       "name": "Neve",
       "url": "https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 186078,
+      "name": "Giovane e triste",
+      "url": "https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 149557,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Come Uccidere Un Usignolo (67 Edition)",
         "url": "https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 222880,
       "name": "Lei No (Il Tradito)",
       "url": "https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 149557,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "Servir\u00e0 La Pioggia",
         "url": "https://open.spotify.com/album/3HS2Yx5Jd2AYaNOz5b5JOW"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 158431,
       "name": "Servir\u00e0 La Pioggia",
       "url": "https://open.spotify.com/track/0xwZ2U4ANjCiwbHdrCMq0Y"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1395,26 +1395,6 @@
       "duration_ms": 148995,
       "name": "il mio miglior nemico",
       "url": "https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "gazzelle",
-        "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
-      },
-      "artists": [
-        {
-          "name": "Luca Land",
-          "url": "https://open.spotify.com/artist/2jm1zVWOscdOBrRNhntmdp"
-        },
-        {
-          "name": "Whellele",
-          "url": "https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF"
-        }
-      ],
-      "duration_ms": 158531,
-      "name": "gazzelle",
-      "url": "https://open.spotify.com/track/0Zn7wPg8aImvsjsXWggu7x"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "gazzelle",
+        "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
+      },
+      "artists": [
+        {
+          "name": "Luca Land",
+          "url": "https://open.spotify.com/artist/2jm1zVWOscdOBrRNhntmdp"
+        },
+        {
+          "name": "Whellele",
+          "url": "https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF"
+        }
+      ],
+      "duration_ms": 158531,
+      "name": "gazzelle",
+      "url": "https://open.spotify.com/track/0Zn7wPg8aImvsjsXWggu7x"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1535,6 +1515,26 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "nato per morire",
+        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "nato per morire",
+      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -1631,42 +1651,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "nato per morire",
-        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "nato per morire",
-      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1731,22 +1731,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
         },
         {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
         }
       ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
     }
   ],
   "unique_name": "ragazzo triste",

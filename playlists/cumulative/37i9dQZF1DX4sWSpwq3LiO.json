@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 154962,
       "name": "A Midnight Sun",
       "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 120941,
       "name": "Astray",
       "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 140102,
       "name": "Calm Wind",
       "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
@@ -4832,7 +4832,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 163027,
       "name": "Chanson d\u2019\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 123559,
       "name": "Close",
       "url": "https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57"
@@ -5804,7 +5804,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 182213,
       "name": "Countryside Mansion",
       "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
@@ -6114,7 +6114,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 138181,
       "name": "Dancing Dreams",
       "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
@@ -6690,7 +6690,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 163088,
       "name": "Desire paths",
       "url": "https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D"
@@ -8714,7 +8714,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 133916,
       "name": "Fino Mornasco",
       "url": "https://open.spotify.com/track/32pMHDcSZA6xD4cp9lk1aF"
@@ -8966,7 +8966,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 125375,
       "name": "floating points",
       "url": "https://open.spotify.com/track/4SBeIeXLiDqCH7YHRFgGkD"
@@ -9236,7 +9236,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 174866,
       "name": "for you",
       "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
@@ -9308,7 +9308,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
@@ -9618,6 +9618,24 @@
       "duration_ms": 111676,
       "name": "Friends without end",
       "url": "https://open.spotify.com/track/3txtZUnBLGOg3GGTORFCS1"
+    },
+    {
+      "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P"
+      },
+      "artists": [
+        {
+          "name": "Isora Hill",
+          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177898,
+      "name": "From A Distance",
+      "url": "https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8"
     },
     {
       "album": {
@@ -9960,7 +9978,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
@@ -10702,7 +10720,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 139312,
       "name": "Hearts of Desire",
       "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
@@ -11372,7 +11390,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 135470,
       "name": "Humanity",
       "url": "https://open.spotify.com/track/53XdJTeVZtu0nePZdbjNGp"
@@ -11718,7 +11736,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 127538,
       "name": "If You Should Go",
       "url": "https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw"
@@ -12834,7 +12852,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 192866,
       "name": "Jay",
       "url": "https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv"
@@ -14080,6 +14098,24 @@
       "duration_ms": 210999,
       "name": "Lava",
       "url": "https://open.spotify.com/track/4gtH4EmavpjGHTt2Pxo5wZ"
+    },
+    {
+      "album": {
+        "name": "lavande",
+        "url": "https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "lavande",
+      "url": "https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM"
     },
     {
       "album": {
@@ -16580,7 +16616,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 155080,
       "name": "Miles and Miles",
       "url": "https://open.spotify.com/track/4JYOZ0h4zzgnm1oPzsDVH6"
@@ -16796,7 +16832,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
@@ -17682,7 +17718,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 138301,
       "name": "My Story",
       "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
@@ -17754,7 +17790,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 125055,
       "name": "M\u00e1 sestra",
       "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
@@ -19120,7 +19156,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 129000,
       "name": "Olivanders",
       "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
@@ -19664,7 +19700,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 128914,
       "name": "Other Side of The Moon",
       "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
@@ -20096,7 +20132,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
@@ -20510,7 +20546,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 126401,
       "name": "Pine Scent",
       "url": "https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI"
@@ -21562,6 +21598,24 @@
       "duration_ms": 207348,
       "name": "Quiet Resource",
       "url": "https://open.spotify.com/track/5FoZCDCl6WhrAIm4Ygyjg7"
+    },
+    {
+      "album": {
+        "name": "Quiet Reverie",
+        "url": "https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS"
+      },
+      "artists": [
+        {
+          "name": "Siri Eijde",
+          "url": "https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Quiet Reverie",
+      "url": "https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og"
     },
     {
       "album": {
@@ -23294,7 +23348,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
@@ -25208,7 +25262,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 220266,
       "name": "Soulfaith",
       "url": "https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL"
@@ -25712,7 +25766,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
@@ -27542,7 +27596,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 174781,
       "name": "The Old Garden",
       "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
@@ -27650,7 +27704,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
@@ -27956,7 +28010,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 147535,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
@@ -28424,7 +28478,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 137749,
       "name": "To Bring Rest",
       "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
@@ -29288,7 +29342,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 130889,
       "name": "T\u00f4t le matin",
       "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
@@ -29414,7 +29468,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 138442,
       "name": "Under a tree",
       "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
@@ -29688,7 +29742,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 151500,
       "name": "Valse Delle Vigne",
       "url": "https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj"
@@ -30354,7 +30408,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 139411,
       "name": "Waitings",
       "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
@@ -30984,7 +31038,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 162047,
       "name": "When It\u00b4s Love",
       "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
@@ -31258,7 +31312,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 151288,
       "name": "Whispering Oaks",
       "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"

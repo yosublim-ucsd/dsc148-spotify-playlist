@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 46382,
+  "num_followers": 46387,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
-      "added_at": "2024-08-23 00:44:14",
-      "album": {
-        "name": "Pa\u00f1uelo De Seda",
-        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Pa\u00f1uelo De Seda",
-      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Canoga Madness",
@@ -747,6 +731,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2024-08-23 00:44:14",
+      "album": {
+        "name": "Pa\u00f1uelo De Seda",
+        "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Pa\u00f1uelo De Seda",
+      "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
     },
     {
       "added_at": "2022-09-30 03:44:30",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/2BoWBdHXrLpGw16FAoDnOT"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
       "added_at": "2023-03-31 17:32:57",
       "album": {
         "name": "Kristina",
@@ -931,6 +915,22 @@
       "duration_ms": 238221,
       "name": "Kristina",
       "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
-    },
-    {
       "added_at": "2023-01-07 02:51:44",
       "album": {
         "name": "Meridian Brothers & El Grupo Renacimiento",
@@ -1061,6 +1045,22 @@
       "url": "https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
+    },
+    {
       "added_at": "2022-02-12 05:43:00",
       "album": {
         "name": "Cumbia del Metr\u00f3nomo",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Abya Yala",
-        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 344333,
-      "name": "Dame Tu Mano",
-      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
-    },
-    {
       "added_at": "2023-02-28 04:34:35",
       "album": {
         "name": "Shake & Bake",
@@ -1107,6 +1091,22 @@
       "duration_ms": 280822,
       "name": "Shake & Bake",
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Abya Yala",
+        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 344333,
+      "name": "Dame Tu Mano",
+      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
-      },
-      "artists": [
-        {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
-        }
-      ],
-      "duration_ms": 401929,
-      "name": "Cumbia Oce\u00e1nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
-    },
-    {
       "added_at": "2023-02-28 04:34:35",
       "album": {
         "name": "Me Estoy Poniendo Viejo",
@@ -1173,20 +1157,36 @@
       "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
     },
     {
-      "added_at": "2023-09-25 00:02:05",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "OVNI Cumbia",
-        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
         }
       ],
-      "duration_ms": 226000,
-      "name": "OVNI Cumbia",
-      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+      "duration_ms": 401929,
+      "name": "Cumbia Oce\u00e1nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2024-08-07 03:08:43",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/20rxRyK8QJhQCOLaa4e8tr"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2023-09-25 00:02:05",
       "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
       },
       "artists": [
         {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
       "added_at": "2022-02-25 02:13:50",
@@ -1259,6 +1259,38 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+    },
+    {
+      "added_at": "2023-12-20 04:46:22",
+      "album": {
+        "name": "Mar Iguana",
+        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 Arenas",
+          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
+        }
+      ],
+      "duration_ms": 197821,
+      "name": "Mar Iguana",
+      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Invasi\u00f3n",
         "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
       },
@@ -1285,22 +1317,6 @@
       "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
     },
     {
-      "added_at": "2023-12-20 04:46:22",
-      "album": {
-        "name": "Mar Iguana",
-        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
-      },
-      "artists": [
-        {
-          "name": "\u00c9 Arenas",
-          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
-        }
-      ],
-      "duration_ms": 197821,
-      "name": "Mar Iguana",
-      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
-    },
-    {
       "added_at": "2025-01-16 17:40:08",
       "album": {
         "name": "Capricornio: Ven a mi amor",
@@ -1315,22 +1331,6 @@
       "duration_ms": 170000,
       "name": "Capricornio: Ven a mi amor",
       "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Churro Vs. Crow",
         "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 202293,
       "name": "Churro Vs. Crow",
       "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2021-10-20 15:37:42",

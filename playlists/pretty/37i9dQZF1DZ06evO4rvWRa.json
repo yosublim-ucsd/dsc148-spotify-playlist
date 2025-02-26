@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642297,
+  "num_followers": 1642288,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACo4Jy+sxpofTxmVH4m5c/F",
+  "snapshot_id": "Z7u2gAAAAAAYhPZZTAvsZMNDu+is4n0T",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's What I Like (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 195888,
-      "name": "That's What I Like - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walker Racing League",
         "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's What I Like (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 195888,
+      "name": "That's What I Like - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
     },
     {
       "added_at": null,

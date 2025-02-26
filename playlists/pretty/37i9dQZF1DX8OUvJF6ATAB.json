@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 204852,
+  "num_followers": 204874,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
+      "added_at": "2024-01-03 17:16:00",
       "album": {
-        "name": "Soothe & Sleep, Vol.8",
-        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
+        "name": "Ambient 4: On Land (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
       },
       "artists": [
         {
-          "name": "KENJI KIHARA",
-          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Flow in the Back",
-      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+      "duration_ms": 274306,
+      "name": "Lizard Point - Remastered 2004",
+      "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
     },
     {
       "added_at": "2024-09-04 14:50:14",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
     },
     {
-      "added_at": "2024-01-03 17:16:00",
+      "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
+        "name": "Soothe & Sleep, Vol.8",
+        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
         }
       ],
-      "duration_ms": 274306,
-      "name": "Lizard Point - Remastered 2004",
-      "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
+      "duration_ms": 220327,
+      "name": "Flow in the Back",
+      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
-    },
-    {
       "added_at": "2024-07-02 23:59:43",
       "album": {
         "name": "Caso 63 (Banda Sonora Original)",
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ocean Dreams",
-        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Aquarian Summer",
-          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 113000,
-      "name": "Ocean Dreams",
-      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
+      "duration_ms": 267893,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
     },
     {
       "added_at": "2024-01-23 19:40:42",
@@ -571,6 +555,22 @@
       "duration_ms": 522000,
       "name": "Velluto",
       "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Ocean Dreams",
+        "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
+      },
+      "artists": [
+        {
+          "name": "Aquarian Summer",
+          "url": "https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Ocean Dreams",
+      "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Anoyo",
-        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
+        "name": "Hilja",
+        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
         }
       ],
-      "duration_ms": 288802,
-      "name": "Into the void",
-      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
+      "duration_ms": 321000,
+      "name": "Demetra",
+      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -815,22 +831,6 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Hilja",
-        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Demetra",
-      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nothing Is Objective",
+        "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        }
+      ],
+      "duration_ms": 386853,
+      "name": "Nothing Ends 2018",
+      "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
       },
@@ -933,22 +949,6 @@
       "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
     },
     {
-      "added_at": "2024-08-16 19:54:30",
-      "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
-      },
-      "artists": [
-        {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
-        }
-      ],
-      "duration_ms": 548178,
-      "name": "Mirror of Memories",
-      "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Caisson",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
+      "added_at": "2024-08-16 19:54:30",
       "album": {
-        "name": "Nothing Is Objective",
-        "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
       "artists": [
         {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
         }
       ],
-      "duration_ms": 386853,
-      "name": "Nothing Ends 2018",
-      "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+      "duration_ms": 548178,
+      "name": "Mirror of Memories",
+      "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1079,6 +1079,46 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Sketches of Nowhere",
+        "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
+      },
+      "artists": [
+        {
+          "name": "Antoine Pierre",
+          "url": "https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V"
+        },
+        {
+          "name": "Urbex",
+          "url": "https://open.spotify.com/artist/21RMSKlqWz4duELO6nByCd"
+        },
+        {
+          "name": "Ben van Gelder",
+          "url": "https://open.spotify.com/artist/3oF2KEIn3rBRaGktWCwKdg"
+        }
+      ],
+      "duration_ms": 151061,
+      "name": "Dreams of Sand and Snow - And the Horse-Sized Cat",
+      "url": "https://open.spotify.com/track/0HrD2QFHbDDGTCqUH89wCR"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Die of The Waters",
         "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
       },
@@ -1107,46 +1147,6 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
-      },
-      "artists": [
-        {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Sketches of Nowhere",
-        "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
-      },
-      "artists": [
-        {
-          "name": "Antoine Pierre",
-          "url": "https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V"
-        },
-        {
-          "name": "Urbex",
-          "url": "https://open.spotify.com/artist/21RMSKlqWz4duELO6nByCd"
-        },
-        {
-          "name": "Ben van Gelder",
-          "url": "https://open.spotify.com/artist/3oF2KEIn3rBRaGktWCwKdg"
-        }
-      ],
-      "duration_ms": 151061,
-      "name": "Dreams of Sand and Snow - And the Horse-Sized Cat",
-      "url": "https://open.spotify.com/track/0HrD2QFHbDDGTCqUH89wCR"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
     },
     {
-      "added_at": "2023-10-22 04:29:48",
-      "album": {
-        "name": "Doxa",
-        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
-      },
-      "artists": [
-        {
-          "name": "Venus Ex Machina",
-          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
-        }
-      ],
-      "duration_ms": 416166,
-      "name": "The Abyss",
-      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Ventricular Beats",
@@ -1451,6 +1435,22 @@
       "duration_ms": 211080,
       "name": "A Thin Place",
       "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
+    },
+    {
+      "added_at": "2023-10-22 04:29:48",
+      "album": {
+        "name": "Doxa",
+        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
+      },
+      "artists": [
+        {
+          "name": "Venus Ex Machina",
+          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
+        }
+      ],
+      "duration_ms": 416166,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Murmur (Machinefabriek Remix)",
-        "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
-      },
-      "artists": [
-        {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
-        },
-        {
-          "name": "Machinefabriek",
-          "url": "https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Murmur - Machinefabriek Remix",
-      "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Land III",
         "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Murmur (Machinefabriek Remix)",
+        "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
+      },
+      "artists": [
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Machinefabriek",
+          "url": "https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Murmur - Machinefabriek Remix",
+      "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Ideal",
-      "url": "https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Whisper Fold Brush",
         "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 1190161,
       "name": "Whisper Fold Brush, Pt. One",
       "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Ideal",
+      "url": "https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC"
     },
     {
       "added_at": "2023-04-21 14:41:23",

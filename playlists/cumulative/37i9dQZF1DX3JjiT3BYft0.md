@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-426 songs - 1 day 6 hr 41 min
+427 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [FIRE BIRD](https://open.spotify.com/track/6zj48TjUA1GKb28KZMdXKX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:24 | 2022-09-20 | 2024-04-19 |
 | [FIRE BIRD](https://open.spotify.com/track/3wClfr5M3l64ZldVXcig4g) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 5:24 | 2022-06-23 | 2022-10-02 |
 | [FIRE BIRD](https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:25 | 2022-05-17 | 2022-07-28 |
-| [Five Letters](https://open.spotify.com/track/4vzVHL13WVQwDlUXmeqOrQ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:09 | 2024-03-23 |  |
+| [Five Letters](https://open.spotify.com/track/4vzVHL13WVQwDlUXmeqOrQ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:09 | 2024-03-23 | 2025-02-26 |
 | [flame of hope](https://open.spotify.com/track/5gVM0EJQqP5dOc3fnIpHSb) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:12 | 2022-09-20 | 2023-03-18 |
 | [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 | 2023-03-14 |  |
 | [flame of hope](https://open.spotify.com/track/33uMSExcz6590qktXXRXD2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:13 | 2022-06-23 | 2022-07-10 |
@@ -219,6 +219,7 @@
 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 |  |
 | [Time Lapse](https://open.spotify.com/track/5T8colb4YzBDdOboom5twr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 4:05 | 2022-05-17 | 2022-07-01 |
 | [Tokimeki Experience!](https://open.spotify.com/track/5uxhAPNplFMEkvXNNLzEZl) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 4:17 | 2022-06-23 | 2022-08-19 |
+| [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 | 2025-02-25 |  |
 | [True color](https://open.spotify.com/track/4x2Qz006ssbVrSeKAcU5Us) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 4:12 | 2022-05-17 | 2022-07-29 |
 | [UNSTOPPABLE](https://open.spotify.com/track/4CVwzG3EE3LTnNaKtiH4yM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 3:50 | 2022-05-17 | 2022-07-20 |
 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 | 2023-05-30 | 2024-04-19 |
@@ -236,7 +237,7 @@
 | [YAPPY! SCHOOL CARNIVAL☆彡](https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:53 | 2022-05-17 |  |
 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/483gWlMHuZA8T1Vp5NUtJn) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 5:04 | 2022-08-30 | 2022-09-20 |
 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング　牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 5:10 | 2023-05-30 | 2024-04-19 |
-| [Yes! BanG\_Dream!](https://open.spotify.com/track/2xR17B0aHZDTZ9Hfez5Rka) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 5:07 | 2022-05-17 | 2022-07-18 |
+| [Yes! BanG\_Dream!](https://open.spotify.com/track/2xR17B0aHZDTZ9Hfez5Rka) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 5:07 | 2022-05-17 |  |
 | [Yes! BanG\_Dream! \- Acoustic Ver.](https://open.spotify.com/track/2XVzZxfLb4unbJBM9pzK1x) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 5:04 | 2022-05-17 |  |
 | [Yes! BanG\_Dream! \- Popipa Acoustic Ver.](https://open.spotify.com/track/0lvyokXcwgD5l39Dz85eu7) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 5:08 | 2022-05-17 | 2022-06-24 |
 | [ZEAL of proud](https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:39 | 2022-09-20 | 2024-04-19 |
@@ -430,7 +431,7 @@
 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 | 2022-09-20 | 2024-04-19 |
 | [霧周途](https://open.spotify.com/track/59xvP7KeDVOetqQ1qBp7zl) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [霧周途](https://open.spotify.com/album/0HzoiG9KVmBAu1FMkf0w6W) | 3:42 | 2024-11-28 |  |
 | [青のすみか \- Cover](https://open.spotify.com/track/1BbOzFxKZlcxino1a8NVk9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [青のすみか \(Cover\)](https://open.spotify.com/album/2bTyv063SUF4J8E06aGi14) | 3:17 | 2024-03-19 | 2025-02-01 |
-| [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 |  |
+| [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 | 2025-02-26 |
 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 | 2024-11-28 |
 | [魂のルフラン](https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:29 | 2022-05-17 | 2022-07-29 |
 | [Ｒ](https://open.spotify.com/track/3q6152nwxpjkzKFUOPe1EJ) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:45 | 2022-09-20 | 2023-08-28 |

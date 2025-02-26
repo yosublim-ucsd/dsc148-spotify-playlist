@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,072 songs - 4 day 15 hr 2 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,073 songs - 4 day 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2080,5 +2080,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2070 | [Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/5dmjsLeNMW49goi92kul6n) | 2:10 |
 | 2071 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 2072 | [Courtship Dating](https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 3:30 |
+| 2073 | [Because They Want Our Seat](https://open.spotify.com/track/19P0dOcggnCTCIu51gsp5F) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:51 |
 
-Snapshot ID: `AAAD3lwGiJ0bps5c41Q70butxJfFp8Ip`
+Snapshot ID: `AAAD37ZMEFUpk34PYlY/mEw0y2uvfnDW`

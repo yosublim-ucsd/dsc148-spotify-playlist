@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 50081,
+  "num_followers": 50089,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
+        "name": "Generation Next",
+        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 284973,
       "name": "Cuando Parar\u00e1 La Lluvia",
       "url": "https://open.spotify.com/track/2PBuNxTsXYOCuyNOaoyWc8"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
-        "name": "Generation Next",
-        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-09-06 21:17:56",

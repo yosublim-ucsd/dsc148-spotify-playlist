@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,617 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,708 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [Una Peda Menos](https://open.spotify.com/track/3Sra9m62gSgycclKeKgn68) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Una Peda Menos](https://open.spotify.com/album/1e3ioYbS8fDRti21ytqubf) | 2:21 |
 | 13 | [Tentaciones](https://open.spotify.com/track/4sSOeJg3OnXfJoV3Dpss7N) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Tentaciones](https://open.spotify.com/album/65NValIqphmmljkyrMZDbi) | 2:45 |
 | 14 | [James B.](https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [James B.](https://open.spotify.com/album/0SopcVXw2oPUQTAJYZv6UQ) | 2:54 |
-| 15 | [Alucinaciones](https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Alucinaciones](https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k) | 3:04 |
+| 15 | [ALUCINACIONES](https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [ALUCINACIONES](https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k) | 3:04 |
 | 16 | [No sé de qué manera](https://open.spotify.com/track/2LbYWtn8lqcKZwSl3FYP0i) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No sé de qué manera](https://open.spotify.com/album/6NB4WLZFflkWuxw5O5ibIw) | 3:04 |
 | 17 | [Nicotina](https://open.spotify.com/track/7xLil2vqumNoP8zLc9LECe) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Nicotina](https://open.spotify.com/album/2fVkWJYnMKN2JdUr3ADhmt) | 2:56 |
 | 18 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |

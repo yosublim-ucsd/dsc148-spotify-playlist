@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,480 likes - 111 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,483 likes - 111 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 7 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 |
 | 8 | [Backtothe](https://open.spotify.com/track/4i2J5OK7POU7JffOlAUxfO) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 002](https://open.spotify.com/album/0sviftr74ZZK8tcIbTmheD) | 3:07 |
 | 9 | [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 |
-| 10 | [Ouss Ouss](https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Yikes](https://open.spotify.com/artist/18IoM4TIRE1Eaqi0SjlF4w) | [Come Round](https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W) | 6:03 |
+| 10 | [Ouss Ouss](https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Yikes](https://open.spotify.com/artist/0ZQ8cND6EyXIO588Wxezi1) | [Come Round](https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W) | 6:03 |
 | 11 | [Stir It Up](https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Stir It Up](https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4) | 3:21 |
 | 12 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 13 | [D33P](https://open.spotify.com/track/39sLXM6qyOKfsCnc7nBgvC) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [D33P](https://open.spotify.com/album/62N6BE9wGsZHjqHINaWjNo) | 3:25 |

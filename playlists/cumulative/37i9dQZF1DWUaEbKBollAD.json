@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2084 (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "2084 - Space 92 Remix",
+      "url": "https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M"
+    },
+    {
+      "album": {
         "name": "7-09",
         "url": "https://open.spotify.com/album/6nQG7eXRcdfyvCFn49wKt1"
       },
@@ -377,6 +399,36 @@
     },
     {
       "album": {
+        "name": "Born Again (Babylonia) feat. Widemode",
+        "url": "https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        },
+        {
+          "name": "Widemode",
+          "url": "https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137432,
+      "name": "Born Again (Babylonia) feat. Widemode",
+      "url": "https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i"
+    },
+    {
+      "album": {
         "name": "Break The Dawn",
         "url": "https://open.spotify.com/album/7b160WFBcTFZXZzqq48cMv"
       },
@@ -626,7 +678,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 240000,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/0VeepLHSEUiGYPAvXFTplb"
@@ -1184,7 +1236,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 390620,
       "name": "Killer Machine",
       "url": "https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6"
@@ -1740,7 +1792,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 243200,
       "name": "Rage is a Feeling",
       "url": "https://open.spotify.com/track/4vq7sdPlVwqg3ONTEklL8F"
@@ -2057,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Self Command",
+        "url": "https://open.spotify.com/album/1AFzsjPNA1cxjLvVF2Oq2f"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "Self Command - Radio Edit",
+      "url": "https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i"
+    },
+    {
+      "album": {
         "name": "Sacred Chants of Shiva",
         "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
       },
@@ -2122,7 +2192,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 388042,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/4AzIEXbsTGHbEJzKEuSND5"
@@ -2411,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Global Awakening",
+        "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217645,
+      "name": "The Rave - Sped Up",
+      "url": "https://open.spotify.com/track/1sa7MXOGOoRHVQ9xKJEecV"
+    },
+    {
+      "album": {
         "name": "Time Lapse",
         "url": "https://open.spotify.com/album/0e2nTuUQoDMP7LmYEGwX0b"
       },
@@ -2589,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
+    },
+    {
+      "album": {
         "name": "Darkly Yours EP",
         "url": "https://open.spotify.com/album/6POModEFwAbejmac6UGQAh"
       },
@@ -2698,7 +2804,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"

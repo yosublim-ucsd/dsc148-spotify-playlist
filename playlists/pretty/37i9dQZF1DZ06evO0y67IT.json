@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8581,
+  "num_followers": 8582,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAD38iyWQvon8gEIuhIzTCJg",
+  "snapshot_id": "Z7u2gAAAAAAvjp5PijmOnr5xQCb53k3F",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 220103,
-      "name": "The Darkest Times",
-      "url": "https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh"
+      "duration_ms": 193478,
+      "name": "Common Crook",
+      "url": "https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 193478,
-      "name": "Common Crook",
-      "url": "https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m"
+      "duration_ms": 220103,
+      "name": "The Darkest Times",
+      "url": "https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 152346,
       "name": "The Girl That Destroyed Me",
       "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 173946,
       "name": "Until Her Heart Stops",
       "url": "https://open.spotify.com/track/3q0SifbZDLTCh3p78eXcac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
     },
     {
       "added_at": null,
@@ -831,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
       },
       "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Do You Have A Map, Because I'm Lost In Your Eyes",
-      "url": "https://open.spotify.com/track/7MhBjBtRuhiZBZO4b3tpXv"
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh"
     }
   ],
   "unique_name": "This Is Hawthorne Heights",

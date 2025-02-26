@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 
 > Dark noise to keep you sharp and focused during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,245 likes - 109 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,355 likes - 109 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Aliisa Syrjä ja Robin Packalen.
 
-443 songs - 22 hr 9 min
+444 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Baby mä oon back](https://open.spotify.com/track/28dIoMaKFcFZ6KNqGGuuQK) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Baby mä oon back](https://open.spotify.com/album/1P4Sdf8YLSE2UPK9E5WpvM) | 2:53 | 2024-09-12 | 2024-10-04 |
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-08-10 |
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-10-18 |
+| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-25 |  |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-14 | 2024-11-29 |
 | [bändipaita](https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [bändipaita](https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC) | 2:46 | 2025-01-26 |  |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 | 2024-10-11 |

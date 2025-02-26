@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,647 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,644 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 20 | [Patsers \- From “Patsers”/“Gangstas” – The Movie](https://open.spotify.com/track/6yNuJ5PjEqK8yMwV7wTaHs) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Patsers \(From “Patsers”/“Gangstas” – The Movie\)](https://open.spotify.com/album/5ybxAV75H8DlXDZPCsE7kr) | 3:56 |
 | 21 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 |
 | 22 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 |
-| 23 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 23 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 24 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 |
 | 25 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 |
 | 26 | [Demain tout ira mieux](https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [Chute Libre](https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb) | 3:27 |

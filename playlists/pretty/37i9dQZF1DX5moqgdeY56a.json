@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 52272,
+  "num_followers": 52284,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Una y Mil Razones",
+        "url": "https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "Una y Mil Razones",
+      "url": "https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "Corridos Antonio Aguilar",
         "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 222737,
       "name": "Juan Charrasqueado",
       "url": "https://open.spotify.com/track/7i1qfU3QQu1ls53CA8Lrvc"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Tu M\u00e9ndigo Recuerdo",
-        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 213923,
-      "name": "Tu M\u00e9ndigo Recuerdo",
-      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -711,8 +711,8 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Una y Mil Razones",
-        "url": "https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz"
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 183547,
-      "name": "Una y Mil Razones",
-      "url": "https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn"
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Y Tenerte Otra Vez",
-        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Yo la Amo",
-      "url": "https://open.spotify.com/track/5lsRImOV4NbLHHRIMPQExC"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "Amor Ilegal",
         "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 170253,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Y Tenerte Otra Vez",
+        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Yo la Amo",
+      "url": "https://open.spotify.com/track/5lsRImOV4NbLHHRIMPQExC"
     },
     {
       "added_at": "2024-04-09 17:24:23",

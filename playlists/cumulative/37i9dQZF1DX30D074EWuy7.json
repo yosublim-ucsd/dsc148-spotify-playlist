@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279570,
+      "name": "Bajone",
+      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
+    },
+    {
+      "album": {
         "name": "WE4 (feat. Jacopo Ferrazza, Julian Oliver Mazzariello, Nicola Angelucci)",
         "url": "https://open.spotify.com/album/1tHWlekqvGgnBd9G2CyQkU"
       },
@@ -6789,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
+    },
+    {
+      "album": {
         "name": "Que Bom",
         "url": "https://open.spotify.com/album/5026kdJj7O7U2ucEbJQ2LT"
       },
@@ -8338,7 +8374,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
@@ -10710,7 +10746,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,036 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 27 | [Înapoi în viitor](https://open.spotify.com/track/69AbhdX17XDrF1GmxQMDpV) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Înapoi în viitor](https://open.spotify.com/album/5bpjdw1rPfQi1ttBvZtDv8) | 2:45 |
 | 28 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 |
 | 29 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
-| 30 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [$ami](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 |
+| 30 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 |
 | 31 | [O nouă viață](https://open.spotify.com/track/0Ey8ZOPxPIzZjLLQzjlv5r) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [O nouă viață](https://open.spotify.com/album/2yKIVLtFm6v7fmCZIN7uqE) | 3:00 |
 | 32 | [TLS](https://open.spotify.com/track/3j8VKfpN2aDOQXvjjipWM4) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa) | [TLS](https://open.spotify.com/album/07dbbcAmgNGigoAIUpiQrp) | 2:46 |
 | 33 | [Saruta\-ma](https://open.spotify.com/track/6YS3SfDm9FAl6SW43DyTVw) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Saruta\-ma](https://open.spotify.com/album/0A0TLiVUpcifgzV2W54ej1) | 2:25 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 43 | [Pe Repeat](https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Pe Repeat](https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz) | 2:48 |
 | 44 | [Departe de apus](https://open.spotify.com/track/4LONHXbeR9WLZ0URReIOXc) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Departe de apus](https://open.spotify.com/album/3bdLF226G1O6wkx8M5oggf) | 3:21 |
 | 45 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
-| 46 | [UNDEVA](https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn) | [$ami](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [UNDEVA](https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj) | 1:58 |
+| 46 | [UNDEVA](https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [UNDEVA](https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj) | 1:58 |
 | 47 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 |
 | 48 | [In Romania](https://open.spotify.com/track/7aIO2KrOoCYYEIlSA1vE0d) | [Eligarf](https://open.spotify.com/artist/1fSjxCfL4aaUoQ9ATRLtAq) | [In Romania](https://open.spotify.com/album/44LByVLnWvFj7AUNRwU1cE) | 2:38 |
 | 49 | [Anestezic](https://open.spotify.com/track/5SjxwbSwVdsYRk4xImMT1E) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Anestezic](https://open.spotify.com/album/5WOxpjVvcoke5yoJv7YbtQ) | 3:08 |

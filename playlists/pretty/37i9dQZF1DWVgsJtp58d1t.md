@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > <a href="https://www.instagram.com/p/DGdgcqFvbt9/?utm\_source=ig\_web\_copy\_link">Meet the collectives</a> who are shaping the future of culture\. Cover: <a href="spotify:artist:5MbNzCW3qokGyoo9giHA3V">EARTHGANG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,311 likes - 260 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,363 likes - 260 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

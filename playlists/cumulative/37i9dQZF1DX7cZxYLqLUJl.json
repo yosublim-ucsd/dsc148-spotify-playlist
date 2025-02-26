@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 140863,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/6kJsbzODs24YsWxaefoXXH"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 176250,
       "name": "Evergreen Valley",
       "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 127962,
       "name": "Feuilles Tombantes",
       "url": "https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 127624,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125058,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh"
+    },
+    {
+      "album": {
         "name": "Mandeville",
         "url": "https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 137169,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 186352,
       "name": "Mar De Ardora",
       "url": "https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 165903,
       "name": "Older",
       "url": "https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 211654,
       "name": "Rouen Les Essarts",
       "url": "https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7"

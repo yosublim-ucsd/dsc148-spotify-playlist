@@ -16,10 +16,28 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 224733,
       "name": "'Till the Morning Comes",
       "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "'Till the Morning Comes",
+      "url": "https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM"
     },
     {
       "album": {
@@ -59,6 +77,24 @@
     },
     {
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416333,
+      "name": "Angelitos Negros",
+      "url": "https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco"
+    },
+    {
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -92,7 +128,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 420160,
       "name": "Ballad of the Sad Young Men",
       "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
@@ -154,6 +190,24 @@
       "duration_ms": 316586,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "Conversation Love",
+      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
     },
     {
       "album": {
@@ -600,10 +654,32 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 246066,
       "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "Only Heaven Can Wait (For Love) [feat. Donny Hathaway] - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5gy3RPxsVRpaw9PN5bhJFK"
     },
     {
       "album": {
@@ -854,7 +930,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 299000,
       "name": "Until It's Time for You to Go",
       "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,323 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,298 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 43 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
 | 44 | [Soffa från IKEA](https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Soffa från IKEA](https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa) | 2:29 |
 | 45 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |
-| 46 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
-| 47 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 |
+| 46 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 |
+| 47 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
 | 48 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 49 | [Vill du ligga med mig?](https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Vill du ligga med mig?](https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3) | 2:22 |
 | 50 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 |

@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 199575,
       "name": "Genghis Khan - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
@@ -2418,6 +2418,24 @@
       "duration_ms": 277113,
       "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Kool - Spotify Singles",
+      "url": "https://open.spotify.com/track/1E3KNG9OY7KhW5LbQ5sqwe"
     },
     {
       "album": {

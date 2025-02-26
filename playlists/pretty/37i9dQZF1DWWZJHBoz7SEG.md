@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música chida 🤝 el fin de semana ✨ con Gabito Ballesteros en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,968 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,145 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 27 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 |
 | 28 | [En Qué Momento](https://open.spotify.com/track/7hqQRn8nYHIESyKoiJsJPz) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [En Qué Momento](https://open.spotify.com/album/3wJYAxoS4NGqtHYe35kLuK) | 2:45 |
 | 29 | [Tentaciones](https://open.spotify.com/track/4sSOeJg3OnXfJoV3Dpss7N) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Tentaciones](https://open.spotify.com/album/65NValIqphmmljkyrMZDbi) | 2:45 |
-| 30 | [Alucinaciones](https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Alucinaciones](https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k) | 3:04 |
+| 30 | [ALUCINACIONES](https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [ALUCINACIONES](https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k) | 3:04 |
 | 31 | [Q.E.P.D.](https://open.spotify.com/track/1dp0tV6jbgzuLqlM0whyDY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Q.E.P.D.](https://open.spotify.com/album/1s2eYtYR0E6uTWUSI8JDHZ) | 2:36 |
 | 32 | [Estamos Bien](https://open.spotify.com/track/7t4ruakXXlwXEmLJKaoppG) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Estamos Bien](https://open.spotify.com/album/5HX5KPQwJXpkn7xzTt0LAv) | 4:21 |
 | 33 | [OMG](https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [OMG](https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk) | 3:07 |
 | 34 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
 | 35 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
 | 36 | [Bala Perdida](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bala Perdida](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 |
-| 37 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |
+| 37 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |
 | 38 | [Brooklyn](https://open.spotify.com/track/3mcrH5DyUu4mH6fZ4nkHzD) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Brooklyn](https://open.spotify.com/album/0QVCN1VLmGxVKkjVDyVse6) | 4:03 |
 | 39 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
 | 40 | [Fiesta De Barrio](https://open.spotify.com/track/1vqejJVjdEvb3d7zoQnhB0) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Fiesta De Barrio](https://open.spotify.com/album/069edRbz8dGWvqvcgMUJDw) | 3:18 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 |
 | 55 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 
-Snapshot ID: `Z7gWZgAAAADmFy9b+xrZGmAciBpzN9KC`
+Snapshot ID: `Z7gWZgAAAADMPyHs6GE6Pzs2QPa3Dhaj`

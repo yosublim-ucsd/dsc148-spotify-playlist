@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Rvshvd
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,805 likes - 230 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,836 likes - 230 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

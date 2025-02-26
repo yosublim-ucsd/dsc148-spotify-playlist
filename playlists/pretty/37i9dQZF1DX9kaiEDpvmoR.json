@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92816,
+  "num_followers": 92826,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Now or Never (feat. Lauren Alaina)",
-        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Now or Never (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
+      "duration_ms": 202937,
+      "name": "Hymn To Virgil",
+      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -211,18 +207,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
+        "name": "Now or Never (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 202937,
-      "name": "Hymn To Virgil",
-      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+      "duration_ms": 174946,
+      "name": "Now or Never (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "About A Woman",
         "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+        "name": "R\u00e4dda mig",
+        "url": "https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
         }
       ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+      "duration_ms": 180010,
+      "name": "R\u00e4dda mig",
+      "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -371,22 +387,6 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "R\u00e4dda mig",
-        "url": "https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Holmgren",
-          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "R\u00e4dda mig",
-      "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 234973,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Psalmer fr\u00e5n sjunde himlen",
-        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
       "artists": [
         {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Hit men inte l\u00e4ngre",
-      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -923,6 +907,38 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Psalmer fr\u00e5n sjunde himlen",
+        "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Hit men inte l\u00e4ngre",
+      "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "Fan f\u00f6r dig",
         "url": "https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask"
       },
@@ -1043,38 +1059,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "The Player",
         "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 168188,
       "name": "The Player",
       "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Badass High School Band",
-        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "Badass High School Band",
-      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Badass High School Band",
+        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "Badass High School Band",
+      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "A Sinner's Life",
-        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 187137,
-      "name": "A Sinner's Life",
-      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
+        "name": "A Sinner's Life",
+        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
       },
       "artists": [
         {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
         }
       ],
-      "duration_ms": 172838,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+      "duration_ms": 187137,
+      "name": "A Sinner's Life",
+      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "S\u00e5 Mycket B\u00e4ttre 2024 - Tolkningarna",
+        "url": "https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww"
+      },
+      "artists": [
+        {
+          "name": "Andreas Lundstedt",
+          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
+        }
+      ],
+      "duration_ms": 179085,
+      "name": "Living La Vida",
+      "url": "https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "WILDSIDE",
         "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "S\u00e5 Mycket B\u00e4ttre 2024 - Tolkningarna",
-        "url": "https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
       },
       "artists": [
         {
-          "name": "Andreas Lundstedt",
-          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
         }
       ],
-      "duration_ms": 179085,
-      "name": "Living La Vida",
-      "url": "https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX"
+      "duration_ms": 172838,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Love vs. The World",
-        "url": "https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G"
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
       },
       "artists": [
         {
-          "name": "Sivert H\u00f8yem",
-          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Love vs. The World",
-      "url": "https://open.spotify.com/track/1dJ0YjXLjbBpnosumLsdgo"
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1343,18 +1343,34 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+        "name": "Love vs. The World",
+        "url": "https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
         }
       ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+      "duration_ms": 233373,
+      "name": "Love vs. The World",
+      "url": "https://open.spotify.com/track/1dJ0YjXLjbBpnosumLsdgo"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1375,22 +1391,6 @@
       "duration_ms": 208983,
       "name": "Min far",
       "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Zoe",
-        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
         }
       ],
-      "duration_ms": 191379,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     }
   ],
   "unique_name": "Aktuellt",

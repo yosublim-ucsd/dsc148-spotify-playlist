@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 593539,
+  "num_followers": 593634,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 252874,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
         "name": "Nos Vemos En Los Bares",
         "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
       "artists": [
         {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "El doble de tu mitad",
         "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Coces al Aire 1997-2007",
         "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 337666,
       "name": "Corazon de mimbre",
       "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2025-02-20 23:00:34",

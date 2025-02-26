@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-230 songs - 10 hr 16 min
+231 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 | 2024-09-10 |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-01-26 |  |
 | [Poets night](https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Poets night](https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a) | 3:22 | 2022-08-29 |  |
+| [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 | 2025-02-25 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 | 2025-01-22 |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-26 |  |
 | [Red Moon](https://open.spotify.com/track/5pjBpeey8Pu3bmagRRoYYT) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Red Moon](https://open.spotify.com/album/09HHQfCYHpREMeigIqEQzk) | 3:12 | 2022-12-06 |  |

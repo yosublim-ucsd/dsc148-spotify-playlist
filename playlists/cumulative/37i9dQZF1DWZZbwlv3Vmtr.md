@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,013 songs - 1 day 15 hr 14 min
+1,014 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 |  |
 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 | 2024-10-04 |  |
-| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 |  |
+| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 | 2025-02-26 |
 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 | 2024-02-15 |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
@@ -886,6 +886,7 @@
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2022-04-15 |  |
 | [The Dreams](https://open.spotify.com/track/6WuLredx9Du0nj4qrrSFJ2) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Dreams](https://open.spotify.com/album/7rhQZJcRcqUD0huZItGkAv) | 2:06 | 2022-07-29 | 2022-10-14 |
 | [The Ending](https://open.spotify.com/track/7DSlwSvhgotaSIOhtOcVOm) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [The Ending](https://open.spotify.com/album/5ZJF1XQ4WOIzxEh1fCZW4E) | 2:24 | 2022-11-25 | 2024-02-23 |
+| [the house cat](https://open.spotify.com/track/0b4jVpMAYU9kpcmYOsOOfZ) | [chanchito estafa](https://open.spotify.com/artist/3qrY0YViGM8BhOjdKFNaOE) | [the house cat](https://open.spotify.com/album/4WkjdAUzqkqAE9L371rCFi) | 2:12 | 2025-02-21 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-04-15 | 2022-05-27 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 | 2022-04-15 |  |

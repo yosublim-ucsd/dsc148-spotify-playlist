@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486 likes - 330 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 487 likes - 330 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -332,11 +332,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 322 | [The Arena Pantomime](https://open.spotify.com/track/7y0l70mnPNHQtMRew7Dq92) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 3:56 |
 | 323 | [There's so Much More](https://open.spotify.com/track/1TBgleqZqpTc2IGPVkYLuS) | [Edie Adams](https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34), [Joe Leahy Orchestra](https://open.spotify.com/artist/7KGif6Pwikw0EuWwKLWnyI) | [Edie Adams](https://open.spotify.com/album/4YhLTK5d5Ad8P9eCeruAwO) | 2:01 |
 | 324 | [Sing](https://open.spotify.com/track/4oDP0jpUxUEkJhZtE51g8L) | [Laddie Cliff & Three pianos](https://open.spotify.com/artist/7iT52uNZMLnQitzrBsUKaD) | [The Blue Room \(The Music Of Rodgers & Hart \- Original Recordings 1926 \- 1927\)](https://open.spotify.com/album/66TTnHzsh9HC74DWpsEsGY) | 2:45 |
-| 325 | [Try Again Tomorrow](https://open.spotify.com/track/5j3nAC6Qi021Ntwbpj5YLh) | [Cicely Courtneidge, Jack Hulbert](https://open.spotify.com/artist/7dn5s2t0S681PDC0AhXzkt), [The Gaiety Theatre Orchestra](https://open.spotify.com/artist/4sbDESNXGPYWRE7tGuV6VL) | [The Blue Room \(The Music Of Rodgers & Hart \- Original Recordings 1926 \- 1927\)](https://open.spotify.com/album/66TTnHzsh9HC74DWpsEsGY) | 2:43 |
-| 326 | [Gladiator's Ballet](https://open.spotify.com/track/7FB7WYkUWB4RC4He3SL9CA) | [Androcles and the Lion Orchestra](https://open.spotify.com/artist/40n3uVTGFfGRl9wYqym5f9), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 3:07 |
+| 325 | [Gladiator's Ballet](https://open.spotify.com/track/7FB7WYkUWB4RC4He3SL9CA) | [Androcles and the Lion Orchestra](https://open.spotify.com/artist/40n3uVTGFfGRl9wYqym5f9), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 3:07 |
+| 326 | [Try Again Tomorrow](https://open.spotify.com/track/5j3nAC6Qi021Ntwbpj5YLh) | [Cicely Courtneidge, Jack Hulbert](https://open.spotify.com/artist/7dn5s2t0S681PDC0AhXzkt), [The Gaiety Theatre Orchestra](https://open.spotify.com/artist/4sbDESNXGPYWRE7tGuV6VL) | [The Blue Room \(The Music Of Rodgers & Hart \- Original Recordings 1926 \- 1927\)](https://open.spotify.com/album/66TTnHzsh9HC74DWpsEsGY) | 2:43 |
 | 327 | [I'd Like to Poison Ivy](https://open.spotify.com/track/0HSRvzW1fHDXYL6V3Bp7MW) | [Ronny Whyte](https://open.spotify.com/artist/14MQSpNfi82R5fEVOTVr1Z), [Travis Hudson](https://open.spotify.com/artist/4cE3tOMYywWZwt2dV6i5AL), [George Marge](https://open.spotify.com/artist/55GfvwZpSPracKsXLxP8Ry), [Lisle Atkinson](https://open.spotify.com/artist/1EaKRDdYkNBX8GgqjpdOUk), [Bob Thomas](https://open.spotify.com/artist/1GiQaj5vJkm8j1SZVjcN3y) | [The Songs of Rodgers and Hart](https://open.spotify.com/album/0kAu7M0OKzKwdv7WrFUMl7) | 2:04 |
 | 328 | [Sweet Peter](https://open.spotify.com/track/6s0VmlgfeasPS5dFaQ2q18) | [Cyril Ritchard & Chorus](https://open.spotify.com/artist/1jSYHtyZRHcVhvyh7Jh1gL) | [Dearest Enemy](https://open.spotify.com/album/7fuQb6l4iSJSOfHwzq0MYo) | 2:24 |
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbqeyQAAAAAgo57+5LKaOxwYQac7duWL`
+Snapshot ID: `AbqkaAAAAAAnHYlrJwfWsaG5GO/z9waD`

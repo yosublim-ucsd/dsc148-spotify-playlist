@@ -2,7 +2,7 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: YOUNGOHM
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Z9
 
 571 songs - 1 day 7 hr 40 min
 

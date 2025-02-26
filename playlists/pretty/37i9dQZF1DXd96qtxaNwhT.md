@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,105 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,171 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 38 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 39 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 40 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
-| 41 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
-| 42 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
+| 41 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
+| 42 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
 | 43 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 44 | [Smoking Lessons](https://open.spotify.com/track/52zlr5j372qsgHhmvrni4w) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:59 |
 | 45 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN) | 3:12 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 48 | [Monster Brain](https://open.spotify.com/track/2Y2aBQoIfcmHdZUZjZPqxG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/4lGm0rVF9UELk6nTTIikmS) | 3:37 |
 | 49 | [Lovesick](https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs) | [Jack Robertson](https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T), [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Lovesick](https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB) | 3:44 |
 | 50 | [Small Things](https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Small Things](https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE) | 2:56 |
-| 51 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
-| 52 | [The Hardest Part](https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [The Hardest Part](https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT) | 2:57 |
+| 51 | [The Hardest Part](https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [The Hardest Part](https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT) | 2:57 |
+| 52 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 53 | [Hate That You Hurt](https://open.spotify.com/track/3Xm6fysXfjFtabHYe4cifr) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Hate That You Hurt](https://open.spotify.com/album/5JFGwX6w1TzPmxs3jUwsg3) | 2:51 |
 | 54 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 |
 | 55 | [A World Without You](https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Self Portrait Of A Woman Unravelling](https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ) | 3:32 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 66 | [I Would](https://open.spotify.com/track/1TfyoN21PbOuUQXBkjNjGk) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [I Would](https://open.spotify.com/album/65Phf4Ar2O7uXUn8sflqFI) | 3:21 |
 | 67 | [Power In Us](https://open.spotify.com/track/5AMjoL36HPzwx9E0JUg05J) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Power In Us](https://open.spotify.com/album/1SlXfaCDOmYwsbIFr3dlP2) | 3:21 |
 | 68 | [War](https://open.spotify.com/track/4zNoXBUdKdxlfsjIUV28LW) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [War](https://open.spotify.com/album/5dCQvmy45qliQlRjMOMUyQ) | 3:22 |
-| 69 | [All There Is](https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [All There Is](https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo) | 2:23 |
-| 70 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
+| 69 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
+| 70 | [All There Is](https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [All There Is](https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo) | 2:23 |
 | 71 | [Wait](https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Wait](https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O) | 3:11 |
 | 72 | [what it always was](https://open.spotify.com/track/3KCDxxhjQ61VsC0HL5BR04) | [Sarah Saint James](https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH) | [what it always was](https://open.spotify.com/album/5hA2mWEorq6bdzND8iO8Dr) | 3:31 |
 | 73 | [Madly In Love](https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy) | [Tobias Floor](https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB) | [Madly In Love](https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3) | 3:43 |

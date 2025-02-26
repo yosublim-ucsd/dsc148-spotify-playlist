@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18834,
+  "num_followers": 18835,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
       "added_at": "2025-01-23 13:00:35",
       "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
@@ -295,22 +311,6 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Might As Well Be Watching",
@@ -711,6 +695,22 @@
       "duration_ms": 203424,
       "name": "Might As Well Be Watching",
       "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
       "added_at": "2025-02-06 13:00:13",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2MYMNxgkus7t4gKLMXdpTH"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
       "added_at": "2025-02-13 13:00:24",
       "album": {
         "name": "Margo",
@@ -763,6 +747,22 @@
       "duration_ms": 153026,
       "name": "Margo",
       "url": "https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
     },
     {
-      "added_at": "2025-01-30 13:00:19",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Gravity",
@@ -979,6 +963,22 @@
       "duration_ms": 214624,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
+    },
+    {
+      "added_at": "2025-01-30 13:00:19",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
       "added_at": "2024-12-05 13:00:00",
       "album": {
         "name": "i don't want you to miss this",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+      },
+      "artists": [
+        {
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+        }
+      ],
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1143,18 +1159,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
       "artists": [
         {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
         }
       ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1175,26 +1195,6 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2024-10-24 13:00:00",

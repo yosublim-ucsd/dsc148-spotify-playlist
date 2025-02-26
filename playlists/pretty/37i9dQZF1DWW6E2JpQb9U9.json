@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 121127,
+  "num_followers": 121155,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
+        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
+      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
         "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 245699,
       "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
-        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
-      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
     },
     {
       "added_at": "2024-12-20 03:00:01",

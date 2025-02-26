@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 11557,
+  "num_followers": 11564,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACEwnqyFykCtlmA30x4vOit",
+  "snapshot_id": "Z7u2gAAAAACpNetz2Ir7vSSCb0JiywNB",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
       "duration_ms": 218754,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

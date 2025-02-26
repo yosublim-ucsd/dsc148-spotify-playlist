@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,023 songs - 2 day 14 hr 55 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,024 songs - 2 day 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1031,5 +1031,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1021 | [Piledriver waltz](https://open.spotify.com/track/3s5ogvexUgA6XjNj37zpnP) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:24 |
 | 1022 | [That's What I Get](https://open.spotify.com/track/1Rt6dYh5NzxaMOTaP2VU6O) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:58 |
 | 1023 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
+| 1024 | [Raven](https://open.spotify.com/track/7qCojYqfbCKWVb0lDGpfCv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Raven](https://open.spotify.com/album/4LD1uDOWIXub9KVhXebZAO) | 2:44 |
 
-Snapshot ID: `AAAIxUiIINNLHZoNb/tiBKID5e87OTw0`
+Snapshot ID: `AAAIxlpqu9wTCiWCbq+UY1srx720UoT3`

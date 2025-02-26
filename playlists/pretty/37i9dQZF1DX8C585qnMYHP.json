@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185229,
+  "num_followers": 185252,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
     },
     {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "duration_ms": 222645,
+      "name": "Forest Bathing",
+      "url": "https://open.spotify.com/track/0OAXvDMV0rQzSiukKjDwyt"
+    },
+    {
       "added_at": "2024-09-11 15:31:53",
       "album": {
         "name": "Soft Power",
@@ -371,22 +387,6 @@
       "duration_ms": 359480,
       "name": "Future Sand",
       "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        }
-      ],
-      "duration_ms": 222645,
-      "name": "Forest Bathing",
-      "url": "https://open.spotify.com/track/0OAXvDMV0rQzSiukKjDwyt"
     },
     {
       "added_at": "2024-11-13 14:28:35",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
         }
       ],
-      "duration_ms": 413408,
-      "name": "PLEASE COME TO ME",
-      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -505,40 +505,20 @@
       "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
       },
       "artists": [
         {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
-      "added_at": "2024-10-04 14:02:22",
-      "album": {
-        "name": "Things We Have In Common",
-        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Balancing Stones",
-      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
       "added_at": "2024-10-02 18:17:59",
@@ -559,6 +539,26 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-10-04 14:02:22",
+      "album": {
+        "name": "Things We Have In Common",
+        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Balancing Stones",
+      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Souvenirs",
@@ -719,6 +703,22 @@
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
     },
     {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
       "added_at": "2025-01-15 18:16:36",
       "album": {
         "name": "Ancient DNA",
@@ -755,22 +771,6 @@
       "duration_ms": 163097,
       "name": "Ancient DNA",
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
+      "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "AMB001-008",
-        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 363353,
-      "name": "AMB001",
-      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -901,36 +901,20 @@
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
+      "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "O Bicho Anda Por A\u00ed",
-        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 152218,
-      "name": "O Bicho Anda Por A\u00ed",
-      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -947,6 +931,22 @@
       "duration_ms": 301445,
       "name": "Hounds",
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "O Bicho Anda Por A\u00ed",
+        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 152218,
+      "name": "O Bicho Anda Por A\u00ed",
+      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Pordeno Me",
-        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 149457,
-      "name": "Pordeno Me",
-      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Whispering Ln",
@@ -1131,6 +1115,22 @@
       "duration_ms": 320044,
       "name": "Moonlit Whispers",
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+    },
+    {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
-        "name": "Oxido En El Espejo",
-        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
-      },
-      "artists": [
-        {
-          "name": "Boundary",
-          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
-      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
-    },
-    {
       "added_at": "2025-01-29 04:37:38",
       "album": {
         "name": "Whatever The Weather",
@@ -1211,6 +1195,22 @@
       "duration_ms": 144000,
       "name": "6\u00b0C",
       "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
+    },
+    {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Oxido En El Espejo",
+        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
+      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "The 39 Steps",
-        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
-      },
-      "artists": [
-        {
-          "name": "Amina Cyu",
-          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
-        }
-      ],
-      "duration_ms": 235530,
-      "name": "Hizo",
-      "url": "https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "BORNE WORLD",
         "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "The 39 Steps",
+        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
+      },
+      "artists": [
+        {
+          "name": "Amina Cyu",
+          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
+        }
+      ],
+      "duration_ms": 235530,
+      "name": "Hizo",
+      "url": "https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -1359,6 +1359,62 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Vidrio",
+        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
+      },
+      "artists": [
+        {
+          "name": "Titanic",
+          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
+        },
+        {
+          "name": "I la Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 171198,
+      "name": "En Paralelo",
+      "url": "https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Epic Wonder",
+        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1391,62 +1447,6 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Vidrio",
-        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
-      },
-      "artists": [
-        {
-          "name": "Titanic",
-          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
-        },
-        {
-          "name": "I la Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 171198,
-      "name": "En Paralelo",
-      "url": "https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc"
-    },
-    {
-      "added_at": "2024-06-19 16:42:50",
-      "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Epic Wonder",
-        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
-      },
-      "artists": [
-        {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 229602,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 173525,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 229602,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
       "added_at": "2024-05-22 11:00:00",

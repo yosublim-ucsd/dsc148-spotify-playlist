@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 194 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 195 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,17 +190,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 180 | [We're in the Same Boat, Brother](https://open.spotify.com/track/0pijKqIXcp92qpGMezrRx6) | [Purabi Mukherjee](https://open.spotify.com/artist/1ZK07plVLCXL2ZhLaQ8Isd) | [Ek Noukar Jatri](https://open.spotify.com/album/08Gn41sNVTKA7oDUXTSJ8n) | 3:54 |
 | 181 | [There's a Sweet Wind Blowin' My Way](https://open.spotify.com/track/2YXJ7hsI81ytP7laCFmbHI) | [Ken Greves](https://open.spotify.com/artist/0EbaLciV1bPmSAAUXPhAif) | [Vintage & Rare the Songs of Harold Arlen, Vol\. 2: Hit the Road to Dreamland](https://open.spotify.com/album/1L7YXDVutt5aGIDoxBK55H) | 4:23 |
 | 182 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 |
-| 183 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 |
-| 184 | [Edelaine](https://open.spotify.com/track/44Jj8bvEXzw6uJDzr9yHf1) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:52 |
+| 183 | [Edelaine](https://open.spotify.com/track/44Jj8bvEXzw6uJDzr9yHf1) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:52 |
+| 184 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 |
 | 185 | [Hooray for What](https://open.spotify.com/track/4CxyBdeKaYBj3Fo2RAc3Wa) | [Pauline Alpert](https://open.spotify.com/artist/5HlR2xXTSlpof36nluDAgz) | [The Whirlwind Pianist](https://open.spotify.com/album/389UxK5Sez4QeLK3pDOpO6) | 3:28 |
 | 186 | [Promise Me Not to Love Me](https://open.spotify.com/track/4Jz1jNsPwGIKNJAiDNmrwJ) | [David Keith Jones](https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7) | [Arlen Magic](https://open.spotify.com/album/2PIEp4cjSXpwIrXuOWUQGS) | 3:12 |
 | 187 | [Honorable Moon \- Princess O'Rourke, 1943](https://open.spotify.com/track/5SQyDZHDvhNa2uuA5DXqWV) | [Nan Wynn](https://open.spotify.com/artist/01fbAIanLsfk95sETzqHdh) | [Best OLIVIA DE HAVILLAND Early Movie Themes, Vol\. 1](https://open.spotify.com/album/1slkBt8QzYVb57LWkRgVOC) | 2:21 |
 | 188 | [Love Comes in Many Different Colors](https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:24 |
 | 189 | [Crazy Old World](https://open.spotify.com/track/4nRDzupVtLnkjwZ5W4nZrq) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:16 |
 | 190 | [Hot Moonlight](https://open.spotify.com/track/3XDEtILipdstPlK9y5mp2W) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
-| 191 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
-| 192 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
-| 193 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
-| 194 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
+| 191 | [Missouri Misery](https://open.spotify.com/track/4U5W2lN3u71BKc9RSKrF80) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:02 |
+| 192 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
+| 193 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
+| 194 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
+| 195 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbqevgAAAAAFLWjciAOxQhNMYVvStaIY`
+Snapshot ID: `AbqkXwAAAAApJ59yJmRccULxcQZD2kct`

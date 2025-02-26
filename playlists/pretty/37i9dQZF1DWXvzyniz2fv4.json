@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158759,
+  "num_followers": 158754,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,34 @@
       "duration_ms": 217731,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00e9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -63,34 +91,6 @@
       "duration_ms": 199680,
       "name": "Balan\u00e7o de Rede",
       "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00e9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -519,6 +519,30 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/0WZo4kqjKYAEcw4hhaSqMK"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Dos Mlk",
+          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
+        }
+      ],
+      "duration_ms": 159789,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/5AWJorXABGBY0WhrhpkmJe"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -647,30 +671,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/0WZo4kqjKYAEcw4hhaSqMK"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Dos Mlk",
-          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
-        }
-      ],
-      "duration_ms": 159789,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/5AWJorXABGBY0WhrhpkmJe"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 211549,
       "name": "Certo pra Voc\u00ea",
       "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+      },
+      "artists": [
+        {
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+        },
+        {
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+        }
+      ],
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -959,26 +979,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
-      },
-      "artists": [
-        {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
-        },
-        {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
-        }
-      ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1315,18 +1315,26 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
       "artists": [
         {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+          "name": "Gabriel Saffi",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     }
   ],
   "unique_name": "Resenha na Praia",

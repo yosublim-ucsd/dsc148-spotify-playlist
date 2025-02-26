@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 47038,
+  "num_followers": 47036,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAABUOQeTLAaX53qxHNoiRJi",
+  "snapshot_id": "Z7u2gAAAAAB/nuVt0oOMFstoMf2gu5Ve",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Take It Away",
-      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+      "duration_ms": 193733,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
     },
     {
       "added_at": null,
@@ -271,6 +271,38 @@
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Poetic Tragedy",
+      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
     },
     {
       "added_at": null,
@@ -295,38 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Poetic Tragedy",
-      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -339,38 +339,6 @@
       "duration_ms": 177600,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artwork (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Blood on My Hands",
-      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
     },
     {
       "added_at": null,
@@ -391,6 +359,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 172146,
       "name": "People Are Vomit",
       "url": "https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Listening",
+      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Listening",
-      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Liar Liar (Burn in Hell)",
-      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 183044,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Liar Liar (Burn in Hell)",
+      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 179147,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 170484,
       "name": "Depression Personified",
       "url": "https://open.spotify.com/track/7gwY1pfRxbXJzFgi40DUz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
     },
     {
       "added_at": null,

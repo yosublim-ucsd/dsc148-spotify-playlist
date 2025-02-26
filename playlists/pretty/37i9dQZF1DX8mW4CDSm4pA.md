@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 846 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 41 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |
 | 42 | [Find Me](https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 4:17 |
 | 43 | [I Loves You, Porgy](https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina with Strings](https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry) | 4:03 |
-| 44 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
-| 45 | [Mean](https://open.spotify.com/track/54FJsCzX921AbmHchPluHd) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI), [Chris Oliver](https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS), [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:21 |
+| 44 | [Mean](https://open.spotify.com/track/54FJsCzX921AbmHchPluHd) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI), [Chris Oliver](https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS), [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:21 |
+| 45 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
 | 46 | [Blame](https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm) | [Dhuwii](https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC) | [Blame](https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN) | 3:11 |
 | 47 | [Butterflyz](https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 4:08 |
 | 48 | [Burning in Birmingham](https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr) | [AMYRA](https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC) | [Something Melancholy](https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy) | 6:32 |

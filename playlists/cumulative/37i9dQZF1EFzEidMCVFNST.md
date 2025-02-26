@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-476 songs - 22 hr 39 min
+477 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Test Drive](https://open.spotify.com/track/2rqR2QGtLtB5uoyKMc5aXS) | [MC Moica](https://open.spotify.com/artist/2D0dJ4JoSf35biliwzF9kB), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Test Drive](https://open.spotify.com/album/4fjbCvR3Ej6ZlXPfIzjsdJ) | 1:56 | 2024-01-29 |  |
 | [Tey Tey Tey](https://open.spotify.com/track/6epAgFPkz5SxESRchD79rq) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Tey Tey Tey](https://open.spotify.com/album/3zVkGP77QOk6Oxbn4Z9HS4) | 2:50 | 2025-01-09 |  |
 | [Tijolinho por Tijolinho](https://open.spotify.com/track/6GDDjSF8kTVunYg6uPFwBT) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Tijolinho por Tijolinho](https://open.spotify.com/album/53GzbFc9S2lj6ob39vUtaj) | 3:01 | 2024-01-29 |  |
+| [Tipo Henrique](https://open.spotify.com/track/1iklCXIEvcfoaCXjtXfQi7) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Duvido Você Não Tomar Uma \- Álbum Completo](https://open.spotify.com/album/5HSlapruFot8M2b4zsE36q) | 2:33 | 2025-02-25 |  |
 | [Tivesse Vindo Ontem \- Ao Vivo](https://open.spotify.com/track/5yLYJ4Fr34fnBrsZHQV9by) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Gd at the Park \(Ao Vivo\)](https://open.spotify.com/album/1RlyFbls2RLh0kWemnkykl) | 3:06 | 2024-01-29 |  |
 | [Todo Mundo Menos Eu](https://open.spotify.com/track/17LerpHwW0neGAJtrnnYDK) | [Cris Santos](https://open.spotify.com/artist/6MqwXyyC7csKctXpXuNlQO) | [Todo Mundo Menos Eu](https://open.spotify.com/album/2rF19PsAhFyv0GfnlF5ahG) | 2:31 | 2024-07-19 |  |
 | [Todo Mundo Menos Eu](https://open.spotify.com/track/5tnyhm8GSoqrfQds6ZylQD) | [Cris Santos](https://open.spotify.com/artist/6MqwXyyC7csKctXpXuNlQO) | [Todo Mundo Menos Eu](https://open.spotify.com/album/6eMMWXZOH0GkRiUB4cB0Z2) | 2:31 | 2024-01-29 | 2024-07-20 |

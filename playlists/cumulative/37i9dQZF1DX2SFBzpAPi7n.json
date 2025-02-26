@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: OWALLOIL(\uc624\uc6d4\uc624\uc77c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: The Volunteers(\ub354 \ubc1c\ub8ec\ud2f0\uc5b4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -11184,6 +11184,24 @@
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+    },
+    {
+      "album": {
+        "name": "Rules",
+        "url": "https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237931,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/6b8PDqaWAwX7aZ2f5wO2Tr"
     },
     {
       "album": {

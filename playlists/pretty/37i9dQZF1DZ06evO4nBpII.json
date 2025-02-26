@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1091439,
+  "num_followers": 1091629,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADEWp4/p459FUfCRSRHsPlZ",
+  "snapshot_id": "Z7u2gAAAAAB4OEotAAEDt7Rrrew32/au",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Macy's Day Parade",
-      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
+      "duration_ms": 175411,
+      "name": "St. Jimmy",
+      "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 175411,
-      "name": "St. Jimmy",
-      "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
+      "duration_ms": 213106,
+      "name": "Macy's Day Parade",
+      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
     },
     {
       "added_at": null,
@@ -647,6 +647,38 @@
       "duration_ms": 309106,
       "name": "21st Century Breakdown",
       "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 120442,
+      "name": "She's a Rebel",
+      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,
@@ -671,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "\u00a1UNO!",
+        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
       },
       "artists": [
         {
@@ -680,25 +712,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 120442,
-      "name": "She's a Rebel",
-      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
+      "duration_ms": 303293,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 227680,
       "name": "\u00bfViva La Gloria? (Little Girl)",
       "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1UNO!",
-        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
     },
     {
       "added_at": null,

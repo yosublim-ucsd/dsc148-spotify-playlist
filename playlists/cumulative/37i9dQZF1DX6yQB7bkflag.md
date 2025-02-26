@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Oslo Ibrahim
 
-1,354 songs - 3 day 6 hr 45 min
+1,355 songs - 3 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Kamu Pemain Aku Pelatih](https://open.spotify.com/track/2mTnC4ttIFBauMjlkNrQQx) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Kamu Pemain Aku Pelatih](https://open.spotify.com/album/6gScXa3HXQDkvHABuuhbX6) | 3:33 | 2024-01-18 | 2024-02-10 |
 | [Kamu Tak Sendiri](https://open.spotify.com/track/0SQnaRBCYYnGOCFu8zulgM) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kamu Tak Sendiri](https://open.spotify.com/album/191UHeJM1r2tNbi7N7rs99) | 3:35 | 2024-12-12 | 2025-02-14 |
 | [Kamulah Orangnya](https://open.spotify.com/track/0EML5Zo6PD2Sr3KRvdM6Lv) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Kamulah Orangnya](https://open.spotify.com/album/0frT8PPxoLbbP8jKR6RVdU) | 3:54 | 2024-05-30 | 2024-07-12 |
+| [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 | 2025-02-25 |  |
 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 | 2025-01-09 | 2025-02-14 |
 | [Karunia Semesta](https://open.spotify.com/track/4lw4drUE3FNvcKnQ7Ku4pB) | [The Changcuters](https://open.spotify.com/artist/1DZs8IjMvRQqB3i0uvgCc5) | [Karunia Semesta](https://open.spotify.com/album/34EA1OOMTjRH8Ul9M6l6UN) | 3:22 | 2024-10-11 | 2024-11-08 |
 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2024-01-18 | 2024-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: MOLODI
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,727 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,739 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 60 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 |
 | 61 | [Поклич мене на танці](https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5) | [Пан Парасоля](https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq) | [Поклич мене на танці](https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ) | 3:07 |
 | 62 | [No Time to Cry](https://open.spotify.com/track/62Mlz8ffiLicV1Ngzlpjrw) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [No Time to Cry](https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw) | 2:50 |
-| 63 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 |
-| 64 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 |
+| 63 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 |
+| 64 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 |
 | 65 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 |
 | 66 | [Ліфт](https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Ліфт](https://open.spotify.com/album/3VlwiDK6GKqvukwECg6qoG) | 3:34 |
 | 67 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,909 likes - 77 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,933 likes - 77 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

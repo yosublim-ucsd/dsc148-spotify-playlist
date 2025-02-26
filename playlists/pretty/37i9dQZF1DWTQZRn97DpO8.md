@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Nilusi
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,172 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,195 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Comme je l'aime](https://open.spotify.com/track/1BmmF0R8N8E8hKS01RAJ2g) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Comme je l'aime](https://open.spotify.com/album/6Qf7uI07LuuL0Cur2l09b6) | 3:23 |
 | 2 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 |
 | 3 | [IN YOUR EYES](https://open.spotify.com/track/6tuIekiRS3sTmjraB4EI2y) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 3:14 |
-| 4 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 |
+| 4 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 |
 | 5 | [Heureuse](https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5) | [Redzol](https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Heureuse](https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc) | 2:45 |
 | 6 | [Laissez\-moi](https://open.spotify.com/track/23OElriSAhtF7Y2L4qw2yb) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Premier pétale](https://open.spotify.com/album/135Blnc2l4f5iIPVOf9RHe) | 3:12 |
 | 7 | [bien avant les fleurs](https://open.spotify.com/track/5v9DxlvXjly6nOs5dUnu9O) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [Avant les fleurs](https://open.spotify.com/album/0PFGUOD2ohvtzuhUBaaZPX) | 2:55 |

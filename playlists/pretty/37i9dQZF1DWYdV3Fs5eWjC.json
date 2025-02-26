@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Kehlani",
-  "num_followers": 79546,
+  "num_followers": 79554,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -505,20 +505,24 @@
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
+      "added_at": "2023-05-25 04:09:32",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 229844,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/2qB5DAgRdacJUtayEnf3ip"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -541,24 +545,20 @@
       "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
+      "added_at": "2023-10-05 17:45:18",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/2qB5DAgRdacJUtayEnf3ip"
     },
     {
       "added_at": "2022-05-31 20:14:29",

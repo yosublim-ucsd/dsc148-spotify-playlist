@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Breakwater",
+        "url": "https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx"
+      },
+      "artists": [
+        {
+          "name": "Riku Arai",
+          "url": "https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126816,
+      "name": "Breakwater",
+      "url": "https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G"
+    },
+    {
+      "album": {
         "name": "Briefly",
         "url": "https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ"
       },
@@ -2862,6 +2880,24 @@
       "duration_ms": 159124,
       "name": "Winterfall",
       "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
+    },
+    {
+      "album": {
+        "name": "Woodland Morning",
+        "url": "https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149879,
+      "name": "Woodland Morning",
+      "url": "https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2"
     },
     {
       "album": {

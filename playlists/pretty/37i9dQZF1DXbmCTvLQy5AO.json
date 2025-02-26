@@ -1,6 +1,6 @@
 {
   "description": "Empowered rhymes and vibes. Cover: Tinashe",
-  "num_followers": 478242,
+  "num_followers": 478255,
   "original_name": "Work It, Own It",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+      "duration_ms": 246752,
+      "name": "Itty Bitty Piggy",
+      "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Beam Me Up Scotty",
-        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 246752,
-      "name": "Itty Bitty Piggy",
-      "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Imma Celebrity",
-        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Dirty Computer",
         "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 200338,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Imma Celebrity",
+        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 188965,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/7MPk6lrA9jYQTbrcQuXmxF"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        }
+      ],
+      "duration_ms": 150160,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/03Cc9uqZhb8yCMIi6ExEL3"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/7MPk6lrA9jYQTbrcQuXmxF"
-      },
-      "artists": [
-        {
-          "name": "Soul\u00e9",
-          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
-        }
-      ],
-      "duration_ms": 150160,
-      "name": "Pick It Up",
-      "url": "https://open.spotify.com/track/03Cc9uqZhb8yCMIi6ExEL3"
     },
     {
       "added_at": "2024-06-12 09:07:18",

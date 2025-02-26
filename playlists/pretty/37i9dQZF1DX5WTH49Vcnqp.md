@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,184 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,157 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR) | 3:40 |
 | 75 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 
-Snapshot ID: `Z7cnaQAAAAAYivmSnAeRjeBIrzEtM45n`
+Snapshot ID: `Z7cnaQAAAAD6T4QIdYjX2245Lv3L2J+3`

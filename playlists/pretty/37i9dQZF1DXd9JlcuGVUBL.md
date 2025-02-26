@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4?si=loNMQHsmQVaNSeljhqQIjg">Christi van Niekerk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,522 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,526 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

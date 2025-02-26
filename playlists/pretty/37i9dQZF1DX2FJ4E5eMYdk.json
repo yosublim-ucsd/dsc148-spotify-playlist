@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 180157,
+  "num_followers": 180202,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
-      },
-      "artists": [
-        {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 266946,
       "name": "Seaquest",
       "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+      },
+      "artists": [
+        {
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Existential Beast",
         "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 367480,
       "name": "Golden Gate",
       "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-07-05 19:49:15",

@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to Pakistani Hits\. Cover: Talha Anjum
+> Home to Pakistani Hits\. Cover: Maanu, Annural Khalid
 
-201 songs - 13 hr 46 min
+203 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Happy Hour](https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 3:15 | 2023-05-04 | 2024-01-13 |
 | [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 | 2024-05-18 |
 | [Heartbreak Kid](https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 4:04 | 2024-12-19 |  |
+| [Heer](https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC) | [Heer](https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm) | 4:10 | 2025-02-25 |  |
 | [Hona Tha Pyar](https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Bol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l) | 3:41 | 2023-05-04 |  |
 | [Humsafar](https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Humsafar \(2011\)](https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH) | 6:21 | 2023-12-29 | 2024-12-20 |
 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 | 2024-01-12 | 2024-04-27 |
@@ -96,6 +97,7 @@
 | [Jal Jaane Do](https://open.spotify.com/track/3Q7nCNuWLRnj77oo5hLRdV) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Jal Jaane Do](https://open.spotify.com/album/1pl2bOP3TrhPo132bIV3CJ) | 3:53 | 2023-05-04 | 2023-05-09 |
 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2023-12-21 | 2024-04-27 |
 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-06-14 |  |
+| [Jhol \- Acoustic](https://open.spotify.com/track/0S7MLlU27WnE3bwCcDu6Pj) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Jhol \(Acoustic\)](https://open.spotify.com/album/5iQWs6EDVerd6MxgYbsgKX) | 4:37 | 2025-02-25 |  |
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-04 |  |
 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 | 2023-05-04 | 2023-11-30 |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-05-04 | 2023-11-30 |

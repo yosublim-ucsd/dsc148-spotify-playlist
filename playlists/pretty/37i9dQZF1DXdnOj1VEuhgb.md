@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Murda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,820 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,878 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SCOTTY](https://open.spotify.com/track/65X5tjYqkJVWm3lTHDGXLO) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:01 |
-| 2 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
-| 3 | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X) | 2:47 |
+| 1 | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X) | 2:47 |
+| 2 | [SCOTTY](https://open.spotify.com/track/65X5tjYqkJVWm3lTHDGXLO) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:01 |
+| 3 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
 | 4 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
 | 5 | [Ağla](https://open.spotify.com/track/4qJ5KHEJdcp5niEPWOnTyU) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ElPatron](https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX) | 2:13 |
 | 6 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 12 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
 | 13 | [AKTIV](https://open.spotify.com/track/3BF6F5El3dlcxc795bUCpG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Chiko](https://open.spotify.com/artist/3nLn72r2AdxLr304n82TIZ) | [AKTIV](https://open.spotify.com/album/52F6P9abjhKKSwBBOOaAOS) | 2:00 |
 | 14 | [DURULDUM](https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [KERO](https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2) | [DURULDUM](https://open.spotify.com/album/2ISMOqiabzIjxSzaZCFNAL) | 2:04 |
-| 15 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 |
+| 15 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 |
 | 16 | [Ne Olmaz İhtimal](https://open.spotify.com/track/6vRTFfpWO3iH47zgNX6P52) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ölüler Parkı Fanzin](https://open.spotify.com/album/0jBuXfPDZaQiBFM235Spgc) | 2:32 |
 | 17 | [Lab Cypher 3](https://open.spotify.com/track/2zkVu77OFOrnxhGKo674rn) | [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw), [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Lab Cypher 3](https://open.spotify.com/album/0IX8yljLdupe4T6wKMRdt2) | 4:04 |
 | 18 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
 | 50 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 
-Snapshot ID: `Z7eX2wAAAABqBAfZB18KeitrBo6kN+NA`
+Snapshot ID: `Z72KFAAAAAAP76tihCCHiuVhGr6VLx5U`

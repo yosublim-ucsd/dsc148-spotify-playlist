@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5341,
+  "num_followers": 5342,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2024-11-07 00:01:00",

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-160 songs - 6 hr 39 min
+162 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-04 |  |
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2023-05-09 |  |
 | [Blanche, Op\. 10](https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL) | [Henri de Quengo](https://open.spotify.com/artist/5OgcUeWAFwuAgo9wDWr6hr) | [Blanche, Op\. 10](https://open.spotify.com/album/5AKXt0yEKjmyKE9fdddEdt) | 2:19 | 2023-05-09 | 2025-01-07 |
+| [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-25 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 |  |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 |  |
 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 | 2023-08-15 |  |
@@ -166,6 +167,7 @@
 | [When She Smiles](https://open.spotify.com/track/6MvHCW8J9cOp5Ojjz74yyT) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [When She Smiles](https://open.spotify.com/album/6WnYc9OyWVxu9Dli61RhWe) | 2:41 | 2023-05-09 | 2025-01-07 |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-05-09 |  |
 | [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-05-09 |  |
+| [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 | 2025-02-25 |  |
 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 | 2023-08-15 |  |
 | [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 |  |
 

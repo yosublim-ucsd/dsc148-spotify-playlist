@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. JC Reyes
 
-717 songs - 1 day 15 hr 39 min
+718 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bandido \(Remix\)](https://open.spotify.com/track/6ExTczq02XIWJjGKoi13RJ) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Bandido \(Remix\)](https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56) | 4:06 | 2022-01-24 | 2022-09-20 |
 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-10-26 | 2023-12-19 |
 | [BARCELONA](https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [DE CAMINO A HERMES](https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc) | 4:03 | 2023-11-10 | 2023-11-24 |
-| [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 | 2025-01-20 |  |
+| [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 | 2025-01-20 | 2025-02-26 |
 | [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 | 2024-04-01 | 2024-08-27 |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-09-08 | 2022-09-20 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-11 | 2024-01-16 |
@@ -602,6 +602,7 @@
 | [Si Tú Te Vas \(feat\. Yung Beef\) \- Remix](https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Si Tú Te Vas \(feat\. Yung Beef\) \[Remix\]](https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch) | 3:35 | 2022-08-11 | 2022-11-22 |
 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 | 2022-11-29 | 2023-01-18 |
 | [Si, Ajá](https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 3:18 | 2024-09-23 |  |
+| [Siete](https://open.spotify.com/track/30uBwESUFs5bNxPf7YCOaV) | [QVDO](https://open.spotify.com/artist/5CggkMUpyXwOYoTtmVtYN1) | [Siete](https://open.spotify.com/album/55n3TyJ14ocYJcfX2CH4au) | 2:33 | 2025-02-25 |  |
 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 | 2023-02-10 | 2023-08-29 |
 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 | 2022-10-10 | 2022-11-04 |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-05-25 | 2023-07-11 |

@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Rusherking y Micro TDH
 
-331 songs - 17 hr 51 min
+332 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Nuestro Truman Show](https://open.spotify.com/track/4BbwJJnW7PbJXAbKXQlV8n) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Nuestro Truman Show](https://open.spotify.com/album/7hzuydFAr0MNGzmRNwz0uS) | 5:50 | 2024-04-12 | 2024-04-27 |
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2023-10-23 |  |
 | [Octubre](https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Octubre](https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP) | 2:24 | 2024-07-26 | 2024-10-26 |
+| [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-21 |  |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 | 2023-10-23 | 2024-05-18 |
 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 | 2023-10-23 |  |
@@ -324,7 +325,7 @@
 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 | 2024-10-14 |  |
 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 | 2023-10-23 |  |
 | [Vos y Yo](https://open.spotify.com/track/75zbjgCl0cLZSChEGICq0Y) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S) | [Vos y Yo](https://open.spotify.com/album/6Z9ifkt578fCE5d0HHzlaB) | 2:32 | 2025-02-07 | 2025-02-22 |
-| [Voy A Brindar](https://open.spotify.com/track/6h2OfZy5Q2NP3aBCCby0Eg) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Voy A Brindar](https://open.spotify.com/album/3kRaSYXy8iJG9VtOWLu0Mu) | 2:38 | 2024-12-06 |  |
+| [Voy A Brindar](https://open.spotify.com/track/6h2OfZy5Q2NP3aBCCby0Eg) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Voy A Brindar](https://open.spotify.com/album/3kRaSYXy8iJG9VtOWLu0Mu) | 2:38 | 2024-12-06 | 2025-02-26 |
 | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2) | 2:52 | 2024-10-25 |  |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2023-10-23 | 2025-01-30 |
 | [WE PRAY \- \(TINI Version\)](https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 | 2024-09-06 |  |

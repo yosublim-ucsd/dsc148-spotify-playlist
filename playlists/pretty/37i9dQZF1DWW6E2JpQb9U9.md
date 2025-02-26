@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,127 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,155 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 36 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
 | 37 | [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 |
 | 38 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 |
-| 39 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 |
-| 40 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 |
+| 39 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 |
+| 40 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 |
 | 41 | [El Viejo \(En Vivo\)](https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 3:15 |
 | 42 | [A Dónde Vas \- Acústico en Vivo](https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 3:47 |
 | 43 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 |

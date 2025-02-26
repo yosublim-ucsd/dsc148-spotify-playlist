@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: PARTYNEXTDOOR & Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,027 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,070 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 74 | [Calm Down](https://open.spotify.com/track/1ghHnjy79m7R5QrUeIZAdH) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [All Things Aside](https://open.spotify.com/album/1Q6ixXXx0sCHZXTSA9zudU) | 2:20 |
 | 75 | [PROBLEM CHILD](https://open.spotify.com/track/6vrSi7x0dJQYiMBPNsTJq2) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [PROBLEM CHILD](https://open.spotify.com/album/5K3UgW1ru3z3WW23nosGA2) | 2:37 |
 
-Snapshot ID: `Z7gIcQAAAADX70SumpYT/MBHXY5J8A/Z`
+Snapshot ID: `Z7gIcQAAAAA/5b7rV6nxhJT/GJ7vQHgv`

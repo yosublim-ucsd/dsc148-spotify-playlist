@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alejandro Fern\u00e1ndez",
-  "num_followers": 361696,
+  "num_followers": 361745,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "Pa' Olvidarme De Ella",
-        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 227233,
-      "name": "Pa' Olvidarme De Ella",
-      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "Pa' Olvidarme De Ella",
+        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 227233,
+      "name": "Pa' Olvidarme De Ella",
+      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "Peca de Bonita",
-        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166200,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "Te Confirmo",
-        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 222130,
-      "name": "Te Confirmo",
-      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "El Cigarrillo",
         "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "Te Confirmo",
+        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 222130,
+      "name": "Te Confirmo",
+      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "El Concierto de mi Vida",
-        "url": "https://open.spotify.com/album/1fygi1kVK236WxthwlHyBr"
+        "name": "Lo que no fue no ser\u00e1",
+        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 153800,
-      "name": "El Concierto de mi Vida",
-      "url": "https://open.spotify.com/track/2i6xB3VJ6nu4sIkqEDPDas"
+      "duration_ms": 217693,
+      "name": "Lo que no fue no ser\u00e1",
+      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "Si Lo Intentamos",
-        "url": "https://open.spotify.com/album/5VmfWoNwGaNi3DFu4TpHlZ"
-      },
-      "artists": [
-        {
-          "name": "Chema Elizondo",
-          "url": "https://open.spotify.com/artist/49Bb0CVbsJVubswtlxfvZ6"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Si Lo Intentamos",
-      "url": "https://open.spotify.com/track/3tCjr2h0VvNyZ1avCd1wJa"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "Vali\u00f3 La Pena Con Mariachi",
         "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 226666,
       "name": "Duele Estar Vivo",
       "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "Si Lo Intentamos",
+        "url": "https://open.spotify.com/album/5VmfWoNwGaNi3DFu4TpHlZ"
+      },
+      "artists": [
+        {
+          "name": "Chema Elizondo",
+          "url": "https://open.spotify.com/artist/49Bb0CVbsJVubswtlxfvZ6"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Si Lo Intentamos",
+      "url": "https://open.spotify.com/track/3tCjr2h0VvNyZ1avCd1wJa"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "Lo que no fue no ser\u00e1",
-        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
+        "name": "El Concierto de mi Vida",
+        "url": "https://open.spotify.com/album/1fygi1kVK236WxthwlHyBr"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Lo que no fue no ser\u00e1",
-      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+      "duration_ms": 153800,
+      "name": "El Concierto de mi Vida",
+      "url": "https://open.spotify.com/track/2i6xB3VJ6nu4sIkqEDPDas"
     },
     {
       "added_at": "2025-02-21 06:00:08",

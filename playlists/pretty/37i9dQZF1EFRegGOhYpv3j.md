@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 60 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 |
 | 61 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
 | 62 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
-| 63 | [Tough Love](https://open.spotify.com/track/38jUBnMcpGDHkWjRujrM7B) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Patient EP](https://open.spotify.com/album/6FJFs1f2LQWMMudboY9M1t) | 3:17 |
-| 64 | [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 |
+| 63 | [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 |
+| 64 | [Tough Love](https://open.spotify.com/track/38jUBnMcpGDHkWjRujrM7B) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Patient EP](https://open.spotify.com/album/6FJFs1f2LQWMMudboY9M1t) | 3:17 |
 | 65 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
 | 66 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 |
 | 67 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 74 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 75 | [Space Traveler \- Lucy Remix](https://open.spotify.com/track/5ZeBGX6fqhzK237bzlvAi3) | [Florian Meindl](https://open.spotify.com/artist/3ifSx5yWok1sISs8J89omX), [Lucy](https://open.spotify.com/artist/7oVnuNTfcmObCIJ2DVvkk3) | [Time Illusion Remixes](https://open.spotify.com/album/2S56BIAz0orTVXIdGVTCzy) | 7:37 |
 
-Snapshot ID: `AbqevgAAAABdP+DnhjUt5lryWyx4Roy1`
+Snapshot ID: `AbqkVAAAAABvTui4D2Rpe6dLdWHc2E92`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5417,
+  "num_followers": 5418,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADD8f/3piVtXPY/Ae+c75FU",
+  "snapshot_id": "Z7u2gAAAAADNvIL4Rai0xuE7KHjq2Blg",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Querian Facil",
-        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 225593,
-      "name": "La Querian Facil",
-      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Botas O Gabanas",
         "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 170842,
       "name": "De Botas O Gabanas",
       "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Querian Facil",
+        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 225593,
+      "name": "La Querian Facil",
+      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 110682,
-      "name": "Los 3 Del NM",
-      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos y Libras",
         "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 110682,
+      "name": "Los 3 Del NM",
+      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando Al Chavalon",
-        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 132555,
-      "name": "Recordando Al Chavalon",
-      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 216448,
       "name": "Mundo Desgraciado",
       "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando Al Chavalon",
+        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 132555,
+      "name": "Recordando Al Chavalon",
+      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 191511,
-      "name": "100k Bajo La Cama",
-      "url": "https://open.spotify.com/track/2oXgRyMfp75xBfBytW5PsW"
+      "duration_ms": 172391,
+      "name": "El De Las Yukones",
+      "url": "https://open.spotify.com/track/4CBuhWcnA1shPffJd116rU"
     },
     {
       "added_at": null,

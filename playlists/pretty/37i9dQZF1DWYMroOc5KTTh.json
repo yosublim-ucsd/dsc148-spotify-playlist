@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 583814,
+  "num_followers": 583981,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,18 @@
     {
       "added_at": "2025-02-14 00:00:35",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
       "artists": [
         {
           "name": "Oden & Fatzo",
           "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2025-02-14 00:00:35",
@@ -311,18 +307,22 @@
     {
       "added_at": "2025-02-14 00:00:35",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
       "artists": [
         {
           "name": "Oden & Fatzo",
           "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2025-02-14 00:00:35",
@@ -483,42 +483,6 @@
     {
       "added_at": "2025-02-14 00:00:35",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 227934,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
-    },
-    {
-      "added_at": "2025-02-14 00:00:35",
-      "album": {
-        "name": "Paradis Blanc",
-        "url": "https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N"
-      },
-      "artists": [
-        {
-          "name": "Me & George",
-          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "Paradis Blanc",
-      "url": "https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt"
-    },
-    {
-      "added_at": "2025-02-14 00:00:35",
-      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -539,6 +503,42 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "added_at": "2025-02-14 00:00:35",
+      "album": {
+        "name": "Paradis Blanc",
+        "url": "https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "Paradis Blanc",
+      "url": "https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt"
+    },
+    {
+      "added_at": "2025-02-14 00:00:35",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     },
     {
       "added_at": "2025-02-14 00:00:35",

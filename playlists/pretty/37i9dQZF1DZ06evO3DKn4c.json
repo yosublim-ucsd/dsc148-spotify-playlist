@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 37784,
+  "num_followers": 37802,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAABaiyeCG4fgScucuwURbtSn",
+  "snapshot_id": "Z7u2gAAAAAAv05tLnWVgZ41dXsa2jg7k",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
       },
       "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
       },
       "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
+      "duration_ms": 217444,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
     },
     {
       "added_at": null,
@@ -495,26 +495,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
       "artists": [
         {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+          "name": "Tejo",
+          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         },
         {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
         }
       ],
-      "duration_ms": 331775,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+      "duration_ms": 187746,
+      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
+      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
     },
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Tejo",
-          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
-      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "duration_ms": 331775,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
     },
     {
       "added_at": null,
@@ -716,33 +716,25 @@
       "added_at": null,
       "album": {
         "name": "Crian\u00e7as Selvagens",
-        "url": "https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS"
+        "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
       },
       "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
         {
           "name": "Hot e Oreia",
           "url": "https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE"
         },
         {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
           "name": "Coyote Beatz",
           "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Hot",
-          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
-        },
-        {
-          "name": "Oreia",
-          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
         }
       ],
       "duration_ms": 235413,
       "name": "Papaia",
-      "url": "https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg"
+      "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
     },
     {
       "added_at": null,
@@ -783,26 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
       "artists": [
         {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Bi Ribeiro",
-          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
         }
       ],
-      "duration_ms": 214187,
-      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
-      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+      "duration_ms": 67576,
+      "name": "1972 (Intro)",
+      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
     },
     {
       "added_at": null,
@@ -827,18 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
       },
       "artists": [
         {
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Bi Ribeiro",
+          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
         }
       ],
-      "duration_ms": 67576,
-      "name": "1972 (Intro)",
-      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
+      "duration_ms": 214187,
+      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
+      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,

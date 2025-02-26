@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,369 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,380 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 25 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 26 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
 | 27 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
-| 28 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
-| 29 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
-| 30 | [那時有你](https://open.spotify.com/track/4HqboFElGvFjJKb7C3AZ9D) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [那時有你](https://open.spotify.com/album/1GpsjR2f2tPIoONzuoGfPP) | 5:48 |
-| 31 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
+| 28 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
+| 29 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
+| 30 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
+| 31 | [那時有你](https://open.spotify.com/track/4HqboFElGvFjJKb7C3AZ9D) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [那時有你](https://open.spotify.com/album/1GpsjR2f2tPIoONzuoGfPP) | 5:48 |
 | 32 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 33 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
 | 34 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 45 | [Love You & Your Friends \- Spotify Singles](https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Spotify Singles](https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk) | 3:53 |
 | 46 | [廢棄清理](https://open.spotify.com/track/5VRtvKBkpZIxKqtZIvK4Tp) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [廢棄清理](https://open.spotify.com/album/1hg6wNzp3DpzLVSHMTuc4m) | 3:01 |
 | 47 | [沉默](https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh) | 5:05 |
-| 48 | [海枯石爛](https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [Romance](https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4) | 3:52 |
-| 49 | [孤獨患者](https://open.spotify.com/track/7p1LiQch1hP16qoaI6J7Fw) | [Andy Shieh](https://open.spotify.com/artist/6VfUvCNDq7I5QZgCEBEKYq) | [孤獨患者](https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4) | 4:28 |
+| 48 | [孤獨患者](https://open.spotify.com/track/7p1LiQch1hP16qoaI6J7Fw) | [Andy Shieh](https://open.spotify.com/artist/6VfUvCNDq7I5QZgCEBEKYq) | [孤獨患者](https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4) | 4:28 |
+| 49 | [海枯石爛](https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [Romance](https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4) | 3:52 |
 | 50 | [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 |
 
 Snapshot ID: `Z7dRmwAAAAAl1JidXqedBOw3fGjhbtce`

@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Unscripted",
+        "url": "https://open.spotify.com/album/1EwM33OQDwUmpdTQYYEL0u"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Apsara",
+      "url": "https://open.spotify.com/track/5B2TdZXgmNRfSNTi4v9Zrr"
+    },
+    {
+      "album": {
         "name": "Athroo",
         "url": "https://open.spotify.com/album/4se8I5DaOxmaiBPVfwbyXR"
       },
@@ -1552,6 +1570,28 @@
       "duration_ms": 175934,
       "name": "Beliya",
       "url": "https://open.spotify.com/track/58C05jp9At1nyCSK3D1hBv"
+    },
+    {
+      "album": {
+        "name": "Beparwaiyaan",
+        "url": "https://open.spotify.com/album/2VYdhgZm7FkzU4tHEBo0xT"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243111,
+      "name": "Beparwaiyaan",
+      "url": "https://open.spotify.com/track/01yENQkm85JfHz2TAKQHPN"
     },
     {
       "album": {
@@ -2480,7 +2520,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 178102,
       "name": "Challa",
       "url": "https://open.spotify.com/track/34g7rnGAwjsPurAIiD3pjO"
@@ -4138,6 +4178,32 @@
       "duration_ms": 237333,
       "name": "Dil Tu Jaan Tu",
       "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "album": {
+        "name": "Dil Tu Jaan Tu (Female Version)",
+        "url": "https://open.spotify.com/album/7jtVyMSUZGN7EH9a69Gcyp"
+      },
+      "artists": [
+        {
+          "name": "Arunima Sharma",
+          "url": "https://open.spotify.com/artist/2zzJUB2acfwOKPhMnJkBMv"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        },
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dil Tu Jaan Tu (Female Version)",
+      "url": "https://open.spotify.com/track/3W4UJM65swZgLifMu7DxPf"
     },
     {
       "album": {
@@ -12886,7 +12952,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 180000,
       "name": "Nimm Thalle",
       "url": "https://open.spotify.com/track/31YZi2MZoP2CszakCUG9NO"
@@ -13566,7 +13632,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 384677,
       "name": "Pata Hi Ni Laggeya (From \"Hoshiar Singh\")",
       "url": "https://open.spotify.com/track/3GlVHbqHFxscQrLFvZSFPS"
@@ -20228,6 +20294,14 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
         }
       ],
       "date_added": "2025-02-15",

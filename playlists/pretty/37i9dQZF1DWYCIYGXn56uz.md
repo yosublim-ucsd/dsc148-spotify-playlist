@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,647 likes - 87 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,657 likes - 87 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 86 | [SORRIDI](https://open.spotify.com/track/2BJaqUsL1o6iTQ9hdE47Gt) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [SORRIDI](https://open.spotify.com/album/4Kp4ZIviktMIGIOK2eyfs8) | 2:38 |
 | 87 | [GOOD VIBES](https://open.spotify.com/track/0M8pMoPhKVVR8H2spqn6WR) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [GOOD VIBES](https://open.spotify.com/album/2PQxEamcHfVno3b9XqDTZ9) | 2:17 |
 
-Snapshot ID: `Z7e0OwAAAADUmNNX9Jl9sDTlBikhzAw6`
+Snapshot ID: `Z7e0OwAAAABY4WtAPhlVSawEoS4VowSF`

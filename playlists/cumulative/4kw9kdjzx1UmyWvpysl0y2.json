@@ -2375,6 +2375,28 @@
     },
     {
       "album": {
+        "name": "by myself",
+        "url": "https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "oncor",
+          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "by myself",
+      "url": "https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb"
+    },
+    {
+      "album": {
         "name": "BXU",
         "url": "https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ"
       },

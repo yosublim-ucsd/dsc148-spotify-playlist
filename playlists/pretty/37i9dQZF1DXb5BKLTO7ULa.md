@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,061 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,056 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [Weekend](https://open.spotify.com/track/5SBoHnZ0j3296tXHaKJs8R) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Weekend](https://open.spotify.com/album/71ZoUX1iozJo0CFtKZukFZ) | 3:26 |
 | 66 | [No One Said](https://open.spotify.com/track/65vPvXMPdG9Plfytj6T0r5) | [Áslaug](https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz) | [No One Said](https://open.spotify.com/album/2vMkCaxGJL81X3BlQPpRqQ) | 3:24 |
 | 67 | [Trustfall](https://open.spotify.com/track/3bsa5c5Xs8ySQOJxFluQv6) | [Valvetronic](https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1), [Louisa Aida](https://open.spotify.com/artist/2rtdzXthBv4yibhTCSRYYn) | [Trustfall](https://open.spotify.com/album/0aLthXm5wv4zrXv9G1YzYD) | 3:44 |
-| 68 | [Can't Feel Too Much \(with May\)](https://open.spotify.com/track/7KODMHmnEMmY4ToSZRSEZE) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody](https://open.spotify.com/album/0ktjeKs2v0zOpS3N752Lye) | 2:24 |
+| 68 | [Can't Feel Too Much \(with May\)](https://open.spotify.com/track/7KODMHmnEMmY4ToSZRSEZE) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Love Songs About Nobody \(with May\)](https://open.spotify.com/album/0ktjeKs2v0zOpS3N752Lye) | 2:24 |
 | 69 | [INFINITY](https://open.spotify.com/track/1FygpR0yv9eGytytqxA1O4) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [INFINITY](https://open.spotify.com/album/7FUUeTnlcCJ78stxTPvPkI) | 2:34 |
 | 70 | [Antidote](https://open.spotify.com/track/0vgMRt3WKsapgxsLqCZ6Jj) | [SYNGA](https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU) | [Antidote](https://open.spotify.com/album/7JPXeNnRUsSbsq8FzdcxxZ) | 2:55 |
 | 71 | [Toot Toot](https://open.spotify.com/track/5i3ZDK1yWMoFgLAu5O83ul) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Toot Toot, Choo Choo](https://open.spotify.com/album/1okAwOqNUWgKLUJgkfBC9P) | 3:31 |

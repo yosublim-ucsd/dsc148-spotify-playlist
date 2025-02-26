@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-671 songs - 1 day 10 hr 0 min
+674 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [BABY](https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BABY](https://open.spotify.com/album/0496ctErDNGeGhddpJTQct) | 2:38 | 2023-12-13 | 2024-05-15 |
 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 | 2023-12-13 | 2024-07-19 |
 | [Back & Forth](https://open.spotify.com/track/0MY27k185vk4UoWTg1kwpg) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Back & Forth](https://open.spotify.com/album/5CT8ygeSRRS4iQz9cBziP0) | 3:58 | 2024-05-07 | 2024-11-20 |
+| [Back Again](https://open.spotify.com/track/68CEXLdtD26YVdF9CE8FAo) | [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB) | [Back Again](https://open.spotify.com/album/7dZ7VB8uTdIrkSsK0IlHdW) | 2:47 | 2025-02-25 |  |
 | [Back For More](https://open.spotify.com/track/2ZNr0akG6bZggKDDI7PZAB) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Back For More](https://open.spotify.com/album/3FDe6WKhFluZ4qAu0Y90tI) | 3:39 | 2022-06-30 | 2023-04-28 |
 | [Back on Dash](https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej) | [DJVI](https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ) | [Back on Dash](https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32) | 3:06 | 2024-11-08 |  |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
@@ -343,6 +344,7 @@
 | [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |
 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 | 2024-02-23 | 2024-08-28 |
 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 | 2023-08-10 |
+| [Let's Go](https://open.spotify.com/track/5Oz6cJjkuLpUJNdhxiW9Tl) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 2:32 | 2025-02-25 |  |
 | [Let's Play](https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Let's Play](https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K) | 2:32 | 2023-03-03 | 2024-07-19 |
 | [Lies](https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Lies](https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc) | 3:56 | 2024-01-05 | 2024-08-28 |
 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 | 2024-01-04 |
@@ -493,6 +495,7 @@
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-04-28 |
 | [Rally Up!](https://open.spotify.com/track/0FqOa0eycFePycgxkwBUyE) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [XI$OW](https://open.spotify.com/artist/7K0qGLCOb8pvUumHWsYSjF) | [Rally Up!](https://open.spotify.com/album/3gK2I4lWiSuhgH9nuhO8SW) | 1:33 | 2024-07-19 | 2025-01-08 |
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 | 2025-01-08 |
+| [Real Good Liar](https://open.spotify.com/track/5fPb1gDcKVfTLQtgstylT5) | [Nokae](https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 3:10 | 2025-02-25 |  |
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
 | [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 | 2024-05-08 |
 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 | 2024-05-31 | 2024-12-09 |

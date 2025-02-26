@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Yarden
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,334 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,381 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 35 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 |
 | 36 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
 | 37 | [Must](https://open.spotify.com/track/0PfVaK1uYkpxOZ82Y7oeyL) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Must](https://open.spotify.com/album/6Ma0qZgpARXtGbj4iLXz7m) | 2:14 |
-| 38 | [OYO \(Own Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
+| 38 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
 | 39 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 40 | [Vibes on Vibes \(feat\. Olamide\)](https://open.spotify.com/track/4rxFF4dNlg86J29KCedZGO) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Vibes on Vibes \(feat\. Olamide\)](https://open.spotify.com/album/77fRTsdTQ9zVQdLZxW86jQ) | 3:05 |
 | 41 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 |

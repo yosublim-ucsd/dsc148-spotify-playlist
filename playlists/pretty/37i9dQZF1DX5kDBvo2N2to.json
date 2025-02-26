@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59130,
+  "num_followers": 59133,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "G\u00e5 f\u00f6r glory",
-        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "G\u00e5 f\u00f6r glory",
-      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "Lover Online",
         "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 167444,
       "name": "Lover Online",
       "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "G\u00e5 f\u00f6r glory",
+      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Alla Tittar P\u00e5 Mig",
-        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "Alla Tittar P\u00e5 Mig",
-      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "\u201c&\u201d (Ampersand), Part Two",
         "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
+        "name": "Alla Tittar P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "Alla Tittar P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
-        "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
-      "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -615,6 +599,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+        "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+      "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -631,18 +631,18 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
-      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
+      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 251979,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "imsochillandcool",
-        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
       },
       "artists": [
         {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
         }
       ],
-      "duration_ms": 206095,
-      "name": "imsochillandcool",
-      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
+      "duration_ms": 173694,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Dying Light",
-        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
+        "name": "imsochillandcool",
+        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
       },
       "artists": [
         {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
         }
       ],
-      "duration_ms": 173694,
-      "name": "Dying Light",
-      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+      "duration_ms": 206095,
+      "name": "imsochillandcool",
+      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 217294,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Out of My Mind",
-        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 217294,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "Hur ska jag sova inatt",
         "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 179754,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
-        "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
-      },
-      "artists": [
-        {
-          "name": "Daniel Adams-Ray",
-          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
-        }
-      ],
-      "duration_ms": 230975,
-      "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
-      "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "Kyss mig snabbt i otakt",
         "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 150857,
       "name": "Old Memories",
       "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
+        "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+        "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 230975,
+      "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+      "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "KALLAX CARGO",
+        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
+      },
+      "artists": [
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "99 fel",
+      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Hils Din Mor (feat. Anne Linnet)",
         "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 172998,
       "name": "Hils Din Mor (feat. Anne Linnet)",
       "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
-        "name": "KALLAX CARGO",
-        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
-      },
-      "artists": [
-        {
-          "name": "Movits!",
-          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "99 fel",
-      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -1383,6 +1399,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
+      },
+      "artists": [
+        {
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Aqua",
         "url": "https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm"
       },
@@ -1395,22 +1427,6 @@
       "duration_ms": 153887,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
-        "name": "even if my heart breaks",
-        "url": "https://open.spotify.com/album/4OFGAubLuL2b3tPQW9dG7J"
-      },
-      "artists": [
-        {
-          "name": "TUVA",
-          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
-        }
-      ],
-      "duration_ms": 161940,
-      "name": "even if my heart breaks",
-      "url": "https://open.spotify.com/track/1zjLuFuezkngtOgUQhAwjX"
     },
     {
       "added_at": "2025-02-24 13:29:48",
@@ -1447,6 +1463,22 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
+        "name": "even if my heart breaks",
+        "url": "https://open.spotify.com/album/4OFGAubLuL2b3tPQW9dG7J"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "duration_ms": 161940,
+      "name": "even if my heart breaks",
+      "url": "https://open.spotify.com/track/1zjLuFuezkngtOgUQhAwjX"
+    },
+    {
+      "added_at": "2025-02-24 13:29:48",
+      "album": {
         "name": "Goat",
         "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
       },
@@ -1463,22 +1495,6 @@
     {
       "added_at": "2025-02-24 13:29:48",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
-      },
-      "artists": [
-        {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
         "name": "Vilken del av oss gick fel?",
         "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
-    },
-    {
-      "added_at": "2025-02-24 13:29:48",
-      "album": {
-        "name": "Dansa runt problemen",
-        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
-      },
-      "artists": [
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Dansa runt problemen",
-      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
     },
     {
       "added_at": "2025-02-24 13:29:48",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Sunday Service Choir, Shirley Caesar, Marvin Winans and more",
+  "description": "With Sunday Service Choir, James Cleveland, Jordan G. Welch and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 288800,
       "name": "A Move of God Is on the Way",
       "url": "https://open.spotify.com/track/0IEGDguaRRqXWzckqo8yUv"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 204708,
       "name": "Beautiful Scars",
       "url": "https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 226026,
       "name": "Changes",
       "url": "https://open.spotify.com/track/74jixRCwPG719JC2UdN0LP"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 301106,
       "name": "Don\u2019t You Ever",
       "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 262173,
       "name": "Faith Come Alive",
       "url": "https://open.spotify.com/track/2iR1166NshLnEWeAs5WC9Q"
@@ -5574,7 +5574,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 298613,
       "name": "Falling In Love With Jesus - Falling In Love With Jesus Album Version",
       "url": "https://open.spotify.com/track/2fNOP2r6yPyVsz1AyHmQKQ"
@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "Fix Me, Jesus",
       "url": "https://open.spotify.com/track/6uXa7nhaT3oTfWrQDd7tZn"
@@ -6476,7 +6476,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 116749,
       "name": "Future Forever",
       "url": "https://open.spotify.com/track/0Ol5icsjD5XMt2tTV8Td2F"
@@ -6602,7 +6602,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 241906,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/1jHKB3VyaRrj9hvcMTDKk9"
@@ -6620,7 +6620,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 263640,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/2hxNsvAnjC0rGA6noLGynw"
@@ -6692,10 +6692,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Give Me A Clean Heart",
       "url": "https://open.spotify.com/track/3Nhuvb5suZTyk0Zz0LuMkh"
+    },
+    {
+      "album": {
+        "name": "The J Moss Project",
+        "url": "https://open.spotify.com/album/5IvjhjdaKLghRYu1XaBlus"
+      },
+      "artists": [
+        {
+          "name": "James Moss",
+          "url": "https://open.spotify.com/artist/2w3FR8QZkY7PT5UC0CQ1TG"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "Give You More",
+      "url": "https://open.spotify.com/track/68Qe8VMM0viz9z6FQIa8GP"
     },
     {
       "album": {
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 582200,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
@@ -8454,7 +8472,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -8704,7 +8722,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 314240,
       "name": "He Has Done Marvelous Things",
       "url": "https://open.spotify.com/track/2RRX2qjCMKsoZ4zI3UNcQo"
@@ -8766,6 +8784,28 @@
       "duration_ms": 457000,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "album": {
+        "name": "Monday Morning Melodies",
+        "url": "https://open.spotify.com/album/5cBTIYj0gVzO9CxNkXKZVJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan G. Welch",
+          "url": "https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs"
+        },
+        {
+          "name": "James Ashe",
+          "url": "https://open.spotify.com/artist/0qE3WVZ5LsjT3eEppWCsHl"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296573,
+      "name": "He Looked Beyond",
+      "url": "https://open.spotify.com/track/6EN7sgloHvvMEMU74MUi9q"
     },
     {
       "album": {
@@ -9304,7 +9344,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 312076,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/5FsssFEGbSTDHRT1RC6A1R"
@@ -10660,7 +10700,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 288253,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/6QPvpe1V68qwu90iCjGFkS"
@@ -10924,7 +10964,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "I Belong Here",
       "url": "https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa"
@@ -11560,7 +11600,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 301466,
       "name": "I Just Can't Give Up Now",
       "url": "https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS"
@@ -11578,7 +11618,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 284506,
       "name": "I Just Wanna Praise You",
       "url": "https://open.spotify.com/track/7jsIMawhqw1TbqGER801qE"
@@ -12224,7 +12264,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 316066,
       "name": "I Stepped Out",
       "url": "https://open.spotify.com/track/5XBWPJnBGkz7ZEN5uC65cN"
@@ -12996,7 +13036,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 241698,
       "name": "I'll Always Be Thankful (Live)",
       "url": "https://open.spotify.com/track/0WHBbnfUWNSjEX400PFjxe"
@@ -13632,7 +13672,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 284693,
       "name": "I'm With You/Be Still (feat. Adrienne Houghton)",
       "url": "https://open.spotify.com/track/5IxeepziQyXRp8ZMTA2X5p"
@@ -13850,7 +13890,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 268979,
       "name": "If My People",
       "url": "https://open.spotify.com/track/1aFQRba6ZsmNCQzkd0MV9j"
@@ -13922,7 +13962,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 174560,
       "name": "ii. Broken Instrument \u2013 I\u2019ve Heard Legends",
       "url": "https://open.spotify.com/track/767BfP4L7RBUGWgIDpOMpp"
@@ -14338,7 +14378,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 359609,
       "name": "It Belongs To Me (feat. Marvin L. Winans)",
       "url": "https://open.spotify.com/track/6uY12z9dd3ySOiaaMrqoQH"
@@ -14947,6 +14987,28 @@
     },
     {
       "album": {
+        "name": "God's Promise",
+        "url": "https://open.spotify.com/album/5rwYKdnBtW5SChbcnQLMAY"
+      },
+      "artists": [
+        {
+          "name": "Luther Barnes",
+          "url": "https://open.spotify.com/artist/6cG4CfLR3bIWdQHKtphVNd"
+        },
+        {
+          "name": "The Red Budd Gospel Choir",
+          "url": "https://open.spotify.com/artist/1Q98QQsDn1gJhwklQE7h0n"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467200,
+      "name": "Jesus and Me",
+      "url": "https://open.spotify.com/track/5zMYbJThQNBJPcyIItaw9F"
+    },
+    {
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/4szA5LBygknlRz0JV7C8ow"
       },
@@ -15210,7 +15272,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 393906,
       "name": "Jesus Is The Best Thing That Ever Happened To Me",
       "url": "https://open.spotify.com/track/3P1QDUO53xtz069gsYcMYy"
@@ -15652,7 +15714,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "Johnny & Donna",
       "url": "https://open.spotify.com/track/7gThA2feOdNSazklM0ze9Y"
@@ -16150,7 +16212,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 332967,
       "name": "Keep on Lovin'",
       "url": "https://open.spotify.com/track/1q9G0obfJ0wkFFoYQv03Vm"
@@ -16186,7 +16248,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 348323,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/5oF37rEl8wpzMFyyOyjJqa"
@@ -16318,7 +16380,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 185333,
       "name": "King Jesus Is Listening",
       "url": "https://open.spotify.com/track/0M8MpedMeWHvSnVQJEY7zT"
@@ -16488,7 +16550,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 280706,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/11BAOsVRXPbaPXj0lDaKRr"
@@ -18456,7 +18518,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 178026,
       "name": "Marvelous Things",
       "url": "https://open.spotify.com/track/1t04vtfBxhwx3jg4wAEsJG"
@@ -19326,7 +19388,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 391666,
       "name": "My Father Knows",
       "url": "https://open.spotify.com/track/2nwnnLsNhPdil9itwE7Mqm"
@@ -21310,7 +21372,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 183573,
       "name": "One Time (feat. Charles \"Chico\" Wiley)",
       "url": "https://open.spotify.com/track/50gfuFOiADbbaPRstaoP0Z"
@@ -21810,7 +21872,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 230240,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/3lz1UzQwodhesZi6lBVvJh"
@@ -25242,7 +25304,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 293253,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/3IUvdsPAW6kaYfh7V2waek"
@@ -25318,7 +25380,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 396453,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/264DuAk6ypux2fHZFoUSKD"
@@ -25582,7 +25644,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 297936,
       "name": "STILL GON' TRUST",
       "url": "https://open.spotify.com/track/6Mx0N67OO4rW3g0IXfJ7no"
@@ -25878,7 +25940,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 253625,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
@@ -27274,7 +27336,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 180374,
       "name": "The Grateful Chant",
       "url": "https://open.spotify.com/track/4kuwKLDXxuhMz9EB5ilDAE"
@@ -27834,7 +27896,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 303400,
       "name": "The Shepherd Song",
       "url": "https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso"
@@ -28816,7 +28878,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 196253,
       "name": "Touch The Hem Of His Garment",
       "url": "https://open.spotify.com/track/6NK4pJDDkGRgGaiqFDeggl"
@@ -30590,7 +30652,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 281800,
       "name": "When You Fall",
       "url": "https://open.spotify.com/track/0NySJud75Cov8xnqSPcIOt"
@@ -30756,7 +30818,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"
@@ -30792,7 +30854,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 319611,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/0eTK3BDNAujJ6fGJw1Cy39"

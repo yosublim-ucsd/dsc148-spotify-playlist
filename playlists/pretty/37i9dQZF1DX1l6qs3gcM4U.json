@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nelson Freitas",
-  "num_followers": 223454,
+  "num_followers": 223569,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
       },
       "artists": [
         {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
         }
       ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -823,22 +839,6 @@
       "duration_ms": 191698,
       "name": "In\u00edcio do Fim",
       "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 285116,
+      "name": "O Jeito Dela - Original Mix",
+      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 166810,
       "name": "Filme",
       "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 285116,
-      "name": "O Jeito Dela - Original Mix",
-      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 198799,
       "name": "Fica longi bo",
       "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
         "name": "Vai Por Mim",
         "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
+        "name": "Ayah",
+        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 163199,
+      "name": "Ayah",
+      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Ayah",
-        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 163199,
-      "name": "Ayah",
-      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
         "name": "Ramantxada",
         "url": "https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 171670,
       "name": "Ramantxada",
       "url": "https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1615,6 +1599,38 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
+        "name": "MAZ UM BEIJO",
+        "url": "https://open.spotify.com/album/0FpmtHrC2cjAp44hVMTeDq"
+      },
+      "artists": [
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        }
+      ],
+      "duration_ms": 181409,
+      "name": "MAZ UM BEIJO",
+      "url": "https://open.spotify.com/track/5jm17DxeJ0u5wgqpBOrweD"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1655,18 +1671,22 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "MAZ UM BEIJO",
-        "url": "https://open.spotify.com/album/0FpmtHrC2cjAp44hVMTeDq"
+        "name": "Jaj\u00e3o (feat. Eddy Flow)",
+        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
       "artists": [
         {
-          "name": "DENNYH",
-          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+          "name": "Master Jake",
+          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
+        },
+        {
+          "name": "Eddy Flow",
+          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
         }
       ],
-      "duration_ms": 181409,
-      "name": "MAZ UM BEIJO",
-      "url": "https://open.spotify.com/track/5jm17DxeJ0u5wgqpBOrweD"
+      "duration_ms": 248913,
+      "name": "Jaj\u00e3o (feat. Eddy Flow)",
+      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1687,26 +1707,6 @@
       "duration_ms": 182173,
       "name": "Dando Love",
       "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "Jaj\u00e3o (feat. Eddy Flow)",
-        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
-      },
-      "artists": [
-        {
-          "name": "Master Jake",
-          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
-        },
-        {
-          "name": "Eddy Flow",
-          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
-        }
-      ],
-      "duration_ms": 248913,
-      "name": "Jaj\u00e3o (feat. Eddy Flow)",
-      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2025-02-21 00:00:23",

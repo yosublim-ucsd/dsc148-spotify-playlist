@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 10 hr 54 min
+215 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Love\-Sick Serenade](https://open.spotify.com/track/25L80KWxmqesKHcxdae0wO) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Lu Leonard](https://open.spotify.com/artist/4KZ4QxkWwP3tgbPJUclVT5) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:35 | 2024-07-24 |  |
 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 | 2024-07-24 |  |
 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 | 2024-07-24 |  |
+| [Missouri Misery](https://open.spotify.com/track/4U5W2lN3u71BKc9RSKrF80) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:02 | 2025-02-25 |  |
 | [Moanin' in the Mornin'](https://open.spotify.com/track/0r0JilaUrO2Iuj4tPHp81K) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Lee Wiley Sings the Songs of Rodgers & Hart and Arlen](https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN) | 2:52 | 2024-07-24 |  |
 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 | 2024-07-24 |  |
 | [Muchacha](https://open.spotify.com/track/1rsrYgQbVP69Qhhe44hjui) | [Arthur Maia](https://open.spotify.com/artist/4DRpkmcBP1jW0jpinvMr7J) | [Planeta música](https://open.spotify.com/album/0mS1IT1uA2X12y2nqjtuw5) | 7:47 | 2024-07-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 93449,
+  "num_followers": 93476,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -345,6 +345,26 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
+      "added_at": "2025-02-21 07:15:25",
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Good Thing",
@@ -375,26 +395,6 @@
       "duration_ms": 177200,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2025-02-21 07:15:25",
-      "album": {
-        "name": "Body Language (feat. Sasha Keable)",
-        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Body Language (feat. Sasha Keable)",
-      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
     },
     {
       "added_at": "2025-01-24 09:08:15",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
       "added_at": "2024-09-13 09:24:57",
       "album": {
         "name": "Waiting on the Right Time",
@@ -901,20 +885,20 @@
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
-      "added_at": "2025-01-24 09:08:15",
+      "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Ain't Easy",
-        "url": "https://open.spotify.com/album/1TD7QHy48RPhLcBTfjNwth"
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
       },
       "artists": [
         {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 268056,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0"
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -931,6 +915,22 @@
       "duration_ms": 166665,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
+    },
+    {
+      "added_at": "2025-01-24 09:08:15",
+      "album": {
+        "name": "Ain't Easy",
+        "url": "https://open.spotify.com/album/1TD7QHy48RPhLcBTfjNwth"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "duration_ms": 268056,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Remember",
@@ -1003,6 +987,22 @@
       "duration_ms": 240538,
       "name": "Remember (feat. Samara Joy, Robert Glasper)",
       "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Walk With the Father",
-        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Walk With the Father",
-      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "(Your Love Keeps Lifting Me) Higher and Higher",
@@ -1275,6 +1259,22 @@
       "duration_ms": 191594,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Walk With the Father",
+        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Walk With the Father",
+      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
     },
     {
       "added_at": "2024-10-25 08:08:52",

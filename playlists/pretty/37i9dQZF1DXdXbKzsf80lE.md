@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,168 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,182 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 51 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 |
 | 52 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 53 | [Tanto Faz \- Ao Vivo](https://open.spotify.com/track/5GiYIXJ21dQlzxdL3Qsyh6) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Tanto Faz \(Ao Vivo\)](https://open.spotify.com/album/6wikeTuyirSNGsZH1ZaEN1) | 2:30 |
-| 54 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
-| 55 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 54 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 55 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
 | 56 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
 | 57 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 58 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |

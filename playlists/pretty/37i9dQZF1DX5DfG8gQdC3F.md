@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tate McRae, Saya Gray, JENNIE,  Mumford & Sons and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,738 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,754 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 50 | [gImmE gImmE](https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [gImmE gImmE](https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82) | 3:17 |
 | 51 | [Hunting Nirvana](https://open.spotify.com/track/6l6vsrPwhBdjKx0deIENXd) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [FESTIVAL SEASON](https://open.spotify.com/album/676Sf6nD4W2V9oV1QxzpPK) | 2:58 |
 | 52 | [Besos Robados](https://open.spotify.com/track/5b7szkYFv8BDLPiHs2iPOY) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Besos Robados](https://open.spotify.com/album/2j0rPyBy1yMDoZVlsJk5wO) | 4:23 |
-| 53 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 53 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 54 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 |
 | 55 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 |
 | 56 | [Used To You](https://open.spotify.com/track/6KM82El2PfI0w8OY0qbx7I) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Used To You](https://open.spotify.com/album/4xgJNGM8n5W7uAYED2Rln1) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Prodigal Daughter \(feat\. Molly Tuttle\)](https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Prodigal Daughter](https://open.spotify.com/album/1voXBL0YbqcFfskir9BoUp) | 3:26 |
 | 100 | [Free Hit](https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Free Hit](https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh) | 4:49 |
 
-Snapshot ID: `Z7gJ3gAAAABajmBQ3cT75CWPI/qBfgWx`
+Snapshot ID: `Z7gJ3gAAAABvUA+baPz3vw+wAavfV1y4`

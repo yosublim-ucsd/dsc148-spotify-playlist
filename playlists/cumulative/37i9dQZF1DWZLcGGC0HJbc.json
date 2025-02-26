@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "I Love You / Greyhound Station",
+        "url": "https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238369,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/331cDftoOsSIHQFEoW20k1"
+    },
+    {
+      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 205013,
       "name": "Strange Way",
       "url": "https://open.spotify.com/track/2DeFyVNghqKnbMLCLWzxE0"

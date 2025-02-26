@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,208 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,283 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 |
 | 100 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 
-Snapshot ID: `Z7gIYgAAAACgVBja6bUc33sLXuY7ehtZ`
+Snapshot ID: `Z7gIYgAAAAAO1cVg4eenvjAJtsTyRDGn`

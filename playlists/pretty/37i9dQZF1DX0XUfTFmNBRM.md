@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,590,253 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,591,465 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Ami Je Tomar 3.0](https://open.spotify.com/track/4REtpfjRcdcC1uYfQrqfw7) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Bhool Bhulaiyaa 3](https://open.spotify.com/album/2DNzidacofd4SvmOyj620R) | 5:15 |
 | 50 | [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 |
 
-Snapshot ID: `Z7W+vAAAAAC3aEp5MeDcuAqQG99Kih2c`
+Snapshot ID: `Z7W+vAAAAACPzJdN/laAFXuIY3u35Gcc`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,693 likes - 20 songs - 1 hr 4 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,694 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 |
-| 2 | [Butterflies \(with Green Velvet\)](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies \(with Green Velvet\)](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 |
+| 2 | [Butterflies](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 |
 | 3 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |
 | 4 | [gImmE gImmE](https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [gImmE gImmE](https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82) | 3:17 |
 | 5 | [Revolver](https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Revolver](https://open.spotify.com/album/3SGiYiOb88avGWt27pXmWX) | 3:13 |

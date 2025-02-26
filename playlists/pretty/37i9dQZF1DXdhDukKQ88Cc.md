@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 200% kontrol <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">@Merro8</a> 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,047 likes - 63 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,044 likes - 63 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

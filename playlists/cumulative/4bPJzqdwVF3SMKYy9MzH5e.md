@@ -4,7 +4,7 @@
 
 > 
 
-2,088 songs - 4 day 16 hr 1 min
+2,089 songs - 4 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Beach Life\-In\-Death](https://open.spotify.com/track/2riZAvd3GGUp0Wm9cJZD4r) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 12:10 | 2021-11-14 | 2024-05-26 |
 | [Beaches](https://open.spotify.com/track/42VTmF0VpIx8r0O995aNdA) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 3:00 | 2021-08-05 |  |
 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 | 2021-08-05 |  |
+| [Because They Want Our Seat](https://open.spotify.com/track/19P0dOcggnCTCIu51gsp5F) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:51 | 2025-02-25 |  |
 | [Beehive](https://open.spotify.com/track/5NSDy7Wts5mvEZM63mQl0r) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:32 | 2021-08-05 |  |
 | [Beez In The Trap](https://open.spotify.com/track/3A0CjqZ5uOrrJrfEPq90HZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded \(Deluxe Edition\)](https://open.spotify.com/album/2D2rriWruRrRFq2AAholPp) | 4:28 | 2021-08-05 |  |
 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 | 2021-08-05 |  |

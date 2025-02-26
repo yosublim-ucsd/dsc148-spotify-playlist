@@ -2,7 +2,7 @@
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Skinny Hightower
+> Jazz, but make it funky\. Cover: Skinny Hightower
 
 439 songs - 1 day 9 hr 25 min
 

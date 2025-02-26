@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 262758,
       "name": "ONE GIRL",
       "url": "https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD"
@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 182453,
       "name": "Promethazine",
       "url": "https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy"
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -13416,7 +13416,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 286191,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe"
@@ -16018,7 +16018,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 234000,
       "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
@@ -17090,7 +17090,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 251538,
       "name": "\u0e27\u0e34\u0e07\u0e27\u0e2d\u0e19 (ex-change)",
       "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
@@ -18556,7 +18556,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 226320,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e32\u0e22\u0e02\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/2yDEfRpX5tRUcAo4VM0wFA"
@@ -19344,6 +19344,24 @@
       "duration_ms": 264762,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
+    },
+    {
+      "album": {
+        "name": "BANGKOK LEGACY",
+        "url": "https://open.spotify.com/album/21LG4vnSC0pmcDaB1ICoi2"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "\u0e44\u0e1f\u0e40\u0e22\u0e47\u0e19",
+      "url": "https://open.spotify.com/track/4ZU069vAYkr7soRzdzNdjF"
     },
     {
       "album": {

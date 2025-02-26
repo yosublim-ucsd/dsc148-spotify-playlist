@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: PSYCHIC FEVER from EXILE TRIB
+> 日本で活躍するボーイズグループを特集。cover: 三代目 J SOUL BROTHERS from EXILE TRIBE
 
-407 songs - 23 hr 18 min
+409 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-03 |  |
 | [Homeboys](https://open.spotify.com/track/5dK9B2ItDXvTIGYMfDZrrS) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 3:19 | 2025-01-07 | 2025-02-12 |
 | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/track/3B01GFSfE7zomBwOOLzuO9) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/album/0WBuetifaEDUBcIPqpdrkx) | 3:33 | 2024-05-28 | 2024-06-13 |
-| [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-09 |  |
+| [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-09 | 2025-02-26 |
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 | 2023-12-07 | 2024-05-27 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-16 |  |
@@ -175,7 +175,7 @@
 | [Light Up The Night](https://open.spotify.com/track/7jBSMTXOTrYZrsQ1x0xmJs) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/3PQkZD1u6awEojZLSgilCs) | 3:35 | 2024-07-26 | 2024-07-31 |
 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 | 2024-02-27 | 2024-04-17 |
 | [Lollipop](https://open.spotify.com/track/6DWAaxDv3HfeJbUCNnXwRB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/5BYtSfXOuqwh1iC5o8GfBH) | 2:09 | 2024-02-06 | 2024-02-28 |
-| [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 |  |
+| [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 | 2025-02-26 |
 | [LOVE / HATE](https://open.spotify.com/track/08nRL1drNzWuYvxfTplhgS) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [LOVE / HATE](https://open.spotify.com/album/4ZGFTkABqgi5LofCHOWVDc) | 2:22 | 2025-01-14 | 2025-02-05 |
 | [Love 119 \- Japanese Version](https://open.spotify.com/track/5Gw3SiNinRr4kY8FxKl7Dm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119 \(Japanese Version\)](https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg) | 2:53 | 2024-01-24 | 2024-01-29 |
 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 | 2024-04-02 | 2024-07-27 |
@@ -226,6 +226,7 @@
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-14 |  |
 | [ONE DAY](https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy) | 3:54 | 2024-04-09 | 2024-04-24 |
 | [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 | 2024-10-29 | 2025-01-29 |
+| [Only One Story](https://open.spotify.com/track/1nCg2Dg1ay6oNNsROOid1F) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:40 | 2025-02-25 |  |
 | [Our Life Is Always Right](https://open.spotify.com/track/5f1bMtJMhHD6v2HhtnfSEL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/2gTj6KswDtJHmPomUBQPjA) | 4:21 | 2024-10-16 | 2024-12-04 |
 | [Our Magic](https://open.spotify.com/track/0ELdPfYZH0fEWBfQXXFrjH) | [WILD BLUE](https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm) | [Our Magic](https://open.spotify.com/album/54AYLnK5rsWv23R5TJRynz) | 3:59 | 2025-01-14 |  |
 | [OVERDRIVE](https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [OVERDRIVE](https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ) | 3:18 | 2024-07-30 | 2024-09-04 |
@@ -332,6 +333,7 @@
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
+| [What Is Your Secret?](https://open.spotify.com/track/7GSDi90nphdPZfkieyuZGe) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [What Is Your Secret?](https://open.spotify.com/album/3X0CLXVrz3teE9SQQShyeS) | 3:36 | 2025-02-25 |  |
 | [What Time Is It?](https://open.spotify.com/track/1j98eCtsVtPdxilHndXcsv) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/0EwMZukqVpTkfii1Oz0WFY) | 2:31 | 2024-07-23 | 2024-09-25 |
 | [What Time Is It?](https://open.spotify.com/track/30HLTApQ30MMHAZZZpdARt) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/6RXZayj65AHRlCFpGCRLeo) | 2:31 | 2024-07-02 | 2024-07-24 |
 | [What's Happenin’](https://open.spotify.com/track/6WcrcBClXnuv0mbMOH3AQX) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [What's Happenin'](https://open.spotify.com/album/03cXSOYkS5BuH5lMThfFxB) | 3:26 | 2025-02-04 |  |

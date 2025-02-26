@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,935 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,196 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 71 | [Please Don't Go \(Radio Cut\)](https://open.spotify.com/track/0w7XcNz84saf5p1nigc22t) | [K.W.S.](https://open.spotify.com/artist/188XxH8QLu4w8GW7cxSJe9) | [Please Don't Go](https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy) | 3:45 |
 | 72 | [Uh La La La \- Almighty's Radio Edit](https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB), [12 Almighty](https://open.spotify.com/artist/6lI87i3blMBsIBgGFFcxky) | [Uh La La La \(Original Remixes\)](https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn) | 3:41 |
 | 73 | [Do You Miss Me \- Running Mix](https://open.spotify.com/track/3xrCsXsFJRWbZBpjVStBtl) | [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [Jocelyn](https://open.spotify.com/album/7KyQQ5lAMkVaoocNr4KZHj) | 3:45 |
-| 74 | [Shine On](https://open.spotify.com/track/3Io2In7udpJEV80QePss2x) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7) | [Degrees of Motion](https://open.spotify.com/album/65JXIFXtXfx2P3E1FL336I) | 5:01 |
-| 75 | [Let the Beat Hit 'Em](https://open.spotify.com/track/5uxcZzsePjVOQxYjoURVr8) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | [Super Hits](https://open.spotify.com/album/3kDq0nsk9B7EJ9MhaPXuqj) | 4:37 |
+| 74 | [Let the Beat Hit 'Em](https://open.spotify.com/track/5uxcZzsePjVOQxYjoURVr8) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | [Super Hits](https://open.spotify.com/album/3kDq0nsk9B7EJ9MhaPXuqj) | 4:37 |
+| 75 | [Shine On](https://open.spotify.com/track/3Io2In7udpJEV80QePss2x) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7) | [Degrees of Motion](https://open.spotify.com/album/65JXIFXtXfx2P3E1FL336I) | 5:01 |
 
 Snapshot ID: `ZpGLMQAAAAABA/az9fkk4sp/yLITzBP3`

@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 35874,
+  "num_followers": 35957,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -389,20 +389,20 @@
       "url": "https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud"
     },
     {
-      "added_at": "2023-05-09 02:40:07",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+        "name": "Time to Recover",
+        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
         }
       ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+      "duration_ms": 136383,
+      "name": "Stranger to One",
+      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-05-09 02:40:07",
       "album": {
-        "name": "Time to Recover",
-        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
       },
       "artists": [
         {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 136383,
-      "name": "Stranger to One",
-      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Theory of Colours",
-        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
-      },
-      "artists": [
-        {
-          "name": "Dauwd",
-          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
-        }
-      ],
-      "duration_ms": 327576,
-      "name": "Theory of Colours",
-      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Inner Song",
         "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 285880,
       "name": "Arpeggi",
       "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Theory of Colours",
+        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
+      },
+      "artists": [
+        {
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+        }
+      ],
+      "duration_ms": 327576,
+      "name": "Theory of Colours",
+      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Hypernatural",
+        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
+      },
+      "artists": [
+        {
+          "name": "Hypernatural",
+          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
+        }
+      ],
+      "duration_ms": 259488,
+      "name": "Changing Tides",
+      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "BIPP (Autechre Mx)",
@@ -935,22 +951,6 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Hypernatural",
-        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
-      },
-      "artists": [
-        {
-          "name": "Hypernatural",
-          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
-        }
-      ],
-      "duration_ms": 259488,
-      "name": "Changing Tides",
-      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-03-03 04:01:23",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 293200,
-      "name": "CREEK",
-      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-11-23 03:11:19",
@@ -1037,36 +1037,20 @@
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
-      "added_at": "2023-03-03 04:01:23",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Maracuy\u00e1",
-        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
-      },
-      "artists": [
-        {
-          "name": "Hermanito",
-          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maracuy\u00e1",
-      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+      "duration_ms": 293200,
+      "name": "CREEK",
+      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1083,6 +1067,22 @@
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
+      },
+      "artists": [
+        {
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Manhattan Research, Inc.",
@@ -1267,6 +1251,22 @@
       "duration_ms": 105026,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Naturally Gushing vol.2",
-        "url": "https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x"
-      },
-      "artists": [
-        {
-          "name": "Yoshihiro Sawasaki",
-          "url": "https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "Fine Life",
-      "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Tanz Mit Mir",
@@ -1347,6 +1331,22 @@
       "duration_ms": 343158,
       "name": "Tanz Mit Mir",
       "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Naturally Gushing vol.2",
+        "url": "https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Sawasaki",
+          "url": "https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "Fine Life",
+      "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Sequenza",
-        "url": "https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t"
-      },
-      "artists": [
-        {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        },
-        {
-          "name": "Vassilena Serafimova",
-          "url": "https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv"
-        }
-      ],
-      "duration_ms": 344120,
-      "name": "Balani",
-      "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Sorry I Make You Lush",
         "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Sequenza",
+        "url": "https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t"
+      },
+      "artists": [
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        },
+        {
+          "name": "Vassilena Serafimova",
+          "url": "https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv"
+        }
+      ],
+      "duration_ms": 344120,
+      "name": "Balani",
+      "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1537,6 +1537,22 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Magnetica",
+      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Trusted EP",
@@ -1567,22 +1583,6 @@
       "duration_ms": 293026,
       "name": "Endless Jasmine",
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Magnetica",
-      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1817,22 +1817,6 @@
       "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Body Riddle (Remastered)",
-        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Ted",
-      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "lux",
@@ -1853,6 +1837,22 @@
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Body Riddle (Remastered)",
+        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Ted",
+      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Puzzlewood",
@@ -1867,22 +1867,6 @@
       "duration_ms": 208983,
       "name": "Red Kite",
       "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2024-08-14 16:50:39",
@@ -1905,6 +1889,22 @@
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Autoditacker",
@@ -1921,22 +1921,6 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
-    },
-    {
       "added_at": "2023-03-29 03:24:26",
       "album": {
         "name": "Bubbles",
@@ -1951,6 +1935,22 @@
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
     },
     {
       "added_at": "2023-02-17 01:10:22",

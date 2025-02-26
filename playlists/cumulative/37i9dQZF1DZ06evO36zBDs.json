@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+        "url": "https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273428,
+      "name": "\u30ab\u30e9\u30d5\u30eb -season 03-",
+      "url": "https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
         "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
       },

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-786 songs - 1 day 11 hr 30 min
+787 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 | 2023-02-09 |  |
 | [Arch](https://open.spotify.com/track/5yU7OG4WqTGf9iAugbIY02) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Arch](https://open.spotify.com/album/3ciBE6IkZerQqNGdHQmMuP) | 3:21 | 2022-02-15 | 2022-07-28 |
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 | 2024-04-19 |
-| [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 | 2024-06-15 |  |
+| [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 | 2024-06-15 | 2025-02-26 |
 | [aruarian dance](https://open.spotify.com/track/3GUvbYXOvFSuqHBbKlXeiM) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 4:10 | 2024-04-12 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2024-01-09 | 2024-04-19 |
 | [ARUKAS](https://open.spotify.com/track/2Xz31K3sBzPdec0AE696Jl) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA) | 5:41 | 2022-01-06 | 2022-07-28 |
@@ -217,6 +217,7 @@
 | [EVENING](https://open.spotify.com/track/0qjSPCsAMCdMRvU1zxGSuR) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [EVENING](https://open.spotify.com/album/7gmVOnPkeBmdr3XEi9w9R3) | 2:52 | 2022-11-24 | 2023-01-13 |
 | [Evening Stroll in Shibuya](https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Evening Stroll in Shibuya](https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz) | 2:50 | 2021-12-23 | 2022-07-26 |
 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 | 2023-04-13 | 2024-08-28 |
+| [Expanse](https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Expanse](https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa) | 3:02 | 2025-02-21 |  |
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 | 2022-12-24 |
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-03-25 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |

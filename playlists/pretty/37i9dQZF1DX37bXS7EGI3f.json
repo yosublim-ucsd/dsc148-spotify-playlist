@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 794089,
+  "num_followers": 794161,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -603,18 +603,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+        "name": "Vermillion",
+        "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
       },
       "artists": [
         {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+      "duration_ms": 239266,
+      "name": "Cradle To The Grave",
+      "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -651,26 +659,34 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Vermillion",
-        "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
       "artists": [
         {
-          "name": "Simone Simons",
-          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
-        },
-        {
-          "name": "Ayreon",
-          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Cradle To The Grave",
-      "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -691,22 +707,6 @@
       "duration_ms": 230480,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Winter Storm Vigilantes",
-        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
-      },
-      "artists": [
-        {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Winter Storm Vigilantes",
-      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Winter Storm Vigilantes",
+        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
+      },
+      "artists": [
+        {
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Winter Storm Vigilantes",
+      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
@@ -987,38 +987,6 @@
       "duration_ms": 199000,
       "name": "Feed the Fire",
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
-      },
-      "artists": [
-        {
-          "name": "Floor Jansen",
-          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
-        }
-      ],
-      "duration_ms": 208859,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Secrets Of The American Gods",
-        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 397026,
-      "name": "Secrets Of The American Gods - Single Edit",
-      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1047,22 +1015,34 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
-        "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
+        "name": "Secrets Of The American Gods",
+        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Jens Kidman",
-          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 197969,
-      "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
-      "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+      "duration_ms": 397026,
+      "name": "Secrets Of The American Gods - Single Edit",
+      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
+      },
+      "artists": [
+        {
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "duration_ms": 208859,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+        "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Jens Kidman",
+          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+        }
+      ],
+      "duration_ms": 197969,
+      "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+      "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Dance Till We Sink",
         "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178999,
       "name": "Dance Till We Sink",
       "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 206520,
       "name": "Fight the Tide",
       "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
-        }
-      ],
-      "duration_ms": 242146,
-      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "New Horizons",
         "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 265106,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+      },
+      "artists": [
+        {
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+        }
+      ],
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 574634,
+      "name": "One (feat. Robert Trujillo) - Instrumental",
+      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
@@ -1603,22 +1623,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "I Can Never Die",
         "url": "https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I"
       },
@@ -1635,38 +1639,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
         }
       ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Total T-Rex Terror",
-        "url": "https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 282610,
-      "name": "Total T-Rex Terror",
-      "url": "https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe"
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1683,6 +1667,22 @@
       "duration_ms": 189533,
       "name": "Take My Hand - Bonus Track",
       "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Total T-Rex Terror",
+        "url": "https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 282610,
+      "name": "Total T-Rex Terror",
+      "url": "https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe"
     },
     {
       "added_at": "2024-09-20 04:24:16",

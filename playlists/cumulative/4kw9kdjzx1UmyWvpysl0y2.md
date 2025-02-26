@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-924 songs - 2 day 4 hr 21 min
+925 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-14 | 2024-01-11 |
 | [Bunny Hop](https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bunny Hop](https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4) | 3:09 | 2024-10-07 | 2025-01-15 |
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
+| [by myself](https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX) | [by myself](https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV) | 3:05 | 2025-02-25 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
 | [Calling](https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [Calling](https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N) | 3:21 | 2023-07-31 | 2023-12-14 |

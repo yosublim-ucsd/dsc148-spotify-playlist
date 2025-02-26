@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Ninho x Niska au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,487 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,681 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 34 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 |
 | 35 | [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 |
 | 36 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 |
-| 37 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
-| 38 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
+| 37 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
+| 38 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
 | 39 | [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 |
 | 40 | [LE PLAN](https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE PLAN](https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB) | 2:48 |
 
-Snapshot ID: `Z7e0CQAAAAArbjqnFvYUITvslE180Nzb`
+Snapshot ID: `Z73YNwAAAABJ2nQsdEP6lLvYD554Cjce`

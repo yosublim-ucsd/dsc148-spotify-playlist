@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,627 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,604 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 62 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 |
 | 63 | [Let it Snow](https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Let it Snow](https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm) | 3:22 |
 | 64 | [Mrs Clause](https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA) | [NYA](https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs) | [Mrs Clause](https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL) | 3:43 |
-| 65 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |
-| 66 | [Somebody's Waiting](https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:01 |
+| 65 | [Somebody's Waiting](https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:01 |
+| 66 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |
 | 67 | [Little Drummer Girl](https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:32 |
-| 68 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
-| 69 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
+| 68 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
+| 69 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 70 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
 | 71 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
 | 72 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |

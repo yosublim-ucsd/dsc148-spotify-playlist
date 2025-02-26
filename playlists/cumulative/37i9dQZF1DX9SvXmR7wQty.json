@@ -18681,6 +18681,28 @@
     },
     {
       "album": {
+        "name": "Black House",
+        "url": "https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Figaro (feat. Josman)",
+      "url": "https://open.spotify.com/track/4HB8eCfEXUrwzzqFqsVU5T"
+    },
+    {
+      "album": {
         "name": "Tra\u00eetrise",
         "url": "https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz"
       },
@@ -23806,6 +23828,10 @@
         {
           "name": "Tayc",
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
       "date_added": "2025-02-21",
@@ -29272,7 +29298,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 143906,
       "name": "La vraie vie",
       "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"

@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 130410,
+  "num_followers": 130432,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAB7AdjpEGCpRmgy/Bioxzxe",
+  "snapshot_id": "Z7u2gAAAAAAk9MBNVvk7+4OFNANeeta9",
   "tracks": [
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 127085,
-      "name": "Session 33",
-      "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CLEAR",
+        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Your Friends (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLEAR",
-        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
+      "duration_ms": 127085,
+      "name": "Session 33",
+      "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
     },
     {
       "added_at": null,

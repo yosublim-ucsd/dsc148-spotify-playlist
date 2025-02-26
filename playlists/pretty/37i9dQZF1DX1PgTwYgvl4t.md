@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=DeEgaTTBRIOjMi1FQhK4nw>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,734 likes - 100 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,881 likes - 100 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [All My Life](https://open.spotify.com/track/2UWV6y2LKiLQdd92zGUDHp) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [All My Life](https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ) | 7:51 |
 | 100 | [Presence Of The Lord](https://open.spotify.com/track/75zDWZQl2FzZSSdWRJ4Pe1) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Presence Of The Lord](https://open.spotify.com/album/73uQVfKHePKvWoFNWtgGIR) | 4:41 |
 
-Snapshot ID: `Z7fCWAAAAACiGzvgbkbFZOA/I9lKSpg8`
+Snapshot ID: `Z7fCWAAAAADNzzrgxv66xyS1k/eVvBTH`

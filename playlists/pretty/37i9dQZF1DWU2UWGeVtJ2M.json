@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 163368,
+  "num_followers": 163382,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2025-02-24 01:00:10",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-02-24 01:00:10",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
-    },
-    {
-      "added_at": "2025-02-24 01:00:10",
-      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2025-02-24 01:00:10",
+      "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2025-02-24 01:00:10",
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2025-02-24 01:00:10",
-      "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2025-02-24 01:00:10",
-      "album": {
         "name": "Don't Trust Myself",
         "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 169434,
       "name": "Don't Trust Myself",
       "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
+    },
+    {
+      "added_at": "2025-02-24 01:00:10",
+      "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "FITS",
-        "url": "https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g"
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
       },
       "artists": [
         {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 138030,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
+        "name": "FITS",
+        "url": "https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
         }
       ],
-      "duration_ms": 190642,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
+      "duration_ms": 138030,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
     },
     {
       "added_at": "2025-02-24 01:00:10",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-02-24 01:00:10",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

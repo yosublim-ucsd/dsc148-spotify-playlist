@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-732 songs - 1 day 7 hr 48 min
+733 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Love Yourself](https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Love Yourself](https://open.spotify.com/album/2o8dlTkFFkl0s6Xh6UUBkS) | 2:40 | 2024-02-18 | 2024-05-06 |
 | [Love's Crashing Wave](https://open.spotify.com/track/22l0qFprt03HYPVjrcXlmg) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Love's Crashing Wave](https://open.spotify.com/album/11RrFZPLeSv8LxvPp2F27s) | 2:17 | 2024-06-21 | 2024-07-29 |
 | [Loved By You](https://open.spotify.com/track/7eldj0IyIGx9jNNZn5xwYT) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [phil's ok.](https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty), [ZYRS](https://open.spotify.com/artist/5NiAPSRIyDQ5HtUpvwz4yX), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Loved By You](https://open.spotify.com/album/35g9bWZ0AhTaeAINTGR1Qi) | 2:30 | 2025-01-12 | 2025-02-10 |
+| [Lullaby](https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML) | [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Lullaby](https://open.spotify.com/album/2r98xBStXKjrt8lnfn96GS) | 2:23 | 2025-02-25 |  |
 | [Lullaby](https://open.spotify.com/track/3uZtjB28HBY9CjOm2sHg5A) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Lullaby](https://open.spotify.com/album/4kblv31AHXGMcD1hSDDaCZ) | 2:32 | 2023-10-20 | 2024-04-16 |
 | [Lullaby](https://open.spotify.com/track/2Ema8Fxxfdn5eyuvZGxk5R) | [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [hmny.](https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY) | [Lullaby](https://open.spotify.com/album/5QJJzc2wwiVeF0Htlcp9Gt) | 2:14 | 2024-11-19 | 2024-12-28 |
 | [Lunar Eclipse](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X) | [Lunar Eclipse](https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp) | 2:53 | 2024-10-04 | 2025-02-15 |

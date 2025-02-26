@@ -1873,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Call On Heaven (Come, Lord Jesus) - Live",
+        "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305971,
+      "name": "Praise Yahweh - Live From Passion 2025",
+      "url": "https://open.spotify.com/track/5HoGXGQSe3S29goGeaLsYp"
+    },
+    {
+      "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
       },
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 420826,
       "name": "Worthy Of Your Name - Live",
       "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"

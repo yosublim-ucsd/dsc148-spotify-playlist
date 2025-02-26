@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Mumford & Sons
 
-759 songs - 1 day 22 hr 41 min
+760 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Collateral Damage](https://open.spotify.com/track/5dzfB8cv7IYfOm7nZk3wv2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Manticore](https://open.spotify.com/album/4Cx0ld7IBAM7lqk1FOSv4x) | 4:02 | 2022-04-01 | 2022-06-18 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-01-21 | 2022-05-14 |
 | [Colossus of Roads](https://open.spotify.com/track/1M8vGpBjsqOVz9j2OWNbQJ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:45 | 2024-03-29 | 2024-04-19 |
-| [Colossus of Roads](https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Colossus of Roads / Snake Plant \(The Past Is Still Alive\)](https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP) | 2:45 | 2024-01-26 |  |
+| [Colossus of Roads](https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Colossus of Roads / Snake Plant \(The Past Is Still Alive\)](https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP) | 2:45 | 2024-01-26 | 2025-02-26 |
 | [Colossus of Roads](https://open.spotify.com/track/5GkAZaFVxglGUibNf2G6bh) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:45 | 2024-03-01 | 2024-04-13 |
 | [Comes In Waves](https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller](https://open.spotify.com/album/24FkcvXRLoG17447domdkg) | 5:30 | 2022-07-22 | 2023-07-22 |
 | [Cool Down](https://open.spotify.com/track/3N2fen9204mhF0n2nojghp) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cool Down](https://open.spotify.com/album/2fythGvDFHzcIGlWQ7SpXP) | 4:00 | 2021-12-17 | 2022-08-06 |
@@ -516,6 +516,7 @@
 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 | 2022-05-13 | 2023-04-29 |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2021-12-17 | 2022-12-03 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
+| [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-02-25 |  |
 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 | 2021-12-17 | 2022-06-18 |
 | [Rain On The Rail](https://open.spotify.com/track/3og2hY0v6I2WfswFVMzqxq) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5cA7YeIhSv4f82ACPN35uJ) | 3:35 | 2021-12-17 | 2022-02-23 |
 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 | 2023-10-13 | 2025-02-01 |
@@ -739,7 +740,7 @@
 | [Wish for You](https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Wish for You](https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg) | 3:24 | 2022-01-21 | 2022-05-14 |
 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2023-11-17 | 2024-07-06 |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2023-12-15 | 2024-04-19 |
-| [Wonderland](https://open.spotify.com/track/7oFBgQjVnW81PX2ng3dbPX) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Wonderland](https://open.spotify.com/album/2eOMCujYnEq1BljEmyZJkB) | 3:34 | 2024-02-16 |  |
+| [Wonderland](https://open.spotify.com/track/7oFBgQjVnW81PX2ng3dbPX) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Wonderland](https://open.spotify.com/album/2eOMCujYnEq1BljEmyZJkB) | 3:34 | 2024-02-16 | 2025-02-26 |
 | [Workin' On A World](https://open.spotify.com/track/3oRtsritMRck27VJpy7gLr) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/3FZlD5JhglhV1LJKHQyGFD) | 3:49 | 2023-04-28 | 2024-02-24 |
 | [Workin' On A World](https://open.spotify.com/track/7iNIav1ARUCoXCj5bKAfvq) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World / Goin' Down To Sing In Texas](https://open.spotify.com/album/0eWjR6Bw5j7cBraXBVbAUF) | 3:49 | 2023-01-13 | 2023-04-30 |
 | [Workin' On A World](https://open.spotify.com/track/7yyGEv2aSNb2fdaS0Z08Xh) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/4U3WkH4IzvJM2FE6Ie40aZ) | 3:49 | 2023-03-17 | 2023-04-30 |

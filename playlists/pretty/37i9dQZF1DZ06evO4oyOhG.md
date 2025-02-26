@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 |---|---|---|---|---|
 | 1 | [決戦スピリット](https://open.spotify.com/track/1HHOkD7fuNCBnImFrlDRVi) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:30 |
 | 2 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
-| 3 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 |
-| 4 | [我武者羅](https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn) | 3:56 |
+| 3 | [我武者羅](https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn) | 3:56 |
+| 4 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 |
 | 5 | [乙女どもよ。](https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:12 |
 | 6 | [プライド革命](https://open.spotify.com/track/3CrLoLfSwNqZGbSDupVUdu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:55 |
 | 7 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 44 | [アイのシナリオ Instrumental](https://open.spotify.com/track/5wDi6tlwi1sNCJgnd9i50r) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [アイのシナリオ](https://open.spotify.com/album/4c76Zl9YD1wGCPReSdhucr) | 4:18 |
 | 45 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `Z7plAAAAAADP9SgqGGmlAY3PUOaW8JyY`
+Snapshot ID: `Z7u2gAAAAADf9HM9RgRglUEJ/4uiNQnq`

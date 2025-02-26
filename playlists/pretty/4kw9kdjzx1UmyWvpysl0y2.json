@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125434,
+  "num_followers": 125429,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATt2Xydjq4TV6T/c9Uu4u+Eef1ZDda",
+  "snapshot_id": "AAATuHQVwZwYGkQf+wFvFds13RTbcOeu",
   "tracks": [
+    {
+      "added_at": "2025-02-25 16:35:33",
+      "album": {
+        "name": "by myself",
+        "url": "https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "oncor",
+          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "by myself",
+      "url": "https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb"
+    },
     {
       "added_at": "2025-02-24 15:20:24",
       "album": {

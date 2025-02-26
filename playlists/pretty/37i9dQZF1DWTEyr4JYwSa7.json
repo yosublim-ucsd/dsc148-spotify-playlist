@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 61810,
+  "num_followers": 61802,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
       "artists": [
         {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        },
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
         }
       ],
-      "duration_ms": 158573,
-      "name": "Joie dans le monde",
-      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
+      "duration_ms": 180573,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1555,6 +1559,22 @@
       "duration_ms": 259146,
       "name": "L'oiseau rare",
       "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Joie dans le monde",
+      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1579,26 +1599,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "No\u00ebl Des Anges",
         "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chante et raconte 25 d\u00e9cembre",
-        "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Combien de No\u00ebl ?",
-      "url": "https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Les Plus Beaux Noels Du Monde",
         "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 169640,
       "name": "Petit gar\u00e7on",
       "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Chante et raconte 25 d\u00e9cembre",
+        "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
+      },
+      "artists": [
+        {
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Combien de No\u00ebl ?",
+      "url": "https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW"
     },
     {
       "added_at": "2024-12-13 16:40:18",

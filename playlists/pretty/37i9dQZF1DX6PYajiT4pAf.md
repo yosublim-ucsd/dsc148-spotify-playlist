@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,710 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,745 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 2 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 |
 | 3 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
 | 4 | [Cuarto De Hotel \- Canción Original de El Secreto Del Orfebre](https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuarto De Hotel \(Canción Original de El Secreto Del Orfebre\)](https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq) | 2:57 |
-| 5 | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
+| 5 | [BAILANDO EL DEMBOW](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
 | 6 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 7 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 8 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 63 | [Mejor Contigo \(Homesick\)](https://open.spotify.com/track/2lPBZtmMVEWbHPBWoCAEKl) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mejor Contigo \(Homesick\)](https://open.spotify.com/album/7rCP6ztryjUAVod0OiGbZO) | 2:56 |
 | 64 | [salina](https://open.spotify.com/track/2vDsRBDiBGOg2kAf5cOVPr) | [restinga](https://open.spotify.com/artist/0ZDfzRfClYgIFsNUxygcQ9) | [salina](https://open.spotify.com/album/20GxJubRgFxkjAAWDSP4h2) | 3:14 |
 
-Snapshot ID: `Z7hlXQAAAAC7CMWs4UJsQVfYAA5FP7B4`
+Snapshot ID: `Z7hlXQAAAABdkoyL1Lew2KC4VdT9aift`

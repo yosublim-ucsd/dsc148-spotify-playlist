@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Minelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,110 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,112 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 26 | [Spune\-mi Unde, Spune\-mi Cine](https://open.spotify.com/track/6U4imeMMC4qTxZ32D9rHTG) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Spune\-mi Unde, Spune\-mi Cine](https://open.spotify.com/album/7aQbuqT7n84lZu2CFSTDlI) | 1:59 |
 | 27 | [Left My Heart](https://open.spotify.com/track/4YJV1lLyv4kzr7nLv3HKHx) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Left My Heart](https://open.spotify.com/album/6oMxKXHrilwnhFli3GrztY) | 2:10 |
 | 28 | [Nu mă lași să te las](https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Până la final și mai departe](https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ) | 2:29 |
-| 29 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [$ami](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 |
+| 29 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 |
 | 30 | [Viata Bate Filmul](https://open.spotify.com/track/6qvcJQ3csduILzGTvWDl9I) | [BiBi](https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX), [Antonio Pican](https://open.spotify.com/artist/151AdA8GTkchYAkB7bOvnv) | [Viata Bate Filmul](https://open.spotify.com/album/375My8DsXLTBLcAECbDpzl) | 3:17 |
 | 31 | [Bea, Daca Vrei](https://open.spotify.com/track/0Jrjh6uUm8piWAWGP8erR2) | [Anda Adam](https://open.spotify.com/artist/5Xf9tWz0AarRXKqKKxJkNE), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Bea, Daca Vrei](https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH) | 2:54 |
 | 32 | [Vallabye](https://open.spotify.com/track/6sVOnLeDHmx5qW6uFbcnx3) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR), [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Vallabye](https://open.spotify.com/album/27XZO4X2PaICoN0Z8BxYSS) | 3:53 |

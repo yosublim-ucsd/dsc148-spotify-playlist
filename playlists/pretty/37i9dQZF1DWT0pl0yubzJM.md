@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,046 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,050 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 30 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |
 | 31 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 |
 | 32 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
-| 33 | [Mate](https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:11 |
+| 33 | [Trece](https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 2:21 |
 | 34 | [Emoción Diamante](https://open.spotify.com/track/4jVnGWG8LDOEbD7iOcWb2V) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/1jwoX5cSB5SVcSt0onPYw4) | 3:48 |
 | 35 | [Pudo Ser](https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du) | 5:23 |
 

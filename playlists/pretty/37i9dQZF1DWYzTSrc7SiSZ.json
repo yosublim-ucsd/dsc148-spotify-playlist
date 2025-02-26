@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 902532,
+  "num_followers": 902539,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Chistes Malos",
-        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 171357,
-      "name": "Chistes Malos",
-      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+        "name": "Chistes Malos",
+        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
       "artists": [
         {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
+      "duration_ms": 171357,
+      "name": "Chistes Malos",
+      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Qu\u00e9 Bonito Es Lo Bonito",
-      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Qu\u00e9 Bonito Es Lo Bonito",
+      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "tu piel me ha besado",
-        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 222702,
-      "name": "tu piel me ha besado",
-      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "tu piel me ha besado",
+        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
+      },
+      "artists": [
+        {
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
+        }
+      ],
+      "duration_ms": 222702,
+      "name": "tu piel me ha besado",
+      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 205874,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Espera (feat. Carlos Sadness)",
-        "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        },
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 232594,
-      "name": "Espera (feat. Carlos Sadness)",
-      "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -1403,6 +1383,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 215687,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "RIO",
-        "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
+        "name": "Espera (feat. Carlos Sadness)",
+        "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
       "artists": [
         {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         }
       ],
-      "duration_ms": 215687,
-      "name": "RIO",
-      "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
+      "duration_ms": 232594,
+      "name": "Espera (feat. Carlos Sadness)",
+      "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "robusta",
         "url": "https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 138757,
       "name": "robusta",
       "url": "https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ"
+      },
+      "artists": [
+        {
+          "name": "Pranz",
+          "url": "https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av"
+        },
+        {
+          "name": "Maul On The Mix",
+          "url": "https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "SOMOS JAVYPABLO",
         "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ"
-      },
-      "artists": [
-        {
-          "name": "Pranz",
-          "url": "https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av"
-        },
-        {
-          "name": "Maul On The Mix",
-          "url": "https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn"
-        }
-      ],
-      "duration_ms": 183607,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j"
     },
     {
       "added_at": "2024-12-06 05:00:00",

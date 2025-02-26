@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 151383,
+  "num_followers": 151398,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACKT1ukFnLIu2W9OGmlr5dE",
+  "snapshot_id": "Z7u2gAAAAACYeL6OEsU65jIjffLC5/DC",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -503,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "Una Tarde Como Cualquiera",
-      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -547,38 +547,6 @@
       "duration_ms": 206239,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luchar\u00e9 Por Ti",
         "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 210453,
       "name": "Luchar\u00e9 Por Ti",
       "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215446,
-      "name": "Mi Gran Problema",
-      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 185736,
       "name": "De Frente Al Mar",
       "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cien Por Ciento Sincero",
         "url": "https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 157605,
       "name": "Arr\u00e1ncame La Vida",
       "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,

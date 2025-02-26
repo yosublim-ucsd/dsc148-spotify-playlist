@@ -2,7 +2,7 @@
 
 ### [needle drop](https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R)
 
-> Original and synced songs that will stay with you long after the credits roll...Cover: Babygirl
+> Original and synced songs that will stay with you long after the credits roll...Cover: My Fault: London
 
 111 songs - 6 hr 9 min
 

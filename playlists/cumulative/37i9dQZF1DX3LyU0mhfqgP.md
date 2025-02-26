@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Vũ Cát Tường
+> Songs from LGBTQIA+ artists\.  Cover: Gordi
 
-1,424 songs - 3 day 5 hr 20 min
+1,425 songs - 3 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Fuego](https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [A Fuego](https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH) | 2:47 | 2023-01-24 | 2023-03-08 |
 | [A Girl Like This](https://open.spotify.com/track/69uEwXoA8PmBMvJy5Rrs8O) | [Someone Who Isn't Me](https://open.spotify.com/artist/1jLF7ClOMiAPDmilcXPe3w) | [A Girl Like This](https://open.spotify.com/album/5ep9RrcSBBPSDTgI0z0bvY) | 4:15 | 2023-06-02 | 2023-07-12 |
 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-18 | 2023-08-09 |
-| [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-05-06 |  |
+| [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-05-06 | 2025-02-26 |
 | [Abomination](https://open.spotify.com/track/65VaPeMUYTHFkr3VsIFWYG) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Heterosexuality](https://open.spotify.com/album/0DpCo0SXKnfsBx98H2qDVI) | 2:43 | 2022-02-11 | 2022-04-15 |
 | [Act Like You Know](https://open.spotify.com/track/1ZQ0Tqassjg34qHFrZ6Uac) | [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [Act Like You Know](https://open.spotify.com/album/4qTAHBUK7yEekULiRZCMr2) | 3:28 | 2022-01-07 | 2022-04-20 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-12-04 | 2025-02-12 |
@@ -958,6 +958,7 @@
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-15 | 2023-04-01 |
 | [Perfect Human Specimen](https://open.spotify.com/track/2yGj1vsVpEvSiMwlrjKJaw) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:02 | 2022-04-01 | 2022-04-21 |
 | [Perfectly Trans](https://open.spotify.com/track/0kEtZvH91ZXh7IJwBpRGDB) | [Ezra Michel](https://open.spotify.com/artist/5cKZAUUJMK9Ef4gUeW0Zjz) | [Perfectly Trans](https://open.spotify.com/album/6W9OgcdAHRzClYUunPOoA1) | 1:02 | 2023-03-31 | 2023-04-26 |
+| [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-25 |  |
 | [Personal](https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Personal](https://open.spotify.com/album/1kLSUqwq5RtP16K0KgLCVr) | 2:32 | 2021-12-17 | 2022-01-29 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-11-30 | 2023-01-25 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-19 | 2022-12-01 |

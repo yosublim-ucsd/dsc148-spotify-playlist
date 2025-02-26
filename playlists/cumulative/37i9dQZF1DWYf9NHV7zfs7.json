@@ -4335,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "OC\u00c9ANO",
+        "url": "https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "OC\u00c9ANO",
+      "url": "https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM"
+    },
+    {
+      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 158201,
       "name": "Voy A Brindar",
       "url": "https://open.spotify.com/track/6h2OfZy5Q2NP3aBCCby0Eg"

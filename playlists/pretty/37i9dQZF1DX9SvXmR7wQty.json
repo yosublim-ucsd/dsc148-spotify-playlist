@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Moffatt",
-  "num_followers": 43773,
+  "num_followers": 43770,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,18 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "SURVIVAL MODE",
-        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
       },
       "artists": [
         {
-          "name": "Ril\u00e8s",
-          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
-        },
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 161632,
-      "name": "OBVIOUS",
-      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+      "duration_ms": 155409,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -343,18 +339,22 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "SHAOLIN",
-        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
+        "name": "SURVIVAL MODE",
+        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 124705,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
+      "duration_ms": 161632,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -431,6 +431,42 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
+        "name": "SHAOLIN",
+        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
         "name": "Brrr (feat. Alonzo & ElGrandeToto)",
         "url": "https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s"
       },
@@ -455,38 +491,26 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "Hockey",
-        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+        "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
+        "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
       },
       "artists": [
         {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Hockey",
-      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
-      },
-      "artists": [
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 155409,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+      "duration_ms": 199224,
+      "name": "J'ai zay\u00e9",
+      "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -543,26 +567,6 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
-        "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 199224,
-      "name": "J'ai zay\u00e9",
-      "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
         "name": "77 Degr\u00e9s",
         "url": "https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF"
       },
@@ -599,22 +603,6 @@
       "duration_ms": 172253,
       "name": "Comic sans MS",
       "url": "https://open.spotify.com/track/0z1L8jMPXPMLZzxEAAsWmX"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 116786,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -659,6 +647,22 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
+        "name": "WIN WIN",
+        "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "duration_ms": 112039,
+      "name": "WIN WIN",
+      "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
         "name": "2, 3 shots",
         "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
       },
@@ -675,22 +679,6 @@
       "duration_ms": 153170,
       "name": "2, 3 shots",
       "url": "https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
-        "name": "WIN WIN",
-        "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
-      },
-      "artists": [
-        {
-          "name": "Davy One",
-          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
-        }
-      ],
-      "duration_ms": 112039,
-      "name": "WIN WIN",
-      "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -723,6 +711,22 @@
       "duration_ms": 242225,
       "name": "Que toi",
       "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 116786,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -795,6 +799,22 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
+        "name": "D\u00e9sol\u00e9e",
+        "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "D\u00e9sol\u00e9e",
+      "url": "https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
         "name": "BIG BODY",
         "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
@@ -819,22 +839,6 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "D\u00e9sol\u00e9e",
-        "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "D\u00e9sol\u00e9e",
-      "url": "https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
         "name": "On tombe, on r\u00e9essaye",
         "url": "https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4"
       },
@@ -847,6 +851,26 @@
       "duration_ms": 193653,
       "name": "On tombe, on r\u00e9essaye",
       "url": "https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
+        "name": "Black House",
+        "url": "https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Figaro (feat. Josman)",
+      "url": "https://open.spotify.com/track/4HB8eCfEXUrwzzqFqsVU5T"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -883,22 +907,6 @@
       "duration_ms": 161565,
       "name": "Il le fallait",
       "url": "https://open.spotify.com/track/489YjHsmah1LZmAk0AXKr1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
-        "name": "Imad, la suite",
-        "url": "https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "La vraie vie",
-      "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

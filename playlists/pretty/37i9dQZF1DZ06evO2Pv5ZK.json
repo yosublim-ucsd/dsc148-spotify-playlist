@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 108071,
+  "num_followers": 108083,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADlmG4PZKw8UYNVbT3P6RKU",
+  "snapshot_id": "Z7u2gAAAAACW/1ou+9EN5ArYlS0HkQBo",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 302112,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the magic of Cosmos",
-        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 127106,
-      "name": "In the magic of Cosmos",
-      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+      "duration_ms": 302112,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
     },
     {
       "added_at": null,

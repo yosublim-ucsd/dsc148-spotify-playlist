@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD7A2Xu7JsYkrXggSA4Q/t6",
+  "snapshot_id": "AAAAAAAAAACdcWtXSARUHeilHy7ePCOD",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:00",
@@ -67,6 +67,42 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/6K47xRPEKwi934mwxp5Wmb"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/2Yxj6N54p32qsknhNZAY6p"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
         "name": "Free Hit",
         "url": "https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh"
       },
@@ -119,22 +155,6 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "I Will Not Break",
-        "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 292058,
-      "name": "I Will Not Break",
-      "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
       },
@@ -151,6 +171,46 @@
       "duration_ms": 217664,
       "name": "Medina",
       "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "GODNA",
+        "url": "https://open.spotify.com/album/5Kkjo5agdJ9vcJUYmJt6EA"
+      },
+      "artists": [
+        {
+          "name": "Muja Messiah",
+          "url": "https://open.spotify.com/artist/4ZCr420Dwsxwi9h6dEkAeZ"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 137374,
+      "name": "Bullets Don't Have Eyes",
+      "url": "https://open.spotify.com/track/2b3CL64ve76o3YiD4BWVzB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "The Artist",
+        "url": "https://open.spotify.com/album/4fYVpGj6sKI3LsT9j798kK"
+      },
+      "artists": [
+        {
+          "name": "iAMJFK",
+          "url": "https://open.spotify.com/artist/5xIEdOKbNvKguh5lLaBgvB"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 176431,
+      "name": "Flying Daggers",
+      "url": "https://open.spotify.com/track/6EkSsNjOA0roJWt7B3EZYQ"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -199,6 +259,30 @@
       "duration_ms": 130481,
       "name": "Weston Road",
       "url": "https://open.spotify.com/track/41d5FQYWj95WSuJs2sgBeR"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "where is your pride (Airrica Remix)",
+        "url": "https://open.spotify.com/album/31FxuRS6Jc9PpmQsN0eCjv"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        },
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        }
+      ],
+      "duration_ms": 328642,
+      "name": "where is your pride (Airrica Remix)",
+      "url": "https://open.spotify.com/track/021WAn9uUeh3ZbDMQSoSGx"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -267,18 +351,18 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "check",
-        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 122037,
-      "name": "check",
-      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -303,114 +387,18 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "check",
+        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 195431,
-      "name": "DIE TRYING",
-      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186612,
-      "name": "Busy Woman",
-      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/1liQkxQP5nunXlGYueCqkS"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "Cool Breeze",
-        "url": "https://open.spotify.com/album/51DyWa2guJRM9W20DdDHDJ"
-      },
-      "artists": [
-        {
-          "name": "Frank THE Phre$h",
-          "url": "https://open.spotify.com/artist/5d9dcVELHMPN9UYmSDc0ml"
-        }
-      ],
-      "duration_ms": 255999,
-      "name": "Cool Breeze",
-      "url": "https://open.spotify.com/track/5SJ3uOLNUCAtB4wozKhlYX"
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -475,6 +463,54 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
+        "name": "Satisfied Soul",
+        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "duration_ms": 258446,
+      "name": "Satisfied Soul",
+      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "UKMF (AZ2KC)",
+        "url": "https://open.spotify.com/album/3fJ2RdGoMIawjTiCZPvDNi"
+      },
+      "artists": [
+        {
+          "name": "unConventionAl KingZ",
+          "url": "https://open.spotify.com/artist/6keni3JqMEreVEd84PDfrG"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Big Doobie",
+          "url": "https://open.spotify.com/artist/02KFeQhOPykPOei34dmHc1"
+        },
+        {
+          "name": "Recker Eans",
+          "url": "https://open.spotify.com/artist/5rHsws2TANhbqTCjsRF76S"
+        }
+      ],
+      "duration_ms": 255555,
+      "name": "EXECUTION",
+      "url": "https://open.spotify.com/track/0VwObah0e0BsvzMHLbFWsy"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
         "name": "Out cry",
         "url": "https://open.spotify.com/album/1h8uEiQUSVIX454Jc9Dtxt"
       },
@@ -515,26 +551,6 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Satisfied Soul",
-        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Ant",
-          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
-        }
-      ],
-      "duration_ms": 258446,
-      "name": "Satisfied Soul",
-      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
@@ -544,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 1172200,
-      "name": "The Shadow Man Incident",
-      "url": "https://open.spotify.com/track/1irU9kHin1QwwPDcScb3Dn"
+      "duration_ms": 322520,
+      "name": "In the Arms of Morpheus",
+      "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
     },
     {
       "added_at": "2025-02-21 05:00:00",

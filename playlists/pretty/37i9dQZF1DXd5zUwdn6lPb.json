@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 355413,
+  "num_followers": 355595,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
+        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
+        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 147142,
+      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
+      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
         "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
         "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 227013,
       "name": "Messiah, HWV 56, Part I: Pastoral Symphony, \"Pifa\" (arr. L. Stokowski)",
       "url": "https://open.spotify.com/track/2WuYYACpbXgn41VaPN3IYs"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
-        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
-        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Soule",
-          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 147142,
-      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
-      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -315,30 +315,6 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
-        "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sophie Kauer",
-          "url": "https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO"
-        },
-        {
-          "name": "Kunal Lahiry",
-          "url": "https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
+        "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
+        "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sophie Kauer",
+          "url": "https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO"
+        },
+        {
+          "name": "Kunal Lahiry",
+          "url": "https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
         "name": "Debussy: Suite bergamasque: III. Clair de lune",
         "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 200762,
       "name": "02:07",
       "url": "https://open.spotify.com/track/48cEP4ehxkhonJfyfIL4gM"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
+        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
         "name": "Piano Poems",
         "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
       },
@@ -1131,30 +1131,6 @@
       "duration_ms": 171397,
       "name": "Being",
       "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
-      },
-      "artists": [
-        {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
-        },
-        {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
-        },
-        {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Valse lente, Op. 33 (arr. for orchestra)",
-      "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1179,6 +1155,30 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
+        "name": "Early One Morning",
+        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+      },
+      "artists": [
+        {
+          "name": "Oskar Merikanto",
+          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+        },
+        {
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Valse lente, Op. 33 (arr. for orchestra)",
+      "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
         "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
         "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 123906,
       "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
       "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1740,9 +1740,9 @@
           "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
         }
       ],
-      "duration_ms": 112440,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
-      "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
+      "duration_ms": 65080,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
+      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Jeux d\u2019eau, M 30",
-      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
-    },
-    {
-      "added_at": "2025-02-21 14:37:27",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 261213,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
       "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
+    },
+    {
+      "added_at": "2025-02-21 14:37:27",
+      "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Jeux d\u2019eau, M 30",
+      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -1972,33 +1972,29 @@
           "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
         }
       ],
-      "duration_ms": 65080,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
-      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+      "duration_ms": 112440,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
+      "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
     },
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+        "name": "Ravel: Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+      "duration_ms": 366400,
+      "name": "Ravel: Pavane pour une infante d\u00e9funte",
+      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
     },
     {
       "added_at": "2025-02-21 14:37:27",
@@ -2043,22 +2039,26 @@
     {
       "added_at": "2025-02-21 14:37:27",
       "album": {
-        "name": "Ravel: Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 366400,
-      "name": "Ravel: Pavane pour une infante d\u00e9funte",
-      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
     },
     {
       "added_at": "2025-02-21 14:37:27",

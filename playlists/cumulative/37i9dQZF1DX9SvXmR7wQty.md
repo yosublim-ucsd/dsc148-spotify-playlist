@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Moffatt
 
-3,126 songs - 6 day 21 hr 55 min
+3,127 songs - 6 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 | 2024-11-12 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2022-06-04 |
 | [Feux follets](https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Feux follets](https://open.spotify.com/album/3akneBnhOBkOhH4NdLVsqk) | 3:40 | 2023-02-24 | 2023-03-11 |
+| [Figaro \(feat\. Josman\)](https://open.spotify.com/track/4HB8eCfEXUrwzzqFqsVU5T) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Black House](https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb) | 3:38 | 2025-02-21 |  |
 | [Fille de joie](https://open.spotify.com/track/573BxihWmPhOfxjZO9hnDl) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 2:50 | 2021-12-31 | 2022-01-22 |
 | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/track/7z2cUfglgcQ9K89YdMlDOP) | [Sainte\-Croix](https://open.spotify.com/artist/6DXllKnZVeC1AJOMWt7vig), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/album/3M6B8jtdB22egiajOkp1GJ) | 2:09 | 2022-06-24 | 2022-07-09 |
 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-31 |  |
@@ -1221,7 +1222,7 @@
 | [J'ai si peur](https://open.spotify.com/track/4a9dS0IEMxDdF77loEaTRN) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5), [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [J'ai si peur](https://open.spotify.com/album/1NmVsbmegt0pKXbVIxcI4x) | 3:28 | 2023-09-29 | 2023-10-14 |
 | [J'ai trouvé une maison](https://open.spotify.com/track/7McNrQcwu0LFKllaM2mDq8) | [Marie\-Pier Allard](https://open.spotify.com/artist/1k9EofoaPv24MrAfJkSAYW) | [J’ai trouvé une maison](https://open.spotify.com/album/3ZYELekc9V1oP1NoMELc80) | 4:06 | 2022-01-14 | 2022-01-22 |
 | [J'ai vendu mon shack \- Acoustique](https://open.spotify.com/track/5z8RQZYj8LHSHEXp8Kf9EY) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là..\. au chalet ! \(Acoustique\)](https://open.spotify.com/album/5UBaGzpGowzzgnMSHnNXEj) | 3:04 | 2022-09-16 | 2022-09-24 |
-| [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 | 2025-02-21 |  |
+| [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 | 2025-02-21 |  |
 | [J'aime la rue](https://open.spotify.com/track/3cuzOzCuWHpYyMtEm8JZYt) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Black Picsou](https://open.spotify.com/artist/5Lpv2OESh4prU1ko6Rx6wN) | [J'aime la rue](https://open.spotify.com/album/27MKgCDdFJa9idrDf1OWpJ) | 2:45 | 2023-02-24 | 2023-03-11 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-23 | 2023-07-09 |
 | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV) | 3:34 | 2023-03-17 | 2023-04-15 |
@@ -1506,7 +1507,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/6BpzjdJyNxG2Yf47YLoQah) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Queen of Hearts](https://open.spotify.com/album/6F13Kct2RcazzysroP8157) | 3:04 | 2021-12-31 | 2022-01-22 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-03 | 2023-12-17 |
 | [La visite](https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V) | [Veranda](https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M) | [Là\-bas](https://open.spotify.com/album/2KWmLmZE7yZ8bwjCaHhpPK) | 3:53 | 2022-09-16 | 2022-09-24 |
-| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 |  |
+| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 | 2025-02-26 |
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-10-18 | 2024-12-15 |
 | [Lady Renarde](https://open.spotify.com/track/3EbASRjxu4gSNOQBJJVaYJ) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Lady Renarde](https://open.spotify.com/album/4J1K1l4YEcDanstwGuvwtV) | 3:44 | 2024-02-16 | 2024-02-24 |
 | [Laisse faire](https://open.spotify.com/track/7eFQnRjylo3pQbelR1R4Pz) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Laisse faire](https://open.spotify.com/album/3H8t91CIYSCZq8tEYobUio) | 3:04 | 2023-03-10 | 2023-03-18 |

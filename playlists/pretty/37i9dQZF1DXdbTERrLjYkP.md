@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Ronia
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,478 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,487 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [We Were Girls](https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS) | 3:24 |
 | 65 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
 
-Snapshot ID: `Z7gIYwAAAAChxdlXLyDiwOwFgsg+2OHf`
+Snapshot ID: `Z7gIYwAAAADx3ZIBxI235GPC3KM3Rz6h`

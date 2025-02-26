@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 48690,
+  "num_followers": 48709,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Somos Dos",
+        "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
+      },
+      "artists": [
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Eu Quero Tudo",
         "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Cuanto Heredamos",
-        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Cuanto Heredamos",
-      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Mamita Peyote",
         "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+        "name": "Cuanto Heredamos",
+        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
+      "duration_ms": 208596,
+      "name": "Cuanto Heredamos",
+      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Somos Dos",
-        "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
       "artists": [
         {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 217021,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
+      "duration_ms": 200666,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
     },
     {
       "added_at": "2024-06-12 21:02:48",

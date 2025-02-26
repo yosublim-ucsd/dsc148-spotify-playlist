@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ"
@@ -2486,6 +2486,28 @@
       "duration_ms": 200010,
       "name": "Eyes Closed (feat. J Balvin)",
       "url": "https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL"
+    },
+    {
+      "album": {
+        "name": "Fald Ned (feat. Mille)",
+        "url": "https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx"
+      },
+      "artists": [
+        {
+          "name": "DeDerDrenge",
+          "url": "https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128873,
+      "name": "Fald Ned (feat. Mille)",
+      "url": "https://open.spotify.com/track/2xe4Zk82EJMOjonx4U5jEp"
     },
     {
       "album": {

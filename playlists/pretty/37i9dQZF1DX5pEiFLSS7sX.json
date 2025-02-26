@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 219111,
+  "num_followers": 219158,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 518679,
+      "name": "Miracles - Live",
+      "url": "https://open.spotify.com/track/3sS3krMEoOsTSAPNtsTobt"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "Pat Barrett",
         "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
@@ -419,22 +439,42 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
         },
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
         }
       ],
-      "duration_ms": 518679,
-      "name": "Miracles - Live",
-      "url": "https://open.spotify.com/track/3sS3krMEoOsTSAPNtsTobt"
+      "duration_ms": 296400,
+      "name": "You Satisfy (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "How To Start A Housefire (Pt. III)",
+        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 415598,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -463,46 +503,6 @@
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "How To Start A Housefire (Pt. III)",
-        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 415598,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
-      },
-      "artists": [
-        {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "You Satisfy (feat. Elyssa Smith)",
-      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "More Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 338694,
-      "name": "More Like Jesus - Live",
-      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -651,6 +631,26 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -667,26 +667,6 @@
       "duration_ms": 329320,
       "name": "None But Jesus - Live",
       "url": "https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
-      },
-      "artists": [
-        {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        },
-        {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
-        }
-      ],
-      "duration_ms": 315946,
-      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -711,6 +691,26 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        },
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "duration_ms": 315946,
+      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
     },
     {
       "added_at": "2024-08-03 08:12:04",

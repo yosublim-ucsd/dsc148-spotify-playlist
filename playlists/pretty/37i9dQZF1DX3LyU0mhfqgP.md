@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Vũ Cát Tường
+> Songs from LGBTQIA+ artists\.  Cover: Gordi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,807 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,756 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngày Này, Người Con Gái Này](https://open.spotify.com/track/4ElFTH8hqX7XkzRbCtktfi) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Ngày Này, Người Con Gái Này](https://open.spotify.com/album/7J1wfogVQNgDoiZFaOJIij) | 4:15 |
-| 2 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
-| 3 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
-| 4 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 |
-| 5 | [Runway](https://open.spotify.com/track/2DQPfTQ1WAlEEh3OOpo3xF) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 2:29 |
-| 6 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 |
-| 7 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
+| 1 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
+| 2 | [Ngày Này, Người Con Gái Này](https://open.spotify.com/track/4ElFTH8hqX7XkzRbCtktfi) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Ngày Này, Người Con Gái Này](https://open.spotify.com/album/7J1wfogVQNgDoiZFaOJIij) | 4:15 |
+| 3 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
+| 4 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
+| 5 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 |
+| 6 | [Runway](https://open.spotify.com/track/2DQPfTQ1WAlEEh3OOpo3xF) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 2:29 |
+| 7 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 |
 | 8 | [Fleeting Friend](https://open.spotify.com/track/1eMffhZjusGh5ft6DnYSzG) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Fleeting Friend](https://open.spotify.com/album/0FGrnwHdF1XuHKuer1lbih) | 3:11 |
 | 9 | [JOYRIDE](https://open.spotify.com/track/2cSstpKlitPixk8j1hl8E6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/4CbtUWjAeVaJrMprF7pQ3M) | 2:30 |
 | 10 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/6JhnWtYtde5oSKs8sL1W1c) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 50 | [當我們談論愛情](https://open.spotify.com/track/2JOb24g7gKkE70LYhXv8pf) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [當我們談論愛情](https://open.spotify.com/album/6vCdo47Pl0VqYAKI4hTn0H) | 3:51 |
 
-Snapshot ID: `Z7QT6gAAAAAZHdHHmEkssFVx6/k6Y2/7`
+Snapshot ID: `Z71OVwAAAABP2451hv0fLQbrg1NNEnc1`

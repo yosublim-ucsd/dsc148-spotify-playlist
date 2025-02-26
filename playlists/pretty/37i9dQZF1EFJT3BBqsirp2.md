@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 35 | [Growing on Me](https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:09 |
 | 36 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
 | 37 | [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 |
-| 38 | [CO1N](https://open.spotify.com/track/7ebT9Ay9cwbgUlJ3UyYvpR) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:17 |
-| 39 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
+| 38 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
+| 39 | [CO1N](https://open.spotify.com/track/7ebT9Ay9cwbgUlJ3UyYvpR) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:17 |
 | 40 | [Make Believe](https://open.spotify.com/track/4mtwVlfFwOx32akhvoce2I) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 3:56 |
 | 41 | [BREEE!](https://open.spotify.com/track/14brgBBs15gxGHJ3JTraZC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:17 |
 | 42 | [BE MY ANIME](https://open.spotify.com/track/298TUewHw03SSS79Z2Gien) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [CIVIL DISORDER](https://open.spotify.com/album/7MD9Chg0V5UIj5vyzZ0ebQ) | 3:29 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 68 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 69 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AbqevgAAAABoN1KOHddyBhAntCRCygvk`
+Snapshot ID: `AbqkXwAAAADwz9ZUbUm7YH6w1bj2za35`

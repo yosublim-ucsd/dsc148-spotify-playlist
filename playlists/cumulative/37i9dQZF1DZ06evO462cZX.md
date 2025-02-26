@@ -4,11 +4,11 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 23 min
+63 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-24 |  |
+| [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-24 | 2025-02-26 |
 | [Adios \(with Andrez Babii\)](https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Adios \(with Andrez Babii\)](https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS) | 3:04 | 2024-08-08 | 2024-08-12 |
 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 | 2024-08-08 |  |
 | [Amanecer](https://open.spotify.com/track/1O0DSXyZhdgrhsDiTgY8C3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Amanecer](https://open.spotify.com/album/2KF029nvcMJwjoB3HpKry5) | 3:36 | 2025-01-07 | 2025-01-13 |
@@ -53,6 +53,7 @@
 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 | 2024-08-08 | 2024-12-23 |
 | [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 | 2024-12-08 | 2025-01-04 |
 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 | 2024-08-08 |  |
+| [Red Lips](https://open.spotify.com/track/6hpdg4x22cDrootVSKvoMi) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Elevation EP](https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J) | 2:56 | 2025-02-26 |  |
 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 | 2024-08-31 |  |
 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 | 2024-08-08 |  |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2024-08-08 |  |

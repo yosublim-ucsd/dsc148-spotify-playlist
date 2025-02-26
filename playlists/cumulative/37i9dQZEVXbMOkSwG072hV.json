@@ -3147,6 +3147,44 @@
     },
     {
       "album": {
+        "name": "Algo Novo Vindo",
+        "url": "https://open.spotify.com/album/6iANodkoYv17npqJBVfbo4"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Global",
+          "url": "https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM"
+        },
+        {
+          "name": "Ericka Nascimento",
+          "url": "https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia"
+        },
+        {
+          "name": "Ray Rodrigues",
+          "url": "https://open.spotify.com/artist/30HXaNGp5kwFGIfsozt36W"
+        },
+        {
+          "name": "Thiago Tavares",
+          "url": "https://open.spotify.com/artist/2FASWnnU3sOW6vbwVFYeyR"
+        },
+        {
+          "name": "Vin\u00edcius Cruz",
+          "url": "https://open.spotify.com/artist/2rDXKXzMD7yHXNclxNAa9H"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420708,
+      "name": "Algo Novo Vindo",
+      "url": "https://open.spotify.com/track/6fP2IJGSEvzIFEGJDNWvf4"
+    },
+    {
+      "album": {
         "name": "Algu\u00e9m Conseguiu Entender?",
         "url": "https://open.spotify.com/album/2lhZM1xIYVhJKCtM2KhejI"
       },
@@ -9227,6 +9265,32 @@
     },
     {
       "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
         "name": "Bota amor (Coloca Nela)",
         "url": "https://open.spotify.com/album/4sxn5hMe4kdVGzqe72xLGt"
       },
@@ -12212,7 +12276,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 142053,
       "name": "chess - slowed",
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
@@ -25004,7 +25068,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -32486,7 +32550,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -35384,6 +35448,28 @@
       "duration_ms": 265750,
       "name": "Medley de Igarat\u00e1 3",
       "url": "https://open.spotify.com/track/4FbYt9D0katV4nXZaC01Yt"
+    },
+    {
+      "album": {
+        "name": "A Nata de Tudo - A Ovelha Negra",
+        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Medley de Igarat\u00e1 4",
+      "url": "https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo"
     },
     {
       "album": {
@@ -42234,7 +42320,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -45154,6 +45240,24 @@
       "duration_ms": 123000,
       "name": "Oq c\u00ea fez?",
       "url": "https://open.spotify.com/track/2739WNF0lAMaNQt78wIC7p"
+    },
+    {
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "album": {
@@ -49272,7 +49376,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 109253,
       "name": "Porsche Azul",
       "url": "https://open.spotify.com/track/3xsYqPvotPUjk8vcIPBNTg"
@@ -49946,6 +50050,24 @@
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "album": {
+        "name": "Proibido Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165888,
+      "name": "Proibido Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
     },
     {
       "album": {
@@ -59111,6 +59233,36 @@
     },
     {
       "album": {
+        "name": "Seresta Do Pai Das Crian\u00e7as (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/1le3fy7ZyCEjK2wkxu27LR"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Seresta do Rasta",
+          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
+        },
+        {
+          "name": "erick woods",
+          "url": "https://open.spotify.com/artist/5G9IxzIIUedIgOgLwbBc9N"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tadala - Ao Vivo",
+      "url": "https://open.spotify.com/track/0WNwVKkUp2AvIlK6grc5Ra"
+    },
+    {
+      "album": {
         "name": "Take Me to the River (I Will Swim)",
         "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
       },
@@ -61748,7 +61900,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 162788,
       "name": "To Solteiro Bem De VIda",
       "url": "https://open.spotify.com/track/1g9r6DhfsScsKEqbdySGTm"
@@ -61897,6 +62049,24 @@
     },
     {
       "album": {
+        "name": "Toma Jack do Urso e do Gardenal",
+        "url": "https://open.spotify.com/album/0mWlulVf9MPZiHitCbzmki"
+      },
+      "artists": [
+        {
+          "name": "DJ BRUNO DE IBIZA",
+          "url": "https://open.spotify.com/artist/5xbAPzVwATFiJHUSeqsv8y"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144587,
+      "name": "Toma Jack do Urso e do Gardenal",
+      "url": "https://open.spotify.com/track/2Y0G2WcI2PHbAtJZu1iZSc"
+    },
+    {
+      "album": {
         "name": "Toma jack toma",
         "url": "https://open.spotify.com/album/6PzQa0qhJjqtP5MTgetkjf"
       },
@@ -61908,7 +62078,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 144639,
       "name": "Toma jack toma",
       "url": "https://open.spotify.com/track/7F9ITbRhuq4jAxFRtcpdop"

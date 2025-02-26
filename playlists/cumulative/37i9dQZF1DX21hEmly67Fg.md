@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-275 songs - 15 hr 12 min
+276 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Oops!...i Did It Again](https://open.spotify.com/track/0L0UVibaypf3j5IIkHcUXJ) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [Oops!...i Did It Again](https://open.spotify.com/album/3hIspTjVavy9I21EmWEc8K) | 2:06 | 2024-11-12 |  |
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 | 2024-12-20 |
 | [Perfect](https://open.spotify.com/track/6clv20tpXFKLevFO7Tcdno) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Perfect](https://open.spotify.com/album/7554ixwW94p7WaGD2mtO4G) | 3:49 | 2024-08-20 |  |
+| [Perfect \- Acoustic Guitar](https://open.spotify.com/track/1QsTMEruwcaYNMVF2qzq6E) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7e5oQEy3tCFFY53HRJqZCe) | 3:56 | 2025-02-25 |  |
 | [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 | 2023-03-07 |  |
 | [Photograph](https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 2](https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-03-04 |  |

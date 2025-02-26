@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,546 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,555 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 26 | [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 |
 | 27 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 |
 | 28 | [MOVE YO BODY](https://open.spotify.com/track/2R0EsT9xG37tlQLDDztqJN) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY](https://open.spotify.com/album/7LCVBllSs6ZG5ytN1Y4hep) | 2:08 |
-| 29 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
+| 29 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
 | 30 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
-| 31 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
+| 31 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 32 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
 | 33 | [Random Access Memory \[RAM\] \(feat\. Clara La San\)](https://open.spotify.com/track/6R55Qoa7SRZ744U85UdMVp) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:24 |
 | 34 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |

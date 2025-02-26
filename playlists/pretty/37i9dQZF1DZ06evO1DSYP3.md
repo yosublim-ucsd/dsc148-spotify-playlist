@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,543 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,545 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 18 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 |
 | 19 | [WHO ELSE YOU KNOW!?](https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:49 |
 | 20 | [Blue Hunnids](https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Blue Hunnids \(feat\. P\-Lo\) \- Single](https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq) | 3:16 |
-| 21 | [What We On \(feat\. E\-40\)](https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [What We On \(feat\. E\-40\)](https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql) | 2:53 |
-| 22 | [Feel Me?](https://open.spotify.com/track/6k9BKlPz5J4uXMOtita08J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/4DfQgX7FfgG5htM1TvxyuG) | 2:19 |
+| 21 | [Feel Me?](https://open.spotify.com/track/6k9BKlPz5J4uXMOtita08J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/4DfQgX7FfgG5htM1TvxyuG) | 2:19 |
+| 22 | [What We On \(feat\. E\-40\)](https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [What We On \(feat\. E\-40\)](https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql) | 2:53 |
 | 23 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 |
 | 24 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
 | 25 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 51 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 | 52 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 |
 
-Snapshot ID: `Z7plAAAAAAD3aw4AAzlfowPLpDrcTWuf`
+Snapshot ID: `Z7u2gAAAAAA6U8jRnHr0LlCsetNQg63a`

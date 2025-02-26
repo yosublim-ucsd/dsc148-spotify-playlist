@@ -1405,6 +1405,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+        "url": "https://open.spotify.com/album/67DGWJ9ypKs6NPnENGGY0Q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+      "url": "https://open.spotify.com/track/3ynbqSi0Z7e3FdcZrhOnQC"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Concertos Nos. 4, Op. 58 & \"6\", Op. 61a",
         "url": "https://open.spotify.com/album/6l35S84aHveUc8N2mDNEha"
       },
@@ -2070,7 +2096,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 211920,
       "name": "Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: Olly",
+  "description": "Switzerland's biggest hits right now. Cover: Giorgia",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 164585,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "P\u00e9lican",
+        "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "P\u00e9lican",
+      "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Pasar\u00eda...",
         "url": "https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn"
       },
@@ -3299,6 +3317,28 @@
     },
     {
       "album": {
+        "name": "Wenn der Himmel weint",
+        "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128641,
+      "name": "Wenn der Himmel weint",
+      "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -3340,6 +3380,24 @@
       "duration_ms": 131773,
       "name": "wie du manchmal fehlst",
       "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "album": {
+        "name": "Wie?",
+        "url": "https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173325,
+      "name": "Wie?",
+      "url": "https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q"
     },
     {
       "album": {

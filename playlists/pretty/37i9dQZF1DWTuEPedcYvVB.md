@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,847 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,884 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 44 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
 | 45 | [Skengman \(feat\. Stormzy\)](https://open.spotify.com/track/2mAg49knTyCqpVlCMtHGXM) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Skengman \(feat\. Stormzy\)](https://open.spotify.com/album/075FXoK3vUNI3H2wO1Jt2k) | 4:35 |
 | 46 | [Get Man Got](https://open.spotify.com/track/4fEr8iz4VziG7d7OnWp49g) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE) | [Untraditional EP](https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA) | 3:58 |
-| 47 | [Surgeon](https://open.spotify.com/track/0vLmr16yecpq6XJ3u63Dt7) | [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/3v2J9dZDXbhJfTBIRhwItZ) | [Surgeon](https://open.spotify.com/album/1BZrFRHQGc9V3mvOUfuBI8) | 3:27 |
+| 47 | [Surgeon](https://open.spotify.com/track/0vLmr16yecpq6XJ3u63Dt7) | [Ashley Walters](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/3v2J9dZDXbhJfTBIRhwItZ) | [Surgeon](https://open.spotify.com/album/1BZrFRHQGc9V3mvOUfuBI8) | 3:27 |
 | 48 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 |
 | 49 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
 | 50 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Yami Safdie & Camilo",
-  "num_followers": 1893707,
+  "num_followers": 1893714,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 134637,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -619,26 +619,18 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "pa' que sue\u00f1es",
-        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+        "name": "Afuera Del Planeta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
       },
       "artists": [
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 170795,
-      "name": "pa' que sue\u00f1es",
-      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+      "duration_ms": 261376,
+      "name": "Afuera Del Planeta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -659,18 +651,26 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Afuera Del Planeta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 261376,
-      "name": "Afuera Del Planeta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
+        "name": "Acustico",
+        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        },
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 453893,
+      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
+      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 206800,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
-        "name": "Acustico",
-        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        },
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 453893,
-      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
-      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2025-01-31 05:00:24",
-      "album": {
         "name": "Am\u00e1",
         "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 176256,
       "name": "Am\u00e1",
       "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:24",
+      "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
     },
     {
       "added_at": "2025-01-31 05:00:24",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2025-01-31 05:00:24",
       "album": {
-        "name": "La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
         }
       ],
-      "duration_ms": 253910,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     }
   ],
   "unique_name": "Ac\u00fasticas",

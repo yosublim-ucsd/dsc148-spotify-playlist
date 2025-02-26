@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: SiM
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: BRAHMAN
 
-373 songs - 21 hr 27 min
+375 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [SAKURA](https://open.spotify.com/track/12zVwXRvKeOZObLSltDTt2) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [SAKURA](https://open.spotify.com/album/0xPShWmaMgWUmp8YejiJnv) | 4:22 | 2025-02-18 |  |
 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 | 2023-07-20 |  |
 | [Sapient Creature](https://open.spotify.com/track/0EpvrHIm3434StMFhzrfmh) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Sapient Creature](https://open.spotify.com/album/08leow67n0cloZA0lgygt8) | 4:31 | 2023-10-24 | 2023-11-01 |
-| [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2024-04-18 |  |
+| [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2024-04-18 | 2025-02-26 |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2023-07-20 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 | 2023-11-02 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 | 2023-11-05 |
@@ -275,6 +275,7 @@
 | [SUPER PALE HORSE](https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:11 | 2024-02-20 | 2024-03-20 |
 | [SUPER YABAI](https://open.spotify.com/track/0x2uTiLUzZcmuDGxQeYVcK) | [PRAISE](https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs) | [SUPER YABAI](https://open.spotify.com/album/3Qi48Pfzq8FldO2nv4KlVw) | 2:51 | 2023-07-25 | 2023-08-09 |
 | [Suppressed](https://open.spotify.com/track/0PC5WYuwoeUBP9oWLlyDJY) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Suppressed](https://open.spotify.com/album/3jiYEiS3O113TznP6UHoFx) | 3:19 | 2025-02-04 |  |
+| [SURVIVOR'S GUILT](https://open.spotify.com/track/3eBz4s4fADEgZATVRnXvC5) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [viraha](https://open.spotify.com/album/1MR2rQMIwHEY0ArIX6RqaR) | 2:28 | 2025-02-25 |  |
 | [SWEET DREAMS](https://open.spotify.com/track/2nWm1F041PLDHAFcKTiuf1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:30 | 2023-09-26 | 2024-04-19 |
 | [SWEET DREAMS](https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:30 | 2023-09-26 | 2024-06-04 |
 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 | 2023-07-20 |  |
@@ -292,6 +293,7 @@
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-07-20 | 2023-11-22 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-10-18 |
 | [TRAINWRECK](https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh) | [Tomoya on the Big Moon](https://open.spotify.com/artist/3irvo30qLgiAyKyHGBAFBS), [vinny from Falling Asleep](https://open.spotify.com/artist/2qpkeVa1yPozQVjsQyiIv0) | [TRAINWRECK \(feat\. vinny from Falling Asleep\)](https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp) | 3:36 | 2024-02-06 | 2024-02-21 |
+| [Tropical Therapy](https://open.spotify.com/track/3gap4AuGFSfeR0oOSPTNsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX \(International Version\)](https://open.spotify.com/album/3MAE3S3GzzErgUKqLq2UKr) | 3:28 | 2025-02-25 |  |
 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 | 2024-07-30 |  |
 | [True Self](https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [True Self](https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng) | 2:52 | 2023-07-27 | 2023-09-01 |
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-07-20 | 2023-09-27 |
@@ -348,7 +350,7 @@
 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 | 2023-07-20 | 2024-03-27 |
 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 | 2024-04-18 |  |
 | [メリーゴーランド](https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [メリーゴーランド](https://open.spotify.com/album/09yWVpo1Ff7MOqdRXxGFO2) | 3:21 | 2023-08-01 | 2023-10-04 |
-| [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-25 |  |
+| [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-25 | 2025-02-26 |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 | 2024-05-20 |
 | [仮面舞踏](https://open.spotify.com/track/7EkGKms2llXnCrrOYH5P6B) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [仮面舞踏](https://open.spotify.com/album/4oUtcD69j94SCf98v529vR) | 3:33 | 2024-06-23 | 2024-07-10 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2023-07-20 |  |

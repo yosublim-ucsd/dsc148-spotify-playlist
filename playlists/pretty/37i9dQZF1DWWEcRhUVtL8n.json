@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: ROLE MODEL",
-  "num_followers": 1689312,
+  "num_followers": 1689277,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
     },
     {
       "added_at": "2024-12-20 21:17:55",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
-    },
-    {
       "added_at": "2024-10-03 15:29:56",
       "album": {
         "name": "Farewell, Starlite!",
@@ -683,6 +667,22 @@
       "duration_ms": 210944,
       "name": "See Her Out (Thats Just Life)",
       "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-02-07 05:00:34",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -767,22 +783,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1085,24 +1085,20 @@
       "url": "https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Pushing Daisies",
-        "url": "https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc"
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        },
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 207189,
-      "name": "Pushing Daisies",
-      "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2025-02-21 05:00:37",
@@ -1153,20 +1149,24 @@
       "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+        "name": "Pushing Daisies",
+        "url": "https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+      "duration_ms": 207189,
+      "name": "Pushing Daisies",
+      "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Call Me Up",
@@ -1263,6 +1247,22 @@
       "duration_ms": 161168,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
-      "added_at": "2025-01-17 05:00:56",
-      "album": {
-        "name": "LIE DOWN..",
-        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 309381,
-      "name": "LIE DOWN..",
-      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Even (with Cat Burns)",
@@ -1335,6 +1319,22 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "added_at": "2025-01-17 05:00:56",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "I Miss You Already + I Haven\u2019t Left Yet (Deluxe)",
         "url": "https://open.spotify.com/album/2PpathAsqvsMNCdRrRW9rf"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "cherry cola / sunburn",
         "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2025-02-07 05:00:34",
+      "album": {
+        "name": "If Only With You",
+        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 194388,
+      "name": "If Only With You",
+      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2025-02-07 05:00:34",
-      "album": {
-        "name": "If Only With You",
-        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "If Only With You",
-      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1499,6 +1499,22 @@
       "duration_ms": 182380,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
+    },
+    {
+      "added_at": "2025-02-21 05:00:37",
+      "album": {
+        "name": "hate it",
+        "url": "https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "hate it",
+      "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1549,6 +1565,22 @@
       "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+    },
+    {
       "added_at": "2025-01-24 05:25:57",
       "album": {
         "name": "Time's Up",
@@ -1567,38 +1599,6 @@
       "duration_ms": 179397,
       "name": "Time's Up",
       "url": "https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2025-02-21 05:00:37",
-      "album": {
-        "name": "hate it",
-        "url": "https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "hate it",
-      "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "H.B.W",
-        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 292355,
-      "name": "H.B.W",
-      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Automatic",
@@ -1655,6 +1639,22 @@
       "duration_ms": 193887,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "H.B.W",
+        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 292355,
+      "name": "H.B.W",
+      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
     },
     {
       "added_at": "2024-09-27 04:00:00",

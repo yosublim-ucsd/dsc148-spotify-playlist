@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 130157,
+  "num_followers": 130162,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
       },
       "artists": [
         {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
         }
       ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -419,6 +403,22 @@
       "duration_ms": 212172,
       "name": "Hasta Donde Mande el Cuerpo",
       "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 317790,
+      "name": "Gente Mariposa",
+      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pura Flor",
-        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Pura Flor",
-      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Guitarra y Canto del Ande",
         "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 351173,
       "name": "De Barrio",
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        }
-      ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Qam Hina",
         "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 247109,
       "name": "Qam Hina",
       "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        }
+      ],
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Vol. 2",
-        "url": "https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        },
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 328887,
-      "name": "Chica Cascada (feat. Mariana P\u00e4raway)",
-      "url": "https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Alma m\u00eda",
         "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
       },
@@ -827,22 +807,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
-        "url": "https://open.spotify.com/album/1fvOENTdXdjYW7ZlRhQdtF"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
-      "url": "https://open.spotify.com/track/138v5lV5OhgHugdWB7hHRR"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Canto #7",
         "url": "https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl"
       },
@@ -855,6 +819,42 @@
       "duration_ms": 244011,
       "name": "Canto #7",
       "url": "https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        },
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 328887,
+      "name": "Chica Cascada (feat. Mariana P\u00e4raway)",
+      "url": "https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+        "url": "https://open.spotify.com/album/1fvOENTdXdjYW7ZlRhQdtF"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+      "url": "https://open.spotify.com/track/138v5lV5OhgHugdWB7hHRR"
     }
   ],
   "unique_name": "Entre los Andes",

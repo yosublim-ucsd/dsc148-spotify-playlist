@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,007 likes - 48 songs - 2 hr 35 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,011 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 36 | [Coolin](https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Coolin](https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp) | 2:35 |
 | 37 | [Ma Face](https://open.spotify.com/track/5ZcMllqKkC7lvlk71gdQOv) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Ma Face](https://open.spotify.com/album/1Be1DPZvfZDrmXFJcirAf8) | 2:56 |
 | 38 | [Kicking You Out](https://open.spotify.com/track/2wxzJgEPeK0nteer6J8Z93) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Kicking You Out](https://open.spotify.com/album/3vItPC0UrNsjnYLqzg7ETU) | 2:12 |
-| 39 | [Beat of the Drum](https://open.spotify.com/track/3QeAAUENrwqgyS7DYXFdRG) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [Joe Vanditti](https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC) | [Beat of the Drum](https://open.spotify.com/album/0v6VNydsSAFaLaeY3z8Uex) | 6:04 |
+| 39 | [Beat of the Drum](https://open.spotify.com/track/3QeAAUENrwqgyS7DYXFdRG) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [Joe Vanditti](https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC) | [Beat of the Drum EP](https://open.spotify.com/album/0v6VNydsSAFaLaeY3z8Uex) | 6:04 |
 | 40 | [Boom Shake](https://open.spotify.com/track/74gd4A7wl44Gb4IzsW0J5h) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Boom Shake EP](https://open.spotify.com/album/1V1LVSqs5ky34LglGcO0zu) | 3:56 |
 | 41 | [Gucci Belter](https://open.spotify.com/track/79ZdfvmdvHCuURJwWy7aGj) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Gucci Belter](https://open.spotify.com/album/5Lnx2hB1wf0u5KirkD9yFZ) | 3:02 |
 | 42 | [Pico](https://open.spotify.com/track/4hOAq64FG6NuVAHucK7ltB) | [Lvndo](https://open.spotify.com/artist/2mUFQWIZAIjqN55jsChonW), [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Pico](https://open.spotify.com/album/6leqKWBVMu0zt30a2dg2JV) | 4:25 |

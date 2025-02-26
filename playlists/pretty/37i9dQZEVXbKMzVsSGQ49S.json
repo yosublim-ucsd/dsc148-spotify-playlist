@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 42485,
+  "num_followers": 42489,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0/goAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L1EvyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "R\u00d3A",
         "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Stara",
         "url": "https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Hver Er S\u00e1 Besti",
         "url": "https://open.spotify.com/album/5I8rBgIiVKiIYwdiinuEvk"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Til hvers \u00fe\u00e1 a\u00f0 segja satt?",
         "url": "https://open.spotify.com/album/4ucF8QKDgbd1Ln7kATTT79"
@@ -109,63 +109,7 @@
       "url": "https://open.spotify.com/track/2i5qrgOv3YUygaVmcDC6Jj"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4RjJ5XDplphyfgixMOYaNo"
-      },
-      "artists": [
-        {
-          "name": "J\u00fal\u00ed Hei\u00f0ar",
-          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
-        },
-        {
-          "name": "D\u00edsa",
-          "url": "https://open.spotify.com/artist/2hJcFRxgEKKcjgNz6gjnjs"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Eldur",
-      "url": "https://open.spotify.com/track/0uFpxx44aYPOSOcAp0DOZc"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
@@ -185,75 +129,63 @@
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "B\u00ed\u00f3mynd",
-        "url": "https://open.spotify.com/album/2nqpHpzvIeOgOc4ZfYs6Li"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "V\u00c6B",
-          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 160858,
-      "name": "B\u00ed\u00f3mynd",
-      "url": "https://open.spotify.com/track/0gxq2ErkNoTu1mPx9NFn1j"
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4RjJ5XDplphyfgixMOYaNo"
       },
       "artists": [
         {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+          "name": "J\u00fal\u00ed Hei\u00f0ar",
+          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
+        },
+        {
+          "name": "D\u00edsa",
+          "url": "https://open.spotify.com/artist/2hJcFRxgEKKcjgNz6gjnjs"
         }
       ],
-      "duration_ms": 181695,
-      "name": "Gemm\u00e9r Gemm\u00e9r",
-      "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
+      "duration_ms": 178640,
+      "name": "Eldur",
+      "url": "https://open.spotify.com/track/0uFpxx44aYPOSOcAp0DOZc"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "\u00der\u00e1 / Words",
-        "url": "https://open.spotify.com/album/1iEMK0wKkAOtrRM1m35zTK"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "TINNA",
-          "url": "https://open.spotify.com/artist/3X9pmGispxw8epZ9xEzHCR"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "\u00der\u00e1",
-      "url": "https://open.spotify.com/track/2rq6Iuz5xV0qIlQwYz4Gnq"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -273,23 +205,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -305,39 +221,27 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
         "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
@@ -353,7 +257,7 @@
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -364,112 +268,44 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/1KnCvgDQqvNFxcfT0HNgHf"
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
       },
       "artists": [
         {
-          "name": "\u00c1G\u00daST",
-          "url": "https://open.spotify.com/artist/0fou1vTu9k2xm3hRziQ467"
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
         }
       ],
-      "duration_ms": 179993,
-      "name": "Eins og \u00fe\u00fa",
-      "url": "https://open.spotify.com/track/2hdkXiHSrPJNopfdD6UUj5"
+      "duration_ms": 181695,
+      "name": "Gemm\u00e9r Gemm\u00e9r",
+      "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "B\u00ed\u00f3mynd",
+        "url": "https://open.spotify.com/album/2nqpHpzvIeOgOc4ZfYs6Li"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 160858,
+      "name": "B\u00ed\u00f3mynd",
+      "url": "https://open.spotify.com/track/0gxq2ErkNoTu1mPx9NFn1j"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "Gr\u00e6ni Pakkinn",
-        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        },
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 323813,
-      "name": "Tala minn sk\u00edt",
-      "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Gleyma",
         "url": "https://open.spotify.com/album/6HdFEqxXGGVpZsVE5cKmF7"
@@ -489,7 +325,123 @@
       "url": "https://open.spotify.com/track/0XCsvpGH9u2ZpmijyjYW5F"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "Gr\u00e6ni Pakkinn",
+        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
+      },
+      "artists": [
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 323813,
+      "name": "Tala minn sk\u00edt",
+      "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "\u00der\u00e1 / Words",
+        "url": "https://open.spotify.com/album/1iEMK0wKkAOtrRM1m35zTK"
+      },
+      "artists": [
+        {
+          "name": "TINNA",
+          "url": "https://open.spotify.com/artist/3X9pmGispxw8epZ9xEzHCR"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "\u00der\u00e1",
+      "url": "https://open.spotify.com/track/2rq6Iuz5xV0qIlQwYz4Gnq"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -505,7 +457,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -516,12 +468,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -537,55 +489,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -605,43 +509,39 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "SJ\u00daK",
-        "url": "https://open.spotify.com/album/4682PbXnsBjt9k9Lr24eCX"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
       "artists": [
         {
-          "name": "Joey Christ",
-          "url": "https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX"
-        },
-        {
-          "name": "Floni",
-          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 152923,
-      "name": "SJ\u00daK",
-      "url": "https://open.spotify.com/track/3cc0f6VHMhZRIeepRsnnOH"
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
         "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
@@ -657,7 +557,7 @@
       "url": "https://open.spotify.com/track/7stOLFwEqgpv7LiTiVcAmm"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -668,48 +568,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4RjJ5XDplphyfgixMOYaNo"
-      },
-      "artists": [
-        {
-          "name": "J\u00fal\u00ed Hei\u00f0ar",
-          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
-        },
-        {
-          "name": "D\u00edsa",
-          "url": "https://open.spotify.com/artist/2hJcFRxgEKKcjgNz6gjnjs"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2xwFouPj5y58rEzIDlUptV"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -733,91 +597,139 @@
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "SJ\u00daK",
+        "url": "https://open.spotify.com/album/4682PbXnsBjt9k9Lr24eCX"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 130392,
-      "name": "Leikkona",
-      "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 195464,
-      "name": "Krumla",
-      "url": "https://open.spotify.com/track/7yrXhrDYVS95g4MaTpfccn"
-    },
-    {
-      "added_at": "2025-02-24 16:03:28",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+          "name": "Joey Christ",
+          "url": "https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX"
         },
         {
-          "name": "Steindi Jr.",
-          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
         }
       ],
-      "duration_ms": 160288,
-      "name": "Steik og Sushi",
-      "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"
+      "duration_ms": 152923,
+      "name": "SJ\u00daK",
+      "url": "https://open.spotify.com/track/3cc0f6VHMhZRIeepRsnnOH"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "People's Champion",
-        "url": "https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj"
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/1KnCvgDQqvNFxcfT0HNgHf"
+      },
+      "artists": [
+        {
+          "name": "\u00c1G\u00daST",
+          "url": "https://open.spotify.com/artist/0fou1vTu9k2xm3hRziQ467"
+        }
+      ],
+      "duration_ms": 179993,
+      "name": "Eins og \u00fe\u00fa",
+      "url": "https://open.spotify.com/track/2hdkXiHSrPJNopfdD6UUj5"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -837,7 +749,63 @@
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "San Francisco Boy",
+        "url": "https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 154045,
+      "name": "San Francisco Boy",
+      "url": "https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "\u00c9G \u00c1 M\u00d3TI M\u00c9R",
+        "url": "https://open.spotify.com/album/0ISFZNnDcn8RyFjqHFVmz9"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Andvaka",
+      "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
       "album": {
         "name": "Til \u00ed allt, Pt. III",
         "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
@@ -861,40 +829,68 @@
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "San Francisco Boy",
-        "url": "https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb"
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
         }
       ],
-      "duration_ms": 154045,
-      "name": "San Francisco Boy",
-      "url": "https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6"
+      "duration_ms": 130392,
+      "name": "Leikkona",
+      "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
     },
     {
-      "added_at": "2025-02-24 16:03:28",
+      "added_at": "2025-02-25 12:52:21",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2025-02-25 12:52:21",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     }
   ],
   "unique_name": "Top 50 - Iceland",

@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Saya Gray
 
-3,197 songs - 7 day 5 hr 48 min
+3,198 songs - 7 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2815,6 +2815,7 @@
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-15 | 2023-02-18 |
 | [The Player](https://open.spotify.com/track/3Gxy35DHdgnCg0hrDDTgSF) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 4:04 | 2022-09-27 | 2022-10-29 |
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-21 | 2024-04-27 |
+| [the prom](https://open.spotify.com/track/2WFNSeBczMYbMnGkDW7LyR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:11 | 2025-02-25 |  |
 | [The Promise](https://open.spotify.com/track/4VWtDv7ASGkNGfPjTI8fPw) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 3:45 | 2022-02-11 | 2022-03-18 |
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-10-28 | 2023-03-22 |
 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 | 2024-06-28 | 2024-08-15 |

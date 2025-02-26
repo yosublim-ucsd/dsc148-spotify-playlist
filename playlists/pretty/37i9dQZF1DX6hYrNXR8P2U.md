@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Acá no importan el género.<br/>📷 La Valenti y Clara Cava
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,234 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,229 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 5 | [Loco](https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Loco](https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ) | 3:35 |
 | 6 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
 | 7 | [CUANDO EL BAJO SUENA](https://open.spotify.com/track/606igT4zYcB9rKvFN62XLc) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:54 |
-| 8 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |
+| 8 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |
 | 9 | [Ada](https://open.spotify.com/track/4ZxQL2iIC2wPFRFXhduabL) | [Nacho Contreras](https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS) | [Detener el Tiempo](https://open.spotify.com/album/4yUzltg6s8AJKrIHA1Nb8c) | 4:08 |
 | 10 | [Cirugía \(Portal Sessions\)](https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Cirugía \(Portal Sessions\)](https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr) | 3:38 |
 | 11 | [el vino y el tiempo](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |

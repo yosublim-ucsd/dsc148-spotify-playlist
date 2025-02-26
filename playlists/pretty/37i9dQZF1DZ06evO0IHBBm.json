@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30519,
+  "num_followers": 30528,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAAt6HJSnXhnP07lSpcOOzdl",
+  "snapshot_id": "Z7u2gAAAAAC2RNdgZv6BmLdYx71czlY2",
   "tracks": [
     {
       "added_at": null,
@@ -159,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 340080,
-      "name": "Pode Ser Hoje",
-      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
     },
     {
       "added_at": null,
@@ -211,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Tudo Isso Vai Passar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
+      "duration_ms": 340080,
+      "name": "Pode Ser Hoje",
+      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
     },
     {
       "added_at": null,

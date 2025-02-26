@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-430 songs - 21 hr 49 min
+431 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 | 2024-11-14 | 2025-01-31 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2024-09-11 |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-01 | 2024-09-27 |
-| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-06 |  |
+| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-06 | 2025-02-26 |
 | [Blodigt \(feat\. Annika\)](https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Blodigt \(feat\. Annika\)](https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI) | 3:02 | 2025-01-24 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-02 |  |
 | [Bo og Lis](https://open.spotify.com/track/3KsX8W7xxt4uNIBOcunC5r) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Jeg vil bare gerne være et godt menneske, men det er ikke let.](https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo) | 4:26 | 2025-01-30 | 2025-02-09 |
@@ -132,6 +132,7 @@
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-07-01 | 2024-08-01 |
 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-07-01 | 2024-07-13 |
+| [Fald Ned \(feat\. Mille\)](https://open.spotify.com/track/2xe4Zk82EJMOjonx4U5jEp) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Fald Ned \(feat\. Mille\)](https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx) | 2:08 | 2025-02-24 |  |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-18 | 2024-11-08 |
 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 | 2025-01-10 |  |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-10 |

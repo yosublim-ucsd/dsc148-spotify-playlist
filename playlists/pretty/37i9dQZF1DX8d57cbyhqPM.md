@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Tontons Dadju et Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,714 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 1 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 2 | [Pas de Ralentir](https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Pas de Ralentir](https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv) | 2:34 |
 | 3 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 |
 | 4 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 |

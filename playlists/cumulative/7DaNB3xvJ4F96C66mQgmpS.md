@@ -2,7 +2,7 @@
 
 ### [Workout Bangers 💪 ULTIMATE GYM HIP\-HOP](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
-> Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
+> Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
 279 songs - 15 hr 4 min
 

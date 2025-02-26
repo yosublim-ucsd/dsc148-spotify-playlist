@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,052 likes - 90 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,090 likes - 90 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 34 | [I Wish You Love](https://open.spotify.com/track/1XhZW7xlUp5fc7ZueeouJw) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [May I Come In?](https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA) | 2:09 |
 | 35 | [You Don't Know What Love Is \- Remastered 2004](https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 4:50 |
 | 36 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
-| 37 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 |
-| 38 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir), [Marcus Roberts](https://open.spotify.com/artist/6dz608P8sHylVvVVo5OLx2), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 |
+| 37 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir), [Marcus Roberts](https://open.spotify.com/artist/6dz608P8sHylVvVVo5OLx2), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 |
+| 38 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 |
 | 39 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 |
 | 40 | [I'll Never Smile Again](https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [In The Land Of Hi\-Fi](https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x) | 2:33 |
 | 41 | [The Thrill Is Gone](https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [The Thrill Is Gone](https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy) | 4:50 |

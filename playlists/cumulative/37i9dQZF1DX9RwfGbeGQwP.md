@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,548 songs - 2 day 10 hr 13 min
+1,549 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [formula too complex](https://open.spotify.com/track/5hje2hLvJnZaWwZX691Kb7) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [formula too complex](https://open.spotify.com/album/12VmmoSnPwngumo6RjvTPe) | 1:46 | 2022-06-10 | 2023-03-18 |
 | [Fortran](https://open.spotify.com/track/2gNoc9XvLMECTErBk7YKmJ) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Fortran](https://open.spotify.com/album/3aH1cRGxgAAZKlDmUCdAfB) | 3:16 | 2022-08-05 |  |
 | [Forty Winks](https://open.spotify.com/track/6ziC95AXSfHpzieMwruS2P) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Forty Winks](https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33) | 3:25 | 2022-05-13 | 2022-11-26 |
+| [freckled face.](https://open.spotify.com/track/6GmxGGPmp19SpFvh4wHEm0) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [freckled face.](https://open.spotify.com/album/6A8U5nAulhW7n6QSljlfNR) | 1:52 | 2025-02-21 |  |
 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 | 2022-10-15 |  |
 | [Freeine](https://open.spotify.com/track/7ufMGmS5G5wUdv3mWm4spT) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [Freeine](https://open.spotify.com/album/0eQZlYZlcrlhUAGQInejz4) | 2:20 | 2022-11-25 | 2023-09-29 |
 | [Fresh Fruit Brunch](https://open.spotify.com/track/1XvjgA7MDT5F7Zpa9rGUR5) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Fresh Fruit Brunch](https://open.spotify.com/album/4xslyXDxBu8eo4J2MZwh9e) | 2:18 | 2023-04-27 |  |
@@ -709,7 +710,7 @@
 | [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 | 2024-05-14 |
 | [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-11-25 |
-| [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 |  |
+| [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 | 2025-02-26 |
 | [Last Night](https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/7K0IErHOScjU80EtqFbE7A) | 2:02 | 2022-11-25 | 2022-12-14 |
 | [Last Night](https://open.spotify.com/track/64mMxY35INA35D0dcXKNGq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/4Ao7BFLOnWMcKYwvSoqafW) | 2:02 | 2022-12-09 | 2023-09-29 |
 | [last night](https://open.spotify.com/track/6yofOYr85Ur1seJDYCB76J) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [last night](https://open.spotify.com/album/4MAeVQqb6ZvNS73OhJk3L6) | 2:01 | 2022-08-05 | 2022-12-10 |
@@ -1022,7 +1023,7 @@
 | [Peanut Butter](https://open.spotify.com/track/3FGaTQ0PoGKi3GrrzNuk94) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Peanut Butter](https://open.spotify.com/album/4Ptym5GUg6PGORKUZSn7Jz) | 1:01 | 2022-01-27 | 2022-05-20 |
 | [Pear](https://open.spotify.com/track/5kaYTtwCO4n0YrP8PydD79) | [Kyomi](https://open.spotify.com/artist/40Ni6zxyeBMGPnEXaObaw1) | [Pear](https://open.spotify.com/album/0LDnXv9hWIg2O96qkbDY9Z) | 2:26 | 2022-08-12 | 2022-10-15 |
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-22 |  |
-| [Peppercorn](https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Peppercorn](https://open.spotify.com/album/65dRHJnh2IU4UtGMeRF34D) | 1:57 | 2023-04-20 |  |
+| [Peppercorn](https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Peppercorn](https://open.spotify.com/album/65dRHJnh2IU4UtGMeRF34D) | 1:57 | 2023-04-20 | 2025-02-26 |
 | [Peppermint](https://open.spotify.com/track/3XzMvogtB7BXWwElYGyYXO) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Peppermint](https://open.spotify.com/album/1FkmCmUVsXYRnBk8VBaGQ2) | 2:19 | 2022-08-12 | 2022-11-12 |
 | [Perception](https://open.spotify.com/track/6771GihRWSltfIeiffL35K) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Perception](https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf) | 2:22 | 2024-09-13 | 2024-10-08 |
 | [Perfect Moment](https://open.spotify.com/track/4LQXHGOAjC249XnciBfeAA) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [Perfect Moment](https://open.spotify.com/album/0kVPrRM5ESaI9uRJlpeBqa) | 2:24 | 2023-04-11 | 2024-08-10 |
@@ -1321,7 +1322,7 @@
 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 | 2022-01-27 | 2022-06-10 |
 | [Sweater Weather](https://open.spotify.com/track/1BPcsKuD9Ci3AJFLU1Lp7j) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Sweater Weather](https://open.spotify.com/album/4bwEsG9JD0bHUzX8TYzbhT) | 2:25 | 2022-01-27 | 2022-05-20 |
 | [Sweet Latte](https://open.spotify.com/track/2mmmxuadlt8vSRblNFcNo4) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Sweet Latte](https://open.spotify.com/album/2hXYJR2EedoZmAF10xmLlJ) | 2:23 | 2022-12-09 | 2023-10-06 |
-| [Sweet Mood](https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Sweet Mood](https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2) | 2:12 | 2024-07-05 | 2025-01-09 |
+| [Sweet Mood](https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Sweet Mood](https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2) | 2:12 | 2024-07-05 |  |
 | [Sweet Morning](https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Sweet Morning](https://open.spotify.com/album/4SzuMKqwnXnCuORNhqWuGO) | 2:40 | 2022-02-18 | 2022-10-15 |
 | [sweet talking](https://open.spotify.com/track/42PjDGWFTfsX2OA6L91oOI) | [Cloudsky](https://open.spotify.com/artist/6dtqfQLAJjTheAJD4V7Tw7) | [sweet talking](https://open.spotify.com/album/4INfio2l70PiYP2io6A8lp) | 3:04 | 2023-09-04 | 2025-02-16 |
 | [Sweev](https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Sweev](https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef) | 2:18 | 2022-01-27 | 2022-05-20 |

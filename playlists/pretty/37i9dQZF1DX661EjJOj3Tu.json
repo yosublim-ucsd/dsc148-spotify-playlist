@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 520281,
+  "num_followers": 520282,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Fantasia Cubana: Variations On Classical Themes",
+        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Chopin: Prelude In E-Minor",
+      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -455,22 +491,6 @@
       "duration_ms": 417302,
       "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
       "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -507,26 +527,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fantasia Cubana: Variations On Classical Themes",
-        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Chopin: Prelude In E-Minor",
-      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 299160,
       "name": "After All",
       "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 291636,
       "name": "Cuadra 11",
       "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "The Feeling Of Jazz",
+      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
       "artists": [
         {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         }
       ],
-      "duration_ms": 353840,
-      "name": "Soul Bourgeoisie",
-      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
       "artists": [
         {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
+      "duration_ms": 353840,
+      "name": "Soul Bourgeoisie",
+      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -767,22 +763,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Cervatillo",
-        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 307519,
-      "name": "El Cervatillo",
-      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -807,6 +787,42 @@
       "duration_ms": 417078,
       "name": "Dreams in Transition",
       "url": "https://open.spotify.com/track/3bMcZO6wcvyJDWS3529YSC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "El Cervatillo",
+        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 307519,
+      "name": "El Cervatillo",
+      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 166974,
       "name": "Aggua",
       "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 341560,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
-        }
-      ],
-      "duration_ms": 477496,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Que Ser\u00e1",
         "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
       },
@@ -1003,26 +983,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Caetano Veloso & Ivan Sacerdote",
-        "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
+        "name": "El Arte Del Bolero",
+        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
         },
         {
-          "name": "Ivan Sacerdote",
-          "url": "https://open.spotify.com/artist/7xiHV1zo8eXCzJWWGnU2IM"
-        },
-        {
-          "name": "Mosquito",
-          "url": "https://open.spotify.com/artist/5coeM7OaiVUCX4HjNesOLO"
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
         }
       ],
-      "duration_ms": 233483,
-      "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
-      "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
+      "duration_ms": 477496,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1059,6 +1035,30 @@
       "duration_ms": 251445,
       "name": "Kachucha",
       "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Caetano Veloso & Ivan Sacerdote",
+        "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Ivan Sacerdote",
+          "url": "https://open.spotify.com/artist/7xiHV1zo8eXCzJWWGnU2IM"
+        },
+        {
+          "name": "Mosquito",
+          "url": "https://open.spotify.com/artist/5coeM7OaiVUCX4HjNesOLO"
+        }
+      ],
+      "duration_ms": 233483,
+      "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
+      "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Meetings",
-        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
-      },
-      "artists": [
-        {
-          "name": "Adrien Brandeis",
-          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
-        },
-        {
-          "name": "Orlando Poleo",
-          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
-        }
-      ],
-      "duration_ms": 369797,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Meetings",
+        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
+      },
+      "artists": [
+        {
+          "name": "Adrien Brandeis",
+          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
+        },
+        {
+          "name": "Orlando Poleo",
+          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
+        }
+      ],
+      "duration_ms": 369797,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Pedrito Martinez Group",
-        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 352779,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1495,6 +1475,22 @@
       "duration_ms": 131386,
       "name": "Seven Steps To Heaven",
       "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 263515,
+      "name": "Agua Fresca",
+      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1515,18 +1511,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+        "name": "The Pedrito Martinez Group",
+        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
       },
       "artists": [
         {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         }
       ],
-      "duration_ms": 263515,
-      "name": "Agua Fresca",
-      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+      "duration_ms": 352779,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pr\u00f3logo: Hoy",
-        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Bosch",
-          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
-        },
-        {
-          "name": "Alain P\u00e9rez",
-          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Hoy (feat. Alain P\u00e9rez)",
-      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
       },
@@ -1599,26 +1579,6 @@
       "duration_ms": 355668,
       "name": "Madiba",
       "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Virtual Birdland",
-        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
-      },
-      "artists": [
-        {
-          "name": "Arturo O'Farrill",
-          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
-        },
-        {
-          "name": "The Afro Latin Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
-        }
-      ],
-      "duration_ms": 440053,
-      "name": "Para Los Rumberos",
-      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1643,6 +1603,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Virtual Birdland",
+        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
+      },
+      "artists": [
+        {
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
+        },
+        {
+          "name": "The Afro Latin Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
+        }
+      ],
+      "duration_ms": 440053,
+      "name": "Para Los Rumberos",
+      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pr\u00f3logo: Hoy",
+        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Bosch",
+          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
+        },
+        {
+          "name": "Alain P\u00e9rez",
+          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
+        }
+      ],
+      "duration_ms": 282973,
+      "name": "Hoy (feat. Alain P\u00e9rez)",
+      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Jazz Bat\u00e1 2",
         "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 293020,
       "name": "Luces",
       "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
-      },
-      "artists": [
-        {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 269480,
       "name": "I'll Call You Later",
       "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+      },
+      "artists": [
+        {
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Standards",
-        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Standards",
+        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
     },
     {
       "added_at": "2024-07-26 04:00:00",

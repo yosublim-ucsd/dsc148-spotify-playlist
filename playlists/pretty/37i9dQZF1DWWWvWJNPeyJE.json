@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 329777,
+  "num_followers": 329824,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Freaky with You (feat. Jacquees)",
-        "url": "https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Freaky with You (feat. Jacquees)",
-      "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 169378,
       "name": "get me started (feat. syd)",
       "url": "https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Freaky with You (feat. Jacquees)",
+        "url": "https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Freaky with You (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
     },
     {
       "added_at": "2024-09-02 12:32:28",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-413 songs - 19 hr 46 min
+414 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cry Me A River](https://open.spotify.com/track/6mope13IMtg7yLe38WjZ0r) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Cry Me A River](https://open.spotify.com/album/4LTIT8vZ481M7BHqomt5Z4) | 2:31 | 2024-12-13 |  |
 | [Crystal Tears](https://open.spotify.com/track/2ZW39GOe6sVnDJhsuJfE5V) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Crystal Tears](https://open.spotify.com/album/1OdVKI8bK4ffgnoSswNmpz) | 2:19 | 2024-09-20 | 2024-12-02 |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
+| [Curtain Call \- Sraw Remix](https://open.spotify.com/track/0dvrxIHr3ADXoZiHviMJqz) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor), [Sraw](https://open.spotify.com/artist/3DQt38FyIDLmlxC4AwlMpl) | [From Scratch: Remixed](https://open.spotify.com/album/2R8yxWkRbB0ND4K29zkrzY) | 3:16 | 2025-02-21 |  |
 | [Cycles](https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Cycles](https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ) | 4:19 | 2024-08-23 |  |
 | [Daisy Chain](https://open.spotify.com/track/2SMFdVZfPpqxDYN0st2CIB) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Daisy Chain](https://open.spotify.com/album/7xvZazikpra8GhpT0qciwG) | 2:36 | 2024-10-06 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6cMhNuYRBUjSih4JKu9DtM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Dancing Shadows](https://open.spotify.com/album/0H16Q6OIdh7Zz7yqMy81vB) | 2:00 | 2024-11-29 | 2025-02-10 |
@@ -87,7 +88,7 @@
 | [deep space](https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6) | [trees of sleep](https://open.spotify.com/artist/4PlHxeFd0jqHReZRnrtpz3) | [delaye](https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK) | 1:30 | 2023-08-22 | 2024-08-24 |
 | [Destiny](https://open.spotify.com/track/3BrRYzSKc8oLFBeFmyXm4G) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Destiny](https://open.spotify.com/album/5kH5Eq898z06gEUNGjWFIL) | 2:43 | 2024-10-11 |  |
 | [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 |  |
-| [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 |  |
+| [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 | 2025-02-26 |
 | [Dinorah Dinorah](https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Dinorah Dinorah](https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W) | 4:37 | 2025-02-21 |  |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 | 2024-10-04 |
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |

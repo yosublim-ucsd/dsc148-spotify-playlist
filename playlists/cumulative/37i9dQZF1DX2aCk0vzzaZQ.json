@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky",
+        "url": "https://open.spotify.com/album/5MotZM9awlY6DEP4mFRR0z"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626240,
+      "name": "String Sextet in D Minor, Op. 70, \"Souvenir de Florence\": I. Allegro con spirito",
+      "url": "https://open.spotify.com/track/72jIJDADnBLJKXV2yxv5N0"
+    },
+    {
+      "album": {
         "name": "Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Bl\u00e4tter; Arabeske",
         "url": "https://open.spotify.com/album/3Om7V78rEsrTdoTWG10GTC"
       },

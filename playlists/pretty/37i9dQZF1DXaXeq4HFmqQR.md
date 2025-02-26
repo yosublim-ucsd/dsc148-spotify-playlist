@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,028 likes - 35 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,029 likes - 35 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 29 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
 | 30 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
 | 31 | [Que me des tu cariño](https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Que me des tu cariño](https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6) | 3:30 |
-| 32 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
+| 32 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 |
 | 33 | [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 |
-| 34 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 |
+| 34 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 35 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 |
 
 Snapshot ID: `Z6OHdAAAAADx1NlA50FQkgQO3y5fvvWJ`

@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-225 songs - 12 hr 48 min
+226 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 |  |
 | [Dance Alone](https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Dance Alone](https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H) | 2:38 | 2024-10-24 |  |
 | [Dansa med mig själv](https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Dansa med mig själv](https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn) | 2:07 | 2025-02-21 |  |
-| [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 | 2024-06-28 |  |
+| [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 | 2024-06-28 | 2025-02-26 |
 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 | 2024-06-28 | 2024-10-11 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 |  |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-28 |  |
@@ -224,6 +224,7 @@
 | [Vad har du gjort med mig](https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Vad har du gjort med mig](https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB) | 3:01 | 2024-09-26 |  |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-06-28 | 2024-08-30 |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |
+| [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-02-20 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 309507,
+  "num_followers": 309598,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "The Right Place",
+        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Really Want to Know You - Remastered Version",
+      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 279693,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "The Right Place",
-        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Really Want to Know You - Remastered Version",
-      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
     },
     {
       "added_at": "2023-03-30 14:38:10",

@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 299053,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0"
@@ -1840,6 +1840,28 @@
       "duration_ms": 97546,
       "name": "\u9e92\u9e9f\u7d00\u884c II",
       "url": "https://open.spotify.com/track/3Pod4WYXe26n9WsRg8hpQZ"
+    },
+    {
+      "album": {
+        "name": "\u9e92\u9e9f\u7d00\u884c II",
+        "url": "https://open.spotify.com/album/0YJQHkhAEMRNCEEEeqvYeO"
+      },
+      "artists": [
+        {
+          "name": "John R Graham",
+          "url": "https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97546,
+      "name": "\u9e92\u9e9f\u7d00\u884c II",
+      "url": "https://open.spotify.com/track/72Q3DO51uZPLUgZfH82i5H"
     },
     {
       "album": {

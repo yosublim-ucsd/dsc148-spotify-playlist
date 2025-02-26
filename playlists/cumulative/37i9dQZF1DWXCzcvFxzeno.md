@@ -4,13 +4,14 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-234 songs - 17 hr 42 min
+235 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 | 2024-06-18 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-05-22 |  |
 | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/track/7umnhdcBL5b3vftzveBe6z) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/album/64eR0xbVZxevhmNhkPPg9C) | 3:48 | 2024-07-26 | 2024-10-25 |
+| [666 \(Demonio\)](https://open.spotify.com/track/7pUknHoKfItKMKZLlnQeQI) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [666 \(Demonio\)](https://open.spotify.com/album/1rKwD5W3ibnSgwLaTKEq7S) | 3:00 | 2025-02-20 |  |
 | [93 HARDCORE](https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [William Luck](https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX) | [93 HARDCORE](https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk) | 5:47 | 2024-04-09 | 2024-11-10 |
 | [999 \(BDSM\)](https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [999 \(BDSM\)](https://open.spotify.com/album/1TnQKykUUe9GTI48BbGTEe) | 2:38 | 2024-11-01 |  |
 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 | 2024-04-09 |  |
@@ -196,7 +197,7 @@
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2024-04-09 | 2024-06-01 |
 | [Subspace](https://open.spotify.com/track/67wppGWUHSa72Qfa12LH2r) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Move EP](https://open.spotify.com/album/73t7xyoQmF1bOsQYxdhUla) | 4:18 | 2024-04-09 | 2024-08-04 |
 | [Sucia](https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr) | [JODA & MARROW](https://open.spotify.com/artist/6Ar8R40O8JXTQ2FsCMsWuF) | [Sucia](https://open.spotify.com/album/4R82Tc7PJJf8CNFAkGusZH) | 3:03 | 2024-04-19 | 2024-08-06 |
-| [Sunglasses at Night](https://open.spotify.com/track/4rtPrDImV3Zvz0033ePqdK) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses at Night](https://open.spotify.com/album/2pvbQAohhuoYeO2sJpdVGe) | 3:45 | 2024-10-24 |  |
+| [Sunglasses at Night](https://open.spotify.com/track/4rtPrDImV3Zvz0033ePqdK) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses at Night](https://open.spotify.com/album/2pvbQAohhuoYeO2sJpdVGe) | 3:45 | 2024-10-24 | 2025-02-26 |
 | [Surpressed](https://open.spotify.com/track/20xymtXyIesn1RnCdV4u39) | [2FEL](https://open.spotify.com/artist/2YjhWg5nfeR14eUXqonx3x) | [Surpressed](https://open.spotify.com/album/1aS4DylxClt4R6OBImXrYA) | 6:44 | 2024-04-19 | 2024-09-27 |
 | [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 | 2024-05-28 |
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |

@@ -5472,7 +5472,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -5490,7 +5490,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -8634,7 +8634,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -10777,6 +10777,24 @@
     },
     {
       "album": {
+        "name": "Rahvuslik Rokk (1980-1984)",
+        "url": "https://open.spotify.com/album/4zVlmpj7Ux91WQAWRh8XBh"
+      },
+      "artists": [
+        {
+          "name": "RUJA",
+          "url": "https://open.spotify.com/artist/6t6mrN6SRd5Zw6HYKiTCIn"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206376,
+      "name": "Eesti muld ja eesti s\u00fcda",
+      "url": "https://open.spotify.com/track/2WSggKArI35CaYDOtqCpVT"
+    },
+    {
+      "album": {
         "name": "Eesti, kas sa kuuled?",
         "url": "https://open.spotify.com/album/1WEJJC3dfDKg9ndKegxO1j"
       },
@@ -11648,7 +11666,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/4sZGa0UXFc9Ako9Q0Sc9vk"
@@ -13340,7 +13358,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -18861,6 +18879,24 @@
     },
     {
       "album": {
+        "name": "Isamaa ilu hoieldes",
+        "url": "https://open.spotify.com/album/1Fu5ETlsnMVqnl7YIkHqHV"
+      },
+      "artists": [
+        {
+          "name": "Alo Mattiisen",
+          "url": "https://open.spotify.com/artist/3nER3exfNC34AaYp7FWg3V"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299837,
+      "name": "Isamaa ilu hoieldes",
+      "url": "https://open.spotify.com/track/0yZrbGbIsaeI4HS3sNPxju"
+    },
+    {
+      "album": {
         "name": "isegi kakelda pole kellegagi",
         "url": "https://open.spotify.com/album/2EX2IGJuA5arxvod8C5arr"
       },
@@ -19102,7 +19138,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 194003,
       "name": "It's Crazy It's Party (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/3w4bJdjSD7lNLKX85KfKyL"
@@ -21446,7 +21482,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 260202,
       "name": "k\u00f5rvetab",
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
@@ -28802,7 +28838,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -31244,6 +31280,24 @@
       "duration_ms": 220754,
       "name": "Paraadna - Siimi Remix",
       "url": "https://open.spotify.com/track/2iztoSu09L8vFSkL8fYBIb"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/7kq8V12Lfeb11XmzpzOipu"
+      },
+      "artists": [
+        {
+          "name": "Mari Pokinen",
+          "url": "https://open.spotify.com/artist/6YBhh6lAg2SgC8F7o5bMtD"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Paradiis",
+      "url": "https://open.spotify.com/track/5XDZl5XCeKL3I7FWaTxGjo"
     },
     {
       "album": {
@@ -35762,7 +35816,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"

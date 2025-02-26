@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218002,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
+    },
+    {
+      "album": {
         "name": "Celebrity Mansions",
         "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 184813,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
@@ -1022,6 +1040,24 @@
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6"
+    },
+    {
+      "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212113,
+      "name": "Dance, Kid, Dance",
+      "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
     },
     {
       "album": {
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 221333,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ"
@@ -1786,7 +1822,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 207620,
       "name": "Fuct",
       "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 190648,
       "name": "Get out of My Head",
       "url": "https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n"
@@ -2114,7 +2150,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 191434,
       "name": "HEADSPACE FT. POORSTACY",
       "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
@@ -2190,6 +2226,24 @@
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh"
     },
     {
       "album": {
@@ -2518,6 +2572,24 @@
       "duration_ms": 198521,
       "name": "I Was Alive",
       "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
+    },
+    {
+      "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/52fk7ioJgZLmeKCbwjbfyG"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/6EdnztPkhHINbu8Y9NgIIR"
     },
     {
       "album": {
@@ -3109,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188607,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
+    },
+    {
+      "album": {
         "name": "SUCKAPUNCH",
         "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
       },
@@ -3142,6 +3232,24 @@
       "duration_ms": 180351,
       "name": "Mary on a Chain",
       "url": "https://open.spotify.com/track/6pQhkgUn1SIEIlGrqUxG3i"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
     },
     {
       "album": {
@@ -4202,7 +4310,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 203795,
       "name": "SOMETHING IN THE WATER",
       "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
@@ -4242,6 +4350,24 @@
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209835,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
     },
     {
       "album": {
@@ -4328,7 +4454,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 209954,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT"
@@ -4656,6 +4782,28 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "album": {
+        "name": "Inner Darkness",
+        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        },
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "The Optimist (feat. Conquer Divide)",
+      "url": "https://open.spotify.com/track/00ihJcZ6PxA6OxDJmlbvGl"
     },
     {
       "album": {

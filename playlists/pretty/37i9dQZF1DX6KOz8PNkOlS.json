@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 542217,
+  "num_followers": 542323,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
+      "added_at": "2024-10-24 20:16:32",
+      "album": {
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+    },
+    {
       "added_at": "2024-06-28 19:01:45",
       "album": {
         "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
@@ -351,22 +367,6 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2024-10-24 20:16:32",
-      "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
+      "added_at": "2024-06-27 18:37:57",
+      "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
+    },
+    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "Three Dimensions Deep",
@@ -703,22 +719,6 @@
       "duration_ms": 176213,
       "name": "ATARAXIA",
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
-    },
-    {
-      "added_at": "2024-06-27 18:37:57",
-      "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2024-05-02 22:57:54",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
-      "added_at": "2023-09-25 03:06:06",
-      "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "Asking To Break",
-      "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
-    },
-    {
       "added_at": "2022-09-29 00:10:44",
       "album": {
         "name": "Mercurial World (Deluxe)",
@@ -847,6 +831,22 @@
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
+    },
+    {
+      "added_at": "2023-09-25 03:06:06",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "Asking To Break",
+      "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
     },
     {
       "added_at": "2024-07-11 23:32:17",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
     },
     {
-      "added_at": "2024-07-09 04:54:48",
-      "album": {
-        "name": "Pulsar",
-        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Pulsar",
-      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Where Do You Go",
@@ -895,6 +879,22 @@
       "duration_ms": 237493,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+    },
+    {
+      "added_at": "2024-07-09 04:54:48",
+      "album": {
+        "name": "Pulsar",
+        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
+      "added_at": "2023-04-11 00:45:41",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 190647,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
+    },
+    {
       "added_at": "2022-08-13 01:09:13",
       "album": {
         "name": "Marci",
@@ -1279,22 +1295,6 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2023-04-11 00:45:41",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
       "added_at": "2023-03-22 17:53:19",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
-      "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Nowhere",
@@ -1413,20 +1397,20 @@
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
-      "added_at": "2023-11-23 03:41:20",
+      "added_at": "2024-01-03 18:42:32",
       "album": {
-        "name": "say your way",
-        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
       },
       "artists": [
         {
-          "name": "Mohsin Zaman",
-          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
         }
       ],
-      "duration_ms": 170500,
-      "name": "say your way",
-      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
       "added_at": "2023-06-02 01:19:32",
@@ -1443,6 +1427,22 @@
       "duration_ms": 164613,
       "name": "Baby No More",
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
+    },
+    {
+      "added_at": "2023-11-23 03:41:20",
+      "album": {
+        "name": "say your way",
+        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
+      },
+      "artists": [
+        {
+          "name": "Mohsin Zaman",
+          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "say your way",
+      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "added_at": "2022-01-13 02:15:51",
@@ -1541,26 +1541,6 @@
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
     },
     {
-      "added_at": "2023-08-31 18:57:48",
-      "album": {
-        "name": "After Hours (Yu Su Remix)",
-        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
-      },
-      "artists": [
-        {
-          "name": "Alyson McNamara",
-          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
-        },
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 348094,
-      "name": "After Hours - Yu Su Remix",
-      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Japan",
@@ -1581,20 +1561,24 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
-      "added_at": "2023-12-20 03:28:07",
+      "added_at": "2023-08-31 18:57:48",
       "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
+        "name": "After Hours (Yu Su Remix)",
+        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
       },
       "artists": [
         {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+          "name": "Alyson McNamara",
+          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
         }
       ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+      "duration_ms": 348094,
+      "name": "After Hours - Yu Su Remix",
+      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
     },
     {
       "added_at": "2024-06-26 18:41:25",
@@ -1613,20 +1597,20 @@
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
-      "added_at": "2024-10-16 01:56:16",
+      "added_at": "2023-12-20 03:28:07",
       "album": {
-        "name": "Jumpstart",
-        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
       },
       "artists": [
         {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Jumpstart",
-      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
+      "duration_ms": 161229,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1643,6 +1627,22 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2024-10-16 01:56:16",
+      "album": {
+        "name": "Jumpstart",
+        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Jumpstart",
+      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 219199,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Pillars",
         "url": "https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk"
       },
@@ -1715,6 +1695,22 @@
       "duration_ms": 210089,
       "name": "Pillars",
       "url": "https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF"
+    },
+    {
+      "added_at": "2022-01-13 02:46:07",
+      "album": {
+        "name": "Double Dinners",
+        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "duration_ms": 309240,
+      "name": "BabyBack",
+      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     }
   ],
   "unique_name": "Soft Office",

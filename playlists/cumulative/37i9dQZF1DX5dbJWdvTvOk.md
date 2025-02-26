@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-767 songs - 1 day 8 hr 43 min
+770 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Bridget](https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Salt Cliffs](https://open.spotify.com/album/0byOZ3iz1KSGHzfXFIgSjO) | 3:00 | 2022-07-15 | 2023-04-22 |
 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2023-04-21 | 2024-08-21 |
 | [By Myself but Not Alone](https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [By Myself but Not Alone](https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2) | 4:05 | 2022-07-15 | 2022-10-29 |
-| [By the Hour](https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By the Hour](https://open.spotify.com/album/1j4eDrQJoyWFuop21WWjrd) | 3:09 | 2024-07-19 |  |
+| [By the Hour](https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By the Hour](https://open.spotify.com/album/1j4eDrQJoyWFuop21WWjrd) | 3:09 | 2024-07-19 | 2025-02-26 |
 | [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-21 | 2023-08-26 |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-07-15 | 2022-07-29 |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2022-07-15 | 2024-04-06 |
@@ -274,6 +274,7 @@
 | [Gates](https://open.spotify.com/track/6dRhKRFp6pyX1dG2RMdQyj) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Gates](https://open.spotify.com/album/0IxFjyr59dtqD1MDZYIdGr) | 3:22 | 2023-04-21 | 2023-05-13 |
 | [Gentle Wind](https://open.spotify.com/track/199dJ94ukJhAJd4eKpAZLH) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Gentle Wind](https://open.spotify.com/album/5NQQh0vTespdY28H1mW6d9) | 2:27 | 2023-05-12 |  |
 | [Glencoe](https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B) | [Seo Hyun Lee](https://open.spotify.com/artist/2NdqMdRInEBDZ3CisuV2uu) | [Glencoe](https://open.spotify.com/album/3RhLZXwcjINem6aSHpokZh) | 2:13 | 2023-08-10 | 2024-07-19 |
+| [Golden Bridge](https://open.spotify.com/track/5vU0QZZeSA0lGBZiF9ZH1T) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Golden Bridge](https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ) | 2:21 | 2025-02-24 |  |
 | [Golden Hour](https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Golden Hour](https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY) | 2:45 | 2023-08-10 |  |
 | [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 | 2024-05-24 |
 | [Grateful](https://open.spotify.com/track/6wtMB4RZeLMECJJEa17Mms) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Grateful](https://open.spotify.com/album/7qYmbiSAHL28rE64WOXY5l) | 2:05 | 2023-04-21 | 2024-11-02 |
@@ -383,6 +384,7 @@
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2023-04-21 |  |
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2022-07-15 | 2023-04-22 |
 | [Liberty Citadel](https://open.spotify.com/track/5eUiPRtlLZ3RsiueUsEF7c) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Liberty Citadel](https://open.spotify.com/album/2SwSwKTalOQfps83H33y2b) | 2:36 | 2023-04-21 |  |
+| [Light Across Miles](https://open.spotify.com/track/5agitWJRZZ8B9M2fqCySR9) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Light Across Miles](https://open.spotify.com/album/4ntDOg7EWMI47GceJOfBNP) | 3:03 | 2025-02-24 |  |
 | [Light in the Shadows](https://open.spotify.com/track/79AfPJ1bT8wlAXkbUvAMzO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Light in the Shadows](https://open.spotify.com/album/4VaMblRF0zOjnkpwu3dLFb) | 3:02 | 2024-10-09 |  |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2023-04-21 | 2023-08-26 |
 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
@@ -533,7 +535,7 @@
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2022-07-15 | 2023-05-13 |
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 | 2024-11-07 |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 | 2024-11-07 |
-| [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 |  |
+| [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 | 2025-02-26 |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 | 2024-04-20 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-04-21 |  |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
@@ -625,7 +627,7 @@
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2023-04-21 | 2023-08-26 |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 | 2023-04-22 |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
-| [Sounds of the Horizon](https://open.spotify.com/track/2ZKzQG4TZvMLyXsVebNgW6) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Sounds of the Horizon](https://open.spotify.com/album/5kcVTnX7OjZC1nY3IL3LAJ) | 2:28 | 2024-07-19 |  |
+| [Sounds of the Horizon](https://open.spotify.com/track/2ZKzQG4TZvMLyXsVebNgW6) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Sounds of the Horizon](https://open.spotify.com/album/5kcVTnX7OjZC1nY3IL3LAJ) | 2:28 | 2024-07-19 | 2025-02-26 |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2022-07-15 | 2023-04-22 |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2023-04-21 | 2023-08-26 |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-15 | 2023-04-22 |
@@ -744,6 +746,7 @@
 | [Walden](https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Walden](https://open.spotify.com/album/2wuBgVuayoe5Sm3GwZJwgH) | 2:07 | 2023-04-21 | 2025-02-08 |
 | [warm water in the well](https://open.spotify.com/track/6QgsCarVTD1jp6wFq6sk3E) | [Richard Sapphire](https://open.spotify.com/artist/40Xa6PWV6jW7f8NuS44BzF) | [warm water in the well](https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH) | 2:14 | 2023-04-21 |  |
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-10 |  |
+| [Weekend](https://open.spotify.com/track/6WoPTEeOq4IEEVEp0n9biN) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Weekend](https://open.spotify.com/album/4kGCMsT5GbzvMyEJHORgYr) | 1:43 | 2025-02-24 |  |
 | [Wellspring for thought](https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Wellspring for thought](https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD) | 2:14 | 2023-08-10 |  |
 | [Wermut](https://open.spotify.com/track/1pCBWUpiBi3q8fcyervGfj) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Wermut](https://open.spotify.com/album/5a07c9OPZMMUqN6rKifaWu) | 1:54 | 2023-05-12 | 2023-08-26 |
 | [What Are Words](https://open.spotify.com/track/2dSfoV55JuQAMDZOFs1i9j) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [What Are Words](https://open.spotify.com/album/3j6grxFMfbuanNqs8EpjL6) | 2:42 | 2023-04-21 | 2023-06-03 |

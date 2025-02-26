@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4297,
+  "num_followers": 4299,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAB5cr39Q3k4kOSK8HxksuOb",
+  "snapshot_id": "Z7u2gAAAAAB9XBg3j2wEci695n5d4cm3",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gas You Up (feat. Hunxho)",
-        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "Gas You Up (feat. Hunxho)",
-      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To 304'n",
         "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
       },
@@ -599,22 +579,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+        "name": "Gas You Up (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
       },
       "artists": [
         {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "Gas You Up (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 155761,
-      "name": "Let It Ring",
-      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
       "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 116506,
-      "name": "Stand On It",
-      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+      "duration_ms": 155761,
+      "name": "Let It Ring",
+      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rafi Sudirman
 
-746 songs - 2 day 0 hr 26 min
+747 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Kamu Yang Sakit](https://open.spotify.com/track/2Nlq0m3UG4vl8MvIfrxJsf) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Kamu Yang Sakit](https://open.spotify.com/album/2MqrDlDPSaZmiThZkSv51f) | 4:04 | 2024-08-08 | 2024-09-06 |
 | [Kamulah Orangnya](https://open.spotify.com/track/0EML5Zo6PD2Sr3KRvdM6Lv) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Kamulah Orangnya](https://open.spotify.com/album/0frT8PPxoLbbP8jKR6RVdU) | 3:54 | 2024-05-30 | 2024-07-05 |
 | [Kapan Kau Kembali](https://open.spotify.com/track/3lGjN6jtO1zDU1Uq5ape78) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 4:08 | 2024-05-23 | 2024-07-05 |
+| [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 | 2025-02-25 |  |
 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 | 2025-01-09 | 2025-02-14 |
 | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h) | 3:58 | 2024-01-18 | 2024-03-29 |
 | [Karma](https://open.spotify.com/track/6NRMH6IMw8VpKJedGWtPLz) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Abbie](https://open.spotify.com/artist/6zDVYZds8AokA44sUXciya) | [Karma](https://open.spotify.com/album/3skr3mGHWKyDcGwHtfZwrm) | 3:42 | 2024-01-18 | 2024-01-26 |

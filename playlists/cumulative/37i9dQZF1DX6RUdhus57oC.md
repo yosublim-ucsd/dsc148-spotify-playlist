@@ -4,11 +4,11 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-106 songs - 4 hr 37 min
+107 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2024-06-03 |  |
+| [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2024-06-03 | 2025-02-26 |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2024-06-03 |  |
 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 | 2023-09-29 | 2024-06-04 |
 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 | 2024-06-03 |  |
@@ -94,6 +94,7 @@
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2024-06-03 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-09-29 | 2024-06-04 |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2024-06-03 |  |
+| [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 | 2025-01-23 |  |
 | [Sunlight Sadness](https://open.spotify.com/track/4OXMONKgLmW0FZGU6Sm7Hf) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Sunlight Sadness](https://open.spotify.com/album/1XhIG4rUpR4cNXiegHFsU7) | 2:31 | 2023-09-29 | 2024-06-04 |
 | [Svaj](https://open.spotify.com/track/0RdeSJMPOXBb8a1MmEP7Fq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Svaj](https://open.spotify.com/album/5mxzoB3Xja5f0sVuI1nsv3) | 2:26 | 2023-09-29 | 2024-06-04 |
 | [The Book of Jen](https://open.spotify.com/track/7LnU4vflcZ8fyuFaVxGtuN) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [The Book of Jen](https://open.spotify.com/album/02TTz5Zlr3FHrlmEdDqab6) | 2:47 | 2023-09-29 | 2024-06-04 |

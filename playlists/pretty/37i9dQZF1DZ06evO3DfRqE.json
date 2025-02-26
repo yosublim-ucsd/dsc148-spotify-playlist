@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8227,
+  "num_followers": 8228,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACk1qlPeGCVU9gLo9f4GQW0",
+  "snapshot_id": "Z7u2gAAAAADIX+PB3bUlIs1bCChrQBjr",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HandPicked",
-        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 485586,
-      "name": "Hotel California (Duet with Jake Shimabukuro)",
-      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio",
         "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 148120,
       "name": "Wai` Alae",
       "url": "https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HandPicked",
+        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 485586,
+      "name": "Hotel California (Duet with Jake Shimabukuro)",
+      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
     },
     {
       "added_at": null,
@@ -444,13 +444,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 429346,
-      "name": "Smokin' Strings",
-      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+      "duration_ms": 219453,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live With Jake Shimabukuro",
-        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 190648,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm"
+      "duration_ms": 219813,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
     },
     {
       "added_at": null,
@@ -516,19 +516,19 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Why Not",
-      "url": "https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK"
+      "duration_ms": 429346,
+      "name": "Smokin' Strings",
+      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+        "name": "Live With Jake Shimabukuro",
+        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 219813,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
+      "duration_ms": 190648,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nature Spirit",
         "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
       },
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+      "duration_ms": 266053,
+      "name": "143 (Kelly's Song)",
+      "url": "https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u"
     },
     {
       "added_at": null,
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 266053,
-      "name": "143 (Kelly's Song)",
-      "url": "https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u"
+      "duration_ms": 224400,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
     },
     {
       "added_at": null,
@@ -823,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kalenaku",
-        "url": "https://open.spotify.com/album/3q2F10mMSTV9eZvXEMEqJT"
+        "name": "\u9e92\u9e9f\u7d00\u884c II",
+        "url": "https://open.spotify.com/album/0YJQHkhAEMRNCEEEeqvYeO"
       },
       "artists": [
         {
-          "name": "Kapena",
-          "url": "https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61"
+          "name": "John R Graham",
+          "url": "https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a"
         },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 258857,
-      "name": "Kalenaku",
-      "url": "https://open.spotify.com/track/3bCI14cCJKYenNUCKGqGZU"
+      "duration_ms": 97546,
+      "name": "\u9e92\u9e9f\u7d00\u884c II",
+      "url": "https://open.spotify.com/track/72Q3DO51uZPLUgZfH82i5H"
     },
     {
       "added_at": null,
@@ -863,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+        "name": "Kalenaku",
+        "url": "https://open.spotify.com/album/3q2F10mMSTV9eZvXEMEqJT"
       },
       "artists": [
+        {
+          "name": "Kapena",
+          "url": "https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 224400,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
+      "duration_ms": 258857,
+      "name": "Kalenaku",
+      "url": "https://open.spotify.com/track/3bCI14cCJKYenNUCKGqGZU"
     },
     {
       "added_at": null,
@@ -923,30 +943,6 @@
       "duration_ms": 183853,
       "name": "Ukulele Bros",
       "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio",
-        "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Nolan Verner",
-          "url": "https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl"
-        },
-        {
-          "name": "Dave Preston",
-          "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
-        }
-      ],
-      "duration_ms": 299053,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,658 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,676 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,26 +62,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 52 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
 | 53 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
 | 54 | [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 |
-| 55 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
-| 56 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
+| 55 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
+| 56 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 57 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 58 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 59 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
-| 60 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
-| 61 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
+| 60 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
+| 61 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 62 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 63 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
-| 64 | [Right Before I Go](https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT) | [Baby Jesus](https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo) | [Rock And Roll Music](https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk) | 2:35 |
-| 65 | [Teasing Me](https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw) | [J.F\. Gloss](https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1) | [Teasing Me](https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo) | 1:37 |
+| 64 | [Teasing Me](https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw) | [J.F\. Gloss](https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1) | [Teasing Me](https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo) | 1:37 |
+| 65 | [Right Before I Go](https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT) | [Baby Jesus](https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo) | [Rock And Roll Music](https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk) | 2:35 |
 | 66 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 |
 | 67 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
 | 68 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 69 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
 | 70 | [Azul](https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR) | [Los Petardos!](https://open.spotify.com/artist/217k1BZ6YF1IcweLxLYqum) | [Can\-Can](https://open.spotify.com/album/3zkw6futE9J6dl6VS1shML) | 2:52 |
 | 71 | [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 |
-| 72 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
-| 73 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
-| 74 | [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 |
+| 72 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
+| 73 | [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 |
+| 74 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
 | 75 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
 
 Snapshot ID: `Z6Y8FAAAAACUBM9AmfIVF2KaCZdf1ueA`

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Bren Joy
 
-1,387 songs - 3 day 1 hr 5 min
+1,388 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1287,6 +1287,7 @@
 | [Used To \(feat\. Jordan Ward\)](https://open.spotify.com/track/3fDDXsDuxBLinRP4Rw8pMc) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Used To](https://open.spotify.com/album/7HA8HlFD5DRDXn7LMcoOch) | 3:05 | 2023-12-08 |  |
 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 |  |
 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 | 2023-03-31 | 2024-01-20 |
+| [VALENTINE](https://open.spotify.com/track/0L7SOBsLC4jZ9X4bTs6XnL) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [VALENTINE](https://open.spotify.com/album/7eFtQJ9kKAA1z27Tc0DYzg) | 2:13 | 2025-02-21 |  |
 | [vanishing \. \(remix\) \[feat\. Jamilah Barry\]](https://open.spotify.com/track/09U1r7rHrGdyC2oYctnQuD) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [vanishing \. \(remix\) \[feat\. Jamilah Barry\]](https://open.spotify.com/album/6QEbw3wDihvOKbBwGFDLwD) | 3:18 | 2023-07-21 | 2023-10-20 |
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-25 |
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2023-08-12 |
@@ -1305,7 +1306,7 @@
 | [Walked In \(feat\. Young Thug\)](https://open.spotify.com/track/4HnvRYwwhulZMABmLK86ue) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 2:55 | 2021-07-09 | 2022-07-12 |
 | [WANDERER](https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WANDERER](https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm) | 4:20 | 2025-02-07 |  |
 | [want](https://open.spotify.com/track/0fuglRZh54xvwLKAbnFAKE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [want](https://open.spotify.com/album/626gFk89gkv78mPCZhePMq) | 2:24 | 2024-07-19 | 2024-12-07 |
-| [want](https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 2:24 | 2024-12-06 |  |
+| [want](https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 2:24 | 2024-12-06 | 2025-02-26 |
 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 | 2024-08-16 | 2025-02-22 |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2022-09-16 | 2024-04-19 |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-16 | 2022-12-25 |

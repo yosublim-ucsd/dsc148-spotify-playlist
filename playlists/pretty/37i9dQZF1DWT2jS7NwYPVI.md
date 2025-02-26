@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: House of Protection
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,836 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,844 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Deadlines](https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Deadlines](https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE) | 3:05 |
 | 125 | [I Got Exactly What I Wanted](https://open.spotify.com/track/09FLigvepMuPrheurqSp2G) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [I Got Exactly What I Wanted](https://open.spotify.com/album/43HUBMTsMmGmKaMMeefd5O) | 2:56 |
 
-Snapshot ID: `Z7gIagAAAACYnjnrw+/uQ5qNrJBB4Q8Q`
+Snapshot ID: `Z7gIagAAAABk+QMyiRsFS4UQ9DOkVWXn`

@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707266,
+  "num_followers": 707340,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Can Help",
         "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 218225,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 236666,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Heart Of Glass / Midnight Sky",
         "url": "https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 213671,
       "name": "Heart Of Glass (Live from the iHeart Festival)",
       "url": "https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+        "url": "https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 290767,
+      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "url": "https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     }
   ],
   "unique_name": "Classic Covers",

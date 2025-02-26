@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,231 likes - 81 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,283 likes - 81 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,21 +23,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 13 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 |
 | 14 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 |
 | 15 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 |
-| 16 | [Wings Of Hope](https://open.spotify.com/track/2G2T1pCWt2HS1gBu9deoLT) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Wings Of Hope](https://open.spotify.com/album/62DSQujYzvEYtafUcDoG23) | 2:49 |
-| 17 | [Say Yes To The Lord](https://open.spotify.com/track/7nyuf6l22METYVRhTBjujN) | [Emberiza Bruni](https://open.spotify.com/artist/1FKmGiNUrIXlzbSSDOzG92) | [Say Yes To The Lord](https://open.spotify.com/album/7hKRccvptU7r7bUShRTLnc) | 2:46 |
-| 18 | [Follow The Light](https://open.spotify.com/track/1pwvkqAIJKB6dehTcuCdld) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Follow The Light](https://open.spotify.com/album/2zzcb4sEkBTMD1UBYvZyzR) | 2:30 |
-| 19 | [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 |
-| 20 | [An Open Door](https://open.spotify.com/track/7DSUn7v238UDTXzQLouWiv) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [An Open Door](https://open.spotify.com/album/6ilAMABb1TSkbwqX4i6LLL) | 2:32 |
-| 21 | [Forward Prayers](https://open.spotify.com/track/7CMlAUGf2BpDEkOAY0UrnI) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Forward Prayers](https://open.spotify.com/album/6N53ce95G64ep6Aq0aKnwm) | 2:56 |
-| 22 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
-| 23 | [Greener Pastures](https://open.spotify.com/track/1MAQP8f7QWAjItJ0XtwWBP) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Greener Pastures](https://open.spotify.com/album/47tLMghDhPZA4eD4yHTXgS) | 2:32 |
-| 24 | [Be Thou My Vision](https://open.spotify.com/track/7oUhbMscIgsIp2hMYkj3kC) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Be Thou My Vision](https://open.spotify.com/album/0VbEh1bL0nDmEDQBYMB0qR) | 3:35 |
-| 25 | [Lord Give Me Strength](https://open.spotify.com/track/41AYs1JTgPFq1QqtyqoGAU) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Lord Give Me Strength](https://open.spotify.com/album/4LhmVr396kI1G42KL2c3BB) | 2:10 |
-| 26 | [Silent Praise](https://open.spotify.com/track/1GCJ0DbK2YRjLZuhnYdSYl) | [Burt Wood](https://open.spotify.com/artist/3QJnQeIYNxumOaUw8hGRkI) | [Silent Praise](https://open.spotify.com/album/0fxRLDIaxUn3lMBOcr0bJu) | 2:30 |
+| 16 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
+| 17 | [Silent Praise](https://open.spotify.com/track/1GCJ0DbK2YRjLZuhnYdSYl) | [Burt Wood](https://open.spotify.com/artist/3QJnQeIYNxumOaUw8hGRkI) | [Silent Praise](https://open.spotify.com/album/0fxRLDIaxUn3lMBOcr0bJu) | 2:30 |
+| 18 | [Wings Of Hope](https://open.spotify.com/track/2G2T1pCWt2HS1gBu9deoLT) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Wings Of Hope](https://open.spotify.com/album/62DSQujYzvEYtafUcDoG23) | 2:49 |
+| 19 | [Say Yes To The Lord](https://open.spotify.com/track/7nyuf6l22METYVRhTBjujN) | [Emberiza Bruni](https://open.spotify.com/artist/1FKmGiNUrIXlzbSSDOzG92) | [Say Yes To The Lord](https://open.spotify.com/album/7hKRccvptU7r7bUShRTLnc) | 2:46 |
+| 20 | [Follow The Light](https://open.spotify.com/track/1pwvkqAIJKB6dehTcuCdld) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Follow The Light](https://open.spotify.com/album/2zzcb4sEkBTMD1UBYvZyzR) | 2:30 |
+| 21 | [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 |
+| 22 | [An Open Door](https://open.spotify.com/track/7DSUn7v238UDTXzQLouWiv) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [An Open Door](https://open.spotify.com/album/6ilAMABb1TSkbwqX4i6LLL) | 2:32 |
+| 23 | [Forward Prayers](https://open.spotify.com/track/7CMlAUGf2BpDEkOAY0UrnI) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Forward Prayers](https://open.spotify.com/album/6N53ce95G64ep6Aq0aKnwm) | 2:56 |
+| 24 | [Singing Mercy](https://open.spotify.com/track/4klFDRzRb6mTeZWiGjqcER) | [Caius Casimir](https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo) | [Singing Mercy](https://open.spotify.com/album/5y570KAggLD71eK5JYkPEU) | 2:14 |
+| 25 | [Be Thou My Vision](https://open.spotify.com/track/7oUhbMscIgsIp2hMYkj3kC) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Be Thou My Vision](https://open.spotify.com/album/0VbEh1bL0nDmEDQBYMB0qR) | 3:35 |
+| 26 | [Greener Pastures](https://open.spotify.com/track/1MAQP8f7QWAjItJ0XtwWBP) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Greener Pastures](https://open.spotify.com/album/47tLMghDhPZA4eD4yHTXgS) | 2:32 |
 | 27 | [Jesus Loves Me, This I Know \- Piano](https://open.spotify.com/track/69vZKe90OwhRnQ6ZC5dzEJ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:33 |
 | 28 | [Grace And Peace](https://open.spotify.com/track/3T1BlzdFJxRswrlnHDeVla) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Grace And Peace](https://open.spotify.com/album/3uPJxmcUZHkr2N1fuPz0ym) | 2:56 |
 | 29 | [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 |
-| 30 | [Singing Mercy](https://open.spotify.com/track/4klFDRzRb6mTeZWiGjqcER) | [Caius Casimir](https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo) | [Singing Mercy](https://open.spotify.com/album/5y570KAggLD71eK5JYkPEU) | 2:14 |
+| 30 | [Lord Give Me Strength](https://open.spotify.com/track/41AYs1JTgPFq1QqtyqoGAU) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Lord Give Me Strength](https://open.spotify.com/album/4LhmVr396kI1G42KL2c3BB) | 2:10 |
 | 31 | [He Is Near](https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX) | [Andrea Bergfeld](https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl) | [He Is Near](https://open.spotify.com/album/5L583RmMoftX92GbeeK88U) | 2:39 |
 | 32 | [Safe In The Arms of Jesus \- Piano Version](https://open.spotify.com/track/6yXZXfLp3mEA7MLQRyRjYQ) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Safe In The Arms of Jesus \(Piano Version\)](https://open.spotify.com/album/7JjMspZHyX69IibaP6ew4H) | 2:21 |
 | 33 | [Angel's Tales](https://open.spotify.com/track/0dcRaLA6CQ2LhT9DK3E5X1) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Angel's Tales](https://open.spotify.com/album/7uVyXH9S2wsJ35NiabGfOd) | 2:30 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 80 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 |
 | 81 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 
-Snapshot ID: `Z7f6TwAAAAAaYEAUtk2HeKqU4/YyQzqN`
+Snapshot ID: `Z72T8AAAAADBScKnyRF3hvytoPDNXBw0`

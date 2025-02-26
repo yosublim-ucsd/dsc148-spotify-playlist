@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12007,
+  "num_followers": 12010,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADg9h6z5VQwRRLazITRO5kq",
+  "snapshot_id": "Z7u2gAAAAABvt87f/wMhqXGYt8btx+2b",
   "tracks": [
     {
       "added_at": null,
@@ -203,38 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Amazing God",
-      "url": "https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 300878,
-      "name": "Obinasom",
-      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -255,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
@@ -264,9 +232,25 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
+      "duration_ms": 300878,
+      "name": "Obinasom",
+      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Amazing God",
+      "url": "https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu"
     },
     {
       "added_at": null,
@@ -287,6 +271,22 @@
       "duration_ms": 286880,
       "name": "The Doing of the Lord",
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
     },
     {
       "added_at": null,

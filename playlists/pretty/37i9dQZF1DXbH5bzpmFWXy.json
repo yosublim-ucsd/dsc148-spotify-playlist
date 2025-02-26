@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Sabino y C\u00f3digo FN en portada.",
-  "num_followers": 286095,
+  "num_followers": 286088,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "La Caravana",
-        "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
       },
       "artists": [
         {
-          "name": "Bandi2",
-          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 143250,
-      "name": "La Caravana",
-      "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "LA MALA",
-        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+        "name": "La Caravana",
+        "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Bandi2",
+          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 144602,
-      "name": "LA MALA",
-      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+      "duration_ms": 143250,
+      "name": "La Caravana",
+      "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159182,
-      "name": "La Mariconera",
-      "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
         "name": "Estoy Carita",
         "url": "https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 153388,
       "name": "Estoy Carita",
       "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159182,
+      "name": "La Mariconera",
+      "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
     },
     {
       "added_at": "2025-02-07 06:00:18",

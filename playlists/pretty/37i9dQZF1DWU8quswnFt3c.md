@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Yuridia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,652 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,169 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,27 +51,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 42 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 43 | [Hartita de Llorar](https://open.spotify.com/track/0Mw0eiKbelPtJvN3WkLakf) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [Hartita de Llorar](https://open.spotify.com/album/4Ri9HhBxUW8gPwfPq8qOUB) | 2:38 |
-| 44 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
-| 45 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
-| 46 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
-| 47 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
+| 44 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 45 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
+| 46 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
+| 47 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 48 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
 | 49 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 50 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 51 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
-| 52 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
-| 53 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
+| 52 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
+| 53 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
 | 54 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
 | 55 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
 | 56 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
 | 57 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |
 | 58 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
-| 59 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
-| 60 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
+| 59 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
+| 60 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 |
 | 61 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
-| 62 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 |
+| 62 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
 | 63 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
-| 64 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
+| 64 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 |
 | 65 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
 | 66 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
 | 67 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 |
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 |
 | 72 | [New Energy](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [New Energy](https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW) | 2:58 |
 | 73 | [By The Time I Get To Phoenix](https://open.spotify.com/track/0l2k4tdemioYYKIDtEv21c) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Dorothy's Harp](https://open.spotify.com/album/1F8aG7lYBwojl70xWU8UYy) | 3:30 |
-| 74 | [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 |
+| 74 | [FEMINA](https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [FEMINA](https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93) | 4:06 |
 
 Snapshot ID: `Z7VlWwAAAACpzojxLQBiQGxzcMvkL2tP`

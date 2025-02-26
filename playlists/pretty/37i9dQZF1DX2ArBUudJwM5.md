@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Juana Molina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,864 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,863 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 19 | [Incesante](https://open.spotify.com/track/0Oj6857mwNbVNT4uavIZIM) | [Vera](https://open.spotify.com/artist/0x3Vlve4e1tC8jVv0P1Lwm) | [Terso](https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S) | 4:08 |
 | 20 | [estoy harta de que dure todo poco](https://open.spotify.com/track/3r7IT7Nuu7MhXzUyKfyyxt) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5), [Antuantu](https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV) | [estoy harta de que dure todo poco](https://open.spotify.com/album/3bxGKqMAUGi1ZYr3vjLnXF) | 4:47 |
 | 21 | [Niebla](https://open.spotify.com/track/40yiM6t4jHjtamOScMig4Y) | [VULKA](https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl) | [Niebla](https://open.spotify.com/album/56lYUsimKibqnRUqcDixvY) | 3:50 |
-| 22 | [Lluvia y arcoiris](https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH) | [Eva Gou](https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6) | [Venus en trance](https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi) | 4:03 |
-| 23 | [Manuela, La Tucumana](https://open.spotify.com/track/60e0NJsu4eTijhufZWTqsk) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mujeres Argentinas](https://open.spotify.com/album/1rNe5jq2OZQ033Ngg0qVZw) | 2:37 |
+| 22 | [Manuela, La Tucumana](https://open.spotify.com/track/60e0NJsu4eTijhufZWTqsk) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mujeres Argentinas](https://open.spotify.com/album/1rNe5jq2OZQ033Ngg0qVZw) | 2:37 |
+| 23 | [Lluvia y arcoiris](https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH) | [Eva Gou](https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6) | [Venus en trance](https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi) | 4:03 |
 | 24 | [Terso](https://open.spotify.com/track/3PX3vBojK8fE5poLUw0xw7) | [Vera](https://open.spotify.com/artist/0x3Vlve4e1tC8jVv0P1Lwm) | [Terso](https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S) | 3:10 |
 | 25 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 |
 | 26 | [Flaps](https://open.spotify.com/track/1CyMbGrKkomiX8fwrDdagF) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO) | 3:45 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 41 | [PARAEPA](https://open.spotify.com/track/3UiK9ILU7ZHTt3qgkotKqt) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg), [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [PARAEPA](https://open.spotify.com/album/1kcviNVbbNimPxtN88n0Va) | 3:24 |
 | 42 | [Si no estás \- Live Set](https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [Manzana de las Luces \(Live Set\)](https://open.spotify.com/album/6RkMSiwDsnh3Ei7wJuQVy1) | 3:49 |
 | 43 | [Aquel](https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo) | [Vera Sienra](https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI), [Eduardo Mateo](https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx) | [Nuestra Soledad](https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6) | 2:59 |
-| 44 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
-| 45 | [Paralelo](https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Paralelo](https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra) | 4:18 |
+| 44 | [Paralelo](https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Paralelo](https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra) | 4:18 |
+| 45 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
 | 46 | [Quiero](https://open.spotify.com/track/1P8TDO3DBAJQL28eBW15c5) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg), [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [Quiero](https://open.spotify.com/album/12r1QLcrXhpxVxIAif4z4i) | 5:23 |
 | 47 | [Hipnosis](https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz) | [Imán](https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8) | [Imán](https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR) | 4:10 |
 | 48 | [Este Presente](https://open.spotify.com/track/7DjQuAlt01yXiAatSTVgdE) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Este Presente](https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W) | 2:04 |
 | 49 | [No Tengo Salida](https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [No Tengo Salida](https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf) | 3:24 |
-| 50 | [MUJERES](https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [RAÍZ](https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C) | 5:14 |
+| 50 | [Venus en Latex](https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 3:54 |
 
 Snapshot ID: `Z5PkZQAAAAAcg5vy2/8x8Kdg1Dh+BCq0`

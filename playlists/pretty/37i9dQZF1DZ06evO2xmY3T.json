@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 678970,
+  "num_followers": 678990,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAABntGOlKTCVx5/oq3V0ntHE",
+  "snapshot_id": "Z7u2gAAAAACxwLAAKeBwgq2a5GkTaFHz",
   "tracks": [
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Me 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/2tGYtTYzKa2sa7XAWcRiGk"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 225492,
-      "name": "Point Me 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/7ttrlfQIDc8JlxtH7fVDWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Famous Cryp (Reloaded)",
         "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 202625,
       "name": "Wish Wish (feat. Cardi B & 21 Savage)",
       "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     }
   ],
   "unique_name": "This Is Cardi B",

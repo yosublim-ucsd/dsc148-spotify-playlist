@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Lou\-Adriane Cassidy
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,307 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,305 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Tshitatau](https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:23 |
 | 75 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:20 |
 
-Snapshot ID: `Z7gIbwAAAAAOHirf0FVu7VIrdHF004xt`
+Snapshot ID: `Z7gIbwAAAABuHnhvFBiGirYNxMVcLmKv`

@@ -8821,6 +8821,24 @@
     },
     {
       "album": {
+        "name": "freckled face.",
+        "url": "https://open.spotify.com/album/6A8U5nAulhW7n6QSljlfNR"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "freckled face.",
+      "url": "https://open.spotify.com/track/6GmxGGPmp19SpFvh4wHEm0"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt"
       },
@@ -13398,7 +13416,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 133643,
       "name": "Last call on what",
       "url": "https://open.spotify.com/track/5de261y9PMBp40oyycVd2h"
@@ -19424,7 +19442,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 117600,
       "name": "Peppercorn",
       "url": "https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR"
@@ -25102,7 +25120,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 132313,
       "name": "Sweet Mood",
       "url": "https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH"

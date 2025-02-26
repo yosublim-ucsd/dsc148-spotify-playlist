@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,121 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,244 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 8 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 9 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 |
 | 10 | [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 |
-| 11 | [OYO \(Own Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
+| 11 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
 | 12 | [BANG BANG BANG](https://open.spotify.com/track/0YCknECT4hjx3AiMWecAwh) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [BANG BANG BANG](https://open.spotify.com/album/6wyuQZjF2vOgkPGdBE8MuL) | 3:36 |
 | 13 | [Crazy](https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Crazy](https://open.spotify.com/album/0rNGUhljXFbcnGSoaxnb1c) | 3:13 |
 | 14 | [Compose](https://open.spotify.com/track/1GgIn8ISz4FyY798EXNvyk) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Compose](https://open.spotify.com/album/1pvgcVZDN5JH0QpLAMOYm8) | 2:00 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 19 | [TOSPI](https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [TOSPI](https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz) | 2:35 |
 | 20 | [Chariots of Fire](https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [F\*\*Ck Cu 2: Twilight Serenade](https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl) | 3:42 |
 | 21 | [Fortified](https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Fortified](https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ) | 2:58 |
-| 22 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 22 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 23 | [myfavourite.mp3](https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [the gift](https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV) | 2:31 |
 | 24 | [Rain Snow](https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rain Snow](https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t) | 3:11 |
 | 25 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |

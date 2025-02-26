@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-506 songs - 1 day 19 hr 23 min
+507 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-04-07 | 2024-07-05 |
 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 | 2024-11-11 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2023-01-13 | 2023-02-04 |
+| [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 | 2025-02-24 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-02-13 | 2024-03-20 |
 | [Run Run Run \- Adam Port Remix](https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [White Noise Romantica](https://open.spotify.com/album/2srIYLeeLr0DpqhpfYJ5Bl) | 5:41 | 2024-04-18 | 2024-04-26 |
 | [Running](https://open.spotify.com/track/66wSsVqIEuxTryOwZHddFI) | [Myno!](https://open.spotify.com/artist/1P7eFOQtdbvjzHBEMT3Bq9) | [Running](https://open.spotify.com/album/3mPdroSAho9HE6PwGJgM3g) | 6:25 | 2024-01-22 | 2024-02-01 |
@@ -433,7 +434,7 @@
 | [Strobe \- Victor Ruiz Remix](https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Strobe \(2024 Remixes\)](https://open.spotify.com/album/7ynt5ILHydfzqMTBhEZqBf) | 6:26 | 2024-12-16 | 2025-02-03 |
 | [Stronger](https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Stronger](https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L) | 2:56 | 2024-01-22 | 2024-09-03 |
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-02-03 | 2023-03-22 |
-| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-21 |  |
+| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-21 | 2025-02-26 |
 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 | 2022-04-15 | 2022-07-06 |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-03-07 |  |
 | [Symbiosis](https://open.spotify.com/track/1wHryy89PY492h8PH0Bezo) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Symbiosis](https://open.spotify.com/album/3SUKFfe6l0sutYY1FI9mx6) | 6:12 | 2022-04-15 | 2022-07-29 |

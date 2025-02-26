@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 630054,
+  "num_followers": 630146,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAANsAY4TavFxsB0Ub82ff3b",
+  "snapshot_id": "Z7u2gAAAAACODb+VmwOvAgPwHKoG0lM/",
   "tracks": [
     {
       "added_at": null,
@@ -814,11 +814,15 @@
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 253800,
-      "name": "KOE WO KIKASETE - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-      "url": "https://open.spotify.com/track/3IBZcTeLOvt18WzVOjLj5G"
+      "duration_ms": 244040,
+      "name": "SUPER STAR - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD"
     },
     {
       "added_at": null,

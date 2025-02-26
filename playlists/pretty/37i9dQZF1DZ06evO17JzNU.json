@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 26827,
+  "num_followers": 26848,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADY84TQM0YltTmygRT2xSzG",
+  "snapshot_id": "Z7u2gAAAAADqTbtyvru9rojxFq3jlTRY",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sapo 777",
         "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196979,
       "name": "Sapo 777",
       "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,

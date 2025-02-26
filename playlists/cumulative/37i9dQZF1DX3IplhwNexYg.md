@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Callinsick
 
-667 songs - 1 day 13 hr 36 min
+668 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-07-08 |
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-13 | 2023-01-15 |
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-07-16 | 2022-08-19 |
+| [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 | 2025-02-21 |  |
 | [FML](https://open.spotify.com/track/46Nr71GAHoSO5aqtUMUXT6) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Keep On Truckin'](https://open.spotify.com/album/4nl662iBk0IbnefmRYBGcI) | 2:49 | 2021-10-15 | 2022-08-19 |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-03-15 | 2024-04-15 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 |  |
@@ -323,7 +324,7 @@
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-17 | 2022-02-19 |
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-20 | 2023-03-05 |
 | [Jumper](https://open.spotify.com/track/4J0C3OXluy8NeEwnTz3tvT) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Jumper](https://open.spotify.com/album/7kjleTWzKGJUbxq3LZMRLC) | 3:39 | 2022-08-18 | 2022-10-07 |
-| [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 | 2024-12-06 |  |
+| [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 | 2024-12-06 | 2025-02-26 |
 | [Just Exist](https://open.spotify.com/track/4FX4z1AZVgXmGHI3HPvvOo) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Just Exist](https://open.spotify.com/album/7HMklv5k0jwBDfrLNJ6kJA) | 3:57 | 2021-03-09 | 2022-01-17 |
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2022-01-17 | 2022-08-19 |
 | [Just Mad](https://open.spotify.com/track/3g2uqH6cWh7jllj9RHx1xQ) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Just Mad](https://open.spotify.com/album/7FsHBuBB9mVtf6XTM1za99) | 2:52 | 2021-03-09 | 2022-01-17 |

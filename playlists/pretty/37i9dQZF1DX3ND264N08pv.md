@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,519 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,561 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 23 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
 | 24 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
 | 25 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
-| 26 | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 |
+| 26 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
 | 27 | [Trip to Defqon.1](https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [Trip to Defqon.1](https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu) | 3:42 |
-| 28 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
+| 28 | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 |
 | 29 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
 | 30 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 31 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 |

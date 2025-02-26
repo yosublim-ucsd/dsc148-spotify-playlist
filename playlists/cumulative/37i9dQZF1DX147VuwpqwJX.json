@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "Aquecimento de Quatraum",
+        "url": "https://open.spotify.com/album/5JAYbFsXleIy2fsSUXKTnL"
+      },
+      "artists": [
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        },
+        {
+          "name": "DJ Swag do Complexo",
+          "url": "https://open.spotify.com/artist/7jIZzhw1kzIiFmaWz06PxA"
+        },
+        {
+          "name": "Oly",
+          "url": "https://open.spotify.com/artist/7BfA33PxkDArHxNAZHOmef"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Aquecimento de Quatraum",
+      "url": "https://open.spotify.com/track/6VaD170zmOKUcgHykfkWIt"
+    },
+    {
+      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/1qgJrHsVBqf2v5bCVFcdqz"
       },
@@ -196,7 +222,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 179076,
       "name": "Body Drop - Remix",
       "url": "https://open.spotify.com/track/3GiEEED2kzjx0shCZhQQ2y"
@@ -419,6 +445,28 @@
     },
     {
       "album": {
+        "name": "CUNTY",
+        "url": "https://open.spotify.com/album/2HigWRrk3rgkkkuA5ToKsl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232520,
+      "name": "CUNTY",
+      "url": "https://open.spotify.com/track/1M5aCbVoMHf8YP4cD5awuR"
+    },
+    {
+      "album": {
         "name": "Box of Chocolates",
         "url": "https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5"
       },
@@ -430,7 +478,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 257959,
       "name": "Cunty - Wave Edit",
       "url": "https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe"
@@ -908,7 +956,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 211200,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/6jiI9bmZpG0ffzscf5Njxw"
@@ -1835,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Pray Tell",
+        "url": "https://open.spotify.com/album/6e8zMe2ZXEu0TCLpaQF0Gf"
+      },
+      "artists": [
+        {
+          "name": "DJ SoulChild AC",
+          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "Pray Tell",
+      "url": "https://open.spotify.com/track/6E0RIe9UZoZztPNxCjQZaM"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -2060,7 +2126,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 370186,
       "name": "Slap My B*tt",
       "url": "https://open.spotify.com/track/3ScUXRzJN51KS5BLYcYf28"
@@ -2716,6 +2782,28 @@
       "duration_ms": 232958,
       "name": "Walk (feat. Dashaun Wesley)",
       "url": "https://open.spotify.com/track/16FZL2HEkJzvZTVnOvNXUa"
+    },
+    {
+      "album": {
+        "name": "Walk 4 Me (The Complete Story)",
+        "url": "https://open.spotify.com/album/6tm9bAfVM67pXh3sSanIek"
+      },
+      "artists": [
+        {
+          "name": "Tronco Traxx",
+          "url": "https://open.spotify.com/artist/1nwjv5uhmrR6LCMLZugM2P"
+        },
+        {
+          "name": "Robbie Tronco",
+          "url": "https://open.spotify.com/artist/4Ls0w6MHBq0YSl5IbTfFm0"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478881,
+      "name": "Walk 4 Me - Sound Factory Mix",
+      "url": "https://open.spotify.com/track/5esk0Klc6jEdy2eLkvTREW"
     },
     {
       "album": {

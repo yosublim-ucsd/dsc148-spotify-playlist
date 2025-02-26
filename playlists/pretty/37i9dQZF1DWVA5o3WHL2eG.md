@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,617 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,613 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |
 | 33 | [silbertablett](https://open.spotify.com/track/3d5uy1dirx1L8zaNf2crD4) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [silbertablett](https://open.spotify.com/album/1qeNOzoSIRT9HcV728CBFh) | 3:15 |
 | 34 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
-| 35 | [ich würde dich nie bereuen](https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [ich würde dich nie bereuen](https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL) | 2:44 |
-| 36 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
+| 35 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
+| 36 | [ich würde dich nie bereuen](https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [ich würde dich nie bereuen](https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL) | 2:44 |
 | 37 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
 | 38 | [A.D.H.D](https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [A.D.H.D](https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7) | 2:54 |
 | 39 | [Schwarze Magie](https://open.spotify.com/track/0mkzp3A8Cr6sIN9wOqJhk5) | [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Schwarze Magie](https://open.spotify.com/album/41HT1dDyuKKbvuCnykRJ26) | 1:43 |

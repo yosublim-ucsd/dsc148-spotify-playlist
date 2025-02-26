@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,152 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,174 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 9 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
 | 10 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 11 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
-| 12 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 12 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 13 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
-| 14 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 14 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 15 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
 | 16 | [Loquito por Ti](https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:47 |
 | 17 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 84 | [Dame Tu Querer](https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 |
 | 85 | [Cinco Pa las Doce](https://open.spotify.com/track/2jm1D6860RRJXfbTv4tRvI) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:46 |
 | 86 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
-| 87 | [Los Charcos](https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 5:01 |
-| 88 | [Rebelión](https://open.spotify.com/track/5EPQzXqUhEOhLW2aRXxAei) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Historia Musical 14 Cañonazos \(1981 \- 1990\)](https://open.spotify.com/album/5fpDKh7093eYHRNozVDFw6) | 6:16 |
+| 87 | [Rebelión](https://open.spotify.com/track/5EPQzXqUhEOhLW2aRXxAei) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Historia Musical 14 Cañonazos \(1981 \- 1990\)](https://open.spotify.com/album/5fpDKh7093eYHRNozVDFw6) | 6:16 |
+| 88 | [Los Charcos](https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 5:01 |
 | 89 | [Oye](https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:09 |
 | 90 | [Golpes en el Corazón](https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO), [Wíllinton Garcés](https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:28 |
 | 91 | [Destino](https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 3:56 |

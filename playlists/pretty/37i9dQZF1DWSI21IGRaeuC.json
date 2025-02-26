@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 50534,
+  "num_followers": 50585,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Falling Back",
-        "url": "https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Check One",
-      "url": "https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw"
-    },
-    {
       "added_at": "2024-11-13 17:19:58",
       "album": {
         "name": "First Light",
@@ -1295,6 +1279,22 @@
       "duration_ms": 238153,
       "name": "First Light",
       "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Check One",
+      "url": "https://open.spotify.com/track/7JI4W4fvPwzoPGcRSKYeHw"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Work It EP",
-        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Lay Back EP",
         "url": "https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Work It EP",
+        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-11-06 22:50:08",

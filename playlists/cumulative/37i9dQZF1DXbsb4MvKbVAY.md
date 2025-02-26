@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. ❤️‍🔥 Kannessa Selena Gomez, Gracie Abrams ja Benny Blanco.
 
-877 songs - 1 day 19 hr 39 min
+878 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-02 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-07-02 | 2024-08-19 |
 | [360 featuring robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [360 featuring robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-07-02 | 2024-08-30 |
-| [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 | 2025-01-27 |  |
+| [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 | 2025-01-27 | 2025-02-26 |
 | [50K](https://open.spotify.com/track/6v5AdleoPvngaOvLRHoHfo) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [50K](https://open.spotify.com/album/039LgQD5qo2rAYY5UTWb7n) | 2:24 | 2024-11-15 | 2024-11-22 |
 | [A Punch In The Face](https://open.spotify.com/track/29IoKl81fYbFa8QkVNADm3) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [A Punch In The Face](https://open.spotify.com/album/6eU7PDLnzbIFL6WnzKoHle) | 3:09 | 2025-01-30 | 2025-02-07 |
 | [A.D.I](https://open.spotify.com/track/4dowlEKgOztCjm8eKmXKW7) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [A.D.I](https://open.spotify.com/album/5C10qYGb5tVa9LVkXKLok6) | 2:54 | 2025-01-23 | 2025-01-31 |
@@ -83,6 +83,7 @@
 | [Baila](https://open.spotify.com/track/2Ya2Utch47vT6nhEJpm9mV) | [Häärijä](https://open.spotify.com/artist/0jKRv5usnwBNfO9EMAlbqX) | [Baila](https://open.spotify.com/album/0nrvLGwb0rhej9Rw7mYZGS) | 1:53 | 2024-10-10 | 2024-10-18 |
 | [Banaanilaatikot](https://open.spotify.com/track/59RawMLP2mQCLu32rPnzjv) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Banaanilaatikot](https://open.spotify.com/album/4uZ9og325bOtNTBxxyjmRr) | 2:43 | 2025-02-13 |  |
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-09-20 |
+| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-25 |  |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 | 2024-09-27 |
 | [Basso](https://open.spotify.com/track/0Vbh2MYNevljIrqeNKn36q) | [Thelise](https://open.spotify.com/artist/3FpcoMbYBmVX0xUW9NecUm) | [Basso](https://open.spotify.com/album/7w9rI09GehvbLz3ORJwN4C) | 3:07 | 2024-09-19 | 2024-09-27 |

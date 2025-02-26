@@ -4,7 +4,7 @@
 
 > When you're a 19th century villain with excellent taste in music.
 
-77 songs - 9 hr 43 min
+78 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [String Quartet No\. 8 in C Minor, Op\. 110: IV\. Largo \- Live](https://open.spotify.com/track/5374X528TCE8gSgM6Y90WH) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Emerson String Quartet](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) | [Shostakovich: The String Quartets](https://open.spotify.com/album/46ZSRWpa4VTsGWaPA1AxPy) | 4:45 | 2022-07-18 | 2024-04-19 |
 | [String Quartet No\. 8 in C Minor, Op\. 110: IV\. Largo \- Live](https://open.spotify.com/track/5SeonuFi58RyGdsGUhF2RW) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Emerson String Quartet](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) | [Shostakovich: The String Quartets](https://open.spotify.com/album/2KKcrsTpvh66b2NdWkHLp4) | 4:45 | 2022-10-03 | 2022-11-14 |
 | [String Quartet No.8 In C Minor, Op.110: 4\. Largo \- Live](https://open.spotify.com/track/0QTrE9uq3vtFbEAUfBcL7A) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Emerson String Quartet](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) | [Shostakovich: The String Quartets](https://open.spotify.com/album/02cUEQheRApdmagcTcW1oB) | 4:45 | 2022-06-21 |  |
+| [String Sextet in D Minor, Op\. 70, "Souvenir de Florence": I\. Allegro con spirito](https://open.spotify.com/track/72jIJDADnBLJKXV2yxv5N0) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA) | [Tchaikovsky](https://open.spotify.com/album/5MotZM9awlY6DEP4mFRR0z) | 10:26 | 2025-02-25 |  |
 | [Symphonic Studies, Op\. 13 \- Version 1852 with Etudes from 1837 version: Variation II\. Marcato il canto](https://open.spotify.com/track/1yxfsbowmJcg2Lm82AzpG4) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Blätter; Arabeske](https://open.spotify.com/album/3Om7V78rEsrTdoTWG10GTC) | 2:59 | 2023-01-09 | 2024-04-19 |
 | [Symphonic Studies, Op.13 \- Version 1852 with Etudes from 1837 version: Variation II\. Marcato il canto](https://open.spotify.com/track/3zbDdZWImX6dYDZkqdsHe7) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Blätter; Arabeske](https://open.spotify.com/album/6w9nCuNPnwzEfnd25Ou6kJ) | 2:59 | 2024-01-26 |  |
 | [Symphony No\. 10 in E Minor, Op\. 93: II\. Allegro](https://open.spotify.com/track/3qFIwHZMt9EOhNjouKSstx) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Shostakovich: Symphony No\. 10](https://open.spotify.com/album/7LW9gF9No9UsyHdXY5foeR) | 4:05 | 2022-06-21 |  |

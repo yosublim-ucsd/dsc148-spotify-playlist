@@ -1,6 +1,6 @@
 {
   "description": "hari e memphis t\u00e3o na casa, esque\u00e7a tudo \ud83d\udc49\ud83d\ude0c\ud83d\udc48",
-  "num_followers": 1405025,
+  "num_followers": 1405086,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,34 @@
     {
       "added_at": "2025-02-24 17:30:21",
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Complexo do Lins",
+      "url": "https://open.spotify.com/track/3Zo0Bu3i3tSA8SECIdF5F2"
+    },
+    {
+      "added_at": "2025-02-24 17:30:21",
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
       },
@@ -1323,34 +1351,6 @@
     {
       "added_at": "2025-02-24 17:30:21",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Complexo do Lins",
-      "url": "https://open.spotify.com/track/3Zo0Bu3i3tSA8SECIdF5F2"
-    },
-    {
-      "added_at": "2025-02-24 17:30:21",
-      "album": {
         "name": "Replay - Spotify Singles",
         "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
       },
@@ -1367,30 +1367,46 @@
     {
       "added_at": "2025-02-24 17:30:21",
       "album": {
-        "name": "2024",
-        "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
+        "name": "Sigo Frio",
+        "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Ryxn Pablo",
+          "url": "https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
-      "duration_ms": 160399,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
+      "duration_ms": 269508,
+      "name": "Sigo Frio",
+      "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
     },
     {
       "added_at": "2025-02-24 17:30:21",
@@ -1451,70 +1467,30 @@
     {
       "added_at": "2025-02-24 17:30:21",
       "album": {
-        "name": "Sigo Frio",
-        "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
+        "name": "2024",
+        "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
       },
       "artists": [
         {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         },
         {
-          "name": "Ryxn Pablo",
-          "url": "https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Sigo Frio",
-      "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
-    },
-    {
-      "added_at": "2025-02-24 17:30:21",
-      "album": {
-        "name": "Escrit\u00f3rio Carioca",
-        "url": "https://open.spotify.com/album/1259JrdxkSdLu3RHq0skZh"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Escrit\u00f3rio Carioca",
-      "url": "https://open.spotify.com/track/3Fi4JvDROSgFuZVpaAP6kx"
+      "duration_ms": 160399,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
     },
     {
       "added_at": "2025-02-24 17:30:21",
@@ -1543,6 +1519,30 @@
       "duration_ms": 245500,
       "name": "Peita do Coring\u00e3o",
       "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
+    },
+    {
+      "added_at": "2025-02-24 17:30:21",
+      "album": {
+        "name": "Escrit\u00f3rio Carioca",
+        "url": "https://open.spotify.com/album/1259JrdxkSdLu3RHq0skZh"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Escrit\u00f3rio Carioca",
+      "url": "https://open.spotify.com/track/3Fi4JvDROSgFuZVpaAP6kx"
     },
     {
       "added_at": "2025-02-24 17:30:21",
@@ -1591,6 +1591,30 @@
       "duration_ms": 192296,
       "name": "BUND\u00c3O GG",
       "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
+    },
+    {
+      "added_at": "2025-02-24 17:30:21",
+      "album": {
+        "name": "Dinero - Spotify Singles",
+        "url": "https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Dinero - Spotify Singles",
+      "url": "https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws"
     },
     {
       "added_at": "2025-02-24 17:30:21",
@@ -1663,30 +1687,6 @@
       "duration_ms": 415079,
       "name": "Noite De Crime",
       "url": "https://open.spotify.com/track/5jIYOSU4mq1A41lozsrAsa"
-    },
-    {
-      "added_at": "2025-02-24 17:30:21",
-      "album": {
-        "name": "Dinero - Spotify Singles",
-        "url": "https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Dinero - Spotify Singles",
-      "url": "https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws"
     },
     {
       "added_at": "2025-02-24 17:30:21",

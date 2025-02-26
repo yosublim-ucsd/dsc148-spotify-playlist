@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Dove (Doll Ver)",
+        "url": "https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7"
+      },
+      "artists": [
+        {
+          "name": "antihoney",
+          "url": "https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135976,
+      "name": "Dove - Doll Ver",
+      "url": "https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB"
+    },
+    {
+      "album": {
         "name": "Dream, Ivory",
         "url": "https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY"
       },

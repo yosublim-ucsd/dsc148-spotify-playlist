@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 94075,
+  "num_followers": 94089,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACqLggMwcvhhKWcq0dCrKUl",
+  "snapshot_id": "Z7u2gAAAAADyvDnHSlKx+k+Q6WSQJlZZ",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 168135,
-      "name": "Projects",
-      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
+      "duration_ms": 240917,
+      "name": "If Pain Was A Person",
+      "url": "https://open.spotify.com/track/08Uu8bkE5fuHbjhnZFsyoz"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 240917,
-      "name": "If Pain Was A Person",
-      "url": "https://open.spotify.com/track/08Uu8bkE5fuHbjhnZFsyoz"
+      "duration_ms": 168135,
+      "name": "Projects",
+      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
     },
     {
       "added_at": null,
@@ -763,46 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 133631,
-      "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
-      "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "PLAY DA FOOL",
-      "url": "https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm The One",
         "url": "https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25"
       },
@@ -823,6 +783,46 @@
       "duration_ms": 215504,
       "name": "Batman (with Lil Wayne feat. Moneybagg Yo) - Remix",
       "url": "https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "PLAY DA FOOL",
+      "url": "https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 133631,
+      "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
+      "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
     },
     {
       "added_at": null,
@@ -975,26 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scared Money",
-        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
       },
       "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 204285,
-      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

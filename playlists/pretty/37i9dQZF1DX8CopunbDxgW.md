@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 👀 with Avalon Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,960 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,765 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Type of Girl Pt\. 2](https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Type of Girl](https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ) | 4:25 |
 | 100 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 |
 
-Snapshot ID: `Z7gIfAAAAAC5u0P0OSBtBD4sd+yPODKr`
+Snapshot ID: `Z7gIfAAAAAATNiRFu/AY8j1U/KBM7hNX`

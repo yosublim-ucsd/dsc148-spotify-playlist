@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,873 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,880 likes - 48 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 40 | [Big Mama Swings](https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 5:11 |
 | 41 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 |
 | 42 | [Everybody's Happy \(But Me\)](https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 3:20 |
-| 43 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
-| 44 | [Tell Me Pretty Baby \- 2022 Remaster](https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:07 |
-| 45 | [No Jody for Me](https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:46 |
+| 43 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
+| 44 | [No Jody for Me](https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:46 |
+| 45 | [Tell Me Pretty Baby \- 2022 Remaster](https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:07 |
 | 46 | [Big Mamas Coming Home \- Remastered](https://open.spotify.com/track/3iq0LrBTXbfQEBrqKDXmLE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:23 |
-| 47 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
+| 47 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
 | 48 | [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 |
-| 49 | [All Right Baby](https://open.spotify.com/track/1EowSt2a2wlxdcyDxBFGcA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Harlem Stars](https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:28 |
 
-Snapshot ID: `Z7plAAAAAADLq3RkFX33g4l8njUpyXyO`
+Snapshot ID: `Z7u2gAAAAADCvp93kTB9G/O9wwykp/qN`

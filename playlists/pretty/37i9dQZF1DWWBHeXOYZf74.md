@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Yung Lean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,542 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,531 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 2 | [Valentine's Day Freestyle '25](https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Valentine's Day Freestyle '25](https://open.spotify.com/album/1ifU9X3dO0jDTLwzghijsM) | 3:29 |
+| 1 | [Valentine's Day Freestyle '25](https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Valentine's Day Freestyle '25](https://open.spotify.com/album/1ifU9X3dO0jDTLwzghijsM) | 3:29 |
+| 2 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 3 | [Besos Robados](https://open.spotify.com/track/5b7szkYFv8BDLPiHs2iPOY) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Besos Robados](https://open.spotify.com/album/2j0rPyBy1yMDoZVlsJk5wO) | 4:23 |
 | 4 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
 | 5 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 100 | [Song of hope](https://open.spotify.com/track/7iXOrfBdLbdpbtmN1BMSAf) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 1](https://open.spotify.com/album/57qOz97NbtxqcIPD9yL3Br) | 4:29 |
 
-Snapshot ID: `Z7gIcgAAAACKrDmWjWUHsyJVJ5RjfcNE`
+Snapshot ID: `Z74a6wAAAADeotQIaV+VKsJTm5DJj+0P`

@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Rachel Chinouriri.
 
-1,874 songs - 4 day 5 hr 19 min
+1,875 songs - 4 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 | 2024-08-30 | 2024-10-05 |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 | 2024-11-30 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-11-11 | 2023-05-31 |
+| [Brave Face](https://open.spotify.com/track/3JU8ANCVK3mFfiVb2DK0y9) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Brave Face](https://open.spotify.com/album/2zS3HDdxx85Xh7RTjZX2Ic) | 2:51 | 2025-02-21 |  |
 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-05 | 2024-08-04 |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-05-30 | 2024-01-20 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-08-17 |
@@ -524,7 +525,7 @@
 | [FEEL IT](https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [FEEL IT](https://open.spotify.com/album/4f8377OKEletMkhE7hyIZR) | 3:31 | 2024-03-01 | 2024-03-25 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2022-03-24 | 2022-12-15 |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2022-02-03 | 2022-03-18 |
-| [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-31 |  |
+| [Fever](https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Fever](https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4) | 2:35 | 2025-01-31 | 2025-02-26 |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-29 | 2023-05-09 |
 | [Filme moi](https://open.spotify.com/track/7f8ep7LmhUvhEIvlDfb9cj) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/064Xtihg61dRk2MPOXUU5P) | 3:29 | 2022-03-24 | 2022-07-29 |
 | [Filme moi](https://open.spotify.com/track/7w5xMDqwZKMZYmLgdrncte) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/1c0vf4zZCILOArfcM8jpUK) | 3:29 | 2022-06-29 | 2022-08-02 |

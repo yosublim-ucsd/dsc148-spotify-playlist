@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 63626,
+  "num_followers": 63642,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
       "artists": [
         {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+      "duration_ms": 206600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -863,22 +867,18 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2024-12-17 13:01:13",

@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 191105,
       "name": "\u30af\u30e9\u30af\u30e9",
       "url": "https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q"
@@ -10630,6 +10630,44 @@
       "duration_ms": 258500,
       "name": "\u4e03\u8272\u306e\u7d75\u306e\u5177\u3067",
       "url": "https://open.spotify.com/track/268LIixdVDrn4FY99ktG9Y"
+    },
+    {
+      "album": {
+        "name": "\u3010\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u5148\u8f29\u306e\u5922\u3092\u898b\u306a\u3044\u3011\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6",
+        "url": "https://open.spotify.com/album/0dslBsevAhGQMxJF5xSn1S"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5cf6\u9ebb\u8863(CV:\u702c\u6238\u9ebb\u6c99\u7f8e)",
+          "url": "https://open.spotify.com/artist/1UVd8O92UvNlWjDCgnAkRo"
+        },
+        {
+          "name": "\u53e4\u8cc0\u670b\u7d75(CV:\u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/5OZyiM4ahXu9UvYTAlYB4O"
+        },
+        {
+          "name": "\u53cc\u8449\u7406\u592e(CV:\u7a2e\ufa11\u6566\u7f8e)",
+          "url": "https://open.spotify.com/artist/6eKihY7H0iA3topHXLqp90"
+        },
+        {
+          "name": "\u8c4a\u6d5c\u306e\u3069\u304b(CV:\u5185\u7530\u771f\u793c)",
+          "url": "https://open.spotify.com/artist/7DdzQQlRR7CLHpIN5aTQRw"
+        },
+        {
+          "name": "\u6893\u5ddd\u304b\u3048\u3067(CV:\u4e45\u4fdd\u30e6\u30ea\u30ab)",
+          "url": "https://open.spotify.com/artist/70zCpnNLeqMdVjIqDgTEiq"
+        },
+        {
+          "name": "\u7267\u4e4b\u539f\u7fd4\u5b50(CV:\u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/55qXosk4kvUWL7Iebn5wVh"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6",
+      "url": "https://open.spotify.com/track/2Zj2AqmjkgpBix8cZAu6iY"
     },
     {
       "album": {

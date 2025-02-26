@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 102112,
+  "num_followers": 102134,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAABD91eb4x+S3B4j3RBxRmQD",
+  "snapshot_id": "Z7u2gAAAAAAtbSKCH69c0WkX5ET+9qzR",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 224994,
-      "name": "Like Napalm",
-      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j"
+      "duration_ms": 328743,
+      "name": "The Greatest Fear",
+      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 328743,
-      "name": "The Greatest Fear",
-      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
+      "duration_ms": 224994,
+      "name": "Like Napalm",
+      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j"
     },
     {
       "added_at": null,

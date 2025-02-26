@@ -1,6 +1,6 @@
 {
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
-  "num_followers": 102680,
+  "num_followers": 102690,
   "original_name": "Balkanista Circus",
   "owner": {
     "name": "Spotify",
@@ -839,18 +839,26 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "El Lobo",
-        "url": "https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0"
+        "name": "Chat Noir Chat Blanc",
+        "url": "https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn"
       },
       "artists": [
         {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+          "name": "Dr. Nelle Karajlic",
+          "url": "https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa"
+        },
+        {
+          "name": "Dejan Sparavalo",
+          "url": "https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420"
+        },
+        {
+          "name": "Vojislav Aralica",
+          "url": "https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd"
         }
       ],
-      "duration_ms": 220862,
-      "name": "El Lobo",
-      "url": "https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM"
+      "duration_ms": 169106,
+      "name": "Duj Sandale",
+      "url": "https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry"
     }
   ],
   "unique_name": "Balkanista Circus",

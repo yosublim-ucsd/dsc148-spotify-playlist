@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u661f\u91ce\u6e90\n",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3\n",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 259471,
       "name": "Feelin\u2019 Go(o)d",
       "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"
@@ -5724,6 +5724,28 @@
       "duration_ms": 114833,
       "name": "HERO JOURNEY",
       "url": "https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25"
+    },
+    {
+      "album": {
+        "name": "Hey phone",
+        "url": "https://open.spotify.com/album/42eD73zTg3bdNE6nqoBzI0"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hey phone",
+      "url": "https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7"
     },
     {
       "album": {
@@ -8400,7 +8422,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 221813,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/4erY5bBB0YdDwmf86WcV6G"
@@ -10766,6 +10788,24 @@
       "duration_ms": 187606,
       "name": "Playback",
       "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+    },
+    {
+      "album": {
+        "name": "Channel U",
+        "url": "https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "PLAYER 1",
+      "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
     },
     {
       "album": {
@@ -14803,6 +14843,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Tropical Therapy",
+      "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
+    },
+    {
+      "album": {
         "name": "WHOOPEE",
         "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
       },
@@ -16612,7 +16670,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
@@ -21334,6 +21392,24 @@
       "duration_ms": 159536,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30e2\u30a2",
+        "url": "https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267797,
+      "name": "\u30e6\u30fc\u30e2\u30a2",
+      "url": "https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB"
     },
     {
       "album": {

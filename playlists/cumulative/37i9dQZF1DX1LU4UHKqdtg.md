@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ILLIT
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: G\-DRAGON
 
-1,360 songs - 3 day 0 hr 44 min
+1,361 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1161,6 +1161,7 @@
 | [Tokyo Tower Romance](https://open.spotify.com/track/4UmwxYx32uUBuYln5QYVIN) | [ユナク from SUPERNOVA](https://open.spotify.com/artist/1dpHGlwmn7I4ofefF0sBgn) | [more...](https://open.spotify.com/album/3McO8rH7UiRc6dNyb90hDJ) | 4:29 | 2022-02-15 | 2022-03-09 |
 | [TOMBOY](https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/2dVrXV8hgovfKK7nPZkYFi) | 2:54 | 2022-03-14 | 2022-07-29 |
 | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb) | 2:09 | 2022-05-19 | 2022-08-10 |
+| [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-25 |  |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-12-06 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2024-09-20 |
 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 | 2024-10-11 | 2025-01-09 |

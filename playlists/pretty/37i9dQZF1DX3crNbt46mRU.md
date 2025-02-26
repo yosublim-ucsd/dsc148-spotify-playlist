@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,573 likes - 104 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,575 likes - 104 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 3 | [Bisous](https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 3:14 |
 | 4 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 5 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
-| 6 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 6 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 7 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 |
 | 8 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 |
 | 9 | [Roots](https://open.spotify.com/track/3BvKDfgNEGmFymfKMLpykK) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Roots](https://open.spotify.com/album/4CLjl1IBmqvO2y56O5ljYF) | 2:34 |

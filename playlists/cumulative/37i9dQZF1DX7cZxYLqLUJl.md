@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-146 songs - 6 hr 23 min
+147 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Changes](https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Changes](https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy) | 1:55 | 2021-04-21 | 2023-09-12 |
 | [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-01-07 |  |
 | [Clouds](https://open.spotify.com/track/6WyF2Em0vKwoDUkHcbKVBA) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Clouds](https://open.spotify.com/album/6p8T30oLeBZNRcelcyIsoT) | 2:26 | 2021-04-21 |  |
-| [Come Back To Me](https://open.spotify.com/track/6kJsbzODs24YsWxaefoXXH) | [Carlton Rimor](https://open.spotify.com/artist/4J75uik8WDEqMyN1SaZpoO) | [Come Back To Me](https://open.spotify.com/album/1oucZJ2RlGscVWUuWb49Rp) | 2:20 | 2021-04-21 |  |
+| [Come Back To Me](https://open.spotify.com/track/6kJsbzODs24YsWxaefoXXH) | [Carlton Rimor](https://open.spotify.com/artist/4J75uik8WDEqMyN1SaZpoO) | [Come Back To Me](https://open.spotify.com/album/1oucZJ2RlGscVWUuWb49Rp) | 2:20 | 2021-04-21 | 2025-02-26 |
 | [Comfort](https://open.spotify.com/track/0sCMgZyQFYjDblnzNvAn6z) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Comfort](https://open.spotify.com/album/2NySZwUwASnooDPJMVuCrU) | 2:37 | 2024-10-07 |  |
 | [Coziness](https://open.spotify.com/track/4IGPH1ThB3YMjgC6oevUEW) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Volume Four](https://open.spotify.com/album/3AucGtdVSGSlb1suEzCXpC) | 2:00 | 2022-03-18 | 2024-04-19 |
 | [Coziness](https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Coziness](https://open.spotify.com/album/63zI87IvwsuXDn4BpuSFqT) | 2:00 | 2021-04-21 | 2024-12-12 |
@@ -46,9 +46,9 @@
 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 | 2024-07-16 |  |
 | [Elderflowers](https://open.spotify.com/track/5LXArjUq89I6gByE5u44k5) | [Ryu Ito](https://open.spotify.com/artist/1hIFiZqCoq6Az71hQ8xkTz) | [Elderflowers](https://open.spotify.com/album/3SR9dXr1wEIvr9m9zEXm1h) | 2:09 | 2021-04-21 | 2024-09-10 |
 | [Ever so Slightly](https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Ever so Slightly](https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq) | 4:12 | 2021-04-21 | 2024-10-15 |
-| [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2021-04-21 |  |
+| [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2021-04-21 | 2025-02-26 |
 | [Fatsia](https://open.spotify.com/track/3dYZA2Zu4jPASbKbZgqC3L) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Fatsia](https://open.spotify.com/album/5AhD8WFtcvufsebhRyCEjl) | 2:25 | 2025-02-18 |  |
-| [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2021-04-21 |  |
+| [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2021-04-21 | 2025-02-26 |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2021-04-21 |  |
 | [First Light](https://open.spotify.com/track/6G3IBH8XyjswVaPxmdoC5o) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [First Light](https://open.spotify.com/album/5jeV0FO2eIRlWaIyxyyFPI) | 3:10 | 2021-04-21 |  |
 | [For a While](https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu) | [Maya Wilkes](https://open.spotify.com/artist/1swCRrKnEzyg4wMnKdXjC0) | [For a While](https://open.spotify.com/album/1loTmfeF7wNVfJ7p9VVISu) | 2:15 | 2021-04-21 |  |
@@ -64,7 +64,7 @@
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2021-04-21 |  |
 | [I Wrote You A Song](https://open.spotify.com/track/59qHsSncWfBdugXAp2E5AH) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:03 | 2021-04-21 | 2024-10-01 |
 | [I'll Be The One](https://open.spotify.com/track/1VhGpGEKywAKiCd3OmRev3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [I’ll Be The One](https://open.spotify.com/album/52bpQJrCO3rA3DqfwKOk5h) | 2:14 | 2021-04-21 |  |
-| [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2021-04-21 |  |
+| [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2021-04-21 | 2025-02-26 |
 | [In the Stars](https://open.spotify.com/track/7riO7i4L4lBTjqrkuu4sTv) | [Jeremy Mayfield](https://open.spotify.com/artist/0yjBkHJA6pxZL5FYccrwwa) | [In the Stars](https://open.spotify.com/album/6jk8taCOXavu7PudkybqHO) | 2:36 | 2024-12-06 |  |
 | [Infatuation](https://open.spotify.com/track/6ZwJ6siwR4uUw7qhUkJLUp) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Infatuation](https://open.spotify.com/album/0Snt5AfbgRQQMDcOKFLDJm) | 2:00 | 2021-04-21 | 2024-12-12 |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2021-04-21 |  |
@@ -80,9 +80,10 @@
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-04-21 | 2024-10-01 |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-03-18 | 2024-04-19 |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-09-11 |  |
-| [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2021-04-21 |  |
+| [Luz](https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Luz](https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO) | 2:05 | 2025-02-25 |  |
+| [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2021-04-21 | 2025-02-26 |
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2021-04-21 | 2024-12-04 |
-| [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2021-04-21 |  |
+| [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2021-04-21 | 2025-02-26 |
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2021-04-21 | 2024-11-19 |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2021-04-21 |  |
 | [Mi Amor](https://open.spotify.com/track/6viyU00wxyxXRBqyVA0GxG) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [High Hopes](https://open.spotify.com/album/4c07iYz0rxLiHDVcXuoa8e) | 3:25 | 2021-04-21 |  |
@@ -97,7 +98,7 @@
 | [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 | 2022-03-18 | 2024-04-19 |
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2021-04-21 |  |
 | [Nyugalma](https://open.spotify.com/track/4xoOoSUHhtuYISUeBPUaGQ) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Nyugalma](https://open.spotify.com/album/5Ck1a4PaH75OKPdrXpz67h) | 2:23 | 2025-02-18 |  |
-| [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2021-04-21 |  |
+| [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2021-04-21 | 2025-02-26 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-04-21 | 2024-12-04 |
 | [Pigeon Prelude](https://open.spotify.com/track/0wkawzqdZwcjGKQ3A7cGvH) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 3:02 | 2021-04-21 | 2024-10-08 |
 | [Portrait](https://open.spotify.com/track/4Ld5s7QdOY0mvuM0zHbnu5) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Travelers](https://open.spotify.com/album/4xmZvsAbPgukLZBqVJX7th) | 2:47 | 2021-04-21 | 2024-10-01 |
@@ -112,7 +113,7 @@
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-04-21 | 2024-12-04 |
 | [Returning To You](https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Returning To You](https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb) | 3:21 | 2024-08-19 |  |
 | [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 | 2024-12-16 |  |
-| [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2021-04-21 |  |
+| [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2021-04-21 | 2025-02-26 |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-21 | 2023-09-12 |
 | [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 | 2021-04-21 | 2024-09-10 |
 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2021-04-21 | 2024-10-01 |

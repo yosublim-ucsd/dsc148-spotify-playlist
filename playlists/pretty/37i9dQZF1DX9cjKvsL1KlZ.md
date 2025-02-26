@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,160 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,171 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Mr\. Jones \(feat\. Future\)](https://open.spotify.com/track/3Zg68ElzsOAHABZsfXlljo) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:34 |
 | 50 | [War](https://open.spotify.com/track/0JhonNQL2ixH1JcsgEj4Hn) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [War](https://open.spotify.com/album/7rF0hkAw7bmas9Cd44F7tA) | 3:43 |
 
-Snapshot ID: `Z6F1sgAAAACXfPZaiFvTFExd3p/Kc2HH`
+Snapshot ID: `Z6F1sgAAAABl6KBAwHzP2OZbzX+SRm+7`

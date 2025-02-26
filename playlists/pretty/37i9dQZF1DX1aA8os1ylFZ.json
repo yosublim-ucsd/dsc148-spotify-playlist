@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297206,
+  "num_followers": 297199,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-02-23 08:16:57",
       "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
+    },
+    {
+      "added_at": "2025-02-23 08:16:57",
+      "album": {
         "name": "Silky Feels",
         "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 165423,
       "name": "Silky Feels",
       "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
-    },
-    {
-      "added_at": "2025-02-23 08:16:57",
-      "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-02-23 08:16:57",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-23 08:16:57",
       "album": {
-        "name": "Relax your mind",
-        "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Relax your mind",
-      "url": "https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9"
-    },
-    {
-      "added_at": "2025-02-23 08:16:57",
-      "album": {
         "name": "yk, i'm good",
         "url": "https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169846,
       "name": "yk, i'm good",
       "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
+    },
+    {
+      "added_at": "2025-02-23 08:16:57",
+      "album": {
+        "name": "Relax your mind",
+        "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Relax your mind",
+      "url": "https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9"
     },
     {
       "added_at": "2025-02-23 08:16:57",

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 630000,
+  "num_followers": 630088,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Can\u2019t Fight The Feeling",
+        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Can\u2019t Fight The Feeling",
+      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Can\u2019t Fight The Feeling",
-        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Can\u2019t Fight The Feeling",
-      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Set Me Free (feat. Robert Courtois)",
-        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Robert Courtois",
-          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
-        }
-      ],
-      "duration_ms": 150218,
-      "name": "Set Me Free (feat. Robert Courtois)",
-      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Set Me Free (feat. Robert Courtois)",
+        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Robert Courtois",
+          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
+        }
+      ],
+      "duration_ms": 150218,
+      "name": "Set Me Free (feat. Robert Courtois)",
+      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -1207,38 +1227,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
       "artists": [
         {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
+      "duration_ms": 381463,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
         }
       ],
-      "duration_ms": 381463,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "How Do You Love? (feat. Mougleta)",
-      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Wile Out (feat. Surya Sen)",
         "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
       },
@@ -1487,22 +1467,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
         }
       ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1539,6 +1519,26 @@
       "duration_ms": 198508,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Up Down Round",
-        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 144393,
-      "name": "Up Down Round",
-      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "To The Club",
         "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 180937,
       "name": "To The Club",
       "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Up Down Round",
+        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 144393,
+      "name": "Up Down Round",
+      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Simple Times",
+        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 254314,
+      "name": "Simple Times",
+      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "(still) WON'T4GETU",
         "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 374116,
       "name": "(still) WON'T4GETU",
       "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Simple Times",
-        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 254314,
-      "name": "Simple Times",
-      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -2007,26 +2007,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "For The Weekend",
-        "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
+        "name": "Cologne",
+        "url": "https://open.spotify.com/album/15tGMmeZdGAWoMaATu6Jel"
       },
       "artists": [
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "New Machine",
-          "url": "https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81"
+          "name": "Chay",
+          "url": "https://open.spotify.com/artist/2swT9y92QBNtQzSRTy8VDZ"
         }
       ],
-      "duration_ms": 169722,
-      "name": "For The Weekend",
-      "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
+      "duration_ms": 177049,
+      "name": "Cologne",
+      "url": "https://open.spotify.com/track/2Ktp3GYFKr8saM8ZIOA0c0"
     }
   ],
   "unique_name": "Ibiza 2024",

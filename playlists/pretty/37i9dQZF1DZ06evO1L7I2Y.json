@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3218,
+  "num_followers": 3219,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAACSYj1pQa/ZxTVsV6ijslId",
+  "snapshot_id": "Z7u2gAAAAAATHON6uzc4E5kfwOX5SxSM",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 192676,
       "name": "Despedidas",
       "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -415,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POSTURADA",
         "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
       },
@@ -431,34 +431,6 @@
       "duration_ms": 177230,
       "name": "POSTURADA",
       "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 190758,
-      "name": "Irreal",
-      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
     },
     {
       "added_at": null,
@@ -511,6 +483,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 190758,
+      "name": "Irreal",
+      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
       "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
     },
     {
       "added_at": null,
@@ -599,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO III",
         "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
@@ -619,30 +619,6 @@
       "duration_ms": 139591,
       "name": "VIM DE L\u00c1",
       "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -671,6 +647,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Downhill Domination - SECOND EDITION",
         "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
       },
@@ -691,34 +691,6 @@
       "duration_ms": 251076,
       "name": "Bizarro",
       "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -763,6 +735,34 @@
       "duration_ms": 81730,
       "name": "10X Melhor (Interl\u00fadio)",
       "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -815,6 +815,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+        }
+      ],
+      "duration_ms": 156442,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
         "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
       },
@@ -847,34 +875,6 @@
       "duration_ms": 352500,
       "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
       "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
-        }
-      ],
-      "duration_ms": 156442,
-      "name": "Lux\u00faria",
-      "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
     },
     {
       "added_at": null,

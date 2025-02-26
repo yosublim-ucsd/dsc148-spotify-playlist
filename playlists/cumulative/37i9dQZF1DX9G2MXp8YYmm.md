@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Ceren Gündoğdu
 
-223 songs - 11 hr 7 min
+224 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [N'olur Anla](https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [N'olur Anla](https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if) | 3:40 | 2025-02-06 | 2025-02-14 |
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 | 2024-08-16 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
-| [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 |  |
+| [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 | 2025-02-26 |
 | [Ne Olur](https://open.spotify.com/track/5jxxdNApkd5Uayjfqiv5lh) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Ne Olur](https://open.spotify.com/album/1tJGZnDCmzMhNpLfjnyvxg) | 2:11 | 2024-11-07 | 2025-01-03 |
 | [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 | 2024-09-06 |
 | [Nerdesin](https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl) | [Etem](https://open.spotify.com/artist/7f9vInea1FeKnX1pCTHn1d), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Nerdesin](https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM) | 3:52 | 2024-10-10 | 2024-11-10 |
@@ -209,6 +209,7 @@
 | [Yine Ölmem](https://open.spotify.com/track/0u14UiZ4t76LhOU1D16Xmc) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yine Ölmem](https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA) | 1:38 | 2024-12-19 | 2025-02-09 |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-06-27 | 2024-11-15 |
 | [Yok Başka Hayalim](https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Yok Başka Hayalim](https://open.spotify.com/album/2pZkhpw70j61o5uAkDnaBn) | 5:11 | 2025-01-09 |  |
+| [Yokluğun Dokunmadı Bana](https://open.spotify.com/track/7g57EJTfSuKO6kfn4MJxCI) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Yokluğun Dokunmadı Bana](https://open.spotify.com/album/1ntIzqcXLSDu9ykdMFtAzY) | 4:21 | 2025-02-20 |  |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-06-27 | 2024-09-13 |
 | [YOLU AÇIN](https://open.spotify.com/track/71XvAcVBm3TSwBR9WVeorV) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [YOLU AÇIN](https://open.spotify.com/album/10jMsMR3uBjbcrfpIwlwPB) | 2:37 | 2024-07-11 | 2024-08-15 |
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-06-27 | 2024-10-04 |

@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 79 | [Kissing Bug](https://open.spotify.com/track/2FJljaSzWVJB66P0E11v8Z) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Ballads For Night People](https://open.spotify.com/album/2so70v2boeF065BbF6VcJD) | 2:43 |
 | 80 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 |
 | 81 | [All Heart \- Rehearsal](https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book \(Expanded Edition\)](https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle) | 4:02 |
-| 82 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
-| 83 | [A Drum Is a Woman, Pt\. 1](https://open.spotify.com/track/4kthM0nYfw3wYKTPO4un5B) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 3:37 |
+| 82 | [A Drum Is a Woman, Pt\. 1](https://open.spotify.com/track/4kthM0nYfw3wYKTPO4un5B) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 3:37 |
+| 83 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
 | 84 | [Love Came](https://open.spotify.com/track/1PZ6x16tUD01WiY44QK7Qe) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Don't Mind If I Do](https://open.spotify.com/album/6HhoTI6nTIBORsqhJDMLmI) | 2:00 |
 | 85 | [Big Fat Alice's Blues](https://open.spotify.com/track/5p0hnipiGSOZkBSpFCeTkJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:56 |
 | 86 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `AbqevgAAAACUA1FarufZ711tZkiyQR5u`
+Snapshot ID: `AbqkXwAAAAB6ElJsnS7lZiVmD0FtsTcA`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 34224,
+  "num_followers": 34235,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAAC3p5UJ5czF3DKeVua+D8f9",
+  "snapshot_id": "Z7u2gAAAAADt2CvNgfLCQi6/gy1IGUCh",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
       "duration_ms": 142469,
       "name": "TU COQUETTE",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 161238,
+      "name": "PASAPORTES",
+      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
     },
     {
       "added_at": null,
@@ -159,26 +179,6 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 161238,
-      "name": "PASAPORTES",
-      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 161707,
-      "name": "La Vida En La Sierra",
-      "url": "https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 161707,
+      "name": "La Vida En La Sierra",
+      "url": "https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DE 8 A 5",
         "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 194477,
       "name": "De 8 A 5",
       "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     },
     {
       "added_at": null,
@@ -703,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+        "name": "F\u00e1cil Criticar (En Vivo)",
+        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
+      "duration_ms": 194253,
+      "name": "F\u00e1cil Criticar - En Vivo",
+      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 153917,
       "name": "La Voladora",
       "url": "https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e1cil Criticar (En Vivo)",
-        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "F\u00e1cil Criticar - En Vivo",
-      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
     },
     {
       "added_at": null,

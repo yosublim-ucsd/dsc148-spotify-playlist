@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,233 songs - 11 day 10 hr 1 min
+7,234 songs - 11 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,6 +1310,7 @@
 | [Comfort Rework](https://open.spotify.com/track/6L7J86x9JDEZjlLPEAhU7I) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort Rework](https://open.spotify.com/album/6HkiwP2mv68FLIf7EUt8LW) | 1:32 | 2022-10-28 | 2022-12-16 |
 | [Comfort Zone](https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Comfort Zone](https://open.spotify.com/album/6LYZy00TD5OHpcOPZuk9Ij) | 2:00 | 2022-12-02 | 2023-12-01 |
 | [Comfortable Issues](https://open.spotify.com/track/7rC7qu57qKC7c7r0KJ7DVk) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Dusk till Dawn](https://open.spotify.com/album/1dKsRlj4Znuyz6NfCer4mk) | 2:00 | 2023-10-06 | 2024-03-15 |
+| [Comfy](https://open.spotify.com/track/3EwaleSpJ9hNXM8txWmipY) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Comfy](https://open.spotify.com/album/33pHrr0ZKzZw5G5HMtr5AD) | 2:21 | 2025-02-21 |  |
 | [comin 4 ya](https://open.spotify.com/track/6ld2KFMZCkKtf3PBCJDqaH) | [Analog Sunset](https://open.spotify.com/artist/1b5zsebDdBntav2svPU0TZ) | [comin 4 ya](https://open.spotify.com/album/02owCKt9bWzEiftAGO02lh) | 2:24 | 2021-10-20 | 2022-04-15 |
 | [Coming Home](https://open.spotify.com/track/5YTpeipC04dmLuWgP6lVVo) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Coming Home](https://open.spotify.com/album/3vdfBMFxJsU8mORPKwIlIA) | 2:32 | 2024-02-16 | 2024-08-27 |
 | [Committed To The Beat](https://open.spotify.com/track/0W9OwdBkPx3wY1ObtDKbmc) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Committed To The Beat](https://open.spotify.com/album/15daiezQeFXSABiDMKOFHg) | 1:47 | 2022-10-28 | 2025-02-19 |
@@ -5335,7 +5336,7 @@
 | [Santa Baby](https://open.spotify.com/track/3DGHKbAxjULWbOZDLDdj71) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Santa Baby](https://open.spotify.com/album/47upBPzqSGKTX5Yy2YPEWY) | 2:42 | 2021-12-17 | 2021-12-27 |
 | [Santa Barbara](https://open.spotify.com/track/25iWvuh0GmAvi0EF8wY9c5) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Santa Barbara](https://open.spotify.com/album/4mgqcIynjHFvY5cgN04t1e) | 2:01 | 2023-01-20 | 2023-09-19 |
 | [Santa Claus llegó a la ciudad](https://open.spotify.com/track/4AiqVqJYgyrGbWjSJgpqi3) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:44 | 2022-05-27 | 2022-08-05 |
-| [Santa Cruise](https://open.spotify.com/track/6k7o1u44XdA1nqzi5fdOWQ) | [Conson](https://open.spotify.com/artist/38UPBZIZ83p8qJjAIyWJ3l) | [Santa Cruise](https://open.spotify.com/album/7LKcxK0Oz7ftVv2EFkqfg6) | 2:38 | 2024-01-26 | 2025-01-05 |
+| [Santa Cruise](https://open.spotify.com/track/6k7o1u44XdA1nqzi5fdOWQ) | [Conson](https://open.spotify.com/artist/38UPBZIZ83p8qJjAIyWJ3l) | [Santa Cruise](https://open.spotify.com/album/7LKcxK0Oz7ftVv2EFkqfg6) | 2:38 | 2024-01-26 |  |
 | [Santa Fe](https://open.spotify.com/track/0feoc0O2KaCvlhsDkDkQnd) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Santa Fe](https://open.spotify.com/album/79vLRSg9X9cvrMJA5xFGtg) | 2:42 | 2023-01-20 | 2023-04-13 |
 | [Santorini](https://open.spotify.com/track/60bnC7jsOCgrtBUa9cMEYp) | [Moretti](https://open.spotify.com/artist/0mjFTaFNZ2G7AxvKZh96WD) | [Santorini](https://open.spotify.com/album/6ScDvj4ItlziG4UtB2bsl5) | 2:18 | 2024-09-06 |  |
 | [Sari's Wall](https://open.spotify.com/track/1qLReIdfvjLSa78vj0gJI2) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [May Beats](https://open.spotify.com/album/3GrQygfY8xj64ftI6fyr0v) | 2:10 | 2022-09-30 | 2023-01-13 |
@@ -5476,7 +5477,7 @@
 | [shimmer](https://open.spotify.com/track/2x2z2DzZbEpO3BcdfNgadR) | [Music Otaku](https://open.spotify.com/artist/28OtlgPSu6CGemKKUUpZJf) | [shimmer](https://open.spotify.com/album/0EIAzjDUhr7RSu3rgscxMB) | 2:15 | 2021-11-20 | 2022-06-10 |
 | [Shimmering](https://open.spotify.com/track/2zrGYgP08Z7jodj5WUxuET) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Shimmering](https://open.spotify.com/album/7HFRSpivp5TCZ2HVOD3xEW) | 2:21 | 2022-08-26 | 2022-12-03 |
 | [Shinigami](https://open.spotify.com/track/7rc0xyHymWRp3JGajelI2k) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 2:14 | 2019-05-31 | 2020-10-21 |
-| [Shining Sun](https://open.spotify.com/track/4KOS347RAW9K2AuROIFNN9) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Shining Sun](https://open.spotify.com/album/2DwZp52SFzkEcTOV6s19t7) | 2:41 | 2024-01-19 |  |
+| [Shining Sun](https://open.spotify.com/track/4KOS347RAW9K2AuROIFNN9) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Shining Sun](https://open.spotify.com/album/2DwZp52SFzkEcTOV6s19t7) | 2:41 | 2024-01-19 | 2025-02-26 |
 | [Shinjuku Nights](https://open.spotify.com/track/4MRPwM1HeOHd76PjSffHAG) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Shinjuku Nights](https://open.spotify.com/album/3TVFIJvyZ3qOv9YQ3d0vGs) | 2:00 | 2023-10-13 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2021-10-02 | 2022-04-15 |
 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 | 2022-10-07 | 2023-01-13 |
@@ -6379,7 +6380,7 @@
 | [the village](https://open.spotify.com/track/3sHl6w5wL2D2XxQdAWiz5i) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [sonder](https://open.spotify.com/album/0OESQqApCnyYPj49o5S0jY) | 2:03 | 2020-10-28 | 2021-10-20 |
 | [The Watcher](https://open.spotify.com/track/7w8nwOG04fyJ1rzrlOppIJ) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [The Watcher](https://open.spotify.com/album/75RvHKUJoQIH3N0SBbBZ0U) | 2:21 | 2021-12-17 | 2022-07-01 |
 | [The Way To Eden](https://open.spotify.com/track/5hwn92Fpw0VK8y7taEHPrF) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Way To Eden](https://open.spotify.com/album/2FyEnKHmb477fH0WRy1iOA) | 1:46 | 2023-11-17 |  |
-| [The whispers](https://open.spotify.com/track/6NxeeF1y4fAdhM50qCqsIk) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [The whispers](https://open.spotify.com/album/4usFsHsrP2zhwprbgqm4a0) | 2:27 | 2022-10-28 |  |
+| [The whispers](https://open.spotify.com/track/6NxeeF1y4fAdhM50qCqsIk) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [The whispers](https://open.spotify.com/album/4usFsHsrP2zhwprbgqm4a0) | 2:27 | 2022-10-28 | 2025-02-26 |
 | [The Wilderness](https://open.spotify.com/track/0q3X0EdVJfaXudYajqCMCX) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/3tQ0SGF8oVOFNUzCkbcl1c) | 2:33 | 2022-06-10 | 2022-09-30 |
 | [the willow tree](https://open.spotify.com/track/5iGa3KHzFg7CtCfpqqY0Cp) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [the willow tree](https://open.spotify.com/album/079zyUKwiqsOKk6ylm59WU) | 2:29 | 2024-01-26 |  |
 | [The Woods](https://open.spotify.com/track/3kee2BAT5vUblTr48sDq0m) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [CAMP](https://open.spotify.com/album/206Dhn1opSg9dtiKmA4XrS) | 1:37 | 2019-07-16 | 2020-10-21 |

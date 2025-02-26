@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,407 songs - 3 day 3 hr 56 min
+1,408 songs - 3 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-11-24 | 2024-04-21 |
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-10-13 | 2022-04-20 |
 | [Break A Sweat](https://open.spotify.com/track/2WKHv9lUvKA3dEnJy0t9ie) | [Sophie Francis](https://open.spotify.com/artist/0NQJm4Wlz3rrDJGlQ28L81) | [Break A Sweat](https://open.spotify.com/album/4k3rSZETqfdbmcx3oWR17E) | 2:31 | 2021-06-24 | 2022-06-11 |
-| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-08-08 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-08-08 | 2025-02-26 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2020-10-06 | 2022-04-20 |
 | [Breathe \- Eric Prydz Remix](https://open.spotify.com/track/2l8OMu1TS4Q6EAqAYpTQKW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Breathe \(Eric Prydz Remix\)](https://open.spotify.com/album/7K7ADuLVxkvNRrfJyw0QNR) | 7:25 | 2019-07-07 | 2019-08-13 |
 | [Bricks](https://open.spotify.com/track/6VJD8tzKgfQjxy8SwneeOX) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Papi Gordo](https://open.spotify.com/album/4YlVZDAPmGGRneJh8Bx8Oy) | 4:24 | 2020-05-30 | 2020-10-20 |
@@ -415,6 +415,7 @@
 | [First Day Out](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My Moment](https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn) | 4:14 | 2019-06-24 | 2020-10-09 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-11-24 |  |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-04-01 | 2022-11-13 |
+| [flashes](https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [flashes](https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h) | 3:05 | 2025-02-25 |  |
 | [Flex & Pump \(with MOTi\)](https://open.spotify.com/track/5irZKxxt31BLx2DzGDVt8W) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Flex & Pump \(with MOTi\)](https://open.spotify.com/album/0nXzJ0ks3x5Vboc8OXfnbY) | 2:19 | 2020-11-11 | 2022-07-29 |
 | [Flex \(feat\. Juice WRLD\)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 | 2020-10-06 | 2020-11-03 |
 | [FLICKA](https://open.spotify.com/track/7hqJFvSjhGXm6jQe4Nvc0C) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [FLICKA](https://open.spotify.com/album/4txKM8p7DyZWfl2Gn6C9gj) | 4:07 | 2019-12-30 | 2020-09-15 |

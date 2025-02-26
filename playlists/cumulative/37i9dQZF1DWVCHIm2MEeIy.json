@@ -7645,6 +7645,28 @@
     },
     {
       "album": {
+        "name": "Roll the Dice (Konstantin Sibold Remix)",
+        "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285235,
+      "name": "Roll the Dice - Konstantin Sibold Remix",
+      "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
+    },
+    {
+      "album": {
         "name": "Eros Massacre",
         "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
       },
@@ -8782,7 +8804,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 268000,
       "name": "Sunrise To The Morning",
       "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"

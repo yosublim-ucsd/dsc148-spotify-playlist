@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 220627,
+  "num_followers": 220604,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "In Love at Christmas",
-      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Christmas With Brandy",
@@ -1151,6 +1135,22 @@
       "duration_ms": 181720,
       "name": "Somebody's Waiting",
       "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
       "added_at": "2024-11-22 17:56:01",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2024-11-22 17:56:01",

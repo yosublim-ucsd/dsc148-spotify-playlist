@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 557401,
+  "num_followers": 557435,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAABNDnznXcixk1mpomUaNp2v",
+  "snapshot_id": "Z7u2gAAAAADXxFChXb38FUM5yi197/Rk",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 167509,
       "name": "Mama Said Knock You Out",
       "url": "https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way of the Fist",
-        "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new materiaL from horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,955 likes - 200 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,978 likes - 200 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

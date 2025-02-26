@@ -4,7 +4,7 @@
 
 > you up?
 
-486 songs - 1 day 3 hr 9 min
+487 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-02-11 | 2022-07-12 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-09-28 | 2024-10-26 |
 | [Heartburn](https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Heartburn](https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP) | 3:26 | 2022-02-04 | 2023-01-22 |
-| [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 | 2022-03-11 |  |
+| [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 | 2022-03-11 | 2025-02-26 |
 | [heaven come](https://open.spotify.com/track/2lTpnVnrqmYfAlgUNRfDSR) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [heaven come](https://open.spotify.com/album/151jH4X7h8l0lf0L6svPUr) | 2:56 | 2022-02-11 | 2022-06-02 |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-09-29 | 2024-04-19 |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-01-18 |  |
@@ -210,6 +210,7 @@
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-04 | 2022-07-29 |
 | [I Am](https://open.spotify.com/track/50qLAF3XgfhtaCGDKT4Kks) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/5f8pMn2A5d5lKMDapYbCmp) | 3:28 | 2022-04-01 | 2022-04-19 |
 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/6oIahjoSHQ3GQJg0hrLdzY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/album/0nKlLF5MUHVyMAiQdMD3Pi) | 4:06 | 2022-03-25 | 2022-04-16 |
+| [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 | 2025-02-25 |  |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2023-06-05 |  |
 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 | 2022-03-28 |  |
 | [i might like u](https://open.spotify.com/track/2DI4mFhCkWoVK5fyLv9q4v) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Midnight](https://open.spotify.com/album/2awUCq0Bf4VWSGQrSxl1Eb) | 2:15 | 2022-02-11 | 2022-07-26 |

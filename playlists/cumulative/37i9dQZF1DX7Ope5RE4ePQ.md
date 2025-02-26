@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-104 songs - 7 hr 45 min
+105 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Schwanengesang, D\. 957: No\. 4, Ständchen](https://open.spotify.com/track/2S9IQTWq2AsiKNztp6m3XZ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Goldmund Quartet](https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t) | [No\. 4, Ständchen](https://open.spotify.com/album/7gCa5AvULMotY5lCjvjsvH) | 3:24 | 2023-03-03 |  |
 | [Schwanengesang, D\. 957: No\. 4, Ständchen](https://open.spotify.com/track/3hUTE3r2qC1UiKXEMjd87Y) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Goldmund Quartet](https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t) | [Der Tod und das Mädchen & Songs](https://open.spotify.com/album/0icCxdBQMNGtzvVowdMZYY) | 3:24 | 2023-04-21 | 2024-04-19 |
 | [Schwanengesang, D.957: No\. 4 Serenade](https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Greatest Hits: Schubert](https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI) | 4:23 | 2022-04-01 |  |
+| [Serenade](https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Player 1](https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl) | 3:32 | 2025-02-25 |  |
 | [Serenade for Strings in E Major, Op\. 22, B\. 52: II\. Tempo di valse](https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Prague Chamber Orchestra](https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL), [Petr Skvor](https://open.spotify.com/artist/3X4vtZfo29CzvenatIDhf1) | [Dvořák: Serenade for Strings, Czech Suite](https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT) | 7:12 | 2022-04-01 |  |
 | [Six Pieces, Op\. 51, TH 143: VI\. Valse sentimentale\. Tempo di Valse](https://open.spotify.com/track/1BbQIyPnuhVIlJEqPcY3Ug) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Daniel Lozakovich](https://open.spotify.com/artist/6NYeMhiOjcNVSXwvkllyTe), [Stanislav Soloviev](https://open.spotify.com/artist/0CTjvv9ntiE7kSYxcIIEwE) | [None but the Lonely Heart](https://open.spotify.com/album/5yjely805RPC9bhGjh4Hc2) | 2:21 | 2022-04-01 |  |
 | [Sonata No\. 14 "Moonlight" in C\-Sharp Minor", Op\. 27 No\. 2: I\. Adagio sostenuto](https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l) | [Beethoven: Piano Sonatas, Vol.3](https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde) | 5:15 | 2022-04-01 | 2023-03-11 |

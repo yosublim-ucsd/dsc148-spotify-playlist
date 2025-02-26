@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 63 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 63 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 42 | [Governo Fascista](https://open.spotify.com/track/1YHtly3fkksqjkuZvYlTI3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 3:48 |
 | 43 | [Contei Até Três](https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Contei Até Três](https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB) | 3:26 |
 | 44 | [Pra Minha Gente](https://open.spotify.com/track/7oxAoeLVwKwm6TfEOM40qJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Pra Minha Gente](https://open.spotify.com/album/0bhN1xHWCtB4eYus8Z4iMl) | 2:57 |
-| 45 | [Reggae Music, Part\. 2](https://open.spotify.com/track/5LAGe0KdxSBOdMneQmtkIP) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Reggae Music, Part\. 2](https://open.spotify.com/album/034z5UZvukEOwvQM5Bbf6a) | 3:46 |
-| 46 | [Vai Chover](https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover](https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM) | 4:30 |
+| 45 | [Vai Chover](https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover](https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM) | 4:30 |
+| 46 | [Reggae Music, Part\. 2](https://open.spotify.com/track/5LAGe0KdxSBOdMneQmtkIP) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Reggae Music, Part\. 2](https://open.spotify.com/album/034z5UZvukEOwvQM5Bbf6a) | 3:46 |
 | 47 | [Amizade Pura](https://open.spotify.com/track/6PBAUqWSj0HQFOU715kCLj) | [José Punho Forte Rodrigues](https://open.spotify.com/artist/2oHZ01dSsEw7B9bmyySKGo), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Amizade Pura](https://open.spotify.com/album/3zi8PK2lpLMQbyxTwlQwSy) | 3:40 |
 | 48 | [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 |
 | 49 | [Longe](https://open.spotify.com/track/2GWXYmBvhjblEusppuPMTW) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 3:13 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 62 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
 | 63 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `AbqetAAAAAAwpHgBMRk9rewVfStPmJgw`
+Snapshot ID: `AbqkQAAAAAAKg796OfMurNUIliFNRO+y`

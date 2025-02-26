@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 248825,
       "name": "Bujji Thalli (From \"Thandel\")",
       "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
@@ -8012,7 +8012,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 268463,
       "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
       "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
@@ -8714,7 +8714,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 325257,
       "name": "Ishq Sufiyana (Male)",
       "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
@@ -9384,7 +9384,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 236933,
       "name": "Jeene Laga Hoon",
       "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
@@ -10088,7 +10088,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -12865,6 +12865,24 @@
     },
     {
       "album": {
+        "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+        "url": "https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+      "url": "https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO"
+    },
+    {
+      "album": {
         "name": "Manike (From \"Thank God\")",
         "url": "https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3"
       },
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -16194,7 +16212,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 226751,
       "name": "Payal",
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
@@ -17968,7 +17986,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 195515,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/5pPyvA03RKSJrAnnDcq0nh"
@@ -18046,7 +18064,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 224680,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr"
@@ -19166,7 +19184,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
@@ -20206,7 +20224,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 299827,
       "name": "Tera Hone Laga Hoon",
       "url": "https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj"
@@ -21306,7 +21324,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/1798CxIpbFCXGKbfWarbTL"
@@ -21336,7 +21354,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
@@ -22056,7 +22074,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"

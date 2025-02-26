@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-130 songs - 7 hr 43 min
+131 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [I Don't Believe in Loss](https://open.spotify.com/track/2aoY4HdLifNtBstsyNt0Cg) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [I Don't Believe in Loss](https://open.spotify.com/album/0whqdcQ6pZ7v0pC713ZOqc) | 3:19 | 2024-06-27 | 2024-07-19 |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-06-27 | 2024-12-19 |
 | [I Dream of An Island](https://open.spotify.com/track/2t0qGhf56y8gJ3fz60JpDN) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [I Dream of An Island](https://open.spotify.com/album/1XKOOMZRIN7hCbwm1hwDRs) | 3:18 | 2024-12-18 | 2025-01-31 |
+| [I Love You](https://open.spotify.com/track/331cDftoOsSIHQFEoW20k1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 3:58 | 2025-02-20 |  |
 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 | 2024-08-29 |  |
 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 | 2024-10-22 |  |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2024-06-27 | 2024-12-19 |
@@ -113,7 +114,7 @@
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 | 2025-02-21 |
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 | 2024-12-19 |
-| [Strange Way](https://open.spotify.com/track/2DeFyVNghqKnbMLCLWzxE0) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 3:25 | 2025-02-20 |  |
+| [Strange Way](https://open.spotify.com/track/2DeFyVNghqKnbMLCLWzxE0) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 3:25 | 2025-02-20 | 2025-02-26 |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2024-06-27 | 2024-12-19 |
 | [Superhero](https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [Superhero](https://open.spotify.com/album/6zt3YRyXOr4TDbJksVnfuX) | 2:09 | 2024-09-19 | 2025-01-24 |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-11-11 | 2025-01-24 |

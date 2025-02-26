@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10413,
+  "num_followers": 10422,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2025-01-18 02:28:25",
       "album": {
-        "name": "MELOH",
-        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
-      },
-      "artists": [
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 160104,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
-    },
-    {
-      "added_at": "2025-01-18 02:28:25",
-      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2025-01-18 02:28:25",
+      "album": {
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
       "added_at": "2025-01-18 02:28:25",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-01-18 02:28:25",
       "album": {
-        "name": "\ube44\ub204",
-        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "\ube44\ub204",
-      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
-    },
-    {
-      "added_at": "2025-01-18 02:28:25",
-      "album": {
         "name": "OHAYO MY NIGHT",
         "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
+      "added_at": "2025-01-18 02:28:25",
+      "album": {
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
     },
     {
       "added_at": "2025-01-18 02:28:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-01-18 02:28:25",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2025-01-18 02:28:25",
+      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 190813,
       "name": "Good Night (Feat. BE'O)",
       "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
-    },
-    {
-      "added_at": "2025-01-18 02:28:25",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2025-01-18 02:28:25",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-01-18 02:28:25",
       "album": {
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        }
+      ],
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+    },
+    {
+      "added_at": "2025-01-18 02:28:25",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2025-01-18 02:28:25",
-      "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Don\u2032t do That",
-      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
     },
     {
       "added_at": "2025-01-18 02:28:25",
@@ -867,6 +867,26 @@
     {
       "added_at": "2025-01-18 02:28:25",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "added_at": "2025-01-18 02:28:25",
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
-    },
-    {
-      "added_at": "2025-01-18 02:28:25",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
     },
     {
       "added_at": "2025-01-18 02:28:25",

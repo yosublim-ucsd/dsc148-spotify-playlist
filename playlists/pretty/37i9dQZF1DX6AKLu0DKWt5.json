@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7195,
+  "num_followers": 7199,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Leash (Babygirl Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Leash (Babygirl Original Soundtrack)",
-      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "The Substance (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/3DdlSNLeDtqi7aNTOKu6Wc"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 150460,
       "name": "The Substance",
       "url": "https://open.spotify.com/track/6UIi779Srkw3xYvMmfoKeM"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
     },
     {
       "added_at": "2024-12-20 14:00:08",

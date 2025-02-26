@@ -107,6 +107,6 @@
 | [What's Gonna Happen to Us?](https://open.spotify.com/track/7dKzfKQKBo2WpzLmpn1Zyx) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:05 | 2023-02-17 |  |
 | [Wtf!](https://open.spotify.com/track/4YNWupot2LrDYPYMCuaTnP) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 0:34 | 2023-02-17 |  |
 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 | 2025-02-17 |  |
-| [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9), [Center Stage](https://open.spotify.com/artist/7GwkvEAAgD9ve3k9BQgaZM) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
+| [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

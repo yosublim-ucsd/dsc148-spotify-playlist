@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,910 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,917 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Al Beats](https://open.spotify.com/artist/5plHsgRKrAPDQ4YdOQJDHo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
+| 1 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
 | 2 | [Mais Uma Vez](https://open.spotify.com/track/1eaovty3PjfGj6vmAWONPg) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:12 |
 | 3 | [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 |
 | 4 | [Set da Menorzinha 1.0](https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO) | [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set da Menorzinha 1.0](https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz) | 5:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Daiquiri](https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [Who Is The Villain ??](https://open.spotify.com/album/4xTavRVrCq0snxkVv0WdUk) | 2:51 |
 | 75 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
 
-Snapshot ID: `Z7fsdgAAAACS6+e3OiTZY/b4S97erolK`
+Snapshot ID: `Z7fsdgAAAADRVixSYc0FQcB7ZNXb6ZIQ`

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Ray Bull
 
-1,474 songs - 3 day 12 hr 34 min
+1,475 songs - 3 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [beautysleep](https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [swanlike \(loosies 2020\-2023\)](https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ) | 2:09 | 2024-06-21 | 2025-02-22 |
 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 | 2024-10-18 |  |
 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 | 2022-08-12 | 2023-06-16 |
+| [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 | 2025-02-25 |  |
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-05 | 2025-02-01 |
 | [Best Years](https://open.spotify.com/track/11y5uf7mmoN8UQbihHDpH0) | [Woz](https://open.spotify.com/artist/1UVFvU6lo3ciTTyil9yHJp) | [At the Gulf](https://open.spotify.com/album/4lVaI68Xbzh5CPZA3EX5Rb) | 2:54 | 2022-11-11 | 2022-12-15 |

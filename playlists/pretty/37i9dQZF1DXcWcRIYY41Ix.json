@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128533,
+  "num_followers": 128542,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z655gwAAAACZu1WfPsfD8NQShbguLMpF",
   "tracks": [
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "sentimentalmente",
-        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198860,
-      "name": "sentimentalmente",
-      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
-    },
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 240531,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "sentimentalmente",
+        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198860,
+      "name": "sentimentalmente",
+      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+        "name": "la corriente",
+        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
       },
       "artists": [
         {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+      "duration_ms": 175642,
+      "name": "la corriente",
+      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "la corriente",
-        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
         }
       ],
-      "duration_ms": 175642,
-      "name": "la corriente",
-      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Una Fiesta al Desorden",
+        "url": "https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Alegr\u00eda",
+          "url": "https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA"
+        }
+      ],
+      "duration_ms": 203523,
+      "name": "La Tr\u00e1gica",
+      "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Una Fiesta al Desorden",
-        "url": "https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda Alegr\u00eda",
-          "url": "https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA"
-        }
-      ],
-      "duration_ms": 203523,
-      "name": "La Tr\u00e1gica",
-      "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "serpiente",
-        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
-      },
-      "artists": [
-        {
-          "name": "Lina de Sol",
-          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
-        }
-      ],
-      "duration_ms": 205741,
-      "name": "serpiente",
-      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 180316,
       "name": "Tu bebotear",
       "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "serpiente",
+        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
+      },
+      "artists": [
+        {
+          "name": "Lina de Sol",
+          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
+        }
+      ],
+      "duration_ms": 205741,
+      "name": "serpiente",
+      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
-      },
-      "artists": [
-        {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Fado",
         "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 268018,
       "name": "Fado",
       "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Que no ves que no vas",
-        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
-      },
-      "artists": [
-        {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
-        }
-      ],
-      "duration_ms": 138888,
-      "name": "Que no ves que no vas",
-      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Que no ves que no vas",
+        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "duration_ms": 138888,
+      "name": "Que no ves que no vas",
+      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
     },
     {
       "added_at": "2025-02-13 23:00:19",

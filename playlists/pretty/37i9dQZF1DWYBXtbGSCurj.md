@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: tchelo rodrigues, Massaru, Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,253 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,288 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 18 | [Futuro Milionário](https://open.spotify.com/track/2INHnDnQgMFTufioJAgIN7) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Futuro Milionário](https://open.spotify.com/album/1l13qgTVyJ5JFsB7nHQjTN) | 2:27 |
 | 19 | [Confia](https://open.spotify.com/track/2NdjrTe9LlyXTsD7EPtdGB) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:04 |
 | 20 | [Maliciosa](https://open.spotify.com/track/3OXcX4yiMeco3zmUgYVW0D) | [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Maliciosa](https://open.spotify.com/album/6oX3zuNVPkLWtj16183gPw) | 3:10 |
-| 21 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Al Beats](https://open.spotify.com/artist/5plHsgRKrAPDQ4YdOQJDHo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
+| 21 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
 | 22 | [1 Minuto](https://open.spotify.com/track/1nHnOjlcPTpYbnXlvOPwra) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Dom7](https://open.spotify.com/artist/4vMG498bX8plg6e1VXDugM), [ZL](https://open.spotify.com/artist/7EUzYPq1lbkkps54pGqvtf) | [1 Minuto](https://open.spotify.com/album/0jiuyTKsTenet2U9ZI63KW) | 3:32 |
 | 23 | [Corra](https://open.spotify.com/track/1iBK9AaEa252pysWzvlN81) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Cloudsnobeat](https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH) | [Corra](https://open.spotify.com/album/7hMQiBb589wu2WwgokXFs1) | 2:30 |
 | 24 | [Vibe Infinita](https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:23 |

@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 182064,
+  "num_followers": 182073,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Amythyst Kiah and Her Chest of Glass",
-        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah & Her Chest of Glass",
-          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
-        }
-      ],
-      "duration_ms": 362527,
-      "name": "Trouble so Hard",
-      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Poor David's Almanack",
         "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Amythyst Kiah and Her Chest of Glass",
+        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah & Her Chest of Glass",
+          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
+        }
+      ],
+      "duration_ms": 362527,
+      "name": "Trouble so Hard",
+      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Elephant",
+          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Elephant",
-          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Strip Me Bare",
-        "url": "https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 285472,
-      "name": "Lawrence of Arcadia",
-      "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 234253,
       "name": "Love Will Win the War",
       "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Strip Me Bare",
+        "url": "https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 285472,
+      "name": "Lawrence of Arcadia",
+      "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
     },
     {
       "added_at": "2024-11-15 05:00:00",

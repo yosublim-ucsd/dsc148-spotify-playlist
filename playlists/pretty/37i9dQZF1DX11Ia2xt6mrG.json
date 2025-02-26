@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Alex Favela en portada.",
-  "num_followers": 63108,
+  "num_followers": 63126,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -875,30 +875,6 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Dancing On Dangerous",
-        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous",
-      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -923,6 +899,30 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
         "name": "MiDNiGHT",
         "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
       },
@@ -935,30 +935,6 @@
       "duration_ms": 186595,
       "name": "MiDNiGHT",
       "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
-        "name": "CORA DE HIELO",
-        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        },
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "CORA DE HIELO",
-      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1023,6 +999,30 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
+        "name": "CORA DE HIELO",
+        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "CORA DE HIELO",
+      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2025-02-21 06:00:12",
+      "album": {
         "name": "Bora Nessa",
         "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 234250,
       "name": "Bora Nessa",
       "url": "https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs"
-    },
-    {
-      "added_at": "2025-02-21 06:00:12",
-      "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1203,22 +1203,26 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1243,26 +1247,22 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
         }
       ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2025-02-21 06:00:12",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2025-02-21 06:00:12",
       "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/4UvYXdtFQOMiFi6AWoOk2l"
       },
       "artists": [
         {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
+      "duration_ms": 141750,
+      "name": "Tiene Espinas El Rosal - Original Mix",
+      "url": "https://open.spotify.com/track/3zHXOedEGQGXYgZNzhZTus"
     }
   ],
   "unique_name": "EDM\u00e9xico",

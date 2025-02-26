@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAABJ/vkpROBmmEb5bYlXcqS8",
+  "snapshot_id": "Z7u2gAAAAADEhoYybLBCu99T+vPBuTCM",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Verte Feliz",
         "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,
@@ -903,46 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Vengo a Ofrecer Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6pEuIdX7axEhfVDZoh45h8"
       },
@@ -999,6 +959,46 @@
       "duration_ms": 244239,
       "name": "Yo Vengo a Ofrecer Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4Sxef0ijZwETFvL7p6qVs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra\u00edz Nunca Me Fui",
+        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
       "added_at": null,

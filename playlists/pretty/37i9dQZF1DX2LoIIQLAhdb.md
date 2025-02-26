@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,833 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,845 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 |
-| 2 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 2 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 3 | [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 |
 | 4 | [Reviens \(feat\. Monsieur Nov\)](https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:34 |
 | 5 | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 |

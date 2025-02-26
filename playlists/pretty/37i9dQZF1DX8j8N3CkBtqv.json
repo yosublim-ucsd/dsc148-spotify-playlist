@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana! Cover - Salman Elahi",
-  "num_followers": 74282,
+  "num_followers": 74291,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Tu Jaise Dariya",
-        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Armaan Sharma",
-          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Tu Jaise Dariya",
-      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
         "name": "Mi Amore",
         "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 186753,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
+        "name": "Tu Jaise Dariya",
+        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Tu Jaise Dariya",
+      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Yeh Jo Din",
-        "url": "https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Adwani",
-          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Yeh Jo Din",
-      "url": "https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
         "name": "Raazdaariyan",
         "url": "https://open.spotify.com/album/4tvoBFJbpRFlZtm3eMBBe4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 181856,
       "name": "Raazdaariyan",
       "url": "https://open.spotify.com/track/28q4tY4XwtYiOuTBIS7ehw"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
+        "name": "Yeh Jo Din",
+        "url": "https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Yeh Jo Din",
+      "url": "https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -591,22 +591,26 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Mukhatib (Acoustic)",
-        "url": "https://open.spotify.com/album/3xF3uopVPsvNo2yVVOKdmu"
+        "name": "Bemisaal",
+        "url": "https://open.spotify.com/album/25WKYYzTCHCyuYyKGpu6R9"
       },
       "artists": [
         {
-          "name": "Salman Elahi",
-          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
         },
         {
-          "name": "Shubhasree Purkayastha",
-          "url": "https://open.spotify.com/artist/4c93rtyvP3V1nWUPBxdbye"
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "yungsta",
+          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
         }
       ],
-      "duration_ms": 225978,
-      "name": "Mukhatib - Acoustic",
-      "url": "https://open.spotify.com/track/4GYDOYFp2NfAImLlhlJwPr"
+      "duration_ms": 192480,
+      "name": "Bemisaal",
+      "url": "https://open.spotify.com/track/4eLeuvFq325pSNzr8PiOl3"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -627,6 +631,26 @@
       "duration_ms": 206052,
       "name": "Aasan Nahi",
       "url": "https://open.spotify.com/track/6DVYiXQW2OYRh8mZjpbMKu"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
+        "name": "Mukhatib (Acoustic)",
+        "url": "https://open.spotify.com/album/3xF3uopVPsvNo2yVVOKdmu"
+      },
+      "artists": [
+        {
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+        },
+        {
+          "name": "Shubhasree Purkayastha",
+          "url": "https://open.spotify.com/artist/4c93rtyvP3V1nWUPBxdbye"
+        }
+      ],
+      "duration_ms": 225978,
+      "name": "Mukhatib - Acoustic",
+      "url": "https://open.spotify.com/track/4GYDOYFp2NfAImLlhlJwPr"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -659,30 +683,6 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Bemisaal",
-        "url": "https://open.spotify.com/album/25WKYYzTCHCyuYyKGpu6R9"
-      },
-      "artists": [
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        },
-        {
-          "name": "Bharath",
-          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
-        },
-        {
-          "name": "yungsta",
-          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Bemisaal",
-      "url": "https://open.spotify.com/track/4eLeuvFq325pSNzr8PiOl3"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
         "name": "Maahi",
         "url": "https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx"
       },
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Supposed To Be",
-        "url": "https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO"
-      },
-      "artists": [
-        {
-          "name": "ISHAN",
-          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
-        },
-        {
-          "name": "Keshav Tyohar",
-          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Supposed To Be",
-      "url": "https://open.spotify.com/track/796aAkkYSInz43RBF53i39"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
         "name": "Jaane Jaana",
         "url": "https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 168000,
       "name": "Jaane Jaana",
       "url": "https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
+        "name": "Supposed To Be",
+        "url": "https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        },
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Supposed To Be",
+      "url": "https://open.spotify.com/track/796aAkkYSInz43RBF53i39"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
+        "name": "Khoon",
+        "url": "https://open.spotify.com/album/6yHQo67wEqmBn30Rs2i8vy"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "duration_ms": 258092,
+      "name": "Khoon",
+      "url": "https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
         "name": "FALSAFA",
         "url": "https://open.spotify.com/album/7AjLWYXadu0ev1RhKANZ8z"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 184218,
       "name": "FALSAFA",
       "url": "https://open.spotify.com/track/50T9qpE9RfbzxqzU3MO2iQ"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
-        "name": "Khoon",
-        "url": "https://open.spotify.com/album/6yHQo67wEqmBn30Rs2i8vy"
-      },
-      "artists": [
-        {
-          "name": "Hanita Bhambri",
-          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
-        }
-      ],
-      "duration_ms": 258092,
-      "name": "Khoon",
-      "url": "https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C"
     },
     {
       "added_at": "2025-02-21 10:24:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-21 10:24:33",
       "album": {
-        "name": "Kho Jaun",
-        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Kho Jaun",
-      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
-    },
-    {
-      "added_at": "2025-02-21 10:24:33",
-      "album": {
         "name": "Aabruu",
         "url": "https://open.spotify.com/album/3etJnBuYXvjkGDGOYnoZGn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 347038,
       "name": "Aabruu",
       "url": "https://open.spotify.com/track/2Qr2FGwE5DUa9V0qWAF8PI"
+    },
+    {
+      "added_at": "2025-02-21 10:24:33",
+      "album": {
+        "name": "Kho Jaun",
+        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Kho Jaun",
+      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
     },
     {
       "added_at": "2025-02-21 10:24:33",

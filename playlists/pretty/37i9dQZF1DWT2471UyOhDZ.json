@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Sharon Van Atten & The Attachment Theory",
-  "num_followers": 92824,
+  "num_followers": 92834,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -613,38 +613,6 @@
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
     },
     {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "The Rest Of Me",
-        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 230661,
-      "name": "The Rest Of Me",
-      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 248215,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
-    },
-    {
       "added_at": "2025-02-13 21:45:48",
       "album": {
         "name": "Back in the Game",
@@ -663,6 +631,38 @@
       "duration_ms": 281100,
       "name": "Back in the Game",
       "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
       },
       "artists": [
         {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 215331,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Don't Ask",
         "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 245985,
       "name": "Don't Ask",
       "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "L.A. Times",
-        "url": "https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 168794,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "L.A. Times",
+        "url": "https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 168794,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "How We See The Light",
         "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 174943,
       "name": "I Wanna Live With You",
       "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 194940,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB"
     }
   ],
   "unique_name": "The Listening Post",

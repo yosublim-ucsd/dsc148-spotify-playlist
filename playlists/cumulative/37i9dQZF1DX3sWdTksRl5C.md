@@ -2,7 +2,7 @@
 
 ### [Suits LA Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3sWdTksRl5C)
 
-> Don't play the odds, play the man\. Listen to the music from NBC’s Suits LA and the most memorable songs from the original Suits, streaming on Peacock.
+> Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
 54 songs - 3 hr 47 min
 

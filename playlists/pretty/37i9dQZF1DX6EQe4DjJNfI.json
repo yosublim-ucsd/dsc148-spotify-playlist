@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 177122,
+  "num_followers": 177121,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-02-21 16:40:38",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2025-02-21 16:40:38",
+      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
-    },
-    {
-      "added_at": "2025-02-21 16:40:38",
-      "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2025-02-21 16:40:38",
@@ -851,26 +851,22 @@
     {
       "added_at": "2025-02-21 16:40:38",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
         },
         {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2025-02-21 16:40:38",
@@ -891,22 +887,26 @@
     {
       "added_at": "2025-02-21 16:40:38",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
       "artists": [
         {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2025-02-21 16:40:38",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-02-21 16:40:38",
       "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
-    },
-    {
-      "added_at": "2025-02-21 16:40:38",
-      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 207000,
       "name": "Seu Bem",
       "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+    },
+    {
+      "added_at": "2025-02-21 16:40:38",
+      "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2025-02-21 16:40:38",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-02-21 16:40:38",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2025-02-21 16:40:38",
+      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 176326,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS"
-    },
-    {
-      "added_at": "2025-02-21 16:40:38",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2025-02-21 16:40:38",

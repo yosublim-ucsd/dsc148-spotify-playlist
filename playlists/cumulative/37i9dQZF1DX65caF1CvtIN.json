@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Quiet Reverie",
+        "url": "https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS"
+      },
+      "artists": [
+        {
+          "name": "Siri Eijde",
+          "url": "https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Quiet Reverie",
+      "url": "https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },

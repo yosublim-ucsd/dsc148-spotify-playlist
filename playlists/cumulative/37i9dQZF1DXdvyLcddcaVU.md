@@ -4,7 +4,7 @@
 
 > \#fyp
 
-642 songs - 1 day 9 hr 48 min
+643 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A fleur de toi](https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [A Fleur De Toi](https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf) | 4:21 | 2023-12-01 | 2024-02-10 |
 | [A Forest](https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 5:54 | 2024-11-08 | 2024-12-14 |
 | [A l'international](https://open.spotify.com/track/3bsvf6hwph9FssL0nVtjcE) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A l'infini \(Summer Edition\)](https://open.spotify.com/album/5lapLAfOimAQbZthk6hTLS) | 3:25 | 2023-03-24 | 2023-10-02 |
-| [A Toi...](https://open.spotify.com/track/3GoidwIoiYE1buXhwvjaJS) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [Le Prince](https://open.spotify.com/album/327jYU6FitH5laZ5aNv7sJ) | 3:17 | 2024-12-06 |  |
+| [A Toi...](https://open.spotify.com/track/3GoidwIoiYE1buXhwvjaJS) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [Le Prince](https://open.spotify.com/album/327jYU6FitH5laZ5aNv7sJ) | 3:17 | 2024-12-06 | 2025-02-26 |
 | [Adieu](https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Adieu](https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl) | 3:04 | 2024-06-28 | 2024-07-20 |
 | [Agenda](https://open.spotify.com/track/64ViElhQkzzrmdrs1JxQiE) | [Tisco](https://open.spotify.com/artist/1enyZzjGFn1UNdk8EqeicI) | [Agenda](https://open.spotify.com/album/01JghXXrjpjtPu4wRkx0aq) | 2:38 | 2024-10-11 | 2024-12-14 |
 | [AH TXE TXE](https://open.spotify.com/track/44JaxgEdVdgEzTeIYsZrES) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713) | [AH TXE TXE](https://open.spotify.com/album/2NgTBl8RJMVLwbhGiPxCkD) | 2:22 | 2023-08-25 | 2024-02-17 |
@@ -177,6 +177,7 @@
 | [Dimanche soir](https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [2.6.Z](https://open.spotify.com/album/76EPcq3yFSKI4Y0gnTnnqW) | 4:00 | 2024-05-03 | 2024-08-02 |
 | [Dingue de toi \- Nabi\-Nabilla](https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz) | [Sofiane](https://open.spotify.com/artist/3uSbAaLwGw2xF9je73h7F4) | [Dingue de toi \(Nabi\-Nabilla\)](https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW) | 3:54 | 2024-03-15 | 2024-05-25 |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-23 | 2024-10-05 |
+| [Discobeast](https://open.spotify.com/track/0QSFpVVi5h1TrYG69WMTg7) | [JOYCA](https://open.spotify.com/artist/5AqhBC5pt6b0WVpUAII1Ro) | [Discobeast](https://open.spotify.com/album/3K8pHhEfCe3S2u5yIBBT5o) | 2:23 | 2025-02-25 |  |
 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 | 2024-11-08 | 2025-02-15 |
 | [DJ](https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Brut de femme](https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7) | 4:30 | 2023-10-06 | 2024-03-09 |
 | [DJADJA](https://open.spotify.com/track/6Bpt54yZQRtIXyhGMSbWR3) | [La Tatpa](https://open.spotify.com/artist/6h6QV74wQuEw23NqSzqN5K) | [DJADJA](https://open.spotify.com/album/5ti0l4NDExsVtpMo0yWab8) | 1:50 | 2024-10-11 | 2025-01-18 |

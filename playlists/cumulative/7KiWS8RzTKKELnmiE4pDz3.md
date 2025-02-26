@@ -4,7 +4,7 @@
 
 > 
 
-891 songs - 1 day 19 hr 8 min
+895 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-05 |  |
 | [David's Song \- Tom Misch Remix](https://open.spotify.com/track/4nl1sTJewkAySvB63v7k5g) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [David's Song](https://open.spotify.com/album/7pi3VTkRkV4Hm6jTWEhrpK) | 4:12 | 2024-02-14 | 2024-04-24 |
 | [DayCare](https://open.spotify.com/track/4pfKtIZ72ue8kCRaA1YN64) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [DayCare](https://open.spotify.com/album/2SOWsVk19fmFxBeRQJ55Et) | 2:03 | 2022-07-23 | 2023-12-14 |
+| [Daykeeper \(feat\. Muhsinah\)](https://open.spotify.com/track/17AUUJpppSK2JTWvrVbCCU) | [The Foreign Exchange](https://open.spotify.com/artist/60R4M19QBXvs0gO4IL6CpS), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5) | [Leave It All Behind](https://open.spotify.com/album/4ukQee7i89dEjomQn1BfZr) | 4:41 | 2025-02-25 |  |
 | [Death Row](https://open.spotify.com/track/632xdEmAyhHtn7dsaimP0r) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:12 | 2023-08-28 | 2024-03-05 |
 | [DeathStar \(feat\. Trippie Redd, KanKan\)](https://open.spotify.com/track/2h7enN7cXVsN6s54d9oGqA) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 4:21 | 2022-02-26 | 2024-03-05 |
 | [Decoy](https://open.spotify.com/track/3ersqxDzeNQnTnCKIoYkSf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Decoy](https://open.spotify.com/album/6nlYgVUO6Vhsl4KKGjGlMh) | 2:34 | 2024-11-05 |  |
@@ -264,6 +265,7 @@
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 | 2023-12-14 |
 | [Free Young Thug](https://open.spotify.com/track/459TcVn4q9fN9NJe29RmjL) | [jahhde](https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb), [Ifys](https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT) | [Lost Files 4](https://open.spotify.com/album/6vlzHLRHhhQWKhIsxsbH5P) | 2:29 | 2023-12-25 | 2024-04-24 |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 | 2023-05-09 |
+| [Freestyle](https://open.spotify.com/track/33YwdmM6I1hBOT0ZQHSQW6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flyest Nigga In Charge, Vol\. 1](https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr) | 3:29 | 2025-02-26 |  |
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2023-10-03 | 2024-04-24 |
 | [Freestyle 3](https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:22 | 2022-10-31 | 2023-05-09 |
 | [Freewave 4](https://open.spotify.com/track/45ENouhT5J97VgCcxQsxYu) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave](https://open.spotify.com/album/3GVblX9gjhR6bhP74EZQ3G) | 1:08 | 2022-12-24 | 2023-05-09 |
@@ -436,6 +438,7 @@
 | [Levels](https://open.spotify.com/track/5CaRC4vLfeUnSdP35GkWPA) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:15 | 2023-01-07 | 2023-04-11 |
 | [Levels Vol\. 2](https://open.spotify.com/track/4j8F7ySiiH5wm7vP66n0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 1:51 | 2024-03-04 | 2024-11-06 |
 | [Lif3](https://open.spotify.com/track/5CYq30RE6u1z0MXPUGD5tn) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:37 | 2022-11-22 | 2023-05-09 |
+| [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 | 2025-02-26 |  |
 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 | 2022-06-10 | 2023-12-14 |
 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2024-06-05 | 2024-11-06 |
 | [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2023-11-29 | 2024-03-05 |
@@ -723,6 +726,7 @@
 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 | 2024-12-30 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 | 2023-05-09 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 | 2024-11-06 |
+| [Sorry Not Sorry](https://open.spotify.com/track/2MXjCVgXp2EQKONatP3wGK) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 3:36 | 2025-02-26 |  |
 | [SOS](https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:21 | 2024-04-27 | 2024-11-06 |
 | [Soul Doubt](https://open.spotify.com/track/1i0r2mb2SaHFjphF1dtizV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:00 | 2024-07-30 | 2024-11-06 |
 | [Sour Mango](https://open.spotify.com/track/6N5TKOIuVz6THKWrjK1neQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3QjaxGp6wfwMiZbYdIeOUO) | 4:19 | 2024-04-23 | 2024-11-06 |

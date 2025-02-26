@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,320 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,346 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 24 | [Wat Ik Ook Ga Doen \- Live @ Philips Stadion, Eindhoven 2024](https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Groots De Laatste \- Live In Het Philips Stadion](https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW) | 4:34 |
 | 25 | [Het Idee](https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Inge van Calkar](https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP) | [Het Idee](https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA) | 2:54 |
 | 26 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
-| 27 | [Klaar Voor Wat Er Komt](https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Klaar Voor Wat Er Komt](https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7) | 3:26 |
+| 27 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 |
 | 28 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 |
-| 29 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 |
+| 29 | [Klaar Voor Wat Er Komt](https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Klaar Voor Wat Er Komt](https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7) | 3:26 |
 | 30 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 |
 | 31 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 |
 | 32 | [Adem In Adem Uit](https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6) | 4:17 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 38 | [Laatste Dans Remix \- Live](https://open.spotify.com/track/4LTTGWgPG2076NkewIv9FP) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Live](https://open.spotify.com/album/4c9W7mbX8XmjIDFTI4uo89) | 4:11 |
 | 39 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
 | 40 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
-| 41 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 |
-| 42 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 |
+| 41 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 |
+| 42 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 |
 | 43 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 |
 | 44 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 |
 | 45 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 49 | [Als Nu Nu Is](https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Als Nu Nu Is](https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9) | 2:54 |
 | 50 | [Zaklamp](https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Gesprekken Met Mezelf](https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK) | 3:57 |
 
-Snapshot ID: `Z7e0EgAAAAC1eC8znbr6xm4JN8sZd+pS`
+Snapshot ID: `Z72oHQAAAADRYWbJreWSj+IV771zQZAk`

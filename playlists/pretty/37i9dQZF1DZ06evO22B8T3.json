@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1303492,
+  "num_followers": 1303474,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7plAAAAAADxHPb4+hJhN8upM2TLVZSn",
+  "snapshot_id": "Z7u2gAAAAADA+/rKreaTNKff8iXEp+R/",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protagonista",
-        "url": "https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3"
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 159272,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW"
+      "duration_ms": 195709,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
     },
     {
       "added_at": null,
@@ -203,18 +195,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+        "name": "Protagonista",
+        "url": "https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3"
       },
       "artists": [
         {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 195709,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
+      "duration_ms": 159272,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW"
     },
     {
       "added_at": null,

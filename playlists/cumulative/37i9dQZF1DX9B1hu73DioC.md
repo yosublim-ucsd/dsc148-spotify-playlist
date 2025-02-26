@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-878 songs - 2 day 4 hr 6 min
+879 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2022-05-31 | 2022-06-01 |
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-10-07 | 2024-04-19 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2020-10-16 | 2022-04-17 |
-| [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s) | 4:06 | 2025-02-21 |  |
+| [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s) | 4:06 | 2025-02-21 | 2025-02-26 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 | 2023-03-07 |
 | [Hard MF 2 Luv](https://open.spotify.com/track/14t04I7NGyc8tDIc0lY2Aj) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Hard MF 2 Luv](https://open.spotify.com/album/27hOWOKZ0pBhvUcySOj36d) | 3:23 | 2023-09-15 | 2023-12-13 |
@@ -779,6 +779,7 @@
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-14 | 2023-01-13 |
 | [The Night](https://open.spotify.com/track/3DDweM5gUHTpgAnWtWV9cJ) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [All in the Value](https://open.spotify.com/album/0oSo6YkoV8uhWzya7MLXis) | 5:01 | 2020-10-16 | 2022-04-21 |
 | [The One to Wait](https://open.spotify.com/track/3MPFzBWdqwaAeCSQpA7Ift) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/14h7FxQqVYilWuR8adP09G) | 6:33 | 2020-10-05\* | 2021-05-24 |
+| [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-25 | 2022-11-19 |
 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 | 2023-06-30 | 2023-07-27 |
 | [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-10-16 | 2022-12-07 |

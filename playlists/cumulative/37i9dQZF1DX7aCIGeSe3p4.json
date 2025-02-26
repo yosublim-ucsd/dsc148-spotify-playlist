@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 196603,
       "name": "Joven De La Sierra",
       "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 176118,
       "name": "Junto los Dos",
       "url": "https://open.spotify.com/track/5p8xcFWYWqyVD6VVc1IQNG"
@@ -2590,6 +2612,24 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "Puras Pa Pistear En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/4wiemgEt8lBvAHPmCwMrlN"
+      },
+      "artists": [
+        {
+          "name": "Nueva Ruta",
+          "url": "https://open.spotify.com/artist/3t3jUwWtk9NghwumBDJZLp"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "La escuelita (En Vivo)",
+      "url": "https://open.spotify.com/track/2jBO9qDoMt9FiZhRQm4eaR"
     },
     {
       "album": {
@@ -3646,6 +3686,24 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "album": {
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "album": {

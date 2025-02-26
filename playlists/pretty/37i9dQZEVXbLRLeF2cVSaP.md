@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,486 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,492 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 42 | [Supersonic](https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ) | 2:44 |
 | 43 | [Пожары](https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/68sNUJIxWC1On3J9PQmEEs) | 3:17 |
 | 44 | [DreamKeeperc](https://open.spotify.com/track/2hZcfgWVxNZ7Q8xVn6xo70) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [DreamKeeperc](https://open.spotify.com/album/54rEdCrnpAFmo6XjM5Oj56) | 2:12 |
-| 45 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 45 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 | 46 | [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [Какая Разница](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 |
 | 47 | [мальчик](https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww) | [кис\-кис](https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3) | [Магазин игрушек для взрослых](https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu) | 3:02 |
 | 48 | [Время](https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Двадцать](https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6) | 2:23 |
 | 49 | [Малиновый рассвет](https://open.spotify.com/track/1GS1TAA8zc5oGiYE1z9Q53) | [Endspiel](https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF) | [Old Days](https://open.spotify.com/album/1jwHnR93ODLofIjcKl31LS) | 3:53 |
 | 50 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 |
 
-Snapshot ID: `L0/goAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1EvyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

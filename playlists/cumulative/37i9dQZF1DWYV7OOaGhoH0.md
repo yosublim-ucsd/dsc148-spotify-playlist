@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Hurray For The Riff Raff
 
-665 songs - 1 day 16 hr 56 min
+666 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2025-02-22 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-19 | 2023-08-05 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-12 | 2024-10-19 |
-| [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2024-08-30 |  |
+| [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2024-08-30 | 2025-02-26 |
 | [Paralyzed](https://open.spotify.com/track/7dZ723CDAVUmHtJRdghndW) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:02 | 2022-04-29 | 2022-07-09 |
 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 | 2023-01-06 | 2023-11-11 |
 | [Patience](https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Patience](https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP) | 3:58 | 2023-03-24 | 2023-06-24 |
@@ -536,6 +536,7 @@
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-18 | 2024-01-06 |
 | [Sunday Drive](https://open.spotify.com/track/7h5aMCjigDY5Swa5OroljV) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sunday Drive](https://open.spotify.com/album/3SoYuufmYmFFejuIYi5a3d) | 3:42 | 2021-12-10 | 2022-02-19 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-14 | 2023-10-21 |
+| [Sweet Heat Lightning](https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 4:46 | 2025-02-25 |  |
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-02-18 | 2022-05-20 |
 | [Sweet Misery](https://open.spotify.com/track/6BLxLHO1PL5jOoRknuFS9e) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/7bKPxEAWKsZsgH4sQ20cqN) | 3:09 | 2021-12-10 | 2022-03-12 |
 | [Sweet Talk](https://open.spotify.com/track/3sUl6iXhQLGulbyDNaihDw) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 3:38 | 2024-05-03 | 2025-02-15 |

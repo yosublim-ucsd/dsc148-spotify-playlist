@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,726 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,812 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 7 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 |
 | 8 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 |
 | 9 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
-| 10 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
+| 10 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 11 | [FREE CONGO](https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [FREE CONGO](https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s) | 3:34 |
 | 12 | [Daddy](https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Daddy](https://open.spotify.com/album/1jysTp8hYT1f8wb4Mbf45P) | 2:05 |
 | 13 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |

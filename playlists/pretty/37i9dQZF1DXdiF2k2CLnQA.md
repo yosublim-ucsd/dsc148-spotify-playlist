@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,871 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,898 likes - 89 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 88 | [Fatal Fall](https://open.spotify.com/track/2CwnFRc760BhIzKFouvQkc) | [Scarefield](https://open.spotify.com/artist/1soOUPqMH7Vgkb59Br8AzX) | [Fatal Fall](https://open.spotify.com/album/1VMeATHwwraw1xU5EtLhof) | 4:41 |
 | 89 | [The World Belongs To Me](https://open.spotify.com/track/4IMFeclMZPanzmyx5m9mZr) | [Battering Ram](https://open.spotify.com/artist/5ZE8smCT2oR50Kq9yLZ3GW) | [The World Belongs To Me](https://open.spotify.com/album/7GD749YVkYURBaBGLuT4lW) | 3:51 |
 
-Snapshot ID: `Z7e0OgAAAAAFxGAPBcITzynSGgKuZj6X`
+Snapshot ID: `Z7e0OgAAAAA11OcMvrDpgJFb2jiAFfqK`

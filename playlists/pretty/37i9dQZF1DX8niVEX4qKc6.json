@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 189266,
+  "num_followers": 189277,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -607,22 +607,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -643,18 +639,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "La Otra Dimensi\u00f3n",
-        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 320600,
-      "name": "El Tesoro - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
+      "duration_ms": 243185,
+      "name": "Pitada",
+      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -815,22 +815,6 @@
       "duration_ms": 150859,
       "name": "Am\u00e1ndote",
       "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 243185,
-      "name": "Pitada",
-      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -863,6 +847,22 @@
       "duration_ms": 223096,
       "name": "Lo Que Perd\u00ed",
       "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 320600,
+      "name": "El Tesoro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -911,6 +911,22 @@
       "duration_ms": 230600,
       "name": "Jaguar House",
       "url": "https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "flashi\u00e9",
+        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 154033,
+      "name": "flashi\u00e9",
+      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -995,22 +1011,6 @@
       "duration_ms": 165625,
       "name": "Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "flashi\u00e9",
-        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 154033,
-      "name": "flashi\u00e9",
-      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 165503,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 186597,
       "name": "A la deriva",
       "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 165503,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
     },
     {
       "added_at": "2025-02-21 03:00:32",

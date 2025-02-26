@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8978058,
+  "num_followers": 8979062,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+        "name": "I Am...",
+        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
+      "duration_ms": 237026,
+      "name": "Nas Is Like",
+      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -823,8 +823,8 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "I Am...",
-        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Nas Is Like",
-      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Extinction Level Event: The Final World Front",
         "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 158466,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1811,18 +1811,34 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Wrath Of The Math",
-        "url": "https://open.spotify.com/album/7jvuTIYaBYqbTcLZZwXlIZ"
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
       "artists": [
         {
-          "name": "Jeru The Damaja",
-          "url": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+          "name": "Craig Mack",
+          "url": "https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Rampage",
+          "url": "https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Me Or The Papes",
-      "url": "https://open.spotify.com/track/1h20yRsf5WeuHbohrlfcCt"
+      "duration_ms": 302013,
+      "name": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+      "url": "https://open.spotify.com/track/5PbFD3AIyunz5HxocduA9e"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

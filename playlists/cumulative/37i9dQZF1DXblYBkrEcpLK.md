@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 幾田りら Lilas Ikuta
 
-737 songs - 2 day 0 hr 58 min
+738 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [キンギョバチ](https://open.spotify.com/track/11CfCFLGBkAYLfhld5hsRz) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [キンギョバチ](https://open.spotify.com/album/3b0uUWITNCJLycX3smrciS) | 4:40 | 2022-06-12 | 2022-07-14 |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-01-06 | 2024-01-31 |
 | [ギターと孤独と蒼い惑星 \- from CrosSing](https://open.spotify.com/track/5svgIVYpZuUZZgQbhWDQ0G) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ギターと孤独と蒼い惑星 \- from CrosSing](https://open.spotify.com/album/22MgLVsrqOAHW8dBiLFWoH) | 3:49 | 2023-10-03 | 2023-10-05 |
-| [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 | 2024-04-16 |  |
+| [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 | 2024-04-16 | 2025-02-26 |
 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 | 2024-02-13 | 2024-04-19 |
 | [サイハテ](https://open.spotify.com/track/395GmXt2qT0ZMB2eceX5U1) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [サイハテ](https://open.spotify.com/album/64aECmXWRJDITmYwpsp0xn) | 4:58 | 2022-06-12 | 2022-07-25 |
 | [サインはB \- New Arrange Ver.](https://open.spotify.com/track/27qhwBOkY1DGgapjYYyFyh) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:41 | 2023-07-04 | 2025-01-27 |
@@ -564,6 +564,7 @@
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2023-02-14 | 2023-02-16 |
 | [ワールドイズマイン](https://open.spotify.com/track/6s7u8a4O0T8D2RRxQUUj3x) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [ワールドイズマイン（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/57uXKunwozhxo4jGWU1xQi) | 4:12 | 2024-09-12 | 2024-10-09 |
 | [七色の絵の具で](https://open.spotify.com/track/268LIixdVDrn4FY99ktG9Y) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で \(Special Edition\)](https://open.spotify.com/album/3u0BsVBrwRBHRbhnQLBS9m) | 4:18 | 2023-05-10 | 2023-06-14 |
+| [不可思議のカルテ](https://open.spotify.com/track/2Zj2AqmjkgpBix8cZAu6iY) | [桜島麻衣\(CV:瀬戸麻沙美\)](https://open.spotify.com/artist/1UVd8O92UvNlWjDCgnAkRo), [古賀朋絵\(CV:東山奈央\)](https://open.spotify.com/artist/5OZyiM4ahXu9UvYTAlYB4O), [双葉理央\(CV:種﨑敦美\)](https://open.spotify.com/artist/6eKihY7H0iA3topHXLqp90), [豊浜のどか\(CV:内田真礼\)](https://open.spotify.com/artist/7DdzQQlRR7CLHpIN5aTQRw), [梓川かえで\(CV:久保ユリカ\)](https://open.spotify.com/artist/70zCpnNLeqMdVjIqDgTEiq), [牧之原翔子\(CV:水瀬いのり\)](https://open.spotify.com/artist/55qXosk4kvUWL7Iebn5wVh) | [【青春ブタ野郎はバニーガール先輩の夢を見ない】不可思議のカルテ](https://open.spotify.com/album/0dslBsevAhGQMxJF5xSn1S) | 3:59 | 2025-02-25 |  |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-14 | 2022-07-29 |
 | [不規則性エントロピー](https://open.spotify.com/track/380LeI6moud4Zlrr8EXSdr) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [不規則性エントロピー \(TVアニメ「ひぐらしのなく頃に 業」新EDテーマ\)](https://open.spotify.com/album/2C6nNaQMeZUg9D9qpcsv3n) | 4:23 | 2022-06-14 | 2022-06-19 |
 | [世界が私を呼ぶから](https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH) | [Sachika Misawa](https://open.spotify.com/artist/7cFgscmiwzpnPjOKx1ZZAZ) | [深呼吸](https://open.spotify.com/album/46qejdyZJ6QBJJzSg7ItIv) | 3:00 | 2022-06-24 | 2022-07-27 |

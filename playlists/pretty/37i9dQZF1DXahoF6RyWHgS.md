@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,394 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,087 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 18 | [Moliendo café](https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs) | [La Negra Graciana](https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X) | [Moliendo café aux Portales \(Le son de Veracruz\)](https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn) | 3:36 |
 | 19 | [Palmera](https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 1:42 |
 | 20 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
-| 21 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
-| 22 | [El Estuche](https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Dirty Dancing: Havana Nights](https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm) | 3:23 |
+| 21 | [El Estuche](https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Dirty Dancing: Havana Nights](https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm) | 3:23 |
+| 22 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
 | 23 | [La Bruja](https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 4:22 |
 | 24 | [Dame Tu Querer](https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:22 |
 | 25 | [El Tilingo Lingo](https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW) | [Grupo Chalchihuecan De Los Hermanos Ochoa](https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G) | [Veracruz Y Su Música \- 14 Sones Jarochos](https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo) | 2:46 |

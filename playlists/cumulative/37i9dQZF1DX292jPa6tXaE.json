@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop!  Cover: UV",
+  "description": "Discover the future of Punjabi Pop!  Cover: Navjot ",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Bae",
+        "url": "https://open.spotify.com/album/1Ugqw9M5thJorCZNixZPKh"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "Bae",
+      "url": "https://open.spotify.com/track/6w4OGyITwsctUVy1lpo3rX"
+    },
+    {
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 165075,
       "name": "Bariyan",
       "url": "https://open.spotify.com/track/2lglwtgQe0Q6gybJS8JgQS"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 179594,
       "name": "Born To Live",
       "url": "https://open.spotify.com/track/3dch9vH3eBDNc0kAoHAcHZ"
@@ -615,6 +633,36 @@
     },
     {
       "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/0RDHT989Hs3izZbbhQqvWC"
+      },
+      "artists": [
+        {
+          "name": "Arun Singh Chaudhary",
+          "url": "https://open.spotify.com/artist/6Yeho4e5KHwrBGFxdjNlSG"
+        },
+        {
+          "name": "Benaam",
+          "url": "https://open.spotify.com/artist/2x0zFNXOY0EQACujRbFnSw"
+        },
+        {
+          "name": "Lil Graven",
+          "url": "https://open.spotify.com/artist/3sCsht8mD9tbgQ5c71kfhk"
+        },
+        {
+          "name": "Shabbey",
+          "url": "https://open.spotify.com/artist/5AYkTKXRIrMZjeUtQbG2jg"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/4pWWdpUShpU9bVD4wXGNMQ"
+    },
+    {
+      "album": {
         "name": "Broken Stars",
         "url": "https://open.spotify.com/album/3KsoML4YjjCdyNrXPrNGKM"
       },
@@ -652,6 +700,24 @@
       "duration_ms": 181458,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
+    },
+    {
+      "album": {
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/36zv9V5OFYKeAqcTv8nM6R"
+      },
+      "artists": [
+        {
+          "name": "Nav Singh",
+          "url": "https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159465,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/57bricoHuB5gfreB2CxyOe"
     },
     {
       "album": {
@@ -696,7 +762,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 216136,
       "name": "Challa",
       "url": "https://open.spotify.com/track/08fWSjLJETfnB4WdPWMGzK"
@@ -874,7 +940,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 176202,
       "name": "Chownk",
       "url": "https://open.spotify.com/track/1MikacOahcH5dwkkYI2ClE"
@@ -1689,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Guns N Roses",
+        "url": "https://open.spotify.com/album/7rpxHO2AErFYjYD0cxLNvs"
+      },
+      "artists": [
+        {
+          "name": "Gursach",
+          "url": "https://open.spotify.com/artist/1RMUDKh1hHFPaQ6pR0m4FJ"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180028,
+      "name": "Guns N Roses",
+      "url": "https://open.spotify.com/track/3xZpBmMeUNDpxAxlSHZSp5"
+    },
+    {
+      "album": {
         "name": "Gym",
         "url": "https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2"
       },
@@ -2068,7 +2152,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 166956,
       "name": "In Belive",
       "url": "https://open.spotify.com/track/4HT0Q53tRehhcBEKeA8Kaa"
@@ -2358,7 +2442,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 158048,
       "name": "Joda Jhanjran Da",
       "url": "https://open.spotify.com/track/6uuBo8Iap9ujmkae1Bken5"
@@ -2725,6 +2809,32 @@
     },
     {
       "album": {
+        "name": "Letter To Her",
+        "url": "https://open.spotify.com/album/3kGo5DF2RhAvBUN5uhOJD5"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        },
+        {
+          "name": "Karan Thabal",
+          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+        },
+        {
+          "name": "Jay B",
+          "url": "https://open.spotify.com/artist/5xEzWWjCafalKfbsko2cnX"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195665,
+      "name": "Letter To Her",
+      "url": "https://open.spotify.com/track/7dyPxxWUY68kZUpzI6UMLc"
+    },
+    {
+      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4"
       },
@@ -2788,6 +2898,24 @@
       "duration_ms": 248584,
       "name": "Liyaqataan",
       "url": "https://open.spotify.com/track/5U5EQZhz1yAC9nPXJW9xPg"
+    },
+    {
+      "album": {
+        "name": "LONE WOLF",
+        "url": "https://open.spotify.com/album/2wAMkmFfh7YMnX43KoLhCb"
+      },
+      "artists": [
+        {
+          "name": "TERA MUSAFIRR",
+          "url": "https://open.spotify.com/artist/6GD40pnf6z91XAxh1j2EWj"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307938,
+      "name": "LONE WOLF",
+      "url": "https://open.spotify.com/track/6h2MCDsH9CmBrsMSVNKeGT"
     },
     {
       "album": {
@@ -3256,10 +3384,32 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 190754,
       "name": "Naal Sohniye",
       "url": "https://open.spotify.com/track/2SX3bb1ddCAnsOMpUmbzU0"
+    },
+    {
+      "album": {
+        "name": "Narazgi",
+        "url": "https://open.spotify.com/album/51Lfzob6ctlDlGxlXsACry"
+      },
+      "artists": [
+        {
+          "name": "Simar Arora",
+          "url": "https://open.spotify.com/artist/4ODm58o7bMUEmYsJ7gZUTo"
+        },
+        {
+          "name": "Nik D Gill",
+          "url": "https://open.spotify.com/artist/0QTPgLFzPPvYIkbtk97jAq"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193888,
+      "name": "Narazgi",
+      "url": "https://open.spotify.com/track/1DNNXxLnvlknSQjRNbEq2e"
     },
     {
       "album": {
@@ -3278,6 +3428,24 @@
       "duration_ms": 137394,
       "name": "Nazare",
       "url": "https://open.spotify.com/track/1VAkwCW8KAa8z0IYRGYHJf"
+    },
+    {
+      "album": {
+        "name": "Never Ever",
+        "url": "https://open.spotify.com/album/6w7dQqWHixZc1nmolh4SUw"
+      },
+      "artists": [
+        {
+          "name": "RANA",
+          "url": "https://open.spotify.com/artist/4XYO2OD43QE2SXgzQ28KbG"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/5NctmxcJxmKO0uU0Drqpk2"
     },
     {
       "album": {
@@ -3950,7 +4118,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 148086,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/1uDnIfdR3yG8EqGOg5WmDy"
@@ -4112,7 +4280,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 166478,
       "name": "Sone Rangi",
       "url": "https://open.spotify.com/track/76USUQdoho7vc56xSwckxq"
@@ -4174,7 +4342,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 141666,
       "name": "Stakes",
       "url": "https://open.spotify.com/track/654UNZK2CFVFHeNCRwenkX"
@@ -4721,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/15DpAAs8BjGa9FjtGwIcjI"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Jatt",
+          "url": "https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157208,
+      "name": "Untold",
+      "url": "https://open.spotify.com/track/1jjl51M0O1cyhcnCgK7qV3"
+    },
+    {
+      "album": {
         "name": "Vair",
         "url": "https://open.spotify.com/album/1SG1dcARo6gHSFhqrGe77J"
       },
@@ -4990,6 +5176,28 @@
       "duration_ms": 139298,
       "name": "Wow",
       "url": "https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve"
+    },
+    {
+      "album": {
+        "name": "Yaadan Teriyan",
+        "url": "https://open.spotify.com/album/67CjIDYe7s4QR3yCW5APlW"
+      },
+      "artists": [
+        {
+          "name": "Tajinder Singh",
+          "url": "https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG"
+        },
+        {
+          "name": "Bhanu Singh",
+          "url": "https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "Yaadan Teriyan",
+      "url": "https://open.spotify.com/track/7Bp6RPuq8lrWBVk07YzDdH"
     },
     {
       "album": {

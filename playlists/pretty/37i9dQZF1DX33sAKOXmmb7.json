@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 76938,
+  "num_followers": 76949,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 239881,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 194186,
       "name": "I Have Been to the Mountain",
       "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Shallow Grave",
-        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 257519,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 180693,
       "name": "Small Hands",
       "url": "https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Phosphorescent Blues",
+        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 326493,
+      "name": "Julep",
+      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "In the Silence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "King and Cross",
+      "url": "https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 305626,
       "name": "Advanced Falconry",
       "url": "https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "In the Silence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "King and Cross",
-      "url": "https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
       "artists": [
         {
-          "name": "Amen Dunes",
-          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 346493,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
+      },
+      "artists": [
+        {
+          "name": "Amen Dunes",
+          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        }
+      ],
+      "duration_ms": 346493,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 191266,
       "name": "Distant Sures",
       "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "The Following Mountain",
+        "url": "https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Juma Mountain",
+      "url": "https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Double Exposure",
         "url": "https://open.spotify.com/album/2jo7IGwlPck7zYmV225wp3"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 392893,
       "name": "Down Down The Deep River",
       "url": "https://open.spotify.com/track/6FyokYpQp8qm3WVPLDIRJP"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "The Following Mountain",
-        "url": "https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Juma Mountain",
-      "url": "https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk"
     }
   ],
   "unique_name": "10s Indie Folk",

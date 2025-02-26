@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 38433,
+  "num_followers": 38431,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 367773,
+      "name": "Que Baje la Nube",
+      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "A Family Christmas",
         "url": "https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 119906,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 367773,
-      "name": "Que Baje la Nube",
-      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "El Burrito De Bel\u00e9n",
-      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Cristianos Vayamos",
-        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
-      },
-      "artists": [
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "Cristianos Vayamos",
-      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272250,
       "name": "Buscando Al Rey",
       "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Jes\u00fas Naci\u00f3",
-        "url": "https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR"
-      },
-      "artists": [
-        {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
-        }
-      ],
-      "duration_ms": 228454,
-      "name": "Jes\u00fas Naci\u00f3",
-      "url": "https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "El Mejor Regalo",
         "url": "https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 184448,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Jes\u00fas Naci\u00f3",
+        "url": "https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR"
+      },
+      "artists": [
+        {
+          "name": "Nxtwave",
+          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+        }
+      ],
+      "duration_ms": 228454,
+      "name": "Jes\u00fas Naci\u00f3",
+      "url": "https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Mi Salvador",
-        "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
-      },
-      "artists": [
-        {
-          "name": "Familia Emanuel Worship",
-          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
-        }
-      ],
-      "duration_ms": 247330,
-      "name": "Mi Salvador",
-      "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Esta Navidad Eres Tu",
         "url": "https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 276128,
       "name": "Esta Navidad Eres Tu",
       "url": "https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Mi Salvador",
+        "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
+      },
+      "artists": [
+        {
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
+        }
+      ],
+      "duration_ms": 247330,
+      "name": "Mi Salvador",
+      "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Se Oye el Anuncio",
-        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Rosa",
-          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "Se Oye el Anuncio",
-      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 192078,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Se Oye el Anuncio",
+        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Rosa",
+          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "Se Oye el Anuncio",
+      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Lo Que Quiero Dar",
+        "url": "https://open.spotify.com/album/50cFEKt1gJlJH2g01I4wCt"
+      },
+      "artists": [
+        {
+          "name": "Levi7as",
+          "url": "https://open.spotify.com/artist/1J1BOHiW4Z5DKgWORDUa8t"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Lo Que Quiero Dar",
+      "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Venid Fieles Todos",
         "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
       },
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Lo Que Quiero Dar",
-        "url": "https://open.spotify.com/album/50cFEKt1gJlJH2g01I4wCt"
-      },
-      "artists": [
-        {
-          "name": "Levi7as",
-          "url": "https://open.spotify.com/artist/1J1BOHiW4Z5DKgWORDUa8t"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Lo Que Quiero Dar",
-      "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8"
       },
@@ -1607,6 +1607,30 @@
       "duration_ms": 169230,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr"
+      },
+      "artists": [
+        {
+          "name": "Juan Aponte",
+          "url": "https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ"
+        },
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "duration_ms": 214068,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1647,30 +1671,6 @@
       "duration_ms": 207530,
       "name": "T\u00fa Eres la Luz Noche de Paz (Bonus Track) [Live]",
       "url": "https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr"
-      },
-      "artists": [
-        {
-          "name": "Juan Aponte",
-          "url": "https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ"
-        },
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
-        }
-      ],
-      "duration_ms": 214068,
-      "name": "La Promesa",
-      "url": "https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A"
+      },
+      "artists": [
+        {
+          "name": "Michael Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "Pasen La Navidad Conmigo",
+      "url": "https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "CHRISTMAS WITH FRIENDS",
         "url": "https://open.spotify.com/album/2LaGLXCOEdRF37oogLRDe6"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 157289,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "The Ultimate Christmas Collection",
-        "url": "https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A"
-      },
-      "artists": [
-        {
-          "name": "Michael Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "Pasen La Navidad Conmigo",
-      "url": "https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE"
     },
     {
       "added_at": "2024-12-13 04:11:31",

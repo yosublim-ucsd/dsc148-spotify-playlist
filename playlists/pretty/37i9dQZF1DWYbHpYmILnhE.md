@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Pretty Boy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,541 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,560 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OYO \(Own Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
+| 1 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 |
 | 2 | [Kalambolo \- Remix](https://open.spotify.com/track/2yne9y4tJOESXZJ4IHKTFr) | [EEZZ](https://open.spotify.com/artist/1Oq5k0FmnhtFz3cwLpmGea), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Moefasa](https://open.spotify.com/artist/6tQT0z3D3FhNlojteLj5Mj), [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Kalambolo \(Remix\)](https://open.spotify.com/album/62N4hfLDM2styn220eRTmB) | 3:15 |
 | 3 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 |
 | 4 | [JAIYE EVERYDAY](https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:01 |

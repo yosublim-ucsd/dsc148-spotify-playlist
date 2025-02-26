@@ -3291,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Perfect (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7e5oQEy3tCFFY53HRJqZCe"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Martins",
+          "url": "https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Perfect - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/1QsTMEruwcaYNMVF2qzq6E"
+    },
+    {
+      "album": {
         "name": "Photograph",
         "url": "https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv"
       },

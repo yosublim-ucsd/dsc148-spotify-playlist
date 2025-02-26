@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,365 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,371 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [DizQNão](https://open.spotify.com/track/446WIEpimoONd4nhSOo9SO) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [DizQNão](https://open.spotify.com/album/7kag3l18weyyYP6HlQpMnv) | 3:08 |
 | 75 | [CARA DI CRIA \#3](https://open.spotify.com/track/0JSa7bgwk3BQaa53vk24Oq) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [CARA DI CRIA \#3](https://open.spotify.com/album/6fBC8O8X7NRy1GBAyxpdDN) | 2:26 |
 
-Snapshot ID: `Z7yK4QAAAAB3DQmACdQpQaZHL4qQLB9e`
+Snapshot ID: `Z7yK4QAAAAAbQQiiQl+cG2PoNaTVCW5t`

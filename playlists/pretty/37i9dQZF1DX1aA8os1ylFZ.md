@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,206 likes - 87 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,199 likes - 87 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 50 | [Lying \(feat\. Dylan Sinclair\)](https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 4:41 |
 | 51 | [Glad You Came](https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV) | 2:25 |
 | 52 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
-| 53 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
-| 54 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
+| 53 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
+| 54 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
 | 55 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
 | 56 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 57 | [Space and Pussy](https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Space and Pussy](https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw) | 2:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 70 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
 | 71 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
 | 72 | [T.X.C.](https://open.spotify.com/track/0ybTysZ1qJTtDPlwmBlVSA) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Imani](https://open.spotify.com/album/6nHwUkyiI7jTSbFn8CujXW) | 2:26 |
-| 73 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
-| 74 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
+| 73 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
+| 74 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
 | 75 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
 | 76 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |
 | 77 | [Blessings](https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Blessings](https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr) | 2:13 |

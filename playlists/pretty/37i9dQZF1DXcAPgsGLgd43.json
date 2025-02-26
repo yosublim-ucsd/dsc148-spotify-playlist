@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 68509,
+  "num_followers": 68611,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
         "name": "Vente",
         "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 175040,
       "name": "Bandolera (feat. Buza)",
       "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
-        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Sinatra",
-          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
-        },
-        {
-          "name": "Joe Mangione",
-          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
-        }
-      ],
-      "duration_ms": 167578,
-      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
-      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1587,18 +1587,26 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+        "name": "Ta Sendo",
+        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+      "duration_ms": 203809,
+      "name": "Ta Sendo",
+      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1631,26 +1639,18 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Ta Sendo",
-        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 203809,
-      "name": "Ta Sendo",
-      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
         "name": "Sombrerito Blanco",
         "url": "https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 202204,
       "name": "Lindos Ojos",
       "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        },
-        {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     },
     {
       "added_at": "2025-02-21 05:00:38",
@@ -1931,30 +1931,6 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
         "name": "OBSESION",
         "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
       },
@@ -1999,6 +1975,30 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
         "name": "Tu Sabor",
         "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2025-02-21 05:00:38",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
         "name": "Bidi Bam",
         "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 120930,
       "name": "Bidi Bam",
       "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
-    },
-    {
-      "added_at": "2025-02-21 05:00:38",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
     },
     {
       "added_at": "2025-02-21 05:00:38",

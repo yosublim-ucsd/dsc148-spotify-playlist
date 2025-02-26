@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Ara Johari
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,609 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,731 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 50 | [BEKU](https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [BEKU](https://open.spotify.com/album/3oomzTIjDBNe31XMtjutZg) | 3:26 |
 
-Snapshot ID: `Z7gIZQAAAABm5ctaQgD/UJG2gwfL0T6t`
+Snapshot ID: `Z7gIZQAAAACq5MM2/KqOp4VneAweVCGU`

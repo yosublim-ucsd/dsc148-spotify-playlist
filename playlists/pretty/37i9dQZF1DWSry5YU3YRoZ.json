@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 6810,
+  "num_followers": 6817,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "love letter",
-        "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
-      },
-      "artists": [
-        {
-          "name": "RYU MIN HEE",
-          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "love letter",
-      "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Like a tree",
         "url": "https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 295889,
       "name": "Like a tree",
       "url": "https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "love letter",
+        "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
+      },
+      "artists": [
+        {
+          "name": "RYU MIN HEE",
+          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "love letter",
+      "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "Summer Inn.",
-        "url": "https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3"
-      },
-      "artists": [
-        {
-          "name": "JOONIL JUNG",
-          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "Summer christmas",
-      "url": "https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "\ub0a8\ud574",
         "url": "https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 247000,
       "name": "Sparkling Sunshine",
       "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "Summer Inn.",
+        "url": "https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "Summer christmas",
+      "url": "https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4"
     },
     {
       "added_at": "2024-11-29 09:47:11",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Gaia Banfi</a>",
+  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Sbazzee</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Bellezza",
+        "url": "https://open.spotify.com/album/1EiMeZCO4CH806XE15gc9E"
+      },
+      "artists": [
+        {
+          "name": "Cusu",
+          "url": "https://open.spotify.com/artist/694sp2sd59eYihuAGcQpPc"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Bellezza",
+      "url": "https://open.spotify.com/track/7IdxiU3MFOS0QD6xXyJN9q"
+    },
+    {
+      "album": {
         "name": "Berlino",
         "url": "https://open.spotify.com/album/36PeW7WZE4KZtSrLQmi2U9"
       },
@@ -3906,6 +3924,24 @@
       "duration_ms": 211986,
       "name": "Caff\u00e8 ft Lula",
       "url": "https://open.spotify.com/track/2RaOpJki4G57Yn2ilCGoBB"
+    },
+    {
+      "album": {
+        "name": "Calcinculo",
+        "url": "https://open.spotify.com/album/7jL1irNcXI3WGcbsXqcPie"
+      },
+      "artists": [
+        {
+          "name": "reemo",
+          "url": "https://open.spotify.com/artist/6xK3oqbRDvwUNAnwOjBO1p"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218091,
+      "name": "Calcinculo",
+      "url": "https://open.spotify.com/track/0inIKjijzO9bxDH9gEuUQv"
     },
     {
       "album": {
@@ -4852,6 +4888,24 @@
       "duration_ms": 205020,
       "name": "Che Delusione",
       "url": "https://open.spotify.com/track/03cQhtyevyrvWTMxHgkII2"
+    },
+    {
+      "album": {
+        "name": "Che male c'\u00e8?",
+        "url": "https://open.spotify.com/album/68hRiUtlWStcxPi6MQduFh"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6ly",
+          "url": "https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Che male c'\u00e8?",
+      "url": "https://open.spotify.com/track/7dV5IhoorEN6HzOqIkPyjt"
     },
     {
       "album": {
@@ -6719,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Dimmelo",
+        "url": "https://open.spotify.com/album/6iK5a7e5OkjoCoEMCGL7YN"
+      },
+      "artists": [
+        {
+          "name": "MARLA",
+          "url": "https://open.spotify.com/artist/4ROLtTiD6uc8aPq6UDCsBC"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156519,
+      "name": "Dimmelo",
+      "url": "https://open.spotify.com/track/6CaiYTSzWsLvZQ5aFPHT5K"
+    },
+    {
+      "album": {
         "name": "Dimmi come fai",
         "url": "https://open.spotify.com/album/0y4h9INQaAM2V9qcyc04Ea"
       },
@@ -6814,6 +6886,24 @@
       "duration_ms": 165831,
       "name": "DIRTI DI NO",
       "url": "https://open.spotify.com/track/1AbtuUj9nG8R41uNB03UQe"
+    },
+    {
+      "album": {
+        "name": "Disastro \u25b1",
+        "url": "https://open.spotify.com/album/3ChD9Aytq0snZlFIkt7dM5"
+      },
+      "artists": [
+        {
+          "name": "Alberi Alti",
+          "url": "https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Disastro \u25b1",
+      "url": "https://open.spotify.com/track/4UFNSUnEgFT6kKdFH0zCeX"
     },
     {
       "album": {
@@ -9284,7 +9374,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 202199,
       "name": "FUTURO/tempo perso",
       "url": "https://open.spotify.com/track/3AyZP9CpvrlNdXzv1cpQGb"
@@ -9430,6 +9520,28 @@
       "duration_ms": 190500,
       "name": "Gas",
       "url": "https://open.spotify.com/track/0SrykZetHdJtmDDtFXEiJM"
+    },
+    {
+      "album": {
+        "name": "GAS!",
+        "url": "https://open.spotify.com/album/1p279ILFyC1kE3NdqFC9i5"
+      },
+      "artists": [
+        {
+          "name": "daze+",
+          "url": "https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT"
+        },
+        {
+          "name": "+sudore",
+          "url": "https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156789,
+      "name": "GAS!",
+      "url": "https://open.spotify.com/track/0JzIrz3i8sfas9otFUGG61"
     },
     {
       "album": {
@@ -9679,6 +9791,50 @@
     },
     {
       "album": {
+        "name": "GOCCE",
+        "url": "https://open.spotify.com/album/57yHS4bmlrUZqM2u9h4ypl"
+      },
+      "artists": [
+        {
+          "name": "lillilillililli",
+          "url": "https://open.spotify.com/artist/1TGW9wdYRJJefowQooycXh"
+        },
+        {
+          "name": "palwa",
+          "url": "https://open.spotify.com/artist/6QZRZ9p0aenJjODtnS9O6E"
+        },
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142977,
+      "name": "GOCCE",
+      "url": "https://open.spotify.com/track/4mTJ3t2mTPh01CZRPP0Aiu"
+    },
+    {
+      "album": {
+        "name": "Gocce",
+        "url": "https://open.spotify.com/album/12JLnKlWN4ykO4wINtRNaA"
+      },
+      "artists": [
+        {
+          "name": "ventitrevoltemario",
+          "url": "https://open.spotify.com/artist/6w0NvwmzOqPi8nvb7URfdo"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166196,
+      "name": "Gocce",
+      "url": "https://open.spotify.com/track/3SEae5NvhxHrZyU7DkpCEF"
+    },
+    {
+      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO"
       },
@@ -9774,7 +9930,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 174000,
       "name": "Graffi",
       "url": "https://open.spotify.com/track/3bfvRLYLXBoIljgWt0A31t"
@@ -10652,7 +10808,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 191842,
       "name": "Il kiwi australe",
       "url": "https://open.spotify.com/track/153l4lmTyCjtnJ6g7U81bt"
@@ -17018,7 +17174,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 153289,
       "name": "NON \u00c8 DOMENICA",
       "url": "https://open.spotify.com/track/2OCnhdAKQOUKFcILscyAcU"
@@ -17044,6 +17200,28 @@
       "duration_ms": 159081,
       "name": "non \u00e8 giusto x me",
       "url": "https://open.spotify.com/track/53AQEs95pYSoBeOJXkvvvU"
+    },
+    {
+      "album": {
+        "name": "Non \u00c8 Normale (feat Yele)",
+        "url": "https://open.spotify.com/album/2pWvggcUEnolHTjjO9KG7I"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        },
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Non \u00c8 Normale (feat Yele)",
+      "url": "https://open.spotify.com/track/536RGaYKYdbV69tB8TzbLz"
     },
     {
       "album": {
@@ -17168,6 +17346,24 @@
       "duration_ms": 166649,
       "name": "NOSTALGIA",
       "url": "https://open.spotify.com/track/4nRVnLPj9mwuXciqhgANN3"
+    },
+    {
+      "album": {
+        "name": "nostalgia3000",
+        "url": "https://open.spotify.com/album/6wtLFKhJHvf3kTBGnzVBCa"
+      },
+      "artists": [
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132286,
+      "name": "nostalgia3000",
+      "url": "https://open.spotify.com/track/67Y8CZzT6wykyO5l5Uq6Ex"
     },
     {
       "album": {
@@ -18076,7 +18272,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 158858,
       "name": "Paes\u00e0",
       "url": "https://open.spotify.com/track/7ENhSMmdcTEnRilN7jrxaE"
@@ -20452,7 +20648,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 174306,
       "name": "Questa citt\u00e0",
       "url": "https://open.spotify.com/track/6CSABT7uNa6PT8Uj39lFmW"
@@ -20576,7 +20772,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 139842,
       "name": "Ragni",
       "url": "https://open.spotify.com/track/0yLSfJqNZj3ivJRu3NAHFl"
@@ -21791,6 +21987,24 @@
     },
     {
       "album": {
+        "name": "scatole vuote",
+        "url": "https://open.spotify.com/album/6iwbz4t7lV95uWjFy732ut"
+      },
+      "artists": [
+        {
+          "name": "Tocka",
+          "url": "https://open.spotify.com/artist/1XPiLkWgALxMZ3jC7ytz9w"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164153,
+      "name": "scatole vuote",
+      "url": "https://open.spotify.com/track/3H92ZZivdSV3XTHwsAN437"
+    },
+    {
+      "album": {
         "name": "Scatoletta<3",
         "url": "https://open.spotify.com/album/0KkaOX9ZUoiqq7F7VgnCNS"
       },
@@ -22164,6 +22378,24 @@
       "duration_ms": 154169,
       "name": "Semafori arancioni",
       "url": "https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB"
+    },
+    {
+      "album": {
+        "name": "SENSAZIONALE!",
+        "url": "https://open.spotify.com/album/34TmNhzAQqVJvsdUb44pqi"
+      },
+      "artists": [
+        {
+          "name": "RYEL",
+          "url": "https://open.spotify.com/artist/38Xj1qE3vKhHTLk6hvoo8w"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "SENSAZIONALE!",
+      "url": "https://open.spotify.com/track/4igvak5O51abdmaVvWOFUK"
     },
     {
       "album": {
@@ -22978,7 +23210,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 150361,
       "name": "soli//sobri",
       "url": "https://open.spotify.com/track/5EO2pVWLkUryTWfvMN15sz"
@@ -24381,6 +24613,24 @@
     },
     {
       "album": {
+        "name": "Swan",
+        "url": "https://open.spotify.com/album/5uGk55YY5IP1i4EMnWv5EP"
+      },
+      "artists": [
+        {
+          "name": "Emilya Ndme",
+          "url": "https://open.spotify.com/artist/7hAJreIB9WlIrZ9pZ6XeyN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188190,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/40dbl2aFXRZHNPOdFvype9"
+    },
+    {
+      "album": {
         "name": "T-RIP",
         "url": "https://open.spotify.com/album/3a1dHwhl6TJuiWQRsI0L7p"
       },
@@ -25314,6 +25564,24 @@
       "duration_ms": 176000,
       "name": "troppo presto",
       "url": "https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk"
+    },
+    {
+      "album": {
+        "name": "TR\u00c8S JOLIE",
+        "url": "https://open.spotify.com/album/5C8hjdnU2OKb2bxnI4h4R4"
+      },
+      "artists": [
+        {
+          "name": "CORSO ITALIA",
+          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172399,
+      "name": "TR\u00c8S JOLIE",
+      "url": "https://open.spotify.com/track/1JXKz4JVlfgIDM4yQwXICy"
     },
     {
       "album": {
@@ -27118,7 +27386,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 190404,
       "name": "What is Real",
       "url": "https://open.spotify.com/track/195vtBaixkaHqocCEKB9ZU"

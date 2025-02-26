@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Keisya Levronka
 
-325 songs - 21 hr 31 min
+326 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2024-01-26 | 2024-02-02 |
 | [Kamu Adalah](https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kamu Adalah](https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo) | 4:46 | 2024-02-09 | 2024-04-12 |
 | [Kamu Saja \- Kotakustik](https://open.spotify.com/track/7IcMiy5E4OvulOWoAuY1pD) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Kamu Saja \(Kotakustik\)](https://open.spotify.com/album/4rIX9raJPYv4CCEbqmvi2d) | 3:47 | 2024-06-27 | 2024-08-09 |
+| [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 | 2025-02-25 |  |
 | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h) | 3:58 | 2024-01-26 | 2024-05-24 |
 | [Kasmaran](https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Kasmaran](https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5) | 4:21 | 2024-11-07 | 2025-01-24 |
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 | 2024-05-03 |

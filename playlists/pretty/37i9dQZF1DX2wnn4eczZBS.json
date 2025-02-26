@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Joost & Spinvis",
-  "num_followers": 9909,
+  "num_followers": 9912,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-02-20 23:00:17",
       "album": {
+        "name": "Marlboro Rood",
+        "url": "https://open.spotify.com/album/5wgh4F5UvFecOsjLGXXuxd"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 191504,
+      "name": "Marlboro Rood",
+      "url": "https://open.spotify.com/track/4AkQUl0cEU858gwomf7PNg"
+    },
+    {
+      "added_at": "2025-02-20 23:00:17",
+      "album": {
         "name": "Weekenden",
         "url": "https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2025-02-20 23:00:17",
       "album": {
-        "name": "Marlboro Rood",
-        "url": "https://open.spotify.com/album/5wgh4F5UvFecOsjLGXXuxd"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 191504,
-      "name": "Marlboro Rood",
-      "url": "https://open.spotify.com/track/4AkQUl0cEU858gwomf7PNg"
-    },
-    {
-      "added_at": "2025-02-20 23:00:17",
-      "album": {
         "name": "Gebroken Spiegel",
         "url": "https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2"
       },
@@ -759,38 +759,6 @@
     {
       "added_at": "2025-02-20 23:00:17",
       "album": {
-        "name": "Privilege",
-        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
-      },
-      "artists": [
-        {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Privilege",
-      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
-    },
-    {
-      "added_at": "2025-02-20 23:00:17",
-      "album": {
-        "name": "Lach",
-        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Lach",
-      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:17",
-      "album": {
         "name": "David Bowie/Beckham",
         "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 157752,
       "name": "Nieuw Begin",
       "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+    },
+    {
+      "added_at": "2025-02-20 23:00:17",
+      "album": {
+        "name": "Lach",
+        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Lach",
+      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:17",
+      "album": {
+        "name": "Privilege",
+        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
+      },
+      "artists": [
+        {
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Privilege",
+      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
     },
     {
       "added_at": "2025-02-20 23:00:17",

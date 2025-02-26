@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 144205,
+  "num_followers": 144257,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Spin Spin Sugar",
         "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
       },
@@ -1011,22 +1031,6 @@
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "90 Discomania",
-        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 453880,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+        "name": "90 Discomania",
+        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        },
-        {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+      "duration_ms": 453880,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
     },
     {
       "added_at": "2021-07-14 17:36:34",

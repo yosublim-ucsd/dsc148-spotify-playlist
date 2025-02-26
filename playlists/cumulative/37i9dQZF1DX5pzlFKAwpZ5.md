@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-291 songs - 21 hr 44 min
+292 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
+| [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 | 2024-03-07 | 2025-01-25 |
 | [A Tale](https://open.spotify.com/track/0RwP29TYIWlQh6uvkyGT9y) | [Synergetic Voice Orchestra](https://open.spotify.com/artist/5shpMTYrRn3zNZsbvG5i3p) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi) | 5:35 | 2022-12-30 | 2024-04-19 |
 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2022-01-07 | 2022-10-01 |
@@ -200,7 +201,7 @@
 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 | 2022-12-30 | 2024-04-19 |
 | [Seiko 2](https://open.spotify.com/track/7vRbhipDnha1XKNlsEeIVr) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music for Commercials](https://open.spotify.com/album/6769wncEGDC4eRl66lcrpi) | 1:08 | 2024-03-07 | 2025-01-14 |
 | [Seiko 3](https://open.spotify.com/track/6SIBardoRzJ6gSxRS6rfH6) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:19 | 2022-12-30 |  |
-| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 |  |
+| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/01CmlNGcKb7UblwhQJ75A8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/1H2S9hCMFvYTd0S98LPZBP) | 3:45 | 2024-03-07 | 2025-02-26 |
 | [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2022-12-30 | 2024-04-19 |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 |  |

@@ -1635,6 +1635,36 @@
     },
     {
       "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV"
+    },
+    {
+      "album": {
         "name": "Dvo\u0159\u00e1k: Serenade for Strings, Czech Suite",
         "url": "https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT"
       },

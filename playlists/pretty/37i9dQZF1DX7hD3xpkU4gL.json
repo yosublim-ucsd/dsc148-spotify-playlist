@@ -1,6 +1,6 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 476739,
+  "num_followers": 476804,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
+        "name": "Mentiras sinceras",
+        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Estar contigo",
+      "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
-        "name": "Mentiras sinceras",
-        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Estar contigo",
-      "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
     },
     {
       "added_at": "2025-02-07 08:52:35",

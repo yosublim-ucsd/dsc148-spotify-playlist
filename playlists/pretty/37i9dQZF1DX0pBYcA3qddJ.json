@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Carl Philipp Emanuel Bach",
-        "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 180880,
-      "name": "W\u00fcrttemberg Sonatas / Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
-      "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "C.P.E. Bach: The W\u00fcrttemberg Sonatas",
+        "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 180880,
+      "name": "W\u00fcrttemberg Sonatas / Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
+      "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
     },
     {
       "added_at": "2024-05-30 15:22:47",

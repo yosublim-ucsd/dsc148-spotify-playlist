@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,372 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,504 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 71 | [Our Love Is Here To Stay](https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Imperious Dinah Washington](https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK) | 2:34 |
 | 72 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 |
 | 73 | [You Turned The Tables On Me](https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:43 |
-| 74 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
-| 75 | [Embraceable You](https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brownie: The Complete EmArcy Recordings Of Clifford Brown](https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra) | 3:01 |
+| 74 | [Embraceable You](https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brownie: The Complete EmArcy Recordings Of Clifford Brown](https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra) | 3:01 |
+| 75 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
 | 76 | [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 |
 | 77 | [Yesterdays](https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 6:00 |
 | 78 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 86 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 87 | [There Is No Greater Love](https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:53 |
 | 88 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |
-| 89 | [Gee Baby, Ain't I Good To You \- Remastered/2000](https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 5:23 |
-| 90 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
+| 89 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
+| 90 | [Gee Baby, Ain't I Good To You \- Remastered/2000](https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 5:23 |
 | 91 | [Time On My Hands](https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:18 |
 | 92 | [How Long Has This Been Going On?](https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [The Classic Lena Horne](https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm) | 3:23 |
 | 93 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |

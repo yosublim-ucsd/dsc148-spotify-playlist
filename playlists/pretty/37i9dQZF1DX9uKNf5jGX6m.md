@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,230 likes - 200 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999,605 likes - 200 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 199 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 |
 | 200 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 |
 
-Snapshot ID: `Z66/ygAAAAAMZaywI4988AOm0grhn4TX`
+Snapshot ID: `Z66/ygAAAAAidpewSO/AxjcLhnvoQn0A`

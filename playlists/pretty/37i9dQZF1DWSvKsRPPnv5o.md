@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,891 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,984 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 27 | [Paid N Full](https://open.spotify.com/track/3REpr1UkjBwH8SH882OCyB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Paid N Full](https://open.spotify.com/album/0VCSuK23ItA0Z5zftN1JoX) | 2:11 |
 | 28 | [Whatx2](https://open.spotify.com/track/7CEdffPYhBOsNmGB5C0P86) | [Az Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Whatx2](https://open.spotify.com/album/0FryGWdXbmeUI4ZsVAN6KI) | 2:36 |
 | 29 | [Gangsters Get Scared \(feat\. Wallie the Sensei\)](https://open.spotify.com/track/3mSrOGyHnqhrD1507Q3CLf) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Gangsters Get Scared \(feat\. Wallie the Sensei\)](https://open.spotify.com/album/0YDsN3iPIbv8qTV5D9FgtY) | 3:16 |
-| 30 | [4 shots of your body](https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [4 shots of your body](https://open.spotify.com/album/7wB1tq2QocDBUK03Rk5AfG) | 2:44 |
+| 30 | [4 Shots Of Your Body](https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [4 shots of your body](https://open.spotify.com/album/7wB1tq2QocDBUK03Rk5AfG) | 2:44 |
 | 31 | [Generation](https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 4:16 |
 | 32 | [Party On The Westside](https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Party On The Westside](https://open.spotify.com/album/6nVmBvD9jQfTILcWkFT50r) | 3:29 |
 | 33 | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [STAY SAFE](https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BlueBucksClan](https://open.spotify.com/artist/04gIf2ntjvCBuhkFrkeiqH), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 3:02 |
 | 100 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 
-Snapshot ID: `Z7gIYQAAAAC0wvluBss7WIo1gRsAJk40`
+Snapshot ID: `Z7gIYQAAAABVmG8EGL6ACKZar8PIGsFE`

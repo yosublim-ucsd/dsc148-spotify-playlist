@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 103017,
+  "num_followers": 103075,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Sings Just One Look And Other Memorable Selections",
-        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
-      },
-      "artists": [
-        {
-          "name": "Doris Troy",
-          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "Just One Look",
-      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Sings Just One Look And Other Memorable Selections",
+        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+      },
+      "artists": [
+        {
+          "name": "Doris Troy",
+          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "Just One Look",
+      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        },
-        {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
-        }
-      ],
-      "duration_ms": 437933,
-      "name": "Fire And Desire",
-      "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Workin' On A Groovy Thing....The Best Of",
         "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 289240,
       "name": "The Agony And The Ecstasy",
       "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        },
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "duration_ms": 437933,
+      "name": "Fire And Desire",
+      "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
-        "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
         "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 357360,
       "name": "Silly",
       "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
+        "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "The Essential Deniece Williams (The Columbia Years)",
+        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 177333,
       "name": "What Love Has Joined Together - Single Version",
       "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "The Essential Deniece Williams (The Columbia Years)",
-        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
       "artists": [
         {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Let's Fall In Love",
         "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 154706,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1739,6 +1723,22 @@
       "duration_ms": 251964,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
-        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
-      },
-      "artists": [
-        {
-          "name": "Lizette & Quevin",
-          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Grow Forever",
-      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Maybe It's Time",
         "url": "https://open.spotify.com/album/4VzG7pkJyHbjnz5mTWyrKS"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 211865,
       "name": "Maybe It's Time",
       "url": "https://open.spotify.com/track/4Gy2mnEllofZbpi9ITuWpV"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
+        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
+      },
+      "artists": [
+        {
+          "name": "Lizette & Quevin",
+          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Grow Forever",
+      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2024-08-14 08:31:40",

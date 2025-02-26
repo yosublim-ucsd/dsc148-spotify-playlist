@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 101032,
+  "num_followers": 101028,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
-      },
-      "artists": [
-        {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
         "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 353146,
       "name": "Opening",
       "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "A Letter Home",
         "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 164719,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
-      },
-      "artists": [
-        {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Kardelen",
         "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 167848,
       "name": "Kardelen",
       "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
+      },
+      "artists": [
+        {
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
+        }
+      ],
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Sameness of Phosphorus and Hesperus",
         "url": "https://open.spotify.com/album/2ebbNEtIF6CRJpt1o7B2Kz"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 197678,
       "name": "The Music Box",
       "url": "https://open.spotify.com/track/0q4M2RzupQ3wszvQ6RhLZ5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -935,6 +919,22 @@
       "duration_ms": 76933,
       "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
       "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
-      },
-      "artists": [
-        {
-          "name": "Mark Mintuny",
-          "url": "https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s"
-        }
-      ],
-      "duration_ms": 133879,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
+      },
+      "artists": [
+        {
+          "name": "Mark Mintuny",
+          "url": "https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s"
+        }
+      ],
+      "duration_ms": 133879,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
+      },
+      "artists": [
+        {
+          "name": "Algoth Holmes",
+          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Winter Birds",
+      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 171440,
       "name": "Floating Dreams",
       "url": "https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Way Back Home",
-        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
-      },
-      "artists": [
-        {
-          "name": "Algoth Holmes",
-          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Winter Birds",
-      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Maiestas",
-        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 171452,
-      "name": "Maiestas",
-      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 226500,
       "name": "Palette",
       "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Maiestas",
+        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "duration_ms": 171452,
+      "name": "Maiestas",
+      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
-      },
-      "artists": [
-        {
-          "name": "Jen Libby",
-          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
-        }
-      ],
-      "duration_ms": 148132,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 188500,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
+      },
+      "artists": [
+        {
+          "name": "Jen Libby",
+          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
+        }
+      ],
+      "duration_ms": 148132,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
     },
     {
       "added_at": "2023-03-12 10:18:38",

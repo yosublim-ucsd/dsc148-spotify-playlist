@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vilma Jää.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,311 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,312 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Huutaa](https://open.spotify.com/track/3YcA6ldAK6GZ3jna47UDpq) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Huutaa](https://open.spotify.com/album/4Wf1Vu7WbPXVzENZ7y3umi) | 2:55 |
-| 2 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
-| 3 | [Kuusamo](https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Esa Kotilainen](https://open.spotify.com/artist/2fmZJOTP97iGhwlnOicgEc) | [Kuusamo](https://open.spotify.com/album/5DSctkA40sxfSA6QP0I6rU) | 4:54 |
+| 1 | [Kuusamo](https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Esa Kotilainen](https://open.spotify.com/artist/2fmZJOTP97iGhwlnOicgEc) | [Kuusamo](https://open.spotify.com/album/5DSctkA40sxfSA6QP0I6rU) | 4:54 |
+| 2 | [Huutaa](https://open.spotify.com/track/3YcA6ldAK6GZ3jna47UDpq) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Huutaa](https://open.spotify.com/album/4Wf1Vu7WbPXVzENZ7y3umi) | 2:55 |
+| 3 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
 | 4 | [Action Man \- The Greatest Hero of All](https://open.spotify.com/track/6iPk4LbYViadWPRSxBo9Gv) | [Zombit lomalla](https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm) | [Action Man \- The Greatest Hero of All](https://open.spotify.com/album/4rB0PBzrYciQm8DpuVQIW5) | 3:09 |
-| 5 | [Kun mä tapasin sut](https://open.spotify.com/track/68j4qM1Samyrl7ro8GB1Hc) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Taivaankappaleet](https://open.spotify.com/album/5iHZa3AtOmUaBZUNBiLDi2) | 3:23 |
-| 6 | [Spirals](https://open.spotify.com/track/0avptVPz0m9BTop0E7SE1g) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Spirals](https://open.spotify.com/album/1OZbB6hiP6prMpJgL9oNj2) | 4:06 |
-| 7 | [Paratiisi](https://open.spotify.com/track/7254j7H82ErsbnB91FK3s8) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Varjomaat](https://open.spotify.com/album/6zlWqMwUv7Y3TLTrAw5DUo) | 3:26 |
-| 8 | [Tanssin, tanssin](https://open.spotify.com/track/0n9vyNbrZIcwlfQUGNhSee) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Tanssin, tanssin](https://open.spotify.com/album/0J7Kudlb2cexzj9srKsqbS) | 2:34 |
-| 9 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
+| 5 | [Muuttolintu](https://open.spotify.com/track/5XXSqZd96vY7yNBdblu8EA) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Muuttolintu](https://open.spotify.com/album/05FaWb4qOXOHh2m9kAcIIi) | 3:23 |
+| 6 | [Paratiisi](https://open.spotify.com/track/7254j7H82ErsbnB91FK3s8) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Varjomaat](https://open.spotify.com/album/6zlWqMwUv7Y3TLTrAw5DUo) | 3:26 |
+| 7 | [Kun mä tapasin sut](https://open.spotify.com/track/68j4qM1Samyrl7ro8GB1Hc) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Taivaankappaleet](https://open.spotify.com/album/5iHZa3AtOmUaBZUNBiLDi2) | 3:23 |
+| 8 | [Spirals](https://open.spotify.com/track/0avptVPz0m9BTop0E7SE1g) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Spirals](https://open.spotify.com/album/1OZbB6hiP6prMpJgL9oNj2) | 4:06 |
+| 9 | [Tanssin, tanssin](https://open.spotify.com/track/0n9vyNbrZIcwlfQUGNhSee) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Tanssin, tanssin](https://open.spotify.com/album/0J7Kudlb2cexzj9srKsqbS) | 2:34 |
 | 10 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
 | 11 | [m.o.w.u.](https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [CUM 2](https://open.spotify.com/album/3UbAyb9cYvmo0CbyY9BILA) | 3:06 |
 | 12 | [Mökki keskellä pohjolaa](https://open.spotify.com/track/3XDYPmnr1XzOBaZTk5kx7r) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Mökki keskellä pohjolaa](https://open.spotify.com/album/1sjlYetkFq9K5ncQVinz18) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 84 | [Jos alkaa saan uudelleen](https://open.spotify.com/track/3ETvZjC9p1RV8UHokrjBdM) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a), [Knipi](https://open.spotify.com/artist/4wLgqkai4BYWNKbHcQJi7c) | [Jos alkaa saan uudelleen](https://open.spotify.com/album/3Wg2cVxspa7N5KgXxtC0vC) | 2:17 |
 | 85 | [Kirjokansi](https://open.spotify.com/track/2KBaRWEEMRySHKkn9HvO7z) | [Siinai](https://open.spotify.com/artist/0vhu9sDZ3frYZvyTUJrI2A) | [Tanssi I](https://open.spotify.com/album/7uUbLErkL25yzxp523JnpO) | 7:02 |
 
-Snapshot ID: `Z7emNAAAAADajXANS52Y/+PzcINPWSVu`
+Snapshot ID: `Z727MAAAAABOPasBeHzA4gWTH0LKFrO2`

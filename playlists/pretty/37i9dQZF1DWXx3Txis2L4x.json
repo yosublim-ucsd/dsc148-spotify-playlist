@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 623471,
+  "num_followers": 623518,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 253946,
       "name": "Brick by Boring Brick",
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
         }
       ],
-      "duration_ms": 120506,
-      "name": "Two-Timing Touch and Broken Bones",
-      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -823,6 +807,22 @@
       "duration_ms": 222214,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 120506,
+      "name": "Two-Timing Touch and Broken Bones",
+      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Streetcar",
-      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 247320,
       "name": "Love From The Other Side - Edit",
       "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Streetcar",
+      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Ban All the Music",
-      "url": "https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Truth Decay",
         "url": "https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 253840,
       "name": "Deep Cuts",
       "url": "https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Ban All the Music",
+      "url": "https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "The Trap",
-        "url": "https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj"
-      },
-      "artists": [
-        {
-          "name": "Hushpuppies",
-          "url": "https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "You're Gonna Say Yeah",
-      "url": "https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 193813,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "The Trap",
+        "url": "https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj"
+      },
+      "artists": [
+        {
+          "name": "Hushpuppies",
+          "url": "https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "You're Gonna Say Yeah",
+      "url": "https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO"
     },
     {
       "added_at": "2024-10-08 12:05:02",

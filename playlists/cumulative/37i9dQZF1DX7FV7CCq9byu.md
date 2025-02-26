@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-587 songs - 1 day 5 hr 56 min
+589 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [I Do \(Joni's Song\)](https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [I Do \(Joni's Song\)](https://open.spotify.com/album/5bssbrUysFWfGLBAp0HJ01) | 2:26 | 2025-02-21 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 | 2024-07-27 |
 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 | 2025-02-13 |  |
+| [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4RtFabLO2KuYlxBlgHkg64) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 2:36 | 2025-02-25 |  |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2024-09-27 |
 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-11 | 2024-09-13 |
 | [I Love You, Bye](https://open.spotify.com/track/4hdpm42CRpimwv3QDe3vq9) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Rufus](https://open.spotify.com/artist/2EPGTmE0IO7hv3fljE3qOn) | [I Love You, Bye](https://open.spotify.com/album/490YCL3HcoKj3SDA7vMK8T) | 3:00 | 2024-07-25 | 2024-09-13 |
@@ -448,6 +449,7 @@
 | [Sexy to Someone](https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:27 | 2024-08-06 | 2024-09-13 |
 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-30 |  |
 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 | 2024-08-21 | 2024-09-27 |
+| [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-25 |  |
 | [Show Me What Love Is](https://open.spotify.com/track/3uLYynLG6MmlfSVfzVCYW2) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Show Me What Love Is](https://open.spotify.com/album/1zRpwE0IL3JG04AMI8oZIj) | 3:02 | 2025-02-07 |  |
 | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy) | 2:23 | 2024-06-27 | 2024-07-05 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 |  |

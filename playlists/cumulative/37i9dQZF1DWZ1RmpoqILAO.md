@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation featuring music from Dead Gowns 🌟🌟🌟
+> indie tunes with country experimentation featuring music from Frog 🌟🌟🌟
 
-282 songs - 18 hr 1 min
+283 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-09-27 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-05-19 |  |
 | [Formula One](https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:52 | 2023-04-07 | 2023-12-09 |
+| [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 | 2025-02-25 |  |
 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 | 2025-01-31 |  |
 | [Frontrunner](https://open.spotify.com/track/7fyPSF1N4qfBVx06dlBOqN) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Frontrunner](https://open.spotify.com/album/1scoRqZ90t7FTPSh4I7bCC) | 2:52 | 2025-02-14 |  |
 | [Fruits Of My Labor](https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [World Without Tears](https://open.spotify.com/album/7uLuuklEzDu7xZ8QazIfzu) | 4:48 | 2023-09-22 | 2024-01-13 |
@@ -115,7 +116,7 @@
 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-06-12 |  |
 | [Going For Oysters](https://open.spotify.com/track/2qJZU5QeYYYiPtlSd58qBH) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Going For Oysters](https://open.spotify.com/album/6JhI0FY95G2Q8Of2J0T9Ln) | 4:36 | 2023-12-01 | 2024-05-04 |
 | [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 | 2023-07-28 |  |
-| [Golden](https://open.spotify.com/track/3BlaXTdNPVK7vY5ZZ77a8P) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Golden](https://open.spotify.com/album/0OPrSPN3QowybcknHv7dgq) | 3:56 | 2025-01-24 |  |
+| [Golden](https://open.spotify.com/track/3BlaXTdNPVK7vY5ZZ77a8P) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Golden](https://open.spotify.com/album/0OPrSPN3QowybcknHv7dgq) | 3:56 | 2025-01-24 | 2025-02-26 |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-06-12 |  |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 | 2024-05-04 |
 | [Good Ol Days](https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:54 | 2023-12-08 | 2024-03-30 |
@@ -162,7 +163,7 @@
 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2023-06-26 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-09-22 | 2024-11-16 |
 | [Kitchen](https://open.spotify.com/track/52S4b4JkoeKrCRRKjzPHKW) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Kitchen](https://open.spotify.com/album/4TLfQi0tOtBdRw5VTEMa5B) | 2:45 | 2024-07-26 |  |
-| [Knew You Well](https://open.spotify.com/track/4PTlKir77x1tXQtecD3SuH) | [Art Lown](https://open.spotify.com/artist/1XRrYWnoRIqMuQHq1npqSK) | [Piper Oz the Hound](https://open.spotify.com/album/54rzBakpjehfLizsXAdV6H) | 2:18 | 2024-11-15 |  |
+| [Knew You Well](https://open.spotify.com/track/4PTlKir77x1tXQtecD3SuH) | [Art Lown](https://open.spotify.com/artist/1XRrYWnoRIqMuQHq1npqSK) | [Piper Oz the Hound](https://open.spotify.com/album/54rzBakpjehfLizsXAdV6H) | 2:18 | 2024-11-15 | 2025-02-26 |
 | [Knockin \- Single Version](https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin](https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN) | 3:23 | 2023-08-11 | 2023-12-09 |
 | [Krawn the Destroyer](https://open.spotify.com/track/0kSs2zmoa2t9YrXzEDHSYJ) | [Sexy Girls](https://open.spotify.com/artist/2Mjqb4HQpRBuDjn84nOYS9) | [Satan's Hands](https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ) | 5:58 | 2023-05-19 | 2024-06-22 |
 | [Lamplight](https://open.spotify.com/track/473SizAMoQBwQXdnF3dhnu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Lamplight](https://open.spotify.com/album/1vqxyUR8okdL1W0KIPvE4d) | 4:23 | 2023-06-30 | 2024-06-08 |
@@ -192,7 +193,7 @@
 | [Not My Body](https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 4:11 | 2023-04-28 |  |
 | [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 | 2024-03-25 |  |
 | [On My Mind](https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [On My Mind](https://open.spotify.com/album/5M4MZsKa3sb2p9ZoEihObb) | 3:22 | 2023-05-12 | 2023-06-17 |
-| [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-13 |  |
+| [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-13 | 2025-02-26 |
 | [Passing Sun](https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8), [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Passing Sun](https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9) | 3:37 | 2023-02-23 |  |
 | [Pieces of Gold](https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy) | [Ziggy Katz](https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI) | [Pieces of Gold](https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3) | 4:01 | 2023-02-23 | 2023-07-15 |
 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 | 2023-12-08 |  |
@@ -206,7 +207,7 @@
 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 |  |
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-03-01 | 2024-04-19 |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |
-| [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 |  |
+| [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 | 2025-02-26 |
 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 | 2023-06-30 |  |
 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-19 | 2024-06-08 |
 | [Run It Again](https://open.spotify.com/track/3ol4NqkJz0zRGSZ4mgDVIC) | [Sunspur](https://open.spotify.com/artist/16rfBFRECzNBUuVJ31MQPv) | [Run It Again](https://open.spotify.com/album/625z04LWbfHJOBqxq5VaRA) | 4:44 | 2023-10-25 |  |
@@ -246,7 +247,7 @@
 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Synesthesia](https://open.spotify.com/track/7dpLyDlAkfaHCiQsIRUebc) | [deer scout](https://open.spotify.com/artist/096fLKwL2P69YLSXH0fc9s) | [Woodpecker](https://open.spotify.com/album/5tkmRDKhyw0evkaonuQw9d) | 1:59 | 2024-11-15 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-08 |  |
-| [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 |  |
+| [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 | 2025-02-26 |
 | [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 | 2023-12-01 | 2024-02-03 |
 | [Thanks](https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Thanks](https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS) | 1:08 | 2024-02-02 | 2024-05-04 |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 | 2024-03-02 |
@@ -260,7 +261,7 @@
 | [Thinking About You](https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 6:36 | 2024-11-15 |  |
 | [Thoroughfare](https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 9:27 | 2023-02-23 |  |
 | [Through The Fires](https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:31 | 2023-02-23 | 2023-07-15 |
-| [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-02-23 |  |
+| [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-02-23 | 2025-02-26 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-09-22 |  |
 | [Today’s Iconoclast](https://open.spotify.com/track/5MssMfTSURfl8FaHlNqbZR) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 3:03 | 2024-11-15 |  |
 | [Topanga Two Step](https://open.spotify.com/track/5T2pXRLBwfJtUT2qBwz8ej) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/1hh0GMMCLN9hYcLtOSWxTZ) | 3:58 | 2024-04-14 | 2024-05-11 |
@@ -288,7 +289,7 @@
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 | 2023-12-09 |
 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 | 2023-06-16 |  |
-| [You Know I'm Down](https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Count Bateman](https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH) | 2:10 | 2024-11-15 |  |
+| [You Know I'm Down](https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Count Bateman](https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH) | 2:10 | 2024-11-15 | 2025-02-26 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-24. Prior content cannot be recovered.

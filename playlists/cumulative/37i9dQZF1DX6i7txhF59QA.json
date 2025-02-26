@@ -12153,6 +12153,36 @@
     },
     {
       "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART1",
+        "url": "https://open.spotify.com/album/0tSMSHtBlHBIyb90cQk25I"
+      },
+      "artists": [
+        {
+          "name": "Cheon Lok Dam",
+          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
+        },
+        {
+          "name": "Kang Hoon",
+          "url": "https://open.spotify.com/artist/55jtHMtmsp6S2gRwjG1Nc3"
+        },
+        {
+          "name": "Im Chan",
+          "url": "https://open.spotify.com/artist/2rKMspg61zWki0oiUwgoW1"
+        },
+        {
+          "name": "Ryu Ji Woo",
+          "url": "https://open.spotify.com/artist/3taXPZBLxY9Mwj4HEy9StU"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "Shout Myself",
+      "url": "https://open.spotify.com/track/4zyhpmA72Yats5QciypnMi"
+    },
+    {
+      "album": {
         "name": "Love call center PART3",
         "url": "https://open.spotify.com/album/4yTFiZEUtbItfWaKTa1cOf"
       },
@@ -13692,6 +13722,24 @@
       "duration_ms": 182146,
       "name": "The way to round and round",
       "url": "https://open.spotify.com/track/7wkri8eLCAIUnHbcTMfLWg"
+    },
+    {
+      "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
+        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
+      },
+      "artists": [
+        {
+          "name": "Cheon Lok Dam",
+          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Third Han River Bridge",
+      "url": "https://open.spotify.com/track/1SBnjdbefiI4xeu4b1tuZB"
     },
     {
       "album": {
@@ -15800,7 +15848,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 158466,
       "name": "Yongdusan elegy",
       "url": "https://open.spotify.com/track/7zolvTdlXmsoq52CYvDdAj"
@@ -16170,7 +16218,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-26",
       "duration_ms": 114426,
       "name": "You have to have a Pretty Heart",
       "url": "https://open.spotify.com/track/6YbIpeCU8fNnQo5WNzVjCh"
