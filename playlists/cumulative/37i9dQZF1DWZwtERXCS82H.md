@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-792 songs - 1 day 10 hr 17 min
+795 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-15 | 2023-05-04 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-15 | 2023-07-04 |
 | [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-04-15 | 2023-01-21 |
+| [Dove](https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Dove](https://open.spotify.com/album/2l9k81Trad8jQkupJUZKNW) | 2:27 | 2025-02-26 |  |
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-04-15 | 2022-05-14 |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 | 2025-02-19 |  |
@@ -186,6 +187,7 @@
 | [enfin bref](https://open.spotify.com/track/3jMxdAMOyHBluvKGD6uYxO) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [enfin bref](https://open.spotify.com/album/4BQbyhjyA3xA66YlxsXKI0) | 3:03 | 2022-04-15 | 2024-02-28 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-15 | 2022-06-08 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
+| [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 | 2025-02-26 |  |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-15 | 2024-02-03 |
 | [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 | 2024-12-18 |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-04-15 | 2023-08-08 |
@@ -341,6 +343,7 @@
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-08-29 |  |
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-04-15 | 2022-05-14 |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-04-15 | 2022-06-08 |
+| [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 | 2025-02-26 |  |
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-04-15 | 2024-04-04 |
 | [Le notti rosse](https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF) | [Marinella Necchi](https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh) | [Le notti rosse](https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr) | 2:14 | 2022-04-15 | 2024-04-04 |
 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 | 2022-04-15 | 2023-04-13 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-215 songs - 10 hr 57 min
+216 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Exit Music: \(A\) Jazz Baby \(B\) Jimmy \(C\) Thoroughly Modern Millie](https://open.spotify.com/track/3kwsJlTaRI4Rt6HUASzJtJ) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Thoroughly Modern Millie](https://open.spotify.com/album/1San4zGcXNBKHQbgtBfUbE) | 2:36 | 2024-07-24 |  |
 | [Fawncy Meetin' You](https://open.spotify.com/track/6MazCzaHO6po5ZAM8XMsF9) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Count!](https://open.spotify.com/album/7JyyVLOnNjXtMC0yIFtCa7) | 3:01 | 2024-07-24 |  |
 | [Fiddle Faddle](https://open.spotify.com/track/7FXu8mphx3UbHBR1LcnoFD) | [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io) | [Fiddle And A Song](https://open.spotify.com/album/3F9LR1yUStjTdrXJqOfiUz) | 2:03 | 2024-07-24 |  |
+| [Finale](https://open.spotify.com/track/1tqGNIaQap3tEM7UXWk18v) | [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi) | [Calamity Jane](https://open.spotify.com/album/1LDcwXCTNBYc9hfv7uVRHX) | 4:58 | 2025-02-26 |  |
 | [Finale](https://open.spotify.com/track/4CaOipzBZZzxRf8UY5tsMn) | [Zanna Don't! Ensemble](https://open.spotify.com/artist/0TPM1lF53DEdI5bFC8JUVu) | [Zanna, Don't!: A Musical Fairy Tale](https://open.spotify.com/album/2dBuG3ogsRCpCkGbupoNQ2) | 1:47 | 2024-07-24 |  |
 | [Five Minutes of Spring](https://open.spotify.com/track/5z5SPHiG3Nbt7HlrFGXQJj) | [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:43 | 2024-07-24 |  |
 | [Flahooley](https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:10 | 2024-07-24 |  |

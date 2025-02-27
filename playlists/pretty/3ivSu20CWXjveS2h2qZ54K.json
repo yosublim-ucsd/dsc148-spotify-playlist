@@ -1,13 +1,77 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6721,
+  "num_followers": 6723,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACvGOPVgRH010hWoOWOIRWtvuqJsP2o",
+  "snapshot_id": "AACvHXH1wZtOYCvpomkK09mgwX6cM5YI",
   "tracks": [
+    {
+      "added_at": "2025-02-26 12:38:18",
+      "album": {
+        "name": "JanSport Backpack",
+        "url": "https://open.spotify.com/album/59a2oYuFwLZtKtRkhrUchN"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 253212,
+      "name": "JanSport Backpack",
+      "url": "https://open.spotify.com/track/6rmOE2BXaehqHO1FqP4ooW"
+    },
+    {
+      "added_at": "2025-02-26 12:45:25",
+      "album": {
+        "name": "OJOS NEGROS",
+        "url": "https://open.spotify.com/album/1UOQspmFwnkaqxryop2Gtf"
+      },
+      "artists": [
+        {
+          "name": "BITA",
+          "url": "https://open.spotify.com/artist/13gUCi7O1FDj0bNvqJyiFh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OJOS NEGROS",
+      "url": "https://open.spotify.com/track/5NlCuw172yM8XZzDrW4cMK"
+    },
+    {
+      "added_at": "2025-02-26 12:39:22",
+      "album": {
+        "name": "Saquito de perlas",
+        "url": "https://open.spotify.com/album/08HHE8qDN4LflzLGy9Kn3t"
+      },
+      "artists": [
+        {
+          "name": "Arcadia Vicenta",
+          "url": "https://open.spotify.com/artist/5SAENWo2w7kRKhNFJAqqLj"
+        }
+      ],
+      "duration_ms": 156892,
+      "name": "Saquito de perlas",
+      "url": "https://open.spotify.com/track/2txxDwiAKA9ql4QLOK18ez"
+    },
+    {
+      "added_at": "2025-02-26 16:00:02",
+      "album": {
+        "name": "I Am a Tower",
+        "url": "https://open.spotify.com/album/4mTnhQoQ9MlgCIbBAs6IdS"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 1157567,
+      "name": "I Am a Tower",
+      "url": "https://open.spotify.com/track/4NOUvrwOInvcaDqq8RWGZm"
+    },
     {
       "added_at": "2025-02-21 05:54:08",
       "album": {

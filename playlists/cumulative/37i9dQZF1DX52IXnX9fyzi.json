@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Escarpment",
+        "url": "https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136770,
+      "name": "Escarpment",
+      "url": "https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m"
+    },
+    {
+      "album": {
         "name": "Expansion",
         "url": "https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU"
       },
@@ -8938,6 +8956,24 @@
       "duration_ms": 142674,
       "name": "Whirlwinds of Life",
       "url": "https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR"
+    },
+    {
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/7xTXaobGtWXAJFncgGfFDG"
+      },
+      "artists": [
+        {
+          "name": "Affinity88",
+          "url": "https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129259,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/5gRrCTbq0RXgi4TBksGaU5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: ROSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,774 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,779 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [April](https://open.spotify.com/track/5vRkKwUx1PPZZqv87vydn9) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Martha Eve](https://open.spotify.com/artist/2egCe1m3RU0NT2joC2mZus) | [April](https://open.spotify.com/album/1Ld8d5JMr8xXOh5TvEuYNv) | 3:08 |
 | 80 | [Ms\. Ebony Brown](https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Ms\. Ebony Brown](https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz) | 3:18 |
 
-Snapshot ID: `Z6m5GgAAAAC1JKFFtXYEEQRERpUv8wTe`
+Snapshot ID: `Z6m5GgAAAAD/I9aRogqnrouf+6tmUAWZ`

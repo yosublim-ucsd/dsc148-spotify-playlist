@@ -11694,7 +11694,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -11730,7 +11730,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -27223,6 +27223,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "album": {
         "name": "NOKRI\u0160\u0145U ZONA",
         "url": "https://open.spotify.com/album/1GodX6b1OEaJs9xqoCMKsY"
       },
@@ -29970,6 +29988,28 @@
       "duration_ms": 255606,
       "name": "Piepist Seju",
       "url": "https://open.spotify.com/track/3m77VlCrla1zGdOGzIvbaC"
+    },
+    {
+      "album": {
+        "name": "Vakars. Pietura. Jasm\u012bns.",
+        "url": "https://open.spotify.com/album/6y7EGG65sK32y2lJQOPr97"
+      },
+      "artists": [
+        {
+          "name": "Viegli",
+          "url": "https://open.spotify.com/artist/1aPpYYcKKLX2tz1zOIwxpN"
+        },
+        {
+          "name": "Mara Upmane-Holsteine",
+          "url": "https://open.spotify.com/artist/6c2RJBqU3FFhrYIt5KogXA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266130,
+      "name": "Pilni vi\u017e\u0146u mani mati",
+      "url": "https://open.spotify.com/track/1OFDK6LsjwPyu79nli3s4D"
     },
     {
       "album": {

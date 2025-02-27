@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Sarthak Kalyani, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Aseem Sharma, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 175058,
       "name": "Aana Na Tu",
       "url": "https://open.spotify.com/track/2q6LTElfNENh92sxiPa7nD"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 123052,
       "name": "Adaa",
       "url": "https://open.spotify.com/track/4sKvP08Y0SHCpDHrcB53UF"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 149360,
       "name": "dance the soul out",
       "url": "https://open.spotify.com/track/3VLtOQae0waD59dgdeTEve"
@@ -5520,6 +5520,28 @@
       "duration_ms": 194959,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/0ADoxUgt2B1WnWHPWmd5DR"
+    },
+    {
+      "album": {
+        "name": "Dhaatu",
+        "url": "https://open.spotify.com/album/64K85lFoZkYnAmDzMCqfCP"
+      },
+      "artists": [
+        {
+          "name": "Aseem Sharma",
+          "url": "https://open.spotify.com/artist/4qJ2gWYz4ObYS8uUe11RkW"
+        },
+        {
+          "name": "Shashi Bhushan Negi",
+          "url": "https://open.spotify.com/artist/2tDcryRZhcKL7r1HKWMwnN"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201916,
+      "name": "Dhaatu",
+      "url": "https://open.spotify.com/track/5MI8hbJ99ufuhCwdsxaqdM"
     },
     {
       "album": {
@@ -5985,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "Dil Ki Sada",
+        "url": "https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof"
+      },
+      "artists": [
+        {
+          "name": "Prady J",
+          "url": "https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Dil Ki Sada",
+      "url": "https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY"
+    },
+    {
+      "album": {
         "name": "Dil Ko Teri Adat Hay",
         "url": "https://open.spotify.com/album/5aDOsyB0Vaw1okkIeP7Sl3"
       },
@@ -6134,7 +6174,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 148374,
       "name": "Dil Se Jo Poocha",
       "url": "https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu"
@@ -6342,6 +6382,28 @@
       "duration_ms": 239495,
       "name": "Do Waqt Ka Pyaar",
       "url": "https://open.spotify.com/track/5JdQtageQw09ijhWLgR3m9"
+    },
+    {
+      "album": {
+        "name": "Dobara",
+        "url": "https://open.spotify.com/album/4ygZaHN7wjw8vygsq8QvED"
+      },
+      "artists": [
+        {
+          "name": "Avanie Joshi",
+          "url": "https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc"
+        },
+        {
+          "name": "Shivam Katoch",
+          "url": "https://open.spotify.com/artist/2mHOuVFUBCwRi1HEDa44VA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150996,
+      "name": "Dobara",
+      "url": "https://open.spotify.com/track/2F3wc80ZoLKSjwML1AZ5EL"
     },
     {
       "album": {
@@ -11211,6 +11273,32 @@
     },
     {
       "album": {
+        "name": "Jaane Do Na",
+        "url": "https://open.spotify.com/album/7hHVADia0UBX1QkwMtZVK3"
+      },
+      "artists": [
+        {
+          "name": "Pushpita Misra",
+          "url": "https://open.spotify.com/artist/4arILsXRcm2nUzF4ACtOjI"
+        },
+        {
+          "name": "Tazim Sheikh",
+          "url": "https://open.spotify.com/artist/4g18HV2SbD8A2WExxu1vyZ"
+        },
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Jaane Do Na",
+      "url": "https://open.spotify.com/track/2lAt8eGisTypX3ZhVmC0eJ"
+    },
+    {
+      "album": {
         "name": "Jaane Doon",
         "url": "https://open.spotify.com/album/0VqvU7KllI6LQJdJ1nbkYw"
       },
@@ -12786,6 +12874,32 @@
       "duration_ms": 121143,
       "name": "Kahaan Jaana Hai",
       "url": "https://open.spotify.com/track/6Wz13vEIm95L36H4cmwoRM"
+    },
+    {
+      "album": {
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/1GR2XUGCx8BaQc42QPoazT"
+      },
+      "artists": [
+        {
+          "name": "Aryaa",
+          "url": "https://open.spotify.com/artist/0Iuaky23r35uGRyjtXnTTr"
+        },
+        {
+          "name": "Madhurxo",
+          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
+        },
+        {
+          "name": "Masmyth",
+          "url": "https://open.spotify.com/artist/6stWiB6zcTOdJSojkBiZwA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/0reThkQLyTrb5yU0ZkKUxc"
     },
     {
       "album": {
@@ -15814,7 +15928,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 237480,
       "name": "Little White Door",
       "url": "https://open.spotify.com/track/0HPyticWnw9M0sqayUpLhh"
@@ -20670,7 +20784,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 286206,
       "name": "Pussytalk",
       "url": "https://open.spotify.com/track/5J2o3IGExL31SgznupTXgL"
@@ -21036,7 +21150,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 107435,
       "name": "Radio Man",
       "url": "https://open.spotify.com/track/3vge0IlJeB2K9yXnsyO8k6"
@@ -25374,6 +25488,24 @@
       "duration_ms": 237081,
       "name": "Tera Zikr",
       "url": "https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D"
+    },
+    {
+      "album": {
+        "name": "Tera Zikr",
+        "url": "https://open.spotify.com/album/6BCkXiL82BepqUSj6WK3hR"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Mane",
+          "url": "https://open.spotify.com/artist/5U8Qj3Q6i8HCH1qXlvjI8t"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242803,
+      "name": "Tera Zikr",
+      "url": "https://open.spotify.com/track/7kbJWGJi5q8d66muCLq5jM"
     },
     {
       "album": {
@@ -29946,6 +30078,24 @@
       "duration_ms": 212654,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/7hCXI8nmr1a2LErZXHMEkp"
+    },
+    {
+      "album": {
+        "name": "Zinda Hu",
+        "url": "https://open.spotify.com/album/4iMGwwhmLYXIQyh9G1mlZA"
+      },
+      "artists": [
+        {
+          "name": "Krishna Pandey",
+          "url": "https://open.spotify.com/artist/6nI6eyIKrFvU02ptT6eKSq"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Zinda Hu",
+      "url": "https://open.spotify.com/track/69Y4FcgXnKNDx8lEjyScJf"
     },
     {
       "album": {

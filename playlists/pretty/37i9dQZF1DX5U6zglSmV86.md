@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Neton Vega y Alemán en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,226 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,220 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Para El Cubano](https://open.spotify.com/track/17EyMnUepAfa7tOO0cS7C0) | [Diablo 868](https://open.spotify.com/artist/0z5rDk0aERPmeBSyeQEzfC) | [Para El Cubano](https://open.spotify.com/album/1WAFlsuLiOGxR2Q5uLhXA3) | 5:09 |
 | 2 | [Sin Corona](https://open.spotify.com/track/2wGPtjTFvsOR6DSoGDW4oc) | [Silar Kilos De Estilo](https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6) | [Sin Corona](https://open.spotify.com/album/3lndS3S9eKtOsQhnKzrO3Y) | 3:18 |
-| 3 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
+| 3 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Open Timbz](https://open.spotify.com/artist/3ZwlNZPRmpyHl0ZT7VD7Fk) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
 | 4 | [En la Troca](https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Jarabe kidd](https://open.spotify.com/artist/5absue45Q798sotcg1d0FD), [MNZR](https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ) | [En la Troca](https://open.spotify.com/album/39Fg4IINniXB7zQzm3yjWy) | 2:54 |
 | 5 | [Siempre fui un desmadre](https://open.spotify.com/track/4TQAZIqnleHUlwFA7IP9qw) | [The Baby M MX](https://open.spotify.com/artist/2J1xLGeUNa2wg4On9wvxVq), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Siempre fui un desmadre](https://open.spotify.com/album/6hxg5bvMFSwxetE1BIi61m) | 4:02 |
 | 6 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |

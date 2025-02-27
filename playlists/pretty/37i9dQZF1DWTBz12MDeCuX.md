@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Eli Preiss, makko
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,917 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,867 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 100 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/1moKZKZydvCRie5SQ8wlis) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NUR FÜR DICH 2](https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf) | 3:13 |
 
-Snapshot ID: `Z7xEKwAAAACAaIVpPjzfurwtlMpSecsZ`
+Snapshot ID: `Z7xEKwAAAACn/ty7/A2/43+G7X2/GPJe`

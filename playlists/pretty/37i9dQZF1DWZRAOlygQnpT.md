@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,045 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,830 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [La Hiedra Venenosa](https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:39 |
 | 100 | [Dieciseis Toneladas](https://open.spotify.com/track/4s1rQ2IYmcpJ1aZSMj7hyE) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 3:02 |
 
-Snapshot ID: `Z70hrgAAAAAcdXUYg1JyCRfhexD0JwFn`
+Snapshot ID: `Z79S+gAAAAClyn/TntH4523Lzmnuxvk4`

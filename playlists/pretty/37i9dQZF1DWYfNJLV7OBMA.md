@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,860 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,875 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 40 | [Aaley Wandanawak](https://open.spotify.com/track/2odCzcnigzWfFVOUE1rtwS) | [Dilki Uresha](https://open.spotify.com/artist/2cikzwXVq83CvsKLNIwol4), [Nadun Gimhana](https://open.spotify.com/artist/5Wf3lJR6psTqPX5Ol0eirp) | [Aaley Wandanawak](https://open.spotify.com/album/4nh2yao9AjJJVNitM1Tfkr) | 3:18 |
 | 41 | [Salli](https://open.spotify.com/track/6SgQxBdk7X58d5frsWf9je) | [Sarith and Surith](https://open.spotify.com/artist/2iI5Jn0xAF2wVnvf1QbhjA), [K V N](https://open.spotify.com/artist/5IGuuydjQ4AxKuk8Eik0SV) | [Salli](https://open.spotify.com/album/4QrFilPXL39L2h4sjSsfWv) | 4:05 |
 | 42 | [Hawasaka Ma](https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Hawasaka Ma](https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ) | 3:04 |
-| 43 | [Mal Onchilla](https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL) | [Mal Onchilla](https://open.spotify.com/album/67zFApoGwQ250TbCqGg3aQ) | 3:12 |
+| 43 | [Mal Onchilla](https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL), [Dilshan L Silva](https://open.spotify.com/artist/2Gby4q72O2NHHE3JxhgV3f), [Lasitha Jayaneththi Arachchige](https://open.spotify.com/artist/4fLFMxE5SjvOzSPjr6D8B9) | [Mal Onchilla](https://open.spotify.com/album/67zFApoGwQ250TbCqGg3aQ) | 3:12 |
 | 44 | [Kuweni](https://open.spotify.com/track/6V9CHG6y1FmHiLv3REsCy8) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 3:50 |
 | 45 | [Ru Ra](https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1) | [Sanjula himala](https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr) | [Ru Ra](https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn) | 4:04 |
 | 46 | [Mala Kada Kada](https://open.spotify.com/track/5WPeMdupVP00VnQ2ecVfPj) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Mala Kada Kada](https://open.spotify.com/album/25G5AEF45z7ZORY7e1CvmW) | 3:14 |

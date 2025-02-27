@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Noah, Ramengvrl
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,009 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,037 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

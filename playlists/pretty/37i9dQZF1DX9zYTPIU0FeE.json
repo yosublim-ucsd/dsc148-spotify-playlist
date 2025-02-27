@@ -1,13 +1,29 @@
 {
   "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU?si=mM5w6oMwTv-OFMlrOIxyAQ\">Rorisang Sechele</a>",
-  "num_followers": 10169,
+  "num_followers": 10174,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/IgAAAABQNkf2cLH1bKBrwjUG7zgy",
+  "snapshot_id": "Z773CgAAAAChKhBRlFMj9wyQF1ZQQxjS",
   "tracks": [
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 398530,
       "name": "Wendile",
       "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2025-02-06 23:00:50",

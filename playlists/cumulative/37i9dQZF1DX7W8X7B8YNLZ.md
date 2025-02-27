@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-77 songs - 4 hr 44 min
+78 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Je suis malade](https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 4:08 | 2022-06-01 | 2024-04-19 |
 | [Je suis malade](https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Je Suis Malade](https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0) | 4:09 | 2022-06-01 |  |
 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 | 2022-06-01 |  |
+| [Je survivrai](https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV) | [Regine](https://open.spotify.com/artist/2RhiWS0GZaDS22fguBZ1f2) | [Les 50 plus belles chansons](https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0) | 3:10 | 2025-02-26 |  |
 | [Jérôme c'est moi](https://open.spotify.com/track/7CxRGHvmQIn5HguvQqiNtA) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [L'album Souvenir, Vol\. 1](https://open.spotify.com/album/2BpAt2w32JZHW0cYt1sOKP) | 2:54 | 2022-06-01 | 2024-04-19 |
 | [L'aigle noir](https://open.spotify.com/track/2rvuhf0UzKgVuhDaLc6r7y) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/15Su2kfGKwzGE00aPHcgMp) | 4:54 | 2022-06-01 | 2024-04-19 |
 | [L'aigle noir](https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les 50 Plus Belles Chansons De Barbara](https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12) | 4:54 | 2022-06-01 |  |
-| [L'Italien](https://open.spotify.com/track/3eRMDsLl5O4G3nbHOOp7V1) | [Serge Reggiani](https://open.spotify.com/artist/5ce2Vgy5OXlTNvrqbBV2Gk) | [Rupture](https://open.spotify.com/album/0XwCyKwreatgHKvQ00rCvZ) | 3:59 | 2022-06-01 |  |
+| [L'Italien](https://open.spotify.com/track/3eRMDsLl5O4G3nbHOOp7V1) | [Serge Reggiani](https://open.spotify.com/artist/5ce2Vgy5OXlTNvrqbBV2Gk) | [Rupture](https://open.spotify.com/album/0XwCyKwreatgHKvQ00rCvZ) | 3:59 | 2022-06-01 | 2025-02-27 |
 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 | 2022-06-01 |  |
 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 | 2022-06-01 |  |
 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 | 2022-06-01 |  |

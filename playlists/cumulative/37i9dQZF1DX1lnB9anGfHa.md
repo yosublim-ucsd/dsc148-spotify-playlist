@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-297 songs - 20 hr 12 min
+298 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chills Me to the Bone](https://open.spotify.com/track/7lWVGjAIuksAjXKxmC5M71) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9) | 2:16 | 2020-10-20 | 2022-07-29 |
 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2022-09-26 |  |
 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 | 2023-03-03 |  |
-| [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 | 2023-11-09 |  |
+| [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 | 2023-11-09 | 2025-02-27 |
 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 | 2024-01-26 |  |
 | [Courageous Grieving](https://open.spotify.com/track/5QaHynEux80dsEFkadZg6m) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [goddexx](https://open.spotify.com/album/0fqg1XSlbYFEKsyVbZhiFV) | 4:06 | 2020-10-20 | 2023-04-01 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-03-03 | 2023-10-06 |
@@ -303,6 +303,7 @@
 | [СКАЗКА](https://open.spotify.com/track/1yMbPuYkplb5CZsq82cCl7) | [di liberta](https://open.spotify.com/artist/2bwZPyuLpiDOcE3L6pwWys), [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [РОДНОЙ](https://open.spotify.com/album/1lObcezMQtWheQU0OOH1uP) | 3:03 | 2022-11-25 | 2023-08-03 |
 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 | 2020-10-20 | 2023-10-28 |
 | [я больше не кусаюсь](https://open.spotify.com/track/4GPYu9OYnnYTCrp48EWroq) | [New Sylveon](https://open.spotify.com/artist/0Vp4znLLKyTx4GjsgDhNxX), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [я больше не кусаюсь](https://open.spotify.com/album/5G8d32CVqpHwlZX3idylbV) | 2:45 | 2020-10-20 | 2022-11-04 |
+| [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [VS\-55](https://open.spotify.com/artist/2OkvEMID0ukuuRijJJwExF) | [ᚦ](https://open.spotify.com/album/0rVcW5vYBivXuERqeYF50o) | 4:58 | 2025-02-26 |  |
 | [埋立地](https://open.spotify.com/track/0rpo0rlGKgl5dMvjsSVI3F) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [埋立地](https://open.spotify.com/album/1HISdd7iujfV5Z2vpXKjkd) | 3:06 | 2022-02-18 | 2022-09-01 |
 | [埋立地](https://open.spotify.com/track/3h0oaWp8t7iJhViFhdzkdj) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [DREAM LAND](https://open.spotify.com/album/1OEGQXLpOEGx7i01ktPb51) | 3:06 | 2022-02-18 | 2023-02-16 |
 

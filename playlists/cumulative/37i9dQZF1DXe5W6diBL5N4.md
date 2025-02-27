@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ZEROBASEONE\(제로베이스원\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-11,518 songs - 27 day 12 hr 27 min
+11,519 songs - 27 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6985,6 +6985,7 @@
 | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-19 | 2023-08-10 |
 | [Orca](https://open.spotify.com/track/623eMqeawjpsDlbB6W7GoJ) | [re:nier](https://open.spotify.com/artist/3EjzP7g4fMNarEXNpoYo4t) | [Orca](https://open.spotify.com/album/3y6pcqsKBZFeEpHr9V0O7x) | 5:40 | 2024-07-15 | 2024-07-23 |
 | [Orchid](https://open.spotify.com/track/3SHWZfmeWMQ7nummOHjtLP) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [Orchid](https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ) | 4:05 | 2022-05-22 | 2022-06-10 |
+| [Orchid](https://open.spotify.com/track/6PX9XFzdYQcQxikyGzQJah) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Odyssey](https://open.spotify.com/album/56eyAyu9JO0vSKijY3cKPh) | 6:59 | 2025-02-26 |  |
 | [ORCHID \(with Robiq\)](https://open.spotify.com/track/5luvicD6lHyJmL40YbjAA7) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP), [Robiq](https://open.spotify.com/artist/1yv9mdfl31lvTcdamKAwBP) | [ORCHID \(with Robiq\)](https://open.spotify.com/album/34Lcn0iKg1elUR8XH0NXKa) | 4:53 | 2023-11-10 | 2023-11-18 |
 | [Orchid in the Snow](https://open.spotify.com/track/0DVbKGeonHDlU9ACAy4Idp) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Orchid in the Snow](https://open.spotify.com/album/5HWQA6YrrU6FIGTO2cA7fc) | 5:40 | 2024-09-25 | 2024-10-10 |
 | [Ordinary](https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL) | [Ordinary](https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6) | 3:27 | 2023-09-25 | 2023-11-11 |

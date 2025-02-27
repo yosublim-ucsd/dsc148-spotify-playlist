@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,776 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,971 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [De Punta a Punta](https://open.spotify.com/track/0ABC173RzlGblENZyJchBs) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [De Punta a Punta](https://open.spotify.com/album/70f7WHOOEFWObR9EvMCfaF) | 3:18 |
 | 75 | [10 Vidas](https://open.spotify.com/track/2WPTtiBY1dTVmjqdfasfXJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [10 Vidas](https://open.spotify.com/album/7fd2xxZm8FRtDT0uv152lY) | 2:39 |
 
-Snapshot ID: `Z7gWaAAAAADccyxGn+HwoyvS3oaBWigC`
+Snapshot ID: `Z7gWaAAAAAA4upjvguDhtlVMfveAsoAX`

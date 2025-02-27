@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. <br/>C\-Kan está en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,453 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,554 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 21 | [Que se va a hacer?](https://open.spotify.com/track/6hE4s5UrxUae4QKBUdj2Br) | [Dub G](https://open.spotify.com/artist/5SVHvnw9UIDoLNC745Lt8V), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Flako420](https://open.spotify.com/artist/7xg5Iq134Xva9pIh90958F) | [Que se va a hacer?](https://open.spotify.com/album/0oFiZxPaNWNarfJmZre7VB) | 4:41 |
 | 22 | [Que Se Arme](https://open.spotify.com/track/5WTHrUFa1t9MT4UumFMnIw) | [ZIGO CREW MX](https://open.spotify.com/artist/6xfdFN91GDBrGzDdSILDK8), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Young Cza](https://open.spotify.com/artist/6ETvcLfKNzbsfeNOCXhSkh) | [Que Se Arme](https://open.spotify.com/album/5807tgqqUEmyeVHqLNxnez) | 3:01 |
 | 23 | [Modo Placoson](https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Modo Placoson](https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E) | 2:52 |
-| 24 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
+| 24 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Open Timbz](https://open.spotify.com/artist/3ZwlNZPRmpyHl0ZT7VD7Fk) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
 | 25 | [Los años de trabajo](https://open.spotify.com/track/7eVgkOVLNwW5soC2UDHias) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Los años de trabajo](https://open.spotify.com/album/7uYCFEuC9N7YM6VUAxHKPn) | 3:14 |
 | 26 | [FUSCA Y FILERO](https://open.spotify.com/track/3I3EwJo8PuG5Cg36pFhs3S) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:33 |
 | 27 | [Delincuente](https://open.spotify.com/track/5JNG6DfUvKQDK05jAiTwo3) | [Skal](https://open.spotify.com/artist/1dOypTWNlXPsEZnXjDybSX), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [W\. Corona](https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ), [Michel Groma](https://open.spotify.com/artist/5yPMPBkanL4RvfmNx3CF8P) | [Delincuente](https://open.spotify.com/album/4GGvjCnswPgalV2vNOlymt) | 5:33 |

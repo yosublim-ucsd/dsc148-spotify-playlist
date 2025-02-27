@@ -2,7 +2,7 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. غلاف: عايض
+> كل شي خليجي جديد\. غلاف: فهد العمري
 
 392 songs - 1 day 2 hr 57 min
 
@@ -217,7 +217,7 @@
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-05-26 | 2023-12-30 |
 | [Min Ant](https://open.spotify.com/track/26PF0qiTHTJtriWMqc5sht) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Min Ant](https://open.spotify.com/album/5G64uDVMeCjIrzUFRlMlVa) | 4:54 | 2022-08-18 | 2023-02-25 |
 | [Min Taht](https://open.spotify.com/track/3bHSpc1Aq5K9NFYLeKAIPX) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:30 | 2022-02-04 | 2022-05-31 |
-| [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 | 2024-05-23 |  |
+| [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 | 2024-05-23 | 2025-02-27 |
 | [Mn Aaba Ebtala](https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Mn Aaba Ebtala](https://open.spotify.com/album/5WSRFUvLqvj0d4pSZvgtlT) | 3:20 | 2024-04-10 | 2025-01-25 |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2021-12-23 | 2022-06-04 |
 | [Mo Eisha Haya](https://open.spotify.com/track/1oaD9qOBx3jQPlmOJamnWN) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Mo Eisha Haya](https://open.spotify.com/album/7r0vk5ltcqqRUsOg6r8HQF) | 3:24 | 2021-12-23 | 2022-02-15 |

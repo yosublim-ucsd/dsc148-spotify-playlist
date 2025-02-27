@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-512 songs - 22 hr 8 min
+514 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Elskaði](https://open.spotify.com/track/6Pm6hmH3tcxVlZzelFqtmS) | [Guðmundur Helgason](https://open.spotify.com/artist/5enIukwt5q9TDbdmUmRPdz) | [Elskaði](https://open.spotify.com/album/5LMW0Vj3rQYkWTbvdosrsL) | 2:33 | 2022-07-15 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-14 | 2022-06-08 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
+| [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 | 2025-02-26 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 |  |
 | [Fading Memories](https://open.spotify.com/track/2vj3EDcN6kanqFHzTfnNWH) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Fading Memories](https://open.spotify.com/album/41HNfLXPpmsOm4UtUxi7pV) | 2:46 | 2022-10-26 | 2024-03-05 |
 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 | 2022-06-07 | 2024-10-02 |
@@ -502,6 +503,7 @@
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-21 |  |
 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-06-07 |  |
 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 | 2024-11-05 |  |
+| [Whispers](https://open.spotify.com/track/5gRrCTbq0RXgi4TBksGaU5) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Whispers](https://open.spotify.com/album/7xTXaobGtWXAJFncgGfFDG) | 2:09 | 2025-02-26 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-14 | 2022-09-15 |
 | [Wiedersehen](https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Wiedersehen](https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr) | 3:27 | 2024-03-04 |  |
 | [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-19 |  |

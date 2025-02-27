@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU?si=mM5w6oMwTv\-OFMlrOIxyAQ">Rorisang Sechele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,169 likes - 53 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,174 likes - 53 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |
-| 2 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
-| 3 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 1 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 2 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |
+| 3 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
 | 4 | [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 |
 | 5 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
 | 6 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 52 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 |
 | 53 | [The Meeting Place](https://open.spotify.com/track/3dKkSKgUL8MHjqqzPJZF0a) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Siparia Deltones](https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz) | [Siparia to Soweto](https://open.spotify.com/album/0kTFinupZwLN67sWCXvhGp) | 6:15 |
 
-Snapshot ID: `Z6U/IgAAAABQNkf2cLH1bKBrwjUG7zgy`
+Snapshot ID: `Z773CgAAAAChKhBRlFMj9wyQF1ZQQxjS`

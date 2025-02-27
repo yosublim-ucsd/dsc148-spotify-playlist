@@ -1,6 +1,6 @@
 {
   "description": "Experience the best of live worship here. Cover: UPPERROOM",
-  "num_followers": 926204,
+  "num_followers": 926327,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
@@ -383,7 +383,7 @@
     {
       "added_at": "2025-02-14 10:35:56",
       "album": {
-        "name": "More (Live)",
+        "name": "More",
         "url": "https://open.spotify.com/album/5WEZWJBFDrwHp5y8I7osCc"
       },
       "artists": [
@@ -611,7 +611,7 @@
     {
       "added_at": "2025-02-14 10:35:56",
       "album": {
-        "name": "Why Not Here? (Live)",
+        "name": "Why Not Here?",
         "url": "https://open.spotify.com/album/6lY6UsjJWMyVDta6cwLKKS"
       },
       "artists": [
@@ -711,7 +711,7 @@
     {
       "added_at": "2025-02-14 10:35:56",
       "album": {
-        "name": "Here Is Our Hallelujah (Live)",
+        "name": "Here Is Our Hallelujah",
         "url": "https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS"
       },
       "artists": [
@@ -799,7 +799,7 @@
     {
       "added_at": "2025-02-14 10:35:56",
       "album": {
-        "name": "It is Done (Live)",
+        "name": "It is Done",
         "url": "https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG"
       },
       "artists": [
@@ -1008,8 +1008,20 @@
           "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
         },
         {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
           "name": "Jasmine Mullen",
           "url": "https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj"
+        },
+        {
+          "name": "Tim Timmons",
+          "url": "https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX"
+        },
+        {
+          "name": "Travis Ryan",
+          "url": "https://open.spotify.com/artist/7u1e2COb5JA3hgQPQ0eSCJ"
         }
       ],
       "duration_ms": 227080,

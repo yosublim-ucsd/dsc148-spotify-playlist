@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🪷 <a href="spotify:album:4qkMWKIhCOWFtkVVsRsf0w">Vågner</a> 🪷 af <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">Mille's</a> nye EP 🥰
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,009 likes - 109 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,014 likes - 109 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

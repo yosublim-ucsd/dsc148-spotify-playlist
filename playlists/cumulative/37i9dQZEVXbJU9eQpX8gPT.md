@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,673 songs - 3 day 19 hr 32 min
+1,674 songs - 3 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Mchta w Gdem](https://open.spotify.com/track/585Ki2LdPG0kIDO39gkTLu) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 3:06 | 2024-11-15 | 2024-12-27 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-07 | 2024-05-12 |
 | [Megalomania](https://open.spotify.com/track/0XMV5uwx5WjZkqxrk87vJ3) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Megalomania](https://open.spotify.com/album/4frrtbVbvsdzV7k5HsifNe) | 5:26 | 2021-03-27\* | 2021-06-11 |
+| [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 | 2025-02-26 |  |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-07 |
 | [MenoPause](https://open.spotify.com/track/2p5NedIYtONSoxTaId4ffd) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MenoPause](https://open.spotify.com/album/6FvGJaDhq4FEXSnbjbq6Tc) | 6:34 | 2021-04-18 | 2021-04-19 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-10-16 | 2023-08-26 |
@@ -1583,7 +1584,7 @@
 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 | 2022-05-27 |
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-03-23 | 2024-03-28 |
 | [We On](https://open.spotify.com/track/29vOLabxvytbI8fX9xgTaD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 3:50 | 2022-03-01 | 2022-03-03 |
-| [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 | 2024-07-12 |  |
+| [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 | 2024-07-12 | 2025-02-27 |
 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 | 2024-06-28 | 2024-07-12 |
 | [Weed Gin & Tonic](https://open.spotify.com/track/4YvYS2jwuqYVVvIB81fNxd) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lo\-Fights](https://open.spotify.com/album/3CvCF4jbyPsewmZYhZbRva) | 2:53 | 2022-06-19 | 2022-06-21 |
 | [Welcome to Morocco \- Official Song of the FIFA Club World Cup 2022](https://open.spotify.com/track/4rpUK9h7OZYdelY1QUYjjR) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3), [Rym](https://open.spotify.com/artist/20foirmF2dYTJ5xVunU0MX), [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9), [Nouaman Belaiachi](https://open.spotify.com/artist/46ovx6fJssKqC6BJjLswFT), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Dizzy Dross](https://open.spotify.com/artist/1lXaedRc9QjhutJHf7rrie), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Welcome to Morocco \(Official Song of the FIFA Club World Cup 2022\)](https://open.spotify.com/album/7JG9o2OAmmrr6BDvXqjl3T) | 4:27 | 2023-02-06 | 2023-02-15 |

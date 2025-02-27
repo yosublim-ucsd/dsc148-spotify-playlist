@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nardo Wick, Don Toliver, Joey Bada$$ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,974 likes - 52 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,085 likes - 52 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

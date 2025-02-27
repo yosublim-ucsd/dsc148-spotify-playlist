@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Rozalén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,768 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,794 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 22 | [Solo le Pido a Dios](https://open.spotify.com/track/5zXJVUTFMZlwZ3BKC9FBSC) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [La Negra \- The Definitive Collection](https://open.spotify.com/album/0a46V30Rb49IYla0NQQaqe) | 4:39 |
 | 23 | [Escolta\-ho en el vent \(Blowin´ in the wind\)](https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Escolta\-ho en el vent \(Blowin´ in the wind\)](https://open.spotify.com/album/015oPbX4Y20S6ZgZdkEVKH) | 2:38 |
 | 24 | [Amor Clandestino \- Acústica](https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Israel Fernández](https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI), [Diego del Morao](https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw) | [Amor Clandestino \(Acústica\)](https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y) | 4:50 |
-| 25 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:17 |
+| 25 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:19 |
 | 26 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:58 |
 | 27 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
 | 28 | [La saeta \- En Directo](https://open.spotify.com/track/2JRNVKJOMGsso4M8SzL3h2) | [Carmen Linares](https://open.spotify.com/artist/5nJo9d4dYPQ9MiimCUdOhI), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La saeta \(En Directo\)](https://open.spotify.com/album/248ms1gkrDf8FGRZTgI2gL) | 4:26 |

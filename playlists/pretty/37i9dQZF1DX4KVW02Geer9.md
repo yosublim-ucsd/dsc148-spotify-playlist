@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,001 likes - 69 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,005 likes - 69 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 25 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 26 | [BMT \- brushmyteeth](https://open.spotify.com/track/1kPMbJYGkFtBajYecm2sbA) | [Block Corporation.](https://open.spotify.com/artist/0NqlJ98CejXMNFJoM6yviO), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [O\-PNG](https://open.spotify.com/artist/04jzh7kDL2SB1fitEDrpWN) | [BMT \(brushmyteeth\)](https://open.spotify.com/album/3chAxvcCop5D1d9AxHJCo3) | 2:33 |
 | 27 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |
-| 28 | [Sometimes I Miss](https://open.spotify.com/track/2RvckqFywUf9qkt68AoY00) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr) | [Sometimes I Miss](https://open.spotify.com/album/5c7BqU4kkY8LtSlRnji1Ye) | 3:51 |
+| 28 | [Sometimes I Miss](https://open.spotify.com/track/2RvckqFywUf9qkt68AoY00) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Sometimes I Miss](https://open.spotify.com/album/5c7BqU4kkY8LtSlRnji1Ye) | 3:51 |
 | 29 | [Komorebi](https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Komorebi](https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5) | 5:41 |
 | 30 | [The Fork](https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2) | 4:40 |
 | 31 | [Wanna Die](https://open.spotify.com/track/2tbDr90KoG4ZFyI5StbI39) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Wanna Die](https://open.spotify.com/album/0YqvrdD8O5aT8f1u2ojphY) | 2:41 |

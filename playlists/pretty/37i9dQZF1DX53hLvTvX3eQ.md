@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,025 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,048 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 63 | [그런 사람 또 없습니다](https://open.spotify.com/track/5MGZPn7QWGD3DTmPyrpj79) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Mutopia](https://open.spotify.com/album/4ybqL6fP7aAL7vPKIOr9Lh) | 3:46 |
 | 64 | [사랑을 할꺼야](https://open.spotify.com/track/0FfuKhRBu7rHJq1AYoEZXu) | [녹색지대](https://open.spotify.com/artist/7fi5KGkFM55KpMQ80TsAhn) | [사랑을 할꺼야](https://open.spotify.com/album/5XWRjRJ5Q9Q6UE34EuUiQU) | 4:47 |
 | 65 | [너에게](https://open.spotify.com/track/0IgfoHD9IeSdOWYN3kwh19) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [후회없는 사랑](https://open.spotify.com/album/0oobbKF8G4QGUA7jXyP9MO) | 4:22 |
-| 66 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The Nuts](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
+| 66 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
 | 67 | [Change](https://open.spotify.com/track/4QBK8zyiYAkxbg5dgKdFoy) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:28 |
 | 68 | [그 사람](https://open.spotify.com/track/6ad1hOruGyvnNvIk53VgmD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [제빵왕 김탁구 OST Part.3](https://open.spotify.com/album/4aNwPS4cpqI4O5aMQPn6pH) | 3:58 |
 | 69 | [애인](https://open.spotify.com/track/5CQmfyr1DkLxpLlpkhR0J3) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/5FptJBahqPCkB746VV5BMD) | 4:53 |

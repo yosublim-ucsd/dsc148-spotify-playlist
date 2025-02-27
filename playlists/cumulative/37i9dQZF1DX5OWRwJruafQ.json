@@ -7734,7 +7734,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 207272,
       "name": "Naam Sunuga",
       "url": "https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL"
@@ -10192,6 +10192,28 @@
       "duration_ms": 169680,
       "name": "Shortie",
       "url": "https://open.spotify.com/track/2cZ2xCQL2Zgp9KMq8zERY1"
+    },
+    {
+      "album": {
+        "name": "Shukarwaar",
+        "url": "https://open.spotify.com/album/71LaK2LS1V0dmD9bRMy67s"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Kaka Sady",
+          "url": "https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199603,
+      "name": "Shukarwaar",
+      "url": "https://open.spotify.com/track/229ahWNY5g0bj0oZAUPUWb"
     },
     {
       "album": {

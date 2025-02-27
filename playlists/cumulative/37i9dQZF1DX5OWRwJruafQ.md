@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-565 songs - 1 day 3 hr 2 min
+566 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 | 2023-08-23 | 2024-04-12 |
 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 | 2023-10-10 |
 | [Naam Jatt Da](https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Naam Jatt Da](https://open.spotify.com/album/0wG8O5Y2b4UHAHgyQ6EJKl) | 2:08 | 2023-03-29 | 2023-04-21 |
-| [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2023-03-29 |  |
+| [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2023-03-29 | 2025-02-27 |
 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 | 2023-06-30 | 2024-04-19 |
 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 | 2023-03-29 | 2024-08-14 |
 | [Nai Reesa](https://open.spotify.com/track/6pfiPyvtL69rsT5w7rRKS5) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Nai Reesa](https://open.spotify.com/album/0gGAr7LZK0I6LEVQ2HHXgA) | 1:59 | 2023-11-07 | 2023-11-16 |
@@ -471,6 +471,7 @@
 | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/track/2JA67ah6FJW1ikoEjjUSLg) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Avvy Saran](https://open.spotify.com/artist/7k7qAIcuaVgVUPxOGsjbat), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/album/4SjcEqYNTl8xvXiIpNEjWq) | 2:49 | 2024-04-19 | 2024-07-27 |
 | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/track/2700UzxCsjDddJ8VSXy897) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/album/1tCqmDuBM1V3O9XFyWHrVy) | 2:49 | 2024-02-28 | 2024-04-19 |
 | [Shortie](https://open.spotify.com/track/2cZ2xCQL2Zgp9KMq8zERY1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Nakeeta](https://open.spotify.com/artist/0uSiLWLgqqR7SUL00iz0iZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:49 | 2023-07-27 | 2023-09-12 |
+| [Shukarwaar](https://open.spotify.com/track/229ahWNY5g0bj0oZAUPUWb) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Kaka Sady](https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8) | [Shukarwaar](https://open.spotify.com/album/71LaK2LS1V0dmD9bRMy67s) | 3:19 | 2025-02-26 |  |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-20 | 2025-01-24 |
 | [Silicone](https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/7o8vQPQ3JQVz3g2hjvmC2u) | 3:26 | 2023-06-30 | 2024-04-19 |
 | [Sira Sira](https://open.spotify.com/track/2FXdd5VFHwUvGrFTDY1sID) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:39 | 2023-07-11 | 2023-10-21 |

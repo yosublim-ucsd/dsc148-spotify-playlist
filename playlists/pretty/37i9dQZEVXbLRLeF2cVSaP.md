@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,492 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,497 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Малиновый рассвет](https://open.spotify.com/track/1GS1TAA8zc5oGiYE1z9Q53) | [Endspiel](https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF) | [Old Days](https://open.spotify.com/album/1jwHnR93ODLofIjcKl31LS) | 3:53 |
 | 50 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 |
 
-Snapshot ID: `L1EvyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1KDoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

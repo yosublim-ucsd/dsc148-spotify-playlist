@@ -9197,6 +9197,24 @@
     },
     {
       "album": {
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/2hshVOA4ULsMGHPDiUaDbJ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218589,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/2zpdPPsPJYGQ9VYRVJXfv9"
+    },
+    {
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },

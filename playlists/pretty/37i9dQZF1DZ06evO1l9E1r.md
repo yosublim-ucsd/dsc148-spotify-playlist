@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Elevation](https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 5:57 |
 | 50 | [Fólk fær andlit](https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Fólk fær andlit](https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl) | 5:13 |
 
-Snapshot ID: `Z7u2gAAAAABSqkTKBhG5L1AdFUKrbug5`
+Snapshot ID: `Z70IAAAAAAB4F7YaSnTkrezSaHp6kiGE`

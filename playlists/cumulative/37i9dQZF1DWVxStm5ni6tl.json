@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels from Canada, updated every Wednesday. Cover: Yves Jarvis, Artwork: Isu Kim.",
+  "description": "The best new music by independent artists and labels from Canada, updated every Wednesday. Cover: Sebastian Gaskin, Artwork: Isu Kim.",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 129837,
       "name": "222",
       "url": "https://open.spotify.com/track/2mmqMSpOXQZ1R3s6PJgxt2"
@@ -5624,6 +5624,24 @@
       "duration_ms": 215764,
       "name": "Cemetery Somewhere",
       "url": "https://open.spotify.com/track/2uzxk04Y7RgMF6Bf9vLNYn"
+    },
+    {
+      "album": {
+        "name": "l'endroit l'envers",
+        "url": "https://open.spotify.com/album/4ZFhDXA2Pk6CiOfUAwPmoP"
+      },
+      "artists": [
+        {
+          "name": "Gawb\u00e9",
+          "url": "https://open.spotify.com/artist/7oR4GmycUYIxBe37E9JW1M"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195922,
+      "name": "Cerise",
+      "url": "https://open.spotify.com/track/0gZAVQxm5iAI0gYJfOX8Gr"
     },
     {
       "album": {
@@ -16643,6 +16661,32 @@
     },
     {
       "album": {
+        "name": "08 JETTA",
+        "url": "https://open.spotify.com/album/2ckmcwJf3JAtD5hkBO57kJ"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "VNDRE",
+          "url": "https://open.spotify.com/artist/7JTaT8OlC1WScqrwNJGzdM"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "Jettas & Volvos (feat. Thelonious, VNDRE)",
+      "url": "https://open.spotify.com/track/1V3M8KRuItvOrr4cYWDq40"
+    },
+    {
+      "album": {
         "name": "JEUX",
         "url": "https://open.spotify.com/album/2FFqxetRyjLukRpc5TzuxC"
       },
@@ -17154,6 +17198,24 @@
       "duration_ms": 162514,
       "name": "karoshi",
       "url": "https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7"
+    },
+    {
+      "album": {
+        "name": "Keep on Dancing",
+        "url": "https://open.spotify.com/album/3LavWZUYC6dp2NEwVU6w0b"
+      },
+      "artists": [
+        {
+          "name": "Celleste",
+          "url": "https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162910,
+      "name": "Keep on Dancing",
+      "url": "https://open.spotify.com/track/14q8zACdaQPplLtXsRfFoz"
     },
     {
       "album": {
@@ -18840,6 +18902,24 @@
       "duration_ms": 180000,
       "name": "Lookin 4 Luv",
       "url": "https://open.spotify.com/track/0w8frTqcFHkww3c5aD1U0b"
+    },
+    {
+      "album": {
+        "name": "Lookin'",
+        "url": "https://open.spotify.com/album/4khJhBUkU5bL1uBJHby3it"
+      },
+      "artists": [
+        {
+          "name": "Emily Clair",
+          "url": "https://open.spotify.com/artist/28hgEqcJsEQ886INHJHkv7"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170981,
+      "name": "Lookin'",
+      "url": "https://open.spotify.com/track/488AsqdlYyvvzeTtqcgqJI"
     },
     {
       "album": {
@@ -28429,6 +28509,24 @@
     },
     {
       "album": {
+        "name": "LOVECHILD",
+        "url": "https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195192,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA"
+    },
+    {
+      "album": {
         "name": "Shaheed",
         "url": "https://open.spotify.com/album/44NMceFcqeRshASrwaxrbb"
       },
@@ -31956,6 +32054,24 @@
       "duration_ms": 172271,
       "name": "Teach Me How To Love",
       "url": "https://open.spotify.com/track/7cqYcFDDCD9ipzdUqK1yvC"
+    },
+    {
+      "album": {
+        "name": "Tear Me Down",
+        "url": "https://open.spotify.com/album/3aZySKHtyKUlgNfGYkVY61"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185311,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/1yvxtYZZhTBHZiM8RuXhtD"
     },
     {
       "album": {

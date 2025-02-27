@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 266506,
       "name": "Intro + 4 de Febrero - En Vivo",
       "url": "https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff"
@@ -1032,6 +1032,24 @@
       "duration_ms": 221240,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122160,
+      "name": "Tu Novia Te Enga\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/5WPxRFd15PDA1RqEiHhtCj"
     },
     {
       "album": {

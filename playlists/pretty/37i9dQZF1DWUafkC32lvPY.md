@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,881 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,914 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 51 | [Helado de Mango \(Remix\)](https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Helado de Mango \(Remix\)](https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3) | 2:21 |
 | 52 | [Primer Beso](https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Primer Beso](https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g) | 2:15 |
 | 53 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
-| 54 | [LA FALDA \- LoFi](https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u) | [LoFi HITS](https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA FALDA \(LoFi\)](https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ) | 2:51 |
+| 54 | [LA FALDA \- LoFi](https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u) | [AstroLofi](https://open.spotify.com/artist/2Piv8Ufq8XhpHwedI6FRMm), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA FALDA \(LoFi\)](https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ) | 2:51 |
 | 55 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
 | 56 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
 | 57 | [soltarte \(instrumental\)](https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte \(instrumental\)](https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9) | 2:56 |

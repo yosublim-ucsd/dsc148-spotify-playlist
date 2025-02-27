@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -7452,7 +7452,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -7612,7 +7612,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 210389,
       "name": "F L Y",
       "url": "https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95"
@@ -11122,6 +11122,28 @@
       "duration_ms": 285306,
       "name": "La Melod\u00eda de Dios",
       "url": "https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR"
+    },
+    {
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/6ZtUjt15I1NGvB5B05qe4q"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/1tOuy9q5fhV0rHriEV57mB"
     },
     {
       "album": {
@@ -15627,6 +15649,24 @@
     },
     {
       "album": {
+        "name": "Presenting Bertha Tillman",
+        "url": "https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU"
+      },
+      "artists": [
+        {
+          "name": "Bertha Tillman",
+          "url": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Oh My Angel",
+      "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
+    },
+    {
+      "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/0uspTleqtHvzi8IpOdTJ0w"
       },
@@ -16296,7 +16336,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
@@ -18548,7 +18588,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 322500,
       "name": "Santo Por Siempre",
       "url": "https://open.spotify.com/track/0NDtAA7P5m8iaNcVeeErk5"
@@ -19104,7 +19144,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 362154,
       "name": "Si No Me Falla el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
@@ -20506,7 +20546,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 214573,
       "name": "Supermercado",
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
@@ -21872,7 +21912,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 199656,
       "name": "Tres Veces Te Enga\u00f1e",
       "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"

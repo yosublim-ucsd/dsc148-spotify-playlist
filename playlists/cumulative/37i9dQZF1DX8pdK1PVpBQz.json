@@ -7641,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2caJxQvT92dOrhOCHZvNx7"
+      },
+      "artists": [
+        {
+          "name": "neve",
+          "url": "https://open.spotify.com/artist/6oDermQSpjAenm8wH3JUVb"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178642,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0Qe1Au2cm4CUYFL8s68AvD"
+    },
+    {
+      "album": {
         "name": "bones (sinking like stones)",
         "url": "https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj"
       },

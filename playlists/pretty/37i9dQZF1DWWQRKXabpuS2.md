@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. غلاف: عايض
+> كل شي خليجي جديد\. غلاف: فهد العمري
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,105 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,111 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 |
-| 2 | [ما عاد](https://open.spotify.com/track/3Q9oZAr2wdgKsLcjGoOh95) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [سيّد الغِيَّاب](https://open.spotify.com/album/6s52Skp6kp1DGVumkwm9lb) | 5:31 |
-| 3 | [احضن الذكرى](https://open.spotify.com/track/7fl7MPGSlqTS6JwYMJGpXp) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [احضن الذكرى](https://open.spotify.com/album/1mGto1het7EofBlcpQoDBf) | 3:34 |
-| 4 | [Hd Nafsak](https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Hd Nafsak](https://open.spotify.com/album/5tript2PgGKjRq05Tje4NR) | 3:39 |
-| 5 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
-| 6 | [Ensan Thani](https://open.spotify.com/track/0tT5jeodTu0FnUcuNl1KhO) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ensan Thani](https://open.spotify.com/album/5rSKzPtgn1JVRYBtCgwAZ9) | 2:58 |
-| 7 | [تعانديني](https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [تعانديني](https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs) | 3:09 |
+| 1 | [تعانديني](https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [تعانديني](https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs) | 3:09 |
+| 2 | [Hd Nafsak](https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Hd Nafsak](https://open.spotify.com/album/5tript2PgGKjRq05Tje4NR) | 3:39 |
+| 3 | [Aijrah From Ayed Album 2025](https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Aijrah From Ayed Album 2025](https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J) | 4:14 |
+| 4 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
+| 5 | [ما عاد](https://open.spotify.com/track/3Q9oZAr2wdgKsLcjGoOh95) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [سيّد الغِيَّاب](https://open.spotify.com/album/6s52Skp6kp1DGVumkwm9lb) | 5:31 |
+| 6 | [احضن الذكرى](https://open.spotify.com/track/7fl7MPGSlqTS6JwYMJGpXp) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [احضن الذكرى](https://open.spotify.com/album/1mGto1het7EofBlcpQoDBf) | 3:34 |
+| 7 | [Ensan Thani](https://open.spotify.com/track/0tT5jeodTu0FnUcuNl1KhO) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ensan Thani](https://open.spotify.com/album/5rSKzPtgn1JVRYBtCgwAZ9) | 2:58 |
 | 8 | [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 |
 | 9 | [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 |
 | 10 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 47 | [Habiba](https://open.spotify.com/track/1meqGwp4PGEVXceQ8t1AaG) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Habiba](https://open.spotify.com/album/1yf8ufzFwMlECaZMydhmZu) | 3:34 |
 | 48 | [Ham We Inzaah](https://open.spotify.com/track/64J16v8vzKE5TIniAZVIx0) | [مطرف المطرف](https://open.spotify.com/artist/5aXMgkXcyM23iEx7ZyzNh9) | [Ham We Inzaah](https://open.spotify.com/album/6g227LC1R1wY1PGRPRsPzv) | 4:36 |
 | 49 | [Khajoola](https://open.spotify.com/track/1cylMxQ5Y1lnQhD3fSbbZz) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Khajoola](https://open.spotify.com/album/4AB5LQsjEfynEVrMy35Ysq) | 4:10 |
-| 50 | [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 |
 
-Snapshot ID: `Z7RzdwAAAACE3LhqQaCiST0vwtvZ5Ps6`
+Snapshot ID: `Z77JcgAAAAC6EnMG8JXBT/9DZbZd00Lf`

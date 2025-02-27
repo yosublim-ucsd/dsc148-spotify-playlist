@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 146874,
       "name": "Danse avec moi",
       "url": "https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 201159,
       "name": "Kastepiisk",
       "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 126305,
       "name": "Real As Rain",
       "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 165826,
       "name": "Return To Le Berry",
       "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
@@ -3508,10 +3508,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 143879,
       "name": "Sailing Away",
       "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "album": {
+        "name": "Sanshi Sumei",
+        "url": "https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu"
+      },
+      "artists": [
+        {
+          "name": "Nazomi",
+          "url": "https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125874,
+      "name": "Sanshi Sumei",
+      "url": "https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma"
     },
     {
       "album": {
@@ -3681,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Silver Moon",
+        "url": "https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183644,
+      "name": "Silver Moon",
+      "url": "https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU"
+    },
+    {
+      "album": {
         "name": "Simple Plans",
         "url": "https://open.spotify.com/album/0PGgBVaKuVwpZVP5bI6aiN"
       },
@@ -3692,7 +3728,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 193131,
       "name": "Simple Plans",
       "url": "https://open.spotify.com/track/5CZDntcdKNfGLxbeCkGei5"
@@ -3764,7 +3800,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 120603,
       "name": "Smukke Sm\u00e5Ting",
       "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
@@ -3980,7 +4016,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 162520,
       "name": "Sundara",
       "url": "https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54"
@@ -4167,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "The Winds Know My Name",
+        "url": "https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "The Winds Know My Name",
+      "url": "https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT"
+    },
+    {
+      "album": {
         "name": "The Year of Unravelling",
         "url": "https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD"
       },
@@ -4214,7 +4268,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 137013,
       "name": "They'll be out for us",
       "url": "https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC"
@@ -4412,7 +4466,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 174353,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs"

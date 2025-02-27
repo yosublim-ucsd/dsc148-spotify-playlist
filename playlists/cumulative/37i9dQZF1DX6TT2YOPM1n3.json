@@ -3019,6 +3019,28 @@
     },
     {
       "album": {
+        "name": "Pal Pal",
+        "url": "https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Pal Pal",
+      "url": "https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo"
+    },
+    {
+      "album": {
         "name": "Pardes Katenda",
         "url": "https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd"
       },
@@ -4120,6 +4142,36 @@
       "duration_ms": 140730,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"
+    },
+    {
+      "album": {
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/2cLii93QG7J7w3DHMiwcyG"
+      },
+      "artists": [
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU"
     },
     {
       "album": {

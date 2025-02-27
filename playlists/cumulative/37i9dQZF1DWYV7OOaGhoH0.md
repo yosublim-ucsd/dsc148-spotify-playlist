@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Hurray For The Riff Raff
 
-666 songs - 1 day 17 hr 1 min
+667 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-10 | 2022-02-05 |
 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 | 2023-07-28 | 2024-04-13 |
 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 | 2024-05-31 |  |
+| [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-26 |  |
 | [Morning](https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Morning](https://open.spotify.com/album/3nJafxnimvh3lWV9YmB0TE) | 3:28 | 2021-12-10 | 2022-01-29 |
 | [Mother](https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv) | [Steven van Betten](https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7) | [Mother](https://open.spotify.com/album/7zFwRc3nSNDRVOPmA9szZD) | 2:53 | 2023-08-25 | 2023-09-02 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-09-02 | 2023-11-18 |

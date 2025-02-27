@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,603 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,598 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 42 | [Holy](https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA) | [Jonty Lees](https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr) | [Dawn Til Dusk](https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N) | 3:32 |
 | 43 | [Lord I Need You](https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Lord I Need You](https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv) | 3:17 |
 | 44 | [Weight of Your Glory](https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN) | [Dustin Scarbrough](https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9) | [Weight of Your Glory](https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82) | 4:08 |
-| 45 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
+| 45 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
 | 46 | [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 |
 | 47 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh) | 2:41 |
 | 48 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 |

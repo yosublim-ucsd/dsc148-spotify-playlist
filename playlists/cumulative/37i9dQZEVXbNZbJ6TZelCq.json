@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 176640,
       "name": "Alora",
       "url": "https://open.spotify.com/track/1PcIlcDT01hGNaaKXvRgMR"
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -8108,7 +8108,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 264720,
       "name": "Curwa",
       "url": "https://open.spotify.com/track/4U7cQgdUw35R299y0K5XFd"
@@ -16454,7 +16454,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -23668,7 +23668,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -24304,7 +24304,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 172235,
       "name": "O sa fim OK",
       "url": "https://open.spotify.com/track/6oumHjnIBCqmT42OemJrCX"
@@ -25592,7 +25592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -28262,6 +28262,24 @@
       "duration_ms": 291192,
       "name": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
       "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6"
+    },
+    {
+      "album": {
+        "name": "Regele Junglei",
+        "url": "https://open.spotify.com/album/1eqpde2DzSsR0iLfqSxMzO"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "Regele Junglei",
+      "url": "https://open.spotify.com/track/67783GIuCTbUfHg7NrL2Tl"
     },
     {
       "album": {
@@ -38606,7 +38624,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -39348,7 +39366,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 141268,
       "name": "Zi-mi cine",
       "url": "https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI"

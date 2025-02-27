@@ -16,6 +16,10 @@
         {
           "name": "Marcela Gandara",
           "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
         }
       ],
       "date_added": "2022-09-14",
@@ -144,6 +148,10 @@
         {
           "name": "Marco Barrientos",
           "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
         }
       ],
       "date_added": "2022-09-14",
@@ -338,6 +346,10 @@
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
         }
       ],
       "date_added": "2022-09-14",
@@ -1148,7 +1160,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 350679,
       "name": "Mi Casa Y Yo",
       "url": "https://open.spotify.com/track/6XrklcX8kC1O21Nl3708dV"
@@ -1752,6 +1764,32 @@
       "duration_ms": 510941,
       "name": "Shekinah - Live",
       "url": "https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA"
+    },
+    {
+      "album": {
+        "name": "Dios de Generaciones (En Vivo)",
+        "url": "https://open.spotify.com/album/3ycy75nDasNRthHk2cqei5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231291,
+      "name": "Siempre Fuiste T\u00fa (En Vivo)",
+      "url": "https://open.spotify.com/track/0IfMJUJydrnsmpffAopUNe"
     },
     {
       "album": {

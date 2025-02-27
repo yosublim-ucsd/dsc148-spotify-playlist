@@ -184,7 +184,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 160434,
       "name": "A Simple Little Lullaby",
       "url": "https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l"
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P"
+      },
+      "artists": [
+        {
+          "name": "Isora Hill",
+          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177898,
+      "name": "From A Distance",
+      "url": "https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8"
+    },
+    {
+      "album": {
         "name": "Fruits of the Harvest 432 Hz (Piano)",
         "url": "https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 157135,
       "name": "Like a sculptor",
       "url": "https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
@@ -2138,6 +2156,24 @@
       "duration_ms": 158000,
       "name": "moonlight in my heart",
       "url": "https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE"
+    },
+    {
+      "album": {
+        "name": "Morning Stroll",
+        "url": "https://open.spotify.com/album/5AntDnve8CcLpMxfNaIchR"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129856,
+      "name": "Morning Stroll",
+      "url": "https://open.spotify.com/track/3yTWImqxM0Vd3izQPXHLdz"
     },
     {
       "album": {
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 131923,
       "name": "saman",
       "url": "https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr"

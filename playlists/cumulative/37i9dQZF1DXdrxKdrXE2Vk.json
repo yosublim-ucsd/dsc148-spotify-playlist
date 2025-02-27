@@ -3043,7 +3043,7 @@
     },
     {
       "album": {
-        "name": "Here Is Our Hallelujah (Live)",
+        "name": "Here Is Our Hallelujah",
         "url": "https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS"
       },
       "artists": [
@@ -4017,7 +4017,7 @@
     },
     {
       "album": {
-        "name": "It is Done (Live)",
+        "name": "It is Done",
         "url": "https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG"
       },
       "artists": [
@@ -5117,7 +5117,7 @@
     },
     {
       "album": {
-        "name": "More (Live)",
+        "name": "More",
         "url": "https://open.spotify.com/album/5WEZWJBFDrwHp5y8I7osCc"
       },
       "artists": [
@@ -7840,8 +7840,20 @@
           "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
         },
         {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
           "name": "Jasmine Mullen",
           "url": "https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj"
+        },
+        {
+          "name": "Tim Timmons",
+          "url": "https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX"
+        },
+        {
+          "name": "Travis Ryan",
+          "url": "https://open.spotify.com/artist/7u1e2COb5JA3hgQPQ0eSCJ"
         }
       ],
       "date_added": "2024-01-12",
@@ -8555,7 +8567,7 @@
     },
     {
       "album": {
-        "name": "Why Not Here? (Live)",
+        "name": "Why Not Here?",
         "url": "https://open.spotify.com/album/6lY6UsjJWMyVDta6cwLKKS"
       },
       "artists": [

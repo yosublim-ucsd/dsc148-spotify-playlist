@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music from new, independent artists.  Cover: i am yd. Artwork by Paola Saliby",
-  "num_followers": 224225,
+  "num_followers": 224311,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7VlXQAAAADSkhuXu01JMSQI3cYiB9HT",
+  "snapshot_id": "Z76f2QAAAAAMhmComvDff2dguPIow/V3",
   "tracks": [
     {
       "added_at": "2025-02-05 05:00:13",
@@ -23,6 +23,150 @@
       "duration_ms": 210148,
       "name": "my one tru",
       "url": "https://open.spotify.com/track/46sXodh4Ak1bhM669O26F5"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "okay cool",
+        "url": "https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg"
+      },
+      "artists": [
+        {
+          "name": "ENNA",
+          "url": "https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS"
+        }
+      ],
+      "duration_ms": 152926,
+      "name": "okay cool",
+      "url": "https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "duration_ms": 184048,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Fancy Restaurants",
+        "url": "https://open.spotify.com/album/02pYjwifHBJRkbFiQfrdTw"
+      },
+      "artists": [
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 161023,
+      "name": "Fancy Restaurants",
+      "url": "https://open.spotify.com/track/39yYf4jJRzbLArtvLvCIcw"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Lucy's Diamonds (fell from the sky)",
+        "url": "https://open.spotify.com/album/1J5V6ETBuafGolW9SiHopD"
+      },
+      "artists": [
+        {
+          "name": "Jack Critchlow",
+          "url": "https://open.spotify.com/artist/3E5qMpoEYsSXOPeTFzVS8q"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Lucy's Diamonds (fell from the sky)",
+      "url": "https://open.spotify.com/track/6OB8JfFJbczto9EmVIvzsC"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3"
+      },
+      "artists": [
+        {
+          "name": "Maisi",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "duration_ms": 154766,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "CUT IT OFF!",
+        "url": "https://open.spotify.com/album/3IIyOoNvKVHS2FpweEmMKj"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "CUT IT OFF!",
+      "url": "https://open.spotify.com/track/1KadoakLQSvHKLPldMSOlm"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "grace, please",
+        "url": "https://open.spotify.com/album/0YC2Q2cAarFbKrD2QHEtrt"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "duration_ms": 142056,
+      "name": "grace, please",
+      "url": "https://open.spotify.com/track/0ri5NpZPMI25f2FJjcAf7T"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/0hyedLv0yGxBBGHsbtGrxB"
+      },
+      "artists": [
+        {
+          "name": "BLVCK VI\u00d8LET",
+          "url": "https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b"
+        }
+      ],
+      "duration_ms": 215803,
+      "name": "home",
+      "url": "https://open.spotify.com/track/1VdQlTBNO01Htm6IDVhz0Z"
     },
     {
       "added_at": "2025-02-19 05:00:13",
@@ -75,6 +219,26 @@
       "duration_ms": 200211,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/2XhPcq6SsReimee5HgkJxS"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Forget About You",
+        "url": "https://open.spotify.com/album/5VRKBFeE5YhwTL88vsbjQd"
+      },
+      "artists": [
+        {
+          "name": "W\u00e9 Ani",
+          "url": "https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm"
+        },
+        {
+          "name": "Ajii",
+          "url": "https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8"
+        }
+      ],
+      "duration_ms": 159128,
+      "name": "Forget About You",
+      "url": "https://open.spotify.com/track/6N7EBohaq78cFAadagJMyP"
     },
     {
       "added_at": "2025-02-19 05:00:13",
@@ -139,22 +303,6 @@
       "duration_ms": 179578,
       "name": "I'M GOOD (HONEY)",
       "url": "https://open.spotify.com/track/6aJPNvnIZHA6qgCdTJzh4k"
-    },
-    {
-      "added_at": "2025-02-19 05:00:13",
-      "album": {
-        "name": "Pool Rules",
-        "url": "https://open.spotify.com/album/7LwF4xhIv5iRZJknwhKoIZ"
-      },
-      "artists": [
-        {
-          "name": "jwane",
-          "url": "https://open.spotify.com/artist/5Gmgo8JR5ZoQgtMksXbSZS"
-        }
-      ],
-      "duration_ms": 207908,
-      "name": "Pool Rules",
-      "url": "https://open.spotify.com/track/7r7SBNCzKa5AL6ltUk6hlB"
     },
     {
       "added_at": "2025-02-19 05:00:13",
@@ -719,22 +867,6 @@
     {
       "added_at": "2025-01-22 05:00:08",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 208347,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO"
-    },
-    {
-      "added_at": "2025-01-22 05:00:08",
-      "album": {
         "name": "you were just drunk",
         "url": "https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA"
       },
@@ -1135,22 +1267,6 @@
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
-        "name": "love me still",
-        "url": "https://open.spotify.com/album/0FcD7mQMihyzA8S1mhtN20"
-      },
-      "artists": [
-        {
-          "name": "VUJA DAE",
-          "url": "https://open.spotify.com/artist/4eekUgC49W60yQjsh84v1e"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "love me still",
-      "url": "https://open.spotify.com/track/067eHxPq674ZZUuhZEI7mX"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
         "name": "Building A Castle",
         "url": "https://open.spotify.com/album/3F5TtCJSg4fgaNAobZnWtZ"
       },
@@ -1243,38 +1359,6 @@
       "duration_ms": 192000,
       "name": "Midnight in Hollywood",
       "url": "https://open.spotify.com/track/1Cy15rAOPwG8uhNtAye7Wg"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Deathbed",
-        "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 161090,
-      "name": "Deathbed",
-      "url": "https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "GAHDAYUM",
-        "url": "https://open.spotify.com/album/4WzU3vXsEQVhbbNSvJL3cy"
-      },
-      "artists": [
-        {
-          "name": "Ajii",
-          "url": "https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8"
-        }
-      ],
-      "duration_ms": 114921,
-      "name": "GAHDAYUM",
-      "url": "https://open.spotify.com/track/3r04BVaJVgUC5F60qO9PWm"
     },
     {
       "added_at": "2025-01-08 16:58:18",

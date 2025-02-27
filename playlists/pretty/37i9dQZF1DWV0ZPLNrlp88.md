@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,308 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,324 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 28 | [洒落たmelody](https://open.spotify.com/track/2zxLp56UV7uCGnxBq8Wy36) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [洒落たmelody](https://open.spotify.com/album/0VrkwLwrnsnUbXJ8WULVbc) | 3:25 |
 | 29 | [心臓](https://open.spotify.com/track/2C4mdc0QRAPgoewH74qPmG) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [心臓](https://open.spotify.com/album/1Vk2u44xlkLzzw7Ks8eMUl) | 3:42 |
 | 30 | [健康なライフ](https://open.spotify.com/track/3QilKo8Ltdrqj7vGzFwbz1) | [踊る！ディスコ室町](https://open.spotify.com/artist/0zOXaa6lzmLjtp5mbRV37p) | [Murology](https://open.spotify.com/album/1sJ9IkvXyTVlvhUk6ZtFk6) | 5:08 |
-| 31 | [We Find the Sound](https://open.spotify.com/track/4DQnJIsWoRbnmTlLAeGmdK) | [PulseArc](https://open.spotify.com/artist/18DBsrOR7mpOz8RCY9EI07), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [We Find the Sound](https://open.spotify.com/album/1w9Zmm2htVayok6QycWE41) | 3:27 |
+| 31 | [We Find the Sound](https://open.spotify.com/track/4DQnJIsWoRbnmTlLAeGmdK) | [PulseArc](https://open.spotify.com/artist/18DBsrOR7mpOz8RCY9EI07), [CHIAKI SATO](https://open.spotify.com/artist/0JHyuCwHf4u5dmIQxfeuV7) | [We Find the Sound](https://open.spotify.com/album/1w9Zmm2htVayok6QycWE41) | 3:27 |
 | 32 | [on & on](https://open.spotify.com/track/0SLmyaqNDmqVBakll401xr) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14), [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [ON&ON](https://open.spotify.com/album/46T3rFSu6bKD9D7ocjTe4U) | 3:08 |
 | 33 | [ラストシーン](https://open.spotify.com/track/6r4z3cvBN51fOoP8kFbbwt) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X), [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [ラストシーン](https://open.spotify.com/album/5Oo7Gb6UVY9vRAJTmOtsDw) | 4:12 |
 | 34 | [猫のレコード](https://open.spotify.com/track/6jO6n3oHIJokUSadqzk5O1) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [猫のレコード](https://open.spotify.com/album/4R0JkIMxJV6qUbSepyyY8e) | 3:15 |

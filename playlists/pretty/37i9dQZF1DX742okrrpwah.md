@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,812 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,879 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 79 | [Cold Fire](https://open.spotify.com/track/6ASYNohdCRHvQBgelgR1nX) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Cold Fire](https://open.spotify.com/album/252LrLm8gZcT7OHGt0FJYt) | 5:29 |
 | 80 | [HAZY](https://open.spotify.com/track/4QuFfQ9IJk4ghHiKeNuy1U) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [HAZY](https://open.spotify.com/album/65mklZxfnBFkbRVcDgRL7d) | 2:46 |
 | 81 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 |
-| 82 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 |
+| 82 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin \(Chapitre I\)](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 |
 | 83 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 84 | [Slow](https://open.spotify.com/track/3OcdhnVExxdk4RKyB8zNgB) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Slow](https://open.spotify.com/album/0d0qg2Be3eJM1RkDvnLs8N) | 2:45 |
 | 85 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |

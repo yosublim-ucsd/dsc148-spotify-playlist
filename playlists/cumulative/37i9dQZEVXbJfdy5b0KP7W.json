@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 206693,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
@@ -13652,6 +13652,24 @@
       "duration_ms": 212009,
       "name": "Quien Cura",
       "url": "https://open.spotify.com/track/4ofg8iy7Oh43yFhv8zMi0I"
+    },
+    {
+      "album": {
+        "name": "Quiero Besarte la Boca",
+        "url": "https://open.spotify.com/album/2g7GXEzcpZ7AmbbMDoKCtW"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150976,
+      "name": "Quiero Besarte la Boca",
+      "url": "https://open.spotify.com/track/5aPEnoEm93k5vytdyytOlm"
     },
     {
       "album": {

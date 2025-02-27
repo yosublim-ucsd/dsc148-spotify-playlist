@@ -4,7 +4,7 @@
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-50 songs - 3 hr 20 min
+52 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cinta Sederhana](https://open.spotify.com/track/5srmbaORKvTMUYpYME1fuy) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:23 | 2023-02-23 |  |
 | [Could It Be](https://open.spotify.com/track/2EJqk0IabX2xVZHOl3YuXu) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:41 | 2024-03-26 |  |
 | [Could It Be](https://open.spotify.com/track/6Khn20yWc0YGJy1wbkz3Be) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:41 | 2023-02-23 | 2024-04-19 |
+| [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 | 2025-02-26 |  |
 | [Jangan Cepat Berlalu](https://open.spotify.com/track/0UdaSZnSoXauJgyfo6UVsa) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/2emFJftu1AhmTR9trpLIIW) | 4:05 | 2023-02-23 |  |
 | [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 | 2023-02-23 | 2024-04-19 |
 | [Jatuh Hati](https://open.spotify.com/track/6VjeuA1GAK1jxk8Ic2N3tq) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/4qjxXBBkd1WGW1lz6ibLMy) | 3:27 | 2024-03-26 |  |
@@ -46,6 +47,7 @@
 | [Pergilah](https://open.spotify.com/track/2zalhpGuVqJFCegmdehALm) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:10 | 2023-02-23 | 2024-04-19 |
 | [Pergilah](https://open.spotify.com/track/685MUTOqE71MmtiJ4nglPq) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:10 | 2024-03-26 |  |
 | [Ragu](https://open.spotify.com/track/6pSRXKAwftu2a7KOjRlbz3) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Ragu](https://open.spotify.com/album/3FWd0eQDsSRsU2TK0ZYL8s) | 4:12 | 2023-02-23 |  |
+| [Sang Rembulan](https://open.spotify.com/track/2kYIeEKi6a0YBzAZ741kkL) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:49 | 2025-02-26 |  |
 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 | 2023-02-23 | 2024-04-19 |
 | [Serba Salah](https://open.spotify.com/track/7xBXFplDgedkHsk8tYMzsB) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 4:22 | 2024-03-26 |  |
 | [Si Paling Mahir](https://open.spotify.com/track/13PG6EwYObFHU3hMWT5HBt) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Si Paling Mahir](https://open.spotify.com/album/0MLJXJNbm6XtlrWqPZ9vpE) | 4:15 | 2025-01-24 |  |

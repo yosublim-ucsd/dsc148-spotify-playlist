@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,880 likes - 48 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,886 likes - 48 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 47 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
 | 48 | [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 |
 
-Snapshot ID: `Z7u2gAAAAADCvp93kTB9G/O9wwykp/qN`
+Snapshot ID: `Z70IAAAAAABYRNY0v/aUpjMJ0omCeQgX`

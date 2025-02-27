@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14496,
+  "num_followers": 14542,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7xvfgAAAACCazDAzuysYdiabECkd1Td",
+  "snapshot_id": "Z7607wAAAADKr74bTsc6yZlJWc/T9e0i",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -43,6 +43,26 @@
       "duration_ms": 284000,
       "name": "222",
       "url": "https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x"
+    },
+    {
+      "added_at": "2025-02-26 06:30:07",
+      "album": {
+        "name": "Empty hand",
+        "url": "https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri"
+      },
+      "artists": [
+        {
+          "name": "Hidden frequencies",
+          "url": "https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB"
+        },
+        {
+          "name": "Guru Gopalan",
+          "url": "https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW"
+        }
+      ],
+      "duration_ms": 181751,
+      "name": "Empty hand",
+      "url": "https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U"
     },
     {
       "added_at": "2025-01-31 04:48:38",
@@ -292,8 +312,8 @@
       },
       "artists": [
         {
-          "name": "8c Sam",
-          "url": "https://open.spotify.com/artist/3wlmBQ2p8TYonVM9CMuaUX"
+          "name": "8c sam",
+          "url": "https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx"
         },
         {
           "name": "8c tony",
@@ -925,22 +945,6 @@
       "url": "https://open.spotify.com/track/7tIXZQDdZIhzkTShkehC4k"
     },
     {
-      "added_at": "2024-12-19 11:21:15",
-      "album": {
-        "name": "Ve",
-        "url": "https://open.spotify.com/album/0H5DxJ9zxiA3qY2t2u1oVR"
-      },
-      "artists": [
-        {
-          "name": "Ungal Nachi",
-          "url": "https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Ve",
-      "url": "https://open.spotify.com/track/6JixmCKEDe5uYKVdPsyGIY"
-    },
-    {
       "added_at": "2025-01-16 07:38:15",
       "album": {
         "name": "L'sX&O's",
@@ -1055,22 +1059,6 @@
       "duration_ms": 183111,
       "name": "Love Ticket",
       "url": "https://open.spotify.com/track/0MVy63AwIzh0jXG2NEnuUi"
-    },
-    {
-      "added_at": "2024-12-13 11:21:28",
-      "album": {
-        "name": "Phonix Paravai",
-        "url": "https://open.spotify.com/album/1Gt8V62lzlCdB8uQVW7cJi"
-      },
-      "artists": [
-        {
-          "name": "MG Star Boy",
-          "url": "https://open.spotify.com/artist/3X1j6AmTU7ucvSN4p6GI4x"
-        }
-      ],
-      "duration_ms": 179519,
-      "name": "Phonix Paravai",
-      "url": "https://open.spotify.com/track/47Jv2i9CvjC8oWRztGgTK8"
     }
   ],
   "unique_name": "RADAR Tamil",

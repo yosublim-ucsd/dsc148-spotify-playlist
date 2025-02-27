@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,826 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,844 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 81 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
 | 82 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
 | 83 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
-| 84 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 |
+| 84 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\)](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 |
 | 85 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 86 | [Come Alive](https://open.spotify.com/track/4QaZJfMFE8zA4qJlFJoPxh) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Come Alive](https://open.spotify.com/album/4Yltydw2uop6lwRop9OSbP) | 8:01 |
-| 87 | [Son of Suffering \- Live](https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 7:35 |
+| 87 | [Son of Suffering](https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Lamb of God](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 7:35 |
 | 88 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
 | 89 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 |
 | 90 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |

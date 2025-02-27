@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,905 likes - 126 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,984 likes - 126 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
 | 126 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 |
 
-Snapshot ID: `Z7jldwAAAAAWbvWJaiucOWXpgjFwvwJx`
+Snapshot ID: `Z7jldwAAAACzUXrE12Q6ua72oeO0D4d4`

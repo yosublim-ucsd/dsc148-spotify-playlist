@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,692 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,713 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 59 | [Gucci Bag](https://open.spotify.com/track/0S5pYslzTs7hL1YEXgW7FZ) | [Mr\. Kavalicious](https://open.spotify.com/artist/1kmI4oiZm0peQKvgF6BnIO) | [Gucci Bag](https://open.spotify.com/album/0QwMv3DjH64eV1EmiP2xYo) | 3:31 |
 | 60 | [Get Your Love \- Extended Mix](https://open.spotify.com/track/4vqEEyqMYBCMS4ptMTgGyY) | [Gabriele Ranucci](https://open.spotify.com/artist/3bNnbdDAWdFKF7OSdB8GwA) | [Get Your Love](https://open.spotify.com/album/2o7p8IgVf5mVTDGBydNciX) | 5:49 |
 
-Snapshot ID: `Z240dwAAAAC0vQL5QwhKhv33uoXsUSg8`
+Snapshot ID: `Z240dwAAAAB7E2Hvwues+qlgrue+iyaD`

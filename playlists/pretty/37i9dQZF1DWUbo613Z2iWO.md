@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Giift
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,125 likes - 162 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,135 likes - 162 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 21 | [Casual](https://open.spotify.com/track/7Dj21omhOResPePxNWpy80) | [A\-Lex](https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3) | [Casual](https://open.spotify.com/album/1u4AJ7kZkV5HlRdpHqTg75) | 3:15 |
 | 22 | [COUTURE](https://open.spotify.com/track/55U1NwmDzrJcRhoiQYj1Ca) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [COUTURE](https://open.spotify.com/album/3UkaTpmazdfhV7a8NjWn07) | 2:59 |
 | 23 | [1\-800 Heartbreak](https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [1\-800 Heartbreak](https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ) | 3:40 |
-| 24 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
+| 24 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
 | 25 | [Preach](https://open.spotify.com/track/6IbR4u6OnMPIf3hkCAMXOh) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Preach](https://open.spotify.com/album/6dC9IJx0kWu3Kv17B57Ss4) | 3:19 |
 | 26 | [Emotions](https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Emotions](https://open.spotify.com/album/2RniGd4rfm2HFYwajJKNpE) | 3:27 |
 | 27 | [Another Man's Life](https://open.spotify.com/track/13Td777M2ReYcBLsNRfDA6) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Person I Knew / Another Man's Life](https://open.spotify.com/album/0HqPyQcks2JPLAdvjVE7L4) | 3:06 |

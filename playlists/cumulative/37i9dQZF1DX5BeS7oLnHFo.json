@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "\u0635\u062d",
+        "url": "https://open.spotify.com/album/4eGrg3GVEalY2zyXtXV7e0"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106054,
+      "name": "\u0635\u062d",
+      "url": "https://open.spotify.com/track/7mHSueNmkXUzHCv4JPgNsc"
+    },
+    {
+      "album": {
         "name": "\u0641\u0648\u064a\u0642\u0648",
         "url": "https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0"
       },

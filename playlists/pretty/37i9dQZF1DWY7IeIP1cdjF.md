@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Slayter & Cris Mj, Bad Bunny, Anitta, FloyyMenor and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,768,957 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,768,759 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 59 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 |
 | 60 | [Sata](https://open.spotify.com/track/62Ivi1ONWg0DU125ZeOk5k) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 2:49 |
 
-Snapshot ID: `Z7gIagAAAAD+KBQQsNucnjOLl71mh8gO`
+Snapshot ID: `Z7gIagAAAADihPKJ9IR7qLRMrypSdJSz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,584 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,609 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 11 | [Tus Labios \- Remix](https://open.spotify.com/track/6yNpqq8YAbN4HpJBGcPVxX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tus Labios \(Remix\)](https://open.spotify.com/album/72nce0yOlybMLWDJQKOuS9) | 3:15 |
 | 12 | [BESITOS](https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [BESITOS](https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX) | 2:28 |
 | 13 | [TITI](https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [TITI](https://open.spotify.com/album/7H26CGe2Aom4hk3RucV8vU) | 3:07 |
-| 14 | [2DESCONOCI2](https://open.spotify.com/track/4CLQFzwGNCo9qIHiFekunW) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [At' Fat](https://open.spotify.com/artist/3Qt3GFaWwOmMPQWGk0CcRz) | [2DESCONOCI2](https://open.spotify.com/album/48Dd7cdNRhqONBvwjoXaTL) | 3:29 |
+| 14 | [2DESCONOCI2](https://open.spotify.com/track/4CLQFzwGNCo9qIHiFekunW) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7) | [2DESCONOCI2](https://open.spotify.com/album/48Dd7cdNRhqONBvwjoXaTL) | 3:29 |
 | 15 | [Benjamin](https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO) | [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [The Boys C](https://open.spotify.com/artist/7hpjP1bD7QrBqYtZ4leZIz) | [Benjamin](https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb) | 4:11 |
 | 16 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 |
 | 17 | [Energias](https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 3:18 |

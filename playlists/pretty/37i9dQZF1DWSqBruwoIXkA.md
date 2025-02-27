@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this\. cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,706 likes - 150 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,644 likes - 150 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

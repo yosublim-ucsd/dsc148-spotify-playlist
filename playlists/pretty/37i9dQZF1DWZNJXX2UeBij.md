@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Jab We Met
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,463,607 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464,756 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 | 26 | [Tu Hi Haqeeqat](https://open.spotify.com/track/3OLFqbd9ZeVjaUKTiaLsD6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Irshan Ashraf](https://open.spotify.com/artist/5OG0IXzIqYPB67VMlEJOo0), [Shadab](https://open.spotify.com/artist/0NeoPmJb4LMYLHhX8OVaNA) | [Tum Mile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ip9JCpT1IF9GvhAxzufTH) | 5:02 |
 | 27 | [Ucha Lamba Kad](https://open.spotify.com/track/2hyYqX8IVVxFEFIUf0zZam) | [Anand Raj Anand](https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Welcome \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34SE86n8INwLrMts8z1SaT) | 4:39 |
 | 28 | [Pehli Nazar Mein](https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 5:12 |
-| 29 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 |
+| 29 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 |
 | 30 | [Kuchh Khaas](https://open.spotify.com/track/01npLGQTbZBIHVRcXJbLzR) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Fashion](https://open.spotify.com/album/2GSUgBsr2UX7xzyvZY6Frz) | 4:56 |
 | 31 | [Tere Liye](https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:31 |
 | 32 | [Chor Bazaari](https://open.spotify.com/track/4gqHEia13bp5EFWGitiKWx) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yoQE2XBnwdUyoOkoprTfT) | 4:17 |

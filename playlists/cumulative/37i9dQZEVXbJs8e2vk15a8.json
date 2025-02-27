@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -4618,6 +4618,24 @@
     {
       "album": {
         "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/04mHr76sMR8RSqVIgWl785"
+    },
+    {
+      "album": {
+        "name": "IVE EMPATHY",
         "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
       },
       "artists": [
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 194733,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
@@ -12166,7 +12184,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 225881,
       "name": "Cuidado Que Te Supero",
       "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
@@ -18074,7 +18092,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 210389,
       "name": "F L Y",
       "url": "https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95"
@@ -20174,7 +20192,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 210389,
       "name": "F\u30fbL\u30fbY",
       "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
@@ -42514,7 +42532,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 218197,
       "name": "Rata De Dos Patas",
       "url": "https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36"
@@ -42724,7 +42742,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 184993,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"

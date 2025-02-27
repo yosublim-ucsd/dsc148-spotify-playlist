@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,852 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,891 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 12 | [PRAISES \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
 | 13 | [I'm Good](https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 2:36 |
 | 14 | [Your Love Won't Give Up](https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Your Love Won't Give Up](https://open.spotify.com/album/77MWkhxbUxCa4oWNLFXP1J) | 2:55 |
-| 15 | [Way Maker \- Remix](https://open.spotify.com/track/3WqIJvIoKag7Vt0KBuqTyz) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker \(Remix\)](https://open.spotify.com/album/0YfhxdzAp9KwcXgU8xUquv) | 3:24 |
+| 15 | [Way Maker \- Remix](https://open.spotify.com/track/3WqIJvIoKag7Vt0KBuqTyz) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/0YfhxdzAp9KwcXgU8xUquv) | 3:24 |
 | 16 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 |
 | 17 | [VIBRATIONS](https://open.spotify.com/track/4pqwoVOwvSbXhpYwNl0ufU) | [Cody Towell](https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us) | [VIBRATIONS](https://open.spotify.com/album/3C7oyoiqfsSL1gAFCI78YQ) | 3:22 |
 | 18 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |

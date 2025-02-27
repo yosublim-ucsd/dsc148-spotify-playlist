@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,539 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,560 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 3 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 4 | [24HRS](https://open.spotify.com/track/2QnMY2lsuth1YwgD3DIy8q) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [24HRS](https://open.spotify.com/album/3N3mkx1f9gQkbZIrVrcUyr) | 2:41 |
 | 5 | [Lioness \- Francis Mercier Remix](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Lioness \(Francis Mercier Remix\)](https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf) | 3:13 |
-| 6 | [Stars In My Eyes](https://open.spotify.com/track/0Q7bOcpFas8koz5fqLDaUZ) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30), [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb) | [Stars In My Eyes](https://open.spotify.com/album/2nFtI51DMpkyBSZEiKsKUp) | 2:45 |
+| 6 | [Stars In My Eyes](https://open.spotify.com/track/0Q7bOcpFas8koz5fqLDaUZ) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30), [Bastize](https://open.spotify.com/artist/5MW5xuEZuixdBIRu9qFGYu) | [Stars In My Eyes](https://open.spotify.com/album/2nFtI51DMpkyBSZEiKsKUp) | 2:45 |
 | 7 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 |
 | 8 | [Mindscape](https://open.spotify.com/track/4L0mNLmlpinVH6m1tjOSyx) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Mindscape](https://open.spotify.com/album/4xdtwhroaFhsrJ6tsgQv9E) | 2:24 |
 | 9 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |

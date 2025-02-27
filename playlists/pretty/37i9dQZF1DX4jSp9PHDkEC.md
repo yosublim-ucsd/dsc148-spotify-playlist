@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,058 likes - 300 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,883 likes - 300 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 |
 | 300 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 |
 
-Snapshot ID: `Z70kbwAAAABmx+BbX65c14t7Wca6LOd2`
+Snapshot ID: `Z79JGAAAAADPO+w2g7dYhpNHTg53WZkp`

@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Frezza in cover.
 
-428 songs - 19 hr 47 min
+429 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Il Malessere \(feat\. Guè\)](https://open.spotify.com/track/2QY4kWgGeTMVkHPQXevNaS) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Edo \- Ultimo Atto](https://open.spotify.com/album/04pYMVGJMSk58Ew6QqZCay) | 2:22 | 2024-04-04 | 2024-05-03 |
 | [IL MIO VINO \(feat\. Speranza\)](https://open.spotify.com/track/4Ok2Kw1zqfD5N5h7IToYtl) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [PIAZZA NOIA](https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa) | 3:28 | 2023-02-09 | 2023-03-10 |
 | [Imperativo](https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Imperativo](https://open.spotify.com/album/05J2YPEPokhVensBiDokWp) | 2:18 | 2022-06-30 | 2022-07-15 |
+| [In The Block](https://open.spotify.com/track/57wUAPJpSY9tWTSeiOUUhn) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW), [Strange Beatz](https://open.spotify.com/artist/4rZtbzZGvAF40pEpiaGZqP) | [P.A.S.](https://open.spotify.com/album/1mGVUOrgbQssKkgKsIYbEd) | 2:39 | 2025-02-26 |  |
 | [Ind smman](https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [HOLLYWOOD](https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS) | 2:34 | 2023-01-12 | 2024-04-12 |
 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 | 2023-09-07 | 2023-10-06 |
 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2024-05-09 | 2024-05-18 |
@@ -332,7 +333,7 @@
 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 | 2023-01-06 | 2023-04-07 |
 | [RINCELL](https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [RINCELL](https://open.spotify.com/album/4OWZxHL6TAVfYmJXMZXZwr) | 2:26 | 2024-04-04 | 2024-04-26 |
 | [RIP](https://open.spotify.com/track/2hlm13i9IpSFjOT1dbrJGq) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RIP](https://open.spotify.com/album/5fVm5sLJr1a7oVApONzlFq) | 2:18 | 2024-09-19 | 2024-12-20 |
-| [RISPETTO](https://open.spotify.com/track/4reyq1uCEFqfnq6tFltw3y) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RISPETTO](https://open.spotify.com/album/2Vn0jyCkXdw5wO1lm9WY6y) | 2:20 | 2024-12-19 |  |
+| [RISPETTO](https://open.spotify.com/track/4reyq1uCEFqfnq6tFltw3y) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RISPETTO](https://open.spotify.com/album/2Vn0jyCkXdw5wO1lm9WY6y) | 2:20 | 2024-12-19 | 2025-02-27 |
 | [RNAR SPUORCH](https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [RNAR SPUORCH](https://open.spotify.com/album/16ldGPgb034QKbjtGSbeRI) | 2:50 | 2024-09-12 | 2024-09-27 |
 | [Rolex \(feat\. Lele Blade\)](https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:02 | 2024-01-16 | 2024-02-16 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-22 | 2023-12-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220 likes - 54 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 54 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 | 2 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 3 | [Hell Broke Loose](https://open.spotify.com/track/1qaiM5Wx7bGCiLQFOHAcZk) | [Dave Not Dave](https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB) | [Choices Made While Dreaming](https://open.spotify.com/album/0GJZZ8KCwqt3i95hJ4nZuU) | 4:26 |
 | 4 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 |
-| 5 | [Greenback Boogie](https://open.spotify.com/track/74RBxG1kzNOYOgDGn5RO8S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie](https://open.spotify.com/album/7zaHiNj5j5vDwpGCH9DHn2) | 4:57 |
+| 5 | [Greenback Boogie \(Suits Version\)](https://open.spotify.com/track/4u2hrLK20D8fsdfLtVLm4S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie \(Suits Version\)](https://open.spotify.com/album/2DZN3GLI9URBhcTJAc6wDx) | 3:02 |
 | 6 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
 | 7 | [Howlin’ For You](https://open.spotify.com/track/4YEjTfbxA2gqnIRwLyvsIX) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/6BhS0iZh607Op7sWvSXT4o) | 3:11 |
 | 8 | [When They Fight, They Fight](https://open.spotify.com/track/2nKAMiO5pCu1ebpnmiukcz) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/79cyfPlxIyJEXrt2rvREKN) | 3:20 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 | 53 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 54 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 
-Snapshot ID: `Z74oiAAAAADau4Skidh2O3Nxs2PTvn7f`
+Snapshot ID: `Z791rwAAAAA6w9OkHhIq6IlrNl0snhcz`

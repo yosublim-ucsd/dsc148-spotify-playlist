@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-3,295 songs - 4 day 21 hr 17 min
+3,296 songs - 4 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [Chicago Streets](https://open.spotify.com/track/5C5Po2qJnN9b0NrJJ7vPhW) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Chicago Streets](https://open.spotify.com/album/0qfslbhBleTy6K0e7d9UaI) | 1:44 | 2025-01-26 |  |
 | [Chicago Streets](https://open.spotify.com/track/2oz3D6NZic6Z9NmjdTrX1H) | [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Chicago Streets](https://open.spotify.com/album/51HIIXZboIxxxFRrgU91MY) | 1:45 | 2024-07-20 | 2024-08-20 |
 | [childsplay](https://open.spotify.com/track/0Xvhc0bXqEfmFnjsNO869A) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [childsplay](https://open.spotify.com/album/09IURdEzoF2FNssa0Z3WI8) | 1:04 | 2024-02-22 | 2024-03-23 |
-| [Chillin](https://open.spotify.com/track/5NUp0ZM8PVhrO5Q4VbqLII) | [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr) | [Sunburn](https://open.spotify.com/album/17KGjmeOYqvtFxHtkN05FT) | 1:28 | 2025-01-17 |  |
+| [Chillin](https://open.spotify.com/track/5NUp0ZM8PVhrO5Q4VbqLII) | [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr) | [Sunburn](https://open.spotify.com/album/17KGjmeOYqvtFxHtkN05FT) | 1:28 | 2025-01-17 | 2025-02-27 |
 | [Chillin](https://open.spotify.com/track/0AVjf7P0zyHVqb1viPhCvj) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Chillin](https://open.spotify.com/album/2QsasgaNPHoH2UOEftiLdM) | 1:28 | 2024-12-15 |  |
 | [Chillin](https://open.spotify.com/track/2efvM9TzUBHxz3HzUIzADw) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Chillin](https://open.spotify.com/album/4OXFPAlm1et1DErX2EEuXE) | 1:45 | 2024-03-22 | 2024-05-03 |
 | [Chilling Club](https://open.spotify.com/track/60xLQnxUSaI0UbVODUiyZW) | [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH), [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Chilling Club](https://open.spotify.com/album/1xycicqi4m3ZOESA5ti6Gt) | 2:06 | 2023-12-07 | 2024-01-13 |
@@ -2409,6 +2409,7 @@
 | [Sap Green](https://open.spotify.com/track/7uaFkXXFrkRUFRXnhnsqnn) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Sap Green](https://open.spotify.com/album/7KZDCmPLTdS0z0TNBaUeDi) | 1:41 | 2024-04-17 | 2024-06-29 |
 | [Sapphire Haze](https://open.spotify.com/track/6Wsmf1bH9E5oeNhDtxaLi0) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sapphire Haze](https://open.spotify.com/album/5DsAztdWfKSGRIkn9kSxnK) | 1:58 | 2025-02-06 |  |
 | [Sativa Sunshine](https://open.spotify.com/track/2OekQ2lGXV0U6hTprUf1cG) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Sativa Sunshine](https://open.spotify.com/album/3PsuchmGfCFc2tspNPKcrL) | 1:50 | 2024-09-17 | 2024-12-15 |
+| [Saturday Bossa](https://open.spotify.com/track/5lMP2fxrhSkXAMvf3i7I6i) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Saturday Bossa](https://open.spotify.com/album/6GFeTGMHjJaGT9D6hhy8e5) | 2:11 | 2025-02-26 |  |
 | [Saucy](https://open.spotify.com/track/6PrUZy63tzMabjBFCTXYZV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [pumpkin seeds](https://open.spotify.com/artist/0uexbAYREufQRWK2y2W7MZ), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Saucy](https://open.spotify.com/album/6vvw1HJM4oEhLH5Ni2tVr9) | 2:13 | 2024-05-31 | 2024-06-08 |
 | [Saucy](https://open.spotify.com/track/71HZGDlNrmzFMduhLQ3rZA) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [pumpkin seeds](https://open.spotify.com/artist/0uexbAYREufQRWK2y2W7MZ) | [Back In Style \. \. .](https://open.spotify.com/album/1URgYg5QlUaGpn8snTPNz1) | 2:13 | 2024-06-07 | 2024-07-11 |
 | [Saudade](https://open.spotify.com/track/32cwqzRNRzCLP8stZ5HNaK) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Saudade](https://open.spotify.com/album/3zb2PgzfCcSQ4qYgRApIlu) | 2:32 | 2025-01-26 |  |

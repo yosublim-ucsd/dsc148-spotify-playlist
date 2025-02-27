@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,494 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,488 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 100 | [Hunting Nirvana](https://open.spotify.com/track/6l6vsrPwhBdjKx0deIENXd) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [FESTIVAL SEASON](https://open.spotify.com/album/676Sf6nD4W2V9oV1QxzpPK) | 2:58 |
 | 101 | [Out Of The Water](https://open.spotify.com/track/1P8ZF3KPLP1gMftGnWpvIK) | [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Out Of The Water](https://open.spotify.com/album/7oF2CTzLN9LL3m6pXG4X5z) | 3:29 |
 
-Snapshot ID: `Z7e0EQAAAAD889F3uApE2VPDx+FJEuaB`
+Snapshot ID: `Z7e0EQAAAABg7dWpYu8XSUnFLYB0d0uT`

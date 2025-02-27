@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Yves Jarvis, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Sebastian Gaskin, Artwork: Isu Kim.
 
-2,026 songs - 4 day 8 hr 56 min
+2,032 songs - 4 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [2011 Caravan](https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/7D4WeXPKCyZFnh8Fm4pC7x) | 2:40 | 2025-01-15 | 2025-01-30 |
 | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/album/0cBU0AZY9we5Pe93uhgwbz) | 2:52 | 2024-07-24 | 2024-08-01 |
 | [21 On 21 Off](https://open.spotify.com/track/1kcGKCX9y9NmOcbtF2ST6m) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [21 On 21 Off](https://open.spotify.com/album/7hlfOPOQtaH72Asn1DxppK) | 3:19 | 2024-07-03 | 2024-07-18 |
-| [222](https://open.spotify.com/track/2mmqMSpOXQZ1R3s6PJgxt2) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [222](https://open.spotify.com/album/2V9Q97lKamiSUUx6kpW8Xc) | 2:09 | 2025-02-05 |  |
+| [222](https://open.spotify.com/track/2mmqMSpOXQZ1R3s6PJgxt2) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [222](https://open.spotify.com/album/2V9Q97lKamiSUUx6kpW8Xc) | 2:09 | 2025-02-05 | 2025-02-27 |
 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 | 2023-11-15 | 2023-11-30 |
 | [23 SPECIAL](https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Kaleidoscope](https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW) | 3:02 | 2024-07-10 | 2024-08-01 |
 | [24/7](https://open.spotify.com/track/6G9AryFV1qXBmH3UC6d6Al) | [Frankie Valentino](https://open.spotify.com/artist/2z4N6crXOGXnSY8dd1OQgP), [Hundo](https://open.spotify.com/artist/09mOEVjWNtwX3lcHqZewBW) | [24/7](https://open.spotify.com/album/5cl6xg32SlrQrcR7L4GFmn) | 2:36 | 2024-01-10 | 2024-01-25 |
@@ -305,6 +305,7 @@
 | [Celle\-là \- Démo](https://open.spotify.com/track/447DrDxbrbhJdHbbk2HFe2) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là/Moments \(Démos\)](https://open.spotify.com/album/4P6JkMP5RZKfNKYvRcKfX4) | 3:09 | 2024-01-10 | 2024-01-25 |
 | [Cellophane](https://open.spotify.com/track/3nwYr9p7l44qG4IzMjS4rB) | [Holy Felix](https://open.spotify.com/artist/6aGKrTAlzrHfzXMsgw6Y18) | [7](https://open.spotify.com/album/0dLh7tlRfdEvZnJLN0Johp) | 3:04 | 2024-05-22 | 2024-06-01 |
 | [Cemetery Somewhere](https://open.spotify.com/track/2uzxk04Y7RgMF6Bf9vLNYn) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Cemetery Somewhere](https://open.spotify.com/album/6y430RG11OE5iKOFyH5lrM) | 3:35 | 2024-02-14 | 2024-02-23 |
+| [Cerise](https://open.spotify.com/track/0gZAVQxm5iAI0gYJfOX8Gr) | [Gawbé](https://open.spotify.com/artist/7oR4GmycUYIxBe37E9JW1M) | [l'endroit l'envers](https://open.spotify.com/album/4ZFhDXA2Pk6CiOfUAwPmoP) | 3:15 | 2025-02-26 |  |
 | [certainty](https://open.spotify.com/track/3eQmqGDDJDvFsPjINNcFoT) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP), [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [certainty](https://open.spotify.com/album/1mW388OjThhtWUVMwp4bl4) | 3:36 | 2024-07-24 | 2024-08-08 |
 | [Certainty Of Life](https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Certainty Of Life](https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB) | 2:39 | 2024-04-10 | 2025-01-16 |
 | [Change Your Mind](https://open.spotify.com/track/0v49IQxhKOEw2eWv7hYiCn) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Change Your Mind](https://open.spotify.com/album/3BTH2AziFRHfvTEEruGyWp) | 3:50 | 2024-05-15 | 2024-06-13 |
@@ -897,6 +898,7 @@
 | [jealous guy blues](https://open.spotify.com/track/4fv1EBWnHQV7eLz07Nn7Dh) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [jealous guy blues](https://open.spotify.com/album/37lURfUgQDu3b0060sakAq) | 4:22 | 2023-11-22 | 2023-11-30 |
 | [Jeje](https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Jeje](https://open.spotify.com/album/3kOBu4Rnj58f6W3LvwvFYD) | 2:49 | 2024-03-06 | 2024-04-11 |
 | [Jenny](https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau) | [clay pigeon](https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL) | [Jenny](https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp) | 3:59 | 2024-06-19 | 2024-07-11 |
+| [Jettas & Volvos \(feat\. Thelonious, VNDRE\)](https://open.spotify.com/track/1V3M8KRuItvOrr4cYWDq40) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [VNDRE](https://open.spotify.com/artist/7JTaT8OlC1WScqrwNJGzdM) | [08 JETTA](https://open.spotify.com/album/2ckmcwJf3JAtD5hkBO57kJ) | 3:51 | 2025-02-26 |  |
 | [JEUX](https://open.spotify.com/track/318BY3JYjVlvn759oRWM12) | [Ms\. Bella](https://open.spotify.com/artist/75Y3RKposeHizzrQZyg6A7) | [JEUX](https://open.spotify.com/album/2FFqxetRyjLukRpc5TzuxC) | 2:34 | 2025-01-15 | 2025-01-23 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-08-16 | 2023-09-14 |
 | [Jiggaban](https://open.spotify.com/track/5x39zjb5i0h8IeG39Yi00U) | [Bouff](https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s) | [Jiggaban](https://open.spotify.com/album/5MwAkPCHH4Y87r0CPtW4hI) | 2:09 | 2023-07-26 | 2023-08-17 |
@@ -924,6 +926,7 @@
 | [KARMA](https://open.spotify.com/track/1FJ8IzppV7pMqdYxYmuNnv) | [Malaika Terry](https://open.spotify.com/artist/5j4s3NQ1MYuJbswcZs6ncH) | [KARMA](https://open.spotify.com/album/6UjIUHSup1zOTYCdlxUyDm) | 2:23 | 2024-05-15 | 2024-06-01 |
 | [Karma \(Feet Cold\)](https://open.spotify.com/track/1Wq0A6P3DFG4ZXaKbV3uW2) | [Driver95](https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1) | [Karma \(Feet Cold\)](https://open.spotify.com/album/4kex77M3Znlj3za5099jfR) | 2:32 | 2024-04-03 | 2024-04-19 |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-15 | 2023-11-30 |
+| [Keep on Dancing](https://open.spotify.com/track/14q8zACdaQPplLtXsRfFoz) | [Celleste](https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE) | [Keep on Dancing](https://open.spotify.com/album/3LavWZUYC6dp2NEwVU6w0b) | 2:42 | 2025-02-26 |  |
 | [Keep on Giving the Love](https://open.spotify.com/track/3wuiO5xrmKFNufXWSyuOmU) | [Josh Alexander](https://open.spotify.com/artist/4WYHi5FL5Fud2ASdx17wJA) | [Keep on Giving the Love](https://open.spotify.com/album/2lEFkrdxX3ZOMqr0eU1Ltg) | 2:45 | 2023-08-30 | 2023-09-07 |
 | [Keep On Moving](https://open.spotify.com/track/7MZHoD1acQ8OsyeCKoBSN4) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [Good Dreams](https://open.spotify.com/album/7KnU18fYBu8xPBJI11B3CY) | 4:50 | 2023-11-22 | 2023-11-30 |
 | [Keep Pushin'](https://open.spotify.com/track/38yKlAjfax5bBq8UzEQmTC) | [Polaris](https://open.spotify.com/artist/5MOQAMudR22V5K5P9rDF32), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Valiant Emcee](https://open.spotify.com/artist/0n30brHq3Qks516n4IoNmP), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Keep Pushin'](https://open.spotify.com/album/26uyxeYqpDGArLLxKlPfK0) | 6:13 | 2025-01-15 | 2025-01-23 |
@@ -1013,6 +1016,7 @@
 | [Long Way Home](https://open.spotify.com/track/53CsKDkNAfwu2voe2zrpEF) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Mayday](https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE) | 4:02 | 2024-05-15 | 2024-05-23 |
 | [Long Way Home](https://open.spotify.com/track/7bdAC8Ek5kkG5fcaehFAx8) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Long Way Home](https://open.spotify.com/album/5uBPHgunonMzT5sDKzJlUe) | 4:02 | 2024-03-13 | 2024-03-21 |
 | [Lookin 4 Luv](https://open.spotify.com/track/0w8frTqcFHkww3c5aD1U0b) | [143](https://open.spotify.com/artist/15MRvQvlbwPUY8C1QcgJA2) | [Lookin 4 Luv](https://open.spotify.com/album/1XX2pRXIEYuPBOpJCXwpX4) | 3:00 | 2024-04-24 | 2024-05-02 |
+| [Lookin'](https://open.spotify.com/track/488AsqdlYyvvzeTtqcgqJI) | [Emily Clair](https://open.spotify.com/artist/28hgEqcJsEQ886INHJHkv7) | [Lookin'](https://open.spotify.com/album/4khJhBUkU5bL1uBJHby3it) | 2:50 | 2025-02-26 |  |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-11-29 | 2024-01-11 |
 | [Loon Moon](https://open.spotify.com/track/2tsXIpJCJs19Q9vKtdajsp) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Loon Moon](https://open.spotify.com/album/2qZAvhpNZKUDRHWqWw8ILv) | 3:56 | 2024-09-26 | 2024-10-17 |
 | [Loon Moon](https://open.spotify.com/track/62sFB5Em23Nuyt9OCJgWTz) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Motherland](https://open.spotify.com/album/2OytyuooCewNSqWSGfgydy) | 3:56 | 2024-11-06 | 2024-12-05 |
@@ -1524,6 +1528,7 @@
 | [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 | 2024-01-10 | 2024-01-25 |
 | [shades of blue](https://open.spotify.com/track/7eyLFA77DCRhqOIw5q2ugF) | [RICHIE ALLYIAH](https://open.spotify.com/artist/0E2stfGedQUtahECN29XA4) | [shades of blue](https://open.spotify.com/album/4qLxSJQ3LxGRJjfICmg8HI) | 2:38 | 2024-10-09 | 2024-10-24 |
 | [Shadow Song](https://open.spotify.com/track/1rcC6cHvsyghyL1Wv9jCGW) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Shadow Song](https://open.spotify.com/album/2wrJm8Bb9ZIzJAxL8RnARO) | 3:33 | 2024-10-23 | 2024-11-07 |
+| [Shadows](https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [LOVECHILD](https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l) | 3:15 | 2025-02-26 |  |
 | [Shaheed](https://open.spotify.com/track/4BwiVMVdGBrDIqmCcqdCJM) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Shaheed](https://open.spotify.com/album/44NMceFcqeRshASrwaxrbb) | 3:12 | 2024-05-01 | 2024-05-16 |
 | [She just wants to dance](https://open.spotify.com/track/3xuXyhtURoyYvxdQtVLAI3) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [She just wants to dance](https://open.spotify.com/album/4KcLTZOMRubhP8uM34mSYZ) | 3:00 | 2023-07-26 | 2023-08-03 |
 | [She Knows Better](https://open.spotify.com/track/5qShJOuogy2eaOyO6B5wsL) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [She Knows Better](https://open.spotify.com/album/3jVdXB4rdQRkyXiW8IJkfo) | 3:20 | 2024-04-17 | 2024-05-02 |
@@ -1713,6 +1718,7 @@
 | [Te Veo](https://open.spotify.com/track/5hD8HXZmHbiwFvTvlxXH7w) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO) | [Te Veo](https://open.spotify.com/album/4iVptAMsjfr2kdL1MxeD9M) | 4:29 | 2024-01-10 | 2024-02-01 |
 | [Te Veo En Londres](https://open.spotify.com/track/5qyeYLwayS3ZL9u0nJk16B) | [Anzola](https://open.spotify.com/artist/2gkqFVihS70BCnDJBYmQKn) | [Te Veo En Londres](https://open.spotify.com/album/3Zs1IV5DSy8y8pa8cBtyZI) | 4:40 | 2023-10-04 | 2023-11-09 |
 | [Teach Me How To Love](https://open.spotify.com/track/7cqYcFDDCD9ipzdUqK1yvC) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Teach Me How To Love](https://open.spotify.com/album/1TPjPKBB0IHkg7vR90ACsg) | 2:52 | 2023-10-04 | 2023-11-09 |
+| [Tear Me Down](https://open.spotify.com/track/1yvxtYZZhTBHZiM8RuXhtD) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Tear Me Down](https://open.spotify.com/album/3aZySKHtyKUlgNfGYkVY61) | 3:05 | 2025-02-26 |  |
 | [Tears \- Freestyle](https://open.spotify.com/track/1s3BymFMMopV92FvJXzFgz) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Tears \(Freestyle\)](https://open.spotify.com/album/5yZPV5URSj9OK4TIShddDz) | 2:54 | 2024-06-05 | 2024-06-13 |
 | [Technicolor Bliss](https://open.spotify.com/track/3Z3kUj6B9dWnShMf58LjKT) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Technicolor Bliss](https://open.spotify.com/album/6UXlrgExMZR7Mgvgl790t7) | 2:46 | 2023-08-09 | 2023-08-31 |
 | [Tee Tee's Interlude\(Diary\)](https://open.spotify.com/track/6g0ytmK8F2FmzKdAI4J9pH) | [Ro Joaquim](https://open.spotify.com/artist/0IQocR32Nu6gtkWFgPpXWP) | [Tee Tee's Interlude\(Diary\)](https://open.spotify.com/album/5yHGtk0RwulS4UatuhHT3O) | 3:26 | 2024-07-31 | 2024-08-08 |

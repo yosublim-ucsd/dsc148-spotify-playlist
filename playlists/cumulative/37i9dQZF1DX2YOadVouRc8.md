@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-578 songs - 1 day 4 hr 13 min
+579 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-02-07 |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 |  |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 | 2024-08-26 |
+| [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-02-26 |  |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-11-22 |  |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-06-01 |
 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 | 2024-08-29 | 2025-01-17 |
@@ -237,7 +238,7 @@
 | [imagine \(feat\. Aitch\)](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 | 2023-06-22 | 2024-05-24 |
 | [In The City](https://open.spotify.com/track/7jMuC44LBcMQaM20fgs21i) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [In The City](https://open.spotify.com/album/5PgzL9l8bihdi3H1VoKvk8) | 2:49 | 2024-07-12 | 2024-09-07 |
 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 | 2022-06-09 | 2023-10-18 |
-| [In You](https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [With The Most & Friends \(Vol 1\)](https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8) | 2:33 | 2024-11-29 |  |
+| [In You](https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [With The Most & Friends \(Vol 1\)](https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8) | 2:33 | 2024-11-29 | 2025-02-27 |
 | [Inside](https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Finding Nimo Series: The Capsule](https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg) | 2:36 | 2024-06-28 |  |
 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 | 2024-07-05 |  |
 | [It’s Giving Summer](https://open.spotify.com/track/6yED7TjsAgeiuduj9D9yyj) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [It’s Giving Summer](https://open.spotify.com/album/0HDY9BIPgbOLbF2dgeEVPi) | 2:36 | 2023-06-16 | 2023-07-29 |

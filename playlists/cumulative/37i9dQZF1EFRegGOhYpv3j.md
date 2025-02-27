@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 47 min
+91 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [First Rodeo](https://open.spotify.com/track/6qVGdACuFEApXMb7Ep4luc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:43 | 2024-12-11 |  |
 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 | 2024-07-11 |  |
 | [good to be back](https://open.spotify.com/track/7ANnNigWJq48bNgpN3k5KH) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:06 | 2024-04-03 | 2024-07-12 |
-| [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 | 2024-12-11 |  |
+| [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 | 2024-12-11 | 2025-02-27 |
+| [Graveyard](https://open.spotify.com/track/6XNg0qUmlEnKzYdIFypdYD) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/5o5qqikYY4EsOsoXlrYfze) | 2:20 | 2025-02-26 |  |
 | [Grow Up](https://open.spotify.com/track/7Lvpf3wHt9lk00ITGYaL8P) | [Baylee Littrell](https://open.spotify.com/artist/2RY2F1PetbKRbJetwN8DRd) | [770\-Country](https://open.spotify.com/album/42m2Zaw4Lf6ObBynT9nKYr) | 2:54 | 2025-01-09 |  |
 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 | 2024-04-03 |  |
 | [He's My Man](https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [He's My Man](https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3) | 3:01 | 2024-10-27 |  |

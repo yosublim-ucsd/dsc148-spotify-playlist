@@ -4,13 +4,13 @@
 
 > Soothing piano and strings to help you concentrate.
 
-300 songs - 13 hr 45 min
+303 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2020-10-20\* |  |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-09-08 |  |
-| [A Long Walk](https://open.spotify.com/track/7gq194TSyfCgtQYx7HyQn8) | [Julius Sedlák](https://open.spotify.com/artist/6S7fFMABHpmzS5OX3zNG8w) | [A Long Walk](https://open.spotify.com/album/3zDlfKruCqBcUvE433jhqG) | 2:17 | 2025-02-20 |  |
+| [A Long Walk](https://open.spotify.com/track/7gq194TSyfCgtQYx7HyQn8) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [A Long Walk](https://open.spotify.com/album/3zDlfKruCqBcUvE433jhqG) | 2:17 | 2025-02-20 |  |
 | [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2024-03-20 |  |
 | [A Soulful Journey](https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [A Soulful Journey](https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q) | 2:44 | 2024-02-05 |  |
@@ -117,6 +117,7 @@
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-09-08 |  |
 | [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-09-08 |  |
 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 | 2022-02-24 | 2023-09-09 |
+| [Hopeful Morning](https://open.spotify.com/track/4Thn6Qz2Oix0TvwQnaz60M) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Hopeful Morning](https://open.spotify.com/album/1vrJEIt5azjKVH8VEaQIB3) | 1:58 | 2025-02-26 |  |
 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 | 2023-09-26 |  |
 | [Hybrid Eclipse](https://open.spotify.com/track/0WJ2EOp4SKW5ODXSVcl24d) | [Nucleus A.D.](https://open.spotify.com/artist/2bEtt3sQSaChWOLNzfyX9e) | [Hybrid Eclipse](https://open.spotify.com/album/3fkiWYlQT33Zt2tHesvf20) | 3:48 | 2020-10-20\* | 2024-07-30 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-09-26 |  |
@@ -189,6 +190,7 @@
 | [Noche Tranquila](https://open.spotify.com/track/6X0KLA9Xh59pHIL5GcDd15) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Noche Tranquila](https://open.spotify.com/album/4voco7fHuTX5hmizXE6xWY) | 2:52 | 2020-10-20\* | 2023-09-09 |
 | [Noire](https://open.spotify.com/track/5eZvVBxS4eXyABAaKDNBwH) | [Jenevive](https://open.spotify.com/artist/6WpUjhsaqV4yV7aYWzobdQ) | [Noire](https://open.spotify.com/album/0zcO5YkNMiZRPbRwXmM8lb) | 2:49 | 2023-09-08 |  |
 | [North Haven](https://open.spotify.com/track/66AgSXTFkeohfojMdh8FlA) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Outings](https://open.spotify.com/album/79gZ4wm7D1GfdC0yNWrKvL) | 3:44 | 2020-10-20\* | 2021-11-17 |
+| [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 | 2025-02-26 |  |
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-09-08 |  |
 | [O Mio Babbino Caro](https://open.spotify.com/track/4cQ6f17oa7CaMuuoumZdSV) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 2:49 | 2020-10-20\* | 2021-11-17 |
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2020-10-20\* | 2023-09-09 |
@@ -224,6 +226,7 @@
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-09-26 |  |
 | [Serenade For Strings](https://open.spotify.com/track/3nJuP6wP2C3KagblFUjsBS) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Serenade For Strings](https://open.spotify.com/album/4MJu2Ro6UfS4zE90VOZ6Lf) | 2:13 | 2020-10-20\* | 2023-09-09 |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2020-10-20\* |  |
+| [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 | 2025-02-26 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2020-10-28 | 2023-09-09 |
 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 | 2020-10-20\* | 2023-09-09 |
 | [Snowfall](https://open.spotify.com/track/2clc722RMKNSOSgleEgXE4) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Snowfall](https://open.spotify.com/album/4Lr598YUKKD8cMRZu8QPf0) | 2:11 | 2023-09-08 |  |

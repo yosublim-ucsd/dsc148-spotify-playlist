@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ege Zulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,095 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,110 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Vanilj \- Remix](https://open.spotify.com/track/07xksEq7diDcVRd1MfXucZ) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Vanilj \(Remix\)](https://open.spotify.com/album/4mjr0e368diVypsHITzvul) | 2:07 |
 | 50 | [Hyvää pressii](https://open.spotify.com/track/1fGna4UHnyOUlJFm1enorI) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Hyvää pressii](https://open.spotify.com/album/2dJVGe4VetKUgTXq4J1sKx) | 2:41 |
 
-Snapshot ID: `Z7xczwAAAAB+9Exi4UZiOlZGPHV6jr5Q`
+Snapshot ID: `Z7xczwAAAACouilSv5MOc8VuztlGNu4T`

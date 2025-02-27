@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Keisya Levronka
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,695 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,752 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

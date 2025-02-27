@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie xcx](https://open.spotify.com/user/blank808) - 0 like - 1,402 songs - 3 day 10 hr 55 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 like - 1,403 songs - 3 day 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1410,5 +1410,6 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1400 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
 | 1401 | [Right Now](https://open.spotify.com/track/7qRQJSH8QVNHJpY45zdCTd) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sli'merre 2](https://open.spotify.com/album/5X400ozwTzYNr4C1Y7CXkh) | 2:47 |
 | 1402 | [FEAR.](https://open.spotify.com/track/23luOrEVHMfoX0AhfbQuS6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 7:40 |
+| 1403 | [Graffiti](https://open.spotify.com/track/2zpdPPsPJYGQ9VYRVJXfv9) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/2hshVOA4ULsMGHPDiUaDbJ) | 3:38 |
 
-Snapshot ID: `AAAFSTskTnoRzJgjdZQbpM/HetAc6mxA`
+Snapshot ID: `AAAFSlD5rMocifRwpomZ7Mor3Cs4vMr9`

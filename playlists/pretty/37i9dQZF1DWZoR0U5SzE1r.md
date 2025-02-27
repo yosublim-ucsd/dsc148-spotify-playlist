@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Matt Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,441 likes - 200 songs - 18 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,551 likes - 200 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 111 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 112 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 113 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
-| 114 | [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 |
+| 114 | [The Same Jesus \- Single Version](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 |
 | 115 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/1LqHu3QaVhNMDJCEj115fy) | 4:13 |
 | 116 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 |
 | 117 | [Today Is the Day](https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is the Day](https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc) | 4:36 |
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 133 | [Gold \- Live](https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Gold \(Live\)](https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP) | 8:19 |
 | 134 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
 | 135 | [Praise the Lord](https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U) | [The Imperials](https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf) | [Heed the Call](https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P) | 3:35 |
-| 136 | [Only By Grace](https://open.spotify.com/track/1jlUPNZoiY8rMuDDX2M84Q) | [Graham Kendrick](https://open.spotify.com/artist/1srLlKy0yVmQorLl9PhXbS) | [Amazing Love](https://open.spotify.com/album/2W98WWOtzGwZTcKeLDV1CG) | 4:39 |
+| 136 | [Only By Grace](https://open.spotify.com/track/1jlUPNZoiY8rMuDDX2M84Q) | [Hosanna! Music Scripture Songs](https://open.spotify.com/artist/2hyyOiW3s0jqCJLzngJrZa) | [Amazing Love](https://open.spotify.com/album/2W98WWOtzGwZTcKeLDV1CG) | 4:39 |
 | 137 | [The Warrior Is A Child \- A Heart That Knows You Album Version](https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [A Heart That Knows You](https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5) | 4:07 |
 | 138 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
 | 139 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |

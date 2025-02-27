@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,041 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,113 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 138 | [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 |
 | 139 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 |
 | 140 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 |
-| 141 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 |
+| 141 | [Emotion \- Acoustic](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 |
 | 142 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 |
 | 143 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 |
 | 144 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 |

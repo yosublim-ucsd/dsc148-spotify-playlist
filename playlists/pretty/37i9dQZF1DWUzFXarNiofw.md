@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Coco Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,441 likes - 200 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,568 likes - 200 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 83 | [Emotions](https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Emotions](https://open.spotify.com/album/2RniGd4rfm2HFYwajJKNpE) | 3:27 |
 | 84 | [1\-800 Heartbreak](https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [1\-800 Heartbreak](https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ) | 3:40 |
 | 85 | [Am I Too?](https://open.spotify.com/track/6NcqqBWk2zHZpE7bZXAHwG) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Am I Too?](https://open.spotify.com/album/2uCnrVFVpQbzqytNDlEXht) | 2:17 |
-| 86 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
+| 86 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
 | 87 | [COUTURE](https://open.spotify.com/track/55U1NwmDzrJcRhoiQYj1Ca) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [COUTURE](https://open.spotify.com/album/3UkaTpmazdfhV7a8NjWn07) | 2:59 |
 | 88 | [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Mathematics \(feat\. Kano\)](https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN) | 3:18 |
 | 89 | [Gramercy Place](https://open.spotify.com/track/5KmskMkOTqQZPvV2GmkQBU) | [Aneesa Strings](https://open.spotify.com/artist/1pzHCKOXkQSrNx3hU00bqo) | [Gramercy Place](https://open.spotify.com/album/7sCrAbkBZ3CmpntiP7EOTE) | 4:16 |
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 117 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 |
 | 118 | [Loved That Way](https://open.spotify.com/track/1hvHmC7B6dAkigdmruFmMs) | [JAWAN.mp3](https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7) | [Reverie](https://open.spotify.com/album/6q3DI36bLzKZT9JpBjINLn) | 2:05 |
 | 119 | [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 |
-| 120 | [Live For You \- A COLORS SHOW](https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You \- A COLORS SHOW](https://open.spotify.com/album/6EggeDQ0v8viwU1JZUJ4H0) | 3:47 |
+| 120 | [Live For You \- A COLORS SHOW](https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Live For You \- A COLORS SHOW](https://open.spotify.com/album/6EggeDQ0v8viwU1JZUJ4H0) | 3:47 |
 | 121 | [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
 | 122 | [Here](https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Here](https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj) | 3:07 |
 | 123 | [No Spaces](https://open.spotify.com/track/0R2S5yZDLy5HtMkslO6sdf) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [No Spaces](https://open.spotify.com/album/4MyQEs6Nn34vwTy5Qxh84j) | 3:07 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 199 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 200 | [FALLING \(IN PLACE\)](https://open.spotify.com/track/0tCd1wfXWkZsWB8mRop3B2) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [IT MUST BE LOVE](https://open.spotify.com/album/3JOGpP6VA7wEPiWcsDKEss) | 2:11 |
 
-Snapshot ID: `Z7gIfAAAAAAkB+tRx3L9e+yGctOsFqeL`
+Snapshot ID: `Z7gIfAAAAABDIugSh1XbZMoasVPnaiCZ`

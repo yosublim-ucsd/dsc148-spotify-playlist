@@ -16101,7 +16101,7 @@
     },
     {
       "album": {
-        "name": "Kaddukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
+        "name": "Kaddhukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
         "url": "https://open.spotify.com/album/63WGE3QRjqFA1HewEuZqTX"
       },
       "artists": [
@@ -16114,15 +16114,27 @@
           "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         },
         {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
           "name": "M. M. Keeravaani",
           "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
         }
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268480,
-      "name": "Kaddukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
+      "name": "Kaddhukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
       "url": "https://open.spotify.com/track/2PHeUj9CAvzmy6iC4tMQ07"
     },
     {
@@ -19016,7 +19028,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 150000,
       "name": "Maathu Kelayya (From \"Hari Hara Veera Mallu\") [Kannada]",
       "url": "https://open.spotify.com/track/4ZMNKb1eV1IiLVsBVv5mV7"
@@ -19124,8 +19136,8 @@
           "url": "https://open.spotify.com/artist/0ZG5jmbAX5ENi7mlSq1J3F"
         },
         {
-          "name": "Prathap Bhatt",
-          "url": "https://open.spotify.com/artist/37ZkiQviKF0XwTDioXhntU"
+          "name": "Pratap Bhatt",
+          "url": "https://open.spotify.com/artist/4CPXosIQsBRyqA0zIPDEn4"
         }
       ],
       "date_added": "2025-01-20",
@@ -31900,6 +31912,32 @@
       "duration_ms": 171817,
       "name": "Shiva Stotra (From \"Bagheera\")",
       "url": "https://open.spotify.com/track/3d9VjlZi0M6DMhy0yahXaZ"
+    },
+    {
+      "album": {
+        "name": "Shiva Stotra 2.0 (From \"Bagheera\")",
+        "url": "https://open.spotify.com/album/3QzqziFAxGviX9IX6iC3BX"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213396,
+      "name": "Shiva Stotra 2.0 (From \"Bagheera\")",
+      "url": "https://open.spotify.com/track/0nYP6TyAthaTVB08wZJsb8"
     },
     {
       "album": {

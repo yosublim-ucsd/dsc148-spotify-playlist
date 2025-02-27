@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 溫室雜草 \(Easy Weeds\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,415 likes - 124 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,409 likes - 124 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 77 | [BAD SIGN](https://open.spotify.com/track/2QZfiES4z1qGLWREmTqUKu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [BAD SIGN](https://open.spotify.com/album/6JcbSMJhx8O29eKxgwDeUi) | 3:07 |
 | 78 | [向光](https://open.spotify.com/track/3xaRwTP9Oi7dUCABHn9N5A) | [高鏡琳 GINN](https://open.spotify.com/artist/32ioIn0iygjZGf1eN43GP3) | [向光](https://open.spotify.com/album/4XolyUzDqMEvwoWkMGgBqt) | 2:35 |
 | 79 | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/track/64qnAIAkkKjLfJcxaopwzv) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/album/0JkH98SX1EUFyhk8J9bElw) | 4:23 |
-| 80 | [茶餐廳](https://open.spotify.com/track/4oP5M9xg67cspohznjlM9d) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [茶餐廳](https://open.spotify.com/album/2SmGyOMw5Uw4ZmsbSAmlZH) | 3:34 |
+| 80 | [茶餐廳 I’m Okay](https://open.spotify.com/track/4oP5M9xg67cspohznjlM9d) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [茶餐廳 I’m Okay](https://open.spotify.com/album/2SmGyOMw5Uw4ZmsbSAmlZH) | 3:34 |
 | 81 | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
 | 82 | [Dancing in the Dark 2.0](https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [等一下就回家](https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z) | [Dancing in the Dark 2.0](https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen) | 3:22 |
 | 83 | [我的女孩My Girl](https://open.spotify.com/track/1LjBkhsx6nGKiwpDWD0MDN) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [我的女孩](https://open.spotify.com/album/7kIXElC7bl5syZQS0sMh6r) | 3:35 |
 | 84 | [舊街](https://open.spotify.com/track/71UomceDKDdt93Tjpmyp1T) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [舊街](https://open.spotify.com/album/530cMYCcs3igjeV3rCPHIk) | 3:53 |
-| 85 | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/track/3KdYhswquP3eULSDr07Lso) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [JUD陳泳希](https://open.spotify.com/artist/6zc1JS3WQ0JCjyuFzHWAmt) | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/album/4RlljKPPh94GFpvSfQe6wc) | 3:10 |
+| 85 | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/track/3KdYhswquP3eULSDr07Lso) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/album/4RlljKPPh94GFpvSfQe6wc) | 3:10 |
 | 86 | [IN2U](https://open.spotify.com/track/6KMq9np9R6dX0r55L2paVI) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [IN2U](https://open.spotify.com/album/6jAuPZ7FrhPEoKa0p25Qxr) | 3:23 |
 | 87 | [CUT IT](https://open.spotify.com/track/71fj02z2GIXo0lMXB5mY3J) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [艾許 Ashlee](https://open.spotify.com/artist/4rhlroA2XvbvSImYnLI20k) | [CUT IT](https://open.spotify.com/album/15HyjvTSHYLQsFXwNGCzBn) | 2:51 |
 | 88 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 |

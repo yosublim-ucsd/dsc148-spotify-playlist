@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAAJevj3OgmC4cwNchAn2p2x",
+  "snapshot_id": "Z70IAAAAAABrE7r56JRRbcTwKGgI+UPc",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 212154,
-      "name": "Lei Pua Melia",
-      "url": "https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR"
+      "duration_ms": 188067,
+      "name": "Kapi\u02bbolani P\u0101ka",
+      "url": "https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 188067,
-      "name": "Kapi\u02bbolani P\u0101ka",
-      "url": "https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd"
+      "duration_ms": 212154,
+      "name": "Lei Pua Melia",
+      "url": "https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 163896,
-      "name": "Radio Hula",
-      "url": "https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ"
+      "duration_ms": 166415,
+      "name": "Ho\u02bboluana",
+      "url": "https://open.spotify.com/track/6p73AniAyfcu69ugHM2dGw"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 166415,
-      "name": "Ho\u02bboluana",
-      "url": "https://open.spotify.com/track/6p73AniAyfcu69ugHM2dGw"
+      "duration_ms": 163896,
+      "name": "Radio Hula",
+      "url": "https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ"
     },
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hahani Mai (21st Anniversary Edition)",
-        "url": "https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv"
+        "name": "K\u0101wili",
+        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
       },
       "artists": [
-        {
-          "name": "Kekuhi",
-          "url": "https://open.spotify.com/artist/2qjFFoBsCacy10U9XksBkE"
-        },
         {
           "name": "Keauhou",
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 150487,
-      "name": "Ulunui Waltz (Reimagined) [feat. Keauhou]",
-      "url": "https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU"
+      "duration_ms": 159020,
+      "name": "He Aloha Wau i\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
+        "name": "Hahani Mai (21st Anniversary Edition)",
+        "url": "https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv"
       },
       "artists": [
+        {
+          "name": "Kekuhi",
+          "url": "https://open.spotify.com/artist/2qjFFoBsCacy10U9XksBkE"
+        },
         {
           "name": "Keauhou",
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
+      "duration_ms": 150487,
+      "name": "Ulunui Waltz (Reimagined) [feat. Keauhou]",
+      "url": "https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU"
     },
     {
       "added_at": null,

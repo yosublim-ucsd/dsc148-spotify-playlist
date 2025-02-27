@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  ONE OK ROCK, サカナクション, Tate Mcrae,  Aymu Imazu and more! cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,620 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,631 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

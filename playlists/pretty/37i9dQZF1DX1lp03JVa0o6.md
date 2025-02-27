@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: HNTR, Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,559 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,576 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 49 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
 | 50 | [Hand of God](https://open.spotify.com/track/3lI8PleSazRFGIKkKazytf) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Hand of God](https://open.spotify.com/album/2NTPKieDVQSq4yXdq6CDme) | 3:43 |
 | 51 | [Going On](https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Going On](https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P) | 2:38 |
-| 52 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |
+| 52 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |
 | 53 | [I'm Going Out](https://open.spotify.com/track/2FHwme6spTGP80vXHlOSAV) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [I'm Going Out](https://open.spotify.com/album/0ueixR4L7AZoiLvjnOoDds) | 2:29 |
 | 54 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
 | 55 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 |

@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123559,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt"
       },
@@ -16194,6 +16212,24 @@
       "duration_ms": 199708,
       "name": "Windswept",
       "url": "https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff"
+    },
+    {
+      "album": {
+        "name": "Wings of hope",
+        "url": "https://open.spotify.com/album/5WwoQfVsig3jd6iqD0oWpE"
+      },
+      "artists": [
+        {
+          "name": "Morlya",
+          "url": "https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Wings of hope",
+      "url": "https://open.spotify.com/track/5oJzLdbHli0wBIHqC8liLs"
     },
     {
       "album": {

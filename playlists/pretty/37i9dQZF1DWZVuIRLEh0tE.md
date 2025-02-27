@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,768 likes - 95 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,875 likes - 95 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 6 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
 | 7 | [Mejor](https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1) | [Sin Nombre](https://open.spotify.com/artist/0b4EVanoJb8wkWF7QUA3uY), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Mejor](https://open.spotify.com/album/1YvnBIx0DSDyeitTrC9WnC) | 2:28 |
 | 8 | [Bala](https://open.spotify.com/track/1om4NP5OCxtkFq8rdRcXNl) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Bala](https://open.spotify.com/album/1HibTEnRacx8M6wPy9eMDL) | 2:07 |
-| 9 | [Prendio](https://open.spotify.com/track/5RlrbLB3LseKCWraCWsrn9) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Shady](https://open.spotify.com/artist/0ToyMab3qltWSVZ0lIcQRX) | [Prendio](https://open.spotify.com/album/0Wimd58Z1A3mOltsxRw1wH) | 2:30 |
+| 9 | [Prendio](https://open.spotify.com/track/5RlrbLB3LseKCWraCWsrn9) | [El Shady](https://open.spotify.com/artist/0ToyMab3qltWSVZ0lIcQRX) | [Prendio](https://open.spotify.com/album/0Wimd58Z1A3mOltsxRw1wH) | 2:30 |
 | 10 | [De Regalo](https://open.spotify.com/track/1ILjmBTvFF3ExlByvAycOZ) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [De Regalo](https://open.spotify.com/album/7xxsYX2wlWpNkKeIZvcpbg) | 2:02 |
 | 11 | [Back To Back](https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [Back To Back](https://open.spotify.com/album/5pnzut4B826y2a1WcEOiqE) | 2:19 |
 | 12 | [Suano](https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Suano](https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh) | 2:17 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 22 | [Whatever For You](https://open.spotify.com/track/1M7oD1A2CyqYbUNCLqF2pl) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Whatever For You](https://open.spotify.com/album/2R7tIpYfhoQmaDInB2XfEW) | 1:43 |
 | 23 | [Ante](https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ante](https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La) | 2:05 |
 | 24 | [ABAYARDE](https://open.spotify.com/track/2TroCRdvxRu1TTCbTutn6k) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [ABAYARDE](https://open.spotify.com/album/3R9YFBfl8ZihbcuENWOiU4) | 3:58 |
-| 25 | [Cuando Me Lo M\*ME](https://open.spotify.com/track/3ZsaIF7fRNxerEkUucjzGj) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09) | [Cuando Me Lo M\*ME](https://open.spotify.com/album/6wKthQUdHXbM32pUMF3plh) | 2:48 |
+| 25 | [Cuando Me Lo M\*ME](https://open.spotify.com/track/3ZsaIF7fRNxerEkUucjzGj) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09) | [Cuando Me Lo M\*ME](https://open.spotify.com/album/6wKthQUdHXbM32pUMF3plh) | 2:47 |
 | 26 | [Seco](https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2) | [Seco](https://open.spotify.com/album/1fZKSaHQfYIcQIW9N9vtJg) | 2:45 |
 | 27 | [No Te Veo](https://open.spotify.com/track/5Kh9HaV8y24ZqHiPAhvOoX) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [No Te Veo](https://open.spotify.com/album/3twRs2eKn4Wqc3x1YNYdLf) | 2:13 |
 | 28 | [Al Pelo](https://open.spotify.com/track/24NgRE8Lfi4YabmYTtlnXM) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [Al Pelo](https://open.spotify.com/album/23ELSYbS3mglKLPpK8UW2i) | 2:16 |

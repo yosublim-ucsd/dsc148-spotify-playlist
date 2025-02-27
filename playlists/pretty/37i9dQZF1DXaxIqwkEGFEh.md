@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,417 likes - 102 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,541 likes - 102 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 101 | [Mr Pot Scraper](https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Pot Scraper](https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ) | 2:25 |
 | 102 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
 
-Snapshot ID: `Z7kdwgAAAADiXB0Ok/Uo8aC3+2WuPIPR`
+Snapshot ID: `Z7kdwgAAAABn1x9U+E5q7gRG6nF7spqB`

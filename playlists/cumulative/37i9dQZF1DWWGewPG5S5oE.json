@@ -1567,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Dig Deep (feat. Jairo)",
+        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Jairo",
+          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270326,
+      "name": "Dig Deep (feat.Jairo\uff09",
+      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
+    },
+    {
+      "album": {
         "name": "dnp",
         "url": "https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6"
       },
@@ -2926,7 +2948,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 307186,
       "name": "Kobune",
       "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
@@ -3857,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "Noisia",
+        "url": "https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307280,
+      "name": "Noisia",
+      "url": "https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm"
+    },
+    {
+      "album": {
         "name": "null",
         "url": "https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7"
       },
@@ -4582,7 +4622,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"

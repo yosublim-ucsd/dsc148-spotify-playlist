@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Emilia y Luisa Sonza.",
-  "num_followers": 560746,
+  "num_followers": 560776,
   "original_name": "POP FLOW",
   "owner": {
     "name": "Spotify",
@@ -432,10 +432,6 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
@@ -446,6 +442,10 @@
         {
           "name": "TINI",
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
       "duration_ms": 233406,

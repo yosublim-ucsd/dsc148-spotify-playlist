@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Breath of Dawn",
+        "url": "https://open.spotify.com/album/52WfzzAyUwkZc4iYTwQYSZ"
+      },
+      "artists": [
+        {
+          "name": "Midnight Mind",
+          "url": "https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181754,
+      "name": "Breath of Dawn",
+      "url": "https://open.spotify.com/track/6ENuIr7vBEGMzz22gEbT99"
+    },
+    {
+      "album": {
         "name": "Breezy Blossoms",
         "url": "https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b"
       },
@@ -2040,6 +2058,24 @@
       "duration_ms": 202500,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o"
+    },
+    {
+      "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o"
+      },
+      "artists": [
+        {
+          "name": "Rikkas",
+          "url": "https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179509,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS"
     },
     {
       "album": {
@@ -2871,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Fluorescence",
+        "url": "https://open.spotify.com/album/4fzzRQhFJyQt7G00exxIh9"
+      },
+      "artists": [
+        {
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "Fluorescence",
+      "url": "https://open.spotify.com/track/4bK0DJ8FLzKXFiauUUWA8I"
+    },
+    {
+      "album": {
         "name": "Foundation",
         "url": "https://open.spotify.com/album/218mORlCaSkSfy0qU2Mmzd"
       },
@@ -3012,6 +3066,24 @@
       "duration_ms": 175558,
       "name": "Gentle Hush",
       "url": "https://open.spotify.com/track/1NCqCKgbhrpSyIoizfUaoI"
+    },
+    {
+      "album": {
+        "name": "Gentle Nightfall",
+        "url": "https://open.spotify.com/album/2GeBv6aWVQTRZRc6q4I6GS"
+      },
+      "artists": [
+        {
+          "name": "Luminous Dreamer",
+          "url": "https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gentle Nightfall",
+      "url": "https://open.spotify.com/track/4DRfS8xhfum6aXOs6CpaDE"
     },
     {
       "album": {
@@ -3494,7 +3566,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 209168,
       "name": "In the Midst",
       "url": "https://open.spotify.com/track/3lQoTHU4TdBM3VGW70ZV1x"
@@ -4452,6 +4524,24 @@
       "duration_ms": 150000,
       "name": "Morph",
       "url": "https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M"
+    },
+    {
+      "album": {
+        "name": "Muons",
+        "url": "https://open.spotify.com/album/5ioCD8xo3Ns2wnHc6nNvUh"
+      },
+      "artists": [
+        {
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206507,
+      "name": "Muons",
+      "url": "https://open.spotify.com/track/2oXcDZVCuyHKCMilAxom25"
     },
     {
       "album": {
@@ -6281,6 +6371,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/29tJGtzE38ICWOe9swOOYw"
+      },
+      "artists": [
+        {
+          "name": "Miyklo",
+          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152276,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/4SKrdC5aL4KsfNFBX5CjSv"
+    },
+    {
+      "album": {
         "name": "Solace in Slow Motion",
         "url": "https://open.spotify.com/album/5XCL0sehcDMXh7R2UgNh1K"
       },
@@ -6458,6 +6566,24 @@
       "duration_ms": 196000,
       "name": "South of Lapland",
       "url": "https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS"
+    },
+    {
+      "album": {
+        "name": "Sova",
+        "url": "https://open.spotify.com/album/5SMakHDUPZnxnQEcCrJquj"
+      },
+      "artists": [
+        {
+          "name": "Oak Signum",
+          "url": "https://open.spotify.com/artist/778Jcgt9K46ugLXd2DgsKy"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167016,
+      "name": "Sova",
+      "url": "https://open.spotify.com/track/0aRsStJ9thnpiSPL4cHazY"
     },
     {
       "album": {
@@ -6764,6 +6890,24 @@
       "duration_ms": 133715,
       "name": "Sway Me Away",
       "url": "https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC"
+    },
+    {
+      "album": {
+        "name": "Synthetic",
+        "url": "https://open.spotify.com/album/2rfbyyWjqbTb3mTAPyRSvX"
+      },
+      "artists": [
+        {
+          "name": "Digitalis",
+          "url": "https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174207,
+      "name": "Synthetic",
+      "url": "https://open.spotify.com/track/2zXjXjPgvYHSMa472qBXMa"
     },
     {
       "album": {
@@ -7214,6 +7358,24 @@
       "duration_ms": 160433,
       "name": "Unified",
       "url": "https://open.spotify.com/track/4hWR306ytZ2nAQp70GNvhU"
+    },
+    {
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/5J9RfgiZD6cRQzMX8vZ8PH"
+      },
+      "artists": [
+        {
+          "name": "Solitudes",
+          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/6xNmpMoqffJeYj54tdIjeZ"
     },
     {
       "album": {

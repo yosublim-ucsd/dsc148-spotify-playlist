@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 17 hr 3 min
+168 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Word \- Live](https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating \(Live\)](https://open.spotify.com/album/2DfDPJUfb12Qzt5zMevYPI) | 6:24 | 2024-06-11 |  |
+| [A Better Word \- Live](https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating \(Live\)](https://open.spotify.com/album/2DfDPJUfb12Qzt5zMevYPI) | 6:24 | 2024-06-11 | 2025-02-27 |
+| [A Better Word \- Live](https://open.spotify.com/track/6r3Mznc8z5AcSWJ2aJvIZF) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating](https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR) | 6:24 | 2025-02-26 |  |
 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 | 2024-06-11 |  |
 | [all god's children](https://open.spotify.com/track/1dhb41l8hPEQW7XA9FtXZE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:56 | 2024-06-11 | 2024-07-13 |
 | [all god's children](https://open.spotify.com/track/60rKXvSk2x9zKrkHvwrBmi) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:56 | 2024-07-12 |  |
@@ -51,7 +52,8 @@
 | [God’s Been Good \- Live](https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:58 | 2024-06-11 |  |
 | [good times](https://open.spotify.com/track/0zzvxMOirxssLMF1vVJtca) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:47 | 2024-07-12 |  |
 | [good times](https://open.spotify.com/track/7vUSIRxxec1PKAp0MLZeHT) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:47 | 2024-06-11 | 2024-07-13 |
-| [Grace Wouldn't Leave Me](https://open.spotify.com/track/5uAgnUEeDpECNuGC5U6AyH) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 3:07 | 2024-06-11 |  |
+| [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 | 2025-02-26 |  |
+| [Grace Wouldn't Leave Me](https://open.spotify.com/track/5uAgnUEeDpECNuGC5U6AyH) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 3:07 | 2024-06-11 | 2025-02-27 |
 | [Grateful](https://open.spotify.com/track/6sem2CC8ZtzgWCDhyw58a2) | [Falcon](https://open.spotify.com/artist/1CyTHAIIX3WyRdFwkz0vnb) | [Nova](https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq) | 3:33 | 2024-06-11 |  |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-06-11 | 2024-07-14 |
 | [Gratitude](https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 5:37 | 2024-07-13 |  |

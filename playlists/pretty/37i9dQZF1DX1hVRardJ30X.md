@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Marshmello & Trueno, Emilia & Luísa Sonza, Gabito Ballesteros and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,914 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,957 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

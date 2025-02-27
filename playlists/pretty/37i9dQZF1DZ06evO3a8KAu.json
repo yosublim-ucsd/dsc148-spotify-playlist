@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 48974,
+  "num_followers": 48973,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAADY6lVzStYq4I8ZrrZ8cXeZ",
+  "snapshot_id": "Z70IAAAAAAD9FgPH//Bf4fLJMYFeyC2P",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gente del Este",
         "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brincale al Toro",
-        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "Las Ense\u00f1anzas",
-      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193150,
       "name": "D\u00e9jame Decirle",
       "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brincale al Toro",
+        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "Las Ense\u00f1anzas",
+      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile Luna",
-        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191338,
-      "name": "Dile Luna",
-      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Ma\u00f1ana Muero",
         "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 279359,
       "name": "Si Ma\u00f1ana Muero",
       "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dile Luna",
+        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191338,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exotic Corridos",
-        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "Cinderella de Mis Noches",
-      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 155939,
       "name": "Toditos Somos Iguales",
       "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exotic Corridos",
+        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 173476,
+      "name": "Cinderella de Mis Noches",
+      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
     },
     {
       "added_at": null,

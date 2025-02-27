@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Wild Wind, Laureline and more
+> With The Wild Wind, LAVE, Laureline and more
 
 1,410 songs - 3 day 18 hr 22 min
 

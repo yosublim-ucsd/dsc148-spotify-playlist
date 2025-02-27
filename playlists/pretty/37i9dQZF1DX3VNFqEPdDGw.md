@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,363 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,389 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 6 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 |
 | 7 | [Competition \(Feat\. Mahi Sharma\)](https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX) | [Virasat Sandhu](https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Competition \(Feat\. Mahi Sharma\)](https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH) | 2:28 |
 | 8 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 |
-| 9 | [Jatt Di Pasand](https://open.spotify.com/track/4W7x8SpBqH3NuV680uZNxa) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO) | [Jatt Di Pasand](https://open.spotify.com/album/652b3h12UZn2dFwnbAxpf8) | 2:21 |
+| 9 | [Jatt Di Pasand](https://open.spotify.com/track/4W7x8SpBqH3NuV680uZNxa) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Brown Maan](https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ) | [Jatt Di Pasand](https://open.spotify.com/album/652b3h12UZn2dFwnbAxpf8) | 2:21 |
 | 10 | [Don't Look](https://open.spotify.com/track/5f3PgI4zW2oErM3j3MWTWW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Don't Look](https://open.spotify.com/album/0deuGuFI4MG9hTa5QI4Sar) | 3:06 |
 | 11 | [The Bull Walk 2](https://open.spotify.com/track/2NZOEgSzJxXGmzltOt8c7y) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3), [Raja Kang](https://open.spotify.com/artist/5KCHRPbzx9DQHpCv9i4PFs) | [The Bull Walk 2](https://open.spotify.com/album/1ToKW8En2i6lKeOoLeXCO3) | 2:58 |
 | 12 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 |

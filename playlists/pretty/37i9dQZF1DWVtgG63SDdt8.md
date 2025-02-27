@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Alexander Pappas
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,965 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,972 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [You Won't Take Your Love](https://open.spotify.com/track/30bKsvM1Rn6wloVbdlkNuo) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [You Won't Take Your Love](https://open.spotify.com/album/7GhIzYJWsfR4i05KiE1lDj) | 3:37 |
 | 99 | [Heartbeat \- Live](https://open.spotify.com/track/5901lRKYg3yE8TSikghLsO) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Heartbeat \(Live\)](https://open.spotify.com/album/3e4yorS3h0tIJ93uvOcVK4) | 3:35 |
 
-Snapshot ID: `Z7g98AAAAAC5X0i8eKRc460TtEH6xOXi`
+Snapshot ID: `Z7g98AAAAACJj+KJVDFDtPpJlgFy8Kog`

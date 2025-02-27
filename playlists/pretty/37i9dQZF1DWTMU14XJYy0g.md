@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Eruca Sativa
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,873 likes - 107 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,855 likes - 107 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Magda Bereda, Piotr Rubik
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,729 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,745 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [DEMOLKA](https://open.spotify.com/track/7JPDbY7zlchiQREhWmTCZb) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DEMOLKA](https://open.spotify.com/album/4OTDkkILQUW0uQrfrOKvNK) | 2:20 |
 | 60 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 |
 
-Snapshot ID: `Z7e0DgAAAAA9gPFnmG387GucbE+xG/AA`
+Snapshot ID: `Z7e0DgAAAAAUEpaeCpeGt3LDMhSRZZqm`

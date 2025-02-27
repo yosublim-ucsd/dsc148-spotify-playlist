@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,098 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,118 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 5 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
 | 6 | [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 |
 | 7 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
-| 8 | [Chances \- Live](https://open.spotify.com/track/4QRgxKnKg77vYCCE8OYfWf) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Chances \(Live\)](https://open.spotify.com/album/3XUVPO2QO9wPviUHTZJUK9) | 4:04 |
+| 8 | [Chances \- Live](https://open.spotify.com/track/4QRgxKnKg77vYCCE8OYfWf) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Chances](https://open.spotify.com/album/3XUVPO2QO9wPviUHTZJUK9) | 4:04 |
 | 9 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 |
 | 10 | [Gonna Be Alright \- Live](https://open.spotify.com/track/3D2Caq4sNDP5zt2Iipr6Yj) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis Live](https://open.spotify.com/album/33b2OZa8zl29Bcx7qVmjig) | 4:30 |
 | 11 | [That's The Thing About Praise](https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Benjamin William Hastings](https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 99 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 | 100 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 |
 
-Snapshot ID: `Z1lXSwAAAABnqyl+uNOMnbinZi0yc6DE`
+Snapshot ID: `Z1lXSwAAAACVCuoXI3AzlMQyUXR6w46M`

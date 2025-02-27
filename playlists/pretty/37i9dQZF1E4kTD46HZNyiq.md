@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Wild Wind, Laureline and more
+> With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,029 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Fine if You're Fine](https://open.spotify.com/track/5FQA0MILB5bYRm6iVkK7fh) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:59 |
 | 50 | [Make Believe](https://open.spotify.com/track/5qE1naYtLuNkoS5G35GfAQ) | [Secret Nation](https://open.spotify.com/artist/0gX4Kuwic0S5GfOp1oBZYC) | [The Rise](https://open.spotify.com/album/351P18JUoXriGEAXaPNHZY) | 3:22 |
 
-Snapshot ID: `Z75zCwAAAABfOv2z3HNIgv7TSfkkfNa6`
+Snapshot ID: `Z7+3XgAAAAAJQqjkQXPLtHVz3+CmcsQ8`

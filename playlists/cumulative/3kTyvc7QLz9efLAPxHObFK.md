@@ -4,7 +4,7 @@
 
 > 
 
-2,066 songs - 4 day 13 hr 29 min
+2,067 songs - 4 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [FOREVER](https://open.spotify.com/track/5Q7cbga8YkAHG3n4P0eW2C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [FOREVER](https://open.spotify.com/album/25LSQQ0NhxA6QU0uY1CQML) | 3:27 | 2023-03-25 |  |
 | [Forever \- F\. Noize & Yoshiko Remix](https://open.spotify.com/track/1OFBGsGp43xUamMZwu55yc) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Forever \(F\. Noize & Yoshiko Remix\)](https://open.spotify.com/album/3Z3Avi3KF6ZVVmzVyyaMhd) | 3:04 | 2022-09-27 |  |
 | [Forever Young \- Kaylene Sc@r Remix](https://open.spotify.com/track/0TtW5ItbDJs4CW6c0Puzh1) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Kaylene Sc@r](https://open.spotify.com/artist/7aKRag04pZBFsECe22twqf) | [Forever Young \(Kaylene Sc@r Remix\)](https://open.spotify.com/album/18UJQtNd77OYnqrkoUj1xO) | 4:24 | 2023-06-02 |  |
+| [Forever's Set For Us](https://open.spotify.com/track/04mcCDt7CMIkyjHZNiont0) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7) | [Slaughterhouse EP](https://open.spotify.com/album/7AXcWxTq4rrjaSnqcxwtgy) | 3:30 | 2025-02-27 |  |
 | [Forget the Real World](https://open.spotify.com/track/52BmlGYyXjcQLqBISvN7Nd) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Forget the Real World](https://open.spotify.com/album/2cAXdmY5D2Yd3XBw8eEd3F) | 3:48 | 2022-11-21 |  |
 | [FORGIVE \(feat\. RANASOL\)](https://open.spotify.com/track/1k8oco8QolT6g0EqeL3WUP) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [IS DEAD](https://open.spotify.com/album/0ftmxdRb8tYM66bsMY81ht) | 2:40 | 2024-12-06 |  |
 | [Forgotten Moments](https://open.spotify.com/track/3xrOF41CBuZ755toXQP2xN) | [Lenny Dee](https://open.spotify.com/artist/33O0lHsxKb6No0NBuFxFbR) | [Forgotten Moments \(Ophidian Remixes\)](https://open.spotify.com/album/1px15KEcMVJEOqOcbFBbrE) | 6:07 | 2024-09-30 |  |

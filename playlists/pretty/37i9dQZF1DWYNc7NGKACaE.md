@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,287 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,293 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 61 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [yMontana](https://open.spotify.com/artist/7MO8VSUH29NuqPJHcCflnO), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 62 | [Palhaçada Speed](https://open.spotify.com/track/2yKXzrfGw6nNYE4tX9cal0) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/54DM6nkdgSQoaHAMyPlQ65) | 2:29 |
 | 63 | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV) | [SÁBIO HITS](https://open.spotify.com/artist/4gvsIHO7sKgvNYPs3J5jDk) | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/album/2CzQPK3aKSkXqblJTcRIBH) | 3:22 |
-| 64 | [Ametista \(Speed Up\)](https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq) | [WZ MC](https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud), [AyDucz](https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ) | [Ametista \(Speed Up\)](https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg) | 1:47 |
+| 64 | [Ametista \(Speed Up\)](https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq) | [WZ](https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud), [AyDucz](https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ) | [Ametista \(Speed Up\)](https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg) | 1:47 |
 | 65 | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7) | 2:16 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 

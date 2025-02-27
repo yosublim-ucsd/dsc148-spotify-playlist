@@ -11709,6 +11709,24 @@
     },
     {
       "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/2NNgPDwgQsKckTzFpI7vuU"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gold",
+          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/0wgIqen83GTxBaEsVtKpnk"
+    },
+    {
+      "album": {
         "name": "Do Me Wrong",
         "url": "https://open.spotify.com/album/1rgDVi4I6Hp2iDAZwNCd6m"
       },
@@ -12690,7 +12708,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 175556,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3a0AsqDY11P66dLEKy1Mzf"
@@ -12756,6 +12774,24 @@
       "duration_ms": 357904,
       "name": "Dream Pop",
       "url": "https://open.spotify.com/track/4GMCDKBPHg9STZ9UOsaf4I"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5ajkDjyP0C9akGM7dsyYQ7"
+      },
+      "artists": [
+        {
+          "name": "Obsimo",
+          "url": "https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192876,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/65rib6eB7RZpaMhv1T0oaw"
     },
     {
       "album": {
@@ -21824,7 +21860,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 180232,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/6RQvujjx9DUuRHU4YiC49q"
@@ -26063,6 +26099,28 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/2nIuQP1hZXNxOZxNk4YScc"
+      },
+      "artists": [
+        {
+          "name": "DERON",
+          "url": "https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J"
+        },
+        {
+          "name": "Mydoz",
+          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/06uxVLAbj4sZOMQbN77qS5"
+    },
+    {
+      "album": {
         "name": "Lock&Key",
         "url": "https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo"
       },
@@ -28494,7 +28552,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 260868,
       "name": "Midnight Calling",
       "url": "https://open.spotify.com/track/39mXpPFOa6wLBtZ2GUnxne"
@@ -30598,6 +30656,24 @@
       "duration_ms": 247684,
       "name": "never let u",
       "url": "https://open.spotify.com/track/3zQCKVbt7gy4GvP4l5l3Jk"
+    },
+    {
+      "album": {
+        "name": "Never Look Back EP",
+        "url": "https://open.spotify.com/album/5LUY8078i75Ig2hExJVtdA"
+      },
+      "artists": [
+        {
+          "name": "Jasper Fioole",
+          "url": "https://open.spotify.com/artist/3yaOMhUsR9lNPlOg7bNzyS"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203385,
+      "name": "Never Look Back - Radio Edit",
+      "url": "https://open.spotify.com/track/4GQqyI6u6aTlLhi4XbYnpb"
     },
     {
       "album": {
@@ -33463,6 +33539,24 @@
     },
     {
       "album": {
+        "name": "P Power",
+        "url": "https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310794,
+      "name": "P Power",
+      "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
+    },
+    {
+      "album": {
         "name": "P7 Swim Session",
         "url": "https://open.spotify.com/album/6mKMEWHE6e69EHVQUTfJMo"
       },
@@ -33910,7 +34004,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 218181,
       "name": "Paula Abdul",
       "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
@@ -37008,6 +37102,24 @@
       "duration_ms": 376000,
       "name": "Roads",
       "url": "https://open.spotify.com/track/1RsvHHDe5Pr7nhHBhm6xXt"
+    },
+    {
+      "album": {
+        "name": "Rock The House",
+        "url": "https://open.spotify.com/album/0CPqvQ7iLbvD0QRCxqMv0U"
+      },
+      "artists": [
+        {
+          "name": "Future Flex",
+          "url": "https://open.spotify.com/artist/2jrleM9XJ2z8wmKUt4cPlH"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232886,
+      "name": "Rock The House",
+      "url": "https://open.spotify.com/track/1RCvppFOQsZbFd1yP7Vtxw"
     },
     {
       "album": {
@@ -47797,6 +47909,24 @@
     },
     {
       "album": {
+        "name": "wants and needs",
+        "url": "https://open.spotify.com/album/7ekXaFXySyHzm6KhFMKarl"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "wants and needs",
+      "url": "https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN"
+    },
+    {
+      "album": {
         "name": "Warm The Room EP",
         "url": "https://open.spotify.com/album/0CTegVaA2PBYgPsqgRdVPN"
       },
@@ -48386,7 +48516,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 209644,
       "name": "What Have You Done For Me Lately",
       "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
@@ -48834,7 +48964,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 212571,
       "name": "whenyousayit",
       "url": "https://open.spotify.com/track/3kYI5fvpetkwM3sRGlNMyP"
@@ -49134,7 +49264,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 285466,
       "name": "Why Won't You Tell Me",
       "url": "https://open.spotify.com/track/54phATUSIJ7qEgCQJyphFs"

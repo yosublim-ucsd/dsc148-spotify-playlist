@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,601 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,626 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 83 | [Wet Peak Stars](https://open.spotify.com/track/5bZyJlELRUQatrt9SoJP8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Wet Peak Stars](https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB) | 3:19 |
 | 84 | [Mind Still \(feat\. blythe\) \- 1991 Remix](https://open.spotify.com/track/3lrrdKzUlvwglG1P350p6E) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Mind Still \(feat\. blythe\) \[1991 Remix\]](https://open.spotify.com/album/45UiMbCWuwf7DkuUyZ6XnL) | 3:24 |
 | 85 | [The lights on your face\. \- DROELOE Remix](https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [The lights on your face\. \(DROELOE Remix\)](https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962) | 3:28 |
-| 86 | [library](https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [library](https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G) | 2:46 |
+| 86 | [library](https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [library](https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G) | 2:46 |
 | 87 | [iluv \- vip](https://open.spotify.com/track/5EK0NIxl44MbInwNNOZCNP) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv \(vip\)](https://open.spotify.com/album/2MKrr0RMsAUuDfMkHK2ZL2) | 3:46 |
 | 88 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 89 | [Get Lost](https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7) | 3:32 |

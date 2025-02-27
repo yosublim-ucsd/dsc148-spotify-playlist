@@ -47,7 +47,7 @@
       "artists": [
         {
           "name": "Julius Sedl\u00e1k",
-          "url": "https://open.spotify.com/artist/6S7fFMABHpmzS5OX3zNG8w"
+          "url": "https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH"
         }
       ],
       "date_added": "2025-02-20",
@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Hopeful Morning",
+        "url": "https://open.spotify.com/album/1vrJEIt5azjKVH8VEaQIB3"
+      },
+      "artists": [
+        {
+          "name": "Vibrante",
+          "url": "https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118130,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/4Thn6Qz2Oix0TvwQnaz60M"
+    },
+    {
+      "album": {
         "name": "Hvile (Ps.4)",
         "url": "https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm"
       },
@@ -3303,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Now And Before",
+        "url": "https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121151,
+      "name": "Now And Before",
+      "url": "https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk"
+    },
+    {
+      "album": {
         "name": "N\u00e5r du er n\u00e6r",
         "url": "https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC"
       },
@@ -3934,6 +3970,24 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "album": {
+        "name": "Silver Moon",
+        "url": "https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183644,
+      "name": "Silver Moon",
+      "url": "https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU"
     },
     {
       "album": {

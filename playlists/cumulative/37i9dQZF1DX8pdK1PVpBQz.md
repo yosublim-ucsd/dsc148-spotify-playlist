@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: Gloomie
 
-3,826 songs - 8 day 18 hr 12 min
+3,827 songs - 8 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-26 | 2025-02-05 |
 | [Bon Iver Concert](https://open.spotify.com/track/4FVrM2CXCPKBFWKr9PtsYN) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [Bon Iver Concert](https://open.spotify.com/album/5cxw8GJ9vO0JXtpn6lGrlH) | 4:14 | 2023-02-08 | 2023-03-02 |
 | [Bones](https://open.spotify.com/track/6xcFawOtFHB4QEUjQ5DvPD) | [Harry Marshall](https://open.spotify.com/artist/35E0TVL2PsphlXkVgUzyxc) | [Bones](https://open.spotify.com/album/5nQ1Qwbj9KNSmNNyAokRcr) | 3:16 | 2023-09-21 | 2023-10-12 |
+| [Bones](https://open.spotify.com/track/0Qe1Au2cm4CUYFL8s68AvD) | [neve](https://open.spotify.com/artist/6oDermQSpjAenm8wH3JUVb) | [Bones](https://open.spotify.com/album/2caJxQvT92dOrhOCHZvNx7) | 2:58 | 2025-02-25 |  |
 | [bones \(sinking like stones\)](https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [bones \(sinking like stones\)](https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj) | 2:21 | 2023-06-07 | 2023-06-23 |
 | [Boo Hoo](https://open.spotify.com/track/2monT4BYGsDReiBuAUaCKd) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [Boo Hoo](https://open.spotify.com/album/0IDFYObADQJnShxQnPrWhG) | 2:05 | 2022-08-31 | 2022-09-22 |
 | [Boogie On Mars](https://open.spotify.com/track/76IqrOPl9yTySOoO5bMIFP) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Speed Racing](https://open.spotify.com/album/5T2WVHUjmEDmJIQxsKTE0g) | 6:41 | 2022-06-08 | 2022-06-30 |

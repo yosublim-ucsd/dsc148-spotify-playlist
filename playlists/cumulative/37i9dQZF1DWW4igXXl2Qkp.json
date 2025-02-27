@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:2nQ17oZU3rP09w7d17VK8H\">Bri3</a> ",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:1SCrMreNPJYSRZIlRe9SUq\">Paris Texas</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 128000,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/51iGxbHajKnBI5dTpakv8L"
@@ -6617,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "KAST GOT WINGS",
+        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125054,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/7JEvphBBcnSXxxAmcTGCpX"
+    },
+    {
+      "album": {
         "name": "D's",
         "url": "https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1"
       },
@@ -6990,6 +7008,24 @@
       "duration_ms": 102400,
       "name": "Deal With It",
       "url": "https://open.spotify.com/track/3lLxhdHwuaLl5ZQD29usSH"
+    },
+    {
+      "album": {
+        "name": "The Red Apple",
+        "url": "https://open.spotify.com/album/3sRtBT1dgFRwqFVwkQYr9r"
+      },
+      "artists": [
+        {
+          "name": "Ronshach",
+          "url": "https://open.spotify.com/artist/0EINQs1jKxovMVKKEmg3q4"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118110,
+      "name": "Deathnote",
+      "url": "https://open.spotify.com/track/6Ck323zlAqDG2iFfri38Wf"
     },
     {
       "album": {
@@ -7703,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "They Left Me With The Sword",
+        "url": "https://open.spotify.com/album/5UUUoyYmeB0M157u9MfHXg"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181959,
+      "name": "Dogma 25",
+      "url": "https://open.spotify.com/track/0gzvz4OCd8oHShuu8jMenY"
+    },
+    {
+      "album": {
         "name": "Don Lemon",
         "url": "https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr"
       },
@@ -7852,6 +7906,28 @@
       "duration_ms": 126197,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/6HjgcxvCqzOp4K3ObnwBgP"
+    },
+    {
+      "album": {
+        "name": "Don't Rush",
+        "url": "https://open.spotify.com/album/32OPaZroLXHPY7orBxHmnD"
+      },
+      "artists": [
+        {
+          "name": "Salamay",
+          "url": "https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0"
+        },
+        {
+          "name": "Chi-chi",
+          "url": "https://open.spotify.com/artist/0K6RidDQWBqLafRTP2GeMV"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L"
     },
     {
       "album": {
@@ -9282,6 +9358,24 @@
       "duration_ms": 218322,
       "name": "fed up",
       "url": "https://open.spotify.com/track/3eW70GskUhNXDJoY4A0XCn"
+    },
+    {
+      "album": {
+        "name": "Feel Like",
+        "url": "https://open.spotify.com/album/32F2WyfSf1ovDZBEkZUYQX"
+      },
+      "artists": [
+        {
+          "name": "RunItUp Jordan",
+          "url": "https://open.spotify.com/artist/5wrF06SUh2cl5dFUZPvArf"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "Feel Like",
+      "url": "https://open.spotify.com/track/1GrAozKfmIO0QAJ9zEqzss"
     },
     {
       "album": {
@@ -10922,6 +11016,24 @@
       "duration_ms": 149237,
       "name": "Gifted",
       "url": "https://open.spotify.com/track/54Xc1XEgM7PQICYfgQsgt4"
+    },
+    {
+      "album": {
+        "name": "Gimme Sum",
+        "url": "https://open.spotify.com/album/0zKfAVOxqFZIuV06P7UF6l"
+      },
+      "artists": [
+        {
+          "name": "1luh2hark",
+          "url": "https://open.spotify.com/artist/2pfhglkNyV10xdMm1AK7lu"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119952,
+      "name": "Gimme Sum",
+      "url": "https://open.spotify.com/track/7KHeRN9sYhgBuemcORqo3E"
     },
     {
       "album": {
@@ -13254,6 +13366,24 @@
     {
       "album": {
         "name": "ILBB2",
+        "url": "https://open.spotify.com/album/52i6crTmc33EctIHuDPKif"
+      },
+      "artists": [
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93669,
+      "name": "ILBB2",
+      "url": "https://open.spotify.com/track/3l8JgWKQI8yYIJ5mW04rzC"
+    },
+    {
+      "album": {
+        "name": "ILBB2",
         "url": "https://open.spotify.com/album/0m3SKy1ukckUetVl4a4xPg"
       },
       "artists": [
@@ -13518,7 +13648,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 131134,
       "name": "infinyte",
       "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
@@ -13558,6 +13688,24 @@
       "duration_ms": 137872,
       "name": "intres-ting",
       "url": "https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8"
+    },
+    {
+      "album": {
+        "name": "My Evil Thoughts",
+        "url": "https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139416,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101"
     },
     {
       "album": {
@@ -14734,7 +14882,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 169866,
       "name": "Krazy Head",
       "url": "https://open.spotify.com/track/1nwPZnRN8fUBKM4DNGndXv"
@@ -16196,6 +16344,24 @@
       "duration_ms": 75765,
       "name": "Love Calls",
       "url": "https://open.spotify.com/track/6AeCZ1m4xleOHW0Qf8y5Fj"
+    },
+    {
+      "album": {
+        "name": "Not Ours",
+        "url": "https://open.spotify.com/album/4xusnDiPs7e3NT9KZTOtGU"
+      },
+      "artists": [
+        {
+          "name": "LLOADED",
+          "url": "https://open.spotify.com/artist/42vZf4gjbFWk2Em1zIH0pB"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170179,
+      "name": "Love It",
+      "url": "https://open.spotify.com/track/4kt1oizpPA5t8YnPvAZky2"
     },
     {
       "album": {
@@ -17904,7 +18070,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 103565,
       "name": "MORGAN STATE",
       "url": "https://open.spotify.com/track/3qyACNIjPrG955ES9CbuQf"
@@ -18532,7 +18698,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 99241,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/2PlYV6GQYg9nkxhAvFzmNO"
@@ -18738,7 +18904,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 125747,
       "name": "Narrow Alley",
       "url": "https://open.spotify.com/track/53B4gxY5vjMpzniajhoAJS"
@@ -19050,6 +19216,24 @@
       "duration_ms": 161688,
       "name": "New Remedy",
       "url": "https://open.spotify.com/track/1gCya3lcpeTqcezVx6F7eM"
+    },
+    {
+      "album": {
+        "name": "Nichel",
+        "url": "https://open.spotify.com/album/5HJQHHweJzPtgOAd1WwgnC"
+      },
+      "artists": [
+        {
+          "name": "Alahsin",
+          "url": "https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237170,
+      "name": "Nichel",
+      "url": "https://open.spotify.com/track/1mxIgI68I1bvfMUyQPH6o9"
     },
     {
       "album": {
@@ -20151,6 +20335,28 @@
     },
     {
       "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/6rIE6P3dKtoyGxEskQYbot"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7g05iI6vyU8KCUWZGlKbZL"
+    },
+    {
+      "album": {
         "name": "On Me (feat. Bino Rideaux)",
         "url": "https://open.spotify.com/album/5XtNgA0FPnUhv6cYlxwVfI"
       },
@@ -20976,7 +21182,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 124392,
       "name": "PAYMEAGRIP",
       "url": "https://open.spotify.com/track/5Ge82v421JbdEDzasoSchN"
@@ -25358,7 +25564,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 154921,
       "name": "Splitz",
       "url": "https://open.spotify.com/track/2Sh502DfJNGzhnEEnkN6QJ"
@@ -26342,7 +26548,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 150911,
       "name": "Take A Step",
       "url": "https://open.spotify.com/track/20AE4hwfkFeJtyon4OReIB"
@@ -26864,7 +27070,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 146986,
       "name": "The Cup",
       "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
@@ -28196,7 +28402,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 246000,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6fcqlCAdmatLKYPn2SHBsO"
@@ -29169,6 +29375,24 @@
     },
     {
       "album": {
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/2DLlXM4UcCSXOKCFiS7W0S"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/3ww9maVBJqKbkkVFFq76jN"
+    },
+    {
+      "album": {
         "name": "wait a while' (tenten)",
         "url": "https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6"
       },
@@ -29841,6 +30065,28 @@
     },
     {
       "album": {
+        "name": "What We Doing",
+        "url": "https://open.spotify.com/album/0tgxqsvGlYZW9N77DU5BBt"
+      },
+      "artists": [
+        {
+          "name": "Lil Unky",
+          "url": "https://open.spotify.com/artist/2Qh7p29PSIvbZ7PUbpNY64"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145612,
+      "name": "What We Doing",
+      "url": "https://open.spotify.com/track/2RXsaLzTPttF4ebqh2yxUy"
+    },
+    {
+      "album": {
         "name": "Whatcha Got",
         "url": "https://open.spotify.com/album/0Tx3AWtVd2l7Sffk0exqzo"
       },
@@ -30116,7 +30362,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 230165,
       "name": "Why",
       "url": "https://open.spotify.com/track/1U6X7pkfCPpyxJKjX4Wne0"
@@ -30294,7 +30540,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 147851,
       "name": "wine club",
       "url": "https://open.spotify.com/track/3YGK7gtoiBPiAVZXimi1mk"
@@ -31028,7 +31274,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "YOU LIKE IT, I LOVE IT",
       "url": "https://open.spotify.com/track/5QFyMSGLLCe1bsfIcKQvnT"

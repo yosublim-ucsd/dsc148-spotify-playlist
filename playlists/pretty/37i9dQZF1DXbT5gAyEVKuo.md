@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,313 likes - 70 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,365 likes - 70 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 28 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
 | 29 | [More Than Anything \- Live](https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [More Than Anything \(Live\)](https://open.spotify.com/album/5A3YqQqBGOVWLhHSlpx0I7) | 5:44 |
 | 30 | [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 |
-| 31 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 |
+| 31 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 |
 | 32 | [SPIRIT AND BRIDE](https://open.spotify.com/track/0SX3YuyCvHsV6gtffhySHV) | [Gather Worship](https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Hear The World That You So Love Sing Back to You](https://open.spotify.com/album/5sRP2p1xJQ5cfTQajmslzF) | 4:52 |
 | 33 | [Freedom In This House \- Gospel](https://open.spotify.com/track/373Dif4kgUv7Q3ah1pzFvj) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Freedom In This House](https://open.spotify.com/album/0fxt9jTf4AnL6AgS5O4vkl) | 3:51 |
 | 34 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 |
 | 35 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 |
-| 36 | [Thank You \- Live](https://open.spotify.com/track/0LAqiyd9TaU0mpTH7VMvYl) | [LF Worship](https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1), [Nathan Pickens](https://open.spotify.com/artist/5VBoT4FrcqOKVLitL8TqOo) | [Thank You \(Live\)](https://open.spotify.com/album/2GzLAxaOOy79sp66M3vFBs) | 8:31 |
+| 36 | [Thank You \- Live](https://open.spotify.com/track/0LAqiyd9TaU0mpTH7VMvYl) | [LF Worship](https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1), [Nathan Pickens](https://open.spotify.com/artist/5VBoT4FrcqOKVLitL8TqOo) | [Thank You](https://open.spotify.com/album/2GzLAxaOOy79sp66M3vFBs) | 8:31 |
 | 37 | [Chosen](https://open.spotify.com/track/3PI1XMiWCW2FlQiD5diVW7) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Chosen](https://open.spotify.com/album/0xGMk2e8zkY7zmUJGo0t9g) | 6:38 |
 | 38 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 |
 | 39 | [Release Control \(Radio\)](https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Release Control \(Radio\)](https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2) | 3:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 69 | [Better than Life \- Live](https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Katrina Houston](https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE) | [Better than Life \(Live\)](https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC) | 4:20 |
 | 70 | [You Are Good \(Live\)](https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Are Good \(Live\)](https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP) | 4:34 |
 
-Snapshot ID: `Z7lvZAAAAACVcZCw6uOPpHdB4aOBhh7n`
+Snapshot ID: `Z7lvZAAAAAD7iM8YXwy+JkB89fBVzVBO`

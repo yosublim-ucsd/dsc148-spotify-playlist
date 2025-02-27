@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,841 likes - 160 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,832 likes - 160 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 45 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 |
 | 46 | [When You @ Me \(Fuck That Nigga\)](https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [What Makes Us Human](https://open.spotify.com/album/7dNo6q5zub68LOMCPa9Vta) | 3:30 |
 | 47 | [OTW](https://open.spotify.com/track/2WxZPSuhxxXd4w4xMZlSKm) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Flau & B](https://open.spotify.com/album/74GAi4NnfJEd4ueWHPn2Ro) | 3:27 |
-| 48 | [FALLING](https://open.spotify.com/track/1uAsvwMuwRREv0G1zp0wgc) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj), [Lihtz](https://open.spotify.com/artist/5qCTwicUCTguc1ijgLOv9z) | [FALLING](https://open.spotify.com/album/43Dk1mJjlY5WaXlLQJv2ec) | 2:15 |
+| 48 | [FALLING](https://open.spotify.com/track/1uAsvwMuwRREv0G1zp0wgc) | [Lihtz](https://open.spotify.com/artist/5qCTwicUCTguc1ijgLOv9z), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [FALLING](https://open.spotify.com/album/43Dk1mJjlY5WaXlLQJv2ec) | 2:15 |
 | 49 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 |
 | 50 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
 | 51 | [TEXT ME BACK](https://open.spotify.com/track/6CGt1T7l22N6VgzhA8pBT3) | [CHR1SSY](https://open.spotify.com/artist/21uX9Q97gJCfffa0rAuq99), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Felicty Estelle](https://open.spotify.com/artist/1wbLaqDPqVW7H5B3LaoC9X), [Naughtyy](https://open.spotify.com/artist/041Z5ZX7sOvOBNca4mIiC0) | [TEXT ME BACK](https://open.spotify.com/album/6ZnhIaRr582KqK6eqytw4l) | 2:11 |

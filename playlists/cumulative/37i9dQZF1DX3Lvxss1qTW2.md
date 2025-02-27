@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Yarden
 
-297 songs - 13 hr 52 min
+298 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Another Day](https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Synergy](https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0) | 2:33 | 2025-01-31 |  |
 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 | 2024-11-15 | 2024-11-29 |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-16 | 2024-09-13 |
+| [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-02-26 |  |
 | [Asambe Remix](https://open.spotify.com/track/5dYHbXEbaMMdR4A4OWSa6N) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe Remix](https://open.spotify.com/album/5ZkJx9EhBAGIwlxZjbSd7C) | 5:52 | 2024-06-28 | 2024-08-26 |
 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 | 2024-09-20 | 2024-11-29 |
 | [Avalay](https://open.spotify.com/track/57JrMpf7h96weuQz8rvJuK) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Avalay](https://open.spotify.com/album/6YdF793jc4usd4QUnfjThf) | 2:18 | 2024-06-28 | 2024-07-27 |
@@ -36,7 +37,7 @@
 | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/track/08Awv5MoR9qQNdCWrGi7I2) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/album/6fDuf1pTmoj8nNtD0Tu3xq) | 2:52 | 2024-12-06 | 2025-01-18 |
 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 | 2024-10-18 |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2024-09-30 | 2024-10-26 |
-| [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 |  |
+| [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 | 2025-02-27 |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 | 2025-01-18 |
 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 | 2024-11-22 | 2025-01-31 |
 | [Bam Bam](https://open.spotify.com/track/0bTbT8qD155mXVj8p7HZDl) | [Tavo DJ](https://open.spotify.com/artist/3KfHJDhPpaDijE7svYGMzB), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Bam Bam](https://open.spotify.com/album/0cMy1oQXPtmqHb3OiwshNF) | 2:24 | 2024-11-22 | 2024-11-29 |

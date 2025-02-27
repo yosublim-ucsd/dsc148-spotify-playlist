@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,986 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,094 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 42 | [Hallelujah \(Glory to the Lamb\)](https://open.spotify.com/track/0S0cgkLr5nPLbOcJ28zQuE) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hallelujah \(Glory to the Lamb\)](https://open.spotify.com/album/3iuG6dnhImXLYdiHx8gXd5) | 7:36 |
 | 43 | [wait](https://open.spotify.com/track/7lTzAuorrR23FNVSTxKzV7) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [wait](https://open.spotify.com/album/19B7awxEORrGrY1VW77P3B) | 2:37 |
 | 44 | [I Wanna Dance!](https://open.spotify.com/track/4V7Gtnzb4TRiqjmFI30XK4) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [I Wanna Dance!](https://open.spotify.com/album/7zyaSBpYNCj8wqYbTEXmhA) | 2:40 |
-| 45 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 |
+| 45 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 |
 | 46 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
 | 47 | [MOVEMENT](https://open.spotify.com/track/6NglFmvUC1ho123QUvQtRl) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [678NATH](https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [MOVEMENT](https://open.spotify.com/album/2Th9AdlxHPVC5huKjjSrz9) | 2:39 |
 | 48 | [So What](https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 2:29 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 74 | [OTW](https://open.spotify.com/track/2PZkK67mC3swcJvi2LZpc7) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [OTW](https://open.spotify.com/album/3li83VYqApNrcrT5Bj1E7C) | 3:08 |
 
-Snapshot ID: `Z5yaIwAAAACcZayseFG5nSlV1QWgyB8Z`
+Snapshot ID: `Z5yaIwAAAADzX/9L0BcKRasVpJ+cCkPN`

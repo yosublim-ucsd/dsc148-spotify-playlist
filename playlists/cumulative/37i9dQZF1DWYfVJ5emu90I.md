@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-196 songs - 9 hr 29 min
+197 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 | 2024-12-17 |  |
 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [DIOR](https://open.spotify.com/artist/47qicPj8hHGA7L1kg5bO4u) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 | 2025-01-16 |
 | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 | 2024-07-24 |  |
-| [Mononoke Kyoto](https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mononoke Kyoto](https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob) | 3:32 | 2024-07-12 |  |
+| [Mononoke Kyoto](https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mononoke Kyoto](https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob) | 3:32 | 2024-07-12 | 2025-02-27 |
 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 | 2024-06-12 |  |
 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 | 2022-11-19 | 2024-02-28 |
 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 | 2024-02-06 | 2024-04-19 |
@@ -190,6 +190,7 @@
 | [When i was young](https://open.spotify.com/track/2CWb9Q82ZWEIXunDwv6mkI) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [style](https://open.spotify.com/album/5kt6uRKhMiZUm8o915IkNx) | 2:38 | 2024-02-27 | 2024-04-24 |
 | [When i was young](https://open.spotify.com/track/4fIgIE4U8eeqz1l5qY3QYk) | [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb) | [style](https://open.spotify.com/album/63yKg4HtqigLHwlMQsUYiA) | 2:38 | 2022-11-19 | 2023-05-24 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-28 |  |
+| [WOKE UP](https://open.spotify.com/track/11JSTlSpQZbqbPLtwww8fW) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [WOKE UP](https://open.spotify.com/album/5bSVXn0a60q4pOpw9RTewh) | 2:08 | 2025-02-26 |  |
 | [WTF](https://open.spotify.com/track/2RuDratTmJvZIKCsi4gWWB) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [WATAPACHI](https://open.spotify.com/artist/3jn7wt2ywocl6A8LOS2YyH) | [WTF](https://open.spotify.com/album/0HTNHb1uSnTA8h4c1WQcPm) | 2:23 | 2024-11-27 | 2024-12-27 |
 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 | 2022-11-19 | 2024-04-19 |
 | [X RIOT \(feat\. Tokyo Young Vision\)](https://open.spotify.com/track/3cxU9leESo9h2aqomdO7NY) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT \(feat\. Tokyo Young Vision\)](https://open.spotify.com/album/1AK4X8fWHGR0gDrbsjWdiB) | 3:08 | 2024-02-27 |  |

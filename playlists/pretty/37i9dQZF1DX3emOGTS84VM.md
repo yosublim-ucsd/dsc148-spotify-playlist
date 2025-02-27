@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,347 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,345 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 30 | [LoveLikeThat](https://open.spotify.com/track/7c9AlqTaJkP6bX8uxa1ICs) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [LoveLikeThat](https://open.spotify.com/album/6rLaKsz6BJfaz1VMA5RbdS) | 3:52 |
 | 31 | [Antisocial Butterfly](https://open.spotify.com/track/1XIdGcd8nbvCf9kVUr6sFJ) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [The Confessions of an Antisocial Butterfly](https://open.spotify.com/album/1SKVeFbiHBRmcSIYI0X3Cv) | 2:23 |
 | 32 | [Sun Don't Leave Me](https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sun Don't Leave Me](https://open.spotify.com/album/0ETZgZqH23NT9Y8tstL8B8) | 3:26 |
-| 33 | [I Can't Even Cry \- A COLORS SHOW](https://open.spotify.com/track/4WRdIY3cvWLk2yeNw9rMaN) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry \- A COLORS SHOW](https://open.spotify.com/album/0W2BWLzGgAOZErCv5ZVT1v) | 4:03 |
+| 33 | [I Can't Even Cry \- A COLORS SHOW](https://open.spotify.com/track/4WRdIY3cvWLk2yeNw9rMaN) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I Can’t Even Cry \- A COLORS SHOW](https://open.spotify.com/album/0W2BWLzGgAOZErCv5ZVT1v) | 4:03 |
 | 34 | [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 |
 | 35 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 |
 | 36 | [Dating Me Ain't Hard](https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Dating Me Ain't Hard](https://open.spotify.com/album/5V6Rbmaey2po7jJfZztNuN) | 3:43 |

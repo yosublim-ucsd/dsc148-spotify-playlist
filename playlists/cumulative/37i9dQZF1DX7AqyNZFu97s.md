@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Caleb Kunle
 
-2,668 songs - 5 day 21 hr 17 min
+2,670 songs - 5 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,7 +867,7 @@
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-09-24 | 2024-10-23 |
 | [Garden](https://open.spotify.com/track/3XtWA4Qn0oNgG1MgzdZoOM) | [Dylan Guy](https://open.spotify.com/artist/6TlZX4lrvQ3LsHQz6h6mRL), [Edája](https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe) | [Garden](https://open.spotify.com/album/6HcibLQcsVd57FlPgrip4E) | 2:21 | 2023-05-10 | 2023-06-08 |
 | [garden](https://open.spotify.com/track/6RHda4qa3icpoHX8iKchKC) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [garden](https://open.spotify.com/album/68O18Kg8UL6I3PYqfTWPCW) | 3:10 | 2023-06-21 | 2023-07-26 |
-| [Garden of Eden](https://open.spotify.com/track/3dDMbPfWoRYXs9qnP7yOL5) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Garden of Eden](https://open.spotify.com/album/78Ah0Ffpa8jSkXn2n09cBg) | 3:27 | 2025-01-22 |  |
+| [Garden of Eden](https://open.spotify.com/track/3dDMbPfWoRYXs9qnP7yOL5) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Garden of Eden](https://open.spotify.com/album/78Ah0Ffpa8jSkXn2n09cBg) | 3:27 | 2025-01-22 | 2025-02-27 |
 | [gaslight](https://open.spotify.com/track/3EEBPFJts7jsz37sD5PvOW) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [gaslight](https://open.spotify.com/album/4V6oE935wVy1XBktVEzOYs) | 2:54 | 2022-08-03 | 2023-03-09 |
 | [Gasoline](https://open.spotify.com/track/49XZ89H2sWje7alp7NWxYP) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0), [James Sapphire](https://open.spotify.com/artist/2ObE4KRLjeqv0NpHmxLDv0) | [Gasoline](https://open.spotify.com/album/5t0Z0MTkmf5TnALkYbEUUp) | 2:48 | 2023-11-08 | 2023-11-30 |
 | [Gay Space Cadets](https://open.spotify.com/track/7H2CX9oBe0oRzNJVPXRLH3) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Gay Space Cadets](https://open.spotify.com/album/7feQUrbRRSuhhegsoYNY59) | 2:33 | 2022-07-06 | 2022-09-15 |
@@ -1757,6 +1757,7 @@
 | [On The Same Side](https://open.spotify.com/track/3fhrTWF3EhEBXenjQ7w6BN) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [On The Same Side](https://open.spotify.com/album/7BOs2bteI1F46j86wpIaso) | 3:42 | 2024-09-10 | 2024-10-16 |
 | [One](https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [One](https://open.spotify.com/album/2QK8nPSMDqX4GR9fbYhqpy) | 2:41 | 2023-04-12 | 2023-05-24 |
 | [One](https://open.spotify.com/track/5AgxNEeCCdVQzOjoVrA14h) | [Kiiymm](https://open.spotify.com/artist/5w7HWy9zH0wfVzpgK228zs) | [One](https://open.spotify.com/album/1eBWLIvVZPTF6xPredXm7T) | 2:31 | 2024-10-01 | 2024-10-30 |
+| [One Flow](https://open.spotify.com/track/6H1GDPMA0MjpC5s24EoP96) | [RB](https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl) | [One Flow](https://open.spotify.com/album/4xe15MGc9PCHKqHfpLkZE4) | 2:46 | 2025-02-26 |  |
 | [One Hunna](https://open.spotify.com/track/6PyGkFil1cw6rrd9RXepio) | [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB) | [One Hunna](https://open.spotify.com/album/3qee8cGklHXZfOUUdCHJCU) | 3:12 | 2022-08-03 | 2022-08-25 |
 | [One in a Million](https://open.spotify.com/track/11LWZ84MDmH3HLveORzySL) | [Tarun Puri](https://open.spotify.com/artist/5KB05NrNS3ns9mDIfPj65D) | [One in a Million](https://open.spotify.com/album/3h4Yu6OPqYqh7VvMWMvkQX) | 2:50 | 2022-02-16 | 2022-03-17 |
 | [ONE LOVE](https://open.spotify.com/track/5X1NsiJnNEFdayARj8icjd) | [Maha](https://open.spotify.com/artist/62jKtmenBSAz1bdaM4hUqX) | [ONE LOVE](https://open.spotify.com/album/0a9D1rRfXJ8UUV8nbHwNFR) | 3:17 | 2023-05-10 | 2023-06-14 |
@@ -1967,6 +1968,7 @@
 | [reminded](https://open.spotify.com/track/3GXwYEW7Ogb90zXLNf0Jv0) | [Olivia Rose](https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK) | [reminded](https://open.spotify.com/album/10cODNf5Ss5ywe8SElD1jh) | 2:02 | 2025-02-05 |  |
 | [Renovation](https://open.spotify.com/track/05zSMQqtdsbCR4Zbnn4cVP) | [TP](https://open.spotify.com/artist/3GsUk0APhVQ3TO9mwOsYio), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Renovation](https://open.spotify.com/album/7lHiiuJo9kYsPppKDMH5Tx) | 2:16 | 2023-05-24 | 2023-06-22 |
 | [Reprise](https://open.spotify.com/track/0npf0yCBJT6eUacG3XhwLf) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [Reprise](https://open.spotify.com/album/7fD5vw7RPaZkwpnkYvhL9s) | 2:04 | 2024-03-27 | 2024-04-24 |
+| [Respect & Power](https://open.spotify.com/track/1oIMqC0P0ZsM5yZlPnoMdR) | [Layyah](https://open.spotify.com/artist/4dPLaOXT8fXdg8X0KSIMXF) | [Respect & Power](https://open.spotify.com/album/0chkv2etsy3zlepeSbmK0H) | 3:22 | 2025-02-26 |  |
 | [Respectfully](https://open.spotify.com/track/4rDUynEv8FaP3rLLdjHaVO) | [Sage Todz](https://open.spotify.com/artist/5pZ4GTtn7TMK1BOUB4Da3b) | [Respectfully](https://open.spotify.com/album/1q3pqkoqglQ0YtkCFanfp2) | 2:40 | 2024-03-27 | 2024-04-24 |
 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-06-26 | 2024-07-24 |
 | [Retinues](https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Retinues / Urgency](https://open.spotify.com/album/7qTuSrHrvDfanvQJK25u9g) | 5:24 | 2022-03-02 | 2022-04-21 |
@@ -2352,7 +2354,7 @@
 | [the game](https://open.spotify.com/track/41sPzlIRREEHiTx4Zs08rL) | [kei the artist](https://open.spotify.com/artist/2kkFfGwnKMJZ2gbRWkYVT7) | [the game / nintendo sixty\-four](https://open.spotify.com/album/3lZwgDn7HckDDUiIcgBhEz) | 3:16 | 2025-01-22 | 2025-02-12 |
 | [The Game](https://open.spotify.com/track/22EmBpISvWpGARG7qwrTYB) | [KIRBS](https://open.spotify.com/artist/1ZzoRMK01oIoH21Rim84Rf) | [The Game](https://open.spotify.com/album/6Fry8IphVS29ToB3tT5d0k) | 2:00 | 2023-06-13 | 2024-01-03 |
 | [The Gate](https://open.spotify.com/track/38tAqCiAvZJU1hHAF5YTyq) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [The Gate](https://open.spotify.com/album/668S0urcn4vGgRdbKAhkFv) | 2:56 | 2024-03-06 | 2024-04-10 |
-| [THE GEARS](https://open.spotify.com/track/1YSJ2GO5SJmuGollbYZ8Vn) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [THE GEARS](https://open.spotify.com/album/7qk8WOrt4wE4JEnHZV2Fjb) | 3:02 | 2025-01-29 |  |
+| [THE GEARS](https://open.spotify.com/track/1YSJ2GO5SJmuGollbYZ8Vn) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [THE GEARS](https://open.spotify.com/album/7qk8WOrt4wE4JEnHZV2Fjb) | 3:02 | 2025-01-29 | 2025-02-27 |
 | [The Ghost](https://open.spotify.com/track/2QnRs4ApPdK8n5RqerKzdI) | [Ella Tobin](https://open.spotify.com/artist/1hdEBuPH4q1u687ZLNF1eb) | [The Ghost](https://open.spotify.com/album/3nxmBxZAZRQVYwOjVypgJ5) | 3:37 | 2022-11-09 | 2022-12-01 |
 | [THE GLASS](https://open.spotify.com/track/6O18Ab7sx5VifZk9CHE4pi) | [La Mantra](https://open.spotify.com/artist/6UjKvtXEWoIwtWn2qNFcxb) | [THE GLASS](https://open.spotify.com/album/2twIpyKPGLlnPPeqmUCedO) | 3:27 | 2023-07-11 | 2023-08-23 |
 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 | 2024-05-28 | 2024-06-26 |

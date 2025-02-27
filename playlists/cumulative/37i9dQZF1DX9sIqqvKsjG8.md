@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-924 songs - 1 day 15 hr 29 min
+926 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2021-12-07 | 2022-01-05 |
 | [Clara](https://open.spotify.com/track/0HxXK1CbIiWLlv9zxb2Kka) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Clara](https://open.spotify.com/album/6rf8nUWKLsUbI4YdGfHUIF) | 1:50 | 2023-01-26 | 2023-07-19 |
 | [Clinging](https://open.spotify.com/track/1CUnJZPEP3AwrGz5L9a052) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Clinging](https://open.spotify.com/album/1Btk5i0HowHnOV0c8gkmTS) | 3:05 | 2022-10-13 | 2023-10-07 |
+| [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-02-26 |  |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2021-12-07 | 2022-05-06 |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2021-12-07 | 2022-05-06 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2023-09-26 |
@@ -904,6 +905,7 @@
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-04 |  |
 | [Windborn](https://open.spotify.com/track/3AX6tUG6JdBBtjZVxnDIYB) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [Windborn](https://open.spotify.com/album/0Aa4Njw3hTnltDw4IRXHQ8) | 1:55 | 2023-04-18 | 2023-07-26 |
 | [Windswept](https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Windswept](https://open.spotify.com/album/4fIJCoIOzSAHmmZQETFkf2) | 3:19 | 2024-09-03 |  |
+| [Wings of hope](https://open.spotify.com/track/5oJzLdbHli0wBIHqC8liLs) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Wings of hope](https://open.spotify.com/album/5WwoQfVsig3jd6iqD0oWpE) | 2:40 | 2025-02-26 |  |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2021-12-07 | 2022-03-18 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-03-16 | 2024-09-25 |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-08-26 |

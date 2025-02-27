@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,225 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,356 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Wild in Secret](https://open.spotify.com/track/2lVISXKXcgsD5MQL9KUZJt) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Play This At My Funerals](https://open.spotify.com/album/3ODPrRxYM7JDGiIRCBEZ4B) | 2:23 |
 | 60 | [Better Off Now](https://open.spotify.com/track/7HOOFer1UZu24NIDGFGO6Y) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Better Off Now](https://open.spotify.com/album/6a7VO8U5x4Gjya0hoDiBCa) | 2:41 |
 
-Snapshot ID: `Z7e0EAAAAAD/KtzezKXCm8ra9E6RaZg2`
+Snapshot ID: `Z7e0EAAAAADcXf6Ujz89xbGvS+lUbGQj`

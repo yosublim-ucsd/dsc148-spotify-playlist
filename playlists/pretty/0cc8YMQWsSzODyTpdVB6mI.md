@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,022 likes - 50 songs - 2 hr 51 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,026 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 35 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
 | 36 | [True Romance](https://open.spotify.com/track/59Bet7eW1LnhXrHHOA74CG) | [Citizens!](https://open.spotify.com/artist/2LpTDvw6ZW4iV2yLpntiCU) | [Here We Are](https://open.spotify.com/album/7lkHNu9PjuMg6g6vq55cYW) | 4:01 |
 | 37 | [HIGH HOPES](https://open.spotify.com/track/5C9KruKQHBLDMA9E45i47Y) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [HIGH HOPES](https://open.spotify.com/album/2P8o42pxG775mAhhN0shMG) | 3:36 |
-| 38 | [Romanticise](https://open.spotify.com/track/2BpUgxmfgf0eKfGLGN8k5L) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Kitsuné: Romanticise](https://open.spotify.com/album/59OU96UyFENd5sjXxvDrWP) | 3:33 |
+| 38 | [Romanticise](https://open.spotify.com/track/2BpUgxmfgf0eKfGLGN8k5L) | [Chela et Cetera](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Kitsuné: Romanticise](https://open.spotify.com/album/59OU96UyFENd5sjXxvDrWP) | 3:33 |
 | 39 | [Hurt](https://open.spotify.com/track/5PHPBSzGhbUaalip3bNojK) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Hurt](https://open.spotify.com/album/1kWpiWVMxdD8pi0P2hkdw5) | 2:42 |
 | 40 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 |
 | 41 | [GEEKIN](https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/57MWVBl4RoYDLte8WwXA3R) | 2:37 |

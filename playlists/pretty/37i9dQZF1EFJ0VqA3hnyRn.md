@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 313 songs - 18 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 313 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 268 | [Win Win](https://open.spotify.com/track/7EYtUMHG5IfvZud1bf0AMl) | [B\. Smyth](https://open.spotify.com/artist/76JyRfZDqhAIow2Awv91iW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Florida Files](https://open.spotify.com/album/5plWds6ATedVEKS39ENeBu) | 4:06 |
 | 269 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 |
 | 270 | [Bang!!!!](https://open.spotify.com/track/0J8KdG7kgOoEKSlSwc7732) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Salo](https://open.spotify.com/artist/5wy12fnrGMTmZxiLykq4hU) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 3:40 |
-| 271 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 |
-| 272 | [Type A Party](https://open.spotify.com/track/4FMfsA0zAqAncx7P4bU3oq) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 3:45 |
+| 271 | [Type A Party](https://open.spotify.com/track/4FMfsA0zAqAncx7P4bU3oq) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 3:45 |
+| 272 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 |
 | 273 | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/track/6ulgD8erM9quTd8wnpZdJf) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/album/2vQbvntPQs6GWsYEyVVq3R) | 2:36 |
 | 274 | [You And I](https://open.spotify.com/track/25UDLYL5fRm1LSfbUTt6Nt) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Out Of Mind](https://open.spotify.com/album/5UJ6nbZU8NPPHW3ZgEt5eG) | 2:48 |
 | 275 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 312 | [Big Big](https://open.spotify.com/track/4wsNgpWYdQjQZjP0eiCT3P) | [Timo Makaveli](https://open.spotify.com/artist/68nIghWoFPxGpj5aHIyznz), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Right On Time](https://open.spotify.com/album/5MFK2qG2EJRgpEibwM823C) | 2:54 |
 | 313 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbqkXgAAAAAAfmZTpyTAPCPTuzQ8sIIh`
+Snapshot ID: `Abqp/gAAAAAq7bdnrbkdfQ1kj0Yjz39B`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,567 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,736 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 |
 | 2 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 |
-| 3 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 |
+| 3 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 |
 | 4 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 |
 | 5 | [Wackelkontakt](https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/6y14O5EK4bjAv08QETxoqQ) | 2:48 |
 | 6 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 |

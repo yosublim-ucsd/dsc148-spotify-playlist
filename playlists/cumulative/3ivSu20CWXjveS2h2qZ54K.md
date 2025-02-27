@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,187 songs - 7 day 7 hr 23 min
+3,191 songs - 7 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1308,6 +1308,7 @@
 | [Héroe](https://open.spotify.com/track/2L3h03teijr0yiKiAvXLaO) | [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu) | [Héroe](https://open.spotify.com/album/2I17d2J0oJBO0QCkuezPIV) | 2:31 | 2024-11-22 | 2024-11-30 |
 | [I AM](https://open.spotify.com/track/12LIQARQMnu1SR3ECd3Fvm) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [I AM](https://open.spotify.com/album/641i013yXfYjOJFpUi9QAf) | 2:43 | 2024-06-14 | 2024-06-22 |
 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 | 2024-09-06 | 2024-09-14 |
+| [I Am a Tower](https://open.spotify.com/track/4NOUvrwOInvcaDqq8RWGZm) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [I Am a Tower](https://open.spotify.com/album/4mTnhQoQ9MlgCIbBAs6IdS) | 19:17 | 2025-02-26 |  |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-11 | 2024-10-19 |
 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-20 | 2025-02-15 |
 | [I Can Do It With a Broken Heart \- Dombresky Remix](https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [I Can Do It With a Broken Heart \- Dombresky Remix](https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7) | 3:09 | 2024-09-13 | 2024-09-21 |
@@ -1435,6 +1436,7 @@
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-02-14 | 2025-02-22 |
 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 | 2024-10-25 | 2024-11-09 |
 | [Jaguar](https://open.spotify.com/track/5HILnkM56NIppehz0mUbOh) | [KILLIN´ CACTUZ](https://open.spotify.com/artist/3asV2o6Qz8X95kXFsYQzzA) | [Jaguar](https://open.spotify.com/album/25bdu6kDtUQhtt5IRxDWCH) | 2:39 | 2025-01-31 | 2025-02-08 |
+| [JanSport Backpack](https://open.spotify.com/track/6rmOE2BXaehqHO1FqP4ooW) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [JanSport Backpack](https://open.spotify.com/album/59a2oYuFwLZtKtRkhrUchN) | 4:13 | 2025-02-26 |  |
 | [Japi Mil](https://open.spotify.com/track/0MeQAdqiHE9BAxAEIlUpVO) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [DÉJATE CAER](https://open.spotify.com/album/6f5W3JldEcdI13scNXc3z9) | 2:34 | 2025-01-10 | 2025-01-18 |
 | [JAU](https://open.spotify.com/track/3gEjfT7bV4KOa4krdW3lhn) | [tonini.rar](https://open.spotify.com/artist/7mUs8SiycQplJtZtcSqYAY) | [PERFE](https://open.spotify.com/album/3hd6IxiYZsLidFHJgPPjq0) | 2:58 | 2025-02-06 | 2025-02-08 |
 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 | 2024-08-30 | 2024-09-07 |
@@ -2048,6 +2050,7 @@
 | [Ohnana \(feat\. Farruko & Nicky Jam\) \- Remix](https://open.spotify.com/track/2DmALIEmzfK4QDi6yg26Hh) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ohnana \(Remix\)](https://open.spotify.com/album/3KoEexNKokZyOxxSUxy8d2) | 5:17 | 2024-09-20 | 2024-09-28 |
 | [Ojos bonitos](https://open.spotify.com/track/7ErcmpT4tRXiGYT5qnJ21U) | [Las Nenas](https://open.spotify.com/artist/5RMPrDy0GZ8rMsuhvw8cs9) | [Ojos bonitos](https://open.spotify.com/album/3njsGzpBLIdyHdOQH5Rc8v) | 1:32 | 2024-11-08 | 2024-11-16 |
 | [OJOS DE NEÓN](https://open.spotify.com/track/75gYJfU4CKQCx9Fq4hslrp) | [Mabbi](https://open.spotify.com/artist/0jFtHVgRe17oRr4WtqJbAP) | [OJOS DE NEÓN](https://open.spotify.com/album/7Fxck7GecKt2khTEWXVkb9) | 3:17 | 2025-02-07 | 2025-02-15 |
+| [OJOS NEGROS](https://open.spotify.com/track/5NlCuw172yM8XZzDrW4cMK) | [BITA](https://open.spotify.com/artist/13gUCi7O1FDj0bNvqJyiFh) | [OJOS NEGROS](https://open.spotify.com/album/1UOQspmFwnkaqxryop2Gtf) | 2:40 | 2025-02-26 |  |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 | 2024-05-10 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-20 | 2025-01-11 |
 | [Okra & Fiji](https://open.spotify.com/track/0W03WRauxElLod4I1Ow7uy) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Okra & Fiji](https://open.spotify.com/album/0dvLKkSZgI8I70XmM0fLJK) | 2:54 | 2025-02-06 | 2025-02-08 |
@@ -2405,6 +2408,7 @@
 | [Sans Limites](https://open.spotify.com/track/1HUeBpI4otaokLQPIGnKee) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Sans Limites](https://open.spotify.com/album/4fFXbhBxCW3sITCgg9XFKE) | 5:07 | 2024-06-21 | 2024-06-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii) | 1:59 | 2024-12-20 | 2025-01-11 |
 | [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 | 2025-02-21 |  |
+| [Saquito de perlas](https://open.spotify.com/track/2txxDwiAKA9ql4QLOK18ez) | [Arcadia Vicenta](https://open.spotify.com/artist/5SAENWo2w7kRKhNFJAqqLj) | [Saquito de perlas](https://open.spotify.com/album/08HHE8qDN4LflzLGy9Kn3t) | 2:36 | 2025-02-26 |  |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-19 | 2024-07-27 |
 | [Satellites](https://open.spotify.com/track/4rq6UDIbT5z9dutSaLBfiL) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Satellites](https://open.spotify.com/album/7btu20XOyaZDtLNEGchcU5) | 3:20 | 2024-06-28 | 2024-07-13 |
 | [Satisfaction](https://open.spotify.com/track/6aQzXwDT104Hpg3YvmXyY3) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Satisfaction](https://open.spotify.com/album/2HUvguUTDRUOtPv3XHF841) | 3:17 | 2024-06-28 | 2024-07-13 |

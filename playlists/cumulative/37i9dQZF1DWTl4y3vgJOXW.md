@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jaden McDaniels<br/> and Anthony Edwards
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Luka Dončić and Kyrie Irving
 
 785 songs - 1 day 16 hr 29 min
 

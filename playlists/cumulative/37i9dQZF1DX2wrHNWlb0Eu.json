@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZEE PRUK, NuNew",
+  "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Offroad Kantapon",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 199756,
       "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d - Original soundtrack from \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 162424,
       "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d (Tidtidid)",
       "url": "https://open.spotify.com/track/6SPQLRBjL8dLdG0UDyPSkD"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 227186,
       "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
       "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 199310,
       "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 - Original soundtrack from \"\u0e19\u0e34\u0e48\u0e07\u0e40\u0e2e\u0e35\u0e22\u0e01\u0e47\u0e2b\u0e32\u0e27\u0e48\u0e32\u0e0b\u0e37\u0e48\u0e2d\" cutie pie series",
       "url": "https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj"
@@ -1792,6 +1792,28 @@
       "duration_ms": 230000,
       "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
       "url": "https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
+        "url": "https://open.spotify.com/album/3nzV3XSNqlty0vXv0oCIAr"
+      },
+      "artists": [
+        {
+          "name": "Offroad Kantapon",
+          "url": "https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL"
+        },
+        {
+          "name": "SMEW",
+          "url": "https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
+      "url": "https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8"
     },
     {
       "album": {
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 197684,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 - From \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
@@ -3474,7 +3496,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 201038,
       "name": "\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35 (Destiny) [Original Soundtrack \"\u0e14\u0e31\u0e1a\u0e41\u0e2a\u0e07\u0e23\u0e27\u0e35\"]",
       "url": "https://open.spotify.com/track/5MvHwXj0FJtYzCKZd7dBI1"
@@ -3598,7 +3620,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"

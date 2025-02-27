@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/7hchtqpcVlgh8hd1eeZHbi"
+      },
+      "artists": [
+        {
+          "name": "Slow Journey",
+          "url": "https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160874,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/6Vo2knh1o9GQY72A2GJzok"
+    },
+    {
+      "album": {
         "name": "Aere Perrenius",
         "url": "https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 199024,
       "name": "Aerofoil",
       "url": "https://open.spotify.com/track/0nqtOf7OZfOIKgv2ejTb6P"
+    },
+    {
+      "album": {
+        "name": "Aetherwind",
+        "url": "https://open.spotify.com/album/7HXeEiZn3VTqkDZGq2dfBZ"
+      },
+      "artists": [
+        {
+          "name": "Orchid Rain",
+          "url": "https://open.spotify.com/artist/12iVnS0Nbz0W1GT5VjNEkd"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Aetherwind",
+      "url": "https://open.spotify.com/track/6iNp8YUEpIFkb8AtpbTURR"
     },
     {
       "album": {
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 144000,
       "name": "Dree",
       "url": "https://open.spotify.com/track/7pesKriQybH0DBYTA5FbM0"
@@ -3290,7 +3326,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 160000,
       "name": "Finally At Ease",
       "url": "https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx"
@@ -3654,6 +3690,24 @@
       "duration_ms": 179166,
       "name": "Fulfilled",
       "url": "https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1"
+    },
+    {
+      "album": {
+        "name": "Fulfillment",
+        "url": "https://open.spotify.com/album/7ay7MJFZvd2TB44IjcDAoZ"
+      },
+      "artists": [
+        {
+          "name": "Photoautotroph",
+          "url": "https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fulfillment",
+      "url": "https://open.spotify.com/track/1qniL4F4O4hBtFp5FmK883"
     },
     {
       "album": {
@@ -4719,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Inward",
+        "url": "https://open.spotify.com/album/6bZ6CJdK8E94DLR0YaEqbW"
+      },
+      "artists": [
+        {
+          "name": "Luminary Night",
+          "url": "https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166291,
+      "name": "Inward",
+      "url": "https://open.spotify.com/track/7vE4R6MP1gb9ElIZZ256zl"
+    },
+    {
+      "album": {
         "name": "Introversion",
         "url": "https://open.spotify.com/album/5F8DCSOMEhSRn3ysLn6cjb"
       },
@@ -5601,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/5bEVbOrRKPbXL2z6zxCQvH"
+      },
+      "artists": [
+        {
+          "name": "\u00d6gonblick",
+          "url": "https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/0hQEd6efoHhatddcHoB2Tf"
+    },
+    {
+      "album": {
         "name": "Lyrae",
         "url": "https://open.spotify.com/album/2LdgV7loCwJ99NyWlIOi1C"
       },
@@ -5810,7 +5900,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 185706,
       "name": "Meet Me At Sundown",
       "url": "https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9"
@@ -5832,6 +5922,24 @@
       "duration_ms": 118294,
       "name": "Mellifluous",
       "url": "https://open.spotify.com/track/1vSqYZ2q0cvwlWNAzkzeOq"
+    },
+    {
+      "album": {
+        "name": "Melodia Lunae",
+        "url": "https://open.spotify.com/album/2dONJ6WXlR4IFMiErS3t0z"
+      },
+      "artists": [
+        {
+          "name": "Ember Rivera",
+          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160623,
+      "name": "Melodia Lunae",
+      "url": "https://open.spotify.com/track/5SpdUdqThVDb3RcRoHiB3r"
     },
     {
       "album": {
@@ -7074,7 +7182,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 141837,
       "name": "Other Existence",
       "url": "https://open.spotify.com/track/5vrx4NkFNaawdXnCbsOU00"
@@ -8269,6 +8377,24 @@
     },
     {
       "album": {
+        "name": "rivers",
+        "url": "https://open.spotify.com/album/2MxUJ3TtCbBnNTN9OzmWqz"
+      },
+      "artists": [
+        {
+          "name": "Bedtime Muse",
+          "url": "https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188131,
+      "name": "rivers",
+      "url": "https://open.spotify.com/track/6zq3IrjKg4qlVVANkr511r"
+    },
+    {
+      "album": {
         "name": "Into The Unknown",
         "url": "https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ"
       },
@@ -8640,7 +8766,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 157333,
       "name": "Seguro",
       "url": "https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp"
@@ -8982,7 +9108,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 158000,
       "name": "Similarities",
       "url": "https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r"
@@ -10552,7 +10678,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"

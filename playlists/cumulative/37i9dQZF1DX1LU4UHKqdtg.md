@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: G\-DRAGON
 
-1,361 songs - 3 day 0 hr 46 min
+1,362 songs - 3 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [LIKE IT LIKE IT](https://open.spotify.com/track/7ISeBBHzZgNWiDjJEcv3YH) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/78pg93B2eu8AMtNtCyWyA2) | 3:08 | 2023-03-03 | 2023-05-10 |
 | [Like Snow\-White](https://open.spotify.com/track/4UWMq8MZLZoYp6sPfau7bj) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Epitaph](https://open.spotify.com/album/0G2cUavLBvDifRqcO1d9qJ) | 3:04 | 2022-03-15 | 2022-04-13 |
 | [Like That](https://open.spotify.com/track/1sxNix9ZqNI50638iunh68) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Like That](https://open.spotify.com/album/4SOTVJp2kAs4oZYCER8hYu) | 2:43 | 2024-04-12 | 2024-05-08 |
+| [LIKE U 100](https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Flowering](https://open.spotify.com/album/2UUsZyRmggGvLJTnp0ZKcE) | 2:46 | 2025-02-25 |  |
 | [Like Yesterday](https://open.spotify.com/track/5YTsiCrfRiIxxqUnpcqe39) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Like Yesterday](https://open.spotify.com/album/4yaIevy3AvY5g1k7SkejSK) | 3:40 | 2024-10-21 | 2024-11-23 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-06 | 2023-08-11 |
 | [Lime & Lemon](https://open.spotify.com/track/53Jy1OGka6wXUuE11Vj6jR) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/7c0C835UWVrAkQYjnBrwcT) | 3:08 | 2023-06-13 | 2023-08-01 |

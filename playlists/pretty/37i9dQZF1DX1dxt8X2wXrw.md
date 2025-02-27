@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,405 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,408 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tide](https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Tide](https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq) | 2:50 |
 | 2 | [How Does It Feel \(feat\. Dakota\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 |
-| 3 | [Body's Chorus](https://open.spotify.com/track/72EmP0wtUsB8Upi6mrl5M1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 3:58 |
+| 3 | [Bodys Chorus](https://open.spotify.com/track/72EmP0wtUsB8Upi6mrl5M1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 3:58 |
 | 4 | [Leave Me Low](https://open.spotify.com/track/5A6FXagEPwOWV6MIurNgTK) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [MAYDAY](https://open.spotify.com/album/4wkb1ikv8zY8rMAeeIVG56) | 3:43 |
 | 5 | [Rose Quartz](https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:13 |
 | 6 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |

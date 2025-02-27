@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,841 likes - 244 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,815 likes - 244 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,780 likes - 195 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,623 likes - 195 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unity](https://open.spotify.com/track/6rHtt54jKCbXRiJtEqJ0Lw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Unity](https://open.spotify.com/album/6tFoXQoZLEz3myMSNL1fgh) | 2:02 |
 | 2 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 |
 | 3 | [Nature Glow](https://open.spotify.com/track/3OrmXo57riocNDenXrBdq4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature Glow](https://open.spotify.com/album/1kS0RVjIitabNe0x2AURQl) | 3:12 |
-| 4 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 |
+| 4 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 |
 | 5 | [Maya Koshas](https://open.spotify.com/track/5qJmKV9jhebr7cf2jyOzWr) | [Acasia Movement](https://open.spotify.com/artist/4e0cqWjAWOTv46JCMrPOkO) | [Maya Koshas](https://open.spotify.com/album/4FRpcGxqAXidbhpMyK6lTs) | 2:29 |
 | 6 | [Lilac](https://open.spotify.com/track/5AgmQ1LOYIEhKk6tChXisU) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Lilac](https://open.spotify.com/album/6L9sRkofncbL9S1Pm8h22E) | 2:42 |
 | 7 | [life force](https://open.spotify.com/track/5rR3ZCKZIkleCI3BRqlcyZ) | [mistral bark](https://open.spotify.com/artist/19VIhs2q6YQ5J23OrTknU7) | [life force](https://open.spotify.com/album/3kw1ti0EVfqNgzB3Q0B4Pz) | 2:14 |
 | 8 | [Purity](https://open.spotify.com/track/3No9Niai3Y3hpIgq1uzHXX) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Purity](https://open.spotify.com/album/2t3Rxxc5ggVC4N1OnMBfi5) | 3:12 |
 | 9 | [Tamber](https://open.spotify.com/track/48d93hJAYO1AXulXARqTYO) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Tamber](https://open.spotify.com/album/6Q582niAm4psDFt9W8Lqyo) | 3:04 |
 | 10 | [Haoma](https://open.spotify.com/track/40I2IA1fQ20M2l20WrSkO5) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Haoma](https://open.spotify.com/album/58Ng0Pu78WjQyd5pk8lXbS) | 2:37 |
-| 11 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 |
+| 11 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 |
 | 12 | [Mendocino Rest \(Forest\)](https://open.spotify.com/track/1FVKJv0aLxNPeBiJAF8xE0) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Mendocino Rest \(Forest\)](https://open.spotify.com/album/155r1CDT3MsxkbM5JhSYYN) | 2:35 |
 | 13 | [Mountain Streams](https://open.spotify.com/track/3GzWxvQYJYwvUR3t84Fr2D) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Mountain Streams](https://open.spotify.com/album/77vCHsHSqYLFrh7RRm7EwB) | 2:18 |
 | 14 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 194 | [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 |
 | 195 | [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 |
 
-Snapshot ID: `Z6nOdwAAAABl4WWJ0FwkvdvxhhwPgyPi`
+Snapshot ID: `Z78urwAAAACTUs3NR1OjBTW6Sw0e66Om`

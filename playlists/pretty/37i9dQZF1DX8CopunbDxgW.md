@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 👀 with Avalon Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,765 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,679 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 88 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
 | 89 | [HOME](https://open.spotify.com/track/1fONtMDgrejXVDC7im22Sw) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [HOME](https://open.spotify.com/album/25CSCR1YpZdrv8abTAPXk2) | 3:19 |
 | 90 | [No Ice](https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [No Ice](https://open.spotify.com/album/15qRqrh7YYtKfkqx6VDvDr) | 4:02 |
-| 91 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |
+| 91 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |
 | 92 | [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 |
 | 93 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 94 | [Get It](https://open.spotify.com/track/3f7ECZblJZ0nzzbcnfRJF3) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Get It](https://open.spotify.com/album/0T80WhSHRYWHSnvpPFlL6N) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Type of Girl Pt\. 2](https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Type of Girl](https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ) | 4:25 |
 | 100 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 |
 
-Snapshot ID: `Z7gIfAAAAAATNiRFu/AY8j1U/KBM7hNX`
+Snapshot ID: `Z7gIfAAAAAC5u0P0OSBtBD4sd+yPODKr`

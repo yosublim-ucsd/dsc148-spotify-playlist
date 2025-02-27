@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,140 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,268 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 4 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 |
 | 5 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 |
 | 6 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 |
-| 7 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
+| 7 | [Carne Cruda](https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Open Timbz](https://open.spotify.com/artist/3ZwlNZPRmpyHl0ZT7VD7Fk) | [Carne Cruda](https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL) | 3:00 |
 | 8 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 |
 | 9 | [Lo Que Soy](https://open.spotify.com/track/6zQ1fFfhSPdwid5mKSlBeq) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Lo Que Soy](https://open.spotify.com/album/1x2LbSzPZBZg442OeODL6z) | 3:33 |
 | 10 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |

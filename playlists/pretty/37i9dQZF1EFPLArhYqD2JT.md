@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424 likes - 382 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 382 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,8 +266,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 256 | [Dance With Me \(Tonight At The Mardi Gras\)](https://open.spotify.com/track/3tUG4uvQYs6wpvXpjDv8kc) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 2:48 |
 | 257 | [In My Harem](https://open.spotify.com/track/1AvLsWXeijih0QIUS3qtlf) | [Adam Swanson](https://open.spotify.com/artist/0ndX9U2SpkmvQeJmwKJn2b), [Johnny Maddox](https://open.spotify.com/artist/2To4jNx23pDgZJbZx9ynyJ) | [Jazzin' the Blues Away](https://open.spotify.com/album/0zkRsJXt9mD8bk2tqT5YwZ) | 1:52 |
 | 258 | [Learn to Do the Strut](https://open.spotify.com/track/5vm8zaiJd0Vs6xRtnb1loz) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Hot Lips](https://open.spotify.com/album/7FGeuqpeCt7dRZUuR73bJL) | 3:13 |
-| 259 | [But Where Are You?](https://open.spotify.com/track/4E7upn22YfJDexV5wgibcy) | [Jane Froman](https://open.spotify.com/artist/6NY3765DltvFLSQ1be9cHC) | [My Heart Speaks](https://open.spotify.com/album/6A5dAe5UNaMrQzDhL6eBtU) | 2:56 |
-| 260 | [The Haunted House](https://open.spotify.com/track/0UAcB0JEstADg6aT7TfdjH) | [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE), [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:04 |
+| 259 | [The Haunted House](https://open.spotify.com/track/0UAcB0JEstADg6aT7TfdjH) | [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE), [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:04 |
+| 260 | [But Where Are You?](https://open.spotify.com/track/4E7upn22YfJDexV5wgibcy) | [Jane Froman](https://open.spotify.com/artist/6NY3765DltvFLSQ1be9cHC) | [My Heart Speaks](https://open.spotify.com/album/6A5dAe5UNaMrQzDhL6eBtU) | 2:56 |
 | 261 | [The Girls of My Dreams](https://open.spotify.com/track/7ektE2x3m4iGjB49z08tMH) | [Paragon Ragtime Orchestra](https://open.spotify.com/artist/4yF9RZa80FC7Er6QjA6RvH), [Rick Benjamin](https://open.spotify.com/artist/1ytyC1KEcdOBjVFt0N9Hpz) | [Irving Berlin \- "This Is the Life!"](https://open.spotify.com/album/5YnLM1K9Lk3XaPDmaEE3aB) | 2:59 |
 | 262 | [Smile and Show Your Dimple](https://open.spotify.com/track/4RXnEq60FjthJCwmIqQURo) | [Paragon Ragtime Orchestra](https://open.spotify.com/artist/4yF9RZa80FC7Er6QjA6RvH), [Rick Benjamin](https://open.spotify.com/artist/1ytyC1KEcdOBjVFt0N9Hpz) | [Irving Berlin \- "This Is the Life!"](https://open.spotify.com/album/5YnLM1K9Lk3XaPDmaEE3aB) | 1:30 |
 | 263 | [He's A Ragpicker](https://open.spotify.com/track/157vMBlqa9lXV9598I9NWk) | [Danny Polo](https://open.spotify.com/artist/79ogoGlrKKkmtG0yZGm90h), [Swing Stars](https://open.spotify.com/artist/3JacjCVghgq9MFvB4icHqy) | [The Complete Sets \- London 1937\-1938 & Paris 1939 plus The Embassy Rhythm Eight 1933](https://open.spotify.com/album/2PPZFPKBGrV6UFDtOk68q8) | 3:06 |
@@ -391,4 +391,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 381 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 382 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AbqkXgAAAABIzsm17jWmARNSc248SOXf`
+Snapshot ID: `Abqp4AAAAACuvf0/baa5HlDHQFklBq/c`

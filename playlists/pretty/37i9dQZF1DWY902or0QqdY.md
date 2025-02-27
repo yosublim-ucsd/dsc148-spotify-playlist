@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 
 > Clásicos que son el curita perfecto para tu corazón 💔🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,535 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,803 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 69 | [Where Do Broken Hearts Go](https://open.spotify.com/track/709znSutWha3sQdPgdSO00) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 4:35 |
 | 70 | [Everybody Hurts](https://open.spotify.com/track/3nRTjZW3LYfLcIHxpf8MEX) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [In Time: The Best Of R.E.M\. 1988\-2003](https://open.spotify.com/album/5PHng5BLIYSwmFfrihOeOi) | 5:18 |
 
-Snapshot ID: `Z70lLQAAAAC7k+oB6riWU9lg+eB7fPuQ`
+Snapshot ID: `Z79RWQAAAAB3eYZiTVIQKZflVHlPZYeL`

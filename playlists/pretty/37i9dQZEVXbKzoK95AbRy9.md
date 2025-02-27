@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,750 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,795 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 | 50 | [Pilantra e Meio](https://open.spotify.com/track/6h3EEYgtIuOjeqQPIC3H37) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Ao Vivo em São Paulo](https://open.spotify.com/album/3tRFdxNLBgGjiqvqih1nRq) | 3:08 |
 
-Snapshot ID: `L1EvyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1KDoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

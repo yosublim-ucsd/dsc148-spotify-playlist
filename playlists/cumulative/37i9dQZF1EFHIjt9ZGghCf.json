@@ -16,10 +16,28 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 384800,
       "name": "A Better Word - Live",
       "url": "https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR"
+    },
+    {
+      "album": {
+        "name": "The Entreating",
+        "url": "https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR"
+      },
+      "artists": [
+        {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384800,
+      "name": "A Better Word - Live",
+      "url": "https://open.spotify.com/track/6r3Mznc8z5AcSWJ2aJvIZF"
     },
     {
       "album": {
@@ -948,6 +966,24 @@
     {
       "album": {
         "name": "The Gathering",
+        "url": "https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187712,
+      "name": "Grace Wouldn't Leave Me",
+      "url": "https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu"
+    },
+    {
+      "album": {
+        "name": "The Gathering",
         "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
       },
       "artists": [
@@ -958,7 +994,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 187712,
       "name": "Grace Wouldn't Leave Me",
       "url": "https://open.spotify.com/track/5uAgnUEeDpECNuGC5U6AyH"

@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214817,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },

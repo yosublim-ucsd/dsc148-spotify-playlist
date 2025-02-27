@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,037 likes - 158 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,030 likes - 158 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 157 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 |
 | 158 | [Blue without you](https://open.spotify.com/track/2DrNPmBsMaeSXYTqYijbot) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Blue without you](https://open.spotify.com/album/25y6bIvp1tUsnCPqaQ1SV6) | 2:42 |
 
-Snapshot ID: `Z66/yAAAAADL/fhgqGlDDKL+6Km50fje`
+Snapshot ID: `Z78auwAAAADcF9GsC6FU+suI/fr0ahtY`

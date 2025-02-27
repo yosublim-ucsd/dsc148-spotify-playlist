@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,824 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,842 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 25 | [No Greater Love](https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 3:50 |
 | 26 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 27 | [Awesome God \(Your Voice\) \- Kids Version](https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Here I Am To Worship For Kids](https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX) | 4:26 |
-| 28 | [Come to Me \(Matthew 11:28\-30\)](https://open.spotify.com/track/5ftRDxHHlXxhYjiwPDQu2j) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 4](https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3) | 2:54 |
+| 28 | [Come To Me \(Matthew 11:28\-30\)](https://open.spotify.com/track/5ftRDxHHlXxhYjiwPDQu2j) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 4](https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3) | 2:54 |
 | 29 | [Bible Verses](https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG) | [Jesus Loves Me This I Know](https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU), [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Verses](https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL) | 2:11 |
 | 30 | [From the Rising of the Sun \(Psalm 113:3\-5 ESV\)](https://open.spotify.com/track/5m6OS0i0JwQhgawp5cfn97) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [From the Rising of the Sun \(Psalm 113:3\-5 ESV\)](https://open.spotify.com/album/07qDLWVDxpo0hjapao2cwW) | 2:53 |
 | 31 | [Your Name \(Psalm 40\) \- Live](https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:50 |
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 82 | [King Of Me](https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [King Of Me](https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz) | 2:17 |
 | 83 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 |
 | 84 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
-| 85 | [Every Move I Make](https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Shout to the Lord Kids](https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV) | 3:10 |
+| 85 | [Every Move I Make](https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb) | [KidStuf Singers](https://open.spotify.com/artist/5JuIVBnUSqlAIXIO4xxXnM), [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Shout to the Lord Kids](https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV) | 3:10 |
 
 Snapshot ID: `Z0k8QAAAAAAmspqlHbOBl2q+1O6CfBJh`

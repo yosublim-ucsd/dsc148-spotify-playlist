@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s\. Cover: The Cardigans
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,503,400 likes - 150 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,504,831 likes - 150 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

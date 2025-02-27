@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,274 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,288 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 91 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
 | 92 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 |
 | 93 | [Coração de Aço \- Acústico](https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Aço \(Acústico\)](https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP) | 3:48 |
-| 94 | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F) | 3:41 |
+| 94 | [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F) | 3:41 |
 | 95 | [Volta](https://open.spotify.com/track/6K6WJdyILe1BlbwGmKuJj7) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Volta](https://open.spotify.com/album/2wb9KwFiEKa9fpMRTzpXsF) | 3:39 |
 | 96 | [Me Diz](https://open.spotify.com/track/6PdMs1R7JSYy2Xlh4EP4P1) | [Ariane Villa Lobos](https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz) | [Me Diz](https://open.spotify.com/album/5CpvvfYzoepNsuO6gtl85B) | 3:26 |
 | 97 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg) | 2:22 |

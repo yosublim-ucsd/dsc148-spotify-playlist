@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 徐懷鈺 \(Yuki Hsu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,065 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,068 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 16 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
 | 17 | [藍色太陽](https://open.spotify.com/track/5GiuIKTfOXiWBkDjfvKG0P) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [藍色太陽](https://open.spotify.com/album/7IGU2icg0wMiQR0P8n96NL) | 3:11 |
 | 18 | [傷心不行嗎](https://open.spotify.com/track/6s66obPKvQSxSAnCTS6g83) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [傷心不行嗎](https://open.spotify.com/album/3Ergs0uoT9ig5EaOlGCqod) | 4:24 |
-| 19 | [關於我失眠的某三個夜晚](https://open.spotify.com/track/4XdP6l8wIbHLIybMAajhfM) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [關於我失眠的某三個夜晚](https://open.spotify.com/album/2r00aiM0Bk2ih8Y4bqCUg6) | 3:38 |
+| 19 | [關於我失眠的某三個夜晚 Sleepless Wander](https://open.spotify.com/track/4XdP6l8wIbHLIybMAajhfM) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [關於我失眠的某三個夜晚 Sleepless Wander](https://open.spotify.com/album/2r00aiM0Bk2ih8Y4bqCUg6) | 3:38 |
 | 20 | [你還是你嗎](https://open.spotify.com/track/0uzGIrqzEG1Nb7p5sEAJc0) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [珍珠刑](https://open.spotify.com/album/6q1WgJJeGOllNgkJPJcjG9) | 5:36 |
 | 21 | [never went away](https://open.spotify.com/track/0DQaTEvFdE82lKjKKy7qkf) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:35 |
 | 22 | [給她的話](https://open.spotify.com/track/5UX1ZpHdInDMAPUiv3G7y0) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我的問題該問誰](https://open.spotify.com/album/6HbOuUXV6eN9Mr39l88MV8) | 5:32 |

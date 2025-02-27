@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 17 | [I WANT IT](https://open.spotify.com/track/7xtrtBI3YPNbKjpfqgSUkH) | [PEER](https://open.spotify.com/artist/0AVYVn1irsC3O2VFSAvHMW) | [I WANT IT](https://open.spotify.com/album/4MvZNncmVkY1sOiVpcrIWk) | 3:20 |
 | 18 | [Toot Toot](https://open.spotify.com/track/5i3ZDK1yWMoFgLAu5O83ul) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Toot Toot, Choo Choo](https://open.spotify.com/album/1okAwOqNUWgKLUJgkfBC9P) | 3:31 |
 | 19 | [Unsent Letter](https://open.spotify.com/track/0zNBJY8EPOP4ovWu96LZUU) | [Nouveau Vélo](https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn) | [Fruit](https://open.spotify.com/album/3TVODxPf7esnsONMdb8LcY) | 4:02 |
-| 20 | [L.O.V.E](https://open.spotify.com/track/36vaGZOM3HBsxTYYqDneLO) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Welcome To The GUNMOLL Family](https://open.spotify.com/album/2GwB5Kd4BTPXKQarCFtmy4) | 4:02 |
+| 20 | [L.O.V.E.](https://open.spotify.com/track/36vaGZOM3HBsxTYYqDneLO) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Welcome To The GUNMOLL Family](https://open.spotify.com/album/2GwB5Kd4BTPXKQarCFtmy4) | 4:02 |
 | 21 | [Mythomania](https://open.spotify.com/track/4bx3iEHWKsfQrCeeAMlc6F) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Mythomania](https://open.spotify.com/album/3bzp1CiGi1rHb2OJhkCHy6) | 1:41 |
 | 22 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 |
 | 23 | [Shaking Shoulder](https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/6FaSba3ItIHnC6B0gyOuWz) | 3:10 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 77 | [Final Wave](https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Final Wave](https://open.spotify.com/album/2ts4A1dtMnCtrb3JnEA1YB) | 3:52 |
 | 78 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
 
-Snapshot ID: `Z7rU7AAAAACeqKKGe+UVh1fl8DSkUfRA`
+Snapshot ID: `Z7rU7AAAAAD+s9tUPq2B6BkkPp2HzxBA`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華 \(Hua Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,125 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,245 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
-| 2 | [跳楼机（Jumping Machine）](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [跳楼机（Jumping Machine）](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
+| 2 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
 | 3 | [BAD SIGN](https://open.spotify.com/track/2QZfiES4z1qGLWREmTqUKu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [BAD SIGN](https://open.spotify.com/album/6JcbSMJhx8O29eKxgwDeUi) | 3:07 |
 | 4 | [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 |
 | 5 | [我跟你不只ENFP是LOVE](https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我跟你不只ENFP是LOVE](https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l) | 3:03 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 19 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 |
 | 20 | [想再問你一次](https://open.spotify.com/track/0YqveraOFp5KXGWLpX1EdA) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [想再問你一次](https://open.spotify.com/album/5LOADA7R8MZi7nJn099LPx) | 4:52 |
 | 21 | [當我們談論愛情](https://open.spotify.com/track/2JOb24g7gKkE70LYhXv8pf) | [HUSH](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR) | [當我們談論愛情](https://open.spotify.com/album/6vCdo47Pl0VqYAKI4hTn0H) | 3:51 |
-| 22 | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/track/3KdYhswquP3eULSDr07Lso) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [JUD陳泳希](https://open.spotify.com/artist/6zc1JS3WQ0JCjyuFzHWAmt) | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/album/4RlljKPPh94GFpvSfQe6wc) | 3:10 |
+| 22 | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/track/3KdYhswquP3eULSDr07Lso) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/album/4RlljKPPh94GFpvSfQe6wc) | 3:10 |
 | 23 | [小孩](https://open.spotify.com/track/6kyH1z6IdLo1GH3EcZXHMa) | [罗森涛](https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi) | [为何离开](https://open.spotify.com/album/3bDRe5CwhS5NGuZS0trZw7) | 3:39 |
 | 24 | [不愛就不愛](https://open.spotify.com/track/28y6huBepebPPupr6F5xup) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [不愛就不愛](https://open.spotify.com/album/4vODVYoNDliJSAQONGWwqI) | 3:17 |
 | 25 | [你不用懂](https://open.spotify.com/track/7IzVSRAULW6qJTLRlg2EJG) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [OUTCOMES 結果論](https://open.spotify.com/album/5WHZGyerJB7BP7FHdNVuPf) | 3:56 |

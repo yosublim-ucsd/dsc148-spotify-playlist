@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,847 likes - 85 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,951 likes - 85 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 84 | [Not A Tear](https://open.spotify.com/track/1Pt7htydCAL9lJzrKmAkyV) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 5:58 |
 | 85 | [You Don't Know What Love Is \- Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97) | 6:27 |
 
-Snapshot ID: `Z1cKbAAAAADrkzpS5nESkPCzgOdTyT3l`
+Snapshot ID: `Z1cKbAAAAAANCfoCPbFkIdimTH826AiV`

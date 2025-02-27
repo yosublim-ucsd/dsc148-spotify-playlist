@@ -4,7 +4,7 @@
 
 > Playlist
 
-587 songs - 1 day 10 hr 50 min
+588 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amadurecer](https://open.spotify.com/track/3eF6O7QMduhx8at9iqxQTC) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Amadurecer](https://open.spotify.com/album/12wmenlxnuuimrrN2C0QkH) | 3:29 | 2023-10-25 |  |
 | [Amsterdam](https://open.spotify.com/track/0pfklpJDnkbiCUIOioVJQO) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Amsterdam](https://open.spotify.com/album/68ifF0mzj0CktW1B54142C) | 2:52 | 2023-10-25 |  |
 | [Anchor in the Clouds](https://open.spotify.com/track/1eXNquWkPpHz5fiEe3CAIO) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Anchor in the Clouds](https://open.spotify.com/album/74iLL8S4UNmA8K3DOlYSuZ) | 2:48 | 2023-10-25 |  |
+| [And That's How I Got The Congas](https://open.spotify.com/track/6wFVeAvNtTYGNSxbAv9EPX) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [And That's How I Got The Congas](https://open.spotify.com/album/3ZzMiF0rUutGoH1Cg5ZND2) | 2:53 | 2025-02-26 |  |
 | [Another Day](https://open.spotify.com/track/5WEtgNHhrYiNuc4xBHYgma) | [GIMMY](https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0) | [Things Look Different Now](https://open.spotify.com/album/1wt6odICcCYOG17AjDZvri) | 3:03 | 2024-11-27 |  |
 | [Another Land](https://open.spotify.com/track/3PrcknGalkwoABuIQ24Duf) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Another Land](https://open.spotify.com/album/0s2xUxtbqRxwzUcefY75NO) | 1:38 | 2023-10-25 |  |
 | [Another Year](https://open.spotify.com/track/52C0d0IlAdFNINYPmfkJTL) | [Coral Pink](https://open.spotify.com/artist/4tBONWiDXvYt42kbXueDdY) | [Another Year](https://open.spotify.com/album/1IvPC0rbKSi6aiKyb5GYsD) | 3:20 | 2023-10-25 |  |

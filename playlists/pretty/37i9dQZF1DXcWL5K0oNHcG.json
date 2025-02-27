@@ -1,13 +1,85 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
-  "num_followers": 232421,
+  "num_followers": 232518,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7YehQAAAADWXmRzhrq2+A/upItdEhhc",
+  "snapshot_id": "Z76f2QAAAABTL76zegRcqQy+EQgULmyu",
   "tracks": [
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Painted Lady",
+        "url": "https://open.spotify.com/album/7KtDcMztVoKtXNnrmA9pka"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "duration_ms": 242535,
+      "name": "Painted Lady",
+      "url": "https://open.spotify.com/track/2pD5oV7GP3Sx5ygrzTiMGT"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Dig Deep (feat. Jairo)",
+        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Jairo",
+          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
+        }
+      ],
+      "duration_ms": 270326,
+      "name": "Dig Deep (feat.Jairo\uff09",
+      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
+    },
+    {
+      "added_at": "2025-02-26 05:00:09",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5ubu8VyciwzRdPzzZOB4vd"
+      },
+      "artists": [
+        {
+          "name": "Yevhenii Dubovyk",
+          "url": "https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn"
+        },
+        {
+          "name": "ptaho__",
+          "url": "https://open.spotify.com/artist/2V95BWv4IJ8TMuu4RXKGbn"
+        },
+        {
+          "name": "Kyryllch",
+          "url": "https://open.spotify.com/artist/7Ajotsth9cvhl7hX2VeFvt"
+        },
+        {
+          "name": "Dmytro Markov",
+          "url": "https://open.spotify.com/artist/4IgtKx2h2wDAbJd96PCNPb"
+        },
+        {
+          "name": "Ivan Korniienko",
+          "url": "https://open.spotify.com/artist/2dSx4VzsV1SB78xjKAuLBS"
+        },
+        {
+          "name": "Stanislav Diachenko",
+          "url": "https://open.spotify.com/artist/4QLuMp5SszGid5FBSaWo4K"
+        }
+      ],
+      "duration_ms": 220574,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2hJ0RGGp25S2StykaSY4NB"
+    },
     {
       "added_at": "2025-02-19 18:10:13",
       "album": {
@@ -571,22 +643,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "Egungun",
-        "url": "https://open.spotify.com/album/7J7YZVUDS8IHSYDqR1ZlQo"
-      },
-      "artists": [
-        {
-          "name": "Salin",
-          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Egungun",
-      "url": "https://open.spotify.com/track/1XgM9dS27HgCLf0Hh4rbPD"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Marina del Rey",
         "url": "https://open.spotify.com/album/6826yU0TTl1XpferIzYPAB"
       },
@@ -903,58 +959,6 @@
       "duration_ms": 184076,
       "name": "LOVE CAME SO EASILY",
       "url": "https://open.spotify.com/track/5XgHLkdBZ2Fjbmc8FgoFoK"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/5cdd8W5l7e2VbtBPxaY4zi"
-      },
-      "artists": [
-        {
-          "name": "dane.zone",
-          "url": "https://open.spotify.com/artist/65zHIhyypfDuK4QVcj6Wsz"
-        },
-        {
-          "name": "Lindsay Lucas",
-          "url": "https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
-        }
-      ],
-      "duration_ms": 239234,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/48qW2p7Wvuau6zWLU0AgLG"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6Rb99L1o09UsVkmR8edK8t"
-      },
-      "artists": [
-        {
-          "name": "deathbypeanuts",
-          "url": "https://open.spotify.com/artist/6pjfJNMFkR1wqEymE0IMxx"
-        },
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/1DaQRgRsXvsUUhSuNMGPbI"
-        },
-        {
-          "name": "Moses Yoofee",
-          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
-        },
-        {
-          "name": "Noah F\u00fcrbringer",
-          "url": "https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/7k2Lv6pwqiEPd2GChkwW26"
     },
     {
       "added_at": "2025-01-15 05:00:02",

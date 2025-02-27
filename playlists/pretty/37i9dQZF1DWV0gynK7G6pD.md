@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Renaud Capuçon
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,287 likes - 77 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,298 likes - 77 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

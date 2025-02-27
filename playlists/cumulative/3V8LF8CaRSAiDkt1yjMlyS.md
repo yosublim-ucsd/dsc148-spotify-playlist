@@ -4,7 +4,7 @@
 
 > 
 
-154 songs - 8 hr 21 min
+156 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 |  |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2023-09-07 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-09-08 |  |
+| [no way out](https://open.spotify.com/track/7D3VAPd2nvxzPxZNKworii) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [no way out](https://open.spotify.com/album/4tKoOYBp5XfyPp5H3Yo3RF) | 2:10 | 2025-02-26 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-02-01 |  |
 | [Ode to Vivian](https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 1:29 | 2024-01-22 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2023-01-13 |  |
@@ -158,6 +159,7 @@
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-08-08 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-01 |  |
 | [Witness Reprise](https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Witness](https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69) | 3:13 | 2024-12-05 |  |
+| [Worn out Shoes](https://open.spotify.com/track/2fO2YSbkT6gvGLjcqkCpMr) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Headed Down](https://open.spotify.com/album/5LLsZ8uICGZa34gXc4UJno) | 3:48 | 2025-02-26 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2023-09-21 |  |
 | [Ylang Ylang](https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [Ylang Ylang EP](https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1) | 3:33 | 2023-07-27 |  |
 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 | 2023-09-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 571 songs - 1 day 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,196 likes - 571 songs - 1 day 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 123 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 124 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
 | 125 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
-| 126 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 |
-| 127 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
+| 126 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
+| 127 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 |
 | 128 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 129 | [I Will Get There \- A Cappella](https://open.spotify.com/track/7kSnTetIKAJZpKV2kEBHsv) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 4:20 |
 | 130 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 |
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 268 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 269 | [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/1cGZBNNjsMHvn6QCcxSOVw) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:21 |
 | 270 | [As Long As I Can Dream](https://open.spotify.com/track/2WukpFZIJd3HiF0Aos3eXE) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:50 |
-| 271 | [If I Can't Have Your Love](https://open.spotify.com/track/0U2prZwiP37p7xF1ohH5sk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [100,000,000 Bon Jovi Fans Can't Be Wrong](https://open.spotify.com/album/3bYv3vaHxACS0O2fUbKSKk) | 4:14 |
-| 272 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 271 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 272 | [If I Can't Have Your Love](https://open.spotify.com/track/0U2prZwiP37p7xF1ohH5sk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [100,000,000 Bon Jovi Fans Can't Be Wrong](https://open.spotify.com/album/3bYv3vaHxACS0O2fUbKSKk) | 4:14 |
 | 273 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
 | 274 | [Times Like This](https://open.spotify.com/track/2rw5u17eoLKHdBizu0IOE2) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 4:08 |
 | 275 | [Here's To The Nights](https://open.spotify.com/track/5Ct9fD9hFSJuyFEzUlRG6w) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Here’s To The Nights](https://open.spotify.com/album/35Y28ilNoufC6tjau8ZdSB) | 4:06 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 290 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
 | 291 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 |
 | 292 | [Moonlight \- DJ THT Edit](https://open.spotify.com/track/50m1SoDGafprzaJkqV3dtr) | [Jens O.](https://open.spotify.com/artist/1DDMrVXQt53FwOcxBQvjwh), [Ti\-mo](https://open.spotify.com/artist/73JwGHDxXzf3LpzZTqz2GG) | [Moonlight](https://open.spotify.com/album/3HSV7iYeObvpqCWJCzCA2V) | 3:20 |
-| 293 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
-| 294 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
+| 293 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
+| 294 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 295 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
 | 296 | [Perfection](https://open.spotify.com/track/0C5QSBH1wHLfP1cAKQIK4i) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:29 |
 | 297 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 571 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbqkaAAAAAA4QCAiZY2CyYor2mKF55Qa`
+Snapshot ID: `Abqp/gAAAACZ9w84a4Fopx9oxtn9uFdz`

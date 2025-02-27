@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,413 songs - 3 day 0 hr 9 min
+1,414 songs - 3 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-22 | 2023-08-03 |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-06-14 | 2021-08-01 |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 3:08 | 2021-08-01 | 2022-01-19 |
+| [Descer](https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ) | [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Descer](https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j) | 1:51 | 2025-02-26 |  |
 | [Descer Pra BC](https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Descer Pra BC](https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal) | 2:46 | 2024-11-24 |  |
 | [Descontrolada](https://open.spotify.com/track/35ILpvFvH8u8dVfjG2txtw) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/2j7lcwySLJb1KyihQby99X) | 2:42 | 2022-09-24 | 2022-09-26 |
 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 | 2023-04-15 | 2023-07-12 |
@@ -1307,7 +1308,7 @@
 | [Um Mês E Pouco \- Ao Vivo](https://open.spotify.com/track/3dgeqa8u8FenXF9cNbVdsF) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [As Melhores](https://open.spotify.com/album/0eO3T6vXomZhJBE85ra44g) | 2:51 | 2023-07-06 | 2023-07-14 |
 | [UM PALMO \- Ao Vivo](https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [UM PALMO \(Ao Vivo\)](https://open.spotify.com/album/3RhkeMBMeTY5PPy0MwTnAf) | 2:18 | 2024-12-22 | 2025-02-02 |
 | [UM PALMO \- Ao Vivo](https://open.spotify.com/track/2ciksfz6WZKfqoMVrWq8Vb) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [ESOTÉRICO \(Ao Vivo\)](https://open.spotify.com/album/1VR7zwpshHJ5CdlTo1TORp) | 2:18 | 2025-02-01 |  |
-| [Uma e Quinze da Manhã](https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [De Bar em Bar 4.0](https://open.spotify.com/album/3HJJJjN3AfIUa4UOL3q7AQ) | 2:44 | 2025-01-11 |  |
+| [Uma e Quinze da Manhã](https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [De Bar em Bar 4.0](https://open.spotify.com/album/3HJJJjN3AfIUa4UOL3q7AQ) | 2:44 | 2025-01-11 | 2025-02-27 |
 | [Un Ratito](https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Un Ratito](https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B) | 3:14 | 2022-01-15 | 2022-01-17 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-28 | 2022-11-20 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-02-13 |

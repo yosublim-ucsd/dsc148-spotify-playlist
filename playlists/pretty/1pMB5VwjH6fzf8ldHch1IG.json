@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.",
-  "num_followers": 45179,
+  "num_followers": 45181,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABJV+u8EwpX961xjPinJdGFlaS6U4KP",
+  "snapshot_id": "AABJXsGB+AlD/Z/MjAK/56tLyTMyK1Aw",
   "tracks": [
     {
       "added_at": "2025-02-21 16:29:15",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk"
     },
     {
+      "added_at": "2025-02-26 20:59:45",
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
       "added_at": "2025-02-21 16:29:15",
       "album": {
         "name": "Hurricane (feat. Clara Mae)",
@@ -191,6 +211,22 @@
       "duration_ms": 149077,
       "name": "Hurricane (feat. Clara Mae)",
       "url": "https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei"
+    },
+    {
+      "added_at": "2025-02-21 18:54:34",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4"
     },
     {
       "added_at": "2025-02-21 16:29:15",
@@ -523,6 +559,22 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2025-02-21 19:26:10",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-02-21 16:29:15",
@@ -923,22 +975,6 @@
     {
       "added_at": "2025-02-21 16:29:15",
       "album": {
-        "name": "Rushmere",
-        "url": "https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K"
-    },
-    {
-      "added_at": "2025-02-21 16:29:15",
-      "album": {
         "name": "need dat boy",
         "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
       },
@@ -991,46 +1027,6 @@
     {
       "added_at": "2025-02-21 16:29:15",
       "album": {
-        "name": "See You At (The Crossroads)",
-        "url": "https://open.spotify.com/album/2NKrvxrlnm7VJOS5IsiWP2"
-      },
-      "artists": [
-        {
-          "name": "Austin Williams",
-          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
-        }
-      ],
-      "duration_ms": 154980,
-      "name": "See You At (The Crossroads)",
-      "url": "https://open.spotify.com/track/2sB0EEBR8VW4DXSJUx58zf"
-    },
-    {
-      "added_at": "2025-02-21 16:29:15",
-      "album": {
-        "name": "Money Showers",
-        "url": "https://open.spotify.com/album/3uab7YtiOV7hTEjpXdVxcu"
-      },
-      "artists": [
-        {
-          "name": "Money Musik",
-          "url": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
-        },
-        {
-          "name": "Lil Double 0",
-          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
-        },
-        {
-          "name": "Lil Gotit",
-          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
-        }
-      ],
-      "duration_ms": 147851,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/5Hg7tK6LmFOdkgJyPMehV5"
-    },
-    {
-      "added_at": "2025-02-21 16:29:15",
-      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -1055,38 +1051,6 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": "2025-02-21 18:54:34",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4"
-    },
-    {
-      "added_at": "2025-02-21 19:26:10",
-      "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     }
   ],
   "unique_name": "Trending Now",

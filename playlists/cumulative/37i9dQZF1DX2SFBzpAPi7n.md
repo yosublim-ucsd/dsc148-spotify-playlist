@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Volunteers\(더 발룬티어스\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-871 songs - 2 day 5 hr 3 min
+872 songs - 2 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Orange Dream](https://open.spotify.com/track/7mXP2e8BWogfNUetKRIWes) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [The Killer's Shopping List, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vbG0V7H1bPV18r1cP891u) | 4:36 | 2022-06-13 | 2022-07-29 |
 | [Orange Drive \(feat\. Jaeyeon\)](https://open.spotify.com/track/5AV46mxygxymvopKsIkAlf) | [Seoul Dabansa](https://open.spotify.com/artist/7eGLy6C0ZiRDgr9E4iWrFG), [Jaeyeon](https://open.spotify.com/artist/3G1Tc30MBFyPWNCFANyF0u) | [Orange Drive](https://open.spotify.com/album/0ivJG3KryS32p5LOSMHYY8) | 4:05 | 2022-04-22 | 2022-07-05 |
 | [Orca](https://open.spotify.com/track/623eMqeawjpsDlbB6W7GoJ) | [re:nier](https://open.spotify.com/artist/3EjzP7g4fMNarEXNpoYo4t) | [Orca](https://open.spotify.com/album/3y6pcqsKBZFeEpHr9V0O7x) | 5:40 | 2024-07-16 | 2024-07-31 |
+| [Orchid](https://open.spotify.com/track/6PX9XFzdYQcQxikyGzQJah) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Odyssey](https://open.spotify.com/album/56eyAyu9JO0vSKijY3cKPh) | 6:59 | 2025-02-26 |  |
 | [Ordinary Days](https://open.spotify.com/track/6nZqsYlVsAAN4Q0MHVnLis) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 3:06 | 2024-06-05 | 2024-11-07 |
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2022-05-11 | 2022-06-05 |
 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2022-07-01 | 2022-07-09 |

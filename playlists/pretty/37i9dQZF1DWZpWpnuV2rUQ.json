@@ -1,6 +1,6 @@
 {
   "description": "Hits virales, tendencias y challenges del futuro.",
-  "num_followers": 92229,
+  "num_followers": 92250,
   "original_name": "el hype",
   "owner": {
     "name": "Spotify",
@@ -1704,10 +1704,6 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
@@ -1718,6 +1714,10 @@
         {
           "name": "TINI",
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
       "duration_ms": 233406,

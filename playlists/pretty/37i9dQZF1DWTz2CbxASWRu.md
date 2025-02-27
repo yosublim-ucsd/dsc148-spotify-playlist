@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,088 likes - 350 songs - 1 day 0 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,093 likes - 350 songs - 1 day 0 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Disability](https://open.spotify.com/track/7xtwZcsB2NFZrpbaLc049v) | [Tanzania Albinism Collective](https://open.spotify.com/artist/1imqcUZSgrDXfGOwsgzCZV) | [Our Skin May Be Different, But Our Blood Is the Same](https://open.spotify.com/album/1THePggLcKULibBceBunYz) | 1:29 |
 | 350 | [Entangled](https://open.spotify.com/track/573mcdFJoIUOXgXX7mNIUV) | [Mamak Khadem](https://open.spotify.com/artist/7JHzjpBoyYwTCkt5T66uPx) | [Entangled](https://open.spotify.com/album/11oSUBbZckt3w3Etj5NZez) | 4:17 |
 
-Snapshot ID: `Z70iwwAAAABCSvneSAwl4VVMUya+/rle`
+Snapshot ID: `Z79BaAAAAAAPtsF47RMSSpzzauqud9Om`

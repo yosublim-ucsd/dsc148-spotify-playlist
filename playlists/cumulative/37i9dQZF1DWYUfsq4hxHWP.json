@@ -3181,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4t6788zC1gaovd8OmcKtMS"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189209,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0nO4bDeRdPbhRYixrjgSfh"
+    },
+    {
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/0C5CGI2uWzyxZrEgaeqrbP"
       },
@@ -7309,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "Call Me Pretty",
+        "url": "https://open.spotify.com/album/2gIzKG7ukWiURVDHtsUPez"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lee",
+          "url": "https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163990,
+      "name": "Call Me Pretty",
+      "url": "https://open.spotify.com/track/1vBR4zrIcAmYnYnmXgAWUx"
+    },
+    {
+      "album": {
         "name": "call me when you land",
         "url": "https://open.spotify.com/album/6J6ghiT9f1KMZ9Wvejr4yt"
       },
@@ -8852,6 +8888,24 @@
       "duration_ms": 186360,
       "name": "Coldest Beer In Town",
       "url": "https://open.spotify.com/track/3wxxyy1kvTOX59vxrYJESI"
+    },
+    {
+      "album": {
+        "name": "Cologne",
+        "url": "https://open.spotify.com/album/1eJfIOSx2UDxyXqqk6KIkf"
+      },
+      "artists": [
+        {
+          "name": "Sam Stoane",
+          "url": "https://open.spotify.com/artist/1UbbQqh0t5CzE0lz02iNTg"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "Cologne",
+      "url": "https://open.spotify.com/track/7jWcjeVz4FX4LFEmApqtJd"
     },
     {
       "album": {
@@ -14239,6 +14293,24 @@
     },
     {
       "album": {
+        "name": "Exit Sign",
+        "url": "https://open.spotify.com/album/38zE7xLeYIRik1BSbr7Ajb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Johnston",
+          "url": "https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/22xMcR6w7M1do0jnrWBTjR"
+    },
+    {
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/5yifdZJRsJAn3CgVmzyuKC"
       },
@@ -15638,6 +15710,24 @@
       "duration_ms": 178659,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/5amIs6bmhvDwmviSJg5ySd"
+    },
+    {
+      "album": {
+        "name": "For Cryin' Out Loud",
+        "url": "https://open.spotify.com/album/2ZprlYW0D2Un9KyNCN1eDL"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lenhart",
+          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224069,
+      "name": "For Cryin' Out Loud",
+      "url": "https://open.spotify.com/track/0gzux8Yj5tnAuoJTsrxifW"
     },
     {
       "album": {
@@ -19748,7 +19838,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 189306,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/78c9Imtg80GGgKGfKA7AP7"
@@ -24374,6 +24464,24 @@
       "duration_ms": 183392,
       "name": "In My View",
       "url": "https://open.spotify.com/track/5Plrf4mh7q3w2rveiF7nU4"
+    },
+    {
+      "album": {
+        "name": "In The Dirt",
+        "url": "https://open.spotify.com/album/6j6yskLEG9XRitvstefPsB"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161451,
+      "name": "In The Dirt",
+      "url": "https://open.spotify.com/track/6CRUOHhZv2lkfwOufTS27T"
     },
     {
       "album": {
@@ -33543,6 +33651,24 @@
     },
     {
       "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/2GX3biRlAgo10uA152tyHB"
+      },
+      "artists": [
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Oklahoma Mountains",
+      "url": "https://open.spotify.com/track/6Z4B37ZTu7wrvdNsNO3wqC"
+    },
+    {
+      "album": {
         "name": "Oklahoma Sooner",
         "url": "https://open.spotify.com/album/7k3QL5d7vtnPQMjwAtrbrW"
       },
@@ -34228,6 +34354,24 @@
       "duration_ms": 191000,
       "name": "Only a Girl",
       "url": "https://open.spotify.com/track/3bhNKa4APqLXPtBvo51DLh"
+    },
+    {
+      "album": {
+        "name": "Only Lonely",
+        "url": "https://open.spotify.com/album/52KY75Q2zpnThma6ssn4TB"
+      },
+      "artists": [
+        {
+          "name": "Rachel Lee Roberts",
+          "url": "https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Only Lonely",
+      "url": "https://open.spotify.com/track/5rK8xNhDAX8719scWWYzGh"
     },
     {
       "album": {
@@ -35356,6 +35500,24 @@
       "duration_ms": 183389,
       "name": "Picking Up",
       "url": "https://open.spotify.com/track/0XFqliuJxfyVIMjsu6jQFr"
+    },
+    {
+      "album": {
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/0lF50lCl79vcZqIDcxmlJI"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lathrop",
+          "url": "https://open.spotify.com/artist/40bsTqQeta2NZ0KHrRqN7w"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193888,
+      "name": "Picture This",
+      "url": "https://open.spotify.com/track/1igE2jkzOGrfM6kUCciVQW"
     },
     {
       "album": {
@@ -38034,6 +38196,24 @@
       "duration_ms": 219000,
       "name": "Same Damn Kid",
       "url": "https://open.spotify.com/track/0Ckrx7eY7gK1S0FLaxLRjW"
+    },
+    {
+      "album": {
+        "name": "same girl same",
+        "url": "https://open.spotify.com/album/0pR5NjYQSy9nwuALP1yxBu"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220950,
+      "name": "same girl same",
+      "url": "https://open.spotify.com/track/3w9AolERXf63Pp8sHqx1d4"
     },
     {
       "album": {
@@ -43840,7 +44020,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 195950,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/7caJyp4K8DzIWZ5UXcOsEP"
@@ -47123,6 +47303,24 @@
     },
     {
       "album": {
+        "name": "Trailer Treasure",
+        "url": "https://open.spotify.com/album/5zQ5X1H2KbFjyg1slbq9aQ"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Nichols",
+          "url": "https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148901,
+      "name": "Trailer Treasure",
+      "url": "https://open.spotify.com/track/3wKRcWAoH4jtZO63L5gj2q"
+    },
+    {
+      "album": {
         "name": "Clever",
         "url": "https://open.spotify.com/album/4IHRm6kK7CHimGm9aH3La8"
       },
@@ -47210,6 +47408,28 @@
       "duration_ms": 160229,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4bRnAr9ORuwbLawtNh2XDL"
+    },
+    {
+      "album": {
+        "name": "TROUBLE",
+        "url": "https://open.spotify.com/album/6NCzQzTdmngHW52Z6GCEDa"
+      },
+      "artists": [
+        {
+          "name": "Tori Darke",
+          "url": "https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj"
+        },
+        {
+          "name": "Jay Santilli",
+          "url": "https://open.spotify.com/artist/2UkeOGA3AakM5iX05PudFh"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197138,
+      "name": "TROUBLE",
+      "url": "https://open.spotify.com/track/2qwwH3yW0YOAYukOdN4MOK"
     },
     {
       "album": {
@@ -51460,6 +51680,24 @@
       "duration_ms": 176280,
       "name": "Words",
       "url": "https://open.spotify.com/track/1zMDXYI5U1don5Gb4H3mlV"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/351KR8Y0xOwb5WnSzegsfJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Hutcherson",
+          "url": "https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188347,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/2ypodI4WVAiKdRL0vW3msQ"
     },
     {
       "album": {

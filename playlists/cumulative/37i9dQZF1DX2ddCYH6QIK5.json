@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Marlena K\u00e4the, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Roomer, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/4YcJj4mPBhetqFpy6qd30W"
+      },
+      "artists": [
+        {
+          "name": "friends with benedikt",
+          "url": "https://open.spotify.com/artist/0WI07f09DIfixifMop4TwA"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129052,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/2hvNtxUq33E4sfeHuG5THK"
+    },
+    {
+      "album": {
         "name": "Captain Kit",
         "url": "https://open.spotify.com/album/0RZTlAF6G7dnpRVwJITK06"
       },
@@ -3812,6 +3830,24 @@
       "duration_ms": 189448,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/0fL9dSIKqMkq1WvTynxFpo"
+      },
+      "artists": [
+        {
+          "name": "Roomer",
+          "url": "https://open.spotify.com/artist/7hXtMXAZsLo6LF4qYfj2Ef"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163343,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5G8oQngyP7qE65xCBBsKV7"
     },
     {
       "album": {
@@ -10221,6 +10257,24 @@
     },
     {
       "album": {
+        "name": "Hundred Voices",
+        "url": "https://open.spotify.com/album/7tAVa1aCwrzhPVtdXuKk8U"
+      },
+      "artists": [
+        {
+          "name": "KAILIGHT",
+          "url": "https://open.spotify.com/artist/2otxzYO4esNHG04VsIORZq"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Hundred Voices",
+      "url": "https://open.spotify.com/track/60ydWiSXHpCqw0RuFywpUg"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/5xYtrYZW4RFuaYjrlnocCL"
       },
@@ -11130,6 +11184,24 @@
       "duration_ms": 143322,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf"
+    },
+    {
+      "album": {
+        "name": "Innenstadtverkehr",
+        "url": "https://open.spotify.com/album/7idnssL5LjOyvMEcgCeFhc"
+      },
+      "artists": [
+        {
+          "name": "insschlosswollen",
+          "url": "https://open.spotify.com/artist/7ipUJLRtcmA8uL2QISyInJ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Innenstadtverkehr",
+      "url": "https://open.spotify.com/track/21LnwkbGb7bamMod0xxxsk"
     },
     {
       "album": {
@@ -16817,6 +16889,24 @@
     },
     {
       "album": {
+        "name": "Puke",
+        "url": "https://open.spotify.com/album/5mxsW9ag0Sv8YqwigBJO4P"
+      },
+      "artists": [
+        {
+          "name": "Tough Mother",
+          "url": "https://open.spotify.com/artist/6U21cIUwrxRhpwpkRLP5RC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Puke",
+      "url": "https://open.spotify.com/track/0mFOy2e3r0QziwxhINJNXL"
+    },
+    {
+      "album": {
         "name": "Pull up Flex",
         "url": "https://open.spotify.com/album/0yBeYMbAXS9oFDsbMFT3FM"
       },
@@ -17106,6 +17196,24 @@
       "duration_ms": 196645,
       "name": "RAUS",
       "url": "https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s"
+    },
+    {
+      "album": {
+        "name": "Raus aus dem Grau",
+        "url": "https://open.spotify.com/album/1u9fmhS3c7ytb1uLgNmom0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142225,
+      "name": "Raus aus dem Grau",
+      "url": "https://open.spotify.com/track/4MQ2SCsheIoSzVUioxx26D"
     },
     {
       "album": {
@@ -18240,6 +18348,24 @@
       "duration_ms": 197538,
       "name": "Say!",
       "url": "https://open.spotify.com/track/0uLtK2oYlZ1Lhvbe8JuEeB"
+    },
+    {
+      "album": {
+        "name": "Birth No Birth",
+        "url": "https://open.spotify.com/album/6pXpDgY5c1zTWdJjQWDqOp"
+      },
+      "artists": [
+        {
+          "name": "Matze Pr\u00f6llochs",
+          "url": "https://open.spotify.com/artist/3dj6nUUdJnyT5SIF5QjzXp"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198882,
+      "name": "Scar",
+      "url": "https://open.spotify.com/track/7xS5LwOKxQo8kt0xpuu3cc"
     },
     {
       "album": {

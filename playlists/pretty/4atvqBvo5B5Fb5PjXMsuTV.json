@@ -1,13 +1,69 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Feb 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Feb 19:03 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAPxgVi83ug7/vl5rbdWXQpFQan7m4M",
+  "snapshot_id": "AAAPzReTJApaQYgeILX9DhPCEj82fYSA",
   "tracks": [
+    {
+      "added_at": "2025-02-26 19:03:28",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "added_at": "2025-02-26 19:03:28",
+      "album": {
+        "name": "I Brought You My Soul (Your World Brought Me Despair)",
+        "url": "https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd"
+      },
+      "artists": [
+        {
+          "name": "Dying Wish",
+          "url": "https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "I Brought You My Soul (Your World Brought Me Despair)",
+      "url": "https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P"
+    },
+    {
+      "added_at": "2025-02-26 19:03:28",
+      "album": {
+        "name": "Dancing with your eyes closed",
+        "url": "https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 230526,
+      "name": "Dancing with your eyes closed",
+      "url": "https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr"
+    },
     {
       "added_at": "2025-02-25 23:03:28",
       "album": {
@@ -55,6 +111,38 @@
       "duration_ms": 302600,
       "name": "Heathen",
       "url": "https://open.spotify.com/track/5uN7Ib0AHzxUwalc4fctfW"
+    },
+    {
+      "added_at": "2025-02-26 19:03:28",
+      "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p"
+    },
+    {
+      "added_at": "2025-02-26 14:03:09",
+      "album": {
+        "name": "To be a rose",
+        "url": "https://open.spotify.com/album/5gaZk8C7T3dkC8hVn8Wvs3"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 233189,
+      "name": "To be a rose",
+      "url": "https://open.spotify.com/track/1EkxfGivWsIwCJTdz359xl"
     },
     {
       "added_at": "2025-02-25 09:03:49",
@@ -417,6 +505,22 @@
       "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
     },
     {
+      "added_at": "2025-02-26 09:03:32",
+      "album": {
+        "name": "You Killed The Music",
+        "url": "https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "You Killed The Music",
+      "url": "https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy"
+    },
+    {
       "added_at": "2025-02-25 19:03:49",
       "album": {
         "name": "REWIND DAT!",
@@ -490,6 +594,10 @@
         {
           "name": "BANKS",
           "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 187188,
@@ -727,102 +835,6 @@
       "duration_ms": 236531,
       "name": "UNB\u00d8UND",
       "url": "https://open.spotify.com/track/2giZNr8LWr8ywmcbxdvqjn"
-    },
-    {
-      "added_at": "2025-02-23 14:03:12",
-      "album": {
-        "name": "brokin bonez",
-        "url": "https://open.spotify.com/album/44Xz7mAZ4Z9pgsSGPvdOkK"
-      },
-      "artists": [
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        }
-      ],
-      "duration_ms": 135976,
-      "name": "brokin bonez",
-      "url": "https://open.spotify.com/track/2Ia6IkDTLKN45BGvwgxqX2"
-    },
-    {
-      "added_at": "2025-02-18 19:03:55",
-      "album": {
-        "name": "Lizard",
-        "url": "https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 200845,
-      "name": "Lizard",
-      "url": "https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS"
-    },
-    {
-      "added_at": "2025-02-23 14:03:12",
-      "album": {
-        "name": "Goon Show",
-        "url": "https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
-        }
-      ],
-      "duration_ms": 306146,
-      "name": "Goon Show",
-      "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
-    },
-    {
-      "added_at": "2025-02-19 09:04:05",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5TnvUXAoOZBZsMz5Gun9uf"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1twIjd84kLaHBEJinkBfKg"
-    },
-    {
-      "added_at": "2025-02-18 09:03:34",
-      "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/6TmdwqMxBMwjDFp8KaQNIr"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 105205,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/1Zzzo2MiWo9Bz7l0UmY8am"
-    },
-    {
-      "added_at": "2025-02-22 04:03:26",
-      "album": {
-        "name": "I KNOW.",
-        "url": "https://open.spotify.com/album/32vrzW0DSGDLaDfoOOlyEP"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 165402,
-      "name": "I KNOW.",
-      "url": "https://open.spotify.com/track/5KkW5Z1lBA7QWP4wmbfUdk"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Popun sevilen isimleri\. Kapak: Ceren Gündoğdu
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,907 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,916 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

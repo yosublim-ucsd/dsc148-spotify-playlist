@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Passion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,500 likes - 99 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,617 likes - 99 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 85 | [O Praise The Lord](https://open.spotify.com/track/76sle2ncvhtdKXa2c37U2T) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [The Little I've Seen](https://open.spotify.com/album/1YbUJuRlkZcVzhGIHrX8P6) | 3:35 |
 | 86 | [Glory Belongs \- Live](https://open.spotify.com/track/0Hjj23mQJNGltREQsXWMV7) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [DOXA \(Live\)](https://open.spotify.com/album/285bUfwUpRzkbNy9ISXgRt) | 5:04 |
 | 87 | [Depend on You \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/1nEaFRDW45XQSWAxWaVgOf) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 2 \(Live\)](https://open.spotify.com/album/7oR0beIXW7ywXvkFTf8Ncv) | 5:33 |
-| 88 | [It Is Finished \- Live](https://open.spotify.com/track/6JLnmZ7kiCDt0mrcsEwnPj) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Knowing God \(Live\)](https://open.spotify.com/album/6kFQYERknrmQg2N7cnGpKg) | 4:21 |
+| 88 | [It Is Finished \- Live](https://open.spotify.com/track/6JLnmZ7kiCDt0mrcsEwnPj) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Knowing God](https://open.spotify.com/album/6kFQYERknrmQg2N7cnGpKg) | 4:21 |
 | 89 | [We Choose Praise \- Live](https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [We Choose Praise \(Live\)](https://open.spotify.com/album/5Xi732fHAJZapcrvoVI4Vt) | 5:00 |
 | 90 | [Holy Forever](https://open.spotify.com/track/13ZOxuowJNhbKqIANs8Kf8) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Chapel Sessions Vol\. 2](https://open.spotify.com/album/6MQFiwdzCIAD3Pt1B0sMlJ) | 3:53 |
 | 91 | [Come Jesus Come](https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G) | 4:58 |

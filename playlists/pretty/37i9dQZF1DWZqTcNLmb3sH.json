@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62806,
+  "num_followers": 62810,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7xaGQAAAABV99dW+Eal1wiv1Gp+1fmR",
+  "snapshot_id": "Z76znwAAAABMFLlWNALL3PFzZCMkuuVW",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -97,9 +97,33 @@
       "url": "https://open.spotify.com/track/139J0xekTcSieNxZ2u5Q8m"
     },
     {
+      "added_at": "2025-02-26 06:24:31",
+      "album": {
+        "name": "Shiva Stotra 2.0 (From \"Bagheera\")",
+        "url": "https://open.spotify.com/album/3QzqziFAxGviX9IX6iC3BX"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "duration_ms": 213396,
+      "name": "Shiva Stotra 2.0 (From \"Bagheera\")",
+      "url": "https://open.spotify.com/track/0nYP6TyAthaTVB08wZJsb8"
+    },
+    {
       "added_at": "2025-02-24 11:38:01",
       "album": {
-        "name": "Kaddukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
+        "name": "Kaddhukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
         "url": "https://open.spotify.com/album/63WGE3QRjqFA1HewEuZqTX"
       },
       "artists": [
@@ -112,12 +136,24 @@
           "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         },
         {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
           "name": "M. M. Keeravaani",
           "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
         }
       ],
       "duration_ms": 268480,
-      "name": "Kaddukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
+      "name": "Kaddhukondu Hodalo (From \"Hari Hara Veera Mallu\") [Kannada]",
       "url": "https://open.spotify.com/track/2PHeUj9CAvzmy6iC4tMQ07"
     },
     {
@@ -1148,8 +1184,8 @@
           "url": "https://open.spotify.com/artist/0ZG5jmbAX5ENi7mlSq1J3F"
         },
         {
-          "name": "Prathap Bhatt",
-          "url": "https://open.spotify.com/artist/37ZkiQviKF0XwTDioXhntU"
+          "name": "Pratap Bhatt",
+          "url": "https://open.spotify.com/artist/4CPXosIQsBRyqA0zIPDEn4"
         }
       ],
       "duration_ms": 212584,
@@ -1303,30 +1339,6 @@
       "duration_ms": 266397,
       "name": "Churuku Notave (From \"Apaayavide Eccharike\")",
       "url": "https://open.spotify.com/track/6816V0I711ysVSEh8mV1GX"
-    },
-    {
-      "added_at": "2025-01-17 08:38:52",
-      "album": {
-        "name": "Maathu Kelayya (From \"Hari Hara Veera Mallu\") [Kannada]",
-        "url": "https://open.spotify.com/album/0L3EaVuJuMKbiOYy0YMWbX"
-      },
-      "artists": [
-        {
-          "name": "Lokeshwar Edara",
-          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
-        },
-        {
-          "name": "M. M. Keeravaani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Maathu Kelayya (From \"Hari Hara Veera Mallu\") [Kannada]",
-      "url": "https://open.spotify.com/track/4ZMNKb1eV1IiLVsBVv5mV7"
     },
     {
       "added_at": "2025-01-17 07:48:56",

@@ -548,8 +548,8 @@
           "url": "https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE"
         },
         {
-          "name": "JUD\u9673\u6cf3\u5e0c",
-          "url": "https://open.spotify.com/artist/6zc1JS3WQ0JCjyuFzHWAmt"
+          "name": "JUD \u9673\u6cf3\u5e0c",
+          "url": "https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro"
         }
       ],
       "date_added": "2025-02-17",
@@ -1030,6 +1030,24 @@
       "duration_ms": 226304,
       "name": "Imperfect",
       "url": "https://open.spotify.com/track/5lcXPiIO1fCtzOMBoGkhaB"
+    },
+    {
+      "album": {
+        "name": "Jumping Machine (\u8df3\u697c\u673a)",
+        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "Jumping Machine (\u8df3\u697c\u673a)",
+      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
     },
     {
       "album": {
@@ -10806,24 +10824,6 @@
       "duration_ms": 273818,
       "name": "\u8def\u908a\u7684\u91ce\u82b1",
       "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
-    },
-    {
-      "album": {
-        "name": "\u8df3\u697c\u673a\uff08Jumping Machine\uff09",
-        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
-      },
-      "artists": [
-        {
-          "name": "LBI\u5229\u6bd4",
-          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
-        }
-      ],
-      "date_added": "2025-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201642,
-      "name": "\u8df3\u697c\u673a\uff08Jumping Machine\uff09",
-      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
     },
     {
       "album": {

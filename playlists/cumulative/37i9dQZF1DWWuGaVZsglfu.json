@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 206570,
       "name": "BEKU",
       "url": "https://open.spotify.com/track/4AXDppkGFDwaC4FBj9CjTt"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Jumping Machine (\u8df3\u697c\u673a)",
+        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "Jumping Machine (\u8df3\u697c\u673a)",
+      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -2224,6 +2242,28 @@
       "duration_ms": 182329,
       "name": "Kejutkan Aku",
       "url": "https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk"
+    },
+    {
+      "album": {
+        "name": "Keluang Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2MKgFBdclomisB2ZeQx99j"
+      },
+      "artists": [
+        {
+          "name": "Sekumpulan Orang Gila",
+          "url": "https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv"
+        },
+        {
+          "name": "Krisya",
+          "url": "https://open.spotify.com/artist/3JLhMhavNL5wBTk3FmNJTO"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190125,
+      "name": "Keluang Man - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4SvZKf4BG2zZUVCcukFvi7"
     },
     {
       "album": {
@@ -3007,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1neCBjPnlHniz7qlHJ3FMO"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227028,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2EUubUFlkE0auWpoeTFhWy"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -3534,6 +3592,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "Saksama",
+        "url": "https://open.spotify.com/album/5leCds9a6kmSUWU2c0zHbM"
+      },
+      "artists": [
+        {
+          "name": "Akim And The Majistret",
+          "url": "https://open.spotify.com/artist/7JH3Oqfoa7PwVSbxi0p69L"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189035,
+      "name": "Saksama",
+      "url": "https://open.spotify.com/track/0T8Abj1Clb3VVYQouHzyiB"
     },
     {
       "album": {
@@ -4346,7 +4422,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 219393,
       "name": "Tiba-Tiba",
       "url": "https://open.spotify.com/track/0pbL1ru2WXMQj5h5u5ZXBC"
@@ -4390,7 +4466,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"

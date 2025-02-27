@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 349090,
       "name": "Hymns Of Shiva",
       "url": "https://open.spotify.com/track/2wgJFX3Ox5CRoT7uhcOYfQ"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 236615,
       "name": "La",
       "url": "https://open.spotify.com/track/7foXuC1skz2laRHRCWumCA"
@@ -4749,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "SHANKARA HIGH",
+        "url": "https://open.spotify.com/album/7jOgY7aDicQjQkSYXw3GRT"
+      },
+      "artists": [
+        {
+          "name": "ANASTRRIX",
+          "url": "https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "SHANKARA HIGH",
+      "url": "https://open.spotify.com/track/3Mk0TqGF5tsLDyP0k3Ojuu"
+    },
+    {
+      "album": {
         "name": "SHARR",
         "url": "https://open.spotify.com/album/6aNdZIhdOkDDFdY0w5G50w"
       },
@@ -5696,6 +5714,36 @@
       "duration_ms": 265250,
       "name": "Vaarkadal",
       "url": "https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N"
+    },
+    {
+      "album": {
+        "name": "Vappante Kaayi",
+        "url": "https://open.spotify.com/album/64aE6tx1OZFzRU0zmwu5nv"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        },
+        {
+          "name": "Owltrix",
+          "url": "https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS"
+        },
+        {
+          "name": "EXTER",
+          "url": "https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Vappante Kaayi",
+      "url": "https://open.spotify.com/track/10vEDfYkQDlQXfTPmnQNFP"
     },
     {
       "album": {

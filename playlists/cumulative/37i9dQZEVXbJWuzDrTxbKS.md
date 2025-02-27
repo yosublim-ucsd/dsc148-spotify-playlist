@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-2,418 songs - 5 day 10 hr 38 min
+2,420 songs - 5 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,9 +587,9 @@
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-30 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-05-14 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-12 | 2023-01-29 |
-| [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 |  |
+| [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 | 2025-02-27 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-16 | 2024-09-29 |
-| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-02-18 |  |
+| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-02-18 | 2025-02-27 |
 | [Eternal Horizon](https://open.spotify.com/track/5TosTxZvveqiwIeF3NykpE) | [Nektarios Kalogridis](https://open.spotify.com/artist/3J966SmYj3w0bV1785iZ1Y) | [Eternal Horizon](https://open.spotify.com/album/4rT1ZQ03TZAw6k58GSKi4f) | 5:20 | 2024-04-03 | 2024-04-06 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2024-05-24 |
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2023-05-15 | 2023-05-17 |
@@ -1373,6 +1373,7 @@
 | [No Time \(feat\. Lil Durk\)](https://open.spotify.com/track/1vicAuW47ccp1l5mYmaWi7) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 3:00 | 2021-07-18 | 2021-07-19 |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-10-30 | 2024-11-08 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-23 | 2024-10-31 |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-26 |  |
 | [NOKRIŠŅU ZONA](https://open.spotify.com/track/1iCMT2wbxq03oO9XEH9lZU) | [Bermudu Divstūris](https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT) | [NOKRIŠŅU ZONA](https://open.spotify.com/album/1GodX6b1OEaJs9xqoCMKsY) | 2:02 | 2023-06-26 | 2023-06-28 |
 | [NOMINALO](https://open.spotify.com/track/1C0UmBm1nyXdjiek3nQKAz) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:11 | 2021-05-30 | 2021-05-31 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-23 | 2023-01-29 |
@@ -1512,6 +1513,7 @@
 | [Pienvedēja Piedzīvojumi](https://open.spotify.com/track/4TnqZ7ckby1aF7lILYYs4d) | [Pienvedēja piedzīvojumi](https://open.spotify.com/artist/5zHMsdWDY6kINMWyhyBrit) | [1994\-2004](https://open.spotify.com/album/6WbsXg7wVmM5FnPHfzPRPm) | 3:18 | 2021-06-25 | 2021-06-26 |
 | [Piepist Seju](https://open.spotify.com/track/0fyfPkT2929pU4hsqJqp7y) | [Mauku Sencis](https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5), [Grandmasters Neons](https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH) | [goda vards cetri](https://open.spotify.com/album/3isqZZkkDC4gYIt2zwcdb6) | 4:15 | 2022-07-28 | 2023-10-03 |
 | [Piepist Seju](https://open.spotify.com/track/3m77VlCrla1zGdOGzIvbaC) | [Mauku Sencis](https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5), [Grandmasters Neons](https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH) | [Piepist Seju](https://open.spotify.com/album/1MF2ZbOh7xcy5GCEDFMcsN) | 4:15 | 2022-07-13 | 2022-07-29 |
+| [Pilni vižņu mani mati](https://open.spotify.com/track/1OFDK6LsjwPyu79nli3s4D) | [Viegli](https://open.spotify.com/artist/1aPpYYcKKLX2tz1zOIwxpN), [Mara Upmane\-Holsteine](https://open.spotify.com/artist/6c2RJBqU3FFhrYIt5KogXA) | [Vakars\. Pietura\. Jasmīns.](https://open.spotify.com/album/6y7EGG65sK32y2lJQOPr97) | 4:26 | 2025-02-26 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-08-29 | 2024-11-22 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-15 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-25 |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125429,
+  "num_followers": 125427,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATuHQVwZwYGkQf+wFvFds13RTbcOeu",
+  "snapshot_id": "AAATunS92kmLGArU8qZjNYsEthqewvPv",
   "tracks": [
+    {
+      "added_at": "2025-02-26 15:33:10",
+      "album": {
+        "name": "Loving Me",
+        "url": "https://open.spotify.com/album/3B2QQ2MUeavHTibz5ubd7I"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Loving Me",
+      "url": "https://open.spotify.com/track/7CCaLsJgZDFWJqD58LM2HM"
+    },
     {
       "added_at": "2025-02-25 16:35:33",
       "album": {
@@ -16,12 +36,12 @@
       },
       "artists": [
         {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        },
-        {
           "name": "oncor",
           "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
         }
       ],
       "duration_ms": 185000,
@@ -1187,46 +1207,6 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
-    },
-    {
-      "added_at": "2024-11-20 13:47:09",
-      "album": {
-        "name": "Wassup",
-        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
-    },
-    {
-      "added_at": "2024-11-19 13:17:26",
-      "album": {
-        "name": "Best Thing",
-        "url": "https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        },
-        {
-          "name": "Fagin",
-          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
-        },
-        {
-          "name": "Marg Pappas",
-          "url": "https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5"
-        }
-      ],
-      "duration_ms": 235124,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

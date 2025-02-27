@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa LINDA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,869 likes - 83 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,872 likes - 83 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Banaanilaatikot](https://open.spotify.com/track/59RawMLP2mQCLu32rPnzjv) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Banaanilaatikot](https://open.spotify.com/album/4uZ9og325bOtNTBxxyjmRr) | 2:43 |
-| 2 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
-| 3 | [Sinéadin laulu](https://open.spotify.com/track/4vOWTsPhnxTSqAREpvv6vK) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Sinéadin laulu](https://open.spotify.com/album/1Wi3dvZvlpAYltEfd0nIfy) | 3:29 |
-| 4 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 |
-| 5 | [Sä Oot WAU!](https://open.spotify.com/track/0N7vlckXr7CUlPstYFYMkM) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Sä Oot WAU!](https://open.spotify.com/album/4yaHLlmTMJbeMMiMqGoLHO) | 2:59 |
-| 6 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 1 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 |
+| 2 | [Sinéadin laulu](https://open.spotify.com/track/4vOWTsPhnxTSqAREpvv6vK) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Sinéadin laulu](https://open.spotify.com/album/1Wi3dvZvlpAYltEfd0nIfy) | 3:29 |
+| 3 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 |
+| 4 | [Sä Oot WAU!](https://open.spotify.com/track/0N7vlckXr7CUlPstYFYMkM) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Sä Oot WAU!](https://open.spotify.com/album/4yaHLlmTMJbeMMiMqGoLHO) | 2:59 |
+| 5 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
+| 6 | [Banaanilaatikot](https://open.spotify.com/track/59RawMLP2mQCLu32rPnzjv) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Banaanilaatikot](https://open.spotify.com/album/4uZ9og325bOtNTBxxyjmRr) | 2:43 |
 | 7 | [Vihreänä puuna kasvava rakkaus](https://open.spotify.com/track/1P5pn127yNeTM2nTzYRK3e) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Rakkaani,](https://open.spotify.com/album/4b8zkhz3IO9U4oqjGqqX4u) | 3:50 |
 | 8 | [Ennen kuin linnut vaikenee](https://open.spotify.com/track/4LkjEAQP3sihKg82Cb3V9Y) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Ennen kuin linnut vaikenee](https://open.spotify.com/album/0MnLtJlF4tWtu3vpy7K46X) | 3:22 |
 | 9 | [Alaston](https://open.spotify.com/track/782QV6u42MGqNGMmG3WYKr) | [Nelosolut](https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF) | [Paha Maailma](https://open.spotify.com/album/6xCgbClvLalqZegjALYmnx) | 3:40 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 82 | [Kiinni pidän susta](https://open.spotify.com/track/1qnO39kSLufBc0OkHkf9rc) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Kiinni pidän susta](https://open.spotify.com/album/5WhOT7vq2B5dXO785YbIMK) | 4:00 |
 | 83 | [Hienoo kun oot](https://open.spotify.com/track/37kKYv6HwD8cnmZtSDQSOf) | [Anton Äikäs](https://open.spotify.com/artist/3RgGEK7y9UZFB74SiOgjuk) | [Hienoo kun oot](https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR) | 3:43 |
 
-Snapshot ID: `Z7emNQAAAAAkB/d4UiZPVXzC09YcWbXF`
+Snapshot ID: `Z78ZjgAAAAAv0cYGxWSo82mDQuPefT/V`

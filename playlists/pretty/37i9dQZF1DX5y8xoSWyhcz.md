@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,804 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,802 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Rumours](https://open.spotify.com/track/6IXPMTm9es1QqzGNt7q6xh) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Rumours](https://open.spotify.com/album/6ljc6wEyQMYNc2FhxXVeKU) | 2:44 |
 | 125 | [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 |
 
-Snapshot ID: `Z7gIcAAAAAC18kgXNv0Er/pyushof48A`
+Snapshot ID: `Z7gIcAAAAAA2D0Ls1+QDHBr6RydPN6nA`

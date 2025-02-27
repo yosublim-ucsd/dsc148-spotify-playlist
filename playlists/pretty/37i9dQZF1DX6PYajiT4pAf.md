@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,745 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,783 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 63 | [Mejor Contigo \(Homesick\)](https://open.spotify.com/track/2lPBZtmMVEWbHPBWoCAEKl) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mejor Contigo \(Homesick\)](https://open.spotify.com/album/7rCP6ztryjUAVod0OiGbZO) | 2:56 |
 | 64 | [salina](https://open.spotify.com/track/2vDsRBDiBGOg2kAf5cOVPr) | [restinga](https://open.spotify.com/artist/0ZDfzRfClYgIFsNUxygcQ9) | [salina](https://open.spotify.com/album/20GxJubRgFxkjAAWDSP4h2) | 3:14 |
 
-Snapshot ID: `Z7hlXQAAAABdkoyL1Lew2KC4VdT9aift`
+Snapshot ID: `Z7hlXQAAAAC7CMWs4UJsQVfYAA5FP7B4`

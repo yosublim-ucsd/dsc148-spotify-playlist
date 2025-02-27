@@ -6411,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/3BIgrmbVxsVjsfL0d5a0WW"
+      },
+      "artists": [
+        {
+          "name": "Louise Goffin",
+          "url": "https://open.spotify.com/artist/03sAQYI6xlXSc3bsFU9RCC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/0IDmpYvVJyQgYVVxf8TEMg"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/74B74aZj2BjNFdRNCYOZu7"
       },
@@ -19097,6 +19115,24 @@
     },
     {
       "album": {
+        "name": "Didn't Have a Choice",
+        "url": "https://open.spotify.com/album/7i5umrfeks690YqvPDW9SS"
+      },
+      "artists": [
+        {
+          "name": "Tom Kirwan",
+          "url": "https://open.spotify.com/artist/2nNYBhRNNmmzFI5rVScyVZ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Didn't Have a Choice",
+      "url": "https://open.spotify.com/track/2yfaiCThvcqoMLaYZkxeVq"
+    },
+    {
+      "album": {
         "name": "Die for You",
         "url": "https://open.spotify.com/album/4otHT1biOmDo13MWqalrTd"
       },
@@ -24382,7 +24418,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 174983,
       "name": "Famous",
       "url": "https://open.spotify.com/track/2QKRw7FCHQlf5BnyzfqP7Z"
@@ -43425,6 +43461,24 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5gAPqQGaldtpYpJ82fGxv0"
+      },
+      "artists": [
+        {
+          "name": "MookyTheGreat",
+          "url": "https://open.spotify.com/artist/5ErdfG5f4MgljonIPA7yho"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Like I do",
+      "url": "https://open.spotify.com/track/5CyQlhhMHSDbw896R2zHN4"
+    },
+    {
+      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/0EfDPslgOoF6Vf8RMkm8qr"
       },
@@ -58631,6 +58685,24 @@
     },
     {
       "album": {
+        "name": "pocket poetry",
+        "url": "https://open.spotify.com/album/0Px8APmWuJTVAlkitiujz9"
+      },
+      "artists": [
+        {
+          "name": "Sara Diana",
+          "url": "https://open.spotify.com/artist/5ChJvrPvd0oJoxv67xlT2v"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225052,
+      "name": "pocket poetry",
+      "url": "https://open.spotify.com/track/5ElGvWkvJHUhytDVoO3Kpo"
+    },
+    {
+      "album": {
         "name": "Pockets",
         "url": "https://open.spotify.com/album/6BSijZmwqwFlebR5gP8ZTo"
       },
@@ -59515,6 +59587,24 @@
     },
     {
       "album": {
+        "name": "prove.",
+        "url": "https://open.spotify.com/album/0EwucZrjhaidxsjnfJYpYi"
+      },
+      "artists": [
+        {
+          "name": "JRMADETHIS_",
+          "url": "https://open.spotify.com/artist/41F9V6cdpSmYLGNc2TQtx5"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "prove.",
+      "url": "https://open.spotify.com/track/4GwHdUXQHVpRz196Dv3yiI"
+    },
+    {
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -60072,6 +60162,28 @@
       "duration_ms": 231348,
       "name": "Question the Universe",
       "url": "https://open.spotify.com/track/2bZvmKO6pUFU29oPvCaenF"
+    },
+    {
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5kacK2Bkh1L30zHAmoSGZi"
+      },
+      "artists": [
+        {
+          "name": "P3Music",
+          "url": "https://open.spotify.com/artist/7MIXj397AG6qvcoVCZG0ZG"
+        },
+        {
+          "name": "Gabe Parker",
+          "url": "https://open.spotify.com/artist/24jTM7AcZAg4YPEoj4XFSk"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/69TOPk3JXYe1vaoiS5JUMS"
     },
     {
       "album": {
@@ -68339,6 +68451,24 @@
     },
     {
       "album": {
+        "name": "Soulfully Sublime",
+        "url": "https://open.spotify.com/album/2R7zn0X0Vo3glGx4zHGzXL"
+      },
+      "artists": [
+        {
+          "name": "Ingram Street",
+          "url": "https://open.spotify.com/artist/479HXCYTRI8HIifhQryGhC"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266345,
+      "name": "Soulfully Sublime",
+      "url": "https://open.spotify.com/track/4Xq6Mqgs9jwT1JkjZyaeMe"
+    },
+    {
+      "album": {
         "name": "Souls Craving",
         "url": "https://open.spotify.com/album/3Rzbg1Lg9U5Dhb9uAHPJoa"
       },
@@ -70442,6 +70572,28 @@
       "duration_ms": 157840,
       "name": "SUMMER 22",
       "url": "https://open.spotify.com/track/4ayyFTbZOWLUB88FuO3waF"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/05FpwkH8FY2hBdyXlXY8a6"
+      },
+      "artists": [
+        {
+          "name": "Mike Di Lorenzo",
+          "url": "https://open.spotify.com/artist/5yI5FrcC61I4GkbUGN0JZp"
+        },
+        {
+          "name": "CaiNo",
+          "url": "https://open.spotify.com/artist/3Zkprn3R8FrfNp4B6fxUO5"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242340,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/56OChDLLpaUvM9JucKQ2xW"
     },
     {
       "album": {
@@ -75557,6 +75709,24 @@
     },
     {
       "album": {
+        "name": "They Wish They Could",
+        "url": "https://open.spotify.com/album/4CZ75OjMLBTB6Jy0WVf8Do"
+      },
+      "artists": [
+        {
+          "name": "Bronx Soul Collective",
+          "url": "https://open.spotify.com/artist/780eu4RGJcEvncrGnujoiW"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214319,
+      "name": "They Wish They Could",
+      "url": "https://open.spotify.com/track/6Qo1ltDWMkqJ3sVOMHbBZx"
+    },
+    {
+      "album": {
         "name": "The Company of Strangers",
         "url": "https://open.spotify.com/album/4PsNhnCanfRWtoDsdXnk7f"
       },
@@ -77831,6 +78001,24 @@
     },
     {
       "album": {
+        "name": "Trust Myself",
+        "url": "https://open.spotify.com/album/74KkZEUP9KG6jgQeCOsXm4"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Diokno",
+          "url": "https://open.spotify.com/artist/0xyD0nFKNyVxnFMdXm6Ojh"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Trust Myself",
+      "url": "https://open.spotify.com/track/312DVaGlItK6lrJpNTnPSw"
+    },
+    {
+      "album": {
         "name": "Dirty Old Sweater",
         "url": "https://open.spotify.com/album/5KEKgrJ3eZ0l83lkGAyuv6"
       },
@@ -79022,6 +79210,24 @@
       "duration_ms": 249000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/0LXGSyc0QUkHBstcVbjorO"
+    },
+    {
+      "album": {
+        "name": "Safe in Sound",
+        "url": "https://open.spotify.com/album/0bRaQBUCxI5nq0OTOfQJqc"
+      },
+      "artists": [
+        {
+          "name": "Josh Holtzclaw",
+          "url": "https://open.spotify.com/artist/51kchU3EMNfo0dfbqQddPZ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203169,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/45APG2GYQGEG0ZbwUyymwv"
     },
     {
       "album": {
@@ -80632,6 +80838,24 @@
       "duration_ms": 204706,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP"
+    },
+    {
+      "album": {
+        "name": "Walk Up",
+        "url": "https://open.spotify.com/album/2UAXI03okUgKEQccB3zPXN"
+      },
+      "artists": [
+        {
+          "name": "The Humidors",
+          "url": "https://open.spotify.com/artist/6jhTEB2c52nrXT5MJsib3B"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250044,
+      "name": "Walk Up",
+      "url": "https://open.spotify.com/track/7DutNhMRYbknG61xrq4rgX"
     },
     {
       "album": {
@@ -83161,6 +83385,28 @@
     },
     {
       "album": {
+        "name": "Where You Going",
+        "url": "https://open.spotify.com/album/7LuXkH5Zjf1JwAmqRoVW7Q"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pinkston",
+          "url": "https://open.spotify.com/artist/09RRywBUjKVBl56nZsNu1Y"
+        },
+        {
+          "name": "Chandlar",
+          "url": "https://open.spotify.com/artist/3DP5MbhhjohJv0PwIRfLGF"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Where You Going",
+      "url": "https://open.spotify.com/track/2XW7Ln5sMhno1GJ2mv98re"
+    },
+    {
+      "album": {
         "name": "Where You're Going",
         "url": "https://open.spotify.com/album/6QqNuuu1HZ8JSPgb2qJbBW"
       },
@@ -83936,6 +84182,28 @@
       "duration_ms": 184568,
       "name": "Winners",
       "url": "https://open.spotify.com/track/2oVCMhfabwxQE3QOqJ4zAb"
+    },
+    {
+      "album": {
+        "name": "Winter Mornings",
+        "url": "https://open.spotify.com/album/0t9yOFbUpijADrRKdLyjb9"
+      },
+      "artists": [
+        {
+          "name": "Ariaa",
+          "url": "https://open.spotify.com/artist/0ZmXjvErpwSoTzWe0fHS6D"
+        },
+        {
+          "name": "Veetchy",
+          "url": "https://open.spotify.com/artist/5W8nOMwa15dRBizkQRBu4X"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227772,
+      "name": "Winter Mornings",
+      "url": "https://open.spotify.com/track/1BPN9DTlBzAmAxu8JwOu2C"
     },
     {
       "album": {

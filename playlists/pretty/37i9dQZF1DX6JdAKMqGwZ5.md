@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Jordana B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,288 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,313 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 19 | [MADRE DE MIS HIJOS](https://open.spotify.com/track/1eMjtYompgiSwhtMHxl5UM) | [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [MADRE DE MIS HIJOS](https://open.spotify.com/album/0ekQycE0fxYcdvmSq6wfGW) | 3:07 |
 | 20 | [Un Clásico \[2022\]](https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Un Clásico \[2022\]](https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8) | 3:17 |
 | 21 | [Qué bien me siento](https://open.spotify.com/track/11NtPGb8E4qieMqhzJ1t9p) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Omar Alcaide](https://open.spotify.com/artist/2k9darlkYDLAfzDORZDMzx) | [Qué bien me siento](https://open.spotify.com/album/0r3B8beJQGZjb1CcduyQWN) | 2:57 |
-| 22 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:17 |
+| 22 | [la soledad](https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la soledad](https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8) | 3:19 |
 | 23 | [No te enamores](https://open.spotify.com/track/3mbSEvDCPG35hO2LY1U7E7) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [No te enamores](https://open.spotify.com/album/2E1xWfeH1ynUr7xXLETcdc) | 2:38 |
 | 24 | [El BB de la luz](https://open.spotify.com/track/6WmiYbVoUU9oqKDPQ1AAFi) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [El BB de la luz](https://open.spotify.com/album/5EdZBsNCtfcBu8kCZV2ZWB) | 2:28 |
 | 25 | [Rendición](https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [bruno](https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna) | [Rendición](https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s) | 3:44 |

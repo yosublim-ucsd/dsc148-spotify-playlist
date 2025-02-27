@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 344 songs - 20 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 344 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 230 | [Simple Life](https://open.spotify.com/track/7jp5yLTwHNJL9awtdZf2Br) | [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Dress Rehearsal](https://open.spotify.com/album/4AT9vMMfL9ZqvgoNfr1UYe) | 3:49 |
 | 231 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
 | 232 | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6JKSR71t1mLlLYBC8eF1gf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:47 |
-| 233 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
-| 234 | [Beginners](https://open.spotify.com/track/1y1C4CN3A7240utEXb41Tx) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:22 |
+| 233 | [Beginners](https://open.spotify.com/track/1y1C4CN3A7240utEXb41Tx) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:22 |
+| 234 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
 | 235 | [Snow Angels](https://open.spotify.com/track/21njih53CXaONbPGPk3bV0) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Snow Angels](https://open.spotify.com/album/5kdonEbtYbMZygqep7rECA) | 3:46 |
 | 236 | [Beat Up Bronco](https://open.spotify.com/track/2zlaIBgJYVIcis4Fkb80X7) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 3:46 |
 | 237 | [Ask Her to Dance](https://open.spotify.com/track/6drZ0DQ2xr6WHkwrttWLq3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J) | 3:40 |
@@ -353,4 +353,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 343 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 344 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbqkXgAAAAB0MOCnqyuvURl59JUYArN+`
+Snapshot ID: `Abqp/gAAAADr0Fl8cQy4QalcThl6Jw12`

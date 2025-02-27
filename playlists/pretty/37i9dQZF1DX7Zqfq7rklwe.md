@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ozzy Osbourne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,333 likes - 81 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,336 likes - 81 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

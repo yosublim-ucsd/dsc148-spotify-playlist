@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACdcWtXSARUHeilHy7ePCOD",
+  "snapshot_id": "AAAAAAAAAACUbmxZJ7DQK4rwALR7qip+",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 209732,
       "name": "Valentine's Day Freestyle '25",
       "url": "https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "BUTTERFLY",
-        "url": "https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 265792,
-      "name": "BUTTERFLY",
-      "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -67,22 +51,18 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/6K47xRPEKwi934mwxp5Wmb"
+        "name": "BUTTERFLY",
+        "url": "https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy"
       },
       "artists": [
         {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 133533,
-      "name": "Woodland",
-      "url": "https://open.spotify.com/track/2Yxj6N54p32qsknhNZAY6p"
+      "duration_ms": 265792,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -103,26 +83,22 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Free Hit",
-        "url": "https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh"
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/6K47xRPEKwi934mwxp5Wmb"
       },
       "artists": [
         {
-          "name": "44th Move",
-          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
         },
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
         }
       ],
-      "duration_ms": 289568,
-      "name": "Free Hit",
-      "url": "https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd"
+      "duration_ms": 133533,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/2Yxj6N54p32qsknhNZAY6p"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -155,22 +131,26 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
+        "name": "Free Hit",
+        "url": "https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh"
       },
       "artists": [
         {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
         },
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
         }
       ],
-      "duration_ms": 217664,
-      "name": "Medina",
-      "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
+      "duration_ms": 289568,
+      "name": "Free Hit",
+      "url": "https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -191,6 +171,26 @@
       "duration_ms": 137374,
       "name": "Bullets Don't Have Eyes",
       "url": "https://open.spotify.com/track/2b3CL64ve76o3YiD4BWVzB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 217664,
+      "name": "Medina",
+      "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -351,18 +351,42 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+        "name": "check",
+        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -383,22 +407,6 @@
       "duration_ms": 121153,
       "name": "Wheels Fall Off (feat. Kanye West)",
       "url": "https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "check",
-        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 122037,
-      "name": "check",
-      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -447,42 +455,6 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Let's Go Fall In Love",
-        "url": "https://open.spotify.com/album/4D1yk4cblbqhS3Yww7L1iU"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Let's Go Fall In Love",
-      "url": "https://open.spotify.com/track/1ve5rb6l0zTd2hD01apEaB"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
-        "name": "Satisfied Soul",
-        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Ant",
-          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
-        }
-      ],
-      "duration_ms": 258446,
-      "name": "Satisfied Soul",
-      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
         "name": "UKMF (AZ2KC)",
         "url": "https://open.spotify.com/album/3fJ2RdGoMIawjTiCZPvDNi"
       },
@@ -507,6 +479,42 @@
       "duration_ms": 255555,
       "name": "EXECUTION",
       "url": "https://open.spotify.com/track/0VwObah0e0BsvzMHLbFWsy"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "Satisfied Soul",
+        "url": "https://open.spotify.com/album/5SLxNDXwM2CR8P0HOtCGBz"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "duration_ms": 258446,
+      "name": "Satisfied Soul",
+      "url": "https://open.spotify.com/track/6pbnu7jv86u1pGReZZT9kQ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "Let's Go Fall In Love",
+        "url": "https://open.spotify.com/album/4D1yk4cblbqhS3Yww7L1iU"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Let's Go Fall In Love",
+      "url": "https://open.spotify.com/track/1ve5rb6l0zTd2hD01apEaB"
     },
     {
       "added_at": "2025-02-21 05:00:00",
@@ -551,22 +559,6 @@
     {
       "added_at": "2025-02-21 05:00:00",
       "album": {
-        "name": "Parasomnia",
-        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 322520,
-      "name": "In the Arms of Morpheus",
-      "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
-    },
-    {
-      "added_at": "2025-02-21 05:00:00",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/3uYh9904WAYEOwIWZ05ZVz"
       },
@@ -587,6 +579,22 @@
       "duration_ms": 145860,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/1cnzG1fEAxfiWZuA4UoY57"
+    },
+    {
+      "added_at": "2025-02-21 05:00:00",
+      "album": {
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 322520,
+      "name": "In the Arms of Morpheus",
+      "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
     },
     {
       "added_at": "2025-02-21 05:00:00",

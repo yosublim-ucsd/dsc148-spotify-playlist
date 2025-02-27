@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Chxrry22 from Scarborough, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,857 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,878 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Peace](https://open.spotify.com/track/3LqO6oyw9GdcfqK9JGnDHN) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [War&Peace](https://open.spotify.com/album/1ty3W8po9fRjvOcrSwu3Xa) | 2:57 |
 | 75 | [Crimes of Passion](https://open.spotify.com/track/0VpnVQR9hn6PNYNhXesVfw) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Crimes of Passion](https://open.spotify.com/album/33h8JrJLwpY2Zvylh0EjjQ) | 3:54 |
 
-Snapshot ID: `Z7gIcQAAAADiDyRmJYT2/02GnfQ5Jfpc`
+Snapshot ID: `Z7gIcQAAAABiGnRWiUQweYqWOc03YR9D`

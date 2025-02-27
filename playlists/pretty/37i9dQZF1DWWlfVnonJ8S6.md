@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,048 likes - 129 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,094 likes - 129 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 128 | [Jeeta Tha Jiske Liye \- Lo\-Fi Remix](https://open.spotify.com/track/69K3PXMRmZjHNWIR7YpC10) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Jeeta Tha Jiske Liye \(Lo\-Fi Remix\)](https://open.spotify.com/album/5dA0Tiz8hxaYB0plLmmIoc) | 4:42 |
 | 129 | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/track/4XdgtQ0wt7fikgV4xvR5tm) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shahraaz Khan](https://open.spotify.com/artist/75XcQvCxyVhlKzJjiu5FGB) | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/album/45Es99pRgwLJqraVg4NzcJ) | 2:57 |
 
-Snapshot ID: `ZyyengAAAACk8pC13R28DX8bSVPnhKlR`
+Snapshot ID: `ZyyengAAAADxk0+Z3VgXXJfBzsK4e05R`

@@ -2457,7 +2457,7 @@
     },
     {
       "album": {
-        "name": "Your Name (Live)",
+        "name": "Your Name",
         "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
       },
       "artists": [
@@ -3352,13 +3352,17 @@
         {
           "name": "Matt Redman",
           "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
         }
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225996,
-      "name": "The Same Jesus",
+      "name": "The Same Jesus - Single Version",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
     },
     {

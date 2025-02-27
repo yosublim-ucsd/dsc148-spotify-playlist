@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: AJ Tracey, Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,736 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,716 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 18 | [Doves](https://open.spotify.com/track/1vtWS3dqDnJe7OU1wT0b8y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Doves](https://open.spotify.com/album/4SxuzQFthXUFBT5STqBwvY) | 2:46 |
 | 19 | [Whistle](https://open.spotify.com/track/6YvKrlE1Vj1YIZmw3BDYhL) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Whistle](https://open.spotify.com/album/2264kFRNCVDNd6KLcCTDl0) | 2:09 |
 | 20 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 |
-| 21 | [Feels \- A COLORS SHOW](https://open.spotify.com/track/08nvMNRXWEeQhj1buZnl6D) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Feels \- A COLORS SHOW](https://open.spotify.com/album/7i265sqwarwQNyg1rmXmRA) | 3:39 |
+| 21 | [Feels \- A COLORS SHOW](https://open.spotify.com/track/08nvMNRXWEeQhj1buZnl6D) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Feels \- A COLORS SHOW](https://open.spotify.com/album/7i265sqwarwQNyg1rmXmRA) | 3:39 |
 | 22 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 23 | [It's Cool](https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [It's Cool](https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq) | 2:09 |
 | 24 | [Half Way](https://open.spotify.com/track/5qdfpE7QdCEdbyvZAjP9fk) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Half Way](https://open.spotify.com/album/05k9DvSzjUmAnnzglNa2iT) | 3:08 |

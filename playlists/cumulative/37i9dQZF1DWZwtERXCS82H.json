@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Dove",
+        "url": "https://open.spotify.com/album/2l9k81Trad8jQkupJUZKNW"
+      },
+      "artists": [
+        {
+          "name": "Nerina Fiore",
+          "url": "https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147449,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6"
+    },
+    {
+      "album": {
         "name": "Dover",
         "url": "https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr"
       },
@@ -3222,6 +3240,24 @@
       "duration_ms": 129300,
       "name": "Escallonia",
       "url": "https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj"
+    },
+    {
+      "album": {
+        "name": "Escarpment",
+        "url": "https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136770,
+      "name": "Escarpment",
+      "url": "https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m"
     },
     {
       "album": {
@@ -6020,6 +6056,24 @@
       "duration_ms": 144025,
       "name": "Late Winter",
       "url": "https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg"
+    },
+    {
+      "album": {
+        "name": "Layer by layer",
+        "url": "https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts"
+      },
+      "artists": [
+        {
+          "name": "Nadav Kohen",
+          "url": "https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Layer by layer",
+      "url": "https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8"
     },
     {
       "album": {

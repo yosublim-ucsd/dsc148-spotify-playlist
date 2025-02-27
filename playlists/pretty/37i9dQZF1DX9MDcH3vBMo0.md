@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,382 likes - 208 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,707 likes - 211 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,9 +212,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 202 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 |
 | 203 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
 | 204 | [And Flies Away](https://open.spotify.com/track/1uHXO9BZxxT0HHBwCwWRQ2) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [And Flies Away](https://open.spotify.com/album/00JtUOjMhbV7Ya6tufF7kI) | 3:09 |
-| 205 | [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 |
-| 206 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 |
-| 207 | [Why Talk](https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Why Talk](https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu) | 2:34 |
-| 208 | [Nevel op het water](https://open.spotify.com/track/4BSZWpF5fNQkSGd15yDfhG) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Nevel op het water](https://open.spotify.com/album/7Lts5Z6zsGAabtOcXkTU7x) | 2:50 |
+| 205 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
+| 206 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 |
+| 207 | [Dove](https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Dove](https://open.spotify.com/album/2l9k81Trad8jQkupJUZKNW) | 2:27 |
+| 208 | [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 |
+| 209 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 |
+| 210 | [Why Talk](https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Why Talk](https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu) | 2:34 |
+| 211 | [Nevel op het water](https://open.spotify.com/track/4BSZWpF5fNQkSGd15yDfhG) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Nevel op het water](https://open.spotify.com/album/7Lts5Z6zsGAabtOcXkTU7x) | 2:50 |
 
-Snapshot ID: `Z7WgFQAAAADz232LUrNIDdBfX/mAgpLc`
+Snapshot ID: `Z7728QAAAACkoOE6ycqptfk+CBkuKm7G`

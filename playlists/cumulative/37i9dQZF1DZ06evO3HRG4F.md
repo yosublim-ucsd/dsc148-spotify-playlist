@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 37 min
+69 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Estoy Tan Solo](https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 3:12 | 2023-01-14 |  |
 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 | 2023-01-14 |  |
 | [Hotel](https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:54 | 2023-01-14 |  |
-| [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 |  |
+| [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 | 2025-02-27 |
 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 | 2024-09-28 |
 | [La Niña del Acordeón](https://open.spotify.com/track/5RUjpiH4aVDzpCJ5GQfE4p) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:40 | 2024-01-28 | 2024-01-30 |
 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 | 2023-01-14 |  |
@@ -63,6 +63,7 @@
 | [Todos Estos Años](https://open.spotify.com/track/3RyPPIzLHpXG8bIw4SVItO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:43 | 2023-01-14 |  |
 | [Tu Mamá No Me Quiere](https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 4:02 | 2023-01-14 |  |
 | [Tu Mirada](https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:41 | 2023-01-14 |  |
+| [Tu Novia Te Engaña \- En Vivo](https://open.spotify.com/track/5WPxRFd15PDA1RqEiHhtCj) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 2:02 | 2025-02-27 |  |
 | [Tú No Sabes Chupar](https://open.spotify.com/track/1Imw8CswIvCg7SmmEtjRAz) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 5:58 | 2023-12-16 | 2024-05-10 |
 | [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 | 2023-01-14 | 2025-01-14 |
 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 | 2023-01-14 |  |

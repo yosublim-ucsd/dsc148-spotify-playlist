@@ -649,6 +649,28 @@
     },
     {
       "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/4XBM4anGCXhfGs0jMSmOhH"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193208,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1IVxowcvTOLAi5WQ4yLkLq"
+    },
+    {
+      "album": {
         "name": "Fredag",
         "url": "https://open.spotify.com/album/079erPos4o37SKrV4UM1HV"
       },
@@ -664,7 +686,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 193208,
       "name": "555",
       "url": "https://open.spotify.com/track/1tgTsFbpaWLU4SqeegXcc4"
@@ -12250,7 +12272,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 149997,
       "name": "Fredag",
       "url": "https://open.spotify.com/track/2NWA7Klgmi0FCxuoEdkGz3"
@@ -12696,7 +12718,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
@@ -12722,7 +12744,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
@@ -32120,6 +32142,24 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183747,
+      "name": "Siren sounds (bonus)",
+      "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
     },
     {
       "album": {

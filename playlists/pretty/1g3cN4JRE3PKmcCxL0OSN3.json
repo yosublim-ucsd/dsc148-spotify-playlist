@@ -6,7 +6,7 @@
     "name": "charlie xcx",
     "url": "https://open.spotify.com/user/blank808"
   },
-  "snapshot_id": "AAAFSTskTnoRzJgjdZQbpM/HetAc6mxA",
+  "snapshot_id": "AAAFSlD5rMocifRwpomZ7Mor3Cs4vMr9",
   "tracks": [
     {
       "added_at": "2024-09-16 13:04:52",
@@ -24107,6 +24107,22 @@
       "duration_ms": 460573,
       "name": "FEAR.",
       "url": "https://open.spotify.com/track/23luOrEVHMfoX0AhfbQuS6"
+    },
+    {
+      "added_at": "2025-02-26 09:37:03",
+      "album": {
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/2hshVOA4ULsMGHPDiUaDbJ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 218589,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/2zpdPPsPJYGQ9VYRVJXfv9"
     }
   ],
   "unique_name": "on repeat + repeat rewind",

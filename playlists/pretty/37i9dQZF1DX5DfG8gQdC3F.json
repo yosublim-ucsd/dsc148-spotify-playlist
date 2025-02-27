@@ -1,6 +1,6 @@
 {
   "description": "New music from Tate McRae, Saya Gray, JENNIE,  Mumford & Sons and more!",
-  "num_followers": 543754,
+  "num_followers": 543760,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -710,6 +710,10 @@
         {
           "name": "BANKS",
           "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 187188,

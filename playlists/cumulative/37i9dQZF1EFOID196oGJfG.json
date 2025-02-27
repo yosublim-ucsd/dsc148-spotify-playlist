@@ -738,6 +738,24 @@
     {
       "album": {
         "name": "Taylor For President",
+        "url": "https://open.spotify.com/album/0FIkW4RQ8GTyCfo0COl5gT"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132017,
+      "name": "Taylor For President",
+      "url": "https://open.spotify.com/track/2zJa1AVV5yrajZeNMkmllc"
+    },
+    {
+      "album": {
+        "name": "Taylor For President",
         "url": "https://open.spotify.com/album/2rWXs8lKLXWT2AZT6Ph08E"
       },
       "artists": [
@@ -748,7 +766,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 132017,
       "name": "Taylor For President",
       "url": "https://open.spotify.com/track/7czVP2qtvy65c14ear28QD"

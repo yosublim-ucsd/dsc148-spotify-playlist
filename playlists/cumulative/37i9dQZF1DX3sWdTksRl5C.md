@@ -4,7 +4,7 @@
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-54 songs - 3 hr 47 min
+55 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2025-02-24 |  |
 | [Gimme All Your Love](https://open.spotify.com/track/3DH42U4bDllHWK6tQc4OQF) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/03nQNGFi3dIxg6ghNbtVWW) | 4:03 | 2025-02-22 |  |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2025-02-22 |  |
-| [Greenback Boogie](https://open.spotify.com/track/74RBxG1kzNOYOgDGn5RO8S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie](https://open.spotify.com/album/7zaHiNj5j5vDwpGCH9DHn2) | 4:57 | 2025-02-22 |  |
+| [Greenback Boogie](https://open.spotify.com/track/74RBxG1kzNOYOgDGn5RO8S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie](https://open.spotify.com/album/7zaHiNj5j5vDwpGCH9DHn2) | 4:57 | 2025-02-22 | 2025-02-27 |
+| [Greenback Boogie \(Suits Version\)](https://open.spotify.com/track/4u2hrLK20D8fsdfLtVLm4S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie \(Suits Version\)](https://open.spotify.com/album/2DZN3GLI9URBhcTJAc6wDx) | 3:02 | 2025-02-26 |  |
 | [Hell Broke Loose](https://open.spotify.com/track/1qaiM5Wx7bGCiLQFOHAcZk) | [Dave Not Dave](https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB) | [Choices Made While Dreaming](https://open.spotify.com/album/0GJZZ8KCwqt3i95hJ4nZuU) | 4:26 | 2025-02-24 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2025-02-24 |  |
 | [Houdini](https://open.spotify.com/track/5JunxkcjfCYcY7xJ29tLai) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz) | 3:22 | 2025-02-22 |  |

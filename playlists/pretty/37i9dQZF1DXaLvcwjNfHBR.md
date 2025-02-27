@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,401 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,445 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 69 | [Weather's Better](https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Weather's Better](https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5) | 2:52 |
 | 70 | [BLAME](https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BLAME](https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug) | 2:42 |
 
-Snapshot ID: `Z70ybAAAAABpOj3t5SippNximJqDOOBy`
+Snapshot ID: `Z70ybAAAAABsYrjjFhl5KxM6Rktc0ijV`

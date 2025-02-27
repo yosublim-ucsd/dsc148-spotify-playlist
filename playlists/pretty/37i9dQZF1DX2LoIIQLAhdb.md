@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,845 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,867 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 15 | [MAYA JAMA](https://open.spotify.com/track/7EKurcbXGq3vhsBAalwVWb) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MAYA JAMA](https://open.spotify.com/album/13nHakFBkWdCFoHKS5th6V) | 2:41 |
 | 16 | [SUPERSTAR](https://open.spotify.com/track/4FEpnieqYKr3Eedt3ifzAe) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Superstar](https://open.spotify.com/album/4m7HrqT7ApfumHvoDJS0PO) | 3:17 |
 | 17 | [Joli cœur](https://open.spotify.com/track/3bkUTdeapOIXEELbndezGt) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Joli cœur](https://open.spotify.com/album/0Y5WuQlhj2wC3sr0K7hgi8) | 3:54 |
-| 18 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 |
+| 18 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin \(Chapitre I\)](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 |
 | 19 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 |
 | 20 | [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 |
 | 21 | [Oublier](https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [En chemin II](https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ) | 3:06 |

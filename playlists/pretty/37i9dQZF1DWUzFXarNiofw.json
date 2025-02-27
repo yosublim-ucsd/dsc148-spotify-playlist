@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Coco Jones",
-  "num_followers": 1068441,
+  "num_followers": 1068568,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIfAAAAAAkB+tRx3L9e+yGctOsFqeL",
+  "snapshot_id": "Z7gIfAAAAABDIugSh1XbZMoasVPnaiCZ",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:44",
@@ -1502,6 +1502,10 @@
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 149501,
@@ -2082,6 +2086,10 @@
         {
           "name": "Thee Sacred Souls",
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 227400,

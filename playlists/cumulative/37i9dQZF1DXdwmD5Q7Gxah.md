@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Saya Gray
 
-3,198 songs - 7 day 5 hr 50 min
+3,201 songs - 7 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-08 | 2022-10-12 |
 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 | 2022-04-20 | 2023-02-16 |
 | [ALL I GOT](https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [ALL I GOT](https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2) | 3:14 | 2023-04-14 | 2023-05-13 |
+| [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 | 2025-02-26 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-12-01 | 2022-01-08 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-12-02 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-26 | 2021-06-05 |
@@ -1307,6 +1308,7 @@
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-24 | 2022-02-26 |
 | [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30\* | 2021-12-02 |
 | [I am not the sun](https://open.spotify.com/track/5LgiT8dSS0vTeyJBq7bS4i) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [I am not the sun](https://open.spotify.com/album/51zKbKuuLFfzBPaKgsobdD) | 3:33 | 2023-05-05 | 2023-08-26 |
+| [I Am So Lucky and Nothing Can Stop Me](https://open.spotify.com/track/3OeetYux56RpE7YsoeSmJs) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 3:01 | 2025-02-26 |  |
 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 | 2023-04-18 | 2023-05-13 |
 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 | 2023-11-10 | 2023-12-14 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2020-01-15 | 2020-04-28 |
@@ -2026,6 +2028,7 @@
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-03-21 | 2021-01-12 |
 | [OK \- with Remi Wolf & Solomonophonic](https://open.spotify.com/track/2LqczHHyVkIN9WlaQyFG1R) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [OK \(with Remi Wolf & Solomonophonic\)](https://open.spotify.com/album/0MsM0ZsU68EiOBrwtt0Lbz) | 2:42 | 2021-02-06 | 2021-09-25 |
 | [okay w/ that](https://open.spotify.com/track/1b1RqfCsTuJYIxNIUFcGas) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [okay w/ that](https://open.spotify.com/album/3VzAJcNdx0ofZSukjkKSVJ) | 2:17 | 2023-04-19 | 2023-05-06 |
+| [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 | 2025-02-26 |  |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-14 | 2024-03-22 |
 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 | 2023-07-25 | 2023-09-13 |
 | [Oldest Teenager](https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [Oldest Teenager](https://open.spotify.com/album/4Moa9v6iF62W4410haXRJp) | 3:16 | 2020-07-24 | 2021-01-12 |

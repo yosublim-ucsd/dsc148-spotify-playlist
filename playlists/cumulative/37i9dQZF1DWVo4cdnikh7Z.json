@@ -8062,8 +8062,20 @@
           "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
         },
         {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        },
+        {
           "name": "Maragadhamani",
           "url": "https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
         }
       ],
       "date_added": "2025-02-24",
@@ -11318,7 +11330,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 193250,
       "name": "Ikkada Raa (From \"Eleven\") (Tamil)",
       "url": "https://open.spotify.com/track/2dwRj7Q79Ja6VeUhTMzMvn"
@@ -34034,6 +34046,32 @@
       "duration_ms": 270163,
       "name": "The Soul Of Satya (From \"Satya\") [TAMIL]",
       "url": "https://open.spotify.com/track/5DekcMOvhnPz8TXo8SR5Lz"
+    },
+    {
+      "album": {
+        "name": "The Spooky Vibes of Grandma (From \"Sabdham\")",
+        "url": "https://open.spotify.com/album/4En7phuMyCOVbkruC8KTKd"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247121,
+      "name": "The Spooky Vibes of Grandma - From \"Sabdham\"",
+      "url": "https://open.spotify.com/track/6tWpEFLS92LFrtWE2uSQND"
     },
     {
       "album": {

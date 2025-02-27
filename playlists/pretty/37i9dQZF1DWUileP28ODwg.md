@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Sidewalk Prophets
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,594 likes - 90 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,721 likes - 90 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 89 | [Missing Jesus](https://open.spotify.com/track/1QJrfybxiLTlRvlkzlKMdU) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Missing Jesus](https://open.spotify.com/album/3Tff2Ny5CaAhXaknxptafB) | 3:05 |
 | 90 | [Good Man](https://open.spotify.com/track/2lKe5e14qf4NQKH0cxWVh9) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Man](https://open.spotify.com/album/5HiOaHTajjhYIPIbrvnXAN) | 3:51 |
 
-Snapshot ID: `Z68SuQAAAAC2FVItRtIVGzgJoMbfKdH7`
+Snapshot ID: `Z68SuQAAAAA+J31J6qDdAvxPJpQJMERp`

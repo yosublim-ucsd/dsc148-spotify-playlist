@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,110 likes - 101 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,155 likes - 101 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 100 | [Uthando Lwakhe \(Medley 8\) \- Jehovah Wase Mandulo](https://open.spotify.com/track/3nZzeBYFUzraylvt8RERKq) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakhe \(Medley 8\) \[Jehovah Wase Mandulo\]](https://open.spotify.com/album/3gvnYd70HXpkj8MrvF4Q8k) | 5:11 |
 | 101 | [Uyalalela \(Live\)](https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Uyalalela \(Live\)](https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG) | 10:30 |
 
-Snapshot ID: `Z7fCWQAAAAAXFw/yY/OBj7zcndGnPOkO`
+Snapshot ID: `Z7fCWQAAAAB8kJ6CPK+xcY7yD5u1sDrz`

@@ -1,12 +1,12 @@
 {
   "description": "The best new AUS & NZ Rap. Cover: ONEFOUR, Mabel",
-  "num_followers": 140493,
+  "num_followers": 140491,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7vNcQAAAACja4+K3ALwtPV9GLekW8xu",
+  "snapshot_id": "Z771VgAAAACAJoc2scTpgSznfSthIZW3",
   "tracks": [
     {
       "added_at": "2025-02-13 13:00:29",
@@ -27,22 +27,6 @@
       "duration_ms": 189281,
       "name": "PHONE CALL",
       "url": "https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg"
-    },
-    {
-      "added_at": "2025-02-20 13:00:28",
-      "album": {
-        "name": "Hasta Luego",
-        "url": "https://open.spotify.com/album/1Bt23dJAyQOC25DNiSR4L9"
-      },
-      "artists": [
-        {
-          "name": "Youngn Lipz",
-          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Hasta Luego",
-      "url": "https://open.spotify.com/track/2kaSgT6gcH2XVoHQiWzPV7"
     },
     {
       "added_at": "2025-02-20 13:00:28",
@@ -968,7 +952,7 @@
           "url": "https://open.spotify.com/artist/03cVHTIZRVk50IiEryN5Rg"
         }
       ],
-      "duration_ms": 164571,
+      "duration_ms": 164576,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/6wHuCcHCXtxvLhf3ViGeY8"
     },

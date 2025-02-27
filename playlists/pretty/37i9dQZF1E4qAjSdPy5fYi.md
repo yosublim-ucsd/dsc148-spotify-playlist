@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With Joshua Lanuarii, glitterpop!, STYXVII and more
+> With glitterpop!, Joshua Lanuarii, STYXVII and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 564 likes - 50 songs - 2 hr 7 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 |
 | 50 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
 
-Snapshot ID: `Z7521gAAAABgDVPKoa94KcafY7haSGht`
+Snapshot ID: `Z7/IXwAAAACHqOTM3k8A5TUPzuoBLDd2`

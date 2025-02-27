@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
+      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/7sEcu5WPzy4L3qUz9DcbQ0"
       },
@@ -1026,6 +1048,24 @@
       "duration_ms": 166520,
       "name": "Alkohol - #40Bochum",
       "url": "https://open.spotify.com/track/7zAgHlntQP0x0eDK1VyE9V"
+    },
+    {
+      "album": {
+        "name": "ALL I EVER DO",
+        "url": "https://open.spotify.com/album/2heJmwKeBIDb8cBZsYAuFg"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172381,
+      "name": "ALL I EVER DO",
+      "url": "https://open.spotify.com/track/4VPmNvFDBUoncOB3u6Ioc8"
     },
     {
       "album": {
@@ -1766,7 +1806,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -4852,6 +4892,24 @@
     {
       "album": {
         "name": "check",
+        "url": "https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
+    },
+    {
+      "album": {
+        "name": "check",
         "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
       },
       "artists": [
@@ -4862,7 +4920,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 122037,
       "name": "check",
       "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
@@ -4924,7 +4982,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 116000,
       "name": "chess",
       "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
@@ -6412,6 +6470,24 @@
       "duration_ms": 137375,
       "name": "Dieser Sommer",
       "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
+    },
+    {
+      "album": {
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
     },
     {
       "album": {
@@ -11238,7 +11314,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 149626,
       "name": "Her Nerdeysen",
       "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
@@ -15582,7 +15658,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -15604,7 +15680,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -15858,7 +15934,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 129332,
       "name": "L\u00f6sch Mei Nummer",
       "url": "https://open.spotify.com/track/5OgJE6aUOQK1Plo9PcMwB7"
@@ -23564,6 +23640,24 @@
     {
       "album": {
         "name": "Pazifik",
+        "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202283,
+      "name": "Sommer macht melancholisch",
+      "url": "https://open.spotify.com/track/54CnaOmUlgeMTGOzpkL0Rj"
+    },
+    {
+      "album": {
+        "name": "Pazifik",
         "url": "https://open.spotify.com/album/40uGNlnavAbwWtL5zy44Ty"
       },
       "artists": [
@@ -23574,7 +23668,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 202283,
       "name": "Sommer macht melancholisch",
       "url": "https://open.spotify.com/track/6MriboInMFOYpnRtRKWAJd"
@@ -27006,7 +27100,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
@@ -27804,7 +27898,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 163402,
       "name": "WENN DU DUMM BiST",
       "url": "https://open.spotify.com/track/26rTaeKpaLCsa8xZ1yd9Up"
@@ -28394,7 +28488,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-27",
       "duration_ms": 240151,
       "name": "WONDERWaLL - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"

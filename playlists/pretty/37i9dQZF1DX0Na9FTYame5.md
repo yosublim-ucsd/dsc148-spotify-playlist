@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: badchieff
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,126 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,127 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

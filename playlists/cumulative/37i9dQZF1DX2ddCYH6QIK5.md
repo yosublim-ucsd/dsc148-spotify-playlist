@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Marlena Käthe, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Roomer, Artwork: Isu Kim
 
-1,323 songs - 3 day 3 hr 15 min
+1,330 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Can I Say It Yet?](https://open.spotify.com/track/4OKExphSevUflj5XEmF7Cc) | [Izzy Díaz](https://open.spotify.com/artist/60Mt10tWnEQbzVpmhFq86O), [Fredrik Leonard](https://open.spotify.com/artist/3q8JznVk7WcASq4RgADnIZ) | [Can I Say It Yet?](https://open.spotify.com/album/7FI2fBnF18a0Aa7dAY21IZ) | 4:10 | 2023-05-31 | 2023-08-24 |
 | [Can You Hear Me](https://open.spotify.com/track/63vvhVUCFoJhUPRbP2lVuc) | [The Esprits](https://open.spotify.com/artist/22j4Y02Y479I2lep4toE80) | [Can You Hear Me](https://open.spotify.com/album/0nwqXnuXC9BdUlWg8evM8B) | 3:03 | 2022-06-01 | 2022-07-14 |
 | [CAN'T BE YOUR FRIEND](https://open.spotify.com/track/7AP6uzcuHJrB8maVYmIFkL) | [Ceycey](https://open.spotify.com/artist/1gg5EaeFa7AJAlw5vAXvjy) | [CAN'T BE YOUR FRIEND](https://open.spotify.com/album/7AtNecu2nHXxuXBSv5KI1o) | 4:15 | 2023-03-22 | 2023-04-13 |
+| [Can't Help Myself](https://open.spotify.com/track/2hvNtxUq33E4sfeHuG5THK) | [friends with benedikt](https://open.spotify.com/artist/0WI07f09DIfixifMop4TwA) | [Can't Help Myself](https://open.spotify.com/album/4YcJj4mPBhetqFpy6qd30W) | 2:09 | 2025-02-26 |  |
 | [Captain Kit](https://open.spotify.com/track/6MSH05EFXMrjtFPBfJfsUs) | [Mik Ivy](https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA) | [Captain Kit](https://open.spotify.com/album/0RZTlAF6G7dnpRVwJITK06) | 3:13 | 2024-07-16 | 2024-11-14 |
 | [Caravella](https://open.spotify.com/track/5jxOTEF0fmk0jfmMXa4tKj) | [Touri](https://open.spotify.com/artist/7272wm0hJTnAvr1MjD7v1L) | [Caravella](https://open.spotify.com/album/5RZWpwvSp9U5ogOexXt2hx) | 2:33 | 2025-02-12 | 2025-02-20 |
 | [Casanova](https://open.spotify.com/track/65unoQYVXozpWh4x3A3JGE) | [Moritz Ley](https://open.spotify.com/artist/5w9vA7OEPcc2atrMUKjwGd) | [Casanova](https://open.spotify.com/album/7cgLvatZuJ39TAwa68g8r3) | 3:09 | 2023-08-30 | 2023-09-21 |
@@ -215,6 +216,7 @@
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-05 | 2022-01-13 |
 | [Chaleur](https://open.spotify.com/track/643wr9gOqXlFxFSUi2YKgk) | [RasgaRasga](https://open.spotify.com/artist/2AvW8AfEg9caYsocgwE7vF) | [Chaleur](https://open.spotify.com/album/48BPfY4RlI4mrqHH4VqpeF) | 3:25 | 2022-06-22 | 2022-11-24 |
 | [Chamomile Tea](https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV) | [Annie Bloch](https://open.spotify.com/artist/22YsZ3Lp8VNBXySgxKVIXd) | [Chamomile Tea](https://open.spotify.com/album/53gsBULwZPiX2eRJSBXWgO) | 3:09 | 2024-03-20 | 2024-06-01 |
+| [Chance](https://open.spotify.com/track/5G8oQngyP7qE65xCBBsKV7) | [Roomer](https://open.spotify.com/artist/7hXtMXAZsLo6LF4qYfj2Ef) | [Chance](https://open.spotify.com/album/0fL9dSIKqMkq1WvTynxFpo) | 2:43 | 2025-02-26 |  |
 | [Changes](https://open.spotify.com/track/6wWMiWDSwoI8hIVcI0D9S5) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo) | [Changes](https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM) | 4:05 | 2022-11-09 | 2023-02-23 |
 | [Chardonnay](https://open.spotify.com/track/0QIrFBfloQn3DxvsZPariB) | [Elisa Loah](https://open.spotify.com/artist/00605AnrQOdRhZEnRKtT1L) | [Chardonnay](https://open.spotify.com/album/6AKNfnNCkmmu4xUrcwkK3O) | 2:27 | 2022-02-02 | 2022-02-10 |
 | [charlie chaplin](https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [charlie chaplin](https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O) | 2:54 | 2024-08-07 | 2025-01-10 |
@@ -560,6 +562,7 @@
 | [How Many](https://open.spotify.com/track/3yuKeklHFLsL1XI7xSTJAe) | [Oy](https://open.spotify.com/artist/6xI7gsyNgmODoMoWnVp8QG) | [How Many](https://open.spotify.com/album/0LLF6KYdU4WbqpttQOPXdQ) | 3:20 | 2023-01-18 | 2023-01-26 |
 | [How To Breathe Underwater](https://open.spotify.com/track/2vZIOXvD7wRJzcC9tQ0S4r) | [Tuys](https://open.spotify.com/artist/31t8VOhM577SsozJ7QHRZR) | [Reality Management Ltd.](https://open.spotify.com/album/5t1mAw4ex32zsVFBrDJg98) | 3:13 | 2023-05-03 | 2023-05-24 |
 | [how to hide](https://open.spotify.com/track/1MA556XdnK94fPiWKpgfvD) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [how to hide](https://open.spotify.com/album/3Y1neiDH824YdQDWu0E5Wi) | 4:03 | 2022-01-26 | 2022-02-10 |
+| [Hundred Voices](https://open.spotify.com/track/60ydWiSXHpCqw0RuFywpUg) | [KAILIGHT](https://open.spotify.com/artist/2otxzYO4esNHG04VsIORZq) | [Hundred Voices](https://open.spotify.com/album/7tAVa1aCwrzhPVtdXuKk8U) | 2:53 | 2025-02-26 |  |
 | [Hurt](https://open.spotify.com/track/1igD7XcNCXR5ZYJiIhrHnA) | [Gini Brown](https://open.spotify.com/artist/1OcVne5Sw8gfgduUqj2LqO) | [Hurt](https://open.spotify.com/album/5xYtrYZW4RFuaYjrlnocCL) | 3:15 | 2025-02-12 |  |
 | [Hysterie + Abfall](https://open.spotify.com/track/74Y3cfDN4ttFlZn5otloZK) | [Lyschko](https://open.spotify.com/artist/62v9ccNoIxNoPmosqCWpq6) | [Hysterie + Abfall](https://open.spotify.com/album/0OpA4ickyWjGd7wJWTsIFt) | 3:24 | 2022-05-11 | 2022-06-09 |
 | [I Am Alive \- Original Mix](https://open.spotify.com/track/1CWItV1c3LYMxpbXQL9R22) | [Oliver Jass](https://open.spotify.com/artist/2ODPpeNxF16AvaVFhbo0sy) | [I Am Alive](https://open.spotify.com/album/4HAJI1EAOj8YfvxRweePXg) | 5:18 | 2022-01-05 | 2023-01-05 |
@@ -610,6 +613,7 @@
 | [In My SUV](https://open.spotify.com/track/2qf0e2wbDSF3sYxPH3OsVj) | [Dobre](https://open.spotify.com/artist/7JR1psib3h439APCdifvyM) | [In My SUV](https://open.spotify.com/album/17vB3tGLNprtVtZQtan1yY) | 3:45 | 2022-01-19 | 2022-03-08 |
 | [In Wien](https://open.spotify.com/track/1RYCNpPtO92fmzwhcjIMvc) | [EFEU](https://open.spotify.com/artist/14UJG62vzo0BZqU1x813OC) | [In Wien](https://open.spotify.com/album/23ZN8T8Z3Q4fDEkGeQmxJ0) | 3:18 | 2023-02-08 | 2024-01-04 |
 | [Incendio](https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf) | [NNOA](https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft) | [Incendio](https://open.spotify.com/album/1tNN81G4UTH5T2JCkEiXTp) | 2:23 | 2023-09-20 | 2024-02-15 |
+| [Innenstadtverkehr](https://open.spotify.com/track/21LnwkbGb7bamMod0xxxsk) | [insschlosswollen](https://open.spotify.com/artist/7ipUJLRtcmA8uL2QISyInJ) | [Innenstadtverkehr](https://open.spotify.com/album/7idnssL5LjOyvMEcgCeFhc) | 2:14 | 2025-02-26 |  |
 | [Insane](https://open.spotify.com/track/72xlMFeOe5VNKaiEEy7c8b) | [NEYKID](https://open.spotify.com/artist/5XPH2NynN62mIlISHiUnyA) | [Insane](https://open.spotify.com/album/7dJnfT48sFWh3S3svNaIkj) | 2:54 | 2022-03-16 | 2023-01-05 |
 | [Insufficiently Prepared](https://open.spotify.com/track/75VAGomv5xDlfe3QC6ckSP) | [nix kiepe](https://open.spotify.com/artist/2YV8EUfwzkotfHJFvlNKBb) | [Insufficiently Prepared](https://open.spotify.com/album/58WVureEUyFUUzJHZKh98K) | 3:09 | 2023-09-06 | 2023-09-14 |
 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 | 2022-01-05 | 2022-03-03 |
@@ -918,6 +922,7 @@
 | [Prokrastinieren](https://open.spotify.com/track/3ISQwg7K3SwvYvCNbISUHw) | [weesby](https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd) | [Prokrastinieren](https://open.spotify.com/album/3OVHvlMVOtxFyhkMXW3xNB) | 3:21 | 2023-10-11 | 2024-01-18 |
 | [Protection](https://open.spotify.com/track/6AAFmz6VIZfKily1dhD08h) | [SMILE](https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8) | [Protection](https://open.spotify.com/album/61wF4XAPZ55CSo43lQ2Qa1) | 3:53 | 2023-09-06 | 2023-09-28 |
 | [Ptbt](https://open.spotify.com/track/1iKhleIWVI0HfqhWPzEVxD) | [CRISTALLIN](https://open.spotify.com/artist/1FFrUop9cShGww0o21DTCU) | [Ptbt](https://open.spotify.com/album/2ApCQNwaX64Sw7tnkiW598) | 2:08 | 2024-01-24 | 2024-02-22 |
+| [Puke](https://open.spotify.com/track/0mFOy2e3r0QziwxhINJNXL) | [Tough Mother](https://open.spotify.com/artist/6U21cIUwrxRhpwpkRLP5RC) | [Puke](https://open.spotify.com/album/5mxsW9ag0Sv8YqwigBJO4P) | 2:43 | 2025-02-26 |  |
 | [Pull Up Flex](https://open.spotify.com/track/5unI1BEFCZkXp4UV34xTQB) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Pull up Flex](https://open.spotify.com/album/0yBeYMbAXS9oFDsbMFT3FM) | 2:51 | 2022-01-26 | 2022-02-24 |
 | [PULLI](https://open.spotify.com/track/57CbDZVOmEHCk1jXeje3Aa) | [BOHL](https://open.spotify.com/artist/6obpA41YCnTO4d9MOGNHai), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [PULLI](https://open.spotify.com/album/3XGTJhsJT1MWsFK3yfZvb5) | 2:49 | 2024-07-03 | 2024-07-25 |
 | [Purgatory](https://open.spotify.com/track/4xcWGy89zMgFmbiJMvkeFf) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Songs of Vienna](https://open.spotify.com/album/435R1bfZZFPEIpQwHaFLVt) | 3:18 | 2022-01-05 | 2022-03-24 |
@@ -934,6 +939,7 @@
 | [RAPSTAR](https://open.spotify.com/track/4k1NDIbiXQK78QfVH6kadP) | [Die Cigaretten](https://open.spotify.com/artist/45Qy3mVXEp1rhTUhfAOqb5) | [RAPSTAR](https://open.spotify.com/album/7xhlcSQKs1U0B0Vb5QsJ7r) | 2:52 | 2023-05-24 | 2023-06-08 |
 | [Rauch](https://open.spotify.com/track/02YOcaXI86clPG29BTvcxI) | [ANIKA](https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg) | [Rauch](https://open.spotify.com/album/2MdeebVrs3cpKFaq1JmQ7S) | 3:13 | 2022-10-12 | 2022-10-27 |
 | [RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s) | [zwanzignullvier](https://open.spotify.com/artist/7b2YyCNNfUDxyDOb2KGE80) | [RAUS](https://open.spotify.com/album/56PQBozC5ENhFrZxNMmXJd) | 3:16 | 2024-01-03 | 2024-07-04 |
+| [Raus aus dem Grau](https://open.spotify.com/track/4MQ2SCsheIoSzVUioxx26D) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Raus aus dem Grau](https://open.spotify.com/album/1u9fmhS3c7ytb1uLgNmom0) | 2:22 | 2025-02-26 |  |
 | [rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN) | [Saiya Tiaw](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3) | [tränen von dir](https://open.spotify.com/album/1aYuxGbeXAKWpr1gw6rIa3) | 2:10 | 2022-04-06 | 2022-05-19 |
 | [Rave22](https://open.spotify.com/track/2IboXvKtEiYAasekXmUbsw) | [NHOAH](https://open.spotify.com/artist/3gkxx7m2pCxR3i3oH2wn99) | [Tune](https://open.spotify.com/album/4N9kmusWvdY2cnaicoQnh4) | 6:56 | 2022-11-09 | 2023-01-19 |
 | [Rave22](https://open.spotify.com/track/7dDyKAq26yih98op1W8OhD) | [Nhoah](https://open.spotify.com/artist/3gkxx7m2pCxR3i3oH2wn99) | [Rave22](https://open.spotify.com/album/0TX0bi81POR9JIEhR4p9o7) | 6:56 | 2022-09-21 | 2022-11-17 |
@@ -995,6 +1001,7 @@
 | [Save Me](https://open.spotify.com/track/7fVeaVDxRrcnnKB6TLj9uE) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Save Me EP](https://open.spotify.com/album/4z2kshHJmuO99NZ93leb5t) | 5:42 | 2023-08-16 | 2023-11-16 |
 | [Save My Soul](https://open.spotify.com/track/4GEQaWchQApNxs9w2ecROe) | [Fabio Battista](https://open.spotify.com/artist/7LrLPGdPM6uqy29dZXgkv9) | [Sway](https://open.spotify.com/album/1vueDWjeJykVhvPzvdVHmI) | 2:55 | 2023-06-21 | 2023-07-20 |
 | [Say!](https://open.spotify.com/track/0uLtK2oYlZ1Lhvbe8JuEeB) | [Post Meridiem](https://open.spotify.com/artist/4nXTmOzMhTsRt6vNjelLZN) | [Say!](https://open.spotify.com/album/272jFpPHVdElSVhApcRapx) | 3:17 | 2023-08-30 | 2023-09-21 |
+| [Scar](https://open.spotify.com/track/7xS5LwOKxQo8kt0xpuu3cc) | [Matze Pröllochs](https://open.spotify.com/artist/3dj6nUUdJnyT5SIF5QjzXp) | [Birth No Birth](https://open.spotify.com/album/6pXpDgY5c1zTWdJjQWDqOp) | 3:18 | 2025-02-26 |  |
 | [Schatten \- Trio Version](https://open.spotify.com/track/0lvnDqz3CZ3geQfFK5E9b3) | [Asant](https://open.spotify.com/artist/3xVy7fStWk7e4ScjWwrz3X) | [Ohne uns](https://open.spotify.com/album/4hwz9xgnNJexkGGxeRAAD7) | 4:14 | 2024-10-23 | 2024-12-05 |
 | [Schau dass du nicht fällst](https://open.spotify.com/track/4RyrYqIQ7LRvmETpr8gzx0) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Schau dass du nicht fällst](https://open.spotify.com/album/3oBzWtO3UstxGXzKbgxaLM) | 2:24 | 2022-01-05 | 2022-03-03 |
 | [Scheintod](https://open.spotify.com/track/6zkhCistbOCz6bk98DBvSV) | [Charlotte Riess](https://open.spotify.com/artist/5LiDf5yCb1cRzJOrFwekIW) | [Scheintod](https://open.spotify.com/album/1JzXG6w2OEj0mMYA21iceO) | 2:09 | 2024-10-16 | 2024-11-28 |

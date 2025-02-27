@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: yama \*👉 <a href="https://spice.eplus.jp/articles/335713">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: yama \*👉 <a href="https://spice.eplus.jp/articles/335832">SPICE連動記事</a>をSPICEでチェック!
 
-9,666 songs - 25 day 1 hr 48 min
+9,667 songs - 25 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [2025/1/8 tuki.がファーストアルバムをリリースしてカバーに！あっこゴリラの6年ぶりのアルバムも！マカロニえんぴつ、Awich、OKAMOTO’Sの新曲もピックアップ！Kvi Babaからメッセージも到着！](https://open.spotify.com/episode/37m1RyRlEnXWirNyg8SPSr) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:22 | 2025-01-08 | 2025-01-15 |
 | [2025/2/12 斉藤和義がカバー！YZERRの1stアルバムや唾奇の新曲も！Early Noiseアーティストブランデー戦記の新曲や、『第59回NFLスーパーボウル』のパフォーマンスに合わせてリリースされたSZAの楽曲もピックアップ！](https://open.spotify.com/episode/1vAoqJPileEKMdDVx4h4hs) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:57 | 2025-02-12 | 2025-02-19 |
 | [2025/2/19 AKASAKIが新曲をリリース！緑黄色社会のインタビューも到着！LANA、Medusa、E.V.P、IFEのコラボソング、キタニタツヤの新曲もピックアップ！！](https://open.spotify.com/episode/6cD571DZakH1SM5EVQNEFV) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 52:58 | 2025-02-19 | 2025-02-26 |
+| [2025/2/26 yamaがindigo la Endを迎えた新曲をリリース！！G\-DRAGON\(BIGBANG\)の8年ぶりのニューアルバムやONE OK ROCKのニューアルバムも！ShowyVICTOR初のスタジオアルバム、注目のバンドluvもピックアップ！](https://open.spotify.com/episode/0NUfAAE0YlBNtdaRdnKNkQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:19 | 2025-02-26 |  |
 | [2025/2/5 Creepy Nutsがカバー！『No No Girls』から誕生したHANA、Early NoiseアーティストLavtの新曲も！ハルカミライのニューアルバム、日食なつこの新曲もピックアップ！BOYNEXTDOORからメッセージも到着！](https://open.spotify.com/episode/5nrxle7946p4Hj07OSSVsk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:12 | 2025-02-05 | 2025-02-12 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
