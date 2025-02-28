@@ -4093,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Serenity\u2019s Whisper",
+        "url": "https://open.spotify.com/album/3mSLvGhzMSD0se47t7HTSc"
+      },
+      "artists": [
+        {
+          "name": "Heiko Kolt",
+          "url": "https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Serenity\u2019s Whisper",
+      "url": "https://open.spotify.com/track/6SHsPZFABvN3fPk9rWxeET"
+    },
+    {
+      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/4KKxlhnLzgG6rh7KjAzBcv"
       },

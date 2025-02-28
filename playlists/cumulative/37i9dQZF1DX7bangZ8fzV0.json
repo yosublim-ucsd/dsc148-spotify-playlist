@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=YXHLEABeQBqT-FSGMkLuMg\">Ruhan Du Toit</a> ",
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO?si=klYEpbUbRvOAKJLzOeqJ5g\">Robbie Wessels</a> en  <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=zjMMVHtgQBebdAN-V3WllA\">Appel</a>",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -392,6 +392,28 @@
       "duration_ms": 222720,
       "name": "Boerepompie (feat. Snotkop)",
       "url": "https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp"
+    },
+    {
+      "album": {
+        "name": "Boereworsgordyn",
+        "url": "https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        },
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196779,
+      "name": "Boereworsgordyn",
+      "url": "https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q"
     },
     {
       "album": {
@@ -1818,7 +1840,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 201289,
       "name": "Ik Ben Een Afrikaander",
       "url": "https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p"

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-472 songs - 1 day 2 hr 43 min
+473 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 | 2024-11-17 | 2025-01-12 |
 | [Kitty's Midnight Blessing](https://open.spotify.com/track/3s3JfEWheRv35NIqQ5DpnJ) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [Songs Before Bed \(2022\)](https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk) | 3:14 | 2025-01-11 |  |
 | [Klonkmelodin](https://open.spotify.com/track/1MdoqTzAV9BPbw1ZbZw9iU) | [Sagor & Swing](https://open.spotify.com/artist/3KIUFqenyBNPkZIQjVnfdX) | [Melodier och fåglar](https://open.spotify.com/album/0f9hohz1u0EeHY8j8RBAQH) | 2:03 | 2024-10-15 | 2024-11-14 |
-| [Knocking \(At Your Door\)](https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY) | [Grand Man](https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN) | 3:29 | 2025-02-26 |  |
+| [Knocking \(At Your Door\)](https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY) | [Grand Man](https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN) | 3:29 | 2025-02-26 | 2025-02-28 |
 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 | 2024-04-12 | 2024-05-16 |
 | [Komodo](https://open.spotify.com/track/2gDGX6ANP3GF9uMwuA4GMy) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:06 | 2024-09-07 | 2024-11-14 |
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-29 | 2024-09-08 |
@@ -277,6 +277,7 @@
 | [Mr\. Oh So Suave & Debonaire](https://open.spotify.com/track/4jnz75XaJDbHDKEkuSz8OM) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 1:40 | 2024-05-29 | 2024-06-06 |
 | [Mrs\. Bean](https://open.spotify.com/track/4j8ONr3RwQfMxBJDkcynks) | [The Essex Green](https://open.spotify.com/artist/2hLQppESVnOV9ntMD3uA4G) | [Everything Is Green](https://open.spotify.com/album/7d7j8g2LvfVm8wU4a4G5KI) | 3:21 | 2025-01-21 |  |
 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 | 2024-05-24 | 2024-07-12 |
+| [My Autumn's Done Come](https://open.spotify.com/track/4jJGLOYVMAyb5RyVKjQzUr) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 4:06 | 2025-02-27 |  |
 | [My Head Falls Softly](https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Catskills](https://open.spotify.com/album/3ZBm3ZogFDZusSwJooRf1c) | 4:23 | 2024-04-18 | 2024-05-16 |
 | [My Only Love](https://open.spotify.com/track/1dtnRZGcl8PWdRacCGgJ0p) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 6:48 | 2025-01-11 |  |
 | [My Time \- 2023 Remaster](https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 4:21 | 2024-07-15 | 2024-09-08 |

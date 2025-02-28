@@ -1,37 +1,13 @@
 {
   "description": "El Dembow que ta subiendo. Foto: Jey One",
-  "num_followers": 128905,
+  "num_followers": 129023,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7a4UgAAAAAKSV49TQ3stNROFUrZ/fnN",
+  "snapshot_id": "Z8CthAAAAADNdu0a+M6Parw/5dJpsdh/",
   "tracks": [
-    {
-      "added_at": "2025-02-12 14:16:01",
-      "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "OG DETRUYELO",
-          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
-        }
-      ],
-      "duration_ms": 138515,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs"
-    },
     {
       "added_at": "2025-02-20 05:06:26",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 287179,
       "name": "BRUTA",
       "url": "https://open.spotify.com/track/1AQLTbX8amGpWshReAMxkS"
+    },
+    {
+      "added_at": "2025-02-12 14:16:01",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 138515,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -107,6 +107,26 @@
       "duration_ms": 162986,
       "name": "Feliz Navidad HDSPM",
       "url": "https://open.spotify.com/track/7f6g6R6wrXFmeYkfdIBPx8"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Este Coco",
+        "url": "https://open.spotify.com/album/1NFxdqJKj6XGjIqkQ6EPdW"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Este Coco",
+      "url": "https://open.spotify.com/track/5qvsUlTyYaZ4ItlYcpwLhV"
     },
     {
       "added_at": "2024-03-21 19:13:50",
@@ -183,6 +203,30 @@
       "duration_ms": 125074,
       "name": "Ahi Vienen",
       "url": "https://open.spotify.com/track/3A3xTfOIPl8CZ83v6LhHI2"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Si Me Lo Topo (Remix)",
+        "url": "https://open.spotify.com/album/5uXxHJIR2eEBPYwy22gVNw"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        }
+      ],
+      "duration_ms": 129692,
+      "name": "Si Me Lo Topo - Remix",
+      "url": "https://open.spotify.com/track/3wat209Iqe56xRRMC2reZm"
     },
     {
       "added_at": "2024-09-19 19:45:05",
@@ -269,6 +313,26 @@
       "url": "https://open.spotify.com/track/3jlm4PFYTr8ct4HcZU0O5M"
     },
     {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Colale",
+        "url": "https://open.spotify.com/album/6ZG8zQJCjtrQKX7EFpg6kh"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "duration_ms": 101265,
+      "name": "Colale",
+      "url": "https://open.spotify.com/track/5JHA68fQvig4DP5CiwIEdt"
+    },
+    {
       "added_at": "2025-02-20 05:06:26",
       "album": {
         "name": "Envicio",
@@ -339,6 +403,26 @@
       "duration_ms": 102015,
       "name": "METE (Session #7)",
       "url": "https://open.spotify.com/track/1v2P5uDc3C6xAb42oRohPa"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Bombom",
+        "url": "https://open.spotify.com/album/0RqieYnn3p9kqmLKtWTYfK"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Bombom",
+      "url": "https://open.spotify.com/track/4jYPsqYNCGQvvh6xM0iD7C"
     },
     {
       "added_at": "2024-10-23 20:03:25",
@@ -429,6 +513,26 @@
       "url": "https://open.spotify.com/track/7lCYdPPjA0aX0ciaPrJSa2"
     },
     {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "La Do\u00f1a (Remix)",
+        "url": "https://open.spotify.com/album/0plwFFEgcaJruYeXfTV4Ta"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "F100",
+          "url": "https://open.spotify.com/artist/0j24RkYkAYgGp7bburGODy"
+        }
+      ],
+      "duration_ms": 157738,
+      "name": "La Do\u00f1a - Remix",
+      "url": "https://open.spotify.com/track/2BceutswqPKrOyEAJ8wAco"
+    },
+    {
       "added_at": "2024-09-19 19:45:05",
       "album": {
         "name": "Atencion (Remix)",
@@ -477,22 +581,6 @@
       "url": "https://open.spotify.com/track/7mhFkunAUwxrD3OxDVekhR"
     },
     {
-      "added_at": "2025-02-12 14:16:01",
-      "album": {
-        "name": "TRONCO \u00d1O\u00d1O",
-        "url": "https://open.spotify.com/album/5zH458zU0ZwIJ1REP0SPGL"
-      },
-      "artists": [
-        {
-          "name": "La Tr\u00edada",
-          "url": "https://open.spotify.com/artist/5XOKjT3sNKS9nLjea45qif"
-        }
-      ],
-      "duration_ms": 68811,
-      "name": "TRONCO \u00d1O\u00d1O",
-      "url": "https://open.spotify.com/track/0mFYelModDwFF1yrGHVttR"
-    },
-    {
       "added_at": "2025-02-06 04:36:18",
       "album": {
         "name": "Guao Guao",
@@ -511,6 +599,26 @@
       "duration_ms": 126000,
       "name": "Guao Guao",
       "url": "https://open.spotify.com/track/230T4LWoFiM2qOTU1Q4ygT"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "KALALEO",
+        "url": "https://open.spotify.com/album/4RYK5WYr4yvDL5A2fVRS24"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "KALALEO",
+      "url": "https://open.spotify.com/track/5DkyJBodB0hLJVXjnLRut9"
     },
     {
       "added_at": "2025-02-20 05:06:26",
@@ -709,6 +817,26 @@
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Bajale 2",
+        "url": "https://open.spotify.com/album/1lvs2RRgLVphrjKHIaPgy2"
+      },
+      "artists": [
+        {
+          "name": "42palmundo",
+          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
+        },
+        {
+          "name": "Marino El Abusador",
+          "url": "https://open.spotify.com/artist/1lInNxZswHjnOdwSXpugrw"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Bajale 2",
+      "url": "https://open.spotify.com/track/3ydPbF4S7XUaVAS1mAJoIM"
+    },
+    {
       "added_at": "2025-02-06 04:36:18",
       "album": {
         "name": "Etel",
@@ -787,6 +915,26 @@
       "duration_ms": 188717,
       "name": "Si, Es As\u00ed",
       "url": "https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/7qLHebdjHQEgrgDKjIo3th"
+      },
+      "artists": [
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Oscar Amaya",
+          "url": "https://open.spotify.com/artist/45gFMNBzwiuSjVZHDzSpRS"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/5kK1mzbtjfQVjZ5WVwHZ0m"
     },
     {
       "added_at": "2024-05-09 19:47:36",
@@ -871,6 +1019,30 @@
       "duration_ms": 102827,
       "name": "HAY ANABEL",
       "url": "https://open.spotify.com/track/5QqRzTmpc1Hoj1DTrvcEw9"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Mis Enemigos",
+        "url": "https://open.spotify.com/album/6N339EyGo60fzH0z2Rw3XS"
+      },
+      "artists": [
+        {
+          "name": "JR Otravez",
+          "url": "https://open.spotify.com/artist/2Difz2SAnR9JzGAIlCQGSh"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Dimelo Tyrone",
+          "url": "https://open.spotify.com/artist/6Q4JnBBGlOtBf6NUDzVxeu"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Mis Enemigos",
+      "url": "https://open.spotify.com/track/7JpimCXx8aGq5runJSy5nh"
     },
     {
       "added_at": "2024-05-09 17:08:56",
@@ -1019,6 +1191,30 @@
       "duration_ms": 138240,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0SmEtr3Dd2EzinnfYHbdGa"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Bailalo Rocky",
+        "url": "https://open.spotify.com/album/2VHCyzqBeo6vy0ubdT60vg"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Ariadne Arana",
+          "url": "https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
+        }
+      ],
+      "duration_ms": 143349,
+      "name": "Bailalo Rocky",
+      "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
     },
     {
       "added_at": "2024-12-03 17:08:52",
@@ -1227,6 +1423,30 @@
       "duration_ms": 125806,
       "name": "CHUPA CO\u00d1O",
       "url": "https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ"
+    },
+    {
+      "added_at": "2025-02-27 18:23:00",
+      "album": {
+        "name": "Doy Cokero (Remix)",
+        "url": "https://open.spotify.com/album/0ocjkOYtDoHfDt9TkpYkpV"
+      },
+      "artists": [
+        {
+          "name": "John Theis",
+          "url": "https://open.spotify.com/artist/5wJ6ampK4rbYM4QjhIbsGa"
+        },
+        {
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        },
+        {
+          "name": "Davicito59",
+          "url": "https://open.spotify.com/artist/2PdstnhNsa9vDivgD6jyiO"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "Doy Cokero - Remix",
+      "url": "https://open.spotify.com/track/1uXUmDnKpx9C2AJdYlzPMp"
     },
     {
       "added_at": "2023-12-22 05:09:41",

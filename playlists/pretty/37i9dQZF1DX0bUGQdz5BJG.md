@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Rvshvd
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,850 likes - 230 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,873 likes - 230 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 229 | [drive you anywhere](https://open.spotify.com/track/7fOkZ4pVUaba6RXZX9mch5) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [call me when you land](https://open.spotify.com/album/6J6ghiT9f1KMZ9Wvejr4yt) | 3:21 |
 | 230 | [Dozen Red Flags](https://open.spotify.com/track/6ELxhwWV7fbsVUzNHMIm8R) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Dozen Red Flags](https://open.spotify.com/album/6OSGcgfHd5Mnrj4eQZCjCc) | 3:00 |
 
-Snapshot ID: `Z7gIdwAAAABXh4XO2G1BhOaMs9ncR/2O`
+Snapshot ID: `Z7gIdwAAAACHClAmSwGxlg5vLibqnGtb`

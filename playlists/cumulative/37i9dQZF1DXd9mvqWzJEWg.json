@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr?si=ORpbDLmbQfKi44Yf2GKaoQ\">Vv Pete</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=2yQaL1uoRmi_k6FWFEsnyg\">DJ Tira</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -668,6 +668,32 @@
       "duration_ms": 286902,
       "name": "Basini",
       "url": "https://open.spotify.com/track/02w3u4M9HbSg7zxRONWZE5"
+    },
+    {
+      "album": {
+        "name": "Bass & Drum",
+        "url": "https://open.spotify.com/album/4TZgUz8xTvg3OMlIiDqg4V"
+      },
+      "artists": [
+        {
+          "name": "House Of ESAMA",
+          "url": "https://open.spotify.com/artist/1nml1m6E2S513qiBWhgsZQ"
+        },
+        {
+          "name": "Lanokies",
+          "url": "https://open.spotify.com/artist/7kRPZ7mUY4TFVcANAutz7V"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385853,
+      "name": "Bass & Drum",
+      "url": "https://open.spotify.com/track/3hTwh3AwxF0tRseZaUnY7r"
     },
     {
       "album": {
@@ -1511,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Rock With Ma Andi",
+        "url": "https://open.spotify.com/album/3znHhJCA8Xxcdf1oyumLJ6"
+      },
+      "artists": [
+        {
+          "name": "Hume Da Muzika",
+          "url": "https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY"
+        },
+        {
+          "name": "Ma Andi",
+          "url": "https://open.spotify.com/artist/14jeVl1p0FjlOJQQCzmJ8r"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287294,
+      "name": "Dube 37",
+      "url": "https://open.spotify.com/track/7d3L1hw6xLRM4JB65OB6aO"
+    },
+    {
+      "album": {
         "name": "iSxwayiso Ses'bili",
         "url": "https://open.spotify.com/album/0O7yGfHEvv0WryqrUptj4x"
       },
@@ -1636,6 +1684,28 @@
       "duration_ms": 357224,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/24TbpmQWrUYjSnLMWaEhbv"
+    },
+    {
+      "album": {
+        "name": "Angry Mode II EP",
+        "url": "https://open.spotify.com/album/651LXYawsqavErcG7NayfF"
+      },
+      "artists": [
+        {
+          "name": "Sekdlalu Bandiilee",
+          "url": "https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH"
+        },
+        {
+          "name": "Innesoul",
+          "url": "https://open.spotify.com/artist/2dmyaqES27JeC87er7ncwC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345521,
+      "name": "Emotional Guitar",
+      "url": "https://open.spotify.com/track/0yZB6iqrbLw7yy1jAtGQB1"
     },
     {
       "album": {
@@ -3139,6 +3209,32 @@
     },
     {
       "album": {
+        "name": "Ivale Mfana (Remix)",
+        "url": "https://open.spotify.com/album/0OlOQIEsV5V1RyAtsgpFtg"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        },
+        {
+          "name": "031 WOLFS",
+          "url": "https://open.spotify.com/artist/66tc4vX88yL6EJ6NGIBQUx"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252264,
+      "name": "Ivale Mfana - Remix",
+      "url": "https://open.spotify.com/track/7ah1ImrTIugKhIJzeuM7j8"
+    },
+    {
+      "album": {
         "name": "iWalk Ye Phara (feat. Moonchild Sanelly, K.O & Zulu Mkhathini)",
         "url": "https://open.spotify.com/album/0MqyL6Tu4ddKBNl8WXHNZM"
       },
@@ -4010,7 +4106,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 336697,
       "name": "Medusa (Devil's Anthem)",
       "url": "https://open.spotify.com/track/26G5mdmaDRWbR1WmmzmWhJ"
@@ -4817,6 +4913,44 @@
     },
     {
       "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/1INdvramG7WFxxkZt1HG4c"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        },
+        {
+          "name": "We Dem Boyz",
+          "url": "https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299016,
+      "name": "Palesa",
+      "url": "https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb"
+    },
+    {
+      "album": {
         "name": "Palme D'or (Dee Traits Remix)",
         "url": "https://open.spotify.com/album/3U4E1vgliCf976hJnLjw39"
       },
@@ -5506,6 +5640,28 @@
       "duration_ms": 352888,
       "name": "Seven Up",
       "url": "https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc"
+    },
+    {
+      "album": {
+        "name": "Sgidi Gidi",
+        "url": "https://open.spotify.com/album/6LzG6IrIpewrCScwRUMHfJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Raybel",
+          "url": "https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325161,
+      "name": "Sgidi Gidi",
+      "url": "https://open.spotify.com/track/12JK0xWKm7b1uHqNsORYxs"
     },
     {
       "album": {
@@ -6437,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1TW8bj83KaC6OBr5HVnBMs"
+      },
+      "artists": [
+        {
+          "name": "Surreal Sessions",
+          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274337,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6id1SlYIwlMP1LJ9dwJPad"
+    },
+    {
+      "album": {
         "name": "Ubabalo Luka Thixo",
         "url": "https://open.spotify.com/album/6j36PM6FhR94kVPMiUEEZP"
       },
@@ -7066,7 +7240,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 202522,
       "name": "WASSA",
       "url": "https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974"

@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 209519,
       "name": "Knocking (At Your Door)",
       "url": "https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH"
@@ -4952,6 +4952,24 @@
       "duration_ms": 255133,
       "name": "Multi-Family Garage Sale (Bargain-Bin Mix)",
       "url": "https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v"
+    },
+    {
+      "album": {
+        "name": "The Very Special World Of Lee Hazlewood (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX"
+      },
+      "artists": [
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246253,
+      "name": "My Autumn's Done Come",
+      "url": "https://open.spotify.com/track/4jJGLOYVMAyb5RyVKjQzUr"
     },
     {
       "album": {

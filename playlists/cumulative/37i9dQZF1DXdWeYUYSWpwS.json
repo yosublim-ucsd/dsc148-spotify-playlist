@@ -101,6 +101,28 @@
     },
     {
       "album": {
+        "name": "Takemitsu, Hindemith, Jan\u00e1\u010dek, Silvestrov: Five Pieces",
+        "url": "https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "5 Pieces for Violin and Piano: I. Elegia. Andante larghetto",
+      "url": "https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3"
+    },
+    {
+      "album": {
         "name": "Sibelius",
         "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
       },
@@ -810,28 +832,6 @@
       "duration_ms": 207866,
       "name": "Faur\u00e9: Requiem, Op. 48: VII. In Paradisum",
       "url": "https://open.spotify.com/track/5j9FvY8pDRzFtXYIPYRyTG"
-    },
-    {
-      "album": {
-        "name": "Takemitsu, Hindemith, Jan\u00e1\u010dek, Silvestrov: Five Pieces",
-        "url": "https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        },
-        {
-          "name": "Duo Gazzana",
-          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
-        }
-      ],
-      "date_added": "2024-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179360,
-      "name": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
-      "url": "https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3"
     },
     {
       "album": {

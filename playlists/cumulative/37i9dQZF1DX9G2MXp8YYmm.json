@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Ceren G\u00fcndo\u011fdu",
+  "description": "Popun sevilen isimleri. Kapak: Berkay",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 213173,
       "name": "Benim \u0130lac\u0131m Yok",
       "url": "https://open.spotify.com/track/1pprdlPFEZsefdPSflJT2P"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 195833,
       "name": "Hep Mi Leyla",
       "url": "https://open.spotify.com/track/28alChPhCKQF70YsYvPWaL"
@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
@@ -3644,6 +3644,24 @@
       "duration_ms": 152434,
       "name": "Yar\u0131 Deli",
       "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"
+    },
+    {
+      "album": {
+        "name": "Yas Tutarak",
+        "url": "https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn"
+      },
+      "artists": [
+        {
+          "name": "Berkay",
+          "url": "https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "Yas Tutarak",
+      "url": "https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF"
     },
     {
       "album": {

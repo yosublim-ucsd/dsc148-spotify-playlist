@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Jonita Gandhi
 
-438 songs - 1 day 1 hr 36 min
+439 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Apni Maati](https://open.spotify.com/track/1VnCh7EatouUVfSrvx39Uw) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Apni Maati](https://open.spotify.com/album/4UdNX6WKekchW7uIGFfszR) | 3:26 | 2024-09-14 | 2024-10-11 |
 | [Asar Tera Kaisa](https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Asar Tera Kaisa](https://open.spotify.com/album/7JiymfZOTvdMbmQAjHm34C) | 4:00 | 2024-08-16 |  |
 | [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 | 2024-05-29 |  |
-| [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 | 2024-09-20 |  |
+| [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 | 2024-09-20 | 2025-02-28 |
 | [Baaki](https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Baaki](https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY) | 3:51 | 2023-11-05 | 2023-11-30 |
 | [Baarish](https://open.spotify.com/track/4ebIOXra14qZV1kttgkA42) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Baarish](https://open.spotify.com/album/6Y1vDFxYeZC5BUV9FM5cNV) | 3:28 | 2024-10-03 |  |
 | [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 | 2024-11-08 |  |
@@ -285,6 +285,7 @@
 | [Nayee Nazar](https://open.spotify.com/track/7LdsTDp3eAzgc91qBULH2V) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nayee Nazar](https://open.spotify.com/album/0jvFIM8gENIZg3Rlj4ewVg) | 3:58 | 2024-02-01 | 2024-04-19 |
 | [Nazar](https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Nazar](https://open.spotify.com/album/6aqgxCtAd96JPvM4unprZz) | 2:25 | 2024-09-18 |  |
 | [Nazar Na Lage](https://open.spotify.com/track/0AQmKOQ3efDoyXRqsIXYRH) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Manisha Rani](https://open.spotify.com/artist/3JMWg3hGtmHe3cZBucdgZ9) | [Nazar Na Lage](https://open.spotify.com/album/28GlsjpSTySBgdqZhOagrt) | 2:31 | 2023-09-20 | 2023-11-30 |
+| [Nazar Se Baat Karlena](https://open.spotify.com/track/2Q9P2x7Ve7XW0lGFI0nH3R) | [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Azeem Shirazi](https://open.spotify.com/artist/09pOWiheDJ64OnXW62EhvI) | [Nazar Se Baat Karlena](https://open.spotify.com/album/3KhEUynBxmut2zzcF138FV) | 3:43 | 2025-02-27 |  |
 | [Ni Jana](https://open.spotify.com/track/4YxsJyL48q7NZiiCj0uib0) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Radhika Madan](https://open.spotify.com/artist/3YdyN1kW3803p2ovKeuPel) | [Ni Jana](https://open.spotify.com/album/14AM22a3ypN7tCMH89RXYj) | 3:25 | 2021-12-10 | 2022-02-02 |
 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 | 2023-05-03 | 2023-09-26 |
 | [Nikat \(From "Kill"\)](https://open.spotify.com/track/6cQvhkicAtFGbilgMI7Brt) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Haroon\-Gavin](https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Nikat \(From "Kill"\)](https://open.spotify.com/album/0D7mbKhgnzqqpdgtEqspjx) | 3:06 | 2024-06-30 | 2024-07-31 |

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. rico nasty ⛓️
+> welcome to our universe ft\. BEEFCAKE ⛓️
 
-1,065 songs - 2 day 3 hr 46 min
+1,067 songs - 2 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2021-12-27 | 2022-02-04 |
 | [IDC](https://open.spotify.com/track/5LVQIUFYOCQo6xm4jEggIf) | [DeadWax](https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP), [Benji Wild](https://open.spotify.com/artist/1M61nTzND2oNO6HdPr4uYl) | [IDC](https://open.spotify.com/album/0ZKbOWW2Z0WF3lF7xB3Sbk) | 4:01 | 2024-12-13 |  |
 | [Ideas](https://open.spotify.com/track/4sR6DaImxZ6XNgRXgTTOQ3) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Ideas](https://open.spotify.com/album/43E88xFGD6RJqZU9UyUCK6) | 3:21 | 2024-05-28 | 2024-06-07 |
+| [idgaf](https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [idgaf](https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg) | 2:13 | 2025-02-28 |  |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-10-06 | 2024-02-02 |
 | [IDontFeelTheSame.](https://open.spotify.com/track/0JuzXipMC0pA7dTw6ZWRDh) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [IDontFeelTheSame.](https://open.spotify.com/album/4wsM8oy5MdDrbUye37S6X1) | 2:40 | 2022-06-09 | 2022-09-23 |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2021-12-27 | 2022-02-13 |
@@ -687,6 +688,7 @@
 | [Napalm](https://open.spotify.com/track/2Smp3Fk79CMuvll4TBm999) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 2:30 | 2023-03-08 | 2023-03-09 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2022-04-01 |
 | [naughty AI](https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [naughty AI](https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY) | 2:39 | 2025-01-24 |  |
+| [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 | 2025-02-28 |  |
 | [neggy](https://open.spotify.com/track/5rGEXrrxrx9tax69jK5uR4) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [neggy](https://open.spotify.com/album/5tUeZZk64jK7EWDkvmbSN7) | 2:10 | 2024-06-06 | 2024-08-16 |
 | [nethertoxin](https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD) | [sxdboy](https://open.spotify.com/artist/03ovoqlxlJGOrsP537cZpX) | [nethertoxin](https://open.spotify.com/album/1ogzj6cjWlE9nm2IO7DJ0b) | 2:48 | 2023-02-17 | 2023-09-08 |
 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2022-11-18 | 2023-01-13 |
@@ -833,7 +835,7 @@
 | [Semblance](https://open.spotify.com/track/3pZwtA8u45KhTv16xltv13) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3) | [Semblance](https://open.spotify.com/album/0mVZ8y8xYwTLSRwblj2KBA) | 2:36 | 2023-12-22 | 2024-03-15 |
 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-09-07 | 2022-11-11 |
 | [Seraphim](https://open.spotify.com/track/4DXDoLAvsGsa0SAeeW4e54) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Seraphim](https://open.spotify.com/album/7GfGmfnbD1c3CvcPkFeR0l) | 3:13 | 2023-04-06 | 2023-09-15 |
-| [serenity in torture](https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [serenity in torture](https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ) | 3:01 | 2024-11-15 |  |
+| [serenity in torture](https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [serenity in torture](https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ) | 3:01 | 2024-11-15 | 2025-02-28 |
 | [Serotonin](https://open.spotify.com/track/42wUK6XAnMNv3CULQZ7HMm) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 1:50 | 2023-09-14 | 2023-11-11 |
 | [SERPENTINE](https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [SERPENTINE](https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR) | 3:18 | 2024-10-10 |  |
 | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 | 2023-02-17 | 2023-07-07 |
@@ -900,7 +902,7 @@
 | [SUICIDE](https://open.spotify.com/track/4atpzYOS3lR8a99kgp1kcC) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [SUICIDE](https://open.spotify.com/album/1vQpCZWCnmYWgF1ZVRCUFt) | 3:47 | 2021-12-27 | 2022-04-01 |
 | [Sum Kinda Syko](https://open.spotify.com/track/0BWQxDNl3yj7CjWRQ9NKJO) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Sum Kinda Syko](https://open.spotify.com/album/5vaiMc8YWWBaosDCLRrA40) | 2:52 | 2024-10-17 |  |
 | [sunDae](https://open.spotify.com/track/55yEJDj9jcgbZaDCY30Xmd) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [sunDae](https://open.spotify.com/album/7CUZVkweNek1Be07QednRF) | 3:06 | 2024-04-05 | 2024-06-28 |
-| [Sunshine](https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Sunshine](https://open.spotify.com/album/4TnbaltnutcYlayEsaapT4) | 3:47 | 2025-01-10 |  |
+| [Sunshine](https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Sunshine](https://open.spotify.com/album/4TnbaltnutcYlayEsaapT4) | 3:47 | 2025-01-10 | 2025-02-28 |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-07 | 2022-10-14 |
 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 | 2022-05-17 | 2022-08-26 |
 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 | 2024-02-09 | 2024-06-22 |

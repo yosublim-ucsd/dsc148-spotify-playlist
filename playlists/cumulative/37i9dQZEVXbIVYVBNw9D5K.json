@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 145573,
       "name": "Damlars\u0131n",
       "url": "https://open.spotify.com/track/4fpVozMARIh1ZoLVaHSjtt"
@@ -5778,6 +5778,24 @@
       "duration_ms": 185538,
       "name": "Derinden / bazen hayat \u00e7ok k\u00f6t\u00fc gidiyor ve ben onu nas\u0131l anlataca\u011f\u0131m\u0131 bilemiyorum",
       "url": "https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV"
+    },
+    {
+      "album": {
+        "name": "Daha Derine",
+        "url": "https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264067,
+      "name": "Derine",
+      "url": "https://open.spotify.com/track/55CUqmPM8tGtzPt0XRAHtt"
     },
     {
       "album": {
@@ -9972,7 +9990,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 232727,
       "name": "HER G\u00dcN A\u011eLADIM",
       "url": "https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn"
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158241,
       "name": "H\u00fczn\u00fc Hecem",
       "url": "https://open.spotify.com/track/3OKCljxHDet7MaQ83o6l6s"
@@ -22008,6 +22026,24 @@
       "duration_ms": 130974,
       "name": "\u00c7\u00d6ZEMEZLER",
       "url": "https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u00f6zemezsin",
+        "url": "https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277166,
+      "name": "\u00c7\u00f6zemezsin",
+      "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"
     },
     {
       "album": {

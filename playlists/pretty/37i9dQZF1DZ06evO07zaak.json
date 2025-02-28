@@ -1,12 +1,12 @@
 {
   "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
-  "num_followers": 1494916,
+  "num_followers": 1495730,
   "original_name": "This Is Pink Floyd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAABHEvs/7FewOJVZtIOaz+d7",
+  "snapshot_id": "Z75ZgAAAAABYjzJF7VKPNJEGSw0x2/h3",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 206493,
       "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
       "url": "https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes - Part 1 - Edit (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "url": "https://open.spotify.com/album/6RhYZ6GtyfKczfaGs8QAUj"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Echoes - Part 1 - Edit - Live at Pompeii - MCMLXXII - 2025 Mix",
+      "url": "https://open.spotify.com/track/4cneE6tz6nHEcX2ChM8ISO"
     },
     {
       "added_at": null,
@@ -587,6 +603,22 @@
       "duration_ms": 524753,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 249441,
+      "name": "The Fletcher Memorial Home",
+      "url": "https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI"
     }
   ],
   "unique_name": "This Is Pink Floyd",

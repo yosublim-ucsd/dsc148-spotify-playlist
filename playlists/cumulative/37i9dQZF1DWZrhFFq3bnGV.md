@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adrian Setiawan
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Avalokiteshvara
 
-224 songs - 15 hr 42 min
+227 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Long Way](https://open.spotify.com/track/6JYBO8re5EdRsPl3pBuHCJ) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Lifeline: Introduction](https://open.spotify.com/album/7x5vgalONHH4KwVVbnPJgs) | 3:35 | 2023-03-03 | 2023-08-25 |
 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 | 2023-03-24 |  |
 | [Affirmation \- Studio Version Radio Edit](https://open.spotify.com/track/5T51qyxzXcjClnLStmoyFW) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Affirmation](https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP) | 3:29 | 2022-09-02 | 2023-03-25 |
+| [After All](https://open.spotify.com/track/7tn0pGHHxcR5EVFcGHkhea) | [Avalokiteshvara](https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2) | [Kamardikan](https://open.spotify.com/album/2CFNuSpPf44iNrYY089Xfw) | 4:08 | 2025-02-27 |  |
 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 | 2022-09-02 |  |
 | [Against The World](https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF) | [Aditya Ong Trio](https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4), [Alfado Jacob](https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT) | [32](https://open.spotify.com/album/1VW732WmXOw1xSGZoI77Jr) | 10:24 | 2023-07-18 | 2025-02-07 |
 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
@@ -103,6 +104,7 @@
 | [House of Blues](https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [House of Blues](https://open.spotify.com/album/6Ljmeh56kmboZWKacGtR5S) | 3:33 | 2023-06-29 | 2024-06-01 |
 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 | 2023-11-28 |  |
 | [Hujan Deras](https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/4FlqZJ6BerAFaiaSEbqtDW) | 3:18 | 2024-05-17 |  |
+| [I Am](https://open.spotify.com/track/4UvnQjky2iIGSWjaFTZxJr) | [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Two Pawns / Crutched](https://open.spotify.com/album/1CNF6Y0xdxT9GGeg3WcjQ6) | 3:55 | 2025-02-28 |  |
 | [I Am The Bass](https://open.spotify.com/track/3Oj6SHWTkRpJOOE8AIkjZG) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [I Am The Bass](https://open.spotify.com/album/0qMcpjxXi0tQP9SmjZtOED) | 3:30 | 2022-09-02 | 2023-08-18 |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-11-28 | 2024-04-19 |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2024-04-18 |  |
@@ -205,6 +207,7 @@
 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 | 2023-06-08 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 | 2023-09-29 |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 |  |
+| [Squares](https://open.spotify.com/track/49qpkL3x01LfJV3JuIh6Iz) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Squares](https://open.spotify.com/album/4nhNcys5Ah1RUSkkg5xnQJ) | 2:16 | 2025-02-27 |  |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 | 2024-08-02 |
 | [Sudahlah](https://open.spotify.com/track/7y47EKi0erMGIBWh7YrJj8) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Sudahlah](https://open.spotify.com/album/62UIRGXligEluRl9u4H9Tx) | 3:12 | 2024-06-27 |  |
 | [Sugar Crush](https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir) | [newbloodfusion](https://open.spotify.com/artist/6OYpsgVFA2EBkd7H5j4JCk) | [Sugar Crush](https://open.spotify.com/album/2MTjLTwiDDX5FSo8jitJxU) | 5:40 | 2022-09-02 | 2023-02-04 |

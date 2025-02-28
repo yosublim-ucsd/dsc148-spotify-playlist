@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 98482,
       "name": "c.e.d. (manic)",
       "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 123724,
       "name": "crying in the club",
       "url": "https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 97430,
       "name": "EDGE PLAY - theSpackster Remix",
       "url": "https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 139591,
       "name": "I'm Your Baby",
       "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 153124,
       "name": "IDOLiZER",
       "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 100005,
       "name": "im part of the PAWblem\u200b!\u200b!",
       "url": "https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 138000,
       "name": "KNOT SONG",
       "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "re:ARRANGEMENT",
+        "url": "https://open.spotify.com/album/3LjZvnwH2Rt1INPhO4BEe4"
+      },
+      "artists": [
+        {
+          "name": "Winchifrost",
+          "url": "https://open.spotify.com/artist/1D95PX0z0Pi7DlMml1vCle"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "re:ARRANGEMENT",
+      "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
+    },
+    {
+      "album": {
         "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
         "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "\u4eba\u6c17\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b5\u30fc\u2606",
       "url": "https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk"

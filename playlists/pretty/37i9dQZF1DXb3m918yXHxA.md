@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646,177 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,646,315 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 98 | [Livin' It Up](https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:21 |
 | 99 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 |
 | 100 | [Alibis](https://open.spotify.com/track/5t8YfppCGP89RcJrjs4Ybj) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7), [Joe Pizzulo](https://open.spotify.com/artist/1H7ISY9TtKU7Ogx2VhKq36) | [Sergio Mendes & Brasil ’66\-86: Classics Volume 18](https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt) | 4:02 |
-| 101 | [Don't Worry Baby](https://open.spotify.com/track/52Krp6mRgLftreo87WPmc8) | [Vapour Trails](https://open.spotify.com/artist/2VUi5k1ar0hmETZwmtbgUV) | [Vapour Trails](https://open.spotify.com/album/5QBL2AL4zaqQQ5wEMmO9e6) | 3:45 |
+| 101 | [Don't Worry Baby](https://open.spotify.com/track/52Krp6mRgLftreo87WPmc8) | [Vapour Trails](https://open.spotify.com/artist/3Q9jy8TDFelvCexCau67Qz) | [Vapour Trails](https://open.spotify.com/album/5QBL2AL4zaqQQ5wEMmO9e6) | 3:45 |
 | 102 | [We Both Tried](https://open.spotify.com/track/7sEXLdS7JPP31JB7IMbI2v) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt) | [Single](https://open.spotify.com/album/67fYxVwx4FwX2yG4jvX2Gp) | 4:55 |
 | 103 | [Ain't Nothin' For A Heartache](https://open.spotify.com/track/5npuKs3eItAgjBOJr8jiMm) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Strikes Twice](https://open.spotify.com/album/6PdpY0vdqR1kGbJXYCdygU) | 3:18 |
 | 104 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |

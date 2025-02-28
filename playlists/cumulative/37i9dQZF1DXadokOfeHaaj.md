@@ -2,9 +2,9 @@
 
 ### [Indie Electronic ](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new electronic indie music\. Cover: ANOTR
+> The best new electronic indie music\. Cover: Anthony Szmierek
 
-273 songs - 17 hr 16 min
+275 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-07-03 |  |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-21 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-05-24 | 2025-02-19 |
-| [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 |  |
+| [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 | 2025-02-28 |
 | [Break It Off](https://open.spotify.com/track/1Z8PTHAZDU21sc4YI2FuHe) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [Break It Off](https://open.spotify.com/album/6cJlNHxEOuGgKvNu2jJy3b) | 3:17 | 2024-04-12 | 2025-02-14 |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-09-19 | 2025-02-14 |
 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-03 |  |
@@ -79,6 +79,7 @@
 | [Devil](https://open.spotify.com/track/39y33UuT4HDrMVWk2jY61F) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR) | [Devil](https://open.spotify.com/album/2vmLA0MTcRva2ZJfsC5ZIr) | 2:52 | 2024-08-15 |  |
 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 | 2025-02-14 |
 | [Discotheque](https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Discotheque](https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04) | 6:45 | 2024-03-01 | 2025-01-17 |
+| [Distractions \- Edit](https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Distractions](https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX) | 2:26 | 2025-02-28 |  |
 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 | 2021-10-28 | 2024-04-12 |
 | [Don't Try This At Home](https://open.spotify.com/track/4MtZ981NhMVxXCwu6hdwyA) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Don't Try This At Home](https://open.spotify.com/album/2piM4Hh6vF1EMobLn92bqq) | 3:33 | 2025-01-31 | 2025-02-14 |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2024-03-01 | 2024-04-19 |
@@ -232,9 +233,10 @@
 | [Stranger's Town](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Stranger's Town](https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t) | 3:24 | 2024-08-15 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 |  |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
+| [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 |  |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-22 | 2025-01-17 |
 | [Talks](https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Talks](https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr) | 4:17 | 2021-10-28 | 2024-03-22 |
-| [TEARS4ALOVER](https://open.spotify.com/track/0pg8bRhiPSK1Dd8zrUdm8y) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [TEARS4ALOVER](https://open.spotify.com/album/0gP6xTqemZ7rnjnsICldU0) | 3:14 | 2025-02-14 |  |
+| [TEARS4ALOVER](https://open.spotify.com/track/0pg8bRhiPSK1Dd8zrUdm8y) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [TEARS4ALOVER](https://open.spotify.com/album/0gP6xTqemZ7rnjnsICldU0) | 3:14 | 2025-02-14 | 2025-02-28 |
 | [The City Never Felt So Good](https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [The City Never Felt So Good](https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi) | 2:56 | 2024-06-21 | 2025-02-14 |
 | [The Deep](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 5:31 | 2024-10-03 |  |
 | [The Feeling in My Fingertips](https://open.spotify.com/track/6jGGcDcYPO9iNvkmpBaEth) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Feeling in My Fingertips](https://open.spotify.com/album/7i9Y3pLu36bJWVsaIdlfso) | 3:09 | 2025-01-17 | 2025-02-14 |

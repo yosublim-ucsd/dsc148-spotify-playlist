@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-414 songs - 19 hr 50 min
+415 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 |  |
 | [Coelum](https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Coelum](https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf) | 2:10 | 2024-12-13 |  |
-| [Colossal](https://open.spotify.com/track/68oGqtxHckvCtcDp3LqDeh) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Colossal](https://open.spotify.com/album/1ejQ8yvfNMsGWaJ68HcR6b) | 2:36 | 2024-11-15 |  |
+| [Colossal](https://open.spotify.com/track/68oGqtxHckvCtcDp3LqDeh) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Colossal](https://open.spotify.com/album/1ejQ8yvfNMsGWaJ68HcR6b) | 2:36 | 2024-11-15 | 2025-02-28 |
 | [Come Again](https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Come Again](https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu) | 3:23 | 2023-08-22 |  |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2023-08-22 |  |
 | [Complete](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Complete](https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6) | 3:37 | 2023-08-22 | 2024-03-08 |
@@ -256,6 +256,7 @@
 | [Niigata](https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Niigata](https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71) | 2:38 | 2025-01-10 |  |
 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 | 2023-08-22 |  |
 | [No Regrets](https://open.spotify.com/track/21kmhxRVUAyJmSN8znuakd) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [No Regrets](https://open.spotify.com/album/2DybjjB4GdCvTmKUwe5ZBB) | 2:00 | 2025-02-07 |  |
+| [No Sweat!](https://open.spotify.com/track/5Ns8PVRnTWDqi0pCSMR3in) | [Sundaze](https://open.spotify.com/artist/2YxIkLC16Y21afaSqjP9b0) | [No Sweat!](https://open.spotify.com/album/6qaryrOkBbHT3xkBF4xLLJ) | 2:02 | 2025-02-21 |  |
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 | 2024-04-19 |
 | [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 | 2024-03-20 | 2024-08-24 |
 | [Not Water But Rest](https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA) | [Shake Stew](https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6), [Precious Nnebedum](https://open.spotify.com/artist/5O5UtvOnsPfsyzUDLc7tml) | [Lila](https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf) | 5:56 | 2023-10-13 | 2025-01-12 |

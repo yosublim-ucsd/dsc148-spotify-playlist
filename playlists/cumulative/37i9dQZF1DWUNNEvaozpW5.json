@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Robe con Leiva.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 248773,
       "name": "A un minuto de ti (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/3DXW50R1GIUkhq6zctX2Uz"
+    },
+    {
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/39Po4k6K7vnksZSa5UTFuI"
+      },
+      "artists": [
+        {
+          "name": "faLsantes",
+          "url": "https://open.spotify.com/artist/3eFyXQROHxu4eGADc5QFiu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188031,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/6TjBSIUX9qftOMm52EYNw9"
     },
     {
       "album": {
@@ -1027,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Peligro!",
+        "url": "https://open.spotify.com/album/2UTPQ6g8F0RfCG1BYdZpFP"
+      },
+      "artists": [
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189136,
+      "name": "Bienvenido al infierno",
+      "url": "https://open.spotify.com/track/420HlXTEdjuO06LYByRb0J"
+    },
+    {
+      "album": {
         "name": "Bombas en Madrid",
         "url": "https://open.spotify.com/album/3CvHESo4ZP1BCP9sLHEZZ0"
       },
@@ -1403,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Ca\u00edda Libre (feat. Robe)",
+        "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211590,
+      "name": "Ca\u00edda Libre (feat. Robe)",
+      "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
+    },
+    {
+      "album": {
         "name": "Cero",
         "url": "https://open.spotify.com/album/08D2aSYaV7qHvjbpmcM5e3"
       },
@@ -1486,7 +1544,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -3350,7 +3408,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 265120,
       "name": "El Principito",
       "url": "https://open.spotify.com/track/2BjM4V9kYul5HMaS3sCv4d"
@@ -3740,7 +3798,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 281149,
       "name": "Escenario de guerra",
       "url": "https://open.spotify.com/track/5JeVKmV6v6Bp99hPvu4uHb"
@@ -5168,6 +5226,24 @@
       "duration_ms": 199551,
       "name": "La Orilla",
       "url": "https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql"
+    },
+    {
+      "album": {
+        "name": "La Paz",
+        "url": "https://open.spotify.com/album/3ybOrTF3oVakYgNUYpSZyu"
+      },
+      "artists": [
+        {
+          "name": "Anaut",
+          "url": "https://open.spotify.com/artist/7hHpfWb3pePsoynfGjb3wS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297157,
+      "name": "La Paz",
+      "url": "https://open.spotify.com/track/2YWBvVXb5GPo8cKiEvnSHG"
     },
     {
       "album": {
@@ -6814,7 +6890,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 205954,
       "name": "Mitos del R&R",
       "url": "https://open.spotify.com/track/0R8zvoDfz1BryTuYgwnAIg"
@@ -6876,6 +6952,24 @@
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
+    },
+    {
+      "album": {
+        "name": "Mundo triste y hermoso",
+        "url": "https://open.spotify.com/album/3tyjSlKposYa9ZAweKv10o"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Mundo triste y hermoso",
+      "url": "https://open.spotify.com/track/0W4SQFoXsPaiVW1IEoKoxw"
     },
     {
       "album": {
@@ -7474,7 +7568,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 233807,
       "name": "Para llegar hasta aqu\u00ed",
       "url": "https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4"
@@ -7938,7 +8032,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 157639,
       "name": "Puede que el tiempo nos estafara",
       "url": "https://open.spotify.com/track/4uTlfy6t3gcFHVpW6jeUtL"
@@ -9350,7 +9444,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 244320,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/7iUWlTiLfuBqVUdlxj3I6B"
@@ -9574,7 +9668,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 369546,
       "name": "Todo se desvanece (Al amanecer)",
       "url": "https://open.spotify.com/track/3vDSJAQdsQb9bLl3dFM3gy"
@@ -10388,6 +10482,24 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "album": {
+        "name": "Ya lo s\u00e9",
+        "url": "https://open.spotify.com/album/62dVvo65qm9J7ciAncGLVf"
+      },
+      "artists": [
+        {
+          "name": "Les Camisetes",
+          "url": "https://open.spotify.com/artist/0NfzJL4JCERuUD6GOqacGl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265119,
+      "name": "Ya lo s\u00e9",
+      "url": "https://open.spotify.com/track/4ucfKLdOGgDFOSG09ElRzY"
     },
     {
       "album": {

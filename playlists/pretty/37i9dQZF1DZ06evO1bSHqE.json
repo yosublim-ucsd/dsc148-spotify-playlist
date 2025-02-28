@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 893272,
+  "num_followers": 893400,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAAg4cZUE8EroA44qp4iDfRP",
+  "snapshot_id": "Z75ZgAAAAADc4PXWOTkEtTIHqHmIXRuJ",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIND YOUR BUSINESS",
-        "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
       },
       "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 195692,
-      "name": "MIND YOUR BUSINESS",
-      "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
+      "duration_ms": 202720,
+      "name": "Do Somethin'",
+      "url": "https://open.spotify.com/track/77rzoJ5VaC2BLB1IkjGnoi"
     }
   ],
   "unique_name": "This Is Britney Spears",

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bleeding Through
 
-1,135 songs - 2 day 21 hr 55 min
+1,136 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-07-13 | 2022-07-23 |
 | [This Means War](https://open.spotify.com/track/2ccZzNAvtr6dDzvTbfhQGf) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:55 | 2023-04-21 | 2023-12-09 |
 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 | 2022-08-12 | 2023-05-05 |
+| [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-02-21 |  |
 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 | 2022-06-24 | 2023-03-18 |
 | [Throne of the Sunset](https://open.spotify.com/track/5ATwGbGDPUoSfAx4KaDyYH) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Throne of the Sunset](https://open.spotify.com/album/6rH3SOru96QCO7DKgCZkiS) | 4:08 | 2023-08-18 | 2023-09-30 |
 | [Through Life and Death](https://open.spotify.com/track/3WQBZ03AEnce4fHmLyEcy4) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Through Life and Death](https://open.spotify.com/album/1FSSug8vSM8W1oCR61ZWfA) | 3:46 | 2021-12-17 | 2022-02-18 |
@@ -1090,7 +1091,7 @@
 | [Walk Away](https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Walk Away](https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN) | 3:29 | 2024-08-25 | 2025-02-01 |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
-| [wanderlust](https://open.spotify.com/track/7nRLtie4yz2SImR6gs7TQg) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [wanderlust](https://open.spotify.com/album/6WxzOIdhhSUTMdnFt5nzjE) | 2:52 | 2025-01-17 |  |
+| [wanderlust](https://open.spotify.com/track/7nRLtie4yz2SImR6gs7TQg) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [wanderlust](https://open.spotify.com/album/6WxzOIdhhSUTMdnFt5nzjE) | 2:52 | 2025-01-17 | 2025-02-28 |
 | [Wants I Need](https://open.spotify.com/track/1NLm08vnkwjxz1WfxsrXUs) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv) | [Wants I Need](https://open.spotify.com/album/2pvZFLMtLJZL5HzSRWndPA) | 4:19 | 2024-08-12 | 2024-08-27 |
 | [War Time](https://open.spotify.com/track/0Meyr7LVvQ4ptotgWXTLK1) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi), [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [NINE](https://open.spotify.com/album/48doH9nnym0XhIm1587p3F) | 4:16 | 2025-02-21 |  |
 | [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-07-28 | 2023-09-16 |

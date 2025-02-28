@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> welcome to the underground\. greetings from maria somerville.
+> welcome to the underground\. greetings from bdrmm.
 
-219 songs - 13 hr 36 min
+224 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 | 2025-02-21 |  |
 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 | 2024-07-26 | 2024-11-23 |
 | [CHUNKS](https://open.spotify.com/track/6uBuSsnkhwnIwBnzGadzkX) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [CHUNKS](https://open.spotify.com/album/2tQEhPnSgXspePYq4eNhQ5) | 2:57 | 2024-12-06 |  |
+| [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-28 |  |
 | [Circle Games](https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Circle Games](https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD) | 4:09 | 2024-11-22 |  |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-06-14 | 2024-07-27 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-06-14 | 2024-12-06 |
@@ -126,6 +127,7 @@
 | [Madonna](https://open.spotify.com/track/54V6HnExqIBO0jD4QO5mwD) | [Flat Party](https://open.spotify.com/artist/0LEQNISkhGE62KwVeheQ4p) | [Madonna](https://open.spotify.com/album/0lyqP7gagk7ukwH3qXAqKM) | 3:19 | 2024-11-22 |  |
 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 | 2024-06-14 | 2024-08-17 |
 | [Micro](https://open.spotify.com/track/0IJv2c4MsV3RQDBTFrnKtD) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Micro](https://open.spotify.com/album/18jWrGTwzqtp1Bs9oJZtSL) | 3:15 | 2024-06-14 | 2024-12-06 |
+| [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 | 2025-02-28 |  |
 | [Miss Together](https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w) | [Velvetine](https://open.spotify.com/artist/6nGzm3tJwcjoa7LLtjElNa) | [Miss Together](https://open.spotify.com/album/3Z2lMasvQqJx1XjDfTWjtq) | 3:57 | 2025-02-21 |  |
 | [Modern Myth](https://open.spotify.com/track/4eazENP23FtK9VfnjGEFPk) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Modern Myth](https://open.spotify.com/album/0VHCJf8bSfkkWjuo6DzcdZ) | 3:24 | 2024-06-14 | 2024-07-13 |
 | [Money](https://open.spotify.com/track/47LXtQv4tMgpaPZAYGoXBs) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Money](https://open.spotify.com/album/6TCSpRxi9aiguaHNQpMjeS) | 5:00 | 2024-06-14 | 2024-12-06 |
@@ -176,11 +178,14 @@
 | [Sit Down](https://open.spotify.com/track/0iG660xtCKsqkhQAKZXgKm) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Sit Down](https://open.spotify.com/album/4Cdiz8h4ii3gDqX0l0WXLo) | 3:06 | 2024-06-14 | 2024-12-06 |
 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 | 2025-02-07 |  |
 | [skipping tiles](https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pushing daisies](https://open.spotify.com/album/07naAGnFibTManFY20vcUL) | 2:16 | 2024-08-16 |  |
+| [Snares](https://open.spotify.com/track/382qAtuQEUpqa4ILGWfeWY) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/2a7WAptRLsXA4dOnGIdn5a) | 4:41 | 2025-02-28 |  |
 | [So Medieval](https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:54 | 2024-06-14 | 2024-12-06 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-06 | 2025-01-17 |
+| [Something New](https://open.spotify.com/track/1KkZL7Iw1Rh0qUBTlnJnWS) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Something New](https://open.spotify.com/album/6nF0cIZaxWuPxAX1nQq8Ic) | 2:40 | 2025-02-28 |  |
 | [Sour Milk](https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [New Wave Vaudeville](https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7) | 3:23 | 2025-01-17 |  |
 | [Space Girl](https://open.spotify.com/track/0Adu5x2aj2vFEnEikNoHH8) | [The Parallels](https://open.spotify.com/artist/03cbAOxjrgTBq2TixSwEVA) | [Space Girl](https://open.spotify.com/album/33Ja63rkuL0bEPRt6UKtjq) | 3:58 | 2024-06-14 | 2024-11-23 |
 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 | 2024-11-22 |  |
+| [Stand On Yr Star](https://open.spotify.com/track/2lJNYiBECgPXmNcKpuPSaj) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Stand On Yr Star](https://open.spotify.com/album/71Pp0Mal3JcdvIkKw42IfY) | 3:00 | 2025-02-28 |  |
 | [Staying Alive](https://open.spotify.com/track/1O3Ci5e4Ca936YoJTyOUzx) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Staying Alive](https://open.spotify.com/album/2iZEodFeofrguHR9RPZAZt) | 3:14 | 2024-08-16 |  |
 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 | 2024-06-14 | 2024-09-06 |
 | [Strobe Lights](https://open.spotify.com/track/3GJIr0dKOgBzIGJIYZN7Yb) | [Borough Council](https://open.spotify.com/artist/3IFJ7fiCYTHMD2AOmVaxlI) | [Strobe Lights](https://open.spotify.com/album/7ltYQhxKcZxV1eWQmBVBsM) | 3:47 | 2024-07-12 | 2025-01-17 |

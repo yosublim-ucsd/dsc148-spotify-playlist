@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Bite me",
+        "url": "https://open.spotify.com/album/1t4dt2sernqUnKEJTb2I6K"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188298,
+      "name": "Bite me",
+      "url": "https://open.spotify.com/track/1ZJ4HJwoWvruY8QQDeWx6i"
+    },
+    {
+      "album": {
         "name": "blonde",
         "url": "https://open.spotify.com/album/79NREFnWQHD376rxBfNrTv"
       },
@@ -1031,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "old sun, new horizon",
+        "url": "https://open.spotify.com/album/2GE74gJeibVhjY53B8ae7m"
+      },
+      "artists": [
+        {
+          "name": "Long Tall Jefferson",
+          "url": "https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218228,
+      "name": "feel like myself",
+      "url": "https://open.spotify.com/track/1FmVcidJ8PFbgRVtDFKmya"
+    },
+    {
+      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 187854,
       "name": "Heaven or Hell",
       "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
@@ -2204,7 +2240,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 180750,
       "name": "New Her",
       "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 173494,
       "name": "Scars On Your Heart",
       "url": "https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1"
@@ -2844,6 +2880,24 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185576,
+      "name": "Somebody I Don't Know",
+      "url": "https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe"
     },
     {
       "album": {

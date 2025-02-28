@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "Arrogante",
+        "url": "https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Vinz Turner",
+          "url": "https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143908,
+      "name": "Arrogante",
+      "url": "https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp"
+    },
+    {
+      "album": {
         "name": "Numeri primi",
         "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
       },

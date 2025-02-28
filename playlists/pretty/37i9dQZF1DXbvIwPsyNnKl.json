@@ -1,15 +1,15 @@
 {
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Dreycruz, Bert Symoun",
-  "num_followers": 1307638,
+  "num_followers": 1308053,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7WjPwAAAABeGSNuIx8yeEdH0wf1YRGj",
+  "snapshot_id": "Z7/c8AAAAABUKlBTYHyu8i4SLqtPMllu",
   "tracks": [
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "B4 I LET YOU GO",
         "url": "https://open.spotify.com/album/7JYV3pHS2CmhJmnRI9ga3F"
@@ -29,27 +29,75 @@
       "url": "https://open.spotify.com/track/3ubEHwfx9d54LTme8Ft8gp"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
-        "name": "No Snitches",
-        "url": "https://open.spotify.com/album/5DcgRKuAgYIHCCPxgeZ2CX"
+        "name": "RUN IT BACK!",
+        "url": "https://open.spotify.com/album/2HMbdFuzIW2apSElyVVGX5"
       },
       "artists": [
         {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
         },
+        {
+          "name": "CA$HMAN",
+          "url": "https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA"
+        },
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "Daarth",
+          "url": "https://open.spotify.com/artist/32xQ6EBQOP6dIGDbJ7cSAH"
+        }
+      ],
+      "duration_ms": 116541,
+      "name": "RUN IT BACK!",
+      "url": "https://open.spotify.com/track/4sHXS0s9Oq8I29mKEhaeEZ"
+    },
+    {
+      "added_at": "2025-02-27 03:33:04",
+      "album": {
+        "name": "My Day",
+        "url": "https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl"
+      },
+      "artists": [
         {
           "name": "HELLMERRY",
           "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
         }
       ],
-      "duration_ms": 222000,
-      "name": "No Snitches",
-      "url": "https://open.spotify.com/track/1wYjp1056yxvsgrjJ3G7L8"
+      "duration_ms": 229714,
+      "name": "My Day",
+      "url": "https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
+      "album": {
+        "name": "Aanhin",
+        "url": "https://open.spotify.com/album/1dozfRfM92Ye6AXjsiejnA"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        },
+        {
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        },
+        {
+          "name": "Jawz",
+          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Aanhin",
+      "url": "https://open.spotify.com/track/2M8kxHDUokVYpusBRjh6PX"
+    },
+    {
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Wag Ipagsabi",
         "url": "https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3"
@@ -69,23 +117,27 @@
       "url": "https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
-        "name": "My Day",
-        "url": "https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl"
+        "name": "No Snitches",
+        "url": "https://open.spotify.com/album/5DcgRKuAgYIHCCPxgeZ2CX"
       },
       "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        },
         {
           "name": "HELLMERRY",
           "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
         }
       ],
-      "duration_ms": 229714,
-      "name": "My Day",
-      "url": "https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW"
+      "duration_ms": 222000,
+      "name": "No Snitches",
+      "url": "https://open.spotify.com/track/1wYjp1056yxvsgrjJ3G7L8"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -109,7 +161,7 @@
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
@@ -125,7 +177,7 @@
       "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Wag Na",
         "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
@@ -145,7 +197,7 @@
       "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Gusto Ko Sakin Ka Lang",
         "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
@@ -161,7 +213,7 @@
       "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Burgis",
         "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
@@ -201,7 +253,7 @@
       "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Babaero",
         "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
@@ -221,7 +273,7 @@
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
@@ -241,7 +293,7 @@
       "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Faded (Raw)",
         "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
@@ -257,7 +309,7 @@
       "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Tequila Rose",
         "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Dikapamigay",
         "url": "https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "4:AM",
         "url": "https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "ANSWER THE G",
         "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Makasarili Malambing",
         "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
@@ -369,7 +421,7 @@
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Mapagdamot",
         "url": "https://open.spotify.com/album/0wajABC3XZdnEdJKyK42S9"
@@ -385,7 +437,7 @@
       "url": "https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/57kIwmgt1i3V2KpC1dKtTY"
@@ -405,7 +457,7 @@
       "url": "https://open.spotify.com/track/4NnmCGyfZYE50geEwOUoo7"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Halimaw",
         "url": "https://open.spotify.com/album/0al0EZ44pv7yPrnxCEoz63"
@@ -433,7 +485,7 @@
       "url": "https://open.spotify.com/track/3vOiNX9nb0sfK6ZnYb3VZl"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou"
@@ -449,7 +501,7 @@
       "url": "https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "SUBOMOTO (Hev Abi Remix)",
         "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Kunan Mong Pic",
         "url": "https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Mailap",
         "url": "https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV"
@@ -513,7 +565,7 @@
       "url": "https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
@@ -537,7 +589,7 @@
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "WADADADENG!",
         "url": "https://open.spotify.com/album/09YfFV0VRkkHjZJ9XI2OsX"
@@ -573,7 +625,7 @@
       "url": "https://open.spotify.com/track/0AuZUiq6K6E9l2GOWTuy5c"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "2Joints & Harmony",
         "url": "https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "SOBRANG SOLID",
         "url": "https://open.spotify.com/album/7GZveuL9U8QsWEQFeG7pyC"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Sakin ka",
         "url": "https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/04yGGYDEd11Mxm8NWIN0JT"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/4wrhCbOGYkyY26aBSLCuex"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "213",
         "url": "https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY"
@@ -673,7 +725,7 @@
       "url": "https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Elohim",
         "url": "https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs"
@@ -689,7 +741,7 @@
       "url": "https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "TALKSHIT",
         "url": "https://open.spotify.com/album/09mUig5tOtFDbYbHmPAk8H"
@@ -705,7 +757,7 @@
       "url": "https://open.spotify.com/track/6wWxz6Qg8OUnuntgSkeP4N"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "LANGIT",
         "url": "https://open.spotify.com/album/5z0V6Kj8JJY0vvN0VHsRL1"
@@ -729,7 +781,7 @@
       "url": "https://open.spotify.com/track/5tStP14hZgfFSRNabmrV0c"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Smoke Tayo Girl",
         "url": "https://open.spotify.com/album/7KXjHl96ZypgKjIoCuYUUb"
@@ -749,7 +801,7 @@
       "url": "https://open.spotify.com/track/0xWwIIiWXXHLeat23DJ0dF"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "TOTOO AKO SAYO",
         "url": "https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr"
@@ -765,7 +817,7 @@
       "url": "https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "SAPATOS KO",
         "url": "https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS"
@@ -781,7 +833,7 @@
       "url": "https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "YG Gang",
         "url": "https://open.spotify.com/album/4W2BjJnvqOtvyUmioI06e3"
@@ -801,7 +853,7 @@
       "url": "https://open.spotify.com/track/4WMoQFFvkK16nBH3PWFSXu"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Kwentuhan",
         "url": "https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u"
@@ -821,7 +873,7 @@
       "url": "https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Hanap",
         "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "I Dior U",
         "url": "https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo"
@@ -853,7 +905,7 @@
       "url": "https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "SNOWFLAKES",
         "url": "https://open.spotify.com/album/32RJXdgUFNfRjh6bgxXGHv"
@@ -873,7 +925,7 @@
       "url": "https://open.spotify.com/track/5qWiMr7KiX4hhUia2Ll1mi"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "TASTEMAKER",
         "url": "https://open.spotify.com/album/6kFn7QZa5iXBCQILkn5WIS"
@@ -889,7 +941,7 @@
       "url": "https://open.spotify.com/track/5I6z5aTiHvsUH5Ra7USWq1"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Maharot",
         "url": "https://open.spotify.com/album/0qICM7AAGrKNLRuOdh2Pdv"
@@ -905,7 +957,7 @@
       "url": "https://open.spotify.com/track/3kQoCtlLR0q4inrgAzFA6k"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "Dating Gawi",
         "url": "https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h"
@@ -925,43 +977,7 @@
       "url": "https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690"
     },
     {
-      "added_at": "2025-02-19 09:24:15",
-      "album": {
-        "name": "Swanton Bomb",
-        "url": "https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT"
-      },
-      "artists": [
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Swanton Bomb",
-      "url": "https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1"
-    },
-    {
-      "added_at": "2025-02-19 09:24:15",
-      "album": {
-        "name": "Wait (Teka Lang)",
-        "url": "https://open.spotify.com/album/3IXv5Y8ExzRIz2rS1WqVMI"
-      },
-      "artists": [
-        {
-          "name": "PLAYERTWO",
-          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
-        }
-      ],
-      "duration_ms": 180625,
-      "name": "Wait (Teka Lang)",
-      "url": "https://open.spotify.com/track/79u2BIQd1v81BbpXcqqFuQ"
-    },
-    {
-      "added_at": "2025-02-19 09:24:15",
+      "added_at": "2025-02-27 03:33:04",
       "album": {
         "name": "GANG KO",
         "url": "https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg"

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> The best new music by independent artists and labels\. Cover artist: Grimm Lynn, Artwork: Isu Kim
+> The best new music by independent artists and labels\. Cover artist: Lindsay Chia, Artwork: Isu Kim
 
 7,752 songs - 17 day 12 hr 32 min
 

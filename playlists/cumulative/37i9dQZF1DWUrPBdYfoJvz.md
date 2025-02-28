@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-192 songs - 22 hr 25 min
+195 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,11 +85,13 @@
 | [Fragment II](https://open.spotify.com/track/7vv4tJIsMFm3XnDHikiwIc) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [Fragment](https://open.spotify.com/album/7505vXtzFDmbNt4QRKE5by) | 4:00 | 2022-04-20 |  |
 | [Freeze](https://open.spotify.com/track/3NsCJjms6R8JLbzmRCDJ9Y) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Angst](https://open.spotify.com/album/7cwcJ8B4QV0Q1wEx9sD6zi) | 6:42 | 2023-12-04 | 2024-04-05 |
 | [Freeze](https://open.spotify.com/track/5mHtUWgWPJ2Oi2440y0XCi) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Angst](https://open.spotify.com/album/1v5SpqSfB6nCgb0jPmoIzL) | 6:42 | 2021-12-22 |  |
+| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2025-02-27 |  |
 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2021-12-22 |  |
 | [Goes By](https://open.spotify.com/track/2Paw6rRs12mZ6AfIhuP9Un) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:10 | 2022-07-11 | 2024-04-19 |
 | [Goes By](https://open.spotify.com/track/6aoYsC8vQmVBQQoE1OOC7d) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/0c0XkZh9vWXg473nchoArI) | 4:12 | 2021-12-22 |  |
 | [Harmony in Blue III](https://open.spotify.com/track/7h1Vds2ETEav7wNP0xtSDg) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 2:41 | 2021-12-22 | 2023-08-25 |
 | [Heath Naval](https://open.spotify.com/track/6yFnvs1PDRhxe3aRaXuyqv) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 4:00 | 2023-03-16 |  |
+| [Heaven Will Come](https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Shards](https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm) | 4:48 | 2025-02-27 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-04-20 |  |
 | [Hyperborea](https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:45 | 2021-12-22 | 2023-08-25 |
 | [I Will](https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 5:44 | 2021-12-22 |  |
@@ -132,6 +134,7 @@
 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2022-08-05 | 2023-03-04 |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2021-12-22 |  |
 | [part i \- altar](https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 4:43 | 2024-08-30 |  |
+| [PHANTOM BRICKWORKS VII](https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS VII](https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1) | 10:42 | 2025-02-27 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2021-12-22 |  |
 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 | 2021-12-22 |  |
 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2021-12-22 | 2022-05-27 |

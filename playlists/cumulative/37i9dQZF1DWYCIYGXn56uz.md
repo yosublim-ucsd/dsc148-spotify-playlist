@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Olly
 
-629 songs - 1 day 5 hr 9 min
+632 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/track/3Uc05rNI4HSR8QAQo6cBdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [CHI L'AVREBBE MAI DETTO](https://open.spotify.com/album/2rwmpOwFQGucSfJi7KZLrp) | 2:57 | 2024-01-18 | 2024-02-07 |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 | 2024-03-15 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 |  |
+| [chiudi quella porta](https://open.spotify.com/track/3n3aCp8myjjE0O205k4vLn) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [chiudi quella porta](https://open.spotify.com/album/1aSntg6DtE83Bwqg3Kb4KU) | 2:55 | 2025-02-27 |  |
 | [chiunque](https://open.spotify.com/track/6Z7OfetiuRQJm7bG9eqWMS) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [chiunque](https://open.spotify.com/album/77yOdgHvUDJ9egxixD4BUy) | 3:00 | 2024-12-19 |  |
 | [Chiuso a chiave](https://open.spotify.com/track/6pb1BaU0sq7uNItXKLlDRH) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Chiuso a chiave](https://open.spotify.com/album/3mhEPFKqz11vRzge21yKEj) | 3:16 | 2024-12-12 | 2025-01-17 |
 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 | 2023-06-15 | 2023-07-07 |
@@ -242,6 +243,7 @@
 | [ho perso il cuore](https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 2:46 | 2024-06-05 | 2024-07-05 |
 | [HO SMESSO DI PIANGERE](https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [HO SMESSO DI PIANGERE](https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb) | 3:12 | 2024-09-05 | 2024-10-18 |
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-06-13 | 2024-10-25 |
+| [Hooligans](https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Hooligans](https://open.spotify.com/album/1PyF7HnieKGg8HtJHdYl0J) | 3:02 | 2025-02-27 |  |
 | [hyperlacrime](https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [hyperlacrime](https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S) | 3:08 | 2024-09-26 | 2024-11-29 |
 | [I colori dell'alba](https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [I colori dell'alba](https://open.spotify.com/album/4czY6mzx9up6r6QWHjDvKO) | 2:54 | 2024-05-09 | 2024-05-24 |
 | [i ragazzi perduti](https://open.spotify.com/track/36iRSpKuwRLq4A9mTbE3eu) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [tutti i colori del buio](https://open.spotify.com/album/6r8Lnm93NaqRStMPUBKhSy) | 3:39 | 2024-05-16 | 2024-06-07 |
@@ -557,6 +559,7 @@
 | [Testa o Croce](https://open.spotify.com/track/3YrI7ZCMy655cpdMQUWCoE) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Testa o Croce](https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38) | 2:27 | 2024-07-04 | 2024-10-18 |
 | [TESTACODA](https://open.spotify.com/track/4ZDBuHhuqmW4591082AfNr) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [TESTACODA](https://open.spotify.com/album/4wLiHRAD0lMpPAiAGoZYdE) | 2:42 | 2025-01-23 |  |
 | [TI AMO E NON LO SAI](https://open.spotify.com/track/5qJxdzS42qg8quay4i4kZE) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [TI AMO E NON LO SAI](https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU) | 2:28 | 2023-06-08 | 2023-06-16 |
+| [Ti ricorderai di noi](https://open.spotify.com/track/26BQgK82HfjraWwtEuaguL) | [Tommy Indaco](https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5) | [Ti ricorderai di noi](https://open.spotify.com/album/0b2D5zLJ3bwDxsNs01pJ6C) | 3:01 | 2025-02-27 |  |
 | [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 | 2024-12-05 |  |
 | [TI SCRIVEREI](https://open.spotify.com/track/1SOtWCEMKvpEgabXuyRxUx) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [TI SCRIVEREI](https://open.spotify.com/album/5S03nIH67yLrJwWyr4pFr3) | 2:58 | 2025-01-23 |  |
 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 | 2023-11-10 |

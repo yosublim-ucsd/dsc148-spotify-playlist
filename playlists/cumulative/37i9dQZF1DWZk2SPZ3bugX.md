@@ -4,7 +4,7 @@
 
 > 🍾
 
-205 songs - 12 hr 7 min
+206 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Straight To The Morning \- Myd Remix](https://open.spotify.com/track/3KLXqJ0Syps75zQbMxE3xE) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Straight To The Morning \(Myd Remix\)](https://open.spotify.com/album/3twoTcse5NGocRQ1zcupQo) | 3:26 | 2022-12-08 | 2023-06-10 |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2023-03-24 |  |
 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 | 2025-02-20 |  |
+| [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 | 2025-02-27 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-12-08 | 2023-03-25 |
 | [The Edge of Light](https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/4AlegZ2nupO33LjHg09HuW) | 3:58 | 2025-01-16 |  |
 | [The Emperor's Groove](https://open.spotify.com/track/1IyvzFu4ZVgjdlkOMEOwA3) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Emperor's Groove](https://open.spotify.com/album/5EXMWL1GVcY30fDQo3Qmqd) | 5:26 | 2022-12-08 | 2023-01-05 |
@@ -212,6 +213,6 @@
 | [Write](https://open.spotify.com/track/59PIUdIghdApPnPxf3TuRP) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Write](https://open.spotify.com/album/4fIur2CSRogNWs8gmxlzdr) | 2:47 | 2023-03-24 | 2023-09-23 |
 | [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 | 2024-12-06 | 2025-02-07 |
 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 | 2022-12-08 | 2023-09-23 |
-| [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-02-09 |  |
+| [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-02-09 | 2025-02-28 |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

@@ -1,29 +1,13 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 267763,
+  "num_followers": 267960,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAAeqRVGRtl0TsjXZWuH9uHA",
+  "snapshot_id": "Z75ZgAAAAADcj3h0dVWqWwbgQmLli+fM",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 254000,
       "name": "Sabanas Blancas",
       "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Regresen el Tiempo",
-      "url": "https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piel Con Piel",
         "url": "https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 243920,
       "name": "Piel Con Piel",
       "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Regresen el Tiempo",
+      "url": "https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 194063,
-      "name": "Solo Mintio",
-      "url": "https://open.spotify.com/track/28SOEtquasClOf55g4PA6N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Se Yo",
         "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 205403,
       "name": "Que Se Yo",
       "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 194063,
+      "name": "Solo Mintio",
+      "url": "https://open.spotify.com/track/28SOEtquasClOf55g4PA6N"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 316003,
+      "name": "Si Tuviera una Fortuna",
+      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Mexico Song",
         "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 316003,
-      "name": "Si Tuviera una Fortuna",
-      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Donde Se Pueda, Vol. 2",
         "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 345861,
       "name": "Hasta Donde Se Pueda",
       "url": "https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Mi Zona",
-        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Por Mi Zona",
-      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 210076,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Mi Zona",
+        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Por Mi Zona",
+      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Espacio",
-        "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 295345,
-      "name": "En el Espacio",
-      "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
+      "duration_ms": 291974,
+      "name": "Alcoholizados",
+      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+        "name": "En el Espacio",
+        "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
+      "duration_ms": 295345,
+      "name": "En el Espacio",
+      "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
     },
     {
       "added_at": null,

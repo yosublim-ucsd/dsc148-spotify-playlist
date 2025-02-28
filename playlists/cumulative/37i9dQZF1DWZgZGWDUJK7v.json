@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5ksOaoCJWjRq7NCq3RL4YN"
+      },
+      "artists": [
+        {
+          "name": "GUNHO",
+          "url": "https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2enJOw47qOjWXGUN4EnTeW"
+    },
+    {
+      "album": {
         "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
         "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
       },
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 231120,
       "name": "I'll talk to you (The Moon during the Day X Gummy)",
       "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 229475,
       "name": "ISHTAR (Webtoon \u2018From a Knight to a Lady\u2019 X COOMO)",
       "url": "https://open.spotify.com/track/0bdf46D0ockUBGUj0LK7f2"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 227866,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"

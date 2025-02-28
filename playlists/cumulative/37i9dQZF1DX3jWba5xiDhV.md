@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-187 songs - 15 hr 47 min
+188 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 | 2024-12-06 |
 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 | 2022-10-07 | 2023-05-18 |
-| [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 |  |
+| [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 | 2025-02-28 |
 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 | 2022-06-17 |  |
 | [Disco de la Noche](https://open.spotify.com/track/3L9qk5Lfs21bbA3upETg1f) | [Tarick1](https://open.spotify.com/artist/0dYDiawyfSqoWCgSdGYdsJ) | [Disco de la Noche](https://open.spotify.com/album/0k0eSLB89yP37TQ0YddmUm) | 3:39 | 2022-02-11 | 2022-03-22 |
 | [Disco Eccezionale \- Radio Edit](https://open.spotify.com/track/4k2xqWr7zFxVRY6BkrujuI) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Funk Rimini](https://open.spotify.com/artist/0gGVmvsVn6KNyOUACCBMRm) | [Disco Eccezionale](https://open.spotify.com/album/5M4oCtFndxCgeZkUEdqIUe) | 3:48 | 2022-02-11 | 2022-03-22 |
@@ -64,6 +64,7 @@
 | [Exotica](https://open.spotify.com/track/3fzani257hmWk26dRkAOpu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Exotica](https://open.spotify.com/album/4BDbDCMM8oDT7H0MrLRD7z) | 6:24 | 2022-02-11 | 2022-03-22 |
 | [Eyes \- Extended Vocal Mix](https://open.spotify.com/track/1kKNCBOxnLBwvoiWYol5JW) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf) | [Eyes](https://open.spotify.com/album/57qm57MXXZ7FRecg5RkVWj) | 6:22 | 2022-02-11 | 2022-07-29 |
 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 | 2022-07-01 | 2024-04-19 |
+| [E…allora…cercasi](https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Gemma e le altre](https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki) | 4:31 | 2025-02-28 |  |
 | [Faces \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/7zUkx37JJ7iz3ru4Y7Zd26) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Faces \(2020 Remaster\)](https://open.spotify.com/album/35u7IKBpYEhxpKO86BVZmn) | 5:40 | 2022-02-11 |  |
 | [Feels Good \- Carrots & Beets](https://open.spotify.com/track/4XagBRVqOiMShocifucrgd) | [Electra](https://open.spotify.com/artist/4m0wrSchQLfcaBbfmRbjke) | [Star Funk, Vol\. 9](https://open.spotify.com/album/6MIgfukswDqIZZmByAON39) | 6:16 | 2022-02-11 | 2022-08-21 |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 | 2022-07-01 | 2023-12-30 |

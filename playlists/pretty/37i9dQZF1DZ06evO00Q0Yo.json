@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 18897,
+  "num_followers": 18904,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAB+8xE3gERmo2J8W//1WEUK",
+  "snapshot_id": "Z75ZgAAAAABEa1A62ZnoDaUW6X8Byx/l",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diana (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Diana (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diana (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Diana (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
     },
     {
       "added_at": null,

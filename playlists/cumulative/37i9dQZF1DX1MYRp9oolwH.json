@@ -989,6 +989,36 @@
     },
     {
       "album": {
+        "name": "Daachekodhi Prema (From \"Laggam Time\")",
+        "url": "https://open.spotify.com/album/4rbXPlK0fUfTVUPA51sBQz"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Mahesh Poloju",
+          "url": "https://open.spotify.com/artist/37Q1srovPmgWP9DvfYpe5i"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236363,
+      "name": "Daachekodhi Prema (From \"Laggam Time\")",
+      "url": "https://open.spotify.com/track/0UZH69cnEeyi2VXjw5utbp"
+    },
+    {
+      "album": {
         "name": "Extra - Ordinary Man",
         "url": "https://open.spotify.com/album/6cjnJoGXjx3ITSuqug5xbo"
       },
@@ -1544,6 +1574,32 @@
       "duration_ms": 200113,
       "name": "Gundellonaa (From \"Ori Devuda\")",
       "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
+    },
+    {
+      "album": {
+        "name": "Gundelona Edho (From \"Naari - The Women\")",
+        "url": "https://open.spotify.com/album/2g4WI8a4Sc53iCGuo3sFOh"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kumar (Vinnu)",
+          "url": "https://open.spotify.com/artist/3xb4cUCZsdg6VqxzLT3LXl"
+        },
+        {
+          "name": "Prasad Saana",
+          "url": "https://open.spotify.com/artist/5FPCRcIcGEmDFg3fLqsarG"
+        },
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Gundelona Edho (From \"Naari - The Women\")",
+      "url": "https://open.spotify.com/track/1iJPwFw8Wd3QyYDJUEFvmH"
     },
     {
       "album": {
@@ -5776,7 +5832,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 260177,
       "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
@@ -5832,7 +5888,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 222537,
       "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
       "url": "https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU"

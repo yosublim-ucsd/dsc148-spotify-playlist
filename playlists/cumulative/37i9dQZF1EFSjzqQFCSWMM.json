@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT"
+      },
+      "artists": [
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "800MILES",
+      "url": "https://open.spotify.com/track/2m3Ea5E1L50QwDG6uhekMM"
+    },
+    {
+      "album": {
         "name": "PRESCRIBED OVERDOSE",
         "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
       },

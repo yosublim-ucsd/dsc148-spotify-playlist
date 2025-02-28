@@ -4,7 +4,7 @@
 
 > Aya Nakamura au top des nouveautés de la semaine !
 
-3,616 songs - 7 day 20 hr 21 min
+3,617 songs - 7 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2010,6 +2010,7 @@
 | [Mademoiselle](https://open.spotify.com/track/3uyBsgkTKH8AzKoWqrwpD2) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Mademoiselle](https://open.spotify.com/album/3xdejtgvZoptWJni4zyL7W) | 3:08 | 2024-10-10 | 2024-10-18 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-09-13 |
 | [Madre Mia](https://open.spotify.com/track/4b7I2pWNUOdmWvQsvAciXX) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Madre Mia](https://open.spotify.com/album/30oZyeiZLVtcwlBNJaQmdd) | 2:55 | 2024-10-31 | 2024-11-08 |
+| [Mafu](https://open.spotify.com/track/650XgPDMRWje8oGC17Cr45) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [paddybeatz](https://open.spotify.com/artist/5GNd1U5j93WRTSCRmb6lj5) | [Mafu](https://open.spotify.com/album/247gcFwILuBMUaPKh54lL7) | 2:20 | 2025-02-20 |  |
 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 | 2024-10-03 | 2024-10-11 |
 | [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 | 2024-10-10 | 2024-10-18 |
 | [MAJO](https://open.spotify.com/track/2iblHxNHocQk2LeZqSp9P6) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good II](https://open.spotify.com/album/20xLcCcFB19nEWJ8PebUat) | 2:47 | 2024-06-27 | 2024-07-05 |

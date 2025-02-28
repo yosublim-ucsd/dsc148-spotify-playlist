@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 麋先生 \(Mixer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,852 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,851 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 3 | [你怎么这么可爱 \- Cuteless Chinese Ver.](https://open.spotify.com/track/4lkxDCAllvyqoVhIL4dFzS) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [你怎么这么可爱 \(Cuteless Chinese Ver.\)](https://open.spotify.com/album/3XvPJaChO6sl1x5aMkhqo4) | 3:45 |
 | 4 | [鷗翼](https://open.spotify.com/track/6kIr9f0gWWMunB0FyIfibA) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [鷗翼](https://open.spotify.com/album/3S8hKX7h8sFTblsYJOQ81U) | 2:21 |
 | 5 | [如果我現在就放棄](https://open.spotify.com/track/5XU8lrcYXQQ5W8Et1Ri1UG) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [如果我現在就放棄](https://open.spotify.com/album/5vU4ZHFpO3Nzcty3yNp5gd) | 3:28 |
-| 6 | [Romi'ami'ad](https://open.spotify.com/track/35eXQlJJFAbWrSCQGqMwzr) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27) | [Romi'ami'ad](https://open.spotify.com/album/1OXdXuWgTbMemOw7DSRJsF) | 5:32 |
+| 6 | [Romi'ami'ad](https://open.spotify.com/track/35eXQlJJFAbWrSCQGqMwzr) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27) | [Romi'ami'ad](https://open.spotify.com/album/1OXdXuWgTbMemOw7DSRJsF) | 5:29 |
 | 7 | [我們都是外星人](https://open.spotify.com/track/4tiTaI5SKN5GlLRUINJ7ou) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [我們都是外星人](https://open.spotify.com/album/12fV5cMZHcVBXFOM2QIYmr) | 3:55 |
 | 8 | [我想要擁有你 \- Netflix影集《影后》插曲](https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [我想要擁有你 \(Netflix影集《影后》插曲\)](https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O) | 3:42 |
 | 9 | [你的步頻](https://open.spotify.com/track/0pSnyjR2svAntmx0VQR2au) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [你的步頻](https://open.spotify.com/album/1jD4HrBA7zd7yv6rxDfdwm) | 4:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 69 | [愛的多重宇宙 \(影集《童話故事下集》主題曲\)](https://open.spotify.com/track/7GFrDoCFRFab0YFLYosseU) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H) | [愛的多重宇宙](https://open.spotify.com/album/4aFmyXthHuHDdFP7cVngql) | 3:50 |
 | 70 | [望向暖陽 \(戲劇《死了一個娛樂女記者之後》宣傳曲\)](https://open.spotify.com/track/17I465D1hwlByh2gADUahs) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [望向暖陽](https://open.spotify.com/album/4QlfLZMme7JJE0ptMb7y5W) | 4:24 |
 
-Snapshot ID: `Z7dRnQAAAABMJemi6crpwLxtUWRtL5lG`
+Snapshot ID: `Z8CQLQAAAACp9rn32CWqxUCOdV+E1bCI`

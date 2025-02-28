@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 301190,
+  "num_followers": 301213,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -335,7 +335,7 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Safe",
+        "name": "SAFE",
         "url": "https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4"
       },
       "artists": [
@@ -345,24 +345,8 @@
         }
       ],
       "duration_ms": 179697,
-      "name": "Safe",
+      "name": "SAFE",
       "url": "https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
-        "name": "Dear Me (From The Original Documentary \"Diane Warren: Relentless\")",
-        "url": "https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 200076,
-      "name": "Dear Me - From The Original Documentary \"Diane Warren: Relentless\"",
-      "url": "https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -379,6 +363,22 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "Dear Me (From The Original Documentary \"Diane Warren: Relentless\")",
+        "url": "https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200076,
+      "name": "Dear Me - From The Original Documentary \"Diane Warren: Relentless\"",
+      "url": "https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "I Can't Wait Anymore",
-        "url": "https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9"
-      },
-      "artists": [
-        {
-          "name": "Sarah Blasko",
-          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
-        }
-      ],
-      "duration_ms": 249436,
-      "name": "I Can't Wait Anymore",
-      "url": "https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 128666,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "I Can't Wait Anymore",
+        "url": "https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "duration_ms": 249436,
+      "name": "I Can't Wait Anymore",
+      "url": "https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "The Line (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Halfway to Paradise",
         "url": "https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 160677,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "The Line (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Small Things",
-        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
-      },
-      "artists": [
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        }
-      ],
-      "duration_ms": 176851,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 177000,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Dream On",
-        "url": "https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y"
-      },
-      "artists": [
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "duration_ms": 231471,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "hill that i'll die on",
         "url": "https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 144694,
       "name": "hill that i'll die on",
       "url": "https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y"
+      },
+      "artists": [
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "All There Is",
-        "url": "https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "All There Is",
-      "url": "https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "what it always was",
-        "url": "https://open.spotify.com/album/5hA2mWEorq6bdzND8iO8Dr"
+        "name": "All There Is",
+        "url": "https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo"
       },
       "artists": [
         {
-          "name": "Sarah Saint James",
-          "url": "https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH"
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
         }
       ],
-      "duration_ms": 211200,
-      "name": "what it always was",
-      "url": "https://open.spotify.com/track/3KCDxxhjQ61VsC0HL5BR04"
+      "duration_ms": 143240,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
+        "name": "what it always was",
+        "url": "https://open.spotify.com/album/5hA2mWEorq6bdzND8iO8Dr"
+      },
+      "artists": [
+        {
+          "name": "Sarah Saint James",
+          "url": "https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "what it always was",
+      "url": "https://open.spotify.com/track/3KCDxxhjQ61VsC0HL5BR04"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/05xlHjdXEOCXMXLT7JF927"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
+        "name": "You'll Never Know Me Sober",
+        "url": "https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "Luca George",
+          "url": "https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA"
         }
       ],
-      "duration_ms": 173985,
-      "name": "Magical Thinking",
-      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
+      "duration_ms": 193400,
+      "name": "You'll Never Know Me Sober",
+      "url": "https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK"
     }
   ],
   "unique_name": "Peaceful Pop",

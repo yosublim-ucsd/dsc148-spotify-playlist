@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: BOYNEXTDOOR
 
-481 songs - 1 day 3 hr 35 min
+482 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Shining One](https://open.spotify.com/track/7DTKSwO1kTAJDu9Q5U73UZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Shining One](https://open.spotify.com/album/1cdXswO18i5AFNWQLPasok) | 4:04 | 2023-03-03 | 2023-04-04 |
 | [SHIRANKEDO](https://open.spotify.com/track/6ctuvjSpWsuY64Db3XVV7p) | [NBSK](https://open.spotify.com/artist/5ZgcfbWT9FmgXCGAEFocpu) | [SHIRANKEDO](https://open.spotify.com/album/50jKgnGadc6pN3jqsOOGsb) | 3:33 | 2023-06-08 | 2023-06-23 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-26 | 2023-02-24 |
+| [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 | 2025-02-27 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-21 | 2023-12-15 |
 | [SKI MASK](https://open.spotify.com/track/27kqtCjgY5Y1JfYxAhkv4y) | [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [PROMISE](https://open.spotify.com/album/5pLc2ZDRHTVa6Y3ly6pMqI) | 2:18 | 2023-02-16 | 2023-04-07 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-05-17 |
@@ -367,7 +368,7 @@
 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 | 2023-01-26 | 2023-07-13 |
 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 | 2024-01-18 | 2024-04-02 |
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-22 | 2023-09-15 |
-| [スーパースター](https://open.spotify.com/track/5qSKmuXffMAJvQOWaLvDy5) | [KEN MIYAKE](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [スーパースター](https://open.spotify.com/album/3ANCyY8SVt2k97b7A9ZVeU) | 2:32 | 2024-12-12 |  |
+| [スーパースター](https://open.spotify.com/track/5qSKmuXffMAJvQOWaLvDy5) | [KEN MIYAKE](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [スーパースター](https://open.spotify.com/album/3ANCyY8SVt2k97b7A9ZVeU) | 2:32 | 2024-12-12 | 2025-02-28 |
 | [セブンティーン](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [セブンティーン](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) | 3:19 | 2023-03-30 | 2023-04-28 |
 | [セーシュン](https://open.spotify.com/track/0lJBMJ01gPt7m2xzkEoajN) | [DIALUCK](https://open.spotify.com/artist/6E2gZLFqTJRHK70QaHlnRd) | [A First Aid Kit](https://open.spotify.com/album/4dfmAPjYXH0b1idQnLC4gB) | 3:56 | 2024-04-25 | 2024-11-08 |
 | [ゼロ距離恋愛](https://open.spotify.com/track/3rA3elSXqK2aMkuDajQrFn) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [ゼロ距離恋愛](https://open.spotify.com/album/3W3HK6jamfEw1LRofzXGDL) | 2:54 | 2023-01-26 | 2023-03-03 |

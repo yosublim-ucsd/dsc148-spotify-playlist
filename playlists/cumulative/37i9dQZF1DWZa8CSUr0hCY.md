@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-264 songs - 11 hr 38 min
+265 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 | 2022-08-31 |
 | [Falling Stars](https://open.spotify.com/track/4mIgrbxrhfjvbbi8pSPYZl) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Falling Stars](https://open.spotify.com/album/3VPdb1H1lJCjUnQvJKxQFW) | 1:43 | 2022-08-30 |  |
 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 | 2021-06-02 | 2022-08-31 |
-| [First Light](https://open.spotify.com/track/1Q6Z50JAnfy1wOOqAksVIW) | [ourcq](https://open.spotify.com/artist/0ixhosSnDrcxrW8ylF4yXj), [zad.collective](https://open.spotify.com/artist/2M8paQigZedmA3uIOpOa9r) | [Transatlantic](https://open.spotify.com/album/5CMMK15wNl3rR2tBGMKjau) | 2:40 | 2023-12-01 |  |
+| [First Light](https://open.spotify.com/track/1Q6Z50JAnfy1wOOqAksVIW) | [ourcq](https://open.spotify.com/artist/0ixhosSnDrcxrW8ylF4yXj), [zad.collective](https://open.spotify.com/artist/2M8paQigZedmA3uIOpOa9r) | [Transatlantic](https://open.spotify.com/album/5CMMK15wNl3rR2tBGMKjau) | 2:40 | 2023-12-01 | 2025-02-28 |
 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2022-08-30 |  |
 | [French Riviera](https://open.spotify.com/track/6BbQ8awsF9a0cdldNXM5aP) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [French Riviera](https://open.spotify.com/album/6xKn3EX8MzotKT3zLhX5Aa) | 2:08 | 2020-10-20\* | 2022-08-31 |
 | [Fresh Air](https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Air](https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok) | 2:55 | 2022-08-30 |  |
@@ -179,6 +179,7 @@
 | [Oneiro](https://open.spotify.com/track/66eDd8zgwNPJxYw8OiLYZM) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Oneiro](https://open.spotify.com/album/6CVcKznPodvQeqOntb08U5) | 1:52 | 2024-06-30 |  |
 | [Out for Good](https://open.spotify.com/track/5NxAzx6EtnepywD0oqevtZ) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Hip Dozer, Vol\. 2](https://open.spotify.com/album/4iFI8dc2Ynf7ou7GgI6wUs) | 2:06 | 2020-11-06 | 2022-08-31 |
 | [Outer Worlds](https://open.spotify.com/track/5JJJlEL5qzbDa70iCQPuDN) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Outer Worlds](https://open.spotify.com/album/3ZeWK0zo3KUmDgRyLOrH9M) | 2:14 | 2022-09-08 |  |
+| [Outremer \- The Lone Winter Rework](https://open.spotify.com/track/2INcaHJ1DmdNozVcUR7SH7) | [David Grumel](https://open.spotify.com/artist/36Sgkyc7kU3NRspCbSHakS), [The Lone Winter](https://open.spotify.com/artist/1OYTz27IOXFDCUBzR39Nl3) | [Outremer \(The Lone Winter Rework\)](https://open.spotify.com/album/1ouQusEd0dBT3Ym9Gq7tUz) | 2:46 | 2025-02-27 |  |
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-08-30 |  |
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2020-10-20\* | 2022-08-31 |
 | [Peace of What](https://open.spotify.com/track/2o2KHNSVo9VNwMTZkKqHMb) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Dame Fortune](https://open.spotify.com/album/298x29sNXaH7yDgXLoKiQX) | 3:29 | 2020-10-20\* | 2021-06-03 |

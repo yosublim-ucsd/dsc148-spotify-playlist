@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-247 songs - 11 hr 59 min
+248 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,13 +49,14 @@
 | [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 | 2023-09-11 |  |
 | [Dream On](https://open.spotify.com/track/5G4Mq7nCzVySjx3lCijQVQ) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:39 | 2023-09-11 |  |
 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 | 2023-09-11 |  |
+| [Dreams in White](https://open.spotify.com/track/0llaJPP8m0VLRSDIgeFLKa) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Dreams in White](https://open.spotify.com/album/2MU5F73KbDspAV3MW3nCJm) | 5:09 | 2025-02-04 |  |
 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 | 2023-09-11 |  |
 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 | 2023-09-11 |  |
 | [Echoes From Nowhere](https://open.spotify.com/track/5mGPuajka7C75r5sFwbN10) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 3:05 | 2024-02-05 |  |
 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 | 2023-09-11 |  |
 | [Enveloppe mon esprit](https://open.spotify.com/track/4xS7sINj4WKMF9NllK0a0U) | [Bruits Abstraits](https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C) | [Soothing White Noise For Sleep](https://open.spotify.com/album/1ngnExY2eUxygabPL1i4F9) | 2:02 | 2023-12-04 | 2024-02-06 |
 | [Every Night White Noise](https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Every Night White Noise](https://open.spotify.com/album/6ZKRu38HcgmoIaJwj61XgD) | 2:41 | 2023-09-11 |  |
-| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 | 2024-06-08 |
+| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 |  |
 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 | 2023-09-11 |  |
 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 | 2023-09-11 |  |
 | [Feathery White Noise](https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Feathery White Noise](https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1) | 2:53 | 2023-09-11 |  |
@@ -198,7 +199,7 @@
 | [White Noise 594 Hz](https://open.spotify.com/track/1mkBAifqSB5Cyu4ZicSJoK) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [White Noise One](https://open.spotify.com/album/2VtEEjWF6ebLiI2ZNcZRFf) | 2:03 | 2023-09-11 |  |
 | [White Noise and the Fire](https://open.spotify.com/track/2MRJybaclpJfbdlhiQUnSR) | [Dreams Noises](https://open.spotify.com/artist/2WQfhoRckNGKxqMd3i0Aq7) | [White Noise and the Earth](https://open.spotify.com/album/57gHF7zAmM7Nxr6EoCC9My) | 2:13 | 2023-12-04 |  |
 | [White Noise and the Shadows](https://open.spotify.com/track/4tN7dfYZz9cclvnmCG1gUZ) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [The White Noise of the Night](https://open.spotify.com/album/1ENrd16wIuMGEYmwgqBrtH) | 2:21 | 2023-12-04 |  |
-| [White Noise and the Silence](https://open.spotify.com/track/36OsPd6vGzZ8T9luD52mU9) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [White Noise in the Emptiness](https://open.spotify.com/album/24kpWLfMSQzy3uI35Ntwql) | 2:25 | 2023-12-04 |  |
+| [White Noise and the Silence](https://open.spotify.com/track/36OsPd6vGzZ8T9luD52mU9) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [White Noise in the Emptiness](https://open.spotify.com/album/24kpWLfMSQzy3uI35Ntwql) | 2:25 | 2023-12-04 | 2025-02-28 |
 | [White Noise and the Snow](https://open.spotify.com/track/1jhbb8XmxDL5SsngpUx2fq) | [Citys Of Collides](https://open.spotify.com/artist/12h32e6YMBk03yUo8tySbQ) | [The White Noise of the Sky](https://open.spotify.com/album/3i814d5JVh4964jVr47iph) | 2:01 | 2023-12-04 |  |
 | [White Noise and the Storm](https://open.spotify.com/track/3f5EOPD45n6H91NdZxu5TI) | [Sleep Hunters](https://open.spotify.com/artist/0qzu1LQb3R26XHQQWUDoNr) | [The White Noise of the Ocean](https://open.spotify.com/album/7kpoTZnyOtYjqNwD9p1n9f) | 2:32 | 2023-12-04 | 2024-06-30 |
 | [White Noise and the Sun](https://open.spotify.com/track/0DuyXA1RYfcbVIFSHbywo2) | [Fall Asleep Machine](https://open.spotify.com/artist/4vtg4rO9JcAzlfOvV3xNB7) | [White Noise and the Sun](https://open.spotify.com/album/4oTdO3BW8UROddZGsRGSqs) | 2:07 | 2023-12-04 |  |
@@ -219,7 +220,7 @@
 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 | 2023-09-11 |  |
 | [White Noise in the Distance](https://open.spotify.com/track/3PdfDCIdYkjvm9tIxIEleN) | [WD Sounds](https://open.spotify.com/artist/6j4XeEBTfgrUEfjZR7ygAD) | [White Noise in the Distance](https://open.spotify.com/album/0tA37GEuagiV2sOkCly8Pm) | 2:19 | 2023-12-04 | 2024-06-14 |
 | [White Noise In The Evening](https://open.spotify.com/track/6O8xBU7yOBK6DCiFCxvG6B) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Sleep In Outer Space](https://open.spotify.com/album/0QoBo09odd3fT0jhojratL) | 2:11 | 2023-09-11 |  |
-| [White Noise in the Forest](https://open.spotify.com/track/3tKdOi9NV91hGLHqftDK4K) | [Audiose](https://open.spotify.com/artist/5zfePIwsyuFpWjVE3qr3qA) | [The White Noise of the Night](https://open.spotify.com/album/5afBLNubQ8ctYxjHLe6TYM) | 2:14 | 2023-12-04 |  |
+| [White Noise in the Forest](https://open.spotify.com/track/3tKdOi9NV91hGLHqftDK4K) | [Audiose](https://open.spotify.com/artist/5zfePIwsyuFpWjVE3qr3qA) | [The White Noise of the Night](https://open.spotify.com/album/5afBLNubQ8ctYxjHLe6TYM) | 2:14 | 2023-12-04 | 2025-02-28 |
 | [White Noise in the Nothingness](https://open.spotify.com/track/16FvXtnLFknETdg3UP5oRl) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [The White Noise of the Soul](https://open.spotify.com/album/1IAQMImwX67w83CWiGRusp) | 2:08 | 2023-12-04 |  |
 | [White Noise in the Sleep Cabin](https://open.spotify.com/track/3yqWGh0pH6AhXKiHcAkl6P) | [Haworth in White](https://open.spotify.com/artist/6Z8jsYd7S1YwIhn72j9xqK) | [White Noise through the Trees](https://open.spotify.com/album/3w1s8W9GDB94A1BkZzQ1dl) | 4:31 | 2023-09-11 | 2025-02-05 |
 | [White Noise in the Whispering Gallery](https://open.spotify.com/track/1fefzlPqnYF9QK4fdGcGx5) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Around The World](https://open.spotify.com/album/4tItATXwhbCxeOVlANR6BE) | 3:31 | 2023-09-11 |  |

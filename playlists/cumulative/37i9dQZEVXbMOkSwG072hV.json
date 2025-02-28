@@ -20588,7 +20588,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
@@ -33829,6 +33829,32 @@
     },
     {
       "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2025",
+        "url": "https://open.spotify.com/album/2BdaFtjbJo0wrU8HFOjnP8"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Wander Pires",
+          "url": "https://open.spotify.com/artist/06aErK9NwNAHzLob15if8z"
+        },
+        {
+          "name": "Unidos do Viradouro",
+          "url": "https://open.spotify.com/artist/2TvCrbqQMOG0MLbqjqBES0"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330824,
+      "name": "Malunguinho, o Mensageiro de Tr\u00eas Mundos",
+      "url": "https://open.spotify.com/track/7uWhHzNBn4OhfkaYyFWpk7"
+    },
+    {
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
       },
@@ -38720,6 +38746,36 @@
       "duration_ms": 129379,
       "name": "Montagem Silent Hills",
       "url": "https://open.spotify.com/track/7EH8FTFjTAOvYErjQXo2Ct"
+    },
+    {
+      "album": {
+        "name": "Montagem Totally Strange",
+        "url": "https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn"
+      },
+      "artists": [
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "MC BF",
+          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145351,
+      "name": "Montagem Totally Strange",
+      "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
     },
     {
       "album": {
@@ -45396,7 +45452,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177660,
       "name": "Os D, \u00e9 os D",
       "url": "https://open.spotify.com/track/1acjqcdx8KsB11cGgxEqyP"

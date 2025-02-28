@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "flusflusflus\ud83d\udea8 ",
+  "description": "\ud83d\udea8 ",
   "name": "100 (2)",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 172841,
       "name": "2 Trekk",
       "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 113478,
       "name": "Allergi",
       "url": "https://open.spotify.com/track/0OaY8YOkxjTGhQL6tseyj7"
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Batmobile",
+        "url": "https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117216,
+      "name": "Batmobile",
+      "url": "https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k"
+    },
+    {
+      "album": {
         "name": "BECHO",
         "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 179480,
       "name": "Beige",
       "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177000,
       "name": "Dag etter dag",
       "url": "https://open.spotify.com/track/0ICFzymmGVBrldD4odQgXf"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 139687,
       "name": "Dum Duo",
       "url": "https://open.spotify.com/track/38iPW8JOX9lLcHfYpkLu1A"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183666,
       "name": "Flus",
       "url": "https://open.spotify.com/track/6jwE8i4V00DL55SkUiiCM1"
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 191210,
       "name": "Fot inn fot ut",
       "url": "https://open.spotify.com/track/4hsJMDbAMGPivtDEVVFnIm"
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 123446,
       "name": "G STYLE (FREESTYLE)",
       "url": "https://open.spotify.com/track/73NVve5WFYpj39ZnjwSOZb"
@@ -3969,6 +3987,28 @@
     },
     {
       "album": {
+        "name": "Okey Okey",
+        "url": "https://open.spotify.com/album/3xwXUGJg4Gx4RIHY0i0ht5"
+      },
+      "artists": [
+        {
+          "name": "Pacify",
+          "url": "https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157182,
+      "name": "Okey Okey",
+      "url": "https://open.spotify.com/track/1WwjGmNI05bJGg3kD9hR8n"
+    },
+    {
+      "album": {
         "name": "Ung & Dum",
         "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
@@ -4076,7 +4116,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 147013,
       "name": "Palmerna",
       "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
@@ -4152,6 +4192,24 @@
       "duration_ms": 177297,
       "name": "Pendejo",
       "url": "https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW"
+    },
+    {
+      "album": {
+        "name": "PENE SKO",
+        "url": "https://open.spotify.com/album/6mkTViXAFFZ3K6Nr9baU9u"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153505,
+      "name": "PENE SKO",
+      "url": "https://open.spotify.com/track/7gFSLZQE8QikAo431HSUYt"
     },
     {
       "album": {
@@ -4476,7 +4534,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 180000,
       "name": "R\u00f8yk",
       "url": "https://open.spotify.com/track/1SjXBYjUHZ3jrl0t8StY2z"
@@ -4972,7 +5030,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 165570,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
@@ -5074,7 +5132,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 194117,
       "name": "Storbyen sin lillebror",
       "url": "https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf"
@@ -5680,7 +5738,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 153021,
       "name": "Wellington",
       "url": "https://open.spotify.com/track/5u7D4cXdtpKDJmG8H5YfNl"

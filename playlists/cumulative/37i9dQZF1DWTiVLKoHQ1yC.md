@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-254 songs - 17 hr 37 min
+255 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-05 |  |
 | [Oblivion](https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Oblivion](https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X) | 3:39 | 2024-10-24 |  |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2024-03-15 |  |
+| [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 | 2025-02-21 |  |
 | [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-01 |  |
 | [OnlyL ft\. TSHA & NIMMO](https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5) | 6:07 | 2024-02-23 | 2024-07-05 |
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2022-01-14 | 2024-03-29 |
@@ -244,7 +245,7 @@
 | [Vanishing](https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX) | 6:12 | 2022-11-25 | 2024-04-05 |
 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-18 |  |
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 | 2024-02-16 |
-| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-08-15 |  |
+| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-08-15 | 2025-02-28 |
 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 | 2024-04-19 |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |
 | [Watching Over Me](https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Watching Over Me](https://open.spotify.com/album/5n3A23v0indork34sZTUF3) | 3:25 | 2024-06-21 | 2024-07-05 |

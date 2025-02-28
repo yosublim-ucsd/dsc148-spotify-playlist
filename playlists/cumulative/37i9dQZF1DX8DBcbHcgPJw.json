@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial y DJ TAO",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 129545,
       "name": "Besarnos Sin Ropa",
       "url": "https://open.spotify.com/track/73PjcIfCtQnvFvNrSlpNcy"
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Cumbia Cheta",
       "url": "https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi"
@@ -2302,6 +2302,32 @@
       "duration_ms": 138589,
       "name": "Cumbia De Rolo",
       "url": "https://open.spotify.com/track/20Z0rJrkMZK17YvZeNPvHY"
+    },
+    {
+      "album": {
+        "name": "Cumbia en la Vereda, Vol. 1, No Es Chamullo",
+        "url": "https://open.spotify.com/album/3yUmVoNRIxbvvnMaPdL06o"
+      },
+      "artists": [
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133820,
+      "name": "Cumbia en la Vereda, Vol. 1, No Es Chamullo",
+      "url": "https://open.spotify.com/track/7fQwZnGaSWgyCeE3Tm3Rjg"
     },
     {
       "album": {
@@ -5231,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Granada",
+        "url": "https://open.spotify.com/album/5HjMHNfp5QO980YCIxlXO9"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158110,
+      "name": "La \u00daltima Granada",
+      "url": "https://open.spotify.com/track/73TRoSpWNQfCRCsMRHMbJY"
+    },
+    {
+      "album": {
         "name": "Lado Triste",
         "url": "https://open.spotify.com/album/5xgKeK4IP6nWtuRplKAIJu"
       },
@@ -6850,7 +6894,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 127244,
       "name": "Mirame - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/6UVw3cOnIQ0XqCYaeVKGGI"
@@ -8134,7 +8178,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 143825,
       "name": "Pacto de Amor",
       "url": "https://open.spotify.com/track/4KBUEDmesunIr1WVxH746F"
@@ -8752,7 +8796,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192558,
       "name": "Por Mil",
       "url": "https://open.spotify.com/track/4l8dBNvvVfqNDxkqTvcJ4a"
@@ -12360,7 +12404,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 156893,
       "name": "Verano 2024",
       "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-823 songs - 1 day 20 hr 10 min
+824 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2020-05-28 | 2021-05-12 |
 | [These Walls](https://open.spotify.com/track/4YxrU1KNuhskMAQztkACrA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/6B0uhVWdfDKV35fapjoolM) | 3:37 | 2025-02-12 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-03 |  |
+| [things i want](https://open.spotify.com/track/06aqgaHt1M1ZRcEe04CvaN) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [things i want](https://open.spotify.com/album/35h4YIUVtsoJ68H20lmmEa) | 3:43 | 2025-02-27 |  |
 | [Think About It](https://open.spotify.com/track/1CkkV6YIEUTfxprPkg86Rh) | [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Think About It](https://open.spotify.com/album/5iTYPTP83OuJ7MfiQ9hhBe) | 3:32 | 2019-08-27\* | 2019-11-11 |
 | [Thinking Bout Me](https://open.spotify.com/track/2SUlt0qfsmE7lyUuSpKWcK) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Thinking Bout Me](https://open.spotify.com/album/1t1LUPgT2V2ytlbNz7yNV8) | 2:56 | 2019-08-27\* | 2019-11-11 |
 | [This Is On You](https://open.spotify.com/track/2oeYjGXqPooFVy64aoqrJP) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [This Is On You](https://open.spotify.com/album/1BTAYKbh1kQaNRJ2TSC8I6) | 3:15 | 2019-09-20 | 2021-05-12 |

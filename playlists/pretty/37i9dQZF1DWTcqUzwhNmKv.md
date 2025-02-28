@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Killswitch Engage are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,319 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,410 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [A Martyr Left Alive](https://open.spotify.com/track/5qKd0ISYELSquDcuD0DDxf) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Heaven Let Them Die](https://open.spotify.com/album/6Z0M0d8DCy1RjO0G91zrr7) | 3:40 |
 | 80 | [The Message \[Tablet I\]](https://open.spotify.com/track/7bvkBpcJnYHCuiyoDk9t3l) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Absolute Elsewhere](https://open.spotify.com/album/7hriIeLMviZKpNfcXgpsd8) | 5:56 |
 
-Snapshot ID: `Z7gIdgAAAADWbMUA4fSRPaF3xT1PmvnG`
+Snapshot ID: `Z7gIdgAAAADJ5jvRaePsMhILSnguvWa5`

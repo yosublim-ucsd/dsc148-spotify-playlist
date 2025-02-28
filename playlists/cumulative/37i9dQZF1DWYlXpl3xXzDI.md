@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-315 songs - 18 hr 44 min
+316 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 | 2024-11-22 |  |
 | [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 | 2025-02-21 |  |
 | [Heart of a Mother](https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Heart of a Mother](https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3) | 4:32 | 2025-02-03 |  |
+| [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 | 2025-02-27 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-10 | 2024-11-23 |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2025-02-03 |  |
 | [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2017-12-03 | 2024-11-23 |
@@ -228,7 +229,7 @@
 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 | 2025-02-03 |  |
 | [Saturday Sun](https://open.spotify.com/track/7sXTokBfIyPG7WOjjCLSJD) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/5zau80zbjOc2uEO5P1olK1) | 4:03 | 2025-02-03 | 2025-02-18 |
 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 | 2017-12-03 | 2025-02-04 |
-| [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 | 2017-12-03 |  |
+| [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 | 2017-12-03 | 2025-02-28 |
 | [Selfish Love](https://open.spotify.com/track/5E0ooxbzCpT6ukRkimv50g) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4nfzRON4A8T9UNuhRqWw8X) | 3:57 | 2017-12-03 | 2022-11-13 |
 | [Selfish Love](https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:57 | 2017-12-03 | 2024-04-19 |
 | [Settle](https://open.spotify.com/track/1HpDep9SLdtvtgMVDyuszc) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful](https://open.spotify.com/album/7zT0DG3Lp6XIKBq7IWD3Nx) | 3:11 | 2017-12-03 | 2024-04-19 |

@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Gentle Hum",
+      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+    },
+    {
+      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -1526,6 +1548,24 @@
       "duration_ms": 240741,
       "name": "Heath Naval",
       "url": "https://open.spotify.com/track/6yFnvs1PDRhxe3aRaXuyqv"
+    },
+    {
+      "album": {
+        "name": "Shards",
+        "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288216,
+      "name": "Heaven Will Come",
+      "url": "https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw"
     },
     {
       "album": {
@@ -2322,6 +2362,24 @@
       "duration_ms": 283302,
       "name": "part i - altar",
       "url": "https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8"
+    },
+    {
+      "album": {
+        "name": "PHANTOM BRICKWORKS VII",
+        "url": "https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642066,
+      "name": "PHANTOM BRICKWORKS VII",
+      "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
     },
     {
       "album": {

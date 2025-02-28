@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,346 likes - 53 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,387 likes - 53 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 52 | [O Decreto](https://open.spotify.com/track/2AOsg2joSzjAiiTMDcS52d) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [O Decreto](https://open.spotify.com/album/78KTltCJf8S15422VosBrA) | 4:26 |
 | 53 | [O Céu](https://open.spotify.com/track/5fhdpABhotbKlLEQt1a83k) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [O Céu](https://open.spotify.com/album/2xU0Gb1VqmFjaEWtIMy28t) | 4:35 |
 
-Snapshot ID: `Z7j4SwAAAABlGEB/uvZWvnQMZOTDu3bH`
+Snapshot ID: `Z7j4SwAAAAAShp680XmD5Q5YEbwx6Vov`

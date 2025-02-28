@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Espiquet, Central Cee, Blue Pappi, Travis Scott, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,074 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,077 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 69 | [pull up](https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [pull up](https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I) | 2:32 |
 | 70 | [Calm Down](https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Calm Down](https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB) | 2:42 |
 
-Snapshot ID: `Z5zYdgAAAADk1WE6ixdcxvKKoezqal5n`
+Snapshot ID: `Z5zYdgAAAAD8MobtPP8Ne9RwHgt0Q5wl`

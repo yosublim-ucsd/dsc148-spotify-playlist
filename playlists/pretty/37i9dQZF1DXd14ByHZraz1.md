@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,428 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,435 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Feelings](https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [Drerrera](https://open.spotify.com/artist/6Xp8myCVViMC27jPhl72ow), [Zoldan](https://open.spotify.com/artist/5qUFr89r11NBIg810d7wsU) | [Feelings](https://open.spotify.com/album/7BAa2H69YONlEsploamOHn) | 3:02 |
 | 50 | [On & On](https://open.spotify.com/track/4JWzHP8Loi9M6ZSOoIkkOA) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [On & On](https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243) | 2:09 |
 
-Snapshot ID: `Z7iWqwAAAAARnoTl+52yUYvC2/3N3/3T`
+Snapshot ID: `Z7iWqwAAAADEsMgC1SGdxIs0yH8t5OMJ`

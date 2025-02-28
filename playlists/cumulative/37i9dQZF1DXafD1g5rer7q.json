@@ -2549,6 +2549,32 @@
     },
     {
       "album": {
+        "name": "Light The Fire",
+        "url": "https://open.spotify.com/album/7cY0QCppRstg1K3mb7sQam"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Slenderino",
+          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
+        },
+        {
+          "name": "Coppa Komanche",
+          "url": "https://open.spotify.com/artist/1pXbLwfNTINxTif0iPzsIx"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168967,
+      "name": "Light The Fire",
+      "url": "https://open.spotify.com/track/4REcjHFELgMnmulCQXARTW"
+    },
+    {
+      "album": {
         "name": "Light Up My Life",
         "url": "https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW"
       },
@@ -3138,7 +3164,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"

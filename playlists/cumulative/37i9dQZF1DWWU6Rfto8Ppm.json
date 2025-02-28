@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177373,
       "name": "5 de Septiembre - Reggaeton Version",
       "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
@@ -4358,6 +4358,24 @@
       "duration_ms": 262407,
       "name": "Maniatica",
       "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
+    },
+    {
+      "album": {
+        "name": "Blanco Perla",
+        "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Manicomio",
+      "url": "https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo"
     },
     {
       "album": {

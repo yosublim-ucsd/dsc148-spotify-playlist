@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 137142,
       "name": "anymore",
       "url": "https://open.spotify.com/track/768BYGA6sGLudT38KqiVFe"
@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "balance",
+        "url": "https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN"
+      },
+      "artists": [
+        {
+          "name": "BROCKBEATS",
+          "url": "https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187875,
+      "name": "balance",
+      "url": "https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr"
+    },
+    {
+      "album": {
         "name": "Baleari",
         "url": "https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y"
       },
@@ -3966,7 +3984,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 195822,
       "name": "Birds in a Tree",
       "url": "https://open.spotify.com/track/66XDRP8a73wHcqMqnWM0z7"
@@ -8696,7 +8714,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 114380,
       "name": "Daunout",
       "url": "https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb"
@@ -11206,7 +11224,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 119220,
       "name": "Essence",
       "url": "https://open.spotify.com/track/1sEmxwmZVUo6xedokWhkVx"
@@ -11460,7 +11478,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 142857,
       "name": "Everything you need",
       "url": "https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB"
@@ -12042,7 +12060,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr"
@@ -13628,7 +13646,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 152166,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/1JAFfEsW0swrZtPdb9k0MJ"
@@ -15786,7 +15804,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "Hash with 2,8",
       "url": "https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD"
@@ -16386,7 +16404,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135000,
       "name": "Hip2Hip",
       "url": "https://open.spotify.com/track/4ippc5Br0DAG0aCCM5koqG"
@@ -17142,7 +17160,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177000,
       "name": "I Just Want to Know You",
       "url": "https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb"
@@ -17196,7 +17214,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -17374,6 +17392,24 @@
       "duration_ms": 108875,
       "name": "If So",
       "url": "https://open.spotify.com/track/5aUtGFhNUeNjX5piVkJera"
+    },
+    {
+      "album": {
+        "name": "If You Were Here",
+        "url": "https://open.spotify.com/album/3kntQKsqRLcHyW3Oj1LlCs"
+      },
+      "artists": [
+        {
+          "name": "saint rumi",
+          "url": "https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "If You Were Here",
+      "url": "https://open.spotify.com/track/3jFXQ83qHcUPpzJY0JlKCB"
     },
     {
       "album": {
@@ -18538,7 +18574,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 134829,
       "name": "just believe",
       "url": "https://open.spotify.com/track/6vieRGrosaRAIcv1upwRPg"
@@ -18658,7 +18694,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 127717,
       "name": "Kame House",
       "url": "https://open.spotify.com/track/3uLcMHUGmLerRqw7QTdQ31"
@@ -19888,7 +19924,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 204800,
       "name": "leo",
       "url": "https://open.spotify.com/track/34FDm0xToETSUCUhZQPWD1"
@@ -24961,6 +24997,24 @@
     },
     {
       "album": {
+        "name": "Never Lose Faith",
+        "url": "https://open.spotify.com/album/4Z6UfTS1lAs95aKQqVtVsI"
+      },
+      "artists": [
+        {
+          "name": "Breaking Squash",
+          "url": "https://open.spotify.com/artist/3A89ddsAlu95MTpiTIFD0D"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Never Lose Faith",
+      "url": "https://open.spotify.com/track/3RhSYVKTzcD0sqPrR5WDmL"
+    },
+    {
+      "album": {
         "name": "new cans",
         "url": "https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL"
       },
@@ -25672,7 +25726,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 143616,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R"
@@ -26116,7 +26170,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 126857,
       "name": "Oh Dear, its been a while",
       "url": "https://open.spotify.com/track/1K9eYINfBVuW75487aGHrm"
@@ -28700,7 +28754,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 105283,
       "name": "Pink Rose",
       "url": "https://open.spotify.com/track/1RTXHIlCyjKF7x1de1ymJY"
@@ -28790,7 +28844,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 105729,
       "name": "Play and Stop",
       "url": "https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk"
@@ -29172,7 +29226,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 136731,
       "name": "Proud",
       "url": "https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC"
@@ -31236,7 +31290,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 128679,
       "name": "sands of serenity",
       "url": "https://open.spotify.com/track/5KOQIig3ZU2aSzBOCHTagV"
@@ -31762,6 +31816,24 @@
       "duration_ms": 101052,
       "name": "Seek Tone",
       "url": "https://open.spotify.com/track/7wKMJ3KgovsMKA8kvrjQxg"
+    },
+    {
+      "album": {
+        "name": "seeking warmth",
+        "url": "https://open.spotify.com/album/1i3wlmeEjz5RbmFgv9YoA5"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123364,
+      "name": "seeking warmth",
+      "url": "https://open.spotify.com/track/4psbKVmKjJvVt8WmMyMu7k"
     },
     {
       "album": {
@@ -33608,6 +33680,24 @@
       "duration_ms": 123058,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR"
+    },
+    {
+      "album": {
+        "name": "something in the distance",
+        "url": "https://open.spotify.com/album/125elJh3sxp3XPmxSLVK0y"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "something in the distance",
+      "url": "https://open.spotify.com/track/5Fvh9jmdW7SMEuUzEHhMkJ"
     },
     {
       "album": {
@@ -39288,7 +39378,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 124054,
       "name": "Umekawa",
       "url": "https://open.spotify.com/track/1fMKEBwIIweWktTFVSLRyi"

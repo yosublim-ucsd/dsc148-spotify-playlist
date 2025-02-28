@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Coco Jones",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Craig David & Tiwa Savage",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 168869,
       "name": "All in you",
       "url": "https://open.spotify.com/track/6cZMk6AZ5cvXvLL3j5J2bv"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 210000,
       "name": "Better woman - City pop version",
       "url": "https://open.spotify.com/track/4uMpDSuuIlvBSb9mJKp1Zv"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "GRIP SEQUEL",
+        "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161322,
+      "name": "CHAPTER & VERS",
+      "url": "https://open.spotify.com/track/24NTKPJ76fvD1VroPGNiLn"
+    },
+    {
+      "album": {
         "name": "Charged Up",
         "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
       },
@@ -2482,6 +2500,28 @@
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     },
     {
       "album": {
@@ -4544,7 +4584,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 163796,
       "name": "Glo-Fi (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
@@ -4686,7 +4726,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 200021,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/2bYpOtmUrsVRdvFIe36qoR"
@@ -5618,6 +5658,32 @@
       "duration_ms": 170097,
       "name": "I Know, No More",
       "url": "https://open.spotify.com/track/3EGXdRqbMKF9Pl4k1gus19"
+    },
+    {
+      "album": {
+        "name": "I Like It (feat. nomoe)",
+        "url": "https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "QUARAW",
+          "url": "https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc"
+        },
+        {
+          "name": "nomoe",
+          "url": "https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "I Like It (feat. nomoe)",
+      "url": "https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli"
     },
     {
       "album": {
@@ -7277,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "Lose My Focus",
+      "url": "https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY"
+    },
+    {
+      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/6TKPi0hU3HfSEUVotVOscH"
       },
@@ -7412,7 +7500,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 199322,
       "name": "love me back to life",
       "url": "https://open.spotify.com/track/0QFmztQWfDEMCHUNsxkuWb"
@@ -9754,7 +9842,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
@@ -9816,7 +9904,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183114,
       "name": "Playing Pretend",
       "url": "https://open.spotify.com/track/2sueJeeCLHLobQ5Tnib6A2"
@@ -10372,6 +10460,28 @@
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
+    },
+    {
+      "album": {
+        "name": "Read Your Lips",
+        "url": "https://open.spotify.com/album/1hb00U5rIuBEoq6KAQILwa"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        },
+        {
+          "name": "Matt Cab",
+          "url": "https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181648,
+      "name": "Read Your Lips",
+      "url": "https://open.spotify.com/track/6SHqUGNnugLBXIGSDZpH8w"
     },
     {
       "album": {
@@ -11563,6 +11673,28 @@
     },
     {
       "album": {
+        "name": "Smell The Daises",
+        "url": "https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Smell The Daises",
+      "url": "https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6"
+    },
+    {
+      "album": {
         "name": "Smile Away",
         "url": "https://open.spotify.com/album/3w4wHIAfI5j7rZ4YYNJyy1"
       },
@@ -11666,6 +11798,28 @@
       "duration_ms": 251853,
       "name": "Snowflake (feat. JAY'ED)",
       "url": "https://open.spotify.com/track/5lRsz2XWxynCkWdJueqhjf"
+    },
+    {
+      "album": {
+        "name": "So Beautiful",
+        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227649,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
       "album": {
@@ -12122,7 +12276,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 223750,
       "name": "Starlight (feat. KAHOH)",
       "url": "https://open.spotify.com/track/1m0dWAawqHH8GFJvPUUqN8"
@@ -14242,6 +14396,24 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
+    },
+    {
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178879,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/0q615BBGWJGoh9MOujJYNc"
     },
     {
       "album": {

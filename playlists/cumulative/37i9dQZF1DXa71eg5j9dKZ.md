@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Dusky
+> The home for alternative electronic music\. Cover: Franky Wah
 
-1,144 songs - 3 day 6 hr 42 min
+1,145 songs - 3 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-24 | 2024-11-22 |
 | [Immaculate \- Club Shy VIP](https://open.spotify.com/track/09zbCWxXiMJKnm5uaaCC0a) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate \(Club Shy VIP\)](https://open.spotify.com/album/63fSAb9nsynltrjl9FY7j5) | 3:05 | 2024-11-22 |  |
 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 | 2022-09-15 | 2022-11-18 |
-| [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-12 |  |
+| [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-12 | 2025-02-28 |
 | [In My Head \- Rebecca & Fiona Remix](https://open.spotify.com/track/55GEZnn4x1v4nNKls9iVkD) | [First Hate](https://open.spotify.com/artist/5HOnVNfQ1FvMzZN2NEuNhP), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [In My Head \(Rebecca & Fiona Remix\)](https://open.spotify.com/album/6RCqsImCAeXoMgSzjob8Rl) | 4:31 | 2022-12-16 | 2023-03-31 |
 | [In The Night](https://open.spotify.com/track/3Xz2ZcQlQRA7rqbj7tYsL3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sad Girl](https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S) | 3:44 | 2024-09-26 |  |
 | [IN YOUR BLOOD](https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [IN YOUR BLOOD](https://open.spotify.com/album/3btxaWRqZYDZxB6QtSBDnN) | 3:44 | 2023-03-08 | 2023-03-09 |
@@ -1008,6 +1008,7 @@
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2021-11-24\* | 2022-01-29 |
 | [The Way \(Saviour\)](https://open.spotify.com/track/0ZjHmToIhQG8k57CpD91Do) | [Teebee](https://open.spotify.com/artist/7Cl1dU4G44kfQAg0f69J9v) | [The Way \(Saviour\)](https://open.spotify.com/album/0B2rxnCyHtfjClpmtsfuUs) | 5:22 | 2024-01-12 | 2024-04-26 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2022-11-04 | 2023-06-16 |
+| [there 4 u \- Radio Edit](https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [there 4 u](https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4) | 3:04 | 2025-02-28 |  |
 | [These Days](https://open.spotify.com/track/4MVs7sv6YAO0wLEjQogfIR) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/6rfkg0L634lsGEYzNAYdF3) | 3:34 | 2023-04-20 | 2023-10-02 |
 | [These Days](https://open.spotify.com/track/5wl0mc25Mn6YcFsXv1GR3e) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/54VcrpotCamxH0BcC2mlm3) | 3:34 | 2023-09-28 | 2023-10-13 |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2022-08-11 | 2022-08-20 |

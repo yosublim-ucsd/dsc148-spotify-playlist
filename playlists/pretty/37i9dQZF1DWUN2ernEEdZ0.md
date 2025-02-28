@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Bruce Liu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,440 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,486 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 50 | [Tsohle Tsohle](https://open.spotify.com/track/6fPJv5AOm392XonIGAzr9C) | [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU), [Manchester Collective](https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Alan Keary](https://open.spotify.com/artist/6KuGCMBdiLwGRWZE9xAmVe), [Sidiki Dembele](https://open.spotify.com/artist/7wrsYyNdxtOj6XOUv4bx2H), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Hymns of Bantu](https://open.spotify.com/album/4umJVHtks4Dr63htyCQ5nq) | 5:53 |
 | 51 | [Tchaikovsky Piano Concerto No\. 1 Variation \(After Piano Concerto No\. 1, Op\. 23, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/1KJMTyjlSgBTARQys99vxL) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Tchaikovsky Piano Concerto No\. 1 Variation](https://open.spotify.com/album/1pRM0fBJpDkRdROKP8Lobn) | 2:52 |
 
-Snapshot ID: `Z77kxQAAAADQUmATKbJVuRQKoX2gP1PA`
+Snapshot ID: `Z77kxQAAAABMARwpQHzJZKesSsMXEGfM`

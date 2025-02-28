@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Paptircem x Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,403 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,429 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 2 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 |
 | 3 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 4 | [Sevmemişiz Gibi Farz Edelim](https://open.spotify.com/track/3BHnZpz8mPEpkorbTaEHYD) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Sevmemişiz Gibi Farz Edelim](https://open.spotify.com/album/57hic4pxOaxebssHVzOqRc) | 2:58 |
-| 5 | [O Yollar Seni Üzer](https://open.spotify.com/track/1qxa9RoGmYUcmjA3ueUbDq) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [O Yollar Seni Üzer](https://open.spotify.com/album/1y4mONQkKk9FnUy6fsNh7X) | 2:51 |
-| 6 | [Ah Be Güzelim](https://open.spotify.com/track/1XrW9jrShl5CGPhAHmkajS) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Kahırlı Merdiven](https://open.spotify.com/album/3iiDh9sqqJDc9rxsGCm0pS) | 5:43 |
-| 7 | [Üşüyor İstanbul Bugün](https://open.spotify.com/track/0IWkpEVDHcQV9Sa6yOVRhZ) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Üşüyor İstanbul Bugün](https://open.spotify.com/album/1nu4pWlnpWXJcrb3V5xK2l) | 3:10 |
-| 8 | [Yerlerdeyim](https://open.spotify.com/track/36XvQFoo2dTSbwawPjO0c6) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Yerlerdeyim](https://open.spotify.com/album/0CrUw1BKM8SHtrsIMnm8Sp) | 3:43 |
-| 9 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 |
-| 10 | [Tekrardan](https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Tekrardan](https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP) | 3:02 |
-| 11 | [Yüreğime Vur Kadehi](https://open.spotify.com/track/4PNNSSlUDfMCURa5uZR8xG) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [Yüreğime Vur Kadehi](https://open.spotify.com/album/6KrTBOzIo8qM6MDBDQVigl) | 5:11 |
-| 12 | [Eda](https://open.spotify.com/track/7jAycfFn2EDt9JtytuAT6U) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eda](https://open.spotify.com/album/6hKCmuzzpf0AkkkxO0bPXZ) | 3:22 |
-| 13 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 |
-| 14 | [Hiç Sorma](https://open.spotify.com/track/3bzL5C57RjIba7X3EPptlK) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Hiç Sorma](https://open.spotify.com/album/1LArDB0ZveBagFrA1O4bA5) | 3:01 |
-| 15 | [AF.](https://open.spotify.com/track/2Pzee5kJnvGniV2W6egT8S) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [AF.](https://open.spotify.com/album/0iIi6muIE3RVOH7L9KAM7G) | 4:27 |
-| 16 | [İnci Tanesi](https://open.spotify.com/track/24Xrjpc9VQ2YZeiev7P2Wb) | [Şekersiz](https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf) | [İnci Tanesi](https://open.spotify.com/album/5B3RB52CnkIpnS4rrfcD4C) | 3:13 |
-| 17 | [Uzansam Kucağına](https://open.spotify.com/track/5hTjCrcI0AliHfCTVclXbb) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Uzansam Kucağına](https://open.spotify.com/album/3XHF9TozqzHHKqoZ4AI3CB) | 3:29 |
-| 18 | [Karar Verdim \- Dedub Sessions](https://open.spotify.com/track/1IcOBlUkG1UtRbY1ztEST4) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Karar Verdim \(Dedub Sessions\)](https://open.spotify.com/album/6uELPtrbPB8Hsej40adL8i) | 4:02 |
-| 19 | [YBG](https://open.spotify.com/track/0yzknXQCyC7HQ1VYbYcg21) | [You May Kiss The Bride](https://open.spotify.com/artist/2j935hNGbojPT0ye7Uaazj) | [YBG](https://open.spotify.com/album/5liW1kIqdQEiIvaE6SzhvC) | 3:25 |
+| 5 | [Yol](https://open.spotify.com/track/3bbpdRTMYXQK4MHlBrCqXC) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sana Yazmadığım Şarkılar](https://open.spotify.com/album/2Dbpe6mOnryH6QPIOr7csE) | 2:54 |
+| 6 | [O Yollar Seni Üzer](https://open.spotify.com/track/1qxa9RoGmYUcmjA3ueUbDq) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [O Yollar Seni Üzer](https://open.spotify.com/album/1y4mONQkKk9FnUy6fsNh7X) | 2:51 |
+| 7 | [Ah Be Güzelim](https://open.spotify.com/track/1XrW9jrShl5CGPhAHmkajS) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Kahırlı Merdiven](https://open.spotify.com/album/3iiDh9sqqJDc9rxsGCm0pS) | 5:43 |
+| 8 | [Üşüyor İstanbul Bugün](https://open.spotify.com/track/0IWkpEVDHcQV9Sa6yOVRhZ) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Üşüyor İstanbul Bugün](https://open.spotify.com/album/1nu4pWlnpWXJcrb3V5xK2l) | 3:10 |
+| 9 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 |
+| 10 | [Yerlerdeyim](https://open.spotify.com/track/36XvQFoo2dTSbwawPjO0c6) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Yerlerdeyim](https://open.spotify.com/album/0CrUw1BKM8SHtrsIMnm8Sp) | 3:43 |
+| 11 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 |
+| 12 | [Tekrardan](https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Tekrardan](https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP) | 3:02 |
+| 13 | [Yüreğime Vur Kadehi](https://open.spotify.com/track/4PNNSSlUDfMCURa5uZR8xG) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [Yüreğime Vur Kadehi](https://open.spotify.com/album/6KrTBOzIo8qM6MDBDQVigl) | 5:11 |
+| 14 | [Eda](https://open.spotify.com/track/7jAycfFn2EDt9JtytuAT6U) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eda](https://open.spotify.com/album/6hKCmuzzpf0AkkkxO0bPXZ) | 3:22 |
+| 15 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 |
+| 16 | [Hiç Sorma](https://open.spotify.com/track/3bzL5C57RjIba7X3EPptlK) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Hiç Sorma](https://open.spotify.com/album/1LArDB0ZveBagFrA1O4bA5) | 3:01 |
+| 17 | [AF.](https://open.spotify.com/track/2Pzee5kJnvGniV2W6egT8S) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [AF.](https://open.spotify.com/album/0iIi6muIE3RVOH7L9KAM7G) | 4:27 |
+| 18 | [Uzansam Kucağına](https://open.spotify.com/track/5hTjCrcI0AliHfCTVclXbb) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Uzansam Kucağına](https://open.spotify.com/album/3XHF9TozqzHHKqoZ4AI3CB) | 3:29 |
+| 19 | [Karar Verdim \- Dedub Sessions](https://open.spotify.com/track/1IcOBlUkG1UtRbY1ztEST4) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Karar Verdim \(Dedub Sessions\)](https://open.spotify.com/album/6uELPtrbPB8Hsej40adL8i) | 4:02 |
 | 20 | [Bir Şişe Kırmızı](https://open.spotify.com/track/0Rv26GOG4Cei74eyja41op) | [emre aydın](https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q) | [Bir Şişe Kırmızı](https://open.spotify.com/album/0abuywqJsEQyapoZIHdffs) | 3:00 |
 | 21 | [Kırlangıçlar](https://open.spotify.com/track/3H3k1XBns0Wh9MRvQcht7u) | [ENGIN](https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg) | [Kırlangıçlar](https://open.spotify.com/album/2Lg3sLUbFvN241rtsaAanx) | 4:32 |
 | 22 | [Yalnızlar Rıhtımı](https://open.spotify.com/track/4ll8726NS3mjec8hEkTwKe) | [Evrencan Gündüz](https://open.spotify.com/artist/6rxgxAlUPT4sDElRZeVec6) | [Yalnızlar Rıhtımı](https://open.spotify.com/album/4TgJGmpLIbVQES3ebEcPRi) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Kısa Mesafe](https://open.spotify.com/track/4dnAQt79Fr4q7TVecSb1e7) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/7pRxARASmabm3sMrD8k9Ib) | 2:27 |
 | 75 | [Yaşayamam Bu Benle](https://open.spotify.com/track/2OC7TDRpQDfWgo9IEBG807) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Yaşayamam Bu Benle](https://open.spotify.com/album/1dxmUVPcMQwPFWLfAP9aRM) | 3:35 |
 
-Snapshot ID: `Z7eX3AAAAADW5gwR4plcsMqwFeSRUJ/j`
+Snapshot ID: `Z8DSYAAAAAD51TyrhiIBlTPv4fS852l1`

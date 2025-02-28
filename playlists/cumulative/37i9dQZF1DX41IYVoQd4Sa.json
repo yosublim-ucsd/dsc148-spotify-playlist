@@ -210,10 +210,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 308093,
       "name": "Carry me home",
       "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+    },
+    {
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 199875,
       "name": "Down for a Moment",
       "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
@@ -1257,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161011,
+      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
         "url": "https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi"
       },
@@ -1540,6 +1576,24 @@
       "duration_ms": 207529,
       "name": "\u05d4\u05d3\u05d1\u05e8 \u05d4\u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/424f6LZLl4MpDRBFhCJVJw"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+        "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+      "url": "https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp"
     },
     {
       "album": {
@@ -2443,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY"
+      },
+      "artists": [
+        {
+          "name": "Omer Moskovich",
+          "url": "https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230874,
+      "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
         "url": "https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW"
       },
@@ -2798,7 +2870,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
@@ -2816,7 +2888,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 214357,
       "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
       "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"

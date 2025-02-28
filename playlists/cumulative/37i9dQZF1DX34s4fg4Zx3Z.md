@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Annie
 
-1,974 songs - 4 day 19 hr 38 min
+1,975 songs - 4 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [INFATUATED \(saydam\)](https://open.spotify.com/track/2LQ02WYH6qL4PTOT3lxEh1) | [Duy Lion](https://open.spotify.com/artist/0HE8NzNBZpoDTt9xO0DPcm) | [INFATUATED \(saydam\)](https://open.spotify.com/album/2nPpoCfJ0kcg2UqfARUFd5) | 2:05 | 2023-07-18 | 2023-09-13 |
 | [inner child](https://open.spotify.com/track/5HKVz1AlprFBv9aWN5bBlx) | [Sweet Liquor](https://open.spotify.com/artist/2s2AP9Bj9ltYjB9XIbGr0e) | [inner child](https://open.spotify.com/album/2My7UBbmEUvh853ruVFFxt) | 3:36 | 2024-06-14 | 2024-07-11 |
 | [INO & UNO](https://open.spotify.com/track/1i9TBQ3JZSXACySMybLuRA) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Ne](https://open.spotify.com/artist/60OgHNb3ArABLXqJ66zGGI) | [INO & UNO](https://open.spotify.com/album/7J7Xy4EP2XZUPGaa5PtRqL) | 2:32 | 2022-01-06 | 2022-01-21 |
+| [INSIDE](https://open.spotify.com/track/0J4zcH6L1R0ocYxK0YAs9W) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [North](https://open.spotify.com/artist/6RDx67MeiD2l3GcQKXUenu) | [INSIDE](https://open.spotify.com/album/3U4kr4CTsego3HP7aj1klo) | 3:34 | 2025-02-27 |  |
 | [interlude \(diễm xưa\)](https://open.spotify.com/track/7lbqOBEKTZUmM1FhB3cPc0) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU) | [Trần Thế](https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy) | 1:06 | 2025-02-21 |  |
 | [is everything okay?](https://open.spotify.com/track/69o93hbZJ6Lg5AUkbM8shC) | [StormiSton](https://open.spotify.com/artist/09H7MD10xt90EH8DZrzD7d) | [is everything okay?](https://open.spotify.com/album/1xXI3xpdXe34idP0qnKZPo) | 3:47 | 2023-02-16 | 2023-04-09 |
 | [It's Okay](https://open.spotify.com/track/7tnQIXXjQBQxDs9VDH1jBC) | [Đức Trường](https://open.spotify.com/artist/4R2engiAed6QeIV63PDAz0), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [It's Okay](https://open.spotify.com/album/4RLJ2RUzs7ZBhxyGofZC6y) | 3:43 | 2022-07-12 | 2022-09-09 |

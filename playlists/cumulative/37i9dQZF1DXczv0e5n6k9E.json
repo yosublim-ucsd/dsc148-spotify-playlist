@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Mente Fuerte",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Dirty Harry",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 180743,
       "name": "3:33",
       "url": "https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq"
+    },
+    {
+      "album": {
+        "name": "4 My People",
+        "url": "https://open.spotify.com/album/5Z1Gw8KzdJrdbhCTPVKh72"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "4 My People",
+      "url": "https://open.spotify.com/track/6VazZGCjYSMKpU50JXH9qz"
     },
     {
       "album": {
@@ -469,6 +491,28 @@
     },
     {
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0L1EngPY00D41s5Q6G75yo"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/3GNsuBDii2CmlbrUdDQZGC"
+    },
+    {
+      "album": {
         "name": "AMOK",
         "url": "https://open.spotify.com/album/1175T7OP5AcTzP9pR2BBrl"
       },
@@ -540,6 +584,28 @@
       "duration_ms": 162562,
       "name": "Arga",
       "url": "https://open.spotify.com/track/3mzSzoAPvteMqisimpJf4b"
+    },
+    {
+      "album": {
+        "name": "Asteria",
+        "url": "https://open.spotify.com/album/256dGagVSPEPbVMUyZlbMe"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/6MifNe0ruxhUoIom139UZU"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126093,
+      "name": "Asteria",
+      "url": "https://open.spotify.com/track/1Hv42DiL91i91TSFHwlhoK"
     },
     {
       "album": {
@@ -2377,6 +2443,32 @@
     },
     {
       "album": {
+        "name": "GANGO",
+        "url": "https://open.spotify.com/album/30vrDvMaFubXB4jYxd5xvY"
+      },
+      "artists": [
+        {
+          "name": "Krid",
+          "url": "https://open.spotify.com/artist/0sFV0X93fS6wz5Szca2B0a"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Alats",
+          "url": "https://open.spotify.com/artist/4b309uw9yByY7XNUdurhcW"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160066,
+      "name": "GANGO",
+      "url": "https://open.spotify.com/track/2nUvhT3ycJOZq5N45a4N0i"
+    },
+    {
+      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/3Q28JUcPiLpuY53szb68l2"
       },
@@ -3054,7 +3146,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 140895,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/5KggEGcWicfTXY2vsq4LTc"
@@ -3898,7 +3990,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 122000,
       "name": "MANSON",
       "url": "https://open.spotify.com/track/3UU13z0oR1eJyxQZhGN18m"
@@ -4626,7 +4718,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 232900,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0"
@@ -4726,7 +4818,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 125833,
       "name": "OSAMA",
       "url": "https://open.spotify.com/track/6ReJHMj1hAIuPcO4VcrMdX"
@@ -5198,6 +5290,28 @@
       "duration_ms": 119263,
       "name": "POSOSTA",
       "url": "https://open.spotify.com/track/21FXtFiJkX1D5V25s5WK73"
+    },
+    {
+      "album": {
+        "name": "POU ISOUNA ESY",
+        "url": "https://open.spotify.com/album/0Dqc3M1W0eyutMe0I8ecaS"
+      },
+      "artists": [
+        {
+          "name": "Mario Kush",
+          "url": "https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "POU ISOUNA ESY",
+      "url": "https://open.spotify.com/track/0a5fJ2zezbwEpB24cNQUzX"
     },
     {
       "album": {
@@ -5778,7 +5892,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 130909,
       "name": "SHARINGAN",
       "url": "https://open.spotify.com/track/0i0EW1o1qbSWbma5PSntfM"
@@ -6874,7 +6988,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135871,
       "name": "X",
       "url": "https://open.spotify.com/track/6UQj3Px0U2X1hGEAkTP4Fc"

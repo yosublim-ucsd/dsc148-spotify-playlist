@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Sammy Virji",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Ninajirachi",
   "name": "creamy",
   "tracks": [
     {
@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
+    },
+    {
+      "album": {
         "name": "Things to Come",
         "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
       },
@@ -916,6 +934,24 @@
       "duration_ms": 205241,
       "name": "Angel Fire",
       "url": "https://open.spotify.com/track/3hAerOojwCjnfbhetmsXYS"
+    },
+    {
+      "album": {
+        "name": "Anntower",
+        "url": "https://open.spotify.com/album/4Rw6znQoPbHUN7IwSqcr0q"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Anntower",
+      "url": "https://open.spotify.com/track/3PjDpfizr7FYy56XHje5w2"
     },
     {
       "album": {
@@ -1522,6 +1558,32 @@
       "duration_ms": 150464,
       "name": "Believe It (with Madeon)",
       "url": "https://open.spotify.com/track/5glaxT4IXZtym1ea6RFW49"
+    },
+    {
+      "album": {
+        "name": "Believe It (feat. Madeon) [Nikita, the Wicked Remix]",
+        "url": "https://open.spotify.com/album/5O6hVdL3s7qOMBT1cYwe9s"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200415,
+      "name": "Believe It - Nikita, the Wicked Remix",
+      "url": "https://open.spotify.com/track/4Cqxzab6sO7fkzIT3sqfFw"
     },
     {
       "album": {
@@ -2434,6 +2496,24 @@
       "duration_ms": 228379,
       "name": "call me up",
       "url": "https://open.spotify.com/track/7hV9TqcZDOJbGRNxEjXUJb"
+    },
+    {
+      "album": {
+        "name": "Ticket 2 Heaven, Pt. 1",
+        "url": "https://open.spotify.com/album/3kT9iIH313t6Gb1J81YJIF"
+      },
+      "artists": [
+        {
+          "name": "Bearson",
+          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163770,
+      "name": "Call My Phone",
+      "url": "https://open.spotify.com/track/4l1Z3ocLNGegBMlAuNRKMf"
     },
     {
       "album": {
@@ -3370,7 +3450,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 288000,
       "name": "come2find",
       "url": "https://open.spotify.com/track/6IEa5LyFwKjDiLpvVHYMfR"
@@ -4280,6 +4360,24 @@
       "duration_ms": 277333,
       "name": "Don't Know What",
       "url": "https://open.spotify.com/track/5kmNZLo9iHj7wfJsCCW4BR"
+    },
+    {
+      "album": {
+        "name": "Don't leave me",
+        "url": "https://open.spotify.com/album/5LdHmVFSBOS1z22VYN5xQU"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Don't leave me",
+      "url": "https://open.spotify.com/track/42mEqBpbEMRHhaZfK9SNDF"
     },
     {
       "album": {
@@ -7408,7 +7506,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 191724,
       "name": "heal",
       "url": "https://open.spotify.com/track/1xfAOscxuWUaVa9D23GW3E"
@@ -7510,7 +7608,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 120620,
       "name": "HEARTPIECE",
       "url": "https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF"
@@ -10345,6 +10443,24 @@
     },
     {
       "album": {
+        "name": "lose my head",
+        "url": "https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "lose my head",
+      "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
+    },
+    {
+      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
       },
@@ -10536,7 +10652,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 185524,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
@@ -11414,7 +11530,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 200597,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6F7esCzMnrIFta69cwoIbp"
@@ -11696,6 +11812,28 @@
       "duration_ms": 111483,
       "name": "NOT ANGRY",
       "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
+    },
+    {
+      "album": {
+        "name": "Nothing Gets Better Than This",
+        "url": "https://open.spotify.com/album/0JyqcPBNy1pbCf8SZNKTW0"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Nothing Gets Better Than This",
+      "url": "https://open.spotify.com/track/7ys3QUPW0v0v2TSUFjLEwQ"
     },
     {
       "album": {
@@ -13414,7 +13552,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 145588,
       "name": "real 4 me",
       "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
@@ -14489,6 +14627,24 @@
     },
     {
       "album": {
+        "name": "OXY2*",
+        "url": "https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "SEE YOU AGAIN",
+      "url": "https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh"
+    },
+    {
+      "album": {
         "name": "Seek",
         "url": "https://open.spotify.com/album/63SCEtG5tgUHPDj6wCqqBb"
       },
@@ -14928,7 +15084,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 226135,
       "name": "Shuf (Adore U)",
       "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
@@ -14968,7 +15124,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 156004,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
@@ -15572,6 +15728,28 @@
       "duration_ms": 199900,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/7uUuMOmUu1PXIGumFCIZWW"
+    },
+    {
+      "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y"
     },
     {
       "album": {
@@ -16646,7 +16824,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 209445,
       "name": "TAKA - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
@@ -16842,7 +17020,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 152380,
       "name": "TALKING WALLS",
       "url": "https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5"
@@ -17354,6 +17532,24 @@
       "duration_ms": 226285,
       "name": "The Wisp Song",
       "url": "https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg"
+    },
+    {
+      "album": {
+        "name": "there 4 u",
+        "url": "https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "there 4 u - Radio Edit",
+      "url": "https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f"
     },
     {
       "album": {
@@ -18078,7 +18274,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 225985,
       "name": "U - Mura Masa Remix",
       "url": "https://open.spotify.com/track/2bPLo7PvlUlZCYBPcNAgLc"
@@ -19628,6 +19824,24 @@
       "duration_ms": 264089,
       "name": "Would I Believe",
       "url": "https://open.spotify.com/track/5J7z4X615BmONq0bRNC0x3"
+    },
+    {
+      "album": {
+        "name": "Wrong For Me",
+        "url": "https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205687,
+      "name": "Wrong For Me",
+      "url": "https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF"
     },
     {
       "album": {

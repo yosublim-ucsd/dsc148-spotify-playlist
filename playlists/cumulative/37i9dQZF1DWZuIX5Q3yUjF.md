@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Florinda in cover della playlist dell'R&B italiano 🎧
+> Federico Di Napoli in cover della playlist dell'R&B italiano 🎧
 
-724 songs - 1 day 11 hr 53 min
+725 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Aria](https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw) | 2:30 | 2024-04-12 | 2024-04-16 |
 | [ARIA](https://open.spotify.com/track/423yAZqzAQvHCidKPiBhkE) | [Ludia Venus](https://open.spotify.com/artist/7zYug21enFuajJ8DS6tp6r) | [ARIA](https://open.spotify.com/album/5gFfTGPKf8AfnAba31Drhj) | 3:06 | 2024-09-26 | 2024-11-22 |
 | [ARIA](https://open.spotify.com/track/0G5gqnBb46115ooBlv98BE) | [XEUDA](https://open.spotify.com/artist/7DeekH4ank1JhgMbOmO5Mu) | [ARIA](https://open.spotify.com/album/0l823O5RoYPPAb0XPyIRZJ) | 3:13 | 2024-01-04 | 2024-02-02 |
+| [Arrogante](https://open.spotify.com/track/3UuwtjGqAUXecKbpoLrrpp) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Arrogante](https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8) | 2:23 | 2025-02-27 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 | 2022-12-15 | 2023-03-10 |
 | [ascensore](https://open.spotify.com/track/1PHNQ4SfHZKi7pqokee82n) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [ascensore](https://open.spotify.com/album/2CMho8a9CufZTptXTsOAyJ) | 2:51 | 2023-04-13 | 2023-06-30 |
 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 | 2023-05-11 | 2023-11-17 |

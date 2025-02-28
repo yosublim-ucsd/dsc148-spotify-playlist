@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : DJ Kawest",
+  "description": "Les hits dancehall du moment. Photo : Maureen x Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -358,6 +358,32 @@
       "duration_ms": 138394,
       "name": "ANDIRANS",
       "url": "https://open.spotify.com/track/6a05xZZ1ezAEJnE0H0vG3Z"
+    },
+    {
+      "album": {
+        "name": "Asim\u00e9",
+        "url": "https://open.spotify.com/album/2ZfRYA4JNntYVUNdtbstEs"
+      },
+      "artists": [
+        {
+          "name": "Staniski",
+          "url": "https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT"
+        },
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Asim\u00e9",
+      "url": "https://open.spotify.com/track/08RV5lY0h1ygEBb7Y5ahAZ"
     },
     {
       "album": {
@@ -3844,7 +3870,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 127993,
       "name": "Ghetto Whine",
       "url": "https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm"
@@ -5901,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173901,
+      "name": "MANICOU",
+      "url": "https://open.spotify.com/track/7FQHzAp0aBPljNddzAvCul"
+    },
+    {
+      "album": {
         "name": "Manigance",
         "url": "https://open.spotify.com/album/0eokcMOmQ047TDvODWEiQJ"
       },
@@ -7058,7 +7102,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159007,
       "name": "NOU PAKA BA FANM KOU",
       "url": "https://open.spotify.com/track/6ZGyhbIqqIyT8950Hf6D93"
@@ -10719,6 +10763,32 @@
     },
     {
       "album": {
+        "name": "West Indies",
+        "url": "https://open.spotify.com/album/1OLp7fd0UuRpOzIlpRKY5J"
+      },
+      "artists": [
+        {
+          "name": "Vanou",
+          "url": "https://open.spotify.com/artist/5bRjVnu5q4ySUkVYifxtGE"
+        },
+        {
+          "name": "Dj Nov",
+          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/1JNh8j943hwANbMzNCyQs1"
+    },
+    {
+      "album": {
         "name": "Whine",
         "url": "https://open.spotify.com/album/4RsKRBDnJ1Dr5u6NkUREN2"
       },
@@ -11134,7 +11204,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177612,
       "name": "\u00e7a pique am remix",
       "url": "https://open.spotify.com/track/0pOeeaiSFtB9zcGNggv5Ax"

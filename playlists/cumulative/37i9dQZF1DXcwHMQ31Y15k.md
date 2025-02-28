@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Nabila Gomes
 
-453 songs - 1 day 13 hr 50 min
+454 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 | 2022-05-26 | 2023-08-11 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Bukan Jodohnya](https://open.spotify.com/album/0Qsx7ZYhN4O64h8rSO1H94) | 5:38 | 2022-05-26 | 2023-08-11 |
 | [Aku Cah Kerjo](https://open.spotify.com/track/5ai8gNOjnpz4RNCHoqRt9U) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Aku Cah Kerjo](https://open.spotify.com/album/7A3k2QXTZ1508elgdkOY53) | 5:47 | 2024-02-16 | 2024-11-09 |
+| [Aku Po Dek e](https://open.spotify.com/track/1VQ7j2h4iH6eUdHncaUebz) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Aku Po Dek e](https://open.spotify.com/album/1BcoQHyfpaAzqSuQdWVL7p) | 4:46 | 2025-02-28 |  |
 | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/album/7E4eC0hWBPdYe6017bLNdC) | 4:29 | 2022-05-26 | 2022-11-14 |
 | [Aku Tenang](https://open.spotify.com/track/1bmOl3WYltXNAWDFcyOrmc) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Aku Tenang](https://open.spotify.com/album/2uCk5kk3fWD9JQ0JkTM7QA) | 5:18 | 2025-02-21 |  |
 | [Aku Wong Lanang](https://open.spotify.com/track/6375kKoeQhZQmIVVcagW2M) | [Lamunan](https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf) | [Aku Wong Lanang](https://open.spotify.com/album/6MEYg39MsNs1QAMrVfKV8g) | 3:33 | 2024-03-14 | 2024-08-09 |
@@ -147,7 +148,7 @@
 | [Kapang \- Acoustic Version](https://open.spotify.com/track/6f7p0FiKZsMyXF3kN8ZfQd) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Kapang \(Acoustic Version\)](https://open.spotify.com/album/6eLiJGKbsoNWGlByJ3CM40) | 4:39 | 2024-02-16 | 2024-03-30 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 | 2024-04-26 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t) | 5:46 | 2024-10-04 |  |
-| [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 |  |
+| [Kau Yang Memilih Aku](https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Kau Yang Memilih Aku](https://open.spotify.com/album/3av8xh4YstrMX7wD95ZhiW) | 4:56 | 2024-11-21 | 2025-02-28 |
 | [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 | 2024-06-14 |
 | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/track/4vWgNqMHIo6TU8tNkUFEOj) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/album/0CGFvfgMFN7IdVwOGnuJMm) | 6:12 | 2024-10-24 |  |
 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 | 2023-08-11 | 2024-04-26 |

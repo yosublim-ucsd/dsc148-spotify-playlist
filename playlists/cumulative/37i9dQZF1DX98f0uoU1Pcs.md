@@ -4,7 +4,7 @@
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-778 songs - 1 day 19 hr 36 min
+779 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 | 2024-07-02 | 2025-02-01 |
 | [Edge Of Teeth](https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Edge Of Teeth](https://open.spotify.com/album/24cq8kLYhfeH0tC4F6QAMa) | 4:45 | 2023-08-11 | 2023-10-17 |
 | [Eggman](https://open.spotify.com/track/1vsxjtAWoijQmtYjdtQmAV) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Eggman](https://open.spotify.com/album/0IhxrXyYRaOHhvSuJIR3cz) | 4:04 | 2023-10-02 | 2024-01-14 |
-| [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 | 2023-10-16 |  |
+| [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 | 2023-10-16 | 2025-02-28 |
 | [Elimination Dances](https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Elimination Dances](https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5) | 3:37 | 2023-05-22 | 2023-06-03 |
 | [Elvis In The Army](https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN) | [A\. Savage](https://open.spotify.com/artist/1MK90Dn9tMbk16g2Vb2NQp) | [Elvis In The Army](https://open.spotify.com/album/1rr5phIBPE801sqSKjyRzv) | 3:37 | 2023-08-25 | 2024-03-02 |
 | [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 | 2023-02-13 | 2023-08-12 |
@@ -577,6 +577,7 @@
 | [Repetitioner](https://open.spotify.com/track/2h5zji6AoEPjSdHYgsIbJy) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [Memorial](https://open.spotify.com/album/1p0dP1j8dIPv25UWwdr204) | 5:31 | 2023-08-25 | 2024-08-24 |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-08 | 2024-08-24 |
 | [Retirement](https://open.spotify.com/track/4k82pg7c4hrUctk1RX1cqg) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:59 | 2023-08-25 | 2024-06-29 |
+| [Return](https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Return](https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y) | 3:02 | 2025-02-25 |  |
 | [Ride On](https://open.spotify.com/track/048gO52Od4ig8MEM4oQTv1) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:44 | 2024-04-12 | 2024-04-19 |
 | [Ride On](https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Ride On](https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z) | 4:44 | 2023-01-25 | 2023-03-11 |
 | [Ride On](https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 4:44 | 2023-03-10 | 2024-06-22 |

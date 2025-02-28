@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Rooskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,545 likes - 110 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,634 likes - 110 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 109 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 110 | [Suddenly](https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Suddenly](https://open.spotify.com/album/0eRXhuldZMfhRSy6vTEToQ) | 4:44 |
 
-Snapshot ID: `Z6mbfAAAAAA+KxCi/57vOfKggu9I6M+R`
+Snapshot ID: `Z6mbfAAAAADmPMBjFZGVOmleTkln40Lh`

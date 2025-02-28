@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,691 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,720 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/track/5UjiQgEQN9QODf8K3NQ8H5) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK) | 2:50 |
 | 80 | [Yo My Gee](https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Yo My Gee](https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3) | 2:34 |
 
-Snapshot ID: `Z7xscAAAAACzFLbfSufVbGSoCWDkQvwP`
+Snapshot ID: `Z7xscAAAAACURTdgOQMnfP/+mauqzNU8`

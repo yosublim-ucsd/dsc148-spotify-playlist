@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,111 songs - 2 day 23 hr 33 min
+1,112 songs - 2 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Far Away](https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Far Away](https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV) | 4:24 | 2023-05-11 |  |
 | [Featherlight](https://open.spotify.com/track/3nWm3nnIZio7LaEaXKzRGK) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Featherlight](https://open.spotify.com/album/1fsYJbaE0j3oqb5gu6r8GC) | 3:15 | 2024-04-17 | 2024-05-24 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-09 | 2024-04-19 |
+| [Feels magical](https://open.spotify.com/track/1tljrpEI9q7Qtsd2SWIcEm) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Feels magical](https://open.spotify.com/album/7ylvuOfqhjsz9IrBpXbd0l) | 3:01 | 2025-02-24 |  |
 | [Filippa](https://open.spotify.com/track/1m7ab27FBBeF3Zg13ol2YC) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Filippa](https://open.spotify.com/album/0Ud0BP8Fdy1mqDWWl8bHj6) | 4:18 | 2024-02-23 |  |
 | [Fine And Dandy](https://open.spotify.com/track/7xMqwidXiiKsCR8f5l48wg) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fine And Dandy](https://open.spotify.com/album/2QNt0vHym8Oyfom0mElA7f) | 2:43 | 2023-03-16 |  |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 | 2023-06-09 |
@@ -1112,7 +1113,7 @@
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-11-10 |  |
 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 | 2021-12-03 |  |
 | [You're So Many Things](https://open.spotify.com/track/4dEC0DQ591ERJ4EqCbg521) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [You're So Many Things](https://open.spotify.com/album/3CvL8ngAxq8b2FMnlYRsZV) | 3:43 | 2024-04-17 |  |
-| [You've Changed \- Live](https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 7:55 | 2021-12-03 |  |
+| [You've Changed \- Live](https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 7:55 | 2021-12-03 | 2025-02-28 |
 | [Young And Foolish](https://open.spotify.com/track/4n2ZSKL2Kv0yxihsYo4pkg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Young And Foolish](https://open.spotify.com/album/7x3GBRQYeoQcbhSfM6npCV) | 3:35 | 2023-03-30 |  |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |
 | [Your Goodbye](https://open.spotify.com/track/23O9t0qs6YkUFIiRmxAXAV) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Your Goodbye](https://open.spotify.com/album/6ua5uLyEVWOz4e23b7TduX) | 3:40 | 2023-12-08 |  |

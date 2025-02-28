@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,041 likes - 95 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,070 likes - 95 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 50 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 |
 | 51 | [Keepin' It Real](https://open.spotify.com/track/0RpoxmvBTYAE1wvAliVzjK) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ) | [Keepin' It Real](https://open.spotify.com/album/0kdRFLe5A9IvAA81P3yCCZ) | 7:08 |
 | 52 | [The Magilla](https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [The Spoiler](https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS) | 6:04 |
-| 53 | [The Lion's Roar \- Remastered](https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:54 |
+| 53 | [The Lion's Roar \- Rudy Van Gelder Edition/2009 Remaster](https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Rudy Van Gelder Edition/2009 Remaster\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:54 |
 | 54 | [Drum One](https://open.spotify.com/track/5jRb2jFB8ZG9qwgGQDSL3g) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:22 |
 | 55 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 56 | [Move \- Remastered 2002](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |

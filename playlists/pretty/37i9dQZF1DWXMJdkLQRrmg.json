@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 348649,
+  "num_followers": 348694,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Crooked Shadows",
         "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 229466,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
-      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Complete Collapse (Acoustic)",
         "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 184426,
       "name": "Complete Collapse - Acoustic",
       "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
+      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Flames (feat. Avril Lavigne) [Acoustic]",
         "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147357,
       "name": "Flames (feat. Avril Lavigne) [Acoustic]",
       "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "abcdefu (chill)",
+        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176765,
+      "name": "abcdefu (chill)",
+      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
     },
     {
       "added_at": "2024-07-05 19:40:49",

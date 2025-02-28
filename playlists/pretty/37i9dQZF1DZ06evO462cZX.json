@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42980,
+  "num_followers": 43004,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAABvsRQM/Mk3LAdI3uKCy9RB",
+  "snapshot_id": "Z75ZgAAAAABu1C29yAGJ9NQedxS8S0ID",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RBS",
         "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elevation EP",
+        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Red Lips",
+      "url": "https://open.spotify.com/track/6hpdg4x22cDrootVSKvoMi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Agradece",
         "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 215963,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Red Lips",
-      "url": "https://open.spotify.com/track/6hpdg4x22cDrootVSKvoMi"
     }
   ],
   "unique_name": "This Is Deorro",

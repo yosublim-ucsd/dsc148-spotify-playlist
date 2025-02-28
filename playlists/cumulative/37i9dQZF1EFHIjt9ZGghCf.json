@@ -1118,10 +1118,50 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 320000,
       "name": "Have Your Way",
       "url": "https://open.spotify.com/track/1YgJuNin4wrjCO8YMvpUJx"
+    },
+    {
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/629PLp2o0AlVaVcxsuiBkH"
+    },
+    {
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/0S5Nawa238QKWHOanpOitu"
     },
     {
       "album": {
@@ -1140,7 +1180,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 240000,
       "name": "He Paid It All",
       "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
@@ -3462,6 +3502,28 @@
     {
       "album": {
         "name": "The Encounter",
+        "url": "https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Psalmist Raine",
+          "url": "https://open.spotify.com/artist/3uwJ062m79j5I0qr6U4NWY"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "We Want More",
+      "url": "https://open.spotify.com/track/48aEolFfNEPxXkeWdQVskj"
+    },
+    {
+      "album": {
+        "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
       "artists": [
@@ -3476,7 +3538,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 352000,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/6pYnwdJkyoRFaTsbkPbxD1"

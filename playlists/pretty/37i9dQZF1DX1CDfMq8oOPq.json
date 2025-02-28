@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 64441,
+  "num_followers": 64470,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
+        "name": "APEDIDO",
+        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 119360,
+      "name": "APEDIDO",
+      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
+    },
+    {
+      "added_at": "2025-02-21 17:25:54",
+      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
       },
@@ -731,6 +751,26 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+    },
+    {
+      "added_at": "2025-02-21 17:25:54",
+      "album": {
         "name": "Verdinha Criminosa",
         "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
       },
@@ -755,30 +795,6 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": "2025-02-21 17:25:54",
-      "album": {
         "name": "Date",
         "url": "https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 160000,
       "name": "Date",
       "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
-    },
-    {
-      "added_at": "2025-02-21 17:25:54",
-      "album": {
-        "name": "APEDIDO",
-        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 119360,
-      "name": "APEDIDO",
-      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
     },
     {
       "added_at": "2025-02-21 17:25:54",
@@ -935,8 +931,8 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
       "artists": [
         {
@@ -944,13 +940,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
           "name": "Mello Santana",
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": "2025-02-21 17:25:54",

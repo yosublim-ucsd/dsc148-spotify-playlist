@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Rsko x Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 176949,
       "name": "C'est comment ?",
       "url": "https://open.spotify.com/track/0Qw8WyRZULHvgY4wUvSZL0"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 148495,
       "name": "Comme moi",
       "url": "https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB"
@@ -2503,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "Ennemi",
+        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Ennemi",
+      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
+    },
+    {
+      "album": {
         "name": "4 SEASONS - WINTER",
         "url": "https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz"
       },
@@ -3249,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/4E8UsLksU1MlHU2jZDajvO"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256771,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/1yeJ6DlxBQrDeqPNdqge8N"
+    },
+    {
+      "album": {
         "name": "J'ai coup\u00e9 l'contact",
         "url": "https://open.spotify.com/album/2XmfrnYNdqPJ6wcKEXHu03"
       },
@@ -3340,7 +3384,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 156279,
       "name": "J'hallucine",
       "url": "https://open.spotify.com/track/0wqcFuj737U2r1Sa0R6Pi2"
@@ -7866,6 +7910,24 @@
       "duration_ms": 228625,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2j2iLEhv90kjq66vEnOZVV"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD"
     },
     {
       "album": {

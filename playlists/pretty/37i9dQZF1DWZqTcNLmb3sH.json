@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62810,
+  "num_followers": 62815,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z76znwAAAABMFLlWNALL3PFzZCMkuuVW",
+  "snapshot_id": "Z8CCegAAAADNFHixNLJlBFRtV8pI/Xl/",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -243,6 +243,26 @@
       "duration_ms": 155795,
       "name": "Noda Nodaa",
       "url": "https://open.spotify.com/track/40fM6I9tvX5hTJvRegYy5O"
+    },
+    {
+      "added_at": "2025-02-27 15:19:22",
+      "album": {
+        "name": "Unemployment (From\"Interval\")",
+        "url": "https://open.spotify.com/album/5fCVqaF770UCbiqY4GVDJB"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        },
+        {
+          "name": "Vikas Vasishta",
+          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Unemployment (From\"Interval \")",
+      "url": "https://open.spotify.com/track/54u0tzvlLOxUkXj7ykdb0s"
     },
     {
       "added_at": "2025-02-20 10:55:46",

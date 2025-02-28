@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Elle Limebear & Samm Henshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,158 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,201 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [SPEED DIAL](https://open.spotify.com/track/0olodLskiHNM1J9iEOV2vf) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [SPEED DIAL](https://open.spotify.com/album/1P761vQQBLqIvJp5SWhMy6) | 3:05 |
 | 100 | [Put Down The Phone](https://open.spotify.com/track/69aKC13SkogDmOz6NWjNYH) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Put Down The Phone](https://open.spotify.com/album/6c9qmGGQRj6flrcNRiR005) | 3:35 |
 
-Snapshot ID: `Z7ldiAAAAAADOegWUnGBGr+LQ+/HagbT`
+Snapshot ID: `Z7ldiAAAAAD4NWaYeva3vKxFpkAR6/KM`

@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167967,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
+    },
+    {
+      "album": {
         "name": "El Valle Encantado",
         "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 188201,
       "name": "Ahora que no estoy yo",
       "url": "https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4"
@@ -4893,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Escondite Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/1gIfZiwlrt1mtv3b7cRDOR"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Escondite Ingl\u00e9s",
+      "url": "https://open.spotify.com/track/1FWI7CnCm0WBuvDM9O9q6z"
+    },
+    {
+      "album": {
         "name": "Espirales",
         "url": "https://open.spotify.com/album/3q1OYKZZSjhRVn0P0OLmAT"
       },
@@ -5453,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/1lTSt76ujjKGJVIV77oroM"
+      },
+      "artists": [
+        {
+          "name": "Lorena \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441145,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/60CIrMzhavWqg9VktE8IFB"
+    },
+    {
+      "album": {
         "name": "Hablando a tu coraz\u00f3n",
         "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
       },
@@ -5558,7 +5612,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 200768,
       "name": "hay algo en esa luz",
       "url": "https://open.spotify.com/track/0tAW9w9cW7Xw1a3GB29V3c"
@@ -6350,7 +6404,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
@@ -6804,7 +6858,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 203523,
       "name": "La Tr\u00e1gica",
       "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
@@ -7210,7 +7264,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
@@ -8796,6 +8850,24 @@
       "duration_ms": 144545,
       "name": "NACE UNA MADRE",
       "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+    },
+    {
+      "album": {
+        "name": "HAZ LO TUYO",
+        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "nada es para siempre (As\u00ed)",
+      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
     },
     {
       "album": {
@@ -10587,6 +10659,28 @@
     },
     {
       "album": {
+        "name": "Pude verte",
+        "url": "https://open.spotify.com/album/3g7BZPOTZzDCrXUgKiUof7"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Pude verte",
+      "url": "https://open.spotify.com/track/4AAtZeRKz2yp8LlrYoy8om"
+    },
+    {
+      "album": {
         "name": "Pulm\u00f3n",
         "url": "https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl"
       },
@@ -10808,7 +10902,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 138888,
       "name": "Que no ves que no vas",
       "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
@@ -12120,7 +12214,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 205741,
       "name": "serpiente",
       "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
@@ -12262,7 +12356,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
@@ -14988,6 +15082,24 @@
       "duration_ms": 250946,
       "name": "\u00daltimo Aliento",
       "url": "https://open.spotify.com/track/3osCap9ViWOWhYk8FOWZdZ"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1OJukhFzFIdyZoR2cmLlzu"
+      },
+      "artists": [
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258834,
+      "name": "\u2060Animal",
+      "url": "https://open.spotify.com/track/7pLKCGo4soMGS0Gy4fWbyg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix"

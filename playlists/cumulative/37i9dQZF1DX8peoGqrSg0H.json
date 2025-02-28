@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Heart Poppin'",
+        "url": "https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209747,
+      "name": "Heart Poppin'",
+      "url": "https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 194666,
       "name": "heartstopper",
       "url": "https://open.spotify.com/track/5cnNLM3xWUXqVLXtvH8ZQa"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 187250,
       "name": "ooh!",
       "url": "https://open.spotify.com/track/2KCVEAvDSdC8boJJIw0a8H"
@@ -5653,6 +5671,28 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e37\u0e48\u0e19 (Wake Up Call) [From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35]",
+        "url": "https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/5fm7f356c7AZIeCcRK3gig"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176877,
+      "name": "\u0e15\u0e37\u0e48\u0e19 (Wake Up Call) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
+      "url": "https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8"
       },
@@ -6376,7 +6416,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 167500,
       "name": "\u0e19\u0e49\u0e2d\u0e22 \u0e19\u0e49\u0e2d\u0e22 \u0e2b\u0e19\u0e48\u0e2d\u0e22 (Say Less)",
       "url": "https://open.spotify.com/track/1eXXMr53N6awg5v5MYq9Xk"
@@ -6620,6 +6660,28 @@
       "duration_ms": 193660,
       "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility)",
       "url": "https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
+        "url": "https://open.spotify.com/album/3nzV3XSNqlty0vXv0oCIAr"
+      },
+      "artists": [
+        {
+          "name": "Offroad Kantapon",
+          "url": "https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL"
+        },
+        {
+          "name": "SMEW",
+          "url": "https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
+      "url": "https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8"
     },
     {
       "album": {
@@ -8285,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e2b\u0e19\u0e49\u0e32 (9PM) [From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08]",
+        "url": "https://open.spotify.com/album/2zOvJPfZ1vaIz1VT2wq0Qa"
+      },
+      "artists": [
+        {
+          "name": "pide",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        },
+        {
+          "name": "GELBOYS",
+          "url": "https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e2b\u0e19\u0e49\u0e32 (9PM) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3ZUSCLXPYLodwpYRKklbvq"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e31\u0e19\u0e40\u0e01\u0e34\u0e14\u0e40\u0e18\u0e2d (TO YOU) - Single",
         "url": "https://open.spotify.com/album/2ezJ2HDHy4WvRd28oiiPR6"
       },
@@ -9742,7 +9826,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 191460,
       "name": "\u0e40\u0e08\u0e2d\u0e22\u0e31\u0e07? (Still?)",
       "url": "https://open.spotify.com/track/7sCrT0SpZzqZ6FyNFiHPzi"
@@ -10424,10 +10508,32 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 138428,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e4a\u0e01\u0e41\u0e25\u0e49\u0e27\u0e23\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19 (Red flag) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1DO4LZtfeakgZ14hvGmk4x"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e4a\u0e01\u0e41\u0e25\u0e49\u0e27\u0e23\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19 (RED FLAG) FOU4MOD Version [From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08]",
+        "url": "https://open.spotify.com/album/2ayDHv7j0vXpatc4ZCI5Po"
+      },
+      "artists": [
+        {
+          "name": "NEW CHAYAPAK",
+          "url": "https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW"
+        },
+        {
+          "name": "GELBOYS",
+          "url": "https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185892,
+      "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e4a\u0e01\u0e41\u0e25\u0e49\u0e27\u0e23\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19 (RED FLAG) FOU4MOD Version - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/7K8lEWGzawZZ4z5m28dvsX"
     },
     {
       "album": {

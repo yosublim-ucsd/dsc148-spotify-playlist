@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: Poppy
 
-352 songs - 22 hr 23 min
+353 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Rage](https://open.spotify.com/track/2EWtjjsdSurRlILqIMBi10) | [Mezmerized](https://open.spotify.com/artist/51W0g0LWxUhysZgGxt7MLE) | [Rage](https://open.spotify.com/album/4NeU0yW6cAdcbKoGOOeDxh) | 3:52 | 2020-12-07\* | 2022-07-29 |
 | [Railroads](https://open.spotify.com/track/0ERZPTzyDa56JBqi4woyPH) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Railroads](https://open.spotify.com/album/1zdI5fEeY2BqNSiMDYJ1Yg) | 4:00 | 2020-12-07\* | 2020-12-11 |
 | [Raven](https://open.spotify.com/track/2VHKaZM3fGGCHHaB4PPzK8) | [Melissa VanFleet](https://open.spotify.com/artist/7pCuLbf4lheMbOoL2S21ai) | [Ode To The Dark](https://open.spotify.com/album/3RkAUp4QES81AxPLF6uFLI) | 5:15 | 2020-12-07\* | 2020-12-11 |
-| [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 | 2022-03-11 |  |
+| [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 | 2022-03-11 | 2025-02-28 |
 | [Reckless](https://open.spotify.com/track/7hEk5UTV73GwV9mjw8fBy8) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Reckless](https://open.spotify.com/album/0nd9VY90TYG8TuZpiU3boV) | 3:05 | 2020-12-07\* | 2021-05-15 |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-02-04 |  |
 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 | 2024-07-22 |
@@ -293,6 +293,7 @@
 | [Taunt Me](https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Taunt Me](https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE) | 3:53 | 2023-02-03 | 2023-02-11 |
 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 | 2022-03-11 | 2023-11-21 |
 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 | 2021-10-02 | 2022-09-11 |
+| [Taxicab Messiah](https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c) | [Kidneythieves](https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj) | [Trickstereprocess](https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf) | 4:20 | 2024-07-19 |  |
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |
 | [The Final Theory \(Demo\)](https://open.spotify.com/track/51xmR73DF3JviQZfPRpvBA) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [The Final Theory \(Demo\)](https://open.spotify.com/album/7MhvVSqmUtWNAUu3tHnV95) | 4:22 | 2020-12-07\* | 2021-05-29 |
 | [The Game Is Over](https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Game Is Over](https://open.spotify.com/album/4OWpobECNo3zO0S9HHxzmW) | 4:21 | 2020-12-07\* | 2022-07-24 |

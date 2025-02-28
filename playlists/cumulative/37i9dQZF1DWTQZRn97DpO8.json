@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Sonny Rave",
   "name": "le miel",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Le Temps Qui Passe",
+        "url": "https://open.spotify.com/album/5UuCnoVtFkjjk5VhK1GuhH"
+      },
+      "artists": [
+        {
+          "name": "Mee Shel",
+          "url": "https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "Apr\u00e8s",
+      "url": "https://open.spotify.com/track/30X4degBCDUzKHUXK4HF0h"
+    },
+    {
+      "album": {
         "name": "On verra apr\u00e8s l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/1M9IXFB282zyzdhp0CSSm7"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 166816,
       "name": "BARB\u00c8S",
       "url": "https://open.spotify.com/track/7JQZkNy5l5s8Sa05SGXvH8"
@@ -432,6 +450,24 @@
       "duration_ms": 138750,
       "name": "Besoin",
       "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
+    },
+    {
+      "album": {
+        "name": "SILK & SHADOWS",
+        "url": "https://open.spotify.com/album/6Qn17KJsbYgo1DYJLvo5Kx"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "BESOIN",
+      "url": "https://open.spotify.com/track/22F8Vg0iI9oInR8xE5EXjS"
     },
     {
       "album": {
@@ -518,7 +554,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159585,
       "name": "Boru Kata",
       "url": "https://open.spotify.com/track/4l9N7iqG2TiTfMcY3CF1op"
@@ -1279,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "NOUS ART : Masterpiece",
+        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "ELLE NE VEUT QUE",
+      "url": "https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj"
+    },
+    {
+      "album": {
         "name": "Porn Winter",
         "url": "https://open.spotify.com/album/5zPg1VPabOYoZpi07a923U"
       },
@@ -1338,6 +1392,24 @@
       "duration_ms": 203653,
       "name": "Encaisser",
       "url": "https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I"
+    },
+    {
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3WZ2Fq5OE9RUW1WAwk6gey"
+      },
+      "artists": [
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/4da473DORqqfLBm8Vff4pD"
     },
     {
       "album": {
@@ -1464,7 +1536,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 101226,
       "name": "Fils de (Sans Valentin)",
       "url": "https://open.spotify.com/track/3iIW06aZGly2F0ViQigqEt"
@@ -1990,7 +2062,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160776,
       "name": "IDIU SU SUMA",
       "url": "https://open.spotify.com/track/0WZQBp6PWfXvkmGnkwvw03"
@@ -2154,7 +2226,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158500,
       "name": "J'ai voulu",
       "url": "https://open.spotify.com/track/6AaotUGcQSPfdkGbgNcP3Y"
@@ -2410,7 +2482,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 213615,
       "name": "La Bague",
       "url": "https://open.spotify.com/track/5GB3DnQgBrtIUkHkqLB8cP"
@@ -4670,7 +4742,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 138706,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/0133Yi3y05GTrufmdJnyWV"
@@ -4877,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Tkt je g\u00e8re",
+        "url": "https://open.spotify.com/album/0GnJqysICwsAkdEK7wDFup"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "Tkt je g\u00e8re",
+      "url": "https://open.spotify.com/track/5H8mXeOgpaZ1oWN8eK51X0"
+    },
+    {
+      "album": {
         "name": "TOI QUI VOULAIS PARTIR",
         "url": "https://open.spotify.com/album/6w2w4ERrrr8kEj2fvnV30h"
       },
@@ -5061,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Lettre \u00e0 l'Univers",
+        "url": "https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm"
+      },
+      "artists": [
+        {
+          "name": "Nilusi",
+          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140228,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/0N4BcIilo0OZBRBlfA1KRo"
+    },
+    {
+      "album": {
         "name": "Tu m'aimes",
         "url": "https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc"
       },
@@ -5224,6 +5332,28 @@
       "duration_ms": 189639,
       "name": "un soir d'hiver",
       "url": "https://open.spotify.com/track/5Y2WTNlWpKx5c8HWDaitqk"
+    },
+    {
+      "album": {
+        "name": "Premier p\u00e9tale",
+        "url": "https://open.spotify.com/album/135Blnc2l4f5iIPVOf9RHe"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        },
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "Une derni\u00e8re fois (feat. Tsew The Kid)",
+      "url": "https://open.spotify.com/track/29Q7hFNInwMfIfdJv5d7hS"
     },
     {
       "album": {

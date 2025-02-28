@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Рупе Рупе](https://open.spotify.com/track/4Ei2tzVf3xATHv8lBupti6) | [Tomas](https://open.spotify.com/artist/6Pu7616ebCHHPJkcpuiBZd), [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1), [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Рупе Рупе](https://open.spotify.com/album/0AQJyCNrj3Iv8M77IrvjE3) | 2:58 |
 | 50 | [Първият](https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr) | [Първият](https://open.spotify.com/album/0TTgCeoepCQklYz4lWCu3E) | 3:17 |
 
-Snapshot ID: `L1KBSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L1PVIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

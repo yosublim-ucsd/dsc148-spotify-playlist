@@ -2,7 +2,7 @@
 
 ### [Sad Folk](https://open.spotify.com/playlist/37i9dQZF1DWV1bxlagjEmb)
 
-> like a dog with a bird at your door
+> folk songs for the weight of it all, featuring music from Gregory Alan Isakov
 
 138 songs - 9 hr 23 min
 

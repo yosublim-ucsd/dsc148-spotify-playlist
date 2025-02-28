@@ -1,13 +1,173 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9?si=HVoCTpNUTfaG3ASnjdxJ5A\">Muzzzoh</a>",
-  "num_followers": 12479,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=DUTpxbScSdma0rEXXrW3Nw\">Hugo Pooe</a>",
+  "num_followers": 12483,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7el7wAAAADG18MtZFJYIPgFgOaPZh9W",
+  "snapshot_id": "Z8DgdQAAAADXvVozkWyTAAOm61H3GneY",
   "tracks": [
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5148Kh8FLbVujoy9hTxYS9"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7sN6eKMMXaVDRY0KYALWoc"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/6moxTk35VDx2mxANPUarwi"
+      },
+      "artists": [
+        {
+          "name": "tan sholto",
+          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
+        }
+      ],
+      "duration_ms": 133225,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/7AH6KqLj7s3oDQq7toOSLh"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "duration_ms": 237716,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "be mine",
+        "url": "https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 281401,
+      "name": "be mine",
+      "url": "https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Pretty Words",
+        "url": "https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Pretty Words",
+      "url": "https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Dear Daddy",
+        "url": "https://open.spotify.com/album/2yw9gOam3Rgdt0zQcRh2QS"
+      },
+      "artists": [
+        {
+          "name": "Anna Wolf",
+          "url": "https://open.spotify.com/artist/0DpjMYzcA7lY3DawON9HP0"
+        }
+      ],
+      "duration_ms": 258685,
+      "name": "Dear Daddy",
+      "url": "https://open.spotify.com/track/6Boy2GLnJwuTw2D7jpijnP"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/4HUqTiWORCV5sFzOqJhGhi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Morris",
+          "url": "https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/77Ezus1n5ldeQxMQVaWvqU"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6Fdr04YndoOoWd3P7sr4Na"
+      },
+      "artists": [
+        {
+          "name": "Bam Bam Brown",
+          "url": "https://open.spotify.com/artist/5P3TMf58goWkcj5wUJKKGy"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/00LGzFI1sjScDrOFHwWMHx"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        }
+      ],
+      "duration_ms": 208455,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "mona melody",
+        "url": "https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 206605,
+      "name": "mona melody",
+      "url": "https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke"
+    },
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
@@ -1455,186 +1615,6 @@
       "duration_ms": 161400,
       "name": "COLD",
       "url": "https://open.spotify.com/track/3l5K4y6V1TMWbOzsCkngaZ"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/3B1yfLf0k45yrIyBBK0yP8"
-      },
-      "artists": [
-        {
-          "name": "PSILK",
-          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "No Shame",
-      "url": "https://open.spotify.com/track/06CVhsgjl04o7aHLCPQgts"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "I've Been Told",
-        "url": "https://open.spotify.com/album/2EfUSOvFTazVzQP3yre9xZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 177157,
-      "name": "I've Been Told",
-      "url": "https://open.spotify.com/track/1ggKAEJrDoUIuZyLTC0VUl"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/5Us3KHibxiX2oInA8IN0Qm"
-      },
-      "artists": [
-        {
-          "name": "Face and the Features",
-          "url": "https://open.spotify.com/artist/16vvbLv35opMOVyRC8x5c9"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1UMg5pAqwaQBSIdNDYtrUx"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "sunset & roses",
-        "url": "https://open.spotify.com/album/10Oa7cFcgtdBaeTjEnthsr"
-      },
-      "artists": [
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        },
-        {
-          "name": "Yxng Davi",
-          "url": "https://open.spotify.com/artist/1ADCOPx0ZFZiVU03ooLSLI"
-        }
-      ],
-      "duration_ms": 140326,
-      "name": "sunset & roses",
-      "url": "https://open.spotify.com/track/3m7KdxvTm2ywnQJlv1LhVo"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Asphalt",
-        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Asphalt",
-      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "dEMOn",
-        "url": "https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP"
-      },
-      "artists": [
-        {
-          "name": "Espacio Dios",
-          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
-        }
-      ],
-      "duration_ms": 276753,
-      "name": "dEMOn",
-      "url": "https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "IGNORED",
-        "url": "https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n"
-      },
-      "artists": [
-        {
-          "name": "Boko Yout",
-          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
-        }
-      ],
-      "duration_ms": 166322,
-      "name": "IGNORED",
-      "url": "https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Hopeless Romantic Views",
-        "url": "https://open.spotify.com/album/18VaVA24CnfSFMBRYIG2Ps"
-      },
-      "artists": [
-        {
-          "name": "Luvleigh",
-          "url": "https://open.spotify.com/artist/3gHP5XQzzkVpM1DKgURIEd"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Hopeless Romantic Views",
-      "url": "https://open.spotify.com/track/0SE3nPbHCq9EI7s6gDfFwy"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Expressionism",
-        "url": "https://open.spotify.com/album/3bSAaJ6xfW8ISD71K4ZtXW"
-      },
-      "artists": [
-        {
-          "name": "Pat McKeown",
-          "url": "https://open.spotify.com/artist/4CiBxATRLg1i9QyAQsLIcH"
-        }
-      ],
-      "duration_ms": 270389,
-      "name": "Tiger Lily",
-      "url": "https://open.spotify.com/track/65GBEEP2cdjBbMwDCXk9z1"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "gods last chance",
-        "url": "https://open.spotify.com/album/1tslCSJOQI9uIFLgG91BLJ"
-      },
-      "artists": [
-        {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
-        }
-      ],
-      "duration_ms": 124180,
-      "name": "gods last chance",
-      "url": "https://open.spotify.com/track/3pUPww70x2A3mYl9Tvbra9"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "I Won't Come to Your Opening",
-        "url": "https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Won't Come to Your Opening",
-      "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
     }
   ],
   "unique_name": "Indie GO",

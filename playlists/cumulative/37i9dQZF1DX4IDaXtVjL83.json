@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/0Ohrk1nqXmdEpoMoU0Vbkv"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        },
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156641,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez"
+    },
+    {
+      "album": {
         "name": "Ashes (feat. Ai Tomioka)",
         "url": "https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3"
       },

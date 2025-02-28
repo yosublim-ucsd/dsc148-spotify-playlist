@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hungria
 
-461 songs - 23 hr 56 min
+462 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 | 2024-12-13 |  |
 | [Atenção!](https://open.spotify.com/track/4b6MEmZBgjEqevMEiIO0BI) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Davi Horta](https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD), [Daniel Souza](https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [LUAR](https://open.spotify.com/artist/1Xx7ZBh8sm7gy8db7xUGy3) | [Atenção!](https://open.spotify.com/album/5336HasldqLfPAwj2Pp8Et) | 3:35 | 2024-10-11 | 2024-11-30 |
 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2022-07-22 | 2022-08-13 |
+| [Atrás do Paredão](https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Atrás do Paredão](https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13) | 2:50 | 2025-02-21 |  |
 | [Até o Fim](https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC) | [Rezeh](https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Até o Fim](https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz) | 1:32 | 2024-11-22 |  |
 | [Aura](https://open.spotify.com/track/0nzIp8UuHE5UxInOdaHvAy) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Aura](https://open.spotify.com/album/4FTuhl7ay2UEaG0UZ0AVOU) | 2:37 | 2022-08-12 | 2022-08-20 |
 | [Açaí](https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Lipe](https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN) | 2:41 | 2022-06-14 | 2022-07-23 |
@@ -467,7 +468,7 @@
 | [Às Escuras](https://open.spotify.com/track/1MfkPdgUhNLcOEisXGNdl0) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 2:43 | 2023-08-11 | 2023-11-18 |
 | [Ímã](https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mundo Gira](https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt) | 2:51 | 2024-05-17 |  |
 | [Última Mensagem](https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Última Mensagem](https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4) | 2:54 | 2022-05-23 | 2022-12-10 |
-| [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 | 2024-10-11 |  |
+| [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 | 2024-10-11 | 2025-02-28 |
 | [Último Romântico do Mundo](https://open.spotify.com/track/7r24W0zWyGaLWktPK642gi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Último Romântico do Mundo](https://open.spotify.com/album/4HxcId1MyFQi0XqXhxuPC3) | 3:06 | 2022-08-26 | 2022-09-05 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits de la pop maghrébine\. Cover: Mounim Slimani
+> Les meilleurs hits de la pop maghrébine\. Cover: RYM
 
 169 songs - 9 hr 10 min
 

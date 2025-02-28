@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Sam Fender
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: ONE OK ROCK
 
-1,518 songs - 3 day 15 hr 13 min
+1,520 songs - 3 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-30 | 2023-09-08 |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-13 | 2023-07-28 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-09 | 2024-10-04 |
-| [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 |  |
+| [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 | 2025-02-28 |
 | [Hey Bulldog \- 2023 Mix](https://open.spotify.com/track/3iGns07SjzqHZGn6h8FKVS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 3:11 | 2023-11-09 | 2023-12-01 |
 | [Hey God](https://open.spotify.com/track/35YbhHiWec53yRvrbz9org) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Hey God](https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L) | 3:57 | 2023-04-20 | 2023-04-28 |
 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 | 2024-01-04 | 2024-01-12 |
@@ -643,6 +643,7 @@
 | [I Inside the Old Year Dying](https://open.spotify.com/track/2BcsWez4dWYxCy244AnpoX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 1:52 | 2023-07-06 | 2023-07-21 |
 | [I Inside the Old Year Dying](https://open.spotify.com/track/51OeW6i3N6DmMugLZiK9L3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 1:52 | 2023-07-06 | 2023-07-08 |
 | [I Just Don't Know](https://open.spotify.com/track/0AIcHzqhHN5IjIl3qlh90R) | [Duff McKagan](https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1), [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Lighthouse](https://open.spotify.com/album/1yiipBDOi6JJZecycXOlE7) | 5:27 | 2023-10-19 | 2023-10-27 |
+| [I Keep On Messing It Up](https://open.spotify.com/track/3dGU74UBKhHkeCAO8kyyPK) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [I Keep On Messing It Up](https://open.spotify.com/album/03kfZ6iKeJfyJkYPAvt8py) | 2:43 | 2025-02-27 |  |
 | [I Love America And She Hates Me](https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 3:39 | 2025-02-14 | 2025-02-21 |
 | [I Love It When It Rains](https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Love It When It Rains](https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm) | 3:18 | 2024-05-02 | 2024-07-08 |
 | [I Never Had Control](https://open.spotify.com/track/77Gsx3dSqTa4mk2lhUZ6bQ) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [I Never Had Control](https://open.spotify.com/album/0OgL3UYzJqDx6bwSumJXme) | 3:00 | 2024-02-29 | 2024-05-03 |
@@ -790,7 +791,7 @@
 | [Looking Back](https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue) | 3:18 | 2024-02-29 | 2024-03-08 |
 | [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 | 2024-03-02 |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 | 2023-04-21 |
-| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 |  |
+| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 | 2025-02-28 |
 | [Losing Game](https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Losing Game](https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o) | 4:01 | 2023-09-28 | 2023-10-20 |
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-25 | 2024-02-02 |
 | [Losing My Sense Of Taste](https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Relentless](https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi) | 4:13 | 2023-09-15 | 2023-09-22 |
@@ -905,6 +906,7 @@
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-27 | 2023-08-04 |
 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 | 2023-06-22 | 2023-07-14 |
 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 | 2024-05-30 |  |
+| [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 | 2024-09-07 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-22 | 2025-01-24 |
 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 | 2024-02-08 | 2024-03-01 |

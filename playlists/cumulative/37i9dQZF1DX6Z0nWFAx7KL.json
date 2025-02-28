@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 154838,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 146730,
       "name": "Can't Stop Thinking",
       "url": "https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 234049,
       "name": "Come alive",
       "url": "https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 232991,
       "name": "Everything Changes But Us",
       "url": "https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
@@ -2342,6 +2342,28 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/0gvT1BGZ6cBRJa3rvUGRz3"
+      },
+      "artists": [
+        {
+          "name": "gussago",
+          "url": "https://open.spotify.com/artist/6qipj1ZYBScGdAEJFuj5Dd"
+        },
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0x83X3XJbNHDJ56ZnNMRW8"
     },
     {
       "album": {
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 170086,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
@@ -4618,7 +4640,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
@@ -4662,7 +4684,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 207457,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
@@ -5160,7 +5182,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 136250,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u"
@@ -6176,7 +6198,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 137270,
       "name": "Why Don't We",
       "url": "https://open.spotify.com/track/6NVi9Z6a2po7wDjwIJoWO7"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Joan Thiele in cover della playlist con il meglio dell\u2019indie italiano!",
+  "description": "Lucio Corsi in cover della playlist con il meglio dell\u2019indie italiano!",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 209718,
       "name": "Amore mio",
       "url": "https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT"
@@ -490,6 +490,24 @@
       "duration_ms": 214245,
       "name": "Cani",
       "url": "https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg"
+    },
+    {
+      "album": {
+        "name": "Sammy, Cabiria, etc. etc.",
+        "url": "https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP"
+      },
+      "artists": [
+        {
+          "name": "Jacopo \u00c8t",
+          "url": "https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167339,
+      "name": "Canzone Facile",
+      "url": "https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3"
     },
     {
       "album": {
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Decostruire",
+        "url": "https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB"
+      },
+      "artists": [
+        {
+          "name": "Anna Castiglia",
+          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169965,
+      "name": "Decostruire",
+      "url": "https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK"
+    },
+    {
+      "album": {
         "name": "Divisi (feat. Franco126)",
         "url": "https://open.spotify.com/album/6WDXDNXgxoc6rbW3dMduU1"
       },
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 234908,
       "name": "Farla Facile",
       "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
@@ -1499,6 +1535,28 @@
     },
     {
       "album": {
+        "name": "In Punta Di Piedi (feat. Le Feste Antonacci)",
+        "url": "https://open.spotify.com/album/3u4ctLYqhmGxkWSs3dznYc"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        },
+        {
+          "name": "Le Feste Antonacci",
+          "url": "https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "In Punta Di Piedi (feat. Le Feste Antonacci)",
+      "url": "https://open.spotify.com/track/18aTK79qHTbaI4wDARTnsg"
+    },
+    {
+      "album": {
         "name": "Innamorarsi perdutamente non \u00e8 mai un affare",
         "url": "https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5"
       },
@@ -1568,7 +1626,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 213266,
       "name": "Io non lo so",
       "url": "https://open.spotify.com/track/4gBNS82Xo9KsCnnR2gOXRo"
@@ -2244,7 +2302,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 177641,
       "name": "my baby!",
       "url": "https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID"
@@ -2606,7 +2664,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 209169,
       "name": "Parole piccole",
       "url": "https://open.spotify.com/track/2c5qBiURh3mowQCXKW5lCG"
@@ -3042,6 +3100,24 @@
       "duration_ms": 186666,
       "name": "Rey Mysterio",
       "url": "https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU"
+    },
+    {
+      "album": {
+        "name": "Riconoscimi",
+        "url": "https://open.spotify.com/album/2JgbFbgWYuo0JXD005nmGf"
+      },
+      "artists": [
+        {
+          "name": "Grill Boys",
+          "url": "https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139175,
+      "name": "Riconoscimi",
+      "url": "https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm"
     },
     {
       "album": {
@@ -3812,6 +3888,24 @@
       "duration_ms": 166343,
       "name": "Una Serie Di Sfortunati Eventi",
       "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
+    },
+    {
+      "album": {
+        "name": "Una storia",
+        "url": "https://open.spotify.com/album/0Usiwih4bBfNaPqtBWMoGI"
+      },
+      "artists": [
+        {
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Una storia",
+      "url": "https://open.spotify.com/track/4XjqghtOHPBDD3o2QDjdR7"
     },
     {
       "album": {

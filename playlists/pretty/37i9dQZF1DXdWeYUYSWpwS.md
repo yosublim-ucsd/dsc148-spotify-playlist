@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,130 likes - 111 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,155 likes - 111 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 | 12 | [Les contes d'Hoffmann \(The Tales of Hoffmann\): Barcarolle](https://open.spotify.com/track/4BlDzt4GOlXypmhYcOqXvC) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Relaxing Pieces](https://open.spotify.com/album/2jHS8ql7jn3lTgwpQPd87R) | 3:33 |
 | 13 | [Aria de la Pastorale en ut mineur BWV 590](https://open.spotify.com/track/2Dt58ytXNrRFtMz3rODSkX) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud: Baroque](https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn) | 2:36 |
 | 14 | [24 Preludes, Op\. 11: No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/track/3lxToYK7vt3OysDMAMVT9A) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Preludes, Op\. 11/No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/album/2MAeQ1QI3a6tIxVdKqOmJS) | 2:00 |
-| 15 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 |
+| 15 | [5 Pieces for Violin and Piano: I\. Elegia\. Andante larghetto](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 |
 | 16 | [Pièces Lyriques, Op\. 47 No\. 3: Mélodie](https://open.spotify.com/track/6G6tIDO3rB8FktjkM70GGd) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Grieg: Concerto Pour Piano & Pièces Lyriques](https://open.spotify.com/album/63Vpar9SVMT2bnkS7sSXsN) | 4:16 |
 | 17 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 |
 | 18 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/10SzxcRqXfcJIlKKZlg1CP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes, Mazurkas, Berceuse, Sonata, Opp\. 55\-58](https://open.spotify.com/album/2XfRLYaStj6jZzm180eKHu) | 4:29 |

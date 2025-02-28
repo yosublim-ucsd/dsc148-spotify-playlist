@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Lecrae, Lukas Agustinho",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 171740,
       "name": "Eu Era Servo",
       "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 180340,
       "name": "Mano, Eu Sou Pentecostal!",
       "url": "https://open.spotify.com/track/7KEGwfGpSZGDxaH5TH69DC"
@@ -6301,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "album": {
         "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
         "url": "https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S"
       },
@@ -6450,7 +6468,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 258549,
       "name": "O Pai Espera Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/7ClOfWsS7Fb2bnj3b3CEJI"
@@ -7327,6 +7345,28 @@
     },
     {
       "album": {
+        "name": "Pras Ruas",
+        "url": "https://open.spotify.com/album/5TaW5Rl4zs4SEEMu1Js791"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Bruninho Music",
+          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122571,
+      "name": "Pras Ruas",
+      "url": "https://open.spotify.com/track/5sAxbzHGL30TKkhANWi2ba"
+    },
+    {
+      "album": {
         "name": "Prazer Jesus",
         "url": "https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt"
       },
@@ -7478,6 +7518,28 @@
       "duration_ms": 196000,
       "name": "Problem\u00e3o",
       "url": "https://open.spotify.com/track/5imfWcXwnRpbaWTZJJGgjG"
+    },
+    {
+      "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "album": {
@@ -8285,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "Saudade do Pai",
+        "url": "https://open.spotify.com/album/39bv2gw4t0iKZb1GEF2kdn"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275229,
+      "name": "Saudade do Pai",
+      "url": "https://open.spotify.com/track/5GgWY9iBiVq7T52sZAYpsP"
+    },
+    {
+      "album": {
         "name": "Savana",
         "url": "https://open.spotify.com/album/1HU6ifep8YhpdWL0E9pO1P"
       },
@@ -8652,7 +8736,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 218342,
       "name": "Senhor",
       "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
@@ -8708,6 +8792,28 @@
       "duration_ms": 159656,
       "name": "Servo do Senhor",
       "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
+    },
+    {
+      "album": {
+        "name": "Seu Poder",
+        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222169,
+      "name": "Seu Poder",
+      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
     },
     {
       "album": {
@@ -10178,7 +10284,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 172000,
       "name": "Volta",
       "url": "https://open.spotify.com/track/4yucczj8Zqtya0jgdZjdiC"

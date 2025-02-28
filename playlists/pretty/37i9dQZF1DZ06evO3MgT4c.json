@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 434325,
+  "num_followers": 434332,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAA3neiqA7YztvA8qmeZXvuq",
+  "snapshot_id": "Z75ZgAAAAABGFYD+CX9dnI4KBYhDo0bt",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versace (feat. Drake) [Remix] - Single",
+        "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 246047,
+      "name": "Versace (Remix)",
+      "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish Me Well 2",
         "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 281986,
       "name": "Key to the Streets",
       "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Versace (feat. Drake) [Remix] - Single",
-        "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 246047,
-      "name": "Versace (Remix)",
-      "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is You Ready (From \"Mile 22\")",
-        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 184276,
-      "name": "Is You Ready - From \"Mile 22\"",
-      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 308733,
       "name": "Blue Cheese",
       "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is You Ready (From \"Mile 22\")",
+        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 184276,
+      "name": "Is You Ready - From \"Mile 22\"",
+      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
     },
     {
       "added_at": null,

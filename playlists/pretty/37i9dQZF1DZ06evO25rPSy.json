@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 24407,
+  "num_followers": 24409,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAAjVGcNnK6456UdJy/YL0iS",
+  "snapshot_id": "Z75ZgAAAAABrlHgwJ+hMKGdewYxzW/Ik",
   "tracks": [
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
       "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 290626,
-      "name": "Nadia (feat. Juan Diego Florez)",
-      "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+      "duration_ms": 290626,
+      "name": "Nadia (feat. Juan Diego Florez)",
+      "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,

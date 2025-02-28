@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 90629,
+  "num_followers": 90660,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Conga Blue",
+        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        },
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Talkin' Verve",
         "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 333280,
       "name": "El Pito (I'll Never Go Back To Georgia)",
       "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Conga Blue",
-        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        },
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Back On The Streets Of Spanish Harlem",
+        "url": "https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 281426,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "\u00a1G\u00f3zalo! Vol 1",
         "url": "https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 247480,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Introducing George Guzman",
-        "url": "https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM"
-      },
-      "artists": [
-        {
-          "name": "George Guzman",
-          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Marilu",
-      "url": "https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K"
     }
   ],
   "unique_name": "Boogaloo Essentials",

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-733 songs - 1 day 7 hr 50 min
+734 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2023-09-22 |  |
 | [Prayer In C](https://open.spotify.com/track/3y9GDhOJ8GUFIa3DOqLAPZ) | [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb) | [Prayer In C](https://open.spotify.com/album/4tVi9WvdZzBpd8zsI0P0Qo) | 2:39 | 2024-07-30 |  |
 | [Promise \(Fireflies\)](https://open.spotify.com/track/446Oco5OqT0DiTPz9MLt83) | [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Isa Luna](https://open.spotify.com/artist/2kn3hZieiEfLsU1vpdaMX4) | [Promise \(Fireflies\)](https://open.spotify.com/album/2SZBOiG8lIgPieOaffifpK) | 2:23 | 2025-01-24 |  |
+| [Pull Me In](https://open.spotify.com/track/3t7qmA6TlgFvHCnM07ZkxO) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Pull Me In](https://open.spotify.com/album/6YbkoPVfI7OctvYypWmixy) | 2:41 | 2025-02-27 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 | 2025-02-14 |  |
 | [Put It All On Me](https://open.spotify.com/track/3f3XwzwFgKpk2q3nlUmJeC) | [Electric Hearts](https://open.spotify.com/artist/6SYYIEe80XyOdOE1wlQoQO), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Put It All On Me](https://open.spotify.com/album/1nsB55xQPs25jrj2gFMZS0) | 3:01 | 2024-08-29 | 2025-02-15 |
 | [Rain](https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc) | [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Rain](https://open.spotify.com/album/4bD1k0opGzr6ewPvocAs71) | 2:51 | 2024-04-13 | 2024-07-05 |

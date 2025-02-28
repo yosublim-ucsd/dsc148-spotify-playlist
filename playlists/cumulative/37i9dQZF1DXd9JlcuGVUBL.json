@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4?si=loNMQHsmQVaNSeljhqQIjg\">Christi van Niekerk</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/0DpjMYzcA7lY3DawON9HP0?si=CDG822dhR-6HCQNNlZ2zNg\">Anna Wolf</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "American Soundtrack",
+        "url": "https://open.spotify.com/album/7FSgt7AaPhKtFnrob9ZG5d"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204548,
+      "name": "American Soundtrack",
+      "url": "https://open.spotify.com/track/7fRQkoHa6U07mN0Cp8N6qT"
+    },
+    {
+      "album": {
         "name": "An Hour in Heaven",
         "url": "https://open.spotify.com/album/7IxLfyhN3i0g3DmbMm9hoX"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 234000,
       "name": "Around You",
       "url": "https://open.spotify.com/track/2xBD9IFDSEHKYBJnOVINeL"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 164075,
       "name": "Burning All Bridges",
       "url": "https://open.spotify.com/track/2fXUAbGAUiucfU8SCUn8t7"
@@ -637,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Dear Daddy",
+        "url": "https://open.spotify.com/album/2yw9gOam3Rgdt0zQcRh2QS"
+      },
+      "artists": [
+        {
+          "name": "Anna Wolf",
+          "url": "https://open.spotify.com/artist/0DpjMYzcA7lY3DawON9HP0"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258685,
+      "name": "Dear Daddy",
+      "url": "https://open.spotify.com/track/6Boy2GLnJwuTw2D7jpijnP"
+    },
+    {
+      "album": {
         "name": "DEVIL YOU KNOW",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
@@ -706,6 +742,28 @@
       "duration_ms": 170629,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
+    },
+    {
+      "album": {
+        "name": "Die Pad",
+        "url": "https://open.spotify.com/album/5XyTNEB3aDU4JqAmRvjMAq"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        },
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167519,
+      "name": "Die Pad",
+      "url": "https://open.spotify.com/track/2fha48xjFJQ8bPliyhRTwd"
     },
     {
       "album": {
@@ -1583,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "album": {
         "name": "Nothin On",
         "url": "https://open.spotify.com/album/5xqNgq4jYEyeJSR2VUWc4J"
       },
@@ -1934,10 +2010,28 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 250067,
       "name": "So Much of You",
       "url": "https://open.spotify.com/track/7nGWCvaCcmNzAITiDdN7XQ"
+    },
+    {
+      "album": {
+        "name": "Solitary Tracks",
+        "url": "https://open.spotify.com/album/6T3CK6Nzy6QTpT9jmVuWH7"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Solitary Tracks",
+      "url": "https://open.spotify.com/track/3E95KwP7L3CTEC42RS2Mws"
     },
     {
       "album": {
@@ -2032,7 +2126,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
@@ -2594,7 +2688,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 187402,
       "name": "You're making me want this",
       "url": "https://open.spotify.com/track/4MMFFVrP9RNJyymZAQkeJ3"

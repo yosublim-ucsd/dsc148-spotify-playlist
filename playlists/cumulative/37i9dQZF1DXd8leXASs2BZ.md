@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Joe Cupertino
 
-865 songs - 1 day 16 hr 4 min
+866 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Adrenaline \(feat\. MOBB\)](https://open.spotify.com/track/2ZaSutRWxvmvtMTrosaQRq) | [PUZZY!](https://open.spotify.com/artist/794nzuaLn3iKxpnHvoFsff), [MOBB](https://open.spotify.com/artist/2qgniZICIca6ONeNb6iBrZ) | [Adrenaline \(feat\. MOBB\)](https://open.spotify.com/album/4BTz46QqAd0F7sSFSoJ92S) | 2:28 | 2024-09-03 | 2024-11-06 |
 | [After Noon](https://open.spotify.com/track/0MJWFLyFkIwROVd8uRzbh6) | [WOOD NEIGHBOR](https://open.spotify.com/artist/7Fy5h3Oqzc7uEST7gQQ7em), [Blooky Jeeky](https://open.spotify.com/artist/0vUFizCD32zqgWG2BYHYVn) | [After Noon](https://open.spotify.com/album/5Avlss3mDAeOhBPkikfPte) | 2:14 | 2024-07-23 | 2024-10-23 |
 | [against](https://open.spotify.com/track/6x7yUxodksEChtsWULMSu9) | [dooz rily](https://open.spotify.com/artist/43N1tz4oKXxaSSLDRJQSis) | [against](https://open.spotify.com/album/45WCSaUiLdSYvbNmSXlj3Z) | 2:16 | 2023-12-19 | 2024-01-12 |
+| [Agari](https://open.spotify.com/track/4qcn2xQJDMliNK4dUiVXX1) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Agari](https://open.spotify.com/album/3yMcgo6uvXN4gRVcXMO0QY) | 1:20 | 2025-02-25 |  |
 | [Ain't Scared](https://open.spotify.com/track/2cs7VBf1Y8kk01tszYEDOb) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [Ain't Scared](https://open.spotify.com/album/3mKKpRJXrBPZc1sZIKDrQf) | 2:43 | 2024-04-16 | 2024-04-19 |
 | [Ain't Scared](https://open.spotify.com/track/5c3pCkHkmCOIs4ZVdyXgHs) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [Ain't Scared](https://open.spotify.com/album/2vynWFGew8JGXPNsFkYwp5) | 2:43 | 2024-04-16 | 2024-07-03 |
 | [Air Life](https://open.spotify.com/track/7A9KmkPlvVdOIBHvACeJOq) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [Air Life](https://open.spotify.com/album/4QmOWv5uZvrcLfqUCeUIRz) | 2:46 | 2024-05-15 | 2024-08-28 |

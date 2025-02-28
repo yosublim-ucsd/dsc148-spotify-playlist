@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Tiffy Vera\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,173 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,238 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Frequency](https://open.spotify.com/track/408hDUjqOKI0YCvnZJ6k4p) | [HUMAN404](https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883) | [Frequency](https://open.spotify.com/album/3ZW9k2oZC55TiwpPCHJNGf) | 3:18 |
 | 100 | [HIGHER](https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u) | [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [HIGHER](https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp) | 2:14 |
 
-Snapshot ID: `Z791gwAAAAAhI8tTht0SLa0eN1IRlqSu`
+Snapshot ID: `Z791gwAAAABFe9Gkjt2qVneJmWDz5S5B`

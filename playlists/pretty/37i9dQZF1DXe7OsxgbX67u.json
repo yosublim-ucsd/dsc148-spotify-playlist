@@ -1,13 +1,81 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 66346,
+  "num_followers": 66961,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7bhAQAAAABwsnMFaVjGmpar/F450r1T",
+  "snapshot_id": "Z8AbhgAAAAD7j5h8ihjUSoKrWhDiPZ00",
   "tracks": [
+    {
+      "added_at": "2025-02-27 08:00:06",
+      "album": {
+        "name": "Altogether Unaccompanied, Vol. II",
+        "url": "https://open.spotify.com/album/1oXWxbM8MIW61D8YuRhQwP"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 276231,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2k7PGVIRIqdilhTn1Z0XsO"
+    },
+    {
+      "added_at": "2025-02-27 08:00:06",
+      "album": {
+        "name": "Future People",
+        "url": "https://open.spotify.com/album/1LCJclhR4VDUcR27NhdZmT"
+      },
+      "artists": [
+        {
+          "name": "Vindigo",
+          "url": "https://open.spotify.com/artist/5lSc6BIpfTBIcco5gQOEWH"
+        }
+      ],
+      "duration_ms": 157659,
+      "name": "Future People",
+      "url": "https://open.spotify.com/track/09ElWkqYgwbuZoo52YWQ7m"
+    },
+    {
+      "added_at": "2025-02-27 08:00:06",
+      "album": {
+        "name": "The Way Back",
+        "url": "https://open.spotify.com/album/42GFKCvN2Gy9uAnWuu3b47"
+      },
+      "artists": [
+        {
+          "name": "Super Duper",
+          "url": "https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 173803,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6EpX1pKc5X4RpBOaY73haj"
+    },
+    {
+      "added_at": "2025-02-27 08:00:06",
+      "album": {
+        "name": "GameBoy Variations (Hell Yes Remix EP)",
+        "url": "https://open.spotify.com/album/1daaLQSRyaeuCbj54x1geV"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 160293,
+      "name": "GHETTOCHIP MALFUNCTION (Hell Yes - remix by 8-Bit)",
+      "url": "https://open.spotify.com/track/7oS9vh40ps5sBCx2i2FMfB"
+    },
     {
       "added_at": "2025-02-20 08:00:01",
       "album": {

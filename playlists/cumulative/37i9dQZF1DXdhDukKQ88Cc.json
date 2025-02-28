@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "200% kontrol <a href=\"spotify:artist:5LcNaarbF34TMSkVLE7YQc\">@Merro8</a> \ud83d\ude2e\u200d\ud83d\udca8",
+  "description": "det brummer <a href=\"spotify:artist:79ky6ZBdwtfcMNf2LqRzvP\">@wicky</a> \ud83d\ude2e\u200d\ud83d\udca8",
   "name": "100 dk",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 150476,
       "name": "33",
       "url": "https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 123628,
       "name": "Booty Up",
       "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 229319,
       "name": "Brutalt",
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 166153,
       "name": "DJ\u00c6VLER (feat. Branco)",
       "url": "https://open.spotify.com/track/6Sp9amnEFMskwgObFDpZK4"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 171948,
       "name": "E.T.A",
       "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158666,
       "name": "Hva Du P\u00e5 (feat. Gilli)",
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
@@ -2906,6 +2906,24 @@
       "duration_ms": 159375,
       "name": "I LIKE 2 MOVE IT (feat. ABCITOO)",
       "url": "https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x"
+    },
+    {
+      "album": {
+        "name": "I'm The Man",
+        "url": "https://open.spotify.com/album/6L0b9s2o7p1pmsAJLog89q"
+      },
+      "artists": [
+        {
+          "name": "Viktor Borges",
+          "url": "https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132663,
+      "name": "I'm The Man",
+      "url": "https://open.spotify.com/track/57aE7FawyhBY7FFHtddVv8"
     },
     {
       "album": {
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135976,
       "name": "Pr\u00e6sident",
       "url": "https://open.spotify.com/track/6edMFU0G49Lhr1QKhAjXcm"
@@ -4630,6 +4648,28 @@
       "duration_ms": 139842,
       "name": "SIKKE EN TYPE",
       "url": "https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW"
+    },
+    {
+      "album": {
+        "name": "Sjonglerer",
+        "url": "https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174793,
+      "name": "Sjonglerer",
+      "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
     },
     {
       "album": {
@@ -5148,7 +5188,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 116227,
       "name": "To Gange",
       "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
@@ -5268,7 +5308,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 133101,
       "name": "TUR",
       "url": "https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH"
@@ -5472,7 +5512,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161684,
       "name": "Vakuum",
       "url": "https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm"

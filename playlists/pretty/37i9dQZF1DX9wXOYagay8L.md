@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=gOPGTxa9RcS2LOcUSdP\-3Q"> Ringo Madlingozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,776 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,891 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

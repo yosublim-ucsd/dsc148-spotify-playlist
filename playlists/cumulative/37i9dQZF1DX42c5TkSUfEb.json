@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192857,
       "name": "Farrah Fawcett Hair (Predux)",
       "url": "https://open.spotify.com/track/7bwHcXxoHlYEeKsRDNwIWK"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 251666,
       "name": "keep my head down",
       "url": "https://open.spotify.com/track/5dspUfbKWu1IoKZwQ5zX4h"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 371797,
       "name": "My Favourite Faded Fantasy",
       "url": "https://open.spotify.com/track/7tDS5ATQal5W6BqH2w9uS3"
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 219400,
       "name": "Time Waited",
       "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
@@ -6104,6 +6104,24 @@
       "duration_ms": 55133,
       "name": "walls",
       "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
+    },
+    {
+      "album": {
+        "name": "dasteWORLD",
+        "url": "https://open.spotify.com/album/18UEbjDePvACIB4OUvaCvC"
+      },
+      "artists": [
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137466,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/109NQrpKCxKIBhV1tIFBFF"
     },
     {
       "album": {

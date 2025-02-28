@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-455 songs - 1 day 3 hr 29 min
+456 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [11\-11](https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [11\-11](https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4) | 4:07 | 2021-10-01 | 2022-07-29 |
 | [365 Days](https://open.spotify.com/track/2lV2cMkuW3GXrTsiWQTLYD) | [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j) | [365 Days](https://open.spotify.com/album/5AXBTKErod6BPJsRXHf6Kv) | 2:22 | 2024-11-22 |  |
 | [4 AM](https://open.spotify.com/track/0dNlRf2AojTujK7fx1KP32) | [Mike V](https://open.spotify.com/artist/7G82sN12HLMXbBCLM65UJk) | [4 AM](https://open.spotify.com/album/1d1HdeiJo05RM8KVkCXF44) | 2:29 | 2024-03-29 | 2024-04-13 |
-| [a little bitter](https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [a little bitter](https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U) | 2:07 | 2024-03-01 |  |
+| [a little bitter](https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [a little bitter](https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U) | 2:07 | 2024-03-01 | 2025-02-28 |
 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 | 2021-04-02 | 2024-08-17 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-02 | 2023-02-01 |
 | [About You](https://open.spotify.com/track/47CAaly9JZ3kyXzZcXVfvw) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [About You](https://open.spotify.com/album/5HMMIKLIhg51ObQNvqdj8k) | 6:16 | 2021-10-01 | 2022-04-13 |
@@ -81,6 +81,7 @@
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 | 2021-04-16 | 2024-08-17 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2024-03-29 | 2024-04-09 |
 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 | 2024-04-19 | 2025-02-16 |
+| [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-02-21 |  |
 | [Choices \(We Made\)](https://open.spotify.com/track/2Q8YkqxwL8hOUHQ2uve0nK) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [U Know Me?](https://open.spotify.com/album/2eLIrXEoeCoSPG1sEQrvK0) | 3:38 | 2024-11-22 | 2025-02-16 |
 | [Cigarette](https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [Cigarette](https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f) | 3:30 | 2024-05-10 | 2024-08-17 |
 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 | 2024-05-17 | 2024-06-18 |

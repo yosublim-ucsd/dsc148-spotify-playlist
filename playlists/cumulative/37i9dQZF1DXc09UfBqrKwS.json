@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN"
+      },
+      "artists": [
+        {
+          "name": "Liv Joy",
+          "url": "https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174175,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
+    },
+    {
+      "album": {
         "name": "Acknowledge",
         "url": "https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 156827,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 168750,
       "name": "Blissful Vibes",
       "url": "https://open.spotify.com/track/199BfiwrC4YJpU2TVIEYny"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 165750,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/56ovbPD58pnbowpTbVP6u7"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 168620,
       "name": "Composed",
       "url": "https://open.spotify.com/track/07446huSYQMPjNyMMyAzSx"
@@ -2306,6 +2324,24 @@
       "duration_ms": 181426,
       "name": "Cosmic Balance",
       "url": "https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz"
+    },
+    {
+      "album": {
+        "name": "Cosmic Cascade",
+        "url": "https://open.spotify.com/album/7KuuTbkhUXUNSgU0JY9OXg"
+      },
+      "artists": [
+        {
+          "name": "Dream Drift Tunes",
+          "url": "https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173238,
+      "name": "Cosmic Cascade",
+      "url": "https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC"
     },
     {
       "album": {
@@ -2648,6 +2684,24 @@
       "duration_ms": 165620,
       "name": "Destello Cosmico",
       "url": "https://open.spotify.com/track/3AcEjvJHGwJBWVVHHZYKIc"
+    },
+    {
+      "album": {
+        "name": "Dimmed Light",
+        "url": "https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e"
+      },
+      "artists": [
+        {
+          "name": "Universal Embrace",
+          "url": "https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Dimmed Light",
+      "url": "https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j"
     },
     {
       "album": {
@@ -3494,6 +3548,24 @@
       "duration_ms": 163000,
       "name": "Esthetic",
       "url": "https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV"
+    },
+    {
+      "album": {
+        "name": "Eternal Moon",
+        "url": "https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k"
+      },
+      "artists": [
+        {
+          "name": "Joudinoire",
+          "url": "https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Eternal Moon",
+      "url": "https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp"
     },
     {
       "album": {
@@ -4577,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Gravitational",
+        "url": "https://open.spotify.com/album/2Vhxe5soAU5oQIeHDVM9MS"
+      },
+      "artists": [
+        {
+          "name": "Eclectic Elements",
+          "url": "https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175202,
+      "name": "Gravitational",
+      "url": "https://open.spotify.com/track/4CXQZg7QjZquWYdE4kvjZ4"
+    },
+    {
+      "album": {
         "name": "Grow Free",
         "url": "https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA"
       },
@@ -5038,7 +5128,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 176718,
       "name": "Incandescent",
       "url": "https://open.spotify.com/track/0PPWFj7RtjyPpdzkHdXBQx"
@@ -5524,7 +5614,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 204115,
       "name": "Lost Contact With Life",
       "url": "https://open.spotify.com/track/6GDNugcIhv8fEOlZuAkYjt"
@@ -5690,6 +5780,24 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/0LKpvbQooDpOM3UGQTrViI"
+      },
+      "artists": [
+        {
+          "name": "Marc Veil",
+          "url": "https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143024,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0"
     },
     {
       "album": {
@@ -6968,6 +7076,24 @@
       "duration_ms": 183090,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
+    },
+    {
+      "album": {
+        "name": "Panacea",
+        "url": "https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM"
     },
     {
       "album": {
@@ -9954,7 +10080,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 173000,
       "name": "Translucent",
       "url": "https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E"

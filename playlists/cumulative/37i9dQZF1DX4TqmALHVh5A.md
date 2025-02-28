@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Suzane
+> La scène francophone branchée sur courant alternatif\. Photo : Sam Sauvage
 
-260 songs - 14 hr 11 min
+262 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
+| [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 |  |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-11-22 |
 | [Love Sixties](https://open.spotify.com/track/18YUpvNqYdKV9pYynF7WiP) | [PETITE](https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO) | [PETITE](https://open.spotify.com/album/7JHvaqoKxRc3jFlXGD6be0) | 3:18 | 2025-02-13 |  |
@@ -164,7 +165,7 @@
 | [Mouvement](https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Mouvement](https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3) | 2:38 | 2025-02-20 |  |
 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 | 2024-05-03 |
 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 | 2024-01-18 | 2024-03-29 |
-| [Méchant garçon](https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h), [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Méchant garçon](https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ) | 2:56 | 2024-09-12 |  |
+| [Méchant garçon](https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h), [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Méchant garçon](https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ) | 2:56 | 2024-09-12 | 2025-02-28 |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 | 2024-03-29 |
 | [N.I.O\. \(New Information Order\)](https://open.spotify.com/track/6jnFRht548xiPuQFznKips) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [New Information Order](https://open.spotify.com/album/6bDpiFnOispMLbo3U5w1bG) | 4:10 | 2024-10-24 | 2024-11-08 |
 | [ne croquez pas cette pomme](https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm) | [Adieu Salvatore](https://open.spotify.com/artist/4qIhDVc6BugjA7w4vscA9y), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [L'AMOUR](https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp) | 2:36 | 2024-12-05 |  |
@@ -182,7 +183,7 @@
 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 | 2023-11-16 | 2024-06-14 |
 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 | 2023-09-28 | 2024-04-19 |
 | [Pas si grave](https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Pas si grave](https://open.spotify.com/album/6Zkx4Is6rymdYuBJdiuqOu) | 2:22 | 2024-02-01 | 2024-06-01 |
-| [PAVILLON NOIR](https://open.spotify.com/track/1pNtWzjaaBtYTcMq1oiwik) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [PAVILLON NOIR](https://open.spotify.com/album/78cFIxaV7ZI8lWHpdatDXZ) | 2:22 | 2024-11-14 |  |
+| [PAVILLON NOIR](https://open.spotify.com/track/1pNtWzjaaBtYTcMq1oiwik) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [PAVILLON NOIR](https://open.spotify.com/album/78cFIxaV7ZI8lWHpdatDXZ) | 2:22 | 2024-11-14 | 2025-02-28 |
 | [petit escargot](https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C) | [Colas](https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc) | [petit escargot](https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ) | 3:22 | 2024-06-13 | 2025-01-31 |
 | [Plages Du Nord](https://open.spotify.com/track/1s39UIEJhtAYnpVgPkOYCt) | [Gaétan Nonchalant](https://open.spotify.com/artist/4AlnBIMrqDSEMMlAPzN6DJ) | [Changement de programme](https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il) | 3:10 | 2023-10-05 | 2023-12-15 |
 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 | 2023-09-28 | 2023-10-27 |
@@ -222,6 +223,7 @@
 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 | 2024-02-01 | 2024-06-07 |
 | [Sosies](https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Le Mal Partout](https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D) | 2:06 | 2024-01-26 | 2024-03-15 |
 | [Sourire à la mort](https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA), [ZZERO](https://open.spotify.com/artist/2TSyPh1tPtbFXauzwu7Kq0), [Puff Natas](https://open.spotify.com/artist/2FKH5WgOBz0RfFbyeLMnQ8) | [Sourire à la mort](https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8) | 3:08 | 2024-04-25 | 2025-01-17 |
+| [Sous l'orage](https://open.spotify.com/track/47mWFxsuplk9J8Ia1l0oaZ) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Sous l'orage](https://open.spotify.com/album/43sLf9uog1cBNQxpTKmNIL) | 2:49 | 2025-02-27 |  |
 | [Soustraction](https://open.spotify.com/track/6puJaBG3ECZSMWuICFDGIX) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [ADDITION / SOUSTRACTION](https://open.spotify.com/album/3rewEAyDU74VfTIqSmTBWk) | 4:00 | 2024-03-14 | 2024-05-17 |
 | [Stadium](https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Monsters](https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7) | 5:08 | 2023-11-30 | 2024-03-22 |
 | [STP Apaise toi](https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59) | [Petit Fantôme](https://open.spotify.com/artist/3MUJ4wHF8z7MSoIfp1Tt1j), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Stave II](https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC) | 3:12 | 2023-10-05 | 2023-10-27 |

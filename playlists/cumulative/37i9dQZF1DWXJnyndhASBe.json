@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: kuqe 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -138,6 +138,28 @@
       "duration_ms": 193733,
       "name": "15 MINUT",
       "url": "https://open.spotify.com/track/0ohhlmedLa72XMSJwxW62A"
+    },
+    {
+      "album": {
+        "name": "2025 freestyle",
+        "url": "https://open.spotify.com/album/47QV4zxolkbKtTnuQUBnov"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "2025 freestyle",
+      "url": "https://open.spotify.com/track/5byJ4LrZPa8uFvHmr4Y9Nl"
     },
     {
       "album": {
@@ -2044,6 +2066,32 @@
       "duration_ms": 164571,
       "name": "Cho\u0107 nie wida\u0107 na zewn\u0105trz",
       "url": "https://open.spotify.com/track/7ku8Eh5guoneeMmuuzzWmN"
+    },
+    {
+      "album": {
+        "name": "FUGAZI",
+        "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "ch\u0142opaki jak my",
+      "url": "https://open.spotify.com/track/6LGCQoRKiwA2jIikkKun57"
     },
     {
       "album": {
@@ -4518,7 +4566,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 128571,
       "name": "hellstar",
       "url": "https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O"
@@ -4762,6 +4810,28 @@
       "duration_ms": 296793,
       "name": "Hotel Maffija 3",
       "url": "https://open.spotify.com/track/4pjhE3Avv9UuZAfhF9JXgw"
+    },
+    {
+      "album": {
+        "name": "I00",
+        "url": "https://open.spotify.com/album/4LnqhZH5aShN9kZbVTaTLa"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148967,
+      "name": "I00",
+      "url": "https://open.spotify.com/track/4kQ9Pv0eBPawJSdCLFpO74"
     },
     {
       "album": {
@@ -6256,6 +6326,32 @@
       "duration_ms": 125732,
       "name": "Lloret de Mar",
       "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
+    },
+    {
+      "album": {
+        "name": "lodowisko",
+        "url": "https://open.spotify.com/album/4TlMnTBOhrKiJeENCLkRiY"
+      },
+      "artists": [
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144313,
+      "name": "lodowisko",
+      "url": "https://open.spotify.com/track/1nJIsCfQfIAakBjbrDQ0MT"
     },
     {
       "album": {
@@ -8088,7 +8184,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 181942,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/7eCpOF5ZJTW6RAEBAeK0qg"
@@ -8493,6 +8589,28 @@
     },
     {
       "album": {
+        "name": "FUGAZI",
+        "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "nie tym razem",
+      "url": "https://open.spotify.com/track/693lLOpPzWWa89WVvtGCNX"
+    },
+    {
+      "album": {
         "name": "Niebezpiecznie",
         "url": "https://open.spotify.com/album/69P4WKZ24Dibry7bhdpT5D"
       },
@@ -8722,7 +8840,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 179851,
       "name": "NUMBER ONE",
       "url": "https://open.spotify.com/track/7aEwawzOPzsoZ98wiTmOSK"
@@ -9406,7 +9524,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 174857,
       "name": "PALMY SEX NOWE D\u0179WI\u0118KI",
       "url": "https://open.spotify.com/track/6dHEqjzHwKbOn5vIYijQNk"
@@ -13346,7 +13464,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"

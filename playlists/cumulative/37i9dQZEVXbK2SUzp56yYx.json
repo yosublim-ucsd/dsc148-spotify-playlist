@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 79448,
       "name": "20 lang",
       "url": "https://open.spotify.com/track/5lUambybUm5roASqsSTMp0"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 580292,
       "name": "Bury the Light",
       "url": "https://open.spotify.com/track/0FcS0Cpz3tK1DLXIzr6iL2"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 142053,
       "name": "chess - slowed",
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 189103,
       "name": "Elevator Operator",
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
@@ -6566,10 +6566,28 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 93405,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/1CEUYM7tyPQGXSlXSXwTin"
+    },
+    {
+      "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/7pVUPT1x7Tb4cGAQt9Mb9l"
+      },
+      "artists": [
+        {
+          "name": "h4rtbrkr",
+          "url": "https://open.spotify.com/artist/3vGd7nWqei0BrHqdSWLvj5"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93405,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/4Iwq23SVTkRJbWUdBXfUv9"
     },
     {
       "album": {
@@ -10188,7 +10206,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 144864,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/6GEq7HOVs2YUTcgHlkAZwS"
@@ -13019,6 +13037,28 @@
     },
     {
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "album": {
         "name": "OXIDE",
         "url": "https://open.spotify.com/album/3og5OnsYgdN9cJMxMJFaKm"
       },
@@ -13244,6 +13284,24 @@
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
+    },
+    {
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126969,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
     },
     {
       "album": {
@@ -14204,7 +14262,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
@@ -19696,7 +19754,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 293035,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
@@ -22500,7 +22558,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 173250,
       "name": "\u041f\u0440\u0438\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/74N7iPcquSM7xqpv8hNhQt"
@@ -24237,6 +24295,36 @@
     },
     {
       "album": {
+        "name": "60",
+        "url": "https://open.spotify.com/album/2dDHingy2WZ49hqjD5HCG9"
+      },
+      "artists": [
+        {
+          "name": "kugakrewceo",
+          "url": "https://open.spotify.com/artist/3g3w6d3PaFeAfmJtVAeJv8"
+        },
+        {
+          "name": "woosubi",
+          "url": "https://open.spotify.com/artist/4EELI5sUqotecpEILc10WE"
+        },
+        {
+          "name": "3g0th2002",
+          "url": "https://open.spotify.com/artist/22OvYf4VY7licuFplE5vQS"
+        },
+        {
+          "name": "fleurnothappy",
+          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160212,
+      "name": "\u0442\u0443\u043f\u0430\u044f \u0441\u0443\u043a\u0430",
+      "url": "https://open.spotify.com/track/4TZFCd8KlukOhQQu5mDei1"
+    },
+    {
+      "album": {
         "name": "\u041a\u0441\u0431 \u043c\u0443\u0437\u0438\u043a 3",
         "url": "https://open.spotify.com/album/1nPxMleEP7A3juIN1OrX5m"
       },
@@ -24628,7 +24716,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 131538,
       "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
       "url": "https://open.spotify.com/track/0RT48ypt6rC10KVNRjEnEd"

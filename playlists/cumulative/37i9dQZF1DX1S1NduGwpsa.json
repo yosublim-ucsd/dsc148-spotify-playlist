@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ezra Collective\n",
+  "description": "The best jazz new releases. Cover: Jowee Omici \n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -3897,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Ev\u2019ry Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283213,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
       },
@@ -7549,6 +7567,40 @@
     },
     {
       "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/1lSG9GKeYCczhhThAo2ElK"
+      },
+      "artists": [
+        {
+          "name": "Romain Pilon",
+          "url": "https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z"
+        },
+        {
+          "name": "Orlando Le Fleming",
+          "url": "https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5"
+        },
+        {
+          "name": "Mark Whitfield Jr.",
+          "url": "https://open.spotify.com/artist/5E0blTIGjZLSHXBhXmjYgl"
+        },
+        {
+          "name": "Alexis Valet",
+          "url": "https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4"
+        },
+        {
+          "name": "Jean-Paul Esti\u00e9venart",
+          "url": "https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390173,
+      "name": "Long Story Short",
+      "url": "https://open.spotify.com/track/4ikG0zxuFINnTcaxCbW4RD"
+    },
+    {
+      "album": {
         "name": "Long Way from Home (feat. Eric Harland)",
         "url": "https://open.spotify.com/album/3dKw67fLeR7pHf4w22Hfl3"
       },
@@ -9946,6 +9998,24 @@
       "duration_ms": 156400,
       "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
       "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
+    },
+    {
+      "album": {
+        "name": "BelleJazzClub (Vol. 1)",
+        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355328,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/02717WBP3TyZVw8OoMFLo9"
     },
     {
       "album": {
@@ -12768,7 +12838,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 167632,
       "name": "This Can\u2019t Be Love",
       "url": "https://open.spotify.com/track/31PxuAfVsbmjLX91uSqg8B"
@@ -13914,7 +13984,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 196178,
       "name": "We Have All The Time In The World - Cam Blackwood & Swindle Version",
       "url": "https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY"
@@ -14032,7 +14102,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 399120,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr"
@@ -14134,7 +14204,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 260864,
       "name": "When The Magic Happens - Derri\u00e8re le soleil",
       "url": "https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX"
@@ -14588,6 +14658,24 @@
       "duration_ms": 369493,
       "name": "You Are the Sunshine of My Life",
       "url": "https://open.spotify.com/track/5pHiptnSwesdvZJY4YFo5z"
+    },
+    {
+      "album": {
+        "name": "You Hit the Spot",
+        "url": "https://open.spotify.com/album/3XKDNdOvXszqvlgxJFlVkC"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187071,
+      "name": "You Hit the Spot",
+      "url": "https://open.spotify.com/track/5JqMhtvi3DRVe4lpLSFXTW"
     },
     {
       "album": {

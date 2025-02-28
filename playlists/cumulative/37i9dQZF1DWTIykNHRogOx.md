@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Marie\-Flore
+> Les  meilleures nouveautés de la chanson française\. Photo : Emma Peters
 
-141 songs - 7 hr 43 min
+142 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Je n'oublierai pas](https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR) | [Pierre Grizzli](https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3) | [Je n'oublierai pas](https://open.spotify.com/album/0gON1xyluuxSY9alXQtxGm) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Je suis là](https://open.spotify.com/track/6O8BhlrvuHPJnGqUnolQN7) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Je suis là](https://open.spotify.com/album/70prraH3gvosWj2dIRhWgR) | 4:17 | 2024-09-05 | 2025-01-17 |
 | [Je voudrais tomber amoureux](https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Je voudrais tomber amoureux](https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0) | 4:43 | 2024-07-25 | 2025-01-10 |
-| [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 | 2025-01-30 |  |
+| [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 | 2025-01-30 | 2025-02-28 |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 |  |
 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2025-01-09 |  |
 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 | 2025-01-23 |  |
@@ -71,6 +71,7 @@
 | [La souterraine](https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La souterraine](https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv) | 4:29 | 2024-09-05 | 2025-01-10 |
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
+| [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 |  |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 | 2025-01-10 |
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-27 | 2024-10-04 |
@@ -89,7 +90,7 @@
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 |  |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 | 2024-11-22 |
-| [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 |  |
+| [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 |  |
 | [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 | 2024-11-22 |
 | [Luxembourg](https://open.spotify.com/track/392kafx6I9FFgx0eUNHA1n) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Saint\-Valentin](https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd) | 4:00 | 2024-10-24 |  |
 | [Ma gueule](https://open.spotify.com/track/1GJTfocbEMpOzQvYbiKr8m) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma gueule](https://open.spotify.com/album/21muzhTaUnwTekAIe3ETWG) | 3:10 | 2025-02-20 |  |

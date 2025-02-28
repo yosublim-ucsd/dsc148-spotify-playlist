@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Yokin
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Risy
 
-1,338 songs - 3 day 3 hr 39 min
+1,343 songs - 3 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [DFIL](https://open.spotify.com/track/7KUqg0AvenQFGgC3o5Gj4B) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [fKboY Eulogy](https://open.spotify.com/album/3i8szjXfDqp9gtHLE3mzUd) | 2:34 | 2024-11-28 |  |
 | [Diary](https://open.spotify.com/track/3wgo4Y2wUJrBqFW26KjAcD) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Diary](https://open.spotify.com/album/59clnR7qJSWyNQbvAOB7c5) | 1:21 | 2023-01-12 | 2023-02-03 |
 | [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 | 2024-08-29 | 2024-12-13 |
+| [Die in me](https://open.spotify.com/track/5jR4qthBWL7FQVZEKUjaBg) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [The Mole in My Eye](https://open.spotify.com/album/7GhhRwJJGfIgPoL27gPxjT) | 3:52 | 2025-02-27 |  |
 | [Die On The Moon](https://open.spotify.com/track/5nvUzKiDgwGcjZtbxQTXgM) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [Die On The Moon](https://open.spotify.com/album/1E3UMRLdDvUeiD02gddGFI) | 3:16 | 2024-12-12 |  |
 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 | 2022-10-13 | 2023-02-03 |
 | [DISAPPOINTED](https://open.spotify.com/track/6dfrtndSCFoERc6DvIXUi0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [DISAPPOINTED](https://open.spotify.com/album/5xyxG8Bf7weASYvzBET2jU) | 3:12 | 2024-12-12 | 2025-02-14 |
@@ -835,6 +836,7 @@
 | [Want To Know \(想知\)](https://open.spotify.com/track/26xR4i74nsWZekrv0of2mA) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Want To Know \(想知\)](https://open.spotify.com/album/0CIjLe4pQLhvI54GHrDznu) | 3:19 | 2024-11-28 |  |
 | [WASABI](https://open.spotify.com/track/5xmN2drLtpG3b0Y2QU1Vii) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9) | [WASABI](https://open.spotify.com/album/0MWmCPXqrtud5XLwMDSAic) | 2:27 | 2023-11-30 | 2024-02-16 |
 | [Waste My Time](https://open.spotify.com/track/07i1r0k6P4g88YqslDNAI5) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [Waste My Time](https://open.spotify.com/album/0gGCC9kEFrFk9uBVnyxwp1) | 3:42 | 2023-06-01 | 2023-11-03 |
+| [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 | 2025-02-27 |  |
 | [Wasting Time](https://open.spotify.com/track/1edSqAJkH2ES1pkOMza8fw) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Wasting Time](https://open.spotify.com/album/6jfzCXWYOsxVQyJgEc9Lol) | 2:33 | 2022-11-24 | 2023-02-03 |
 | [Watched You Grow](https://open.spotify.com/track/2xMrb2XYfFNkllt6NlrnOj) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Watched You Grow](https://open.spotify.com/album/376olxeisNy1Hw4E15MOMr) | 3:11 | 2023-12-28 | 2024-05-10 |
 | [WATER](https://open.spotify.com/track/3RKxMqMap4Pqr6OYMLpgr5) | [Mica Kim](https://open.spotify.com/artist/6zGPVkYB6HdJNXwDzZh19X), [Ean](https://open.spotify.com/artist/6QdZOQ46uWuBdOP6iodZza) | [WATER](https://open.spotify.com/album/0kYAmvvhXdtS3NgXgpSViE) | 3:51 | 2024-01-05 | 2024-05-10 |
@@ -1015,6 +1017,7 @@
 | [回憶半分鐘 \(feat\. Gordon Flanders\) \- Aurora Version](https://open.spotify.com/track/30oOj7kQ6o0sMj2y5F0zwU) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk), [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [回憶半分鐘 \(feat\. Gordon Flanders\) \[Aurora Version\]](https://open.spotify.com/album/24BfobCbKKh3pjL2m13Z5h) | 3:47 | 2024-03-14 | 2024-11-15 |
 | [回歸日](https://open.spotify.com/track/0kAgC8FFL0kjOmqTtN9e3K) | [KID ALVIN](https://open.spotify.com/artist/7ypKMq4idveSB1ax6PjCIo), [MU 木](https://open.spotify.com/artist/11kY3ZdZA2hjGdxSfoN9i5) | [回歸日](https://open.spotify.com/album/4Leb4qk9jVBp5HFVyVr8oh) | 2:46 | 2024-10-17 | 2025-02-14 |
 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 | 2022-11-04 |
+| [在憂鬱的熱帶](https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [在憂鬱的熱帶](https://open.spotify.com/album/0hZUeIpNSBw7mjoZLDkzeW) | 3:46 | 2025-02-27 |  |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 | 2022-07-29 |
 | [夏夜未央](https://open.spotify.com/track/63rFXlz0r3uTNPqh84dl7C) | [王胤正](https://open.spotify.com/artist/0JrLkXgQqYCahpOBeqmO2B) | [夏夜未央](https://open.spotify.com/album/384hDmU7m12r02Heqavy3m) | 5:18 | 2023-08-10 | 2023-11-03 |
 | [夏灣拿之夜](https://open.spotify.com/track/1gpd5N3vg0x3G1jg1QlggE) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [G.A.I.G.A.I](https://open.spotify.com/album/3iua25eCjomYPmFUSrO2i2) | 3:35 | 2024-06-13 | 2024-11-15 |
@@ -1209,6 +1212,7 @@
 | [滄海一聲笑 \(Laughter in the Vast Sea\)](https://open.spotify.com/track/40NwIyGA1UvEnYuiQ6RBHC) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6) | [江湖救急 \(Emergencies among Lakes and Rivers\)](https://open.spotify.com/album/1eRi1YsHyU8sdkPKib7f4A) | 3:40 | 2024-09-26 | 2025-02-14 |
 | [漂流鯨](https://open.spotify.com/track/71MtuDzB0yuqB5Zx8ayf5X) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [漂流鯨](https://open.spotify.com/album/3zo9y6MG8FWBcouA05hQSk) | 4:31 | 2024-05-23 | 2024-11-15 |
 | [漸空](https://open.spotify.com/track/4M5wtKptoXz2Qfopqmmk03) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [漸空](https://open.spotify.com/album/2UNf7Yb57Ywuz3eH1TMlZ1) | 3:56 | 2023-12-21 | 2024-02-16 |
+| [潛意識喜歡你 \- live](https://open.spotify.com/track/1E0SqeptBemNRhFz0lHcqF) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [潛意識喜歡你 \(live\)](https://open.spotify.com/album/1xwIg2YdBPNmzNjXQhkaWV) | 3:06 | 2025-02-27 |  |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-01-05 | 2023-09-15 |
 | [炮台山黎生](https://open.spotify.com/track/3PC6spEpqUDyXJfQzoT4JZ) | [Ant Chan](https://open.spotify.com/artist/7kAosYOzDiSkn5LXfUSU0m) | [炮台山黎生](https://open.spotify.com/album/2IyPtMdBqwdIzTyyzWcQaY) | 2:26 | 2024-05-23 | 2024-11-15 |
 | [為自己寫的歌](https://open.spotify.com/track/234d6YDwrEsE9xYrphIMkw) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [ADAM](https://open.spotify.com/album/4MQJ8diUxlZtJjWi8fkIes) | 3:33 | 2024-06-27 | 2024-11-15 |
@@ -1266,6 +1270,7 @@
 | [自作孽](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [自作孽](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 | 2022-05-26 | 2022-07-29 |
 | [臭西西女人](https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [臭西西女人](https://open.spotify.com/album/7ozJodyUY4f36OLGKMRSzG) | 2:34 | 2022-08-12 | 2022-11-04 |
 | [至關重要事情](https://open.spotify.com/track/1euRrLj1IkzAqBJBUk7bQE) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [至關重要事情](https://open.spotify.com/album/0ZjBvvLaQZnIspBPjVxp3Z) | 3:42 | 2023-05-11 | 2023-09-01 |
+| [與你相愛過當戰勝命運](https://open.spotify.com/track/76os5xTtgxneGCSzHx16DH) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7) | [東方不敗](https://open.spotify.com/album/0q3dyfK6u80y5uA3eTVdaA) | 3:02 | 2025-02-27 |  |
 | [航行者一號](https://open.spotify.com/track/6CZWYdD5QJOLl748QblWBD) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [航行者一號](https://open.spotify.com/album/5lsOqwsCxRSOKmPyIRuCxg) | 3:20 | 2023-03-30 | 2023-07-14 |
 | [花開有毒](https://open.spotify.com/track/0bZU5NSgkGKnQyHrC86WJa) | [BONBON](https://open.spotify.com/artist/20nbtZQKG25u7aYv9dgviq) | [花開有毒](https://open.spotify.com/album/0rQ10oGPwQJXoqp5ChDpnr) | 3:23 | 2024-04-25 | 2024-11-15 |
 | [荒像](https://open.spotify.com/track/2Ynip7NtQPW6I8DWlIsw5o) | [canband](https://open.spotify.com/artist/4HvstcnuNuFpM9jNOOHVHK) | [荒像](https://open.spotify.com/album/0ojjdCukjgoQKc9igC2Z8f) | 3:28 | 2024-08-01 | 2024-11-15 |

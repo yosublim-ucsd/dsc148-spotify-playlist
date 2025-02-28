@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "debe ser",
+        "url": "https://open.spotify.com/album/3ZY2uv0UNi9aFI8ha0L5Sa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "debe ser",
+      "url": "https://open.spotify.com/track/5fGNytVldbZteDg8bFCJAp"
+    },
+    {
+      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158571,
       "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
       "url": "https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw"
@@ -3223,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Rozal\u00e9n por Chavela",
+        "url": "https://open.spotify.com/album/25dLCScmY71x60dbg002J2"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202330,
+      "name": "Luz de Luna",
+      "url": "https://open.spotify.com/track/74f3f2OeIyXFvxSs2xk5IG"
+    },
+    {
+      "album": {
         "name": "Manifiesto",
         "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
       },
@@ -3292,7 +3332,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
@@ -3854,7 +3894,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 247028,
       "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
@@ -5348,7 +5388,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 195836,
       "name": "Somos Un R\u00edo",
       "url": "https://open.spotify.com/track/2lC3EUr2TUs0qDgh184X6E"

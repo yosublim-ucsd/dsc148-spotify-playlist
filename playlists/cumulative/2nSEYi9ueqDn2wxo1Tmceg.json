@@ -4269,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "Covet",
+        "url": "https://open.spotify.com/album/59SRm7QgaV7ucp9IGNiGYZ"
+      },
+      "artists": [
+        {
+          "name": "Tanzana",
+          "url": "https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210007,
+      "name": "Covet",
+      "url": "https://open.spotify.com/track/5jaqtaQLqzZZPVigLPooiI"
+    },
+    {
+      "album": {
         "name": "Coyotes",
         "url": "https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi"
       },

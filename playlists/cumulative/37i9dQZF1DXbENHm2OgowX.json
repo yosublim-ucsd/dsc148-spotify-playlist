@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 291553,
       "name": "Animism",
       "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+    },
+    {
+      "album": {
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "album": {
@@ -329,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Caelum (Excerpts)",
+        "url": "https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336015,
+      "name": "Caelum, No. I",
+      "url": "https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG"
+    },
+    {
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
       },
@@ -358,7 +394,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 283986,
       "name": "Chlorine Gargoyle",
       "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
@@ -499,6 +535,28 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247324,
+      "name": "Dance Of The Ghosts",
+      "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
+    },
+    {
+      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -618,7 +676,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -702,6 +760,32 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "album": {
+        "name": "Even The Horizon Knows Its Bounds",
+        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        },
+        {
+          "name": "Chris Abrahams",
+          "url": "https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK"
+        },
+        {
+          "name": "Jim O'Rourke",
+          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261849,
+      "name": "Even The Horizon Knows Its Bounds VIII",
+      "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
     },
     {
       "album": {
@@ -971,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Shards",
+        "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288216,
+      "name": "Heaven Will Come",
+      "url": "https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw"
+    },
+    {
+      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -1228,6 +1330,24 @@
       "duration_ms": 116990,
       "name": "limerence",
       "url": "https://open.spotify.com/track/7LuSRILK7hHMk6bUX2gcfF"
+    },
+    {
+      "album": {
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "album": {
@@ -1858,7 +1978,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 260482,
       "name": "Snowa",
       "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
@@ -2132,7 +2252,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
@@ -2312,7 +2432,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 405946,
       "name": "T\u00f3mi\u00f0 Titrar",
       "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"

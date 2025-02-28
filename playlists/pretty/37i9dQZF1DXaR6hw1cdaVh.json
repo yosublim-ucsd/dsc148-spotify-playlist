@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 1659,
+  "num_followers": 1698,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2025-02-25 22:04:56",
       "album": {
+        "name": "Rossetto e caff\u00e8 (con The Kolors)",
+        "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        },
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 189174,
+      "name": "Rossetto e caff\u00e8 (con The Kolors)",
+      "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
+    },
+    {
+      "added_at": "2025-02-25 22:04:56",
+      "album": {
         "name": "Il Cielo Della Vergine",
         "url": "https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 312000,
       "name": "Aspettando Il Sole",
       "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
-    },
-    {
-      "added_at": "2025-02-25 22:04:56",
-      "album": {
-        "name": "Rossetto e caff\u00e8 (con The Kolors)",
-        "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        },
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 189174,
-      "name": "Rossetto e caff\u00e8 (con The Kolors)",
-      "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
     },
     {
       "added_at": "2025-02-25 22:04:56",
@@ -383,18 +383,22 @@
     {
       "added_at": "2025-02-25 22:04:56",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Quando sarai piccola",
+        "url": "https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Simone Cristicchi",
+          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb"
         }
       ],
-      "duration_ms": 227265,
-      "name": "L'Estate Sta Finendo",
-      "url": "https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d"
+      "duration_ms": 225636,
+      "name": "La cura",
+      "url": "https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr"
     },
     {
       "added_at": "2025-02-25 22:04:56",
@@ -415,22 +419,18 @@
     {
       "added_at": "2025-02-25 22:04:56",
       "album": {
-        "name": "Quando sarai piccola",
-        "url": "https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Simone Cristicchi",
-          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
-        },
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 225636,
-      "name": "La cura",
-      "url": "https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr"
+      "duration_ms": 227265,
+      "name": "L'Estate Sta Finendo",
+      "url": "https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d"
     },
     {
       "added_at": "2025-02-25 22:04:56",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-02-25 22:04:56",
       "album": {
+        "name": "Quando (feat. Neri Per Caso)",
+        "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        },
+        {
+          "name": "Neri Per Caso",
+          "url": "https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q"
+        }
+      ],
+      "duration_ms": 201730,
+      "name": "Quando (feat. Neri Per Caso)",
+      "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
+    },
+    {
+      "added_at": "2025-02-25 22:04:56",
+      "album": {
         "name": "Tricarico",
         "url": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 216373,
       "name": "Nel blu dipinto di blu",
       "url": "https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1"
-    },
-    {
-      "added_at": "2025-02-25 22:04:56",
-      "album": {
-        "name": "Quando (feat. Neri Per Caso)",
-        "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        },
-        {
-          "name": "Neri Per Caso",
-          "url": "https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q"
-        }
-      ],
-      "duration_ms": 201730,
-      "name": "Quando (feat. Neri Per Caso)",
-      "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
     },
     {
       "added_at": "2025-02-25 22:04:56",

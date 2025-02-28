@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Lojay",
+  "description": "Tracks popping off in the Afro scene. Cover:  Tiwa Savage x Craig David",
   "name": "Afro Station",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135000,
       "name": "Akanchawa",
       "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
@@ -654,6 +654,24 @@
       "duration_ms": 161513,
       "name": "AMINA",
       "url": "https://open.spotify.com/track/5DMC0VIVvIxPY8KwXjBp1S"
+    },
+    {
+      "album": {
+        "name": "Andale",
+        "url": "https://open.spotify.com/album/1dNKLRgJaQrzfTCkwPUMpP"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152472,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/5AB3axTwvYRnL0XpXVKL6v"
     },
     {
       "album": {
@@ -2125,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "Best Of Both Worlds",
+        "url": "https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190735,
+      "name": "Call Again",
+      "url": "https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5"
+    },
+    {
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -2576,6 +2616,28 @@
       "duration_ms": 212307,
       "name": "Comment \u00e7a va ?",
       "url": "https://open.spotify.com/track/3hRKgaVHrMsFzMw1rnoFa9"
+    },
+    {
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     },
     {
       "album": {
@@ -4738,7 +4800,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
@@ -6176,7 +6238,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 172800,
       "name": "Jay Jay",
       "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
@@ -6288,7 +6350,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 117916,
       "name": "Jostimilo",
       "url": "https://open.spotify.com/track/0zKgp4hE1VnNANbMgKFWA5"
@@ -8971,6 +9033,28 @@
     },
     {
       "album": {
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe"
+    },
+    {
+      "album": {
         "name": "Nice Like This",
         "url": "https://open.spotify.com/album/1KGPOs5GOUmnXT4gEd0blx"
       },
@@ -10681,6 +10765,24 @@
     },
     {
       "album": {
+        "name": "Reine",
+        "url": "https://open.spotify.com/album/4XC3hMkH0guciHOP84kMyL"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "Reine",
+      "url": "https://open.spotify.com/track/3pOYXHP7nQbcIaL2WE40Iy"
+    },
+    {
+      "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY"
       },
@@ -11220,7 +11322,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 143186,
       "name": "Sensibility",
       "url": "https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx"
@@ -12739,6 +12841,24 @@
     },
     {
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2j2iLEhv90kjq66vEnOZVV"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD"
+    },
+    {
+      "album": {
         "name": "Tu sais faire",
         "url": "https://open.spotify.com/album/1KlIaWCh3R45qFERc93qSB"
       },
@@ -12798,6 +12918,24 @@
       "duration_ms": 160720,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/518491N44Ra47LhPOI9S1n"
+    },
+    {
+      "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm"
     },
     {
       "album": {
@@ -13010,6 +13148,32 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "W For Wetego (feat. Young Jonn & Phyno)",
+        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217718,
+      "name": "W For Wetego (feat. Young Jonn & Phyno)",
+      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
     },
     {
       "album": {
@@ -13302,7 +13466,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 210000,
       "name": "WHY LOVE",
       "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"

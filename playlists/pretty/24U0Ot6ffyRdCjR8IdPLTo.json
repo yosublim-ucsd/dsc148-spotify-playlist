@@ -6,7 +6,7 @@
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAGNhPCbnLZCTd22a9iZUYK3HvTeLM4",
+  "snapshot_id": "AAAGOB6DLXaoTWS/s8XM9qlWifLb8pOl",
   "tracks": [
     {
       "added_at": "2025-02-17 04:38:43",
@@ -27,22 +27,18 @@
     {
       "added_at": "2025-02-17 04:38:43",
       "album": {
-        "name": "All I Ever Asked (with sombr)",
-        "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
         {
           "name": "sombr",
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 217578,
-      "name": "All I Ever Asked (with sombr)",
-      "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2025-02-17 04:38:43",
@@ -123,6 +119,26 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "added_at": "2025-02-17 04:38:43",
+      "album": {
+        "name": "All I Ever Asked (with sombr)",
+        "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217578,
+      "name": "All I Ever Asked (with sombr)",
+      "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
     },
     {
       "added_at": "2025-02-17 04:38:43",
@@ -235,22 +251,6 @@
       "duration_ms": 217894,
       "name": "Skip Ahead",
       "url": "https://open.spotify.com/track/4rUYfqtZas6N69XdRL3PDP"
-    },
-    {
-      "added_at": "2025-02-17 04:38:43",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2025-02-21 20:59:29",

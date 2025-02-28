@@ -2,7 +2,7 @@
 
 ### [BLOCO DO GIGANTE \#MeuSpotify](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por Léo Santana
+> é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por <a href="spotify:artist:7KVJCU4z5L4EUHILL8aMxR"> Léo Santana</a>.
 
 635 songs - 1 day 11 hr 37 min
 

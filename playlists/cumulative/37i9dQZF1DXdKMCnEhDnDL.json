@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
+    },
+    {
+      "album": {
         "name": "De Tijd Gaat Mooie Dingen Doen",
         "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
       },
@@ -1433,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165661,
+      "name": "Discozwemmen",
+      "url": "https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u"
+    },
+    {
+      "album": {
         "name": "Dit Is De Dag",
         "url": "https://open.spotify.com/album/3lhTzgO1x5G48bqsOGG3Kn"
       },
@@ -2038,7 +2082,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 132274,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
@@ -2697,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Ik Bouw Een Huis",
+        "url": "https://open.spotify.com/album/3TQyS6dUZ75kMxhHNUb0qv"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148319,
+      "name": "Ik Bouw Een Huis",
+      "url": "https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2022 (Kika Aflevering)",
         "url": "https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD"
       },
@@ -3212,6 +3274,24 @@
       "duration_ms": 161311,
       "name": "La Pression",
       "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
+    },
+    {
+      "album": {
+        "name": "Laat Me Er Langs",
+        "url": "https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151711,
+      "name": "Laat Me Er Langs",
+      "url": "https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1"
     },
     {
       "album": {
@@ -3928,7 +4008,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 231744,
       "name": "Nickel For Goodbye",
       "url": "https://open.spotify.com/track/0mozpacigd082TTRqi5IZc"
@@ -4316,7 +4396,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 171818,
       "name": "Paracetamollen",
       "url": "https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR"
@@ -5358,7 +5438,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 178708,
       "name": "Tussen Jou en Mij",
       "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
@@ -5646,7 +5726,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 231718,
       "name": "Vlammen",
       "url": "https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho"
@@ -6076,7 +6156,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 250230,
       "name": "Wolk breekt",
       "url": "https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ"

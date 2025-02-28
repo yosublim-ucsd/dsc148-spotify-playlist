@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 226206,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/3X6y1QbCHeZKiqN811gMof"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 322000,
       "name": "Imprisoned",
       "url": "https://open.spotify.com/track/7x009s4wyuJKPIf7AaSKuf"
@@ -6711,6 +6711,28 @@
     },
     {
       "album": {
+        "name": "So Here It Is",
+        "url": "https://open.spotify.com/album/2xaXtzity8odRJqbfFuLyc"
+      },
+      "artists": [
+        {
+          "name": "DLR",
+          "url": "https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs"
+        },
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "So Here It Is",
+      "url": "https://open.spotify.com/track/3Nj5oxn4fEoyAFZG2eiePZ"
+    },
+    {
+      "album": {
         "name": "Soundguy",
         "url": "https://open.spotify.com/album/4qvSsh7qckIVcreLO9I6uI"
       },
@@ -6971,6 +6993,36 @@
     },
     {
       "album": {
+        "name": "Still The Same (feat. CASISDEAD)",
+        "url": "https://open.spotify.com/album/0gVhjwJOViTsUjelPFjOEz"
+      },
+      "artists": [
+        {
+          "name": "Rufige Kru",
+          "url": "https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm"
+        },
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Submotive",
+          "url": "https://open.spotify.com/artist/18IDmJ9TpGsEp3mQqixaUE"
+        },
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190650,
+      "name": "Still The Same (feat. CASISDEAD)",
+      "url": "https://open.spotify.com/track/1h1M68zwESaPbUpZ6AU8oW"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
       },
@@ -7224,6 +7276,32 @@
       "duration_ms": 212286,
       "name": "SWAZZ",
       "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
+    },
+    {
+      "album": {
+        "name": "System Shock",
+        "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136688,
+      "name": "System Shock",
+      "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
     },
     {
       "album": {
@@ -8004,7 +8082,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"

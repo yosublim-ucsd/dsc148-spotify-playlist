@@ -6983,7 +6983,7 @@
       "artists": [
         {
           "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+          "url": "https://open.spotify.com/artist/7nC8veuCttVQlyjhueVUXj"
         }
       ],
       "date_added": "2025-02-18",
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159374,
       "name": "OOKAMI",
       "url": "https://open.spotify.com/track/0wdp05r1nZ7rRBly693Kcs"
@@ -32410,6 +32410,28 @@
       "duration_ms": 212746,
       "name": "\u7d04\u675f\u306f\u3044\u3089\u306a\u3044 - from CrosSing",
       "url": "https://open.spotify.com/track/7Je1fiWxx2UFiIMxXdiHZu"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u30ab\u30a4\u30ea\u30e5\u30fc\u3068\u3086\u3046\u3073\u3093\u3084\u3055\u3093\u300f\u4e3b\u984c\u6b4c\u300c\u7d19\u3072\u3053\u3046\u304d\u300d",
+        "url": "https://open.spotify.com/album/1RnA1YQvgwIlo2tG1xrzmf"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        },
+        {
+          "name": "Evan Call",
+          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134195,
+      "name": "\u7d19\u3072\u3053\u3046\u304d",
+      "url": "https://open.spotify.com/track/0BHWsaVofTldxGF9PvxCCe"
     },
     {
       "album": {

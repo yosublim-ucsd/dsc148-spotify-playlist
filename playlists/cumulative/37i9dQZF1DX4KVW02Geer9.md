@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Ezra Collective
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-244 songs - 17 hr 34 min
+245 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Don't Remember Me](https://open.spotify.com/track/29HfUnrUl3JxOfEtVHI5FV) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Don't Remember Me](https://open.spotify.com/album/6JHab78zkxjegd93W4VYW6) | 3:33 | 2024-07-18 | 2024-09-06 |
 | [Drop](https://open.spotify.com/track/38oaHVHRigBAtRYjff1jmW) | [Quentin Angus](https://open.spotify.com/artist/48kGFsC1XcGRawye4S2Edt), [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX), [Moto Fukushima](https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF), [Dusan Kranjc](https://open.spotify.com/artist/2KvtLYJby6dm6I3tyCCDL3) | [Dusan](https://open.spotify.com/album/58swlpZEcoOhRqXyc5ldHf) | 3:47 | 2024-07-25 | 2024-11-08 |
 | [Drummer is Dreamer](https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Drummer is Dreamer](https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs) | 2:30 | 2024-12-05 | 2025-01-25 |
-| [Dusty Future](https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Dusty Future / Struggle](https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL) | 3:41 | 2024-11-21 |  |
+| [Dusty Future](https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Dusty Future / Struggle](https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL) | 3:41 | 2024-11-21 | 2025-02-28 |
 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 | 2024-06-27 | 2024-12-06 |
 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 | 2024-06-27 | 2024-12-18 |
 | [Elastic Man](https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF) | [Tony Grey](https://open.spotify.com/artist/4YIpmOub8uUSREpCwKCoaf) | [Infinity Glitch](https://open.spotify.com/album/49JyMHpb8nxxfW1hGRsqEG) | 6:27 | 2024-10-17 | 2025-01-31 |
@@ -157,6 +157,7 @@
 | [Morning Bread](https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Morning Bread](https://open.spotify.com/album/6N2j5KkTBIEtq8IrdJa0BA) | 3:17 | 2024-06-27 | 2024-10-27 |
 | [Move On Up \- DJ JIN Re\-edit](https://open.spotify.com/track/1WHD4ExyejJcQXkZse7tSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s), [DJ JIN](https://open.spotify.com/artist/1IikVxKVaAWT4hpLcuJFzF) | [Move On Up \(DJ JIN Re\-edit\) / Beyond The Redemption](https://open.spotify.com/album/3jBr5PKwVeartd2kxsQDX8) | 3:19 | 2024-06-27 | 2024-08-30 |
 | [movement](https://open.spotify.com/track/7yB54Gb2VGwFdaCVvtfF9V) | [Tomin](https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj) | [A Willed and Conscious Balance](https://open.spotify.com/album/4luVtiNLWDNazKssZCh2La) | 5:17 | 2024-11-14 | 2025-02-15 |
+| [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 | 2025-02-27 |  |
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-17 | 2024-12-06 |
 | [Never In My Short Sweet Life \- Makaya McCraven Remix](https://open.spotify.com/track/0tYG6RjHYC3nrbyPtbhnQs) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Never In My Short Sweet Life \(Makaya McCraven Remix\)](https://open.spotify.com/album/7lgzfRbWcQchFcsynkGelI) | 4:38 | 2024-08-08 | 2025-01-17 |
 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-11 | 2024-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Eruca Sativa
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,855 likes - 107 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,846 likes - 107 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 106 | [Algo para decirte](https://open.spotify.com/track/66qYj1nKi59oTYjS61wI06) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV), [Marcos Canosa](https://open.spotify.com/artist/2YxThsnVoTuzp8XmHiy3nn), [Manolo Lamothe](https://open.spotify.com/artist/2FGBAOoPioJQAur6Sn1PAW), [Chicho Guisolfi](https://open.spotify.com/artist/0jcNNowV6sg8xf5QZ40Hkb) | [NSB en La Boca](https://open.spotify.com/album/2ocxQdT8odwZxYy81TsJv5) | 4:01 |
 | 107 | [Todo Sigue Igual](https://open.spotify.com/track/0bt0OX02AIKSczy1taXlDC) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Todo Sigue Igual](https://open.spotify.com/album/4AACc6XDAsXQiJfU4ZCxzk) | 3:20 |
 
-Snapshot ID: `Z7iCggAAAADbKK8VPU7ZMu0VmUZkDT12`
+Snapshot ID: `Z7iCggAAAAAM2OFGMzRKreHEnnTNPPE9`

@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-262 songs - 13 hr 42 min
+264 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 | 2024-07-12 |
 | [Прилинь](https://open.spotify.com/track/0v2u6wL3yYe0LFyUT3V6xN) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Прилинь](https://open.spotify.com/album/1QAKc2WTQbLrbap6zlJyCU) | 2:36 | 2024-07-12 | 2024-08-18 |
 | [Примітивний](https://open.spotify.com/track/0SiCtqnViaabYPeEJxcjox) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Примітивний](https://open.spotify.com/album/4UWUsjM3sloiM6OPfhuLcq) | 3:13 | 2025-01-02 |  |
+| [Прокинься](https://open.spotify.com/track/383wl32M2taCAXG4g4ErOO) | [Лея](https://open.spotify.com/artist/0ByHX7o0SMk0Vad9zqQIiM) | [Прокинься](https://open.spotify.com/album/4lWwWfoEbameLGGMk1ZO6V) | 3:15 | 2025-01-24 |  |
 | [Промовч](https://open.spotify.com/track/2hfxAYt2nERjPsTezsDaNG) | [Один День Потому](https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk) | [Промовч](https://open.spotify.com/album/4r5nB3bLpeRxJoMy7eEjIj) | 2:07 | 2024-10-18 | 2024-11-08 |
 | [Простотак](https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD) | [thekomakoma](https://open.spotify.com/artist/2ce8oHn9K9U9aXOtTPxkZf) | [Майбутній альбом](https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk) | 1:25 | 2024-06-27 | 2025-02-24 |
 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 | 2024-09-13 |  |
@@ -222,7 +223,7 @@
 | [ТАК НАБАГАТО КРАЩЕ](https://open.spotify.com/track/6ouCHu3DOH1QeAAX398xu7) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [ЕЛЛІ](https://open.spotify.com/album/4oaR18MBeoYxrLPtlWIofo) | 2:21 | 2025-01-02 | 2025-01-25 |
 | [Така як ти](https://open.spotify.com/track/3Z52mfneFJdUjq5xJV29qY) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Така як ти](https://open.spotify.com/album/2j2oH0jQfdIyfXZ4ZnvDYp) | 3:51 | 2024-06-27 | 2024-07-16 |
 | [Там, де зникають сліди](https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Там, де зникають сліди](https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5) | 2:54 | 2025-01-02 | 2025-01-25 |
-| [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 | 2024-11-07 |  |
+| [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 | 2024-11-07 | 2025-02-28 |
 | [Твій](https://open.spotify.com/track/1mi9mNkMsFPsxr2tj19mdP) | [Tery](https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt), [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Як тебе знайти?](https://open.spotify.com/album/3N4b7sSLtNHU80Zpc0RB9Z) | 2:21 | 2024-12-06 | 2025-01-03 |
 | [Твій голос заводив](https://open.spotify.com/track/6UjXKzu2QsnE4XhABPAtVG) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Твій голос заводив](https://open.spotify.com/album/0k0Dubuk2p2sClv5DVyOGj) | 1:43 | 2024-09-13 | 2024-10-05 |
 | [Телепат](https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Телепат](https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ) | 2:52 | 2024-06-27 | 2024-09-28 |
@@ -245,6 +246,7 @@
 | [Фантастично](https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5) | [TESLENKO](https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF) | [Фантастично](https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt) | 2:10 | 2024-06-27 | 2024-10-19 |
 | [флешбеки](https://open.spotify.com/track/3AwkjFh9bFRzcxLlizDh7B) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ) | [в кубі](https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb) | 3:35 | 2024-09-13 | 2024-10-05 |
 | [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 | 2024-12-06 | 2025-01-25 |
+| [Цифри](https://open.spotify.com/track/3PSfnjHU75qExHR5TScdr7) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Цифри](https://open.spotify.com/album/57o6XaaffWNVQcu9QvaX7e) | 3:30 | 2025-01-24 |  |
 | [цунамі](https://open.spotify.com/track/3ZmREkg89bn74ALxEgpg12) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [можливо, стала доросліша](https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv) | 4:02 | 2024-11-07 | 2025-01-27 |
 | [Чекай](https://open.spotify.com/track/2hWOtvaE8rPohPV1Lvz47h) | [КАЛІБР СЕРЦЯ](https://open.spotify.com/artist/4SWK4ah80Jlt39wRDFdFuE) | [Чекай](https://open.spotify.com/album/1OpJp8r9K5KyRekkTBS3tF) | 3:34 | 2024-07-12 | 2024-07-27 |
 | [Червоним бузком](https://open.spotify.com/track/5HUOWrOydzk4pYlWp8N3eq) | [Курган](https://open.spotify.com/artist/03WTXf9okPH4d32l6pEkzK) | [Червоним бузком](https://open.spotify.com/album/4bNe2VijjIRuQrLvurFZdV) | 2:20 | 2024-10-04 | 2024-11-08 |
@@ -260,7 +262,7 @@
 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 | 2024-06-27 | 2024-10-09 |
 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 | 2024-06-27 |  |
 | [я не хочу бути один](https://open.spotify.com/track/1VnUzp7LvENTh1i18Sj0kU) | [Ігор Кайдаш](https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj) | [я не хочу бути один](https://open.spotify.com/album/3lgMxdmmYOfzfP7dqNHDIg) | 2:57 | 2024-09-13 | 2024-10-25 |
-| [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 | 2024-06-27 |  |
+| [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 | 2024-06-27 | 2025-02-28 |
 | [Я ще тут](https://open.spotify.com/track/5CguwUsbNl7N88jDUzc5Ws) | [Aspen Grove](https://open.spotify.com/artist/3PvkzQ5mrZ0EGltVg6SDPY) | [Я ще тут](https://open.spotify.com/album/5EigHrUJeiveGaVVe3vzLn) | 4:14 | 2024-12-06 | 2025-01-03 |
 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 | 2024-08-23 | 2024-09-14 |
 | [Яблучко](https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Рукокрила](https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl) | 2:36 | 2024-12-06 |  |

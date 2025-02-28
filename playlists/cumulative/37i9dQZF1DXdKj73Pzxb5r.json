@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Lomba Sihir",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rangkai",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -756,6 +756,24 @@
       "duration_ms": 301451,
       "name": "By the Sea",
       "url": "https://open.spotify.com/track/6Ntc7YusEmJnb0IzJkCcZz"
+    },
+    {
+      "album": {
+        "name": "byar",
+        "url": "https://open.spotify.com/album/4oLgFactaiqhjxb6M3gDP0"
+      },
+      "artists": [
+        {
+          "name": "T. Rucira",
+          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233998,
+      "name": "byar",
+      "url": "https://open.spotify.com/track/6ARVP7WgqKkyhefSctHN2C"
     },
     {
       "album": {
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Hilang",
+        "url": "https://open.spotify.com/album/1O5QjShn5r1t8q89QcZ9KQ"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Hilang",
+      "url": "https://open.spotify.com/track/6ISqWbkksV8qBRQG0zA7lT"
+    },
+    {
+      "album": {
         "name": "Hilang Di Nestapa",
         "url": "https://open.spotify.com/album/4Ou8VOT5xtIxCTYQVPsrMR"
       },
@@ -2145,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Jagadhita",
+        "url": "https://open.spotify.com/album/6yUWEhonWXlrf9xLfSwcUR"
+      },
+      "artists": [
+        {
+          "name": "Fanny Soegi",
+          "url": "https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245903,
+      "name": "Jagadhita",
+      "url": "https://open.spotify.com/track/752raq1ayodQTY2Ke6Mx3j"
+    },
+    {
+      "album": {
         "name": "Jalur Bebas Hambatan",
         "url": "https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld"
       },
@@ -2175,7 +2229,7 @@
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189176,
+      "duration_ms": 187764,
       "name": "Jangan Jatuh Cinta Di Jakarta",
       "url": "https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou"
     },
@@ -3946,6 +4000,28 @@
       "duration_ms": 186000,
       "name": "Segalanya Bermula",
       "url": "https://open.spotify.com/track/3pJYW5zdKh6PZWQ7OOWhi6"
+    },
+    {
+      "album": {
+        "name": "Pekik Hening di Lantang Angan",
+        "url": "https://open.spotify.com/album/3SnwMRRIpgLYYqRJ2Oebxi"
+      },
+      "artists": [
+        {
+          "name": "Rangkai",
+          "url": "https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg"
+        },
+        {
+          "name": "Endah Widiastuti",
+          "url": "https://open.spotify.com/artist/6mXxK8byLbjChJ8efKIDkt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269673,
+      "name": "Selam Hati Sulam Diri",
+      "url": "https://open.spotify.com/track/0VbhMLHUG4saLpC0Hx279n"
     },
     {
       "album": {

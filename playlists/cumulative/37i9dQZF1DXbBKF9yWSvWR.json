@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: Ivy Falls",
+  "description": "All new music with an Indie twist. Cover: Naaz",
   "name": "Indie Update",
   "tracks": [
     {
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "album": {
         "name": "Ankles",
         "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 205637,
       "name": "Better If I Go",
       "url": "https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx"
@@ -901,6 +919,42 @@
     },
     {
       "album": {
+        "name": "Call You Out",
+        "url": "https://open.spotify.com/album/468VIVPh2zZfgYnkQyqkC1"
+      },
+      "artists": [
+        {
+          "name": "Cloud Cukkoo",
+          "url": "https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195486,
+      "name": "Call You Out",
+      "url": "https://open.spotify.com/track/24ehkfLX9wLtElmiT4BoVc"
+    },
+    {
+      "album": {
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+    },
+    {
+      "album": {
         "name": "Can't Be Alone",
         "url": "https://open.spotify.com/album/6EuFDMjA4Rf4qmOfwsOS7z"
       },
@@ -1158,7 +1212,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 149240,
       "name": "Deep Dark Well",
       "url": "https://open.spotify.com/track/4NVX6zeTCetetxdgfCENA1"
@@ -1224,7 +1278,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 403787,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
@@ -1769,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Future Dives",
+        "url": "https://open.spotify.com/album/1St4ugLOTuhg6I67rQfRUw"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243869,
+      "name": "Future Dives",
+      "url": "https://open.spotify.com/track/5feBYvLjSEyJBUztF6gpNo"
+    },
+    {
+      "album": {
         "name": "Fuzzy Feeling",
         "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
       },
@@ -1896,10 +1968,28 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 213900,
       "name": "Give or Take a Few",
       "url": "https://open.spotify.com/track/5FzCz6sNG38TC722559eAl"
+    },
+    {
+      "album": {
+        "name": "Going Astray",
+        "url": "https://open.spotify.com/album/2sBJudLlZFyaJptCjy3wHM"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183467,
+      "name": "Going Astray",
+      "url": "https://open.spotify.com/track/5ZFBxQQazj1XAaFKLLY6uy"
     },
     {
       "album": {
@@ -2236,7 +2326,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 247146,
       "name": "I Forgot About The Sky",
       "url": "https://open.spotify.com/track/2cxDqd3VZfP5m9kNmxX9vz"
@@ -2658,6 +2748,24 @@
       "duration_ms": 220488,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
+    },
+    {
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/6hffcVggGAkJpa6a7MlKyl"
+      },
+      "artists": [
+        {
+          "name": "Shana",
+          "url": "https://open.spotify.com/artist/7HTqGb1lorauKA06REPvJq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224302,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/0t6cx7k2XbFbKl3CO7brXX"
     },
     {
       "album": {
@@ -3104,7 +3212,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161856,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3RvSjbvhpFo9ErxDiwhNtv"
@@ -3364,6 +3472,24 @@
       "duration_ms": 165040,
       "name": "My Love, I'm Only Mad",
       "url": "https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0"
+    },
+    {
+      "album": {
+        "name": "my moon",
+        "url": "https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127440,
+      "name": "my moon",
+      "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
     },
     {
       "album": {
@@ -3771,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Peach Sky",
+        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181806,
+      "name": "Peach Sky",
+      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
+    },
+    {
+      "album": {
         "name": "Peachy Free",
         "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
       },
@@ -3930,7 +4074,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 150546,
       "name": "Pool of Fish",
       "url": "https://open.spotify.com/track/3tjfrnTcNJMfZRiTO3GBAr"
@@ -4027,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Remains",
+      "url": "https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/1hTfFDEIzx7RPFs3acGT45"
       },
@@ -4042,6 +4204,28 @@
       "duration_ms": 222191,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/7AGwmaQgwIYITu97XNnpUz"
+    },
+    {
+      "album": {
+        "name": "Richardson (feat. Cassandra Jenkins)",
+        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Richardson (feat. Cassandra Jenkins)",
+      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
     },
     {
       "album": {
@@ -4150,6 +4334,24 @@
       "duration_ms": 159632,
       "name": "Rose (Short)",
       "url": "https://open.spotify.com/track/03WxOoHjYrD3XLVeRklfvr"
+    },
+    {
+      "album": {
+        "name": "Paint The World Pink",
+        "url": "https://open.spotify.com/album/27tdWcmdjecSwRVWjLi0PX"
+      },
+      "artists": [
+        {
+          "name": "45ACIDBABIES",
+          "url": "https://open.spotify.com/artist/2mTXtWA6MHFws93KAA5rVt"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Running In2 U",
+      "url": "https://open.spotify.com/track/1aUHzw4Aohie3q8iZI4JX1"
     },
     {
       "album": {
@@ -4532,7 +4734,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
@@ -5084,7 +5286,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 187730,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/4zZtN72egudceiLTUbRxbR"
@@ -5448,7 +5650,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"

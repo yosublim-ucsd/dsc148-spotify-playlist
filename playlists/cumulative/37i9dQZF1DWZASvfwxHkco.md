@@ -2,9 +2,9 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Mochakk
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Shygirl
 
-553 songs - 1 day 4 hr 15 min
+554 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Alright](https://open.spotify.com/track/3AB531wfWd1MbsfPlp14Ju) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [Alright](https://open.spotify.com/album/5flMT0Q5C7MI91OWoxTcBd) | 3:20 | 2023-07-20 | 2023-07-22 |
 | [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 | 2023-03-30 | 2023-06-08 |
 | [Amnesia \- Radio Edit](https://open.spotify.com/track/0Qhoilnbn6j8HMsqSElexb) | [Svan Code](https://open.spotify.com/artist/4o5GhGFJiq1jj4cgBDj3vD) | [Amnesia](https://open.spotify.com/album/0oYYpXXsXSacuWF0PmDclB) | 3:05 | 2024-01-29 | 2024-02-02 |
-| [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 | 2024-12-26 |  |
+| [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 | 2024-12-26 | 2025-02-28 |
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-25 | 2024-05-26 |
 | [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 | 2023-10-05 | 2023-11-10 |
 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2023-03-16 |  |
@@ -543,6 +543,7 @@
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-07-19 |
 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 | 2025-01-16 | 2025-01-25 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-16 |  |
+| [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-02-27 |  |
 | [With All My Heart](https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [With All My Heart](https://open.spotify.com/album/7t2qYxQeNwbMVdc5wwaSNa) | 2:57 | 2023-03-23 | 2023-05-28 |
 | [With You](https://open.spotify.com/track/797Xa8hsLbUXvqHNc8S8j4) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [With You](https://open.spotify.com/album/2TlQqBy3LkMchsmXvSdE6C) | 2:38 | 2023-03-16 | 2023-04-21 |
 | [Without You](https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Without You](https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j) | 2:23 | 2023-06-01 | 2023-07-21 |

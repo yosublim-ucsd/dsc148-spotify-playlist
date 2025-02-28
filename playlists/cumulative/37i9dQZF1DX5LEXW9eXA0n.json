@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Gaeko(\uac1c\ucf54)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Isaac Hong (\ud64d\uc774\uc0ad)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -12460,7 +12460,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 239506,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/57n1vSsM55Is7Z007RnPuM"
@@ -17077,6 +17077,24 @@
     },
     {
       "album": {
+        "name": "ALL OF ME",
+        "url": "https://open.spotify.com/album/3dI38wUWnrjk1lRXMu4YuG"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/4WHppNdQbrpyxRsQBr3tvL"
+    },
+    {
+      "album": {
         "name": "Regret",
         "url": "https://open.spotify.com/album/46QvS5goez23zF11tYuGqT"
       },
@@ -19280,6 +19298,24 @@
       "duration_ms": 296080,
       "name": "Step",
       "url": "https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1"
+    },
+    {
+      "album": {
+        "name": "The Lovers Note",
+        "url": "https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228492,
+      "name": "Steps Towards You",
+      "url": "https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1"
     },
     {
       "album": {

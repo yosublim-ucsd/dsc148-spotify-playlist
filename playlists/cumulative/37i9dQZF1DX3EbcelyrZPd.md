@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Kusah
 
-520 songs - 1 day 5 hr 46 min
+521 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Huku](https://open.spotify.com/track/3CRS6HLlhjIMLwDr4SJTK4) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Huku](https://open.spotify.com/album/4YpfW62TIniJGy8T6FvnyI) | 4:05 | 2023-09-07 | 2024-03-08 |
 | [Huku](https://open.spotify.com/track/3x1ZFHH0rNQegE0usvJASO) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Huku](https://open.spotify.com/album/2D0Llsh1FVbbl0M2YeXe5L) | 4:04 | 2024-03-07 | 2024-12-20 |
 | [Huruma \(feat\. Barnaba\)](https://open.spotify.com/track/1Nch97rBUl65eO5HBlZPro) | [Linex](https://open.spotify.com/artist/6HhPLV4Jk3jf30sxmRM2rp), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Huruma \(feat\. Barnaba\)](https://open.spotify.com/album/0nuGzAR8QyueRPg9c26tbg) | 3:45 | 2023-08-10 | 2023-11-17 |
-| [Hustler](https://open.spotify.com/track/0zgQiHa7Nz7pQeOcX2aWvf) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Hustler](https://open.spotify.com/album/0zEotmeupAaQUANpl2GBew) | 3:42 | 2024-11-07 |  |
+| [Hustler](https://open.spotify.com/track/0zgQiHa7Nz7pQeOcX2aWvf) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Hustler](https://open.spotify.com/album/0zEotmeupAaQUANpl2GBew) | 3:42 | 2024-11-07 | 2025-02-28 |
 | [Huu Mwaka](https://open.spotify.com/track/32f2btqR7W2xZeuqDQbDRN) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Huu Mwaka](https://open.spotify.com/album/11Xoy9E2mkdfsquJSysiDt) | 3:31 | 2024-01-18 | 2024-11-22 |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 | 2023-08-18 |
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-10 |
@@ -460,6 +460,7 @@
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-05-05 |
 | [U & I](https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [U & I](https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh) | 2:26 | 2022-07-14 | 2022-10-08 |
 | [Ujana](https://open.spotify.com/track/4aldg54TvCNPThgji8Syda) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ujana](https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm) | 3:36 | 2024-08-15 |  |
+| [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 |  |
 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 | 2024-01-18 | 2024-11-22 |
 | [Unachezaje](https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Unachezaje](https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4) | 2:41 | 2021-12-16 | 2022-06-10 |
 | [UNANCHEKESHA \(Move On\)](https://open.spotify.com/track/0SEeJFBZhAo4u9IpG03bLX) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [UNANCHEKESHA \(Move On\)](https://open.spotify.com/album/1L5NOPux4D5m7hYSXJl4IU) | 2:53 | 2024-10-24 |  |

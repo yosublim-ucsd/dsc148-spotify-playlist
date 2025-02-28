@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
@@ -5256,6 +5256,24 @@
       "duration_ms": 201013,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg"
+    },
+    {
+      "album": {
+        "name": "Trickstereprocess",
+        "url": "https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf"
+      },
+      "artists": [
+        {
+          "name": "Kidneythieves",
+          "url": "https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "Taxicab Messiah",
+      "url": "https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c"
     },
     {
       "album": {

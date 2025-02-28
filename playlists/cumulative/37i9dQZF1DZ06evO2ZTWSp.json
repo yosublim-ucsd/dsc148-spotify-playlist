@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195670,
+      "name": "T-Baby",
+      "url": "https://open.spotify.com/track/5huAmqGGPjKQDztp1gd22J"
+    },
+    {
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },

@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 146557,
       "name": "Arif Inou",
       "url": "https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
@@ -356,6 +356,28 @@
       "duration_ms": 126000,
       "name": "Biba Lik",
       "url": "https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7"
+    },
+    {
+      "album": {
+        "name": "Africa Jungle Part.1",
+        "url": "https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH"
     },
     {
       "album": {
@@ -1820,7 +1842,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 150031,
       "name": "Moutou Bsem",
       "url": "https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg"
@@ -1838,7 +1860,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
@@ -2762,7 +2784,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 175497,
       "name": "Ya zina",
       "url": "https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx"

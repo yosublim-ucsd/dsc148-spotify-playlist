@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "9\u00b0C",
+        "url": "https://open.spotify.com/album/6Kn9w4RocAMB81C1m7LmYy"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "9\u00b0C",
+      "url": "https://open.spotify.com/track/1y3BEsKLQ3NNVEjYOt4l9t"
+    },
+    {
+      "album": {
         "name": "Eyes Set Against The Sun",
         "url": "https://open.spotify.com/album/5NvHdkc36vxOs0m2sqkuzz"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 342000,
       "name": "a path between the clouds",
       "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "album": {
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/1bXQFRiD2l4PY3Fije46QR"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326922,
+      "name": "A Requiem",
+      "url": "https://open.spotify.com/track/4AjmRc8wqgmMayhwWLYoXl"
     },
     {
       "album": {
@@ -261,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
+    },
+    {
+      "album": {
         "name": "CHANDANI",
         "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
       },
@@ -344,7 +398,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 174758,
       "name": "As We Record the Disappearing Ice",
       "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
@@ -724,7 +778,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 431187,
       "name": "Canopies",
       "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
@@ -764,7 +818,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 339053,
       "name": "Ce\u00f2",
       "url": "https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv"
@@ -1043,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247324,
+      "name": "Dance Of The Ghosts",
+      "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
+    },
+    {
+      "album": {
         "name": "When This World Sleeps",
         "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
       },
@@ -1054,7 +1130,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
@@ -1356,7 +1432,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
@@ -1392,7 +1468,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192563,
       "name": "Garden",
       "url": "https://open.spotify.com/track/1tN2BgjAGlIjM3KLV1bS9M"
@@ -1418,6 +1494,24 @@
       "duration_ms": 160476,
       "name": "Gentle Hum",
       "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+    },
+    {
+      "album": {
+        "name": "Gesticulate Elastically",
+        "url": "https://open.spotify.com/album/2FhkF2JLkIQ0e8qaa5kKBn"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165748,
+      "name": "Gesticulate Elastically",
+      "url": "https://open.spotify.com/track/6JirbVsrWomaYjcK7DWp2f"
     },
     {
       "album": {
@@ -1887,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
+      },
+      "artists": [
+        {
+          "name": "Eva Tiedemann",
+          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326878,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "album": {
         "name": "Les Chemins De L'inconnu",
         "url": "https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp"
       },
@@ -1898,7 +2010,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 275000,
       "name": "Les Chemins De L'Inconnu",
       "url": "https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9"
@@ -2324,7 +2436,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 231618,
       "name": "Night Changes Many Thoughts",
       "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
@@ -2367,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "album": {
         "name": "Endings",
         "url": "https://open.spotify.com/album/453CfU95KMlJoM1eUbzjtF"
       },
@@ -2382,6 +2512,42 @@
       "duration_ms": 286297,
       "name": "Once Upon a Rose Coloured Time",
       "url": "https://open.spotify.com/track/3V6zBmNQftGoF3oXv1tBd3"
+    },
+    {
+      "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344490,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
+    },
+    {
+      "album": {
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "album": {
@@ -2414,7 +2580,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 868000,
       "name": "Pipe Inversions",
       "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
@@ -2566,6 +2732,50 @@
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/56zp6EdRE6UhcArVLKwJGU"
+    },
+    {
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "album": {
+        "name": "Silence (K Theory Flip)",
+        "url": "https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6"
+      },
+      "artists": [
+        {
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
+        },
+        {
+          "name": "King Kairos",
+          "url": "https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ"
+        },
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Silence - K Theory Flip",
+      "url": "https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q"
     },
     {
       "album": {
@@ -2852,6 +3062,24 @@
       "duration_ms": 161194,
       "name": "Spell I: Let the Waves In",
       "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+    },
+    {
+      "album": {
+        "name": "Spring Becomes You, Spring Becomes New",
+        "url": "https://open.spotify.com/album/5BkenDM1ReSFn74LnzGUW3"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402893,
+      "name": "Spring Becomes You, Spring Becomes New",
+      "url": "https://open.spotify.com/track/61RH8QNue95wskWg0Ynxne"
     },
     {
       "album": {
@@ -3184,7 +3412,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
@@ -3622,7 +3850,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 218505,
       "name": "Winter into Spring",
       "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
@@ -3724,7 +3952,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 674042,
       "name": "You, at the End - Laurel Halo Version",
       "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"

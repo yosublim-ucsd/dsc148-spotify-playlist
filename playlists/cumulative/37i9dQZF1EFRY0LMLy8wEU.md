@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-41 songs - 4 hr 20 min
+42 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [People Get Ready \- Live](https://open.spotify.com/track/1eHZstNbimf2jwI52UhYoj) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 5:57 | 2024-06-13 |  |
 | [Satisfied / Keep My Eyes Up \- Medley](https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire](https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd) | 7:26 | 2024-06-13 |  |
 | [Steadfast Love \- Live](https://open.spotify.com/track/3qCifohJv80eyHYbdpaP3w) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 9:16 | 2024-06-13 |  |
-| [The Fields Are Ready](https://open.spotify.com/track/0nvTazbNK3MzfTRrGcHAf8) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:10 | 2024-06-13 |  |
+| [The Fields Are Ready](https://open.spotify.com/track/0nvTazbNK3MzfTRrGcHAf8) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:10 | 2024-06-13 | 2025-02-28 |
+| [The Fields Are Ready](https://open.spotify.com/track/0zy9NI36IhHEG1pyAla2Ed) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/2pmRUtYaB8fHdZEjIA3X15) | 5:10 | 2025-02-27 |  |
 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 | 2024-06-13 |  |
 | [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 | 2024-06-13 |  |
 | [We Say Yes](https://open.spotify.com/track/41Fkr5t1sCWtgfXiRI525y) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/7fgEWRYDoWFpRvkV0JPWcI) | 6:24 | 2024-06-13 | 2025-02-16 |

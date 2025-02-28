@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,937 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,101 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 69 | [The Fruit From Poison Trees](https://open.spotify.com/track/5jRsNpQ6hAw2zrxOSURtqG) | [Hour of Reprisal](https://open.spotify.com/artist/5cSkzPdS3qaFgejiduxQMF) | [Endless War, Endless Peace](https://open.spotify.com/album/1y3D5pcZZDLHUONK5EujjM) | 4:00 |
 | 70 | [War](https://open.spotify.com/track/6Pai1i2N1e4qTeaIaZsiWE) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Scatterling Empire](https://open.spotify.com/album/64O2YUpR3hS7qE4XvJLQMt) | 7:10 |
 
-Snapshot ID: `Z7gIeQAAAAC4sypT6qoknilpmJD3g83b`
+Snapshot ID: `Z7gIeQAAAABrffCmWGvycCfkO2vs1JoJ`

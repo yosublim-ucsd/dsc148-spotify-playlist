@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7201,
+  "num_followers": 7208,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Moana 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 196306,
       "name": "Beyond (End Credit Version)",
       "url": "https://open.spotify.com/track/4PPVkEZuEy4lQzKOsxLVGH"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -483,38 +483,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Sh\u014dgun (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 111733,
       "name": "Main Title (Sh\u014dgun)",
       "url": "https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Queer (Original Score)",
+        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 274463,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Adriana Paz",
-          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
-        },
-        {
-          "name": "The Mexican Choir",
-          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Las Damas que Pasan",
-      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Memoir of a Snail (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 90498,
       "name": "Memoir of a Snail",
       "url": "https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Adriana Paz",
+          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
+        },
+        {
+          "name": "The Mexican Choir",
+          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Las Damas que Pasan",
+      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

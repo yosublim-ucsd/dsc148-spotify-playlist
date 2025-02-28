@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-216 songs - 9 hr 25 min
+217 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Golden Hour](https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Golden Hour](https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9) | 2:16 | 2024-02-21 |  |
 | [Gomorra](https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Gomorra](https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT) | 2:47 | 2023-12-22 |  |
 | [Good feeling](https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:15 | 2023-06-20 |  |
+| [Gryning](https://open.spotify.com/track/3KEOL0pwQVznboXjHLtrZu) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj), [Daniel Andersson](https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6) | [Gryning](https://open.spotify.com/album/5DrVnUxN15Lt9yBsYVu9lu) | 2:17 | 2025-02-21 |  |
 | [Hard Work](https://open.spotify.com/track/7Evl21t46qtbJ9wpYeJ7I3) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Hard Work](https://open.spotify.com/album/1hwYLeyaEykEvPT5xM9FYq) | 2:40 | 2023-11-26 |  |
 | [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 | 2024-10-28 |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 |  |
@@ -129,7 +130,7 @@
 | [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 |  |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 | 2024-10-10 |
-| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 |  |
+| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 | 2025-02-28 |
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 | 2023-07-22 |
 | [Move Around](https://open.spotify.com/track/4heW9iwtsMVkUXkX0sxGac) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [Move Around](https://open.spotify.com/album/1NlyMIeGd01ovIX5XCWRXq) | 1:54 | 2024-08-23 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 | 2024-11-16 |

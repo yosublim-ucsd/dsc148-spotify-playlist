@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,046 likes - 140 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,117 likes - 140 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 139 | [Bumper Sticker](https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:42 |
 | 140 | [Electric Lizard](https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Rocky Doom](https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT) | 3:26 |
 
-Snapshot ID: `Z7+CKwAAAACfVmIpw4X2szATND3EiD7H`
+Snapshot ID: `Z8CHPQAAAACFGEPDCazwigVlr6RrJ7qk`

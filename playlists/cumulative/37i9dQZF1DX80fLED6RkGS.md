@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Boondocks Gang
+> Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo family
 
-430 songs - 23 hr 3 min
+431 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Kejani](https://open.spotify.com/track/75EHmOnNQFy6Vzw11qbuHB) | [sosatheprodigyy](https://open.spotify.com/artist/4LFr9lmpNxcbQRDToII2q4) | [Kejani](https://open.spotify.com/album/0cmB6MbFMNdqjOjKbOVqZO) | 3:25 | 2023-11-17 | 2024-04-12 |
 | [KENYAN GOLDEN TIMES MEDLEY](https://open.spotify.com/track/56LJfyfxMIVMuiT7n2k6Lp) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [KENYAN GOLDEN TIMES MEDLEY](https://open.spotify.com/album/3mgQAR0mN5XkdZj0IG0bES) | 5:04 | 2022-06-16 | 2023-08-11 |
 | [Khartoum](https://open.spotify.com/track/6HExKbPw3TLaw6DYzH3oY5) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Khartoum](https://open.spotify.com/album/6GFcYdy32ZmkNf8fQ1vPzL) | 3:04 | 2025-02-21 |  |
+| [Khartoum](https://open.spotify.com/track/3axTuaqNTwvhXRrbFqTAzl) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Khartoum](https://open.spotify.com/album/7C6KPPwk5M1v9gPyFAUBgj) | 3:42 | 2025-02-28 |  |
 | [Kibanda](https://open.spotify.com/track/3n5PmxplLwunP2INPa7daR) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Jungle Fever](https://open.spotify.com/album/7m1id3TS0HMpagZ9pdXutI) | 3:18 | 2021-09-10 | 2022-03-04 |
 | [Kichwa Mbaya](https://open.spotify.com/track/1Eytt6oPQrAovjGDS1iIdr) | [Spice Entertainment](https://open.spotify.com/artist/7eNGiqYytcIcklJCUt5AaS), [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Odi Wa Murang'a](https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH) | [Kichwa Mbaya](https://open.spotify.com/album/0pQfxuRsGUFQR1GiPZcF6R) | 3:40 | 2022-03-31 | 2023-04-21 |
 | [Kichwa Mbaya](https://open.spotify.com/track/3Y5PWzTgcRSXZvSalMnjyK) | [Spice Entertainment](https://open.spotify.com/artist/7eNGiqYytcIcklJCUt5AaS), [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Odi Wa Murang'a](https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH) | [Kichwa Mbaya](https://open.spotify.com/album/1Kv8fIpt2TjmXGshsbljT6) | 3:40 | 2022-03-31 | 2022-11-12 |
@@ -271,7 +272,7 @@
 | [Ng'ang'o](https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP) | [VDJ Jones](https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm), [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd), [Iano Ranking](https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4) | [Ng'ang'o](https://open.spotify.com/album/0cCmWkYJragCVVC2seT3fc) | 2:31 | 2022-08-11 | 2023-05-27 |
 | [NGATA \(Pi\-Pi\-Pi, Po\-Po\-Po\)](https://open.spotify.com/track/4qbLlnfGoRIsxPi2Jxw65E) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [NGATA \(Pi\-Pi\-Pi, Po\-Po\-Po\)](https://open.spotify.com/album/3i0cSvK8XorHRWRu8YJXah) | 3:26 | 2024-02-29 | 2025-01-24 |
 | [Ngoko](https://open.spotify.com/track/5US66dlO0HagPSyQhkFry9) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Ngoko](https://open.spotify.com/album/0dR4SF1ZT3phoaK4PhDJ9q) | 3:36 | 2022-09-09 | 2023-05-27 |
-| [Ngwai](https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK) | [danski](https://open.spotify.com/artist/1QSL2mlVoqSq1xoU67Bf8T), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Ngwai](https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b) | 2:12 | 2023-08-24 |  |
+| [Ngwai](https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK) | [danski](https://open.spotify.com/artist/1QSL2mlVoqSq1xoU67Bf8T), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Ngwai](https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b) | 2:12 | 2023-08-24 | 2025-02-28 |
 | [Ngwaii](https://open.spotify.com/track/1i9hZoFAhcl62FiMho3AIj) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [DUDU](https://open.spotify.com/album/2rKJT7qZMNA6FLgJBcMXuG) | 2:28 | 2023-03-23 | 2023-11-03 |
 | [Ni Wetu](https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ni Wetu](https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o) | 3:01 | 2022-11-17 | 2023-11-17 |
 | [Niko Sawa](https://open.spotify.com/track/0u7qg774VdGANjp5f4uRNv) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bien](https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:40 | 2022-01-20 | 2022-01-28 |

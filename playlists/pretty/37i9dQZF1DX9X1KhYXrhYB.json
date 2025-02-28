@@ -1,13 +1,97 @@
 {
   "description": "Secrets will be spilled. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.",
-  "num_followers": 147740,
+  "num_followers": 148106,
   "original_name": "Yellowjackets Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6/B0gAAAAClNqvxmCCqyd0a0v73KLF1",
+  "snapshot_id": "Z8DcfgAAAACy9U0UQLZdGfySg90bBdh8",
   "tracks": [
+    {
+      "added_at": "2025-02-27 21:43:26",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/78u5gGU8ALR3TuvEVWV3tH"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/2wmnubOPY1hyR4fSaZ9o1T"
+    },
+    {
+      "added_at": "2025-02-27 21:43:26",
+      "album": {
+        "name": "On the Radar: Pop Hits",
+        "url": "https://open.spotify.com/album/27uIFxnOXwi4tPBYtq3daR"
+      },
+      "artists": [
+        {
+          "name": "Simon Tellier",
+          "url": "https://open.spotify.com/artist/4ZLAACYvR4O4jZpuYQjknL"
+        },
+        {
+          "name": "Roland Bingaman",
+          "url": "https://open.spotify.com/artist/5HiHK1FPVHrphjnb7IPINi"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Feelin' Like Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/39IWzKlq4ggWvqTyxqWut7"
+    },
+    {
+      "added_at": "2025-02-27 21:43:26",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "added_at": "2025-02-27 21:43:26",
+      "album": {
+        "name": "Mama's Big Ones",
+        "url": "https://open.spotify.com/album/3x44BijmAfm1N7Cs7yILL4"
+      },
+      "artists": [
+        {
+          "name": "Cass Elliot",
+          "url": "https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk"
+        }
+      ],
+      "duration_ms": 139533,
+      "name": "Make Your Own Kind Of Music",
+      "url": "https://open.spotify.com/track/6H3Wa6hWR9DRMzMSd4pZkT"
+    },
+    {
+      "added_at": "2025-02-27 21:43:26",
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Cold - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG"
+    },
     {
       "added_at": "2025-02-14 22:21:06",
       "album": {

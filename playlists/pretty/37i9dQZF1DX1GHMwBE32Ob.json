@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Seyi Vibez",
-  "num_followers": 82135,
+  "num_followers": 82275,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2025-02-24 12:37:38",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
-    },
-    {
-      "added_at": "2025-02-24 12:37:38",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2025-02-24 12:37:38",
@@ -687,42 +687,6 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
-        "name": "Pawon Boy Vol.1",
-        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Dj 4kerty",
-          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
-    },
-    {
-      "added_at": "2025-02-24 12:37:38",
-      "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
-    },
-    {
-      "added_at": "2025-02-24 12:37:38",
-      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -743,6 +707,22 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
+    },
+    {
+      "added_at": "2025-02-24 12:37:38",
+      "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+    },
+    {
+      "added_at": "2025-02-24 12:37:38",
+      "album": {
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
       "added_at": "2025-02-24 12:37:38",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2025-02-24 12:37:38",
+      "album": {
         "name": "5am in OJO Freestyle",
         "url": "https://open.spotify.com/album/3v4zTqtzlr0fcDiHT4SSI6"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
-    },
-    {
-      "added_at": "2025-02-24 12:37:38",
-      "album": {
         "name": "Hi Hi",
         "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
+        "name": "Beamer",
+        "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Beamer",
+      "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+    },
+    {
+      "added_at": "2025-02-24 12:37:38",
+      "album": {
         "name": "Bhad Boi",
         "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
       },
@@ -1031,8 +1047,8 @@
     {
       "added_at": "2025-02-24 12:37:38",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
+        "name": "HEHEHE",
+        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
       },
       "artists": [
         {
@@ -1040,25 +1056,9 @@
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
-    },
-    {
-      "added_at": "2025-02-24 12:37:38",
-      "album": {
-        "name": "Beamer",
-        "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Beamer",
-      "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+      "duration_ms": 113720,
+      "name": "HEHEHE",
+      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
     },
     {
       "added_at": "2025-02-24 12:37:38",

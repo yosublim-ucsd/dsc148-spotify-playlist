@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Ana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Q8ccN6Q8593aZOIvWpd0X"
+      },
+      "artists": [
+        {
+          "name": "Anna Toledo",
+          "url": "https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj"
+        },
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Ana - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bLe02oNRJQyBPkM8x2hYT"
+    },
+    {
+      "album": {
         "name": "Antes da Briga (Live)",
         "url": "https://open.spotify.com/album/7c34YZvNG1V8QsomzyeOAu"
       },

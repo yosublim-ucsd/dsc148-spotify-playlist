@@ -4,12 +4,12 @@
 
 > New tunes from Ireland for your discovery\. Cover: amy michelle
 
-279 songs - 15 hr 1 min
+281 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 + Only](https://open.spotify.com/track/776vcQzhzWnK5wFVHxmQhC) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [1 + Only](https://open.spotify.com/album/5nsh8uGAthd6uhd775Ai9Z) | 3:19 | 2024-02-02 | 2024-03-15 |
-| [2 Be Mine](https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp) | [REIMOND](https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5) | [2 Be Mine](https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz) | 3:00 | 2024-08-16 |  |
+| [2 Be Mine](https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp) | [REIMOND](https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5) | [2 Be Mine](https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz) | 3:00 | 2024-08-16 | 2025-02-28 |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-02 | 2024-08-03 |
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-19 | 2025-02-01 |
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
@@ -26,7 +26,7 @@
 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 | 2025-01-31 |  |
 | [atrophy](https://open.spotify.com/track/7cQwMwIBNkGYvPQUzMj1pn) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [atrophy](https://open.spotify.com/album/1yhIQQhcuRHOzermd4P6Iq) | 3:08 | 2025-01-31 |  |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 | 2024-07-05 |
-| [Baker](https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Baker](https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ) | 2:49 | 2024-07-19 |  |
+| [Baker](https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Baker](https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ) | 2:49 | 2024-07-19 | 2025-02-28 |
 | [Before Sunrise](https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3) | [Nagam](https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu), [mac gray](https://open.spotify.com/artist/1MQuOJzZbSj6u5cevemdGd) | [Before Sunrise](https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC) | 3:00 | 2024-02-02 | 2024-04-26 |
 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-05-30 | 2024-11-16 |
 | [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 | 2024-07-19 | 2025-02-01 |
@@ -44,6 +44,7 @@
 | [board games](https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [board games](https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv) | 2:55 | 2024-02-02 | 2024-03-02 |
 | [Body](https://open.spotify.com/track/1lb8y5ayNhqmoyDMULKPhn) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Body](https://open.spotify.com/album/4hbkzqBY4OWpiFIoDtqTYl) | 2:45 | 2024-09-12 |  |
 | [Body Issues](https://open.spotify.com/track/3tcZIF1c2vKv7eTMDuS8aD) | [Ellen O'Meara](https://open.spotify.com/artist/1DdpdoDBbLsNfyDQTvdXST) | [Body Issues](https://open.spotify.com/album/7t3648j4XIiHuZeLTvI26R) | 3:08 | 2024-04-11 | 2024-08-17 |
+| [Borrowed Time](https://open.spotify.com/track/0LAsWzlLJZJA6iNDAhV6oi) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Borrowed Time](https://open.spotify.com/album/78nWa7YKvQ4m3pWsDlTtBw) | 3:22 | 2025-02-28 |  |
 | [Boy Racer](https://open.spotify.com/track/4qnoNv96JSCMtKJq1Mrpfe) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Boy Racer](https://open.spotify.com/album/5TXEsw0Amvt0fdQgyyocQU) | 3:39 | 2024-12-06 |  |
 | [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-04-05 | 2024-09-06 |
 | [Bronco Loko.](https://open.spotify.com/track/4zV9G0EKiegk5BQnWGQpIY) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK), [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35), [Kylté](https://open.spotify.com/artist/7jMZCREcSgqOoQlVoGswM5) | [Ahmed, With FRIENDS! Vol.1: Friday at Kylté's](https://open.spotify.com/album/10bpJK5uddmNJEGh8nx6h4) | 2:58 | 2025-01-10 |  |
@@ -262,6 +263,7 @@
 | [Validation](https://open.spotify.com/track/4XSbfpmunsGUYQefSBzHqq) | [Finn O'Hara](https://open.spotify.com/artist/4K4FJiiM5DFOOlfTvI1Sey) | [Validation](https://open.spotify.com/album/6XgHey6rk28GVvJKDpftuN) | 3:29 | 2024-06-13 | 2024-12-07 |
 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-05-02 | 2024-11-16 |
 | [violence'66](https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [violence'66](https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld) | 3:01 | 2024-05-02 | 2024-09-20 |
+| [Waiting Room](https://open.spotify.com/track/32ZKLt3sWi1E6UsFhjoqDH) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Waiting Room](https://open.spotify.com/album/25R3RUlOhwyroov3MpT5Eo) | 3:17 | 2025-02-28 |  |
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2024-02-02 | 2024-04-12 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2024-02-02 | 2024-04-12 |
 | [Waves](https://open.spotify.com/track/6l8jDnOuzV0se6Xqg04pk3) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Come As You Are](https://open.spotify.com/album/3abhzkoogxncYsKSBwxhqT) | 4:25 | 2024-05-30 | 2024-11-16 |

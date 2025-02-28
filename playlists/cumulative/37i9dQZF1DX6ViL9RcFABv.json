@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Criss Calisto",
+  "description": "Uma playlist de pura alma pop! Foto: SYRO",
   "name": "Pop PT",
   "tracks": [
     {
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/4UliHa4JSC0XnLUPVQfCrd"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/6XtfK5ZQn2hadtNHnVJyQY"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/7oHyR7VcOyjHad6vvcnjj4"
       },
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160000,
       "name": "De Volta",
       "url": "https://open.spotify.com/track/4Liz1bi9seXPhJw0Pa27Bp"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192240,
       "name": "Devolve-me o Amanh\u00e3",
       "url": "https://open.spotify.com/track/0HlNrk1bsxFIIkOJqjb4EL"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 179272,
       "name": "Fica",
       "url": "https://open.spotify.com/track/71aUNoaXhwTWfLdWkHCMDW"
@@ -3013,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "CCD - CHOVE C\u00c1 DENTRO",
+        "url": "https://open.spotify.com/album/1AupBQGX909ZP4URCEsO10"
+      },
+      "artists": [
+        {
+          "name": "Agir",
+          "url": "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "PRIMAVERA",
+      "url": "https://open.spotify.com/track/2gwjSaICLjXKNBodfe18ja"
+    },
+    {
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs"
       },
@@ -3050,7 +3086,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 242891,
       "name": "P\u00f3 do Tempo",
       "url": "https://open.spotify.com/track/1cODqvMGtpdHd8gs6X2Ggs"
@@ -3144,6 +3180,28 @@
       "duration_ms": 144493,
       "name": "Rasp\u00e3o",
       "url": "https://open.spotify.com/track/726Wj3tCY1A4vIrwHlQyRZ"
+    },
+    {
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254039,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq"
     },
     {
       "album": {
@@ -3396,6 +3454,24 @@
       "duration_ms": 242981,
       "name": "Sem Hora Marcada",
       "url": "https://open.spotify.com/track/6bLIR9R5T73E2idV7vUZQ1"
+    },
+    {
+      "album": {
+        "name": "Mimi Froes (ao vivo no Est\u00fadio Vale de Lobos)",
+        "url": "https://open.spotify.com/album/7dshgqjdVIEp2jlRrTulmW"
+      },
+      "artists": [
+        {
+          "name": "Mimi Froes",
+          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "Sem Que Estejas - ao vivo no Est\u00fadio Vale de Lobos",
+      "url": "https://open.spotify.com/track/5FwwbhKqd8cYmC0FIHsjyX"
     },
     {
       "album": {

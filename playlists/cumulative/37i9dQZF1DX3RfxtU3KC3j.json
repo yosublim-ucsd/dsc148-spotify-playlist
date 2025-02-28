@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Beyaz Sayfalar",
+        "url": "https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151234,
+      "name": "Beyaz Sayfalar",
+      "url": "https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe"
+    },
+    {
+      "album": {
         "name": "Biliyorsun",
         "url": "https://open.spotify.com/album/1vstdK2thDKrgToZO3IBOb"
       },
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 193495,
       "name": "\u0130nci Tanesi",
       "url": "https://open.spotify.com/track/24Xrjpc9VQ2YZeiev7P2Wb"
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 205160,
       "name": "YBG",
       "url": "https://open.spotify.com/track/0yzknXQCyC7HQ1VYbYcg21"
@@ -4024,6 +4042,24 @@
       "duration_ms": 177500,
       "name": "Yine Sev Diyemem",
       "url": "https://open.spotify.com/track/027QueXikc6hen5DyuOhw2"
+    },
+    {
+      "album": {
+        "name": "Sana Yazmad\u0131\u011f\u0131m \u015eark\u0131lar",
+        "url": "https://open.spotify.com/album/2Dbpe6mOnryH6QPIOr7csE"
+      },
+      "artists": [
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Yol",
+      "url": "https://open.spotify.com/track/3bbpdRTMYXQK4MHlBrCqXC"
     },
     {
       "album": {

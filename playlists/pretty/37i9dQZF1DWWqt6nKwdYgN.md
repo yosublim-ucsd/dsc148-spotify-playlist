@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Ana Tijoux en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,549 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,551 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 17 | [Gantel Con Principio y Con Finale](https://open.spotify.com/track/7kcIvOakeJVg4llg5M4g5e) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [Gantel Con Principio y Con Finale](https://open.spotify.com/album/0wuP6lnaTZEuQHW3Ig30Cf) | 2:20 |
 | 18 | [Blíster](https://open.spotify.com/track/26vcoEHrsEkWSl1EmKxNFY) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL) | [Blíster](https://open.spotify.com/album/3InSSjhvgVBR5RyiFMVEYm) | 3:36 |
 | 19 | [CUENCO](https://open.spotify.com/track/2WWe3FjQIZsuadIvNNZzXU) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [LA LLAVE](https://open.spotify.com/album/749kfpXVX1deSyC5zKu7oY) | 3:27 |
-| 20 | [SHELDON](https://open.spotify.com/track/67osApTMEOynbsGaaYGxJC) | [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY), [NotarlLP](https://open.spotify.com/artist/6UR8XwX7LKHuIeydduonhR) | [SHELDON](https://open.spotify.com/album/68HQ4Su9xDzBF6LmoZo7v2) | 2:09 |
+| 20 | [SHELDON](https://open.spotify.com/track/67osApTMEOynbsGaaYGxJC) | [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY), [NotarLP](https://open.spotify.com/artist/3kUlhGCLBSY1hcPLDKwi1O) | [SHELDON](https://open.spotify.com/album/68HQ4Su9xDzBF6LmoZo7v2) | 2:09 |
 | 21 | [Fuerte](https://open.spotify.com/track/55U73OnW0XxCZzQ4E08KC2) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Fuerte](https://open.spotify.com/album/2JOpTZhjiZzeD68SsElNkA) | 3:30 |
 | 22 | [Donante](https://open.spotify.com/track/25mtMOQwFjOmB97EFisbu9) | [Aarón Homobono](https://open.spotify.com/artist/0LBk4kvDBUQsVTXRTKggEr), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Donante](https://open.spotify.com/album/5w3Fi9UT9qJIcoJPRNGJhd) | 4:18 |
 | 23 | [Maldito Amor](https://open.spotify.com/track/66goPuVCLbaYDp1J7Yh8Kt) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Maldito Amor](https://open.spotify.com/album/6NMYHVyaphL6YEOnEBeXug) | 3:48 |

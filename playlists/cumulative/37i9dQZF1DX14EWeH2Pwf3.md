@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Capo Plaza in cover della playlist urban più grande in Italia 🔥
+> C'è una street song in cover della playlist urban più grande in Italia 🔥
 
-714 songs - 1 day 11 hr 1 min
+715 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Cocaina](https://open.spotify.com/track/64qsPgi3QCzSSLz0lMxCn7) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:40 | 2024-01-18 | 2024-02-16 |
 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 | 2022-05-09 | 2022-05-13 |
 | [Codeine \(feat\. ANNA\)](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 | 2024-12-16 |  |
-| [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 |  |
+| [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 | 2025-02-28 |
 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 | 2024-10-03 | 2024-12-17 |
 | [COME POSSO FIDARMI](https://open.spotify.com/track/505Bud7x4Nea07A39ZEJpD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-01-09 | 2025-01-24 |
 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 | 2022-09-08 | 2022-10-14 |
@@ -553,6 +553,7 @@
 | [POWER SLAP](https://open.spotify.com/track/0wHW7nZlqZqbxnmTotTLGp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:17 | 2024-12-13 | 2025-02-14 |
 | [PRAISE THE LORD ☥ \(con Guè, Noyz Narcos, Tony Boy\)](https://open.spotify.com/track/53AWZCqbx6kIPsVgSNYn92) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:15 | 2024-04-04 | 2024-08-02 |
 | [PRETTY GANGSTA \(feat\. Margola\)](https://open.spotify.com/track/52s27LiMmNj9QePTeK0vt2) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Margola](https://open.spotify.com/artist/6QQPDf4b6PnpNuxwRKbHgi) | [PRETTY GANGSTA \(feat\. Margola\)](https://open.spotify.com/album/3SA6PlYp1fUGKLvQ2RoyLy) | 3:02 | 2025-02-13 | 2025-02-20 |
+| [Problem Solver](https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:30 | 2025-02-27 |  |
 | [Profesora \(feat\. VillaBanks, Vegas Jones, Smeia\)](https://open.spotify.com/track/3ljFwkTwDnXgDGr53FTSIV) | [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Smeia](https://open.spotify.com/artist/1Fnb8NPRp4aj406R8J9bsw) | [Profesora \(feat\. VillaBanks, Vegas Jones, Smeia\)](https://open.spotify.com/album/5Cw9gda7GFI6YyY92ZEIW1) | 2:59 | 2023-06-01 | 2023-06-09 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft) | 2:50 | 2022-10-20 | 2022-10-25 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:50 | 2022-10-24 | 2023-03-25 |

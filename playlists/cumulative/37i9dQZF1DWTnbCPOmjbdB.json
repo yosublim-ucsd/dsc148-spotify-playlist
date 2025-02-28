@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Magda Bereda, Piotr Rubik",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Monika Kocio\u0142ek",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 186120,
       "name": "Biega\u0107, skaka\u0107 (feat. Nosowska)",
       "url": "https://open.spotify.com/track/1ovpRFP99nUXuexWm1iTy8"
@@ -594,6 +594,28 @@
       "duration_ms": 183674,
       "name": "Burza",
       "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
+    },
+    {
+      "album": {
+        "name": "By\u0142 bal (J. Kofta)",
+        "url": "https://open.spotify.com/album/1up46iFfIWSVf9BEruuXwm"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234791,
+      "name": "By\u0142 bal (J. Kofta)",
+      "url": "https://open.spotify.com/track/5jt7qdd7BaeZ67rwNx2S9A"
     },
     {
       "album": {
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 140571,
       "name": "DEMOLKA",
       "url": "https://open.spotify.com/track/7JPDbY7zlchiQREhWmTCZb"
@@ -1372,7 +1394,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 153600,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp"
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 163124,
       "name": "FXXKED IT UP",
       "url": "https://open.spotify.com/track/1XvOPasCjF0yQVEpjOouOc"
@@ -1878,7 +1900,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135789,
       "name": "GOD DAMN",
       "url": "https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD"
@@ -2172,6 +2194,24 @@
       "duration_ms": 184058,
       "name": "Idiotka",
       "url": "https://open.spotify.com/track/4xQ2tNtiQ8aT9OznQvSVKp"
+    },
+    {
+      "album": {
+        "name": "Idziesz",
+        "url": "https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Idziesz",
+      "url": "https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj"
     },
     {
       "album": {
@@ -2695,6 +2735,32 @@
     },
     {
       "album": {
+        "name": "FUGAZI",
+        "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "kyoto",
+      "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
+    },
+    {
+      "album": {
         "name": "Unikaj\u0105c Odpowiedzi EP",
         "url": "https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ"
       },
@@ -2710,6 +2776,24 @@
       "duration_ms": 162000,
       "name": "K\u0142ama\u0142am",
       "url": "https://open.spotify.com/track/4pnc3PgYxln13xG0AvAPqS"
+    },
+    {
+      "album": {
+        "name": "La Casa",
+        "url": "https://open.spotify.com/album/3rLpnMP1u4txsKOPKXtekV"
+      },
+      "artists": [
+        {
+          "name": "Karolina Stanis\u0142awczyk",
+          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162919,
+      "name": "La Casa",
+      "url": "https://open.spotify.com/track/4jG90NYnPz3eMaBhWPsmO1"
     },
     {
       "album": {
@@ -2968,7 +3052,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158500,
       "name": "LOVESONG",
       "url": "https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14"
@@ -3030,10 +3114,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 196764,
       "name": "Maj 1939 (Z. Ginczanka)",
       "url": "https://open.spotify.com/track/3yprz1Nu7lBzOksp7bivNr"
+    },
+    {
+      "album": {
+        "name": "MAMONY MILION",
+        "url": "https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "MAMONY MILION",
+      "url": "https://open.spotify.com/track/53camPfa0Fd8y1WzUcRjkP"
     },
     {
       "album": {
@@ -4031,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Destroy Me, Today",
+        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184966,
+      "name": "Nie ton\u0119",
+      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
+    },
+    {
+      "album": {
         "name": "Nie trzeba mi nic",
         "url": "https://open.spotify.com/album/2vdEJg7gNZUzQ6b6W6YQ6e"
       },
@@ -4678,6 +4798,24 @@
       "duration_ms": 175312,
       "name": "Pierwszy",
       "url": "https://open.spotify.com/track/4FkHnWNvDemKUWQzFx2rUB"
+    },
+    {
+      "album": {
+        "name": "Pierwszy Krok",
+        "url": "https://open.spotify.com/album/0va6JpskgrDsF8VZsAaJpY"
+      },
+      "artists": [
+        {
+          "name": "Sound'n'Grace",
+          "url": "https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184900,
+      "name": "Pierwszy Krok",
+      "url": "https://open.spotify.com/track/5XaenrqYGThZEVvXZUWFPN"
     },
     {
       "album": {
@@ -5365,6 +5503,28 @@
     },
     {
       "album": {
+        "name": "Spr\u00f3bujemy jeszcze raz",
+        "url": "https://open.spotify.com/album/0e28Cqrm2ecalYhGN0ug4B"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        },
+        {
+          "name": "Dziecko Si\u0119 Liczy",
+          "url": "https://open.spotify.com/artist/5OXy84Eb08JYxkD8vhbAIM"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137063,
+      "name": "Spr\u00f3bujemy jeszcze raz",
+      "url": "https://open.spotify.com/track/4f5m0DJ71GovPcwe09mDJo"
+    },
+    {
+      "album": {
         "name": "Stacja Hel",
         "url": "https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3"
       },
@@ -5546,6 +5706,28 @@
       "duration_ms": 157611,
       "name": "Szklana pu\u0142apka",
       "url": "https://open.spotify.com/track/1TIlqOiPrtEHqQyclmy2Q5"
+    },
+    {
+      "album": {
+        "name": "Sztuka",
+        "url": "https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH"
+      },
+      "artists": [
+        {
+          "name": "Slavic DAMA",
+          "url": "https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz"
+        },
+        {
+          "name": "Miko Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240039,
+      "name": "Sztuka",
+      "url": "https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA"
     },
     {
       "album": {
@@ -6192,7 +6374,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 190000,
       "name": "W blasku s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/4r43uk1VCa1DIIs8hyreUa"
@@ -6360,10 +6542,32 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 268420,
       "name": "Wielka woda",
       "url": "https://open.spotify.com/track/1FPnHkCZaHLMSqc9tPXyud"
+    },
+    {
+      "album": {
+        "name": "wiem w kt\u00f3r\u0105 stron\u0119",
+        "url": "https://open.spotify.com/album/0HNiTCuKXlMTKQHLwfMv98"
+      },
+      "artists": [
+        {
+          "name": "Julianna Ola\u0144ska",
+          "url": "https://open.spotify.com/artist/6I42Tne1nzUZLsu3CCz4fp"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195104,
+      "name": "wiem w kt\u00f3r\u0105 stron\u0119",
+      "url": "https://open.spotify.com/track/3zOihk0uHXXxv6R0WBRjqh"
     },
     {
       "album": {
@@ -6858,7 +7062,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 149032,
       "name": "Zawsze",
       "url": "https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd"

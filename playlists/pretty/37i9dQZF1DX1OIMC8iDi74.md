@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Knock2
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,487 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,479 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 87 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 |
 | 88 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 89 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
-| 90 | [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 |
-| 91 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 92 | [Fade Away](https://open.spotify.com/track/7gKLE8IhPWpM2wGjqMiUrU) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Two Swords](https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv) | [Fade Away / Oxygen Thief](https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi) | 3:33 |
-| 93 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
-| 94 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
+| 90 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 91 | [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 |
+| 92 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
+| 93 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
+| 94 | [Fade Away](https://open.spotify.com/track/7gKLE8IhPWpM2wGjqMiUrU) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Two Swords](https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv) | [Fade Away / Oxygen Thief](https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi) | 3:33 |
 | 95 | [Donnie Brasco](https://open.spotify.com/track/7uYk4QW83Z82TcTURR1Y8r) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx) | [Donnie Brasco](https://open.spotify.com/album/7AJ34nT0oED3Y3gUHGAwMN) | 3:02 |
 | 96 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
 | 97 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |

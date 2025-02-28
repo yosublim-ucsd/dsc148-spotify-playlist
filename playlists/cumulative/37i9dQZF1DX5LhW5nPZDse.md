@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-60 songs - 3 hr 29 min
+64 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2025-01-30 |  |
 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 | 2025-01-30 |  |
 | [Crying All the Time](https://open.spotify.com/track/2qLXPvrlhdPsR2NpO7CKSN) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel) | 3:30 | 2025-01-30 |  |
+| [damn, look at the view !](https://open.spotify.com/track/246gIi3P5IlEAmaR8bE3bL) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 1:50 | 2025-02-27 |  |
 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 | 2025-01-30 |  |
 | [Dinosaur](https://open.spotify.com/track/5Ma1xPAUNkOz4q3Hg7THSI) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Captain](https://open.spotify.com/album/79qDEU4I4y8Xt1LA7cwAV4) | 3:14 | 2025-01-30 |  |
 | [Domino](https://open.spotify.com/track/7FIx1bkujbQ4gWjmFq9hXt) | [Collin Selman](https://open.spotify.com/artist/7skgISRCbhB6dbhB26RDHb) | [Domino](https://open.spotify.com/album/4ey6eYCruyw7eOuMPeMXBa) | 3:16 | 2025-01-30 |  |
@@ -42,10 +43,12 @@
 | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/track/1oFdXK1L7SIn30Bl8gShXj) | [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Long Gone \(School Spirits Main Title Theme\)](https://open.spotify.com/album/3QaOCisCbuYcL1H2H6Ea8B) | 0:55 | 2025-01-30 |  |
 | [Mau Mau](https://open.spotify.com/track/4NjmLZhHe1THI79g0GzNG7) | [The Wailers](https://open.spotify.com/artist/3w1N6MEbGEQNw1MJabSP6M) | [The Fabulous Wailers](https://open.spotify.com/album/2VaZzkK0LOUxRWNNiVkLVy) | 2:40 | 2025-01-30 |  |
 | [Monster](https://open.spotify.com/track/2YshaAyv46ZX5PDKOpX8IH) | [Emmett Finley](https://open.spotify.com/artist/3N4XzQRo7MSxOo9BtIBQ16) | [Emmett Finley](https://open.spotify.com/album/58jfsZz5ZkcIoaacQPrH1A) | 5:22 | 2025-01-30 |  |
+| [My Best Friend Needs](https://open.spotify.com/track/460fiLttrlcZYSfc7c7Uus) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:49 | 2025-02-27 |  |
 | [My Body](https://open.spotify.com/track/4ThYidN9URLbpQUvOVxkRt) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 2:17 | 2025-02-06 |  |
 | [My Clothes From Last Night](https://open.spotify.com/track/1EiciOsz8auDbBTEYMN1mW) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Male Madonna](https://open.spotify.com/album/4yKwOUQFUk9619mweEsuh4) | 1:54 | 2025-01-30 |  |
 | [Mystery](https://open.spotify.com/track/7M3txFiUnjpSbSc0axEUyW) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Mystery](https://open.spotify.com/album/0tDrSXwqrCRGI8TdeJNExN) | 5:09 | 2025-01-30 |  |
 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 | 2025-01-30 |  |
+| [Open Up Your Heart \(And Let The Sun Shine In\)](https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5) | [Stuart Hamblen](https://open.spotify.com/artist/7n8QNNHYcQZwQFzQNNVmwj) | [The Very Best Of](https://open.spotify.com/album/0rAJIWMYuKwRVMYPgbCov6) | 2:36 | 2025-02-27 |  |
 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 | 2025-01-30 |  |
 | [Pressed 2 Death](https://open.spotify.com/track/4jFmAofIPzs9cJl9ENzoNw) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/6Uwzs1xJxvAMdmRgtodQ9h) | 2:15 | 2025-01-30 |  |
 | [Rosy Glasses](https://open.spotify.com/track/5gIktkrlYS6UFjiUeDYjG9) | [Sarah Yarkin](https://open.spotify.com/artist/2jSIYW41JySMHsVbWq4ys4) | [Rosy Glasses](https://open.spotify.com/album/2s5BCpgp8MqCewQ6GoIRk3) | 4:11 | 2025-01-30 |  |
@@ -64,6 +67,7 @@
 | [Talk About Him Girlie](https://open.spotify.com/track/3FS2GLlTXUfPqCu4P2P6U0) | [The Hearts](https://open.spotify.com/artist/7izVf2hlyBQizC8DufiTym) | [The Original Hearts \(From Harlem\)](https://open.spotify.com/album/0TlYLyq4OkutpGLYVtVBAn) | 2:08 | 2025-01-30 |  |
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2025-01-30 |  |
 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 | 2025-01-30 |  |
+| [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 | 2025-02-27 |  |
 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 | 2025-01-30 |  |
 | [Twisted](https://open.spotify.com/track/7iuKztnKTyPLHs5LytIhiK) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Twisted](https://open.spotify.com/album/54uwp0FAQX5MPdG2ez7a1i) | 2:30 | 2025-01-30 |  |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-01-30 |  |

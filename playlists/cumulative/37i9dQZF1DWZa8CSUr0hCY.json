@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160285,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1Q6Z50JAnfy1wOOqAksVIW"
@@ -3312,6 +3312,28 @@
       "duration_ms": 134634,
       "name": "Outer Worlds",
       "url": "https://open.spotify.com/track/5JJJlEL5qzbDa70iCQPuDN"
+    },
+    {
+      "album": {
+        "name": "Outremer (The Lone Winter Rework)",
+        "url": "https://open.spotify.com/album/1ouQusEd0dBT3Ym9Gq7tUz"
+      },
+      "artists": [
+        {
+          "name": "David Grumel",
+          "url": "https://open.spotify.com/artist/36Sgkyc7kU3NRspCbSHakS"
+        },
+        {
+          "name": "The Lone Winter",
+          "url": "https://open.spotify.com/artist/1OYTz27IOXFDCUBzR39Nl3"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166315,
+      "name": "Outremer - The Lone Winter Rework",
+      "url": "https://open.spotify.com/track/2INcaHJ1DmdNozVcUR7SH7"
     },
     {
       "album": {

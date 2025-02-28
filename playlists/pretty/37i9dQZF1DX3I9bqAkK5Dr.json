@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty",
-  "num_followers": 40041,
+  "num_followers": 40047,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7MtGQAAAADbRP3xtiV3Y3AEVnITImCW",
+  "snapshot_id": "Z8CHfwAAAADktxUyjIA8YGNqxuzotywn",
   "tracks": [
     {
       "added_at": "2025-01-20 07:23:28",
@@ -23,6 +23,30 @@
       "duration_ms": 174339,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp"
+    },
+    {
+      "added_at": "2025-02-27 15:40:47",
+      "album": {
+        "name": "Nidarove Cheliya",
+        "url": "https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Aditya Yashasvi",
+          "url": "https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Nidarove Cheliya",
+      "url": "https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx"
     },
     {
       "added_at": "2025-02-17 12:35:37",
@@ -1035,22 +1059,6 @@
       "duration_ms": 187978,
       "name": "Ninnu Cheraga",
       "url": "https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy"
-    },
-    {
-      "added_at": "2024-02-14 05:40:11",
-      "album": {
-        "name": "Satyabhama",
-        "url": "https://open.spotify.com/album/6wgbTGIpgyBheHFtQeQi2f"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kim",
-          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
-        }
-      ],
-      "duration_ms": 221081,
-      "name": "Satyabhama",
-      "url": "https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL"
     },
     {
       "added_at": "2024-02-14 10:24:03",

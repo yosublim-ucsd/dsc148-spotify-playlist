@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "A Love Song",
+        "url": "https://open.spotify.com/album/41vdgyRsJNvBpEOt1OKGqF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Hines",
+          "url": "https://open.spotify.com/artist/5ZtcY72Q8tDQv8OUEykYMn"
+        },
+        {
+          "name": "Jelayne",
+          "url": "https://open.spotify.com/artist/0YOOUGJYrHdcTTuURiNzZS"
+        },
+        {
+          "name": "Dana Rose",
+          "url": "https://open.spotify.com/artist/5PbjmNVXVFk6n7J5r9eZp0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/3qi9p1dFlp687667d1n3kj"
+    },
+    {
+      "album": {
         "name": "Back to Myself",
         "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
       },
@@ -553,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Community",
+        "url": "https://open.spotify.com/album/723t22breb8KeQHmwIdYnG"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Thomas",
+          "url": "https://open.spotify.com/artist/7qj1hYL7SUX4oMFV31OJNA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Community",
+      "url": "https://open.spotify.com/track/453OmLan5rhN6I3TBmw2Rp"
+    },
+    {
+      "album": {
         "name": "confused",
         "url": "https://open.spotify.com/album/4d7kGM4v4ExSAyAsJoRd97"
       },
@@ -694,6 +738,24 @@
       "duration_ms": 117341,
       "name": "drowning",
       "url": "https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci"
+    },
+    {
+      "album": {
+        "name": "Ebb and Flow",
+        "url": "https://open.spotify.com/album/5aIPl6WZIrQfH06rYtcxbE"
+      },
+      "artists": [
+        {
+          "name": "MELON KALI",
+          "url": "https://open.spotify.com/artist/7lOBs5NQnfFFPlgkjMmTo3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/7j1jvvWrYSDFwXMMCAGWTL"
     },
     {
       "album": {
@@ -1022,7 +1084,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 216203,
       "name": "Guts Theme Berserk",
       "url": "https://open.spotify.com/track/0JJV36SzVCsdTfQ0UmEcLe"
@@ -1066,10 +1128,36 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 165836,
       "name": "hayk\u0131racak nefesim kalmasa bile",
       "url": "https://open.spotify.com/track/3Wc0YLiP5RF52yYGaQVm1Y"
+    },
+    {
+      "album": {
+        "name": "heavy",
+        "url": "https://open.spotify.com/album/3LW2j0pP0qmQdYuqRUFWMh"
+      },
+      "artists": [
+        {
+          "name": "jacuzzi jefferson",
+          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+        },
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91649,
+      "name": "heavy",
+      "url": "https://open.spotify.com/track/70hfixGncWhCnF3oJliI4j"
     },
     {
       "album": {
@@ -1282,7 +1370,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 107949,
       "name": "Infinite Cloud",
       "url": "https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW"
@@ -1923,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/0BOgMe86UyGQ3epLNOI4A5"
+      },
+      "artists": [
+        {
+          "name": "Globalqtheartist",
+          "url": "https://open.spotify.com/artist/0lAgiqUZ85Jy3bxOkiXoHH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258285,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2QtqXZD7Y9ivoVMakwY7ky"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
       },
@@ -2086,6 +2192,24 @@
       "duration_ms": 189680,
       "name": "September - Instrumental",
       "url": "https://open.spotify.com/track/6pj9JkwBA6VzYdLXvaJkPh"
+    },
+    {
+      "album": {
+        "name": "Shade Of Red",
+        "url": "https://open.spotify.com/album/0v99GEO9DmCfty9T6awIIb"
+      },
+      "artists": [
+        {
+          "name": "Olivia Frances Brown",
+          "url": "https://open.spotify.com/artist/1r9n2hYLiGGcVi3unaj7Yj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "Shade Of Red",
+      "url": "https://open.spotify.com/track/0WnH95g4jmTEWGEzLpFdI0"
     },
     {
       "album": {

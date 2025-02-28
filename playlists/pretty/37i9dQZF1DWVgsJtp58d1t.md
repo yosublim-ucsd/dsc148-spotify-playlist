@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > <a href="https://www.instagram.com/spotify/p/DGifvsuxEPL/">Meet the collectives</a> who are shaping the future of culture\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,591 likes - 260 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,735 likes - 260 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

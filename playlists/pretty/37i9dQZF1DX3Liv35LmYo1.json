@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 605,
+  "num_followers": 606,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "The Time Is Right",
-        "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
       "artists": [
         {
-          "name": "DJ Marky",
-          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
-        },
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 253793,
-      "name": "Colours Of My Mind",
-      "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+        "name": "The Time Is Right",
+        "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
         }
       ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+      "duration_ms": 253793,
+      "name": "Colours Of My Mind",
+      "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 329784,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Minoxidil Life crisis",
-        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wright",
-          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
-        }
-      ],
-      "duration_ms": 314504,
-      "name": "Minoxidil Life crisis",
-      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "'I Wanted More' EP",
         "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 333694,
       "name": "I Wanted More",
       "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Minoxidil Life crisis",
+        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wright",
+          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
+        }
+      ],
+      "duration_ms": 314504,
+      "name": "Minoxidil Life crisis",
+      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
     },
     {
       "added_at": "2023-08-31 14:00:00",

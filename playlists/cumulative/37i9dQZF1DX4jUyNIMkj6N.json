@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 251180,
       "name": "Doves",
       "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 198374,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE"
@@ -3276,6 +3276,24 @@
       "duration_ms": 366160,
       "name": "Meet Me In The Forest",
       "url": "https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac"
+    },
+    {
+      "album": {
+        "name": "Messing",
+        "url": "https://open.spotify.com/album/2k6wAgt4OXJkYLphLhIzMl"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Messing",
+      "url": "https://open.spotify.com/track/24jAhrqpAbRKEjJIx8P2X8"
     },
     {
       "album": {
@@ -3885,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Raining Over Fire",
+        "url": "https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178645,
+      "name": "Raining Over Fire",
+      "url": "https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb"
+    },
+    {
+      "album": {
         "name": "Right as Rain",
         "url": "https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2"
       },
@@ -3958,6 +3994,24 @@
       "duration_ms": 224226,
       "name": "Romain's Place",
       "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
+    },
+    {
+      "album": {
+        "name": "Rover",
+        "url": "https://open.spotify.com/album/262X8tkz5jtA0yNqgRa0TI"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192740,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/7clop9zhvfP0lTKXi3eoYr"
     },
     {
       "album": {
@@ -4362,7 +4416,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 275613,
       "name": "Sun, Moon, Stars",
       "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"

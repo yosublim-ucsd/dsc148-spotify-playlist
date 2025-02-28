@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "UNDEAD (English Version)",
+        "url": "https://open.spotify.com/album/1Sr8cnhI92bL74ycNIkFO8"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "UNDEAD - English Version",
+      "url": "https://open.spotify.com/track/6OjOhAEAIToQ4VrJxrNvLS"
+    },
+    {
+      "album": {
         "name": "YOASOBI THE BOOK 2 Spotify Edition",
         "url": "https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn"
       },

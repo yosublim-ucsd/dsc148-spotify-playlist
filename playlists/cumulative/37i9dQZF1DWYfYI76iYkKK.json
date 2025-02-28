@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u9996\u95dc\u65bc\u4e09\u676f\u96de\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/2GOWZ1hAVEyUgifUweyG69"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u661f\u752b",
+          "url": "https://open.spotify.com/artist/3GAyU6U4EG5mc5YR76hG1c"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291833,
+      "name": "\u4e00\u9996\u95dc\u65bc\u4e09\u676f\u96de\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/2Dtox83dwR7gW2iQf6gF4U"
+    },
+    {
+      "album": {
         "name": "\u767d\u591c\u514b\u62c9\u514b White Night",
         "url": "https://open.spotify.com/album/32tEDVwzoLJEweaERQhrQd"
       },
@@ -4595,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u53bb\u9060\u65b9",
+        "url": "https://open.spotify.com/album/6fqijXJM7RoK3oVOzJs9XA"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u9e9f\u582f 0yao",
+          "url": "https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243648,
+      "name": "\u60f3\u53bb\u9060\u65b9",
+      "url": "https://open.spotify.com/track/68kxKMACNAZK7edrmfQGUG"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u4f60\u4e5f\u611b\u6211\u5c31\u597d\u4e86",
         "url": "https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb"
       },
@@ -6250,7 +6286,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 305013,
       "name": "\u6c89\u9ed8",
       "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 236190,
       "name": "\u72c2\u98a8\u5316\u6210\u5de8\u6d6a",
       "url": "https://open.spotify.com/track/0q9RHJtf1nuGx08dlCCOqy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,660 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,807 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 9 | [floating time](https://open.spotify.com/track/63EQWvrjKwjZvlvz6eWANk) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB) | [Healing](https://open.spotify.com/album/6lBHEqeOJiUWaI1b86m20h) | 2:21 |
 | 10 | [buried in the quiet](https://open.spotify.com/track/6fRzvp2qrDCWioPytMVvk4) | [chylies](https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj), [cinar](https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6) | [buried in the quiet](https://open.spotify.com/album/4HjcRlPjKqzesrNzvvYnDz) | 1:21 |
 | 11 | [heartbroken](https://open.spotify.com/track/55RWURYiFBoicLJPZiBZon) | [Mylesxiety](https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da) | [heartbroken](https://open.spotify.com/album/6VJ2Q2lRo4ctJQuBePHLEg) | 1:43 |
-| 12 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
+| 12 | [i'm looking for you](https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v) | [Asteriøn](https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr), [exhibit](https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [i'm looking for you](https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ) | 1:56 |
 | 13 | [timestop](https://open.spotify.com/track/5xIhRObBoDKKeUHwEL6pbi) | [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB) | [timestop](https://open.spotify.com/album/0h2lSY0AAGr5lWZpD98I67) | 2:00 |
 | 14 | [we are floating in space](https://open.spotify.com/track/2n9YpCJTDUb6o5SqmOFyV5) | [Child Of The Clouds](https://open.spotify.com/artist/4HYMCcgMtKwY5yvQwNQwRm), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [we are floating in space](https://open.spotify.com/album/3ezrmVUCaVeETY6joXcUas) | 1:50 |
 | 15 | [take care](https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK) | [limbus vita](https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ) | [take care](https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj) | 1:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 99 | [everything in memory will be erased](https://open.spotify.com/track/0xFyqmaHX6IEE8PZ40Q4Ms) | [endless withdrawal](https://open.spotify.com/artist/38BaarFdCwCpVmw0rXB2tu) | [everything in memory will be erased](https://open.spotify.com/album/0FjnzCmbvHbgnDfRiA2oZh) | 2:14 |
 | 100 | [peaceful silence](https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [peaceful silence](https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH) | 1:40 |
 
-Snapshot ID: `Z7f6TwAAAAATEPzY7gRun1gy8RvzJg77`
+Snapshot ID: `Z7f6TwAAAADjstjUPz4+XOwNU4dELHHu`

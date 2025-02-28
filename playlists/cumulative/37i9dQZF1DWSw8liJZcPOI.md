@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-598 songs - 1 day 16 hr 56 min
+599 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [For Now I Am Winter \- Nils Frahm Rework](https://open.spotify.com/track/6XfYMFnnwPZasthiS7ph3g) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [For Now I Am Winter \(Nils Frahm Rework\)](https://open.spotify.com/album/3gxFx3lf6a5xzxIDFkyG20) | 4:10 | 2020-10-20\* | 2024-11-21 |
 | [For You](https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7) | [Matteo de Grandis](https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce) | [For You](https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O) | 3:21 | 2020-10-21 |  |
 | [Forest Mystique \(Woodland Passage\)](https://open.spotify.com/track/2fh5QC6JG70vALfIA9ltUC) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [The Sonic Orchestra](https://open.spotify.com/artist/0aISNBByRLFmedVLCnnapu), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Forest Mystique \(Woodland Passage\)](https://open.spotify.com/album/1WxbBnuZJNfdVWKHO4ptUs) | 2:58 | 2024-11-20 |  |
-| [Forest Path](https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e) | 6:54 | 2020-10-20\* |  |
+| [Forest Path](https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e) | 6:54 | 2020-10-20\* | 2025-02-28 |
 | [Forest Path](https://open.spotify.com/track/0uhg1W7xtRIeLRdHU9ixnY) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/46wYmPFcywGZDPLBmKdU1y) | 6:54 | 2024-03-01 | 2024-04-19 |
 | [Fractured Light](https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Fractured Light](https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc) | 3:22 | 2024-12-12 | 2025-01-18 |
 | [Fredag](https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Fredag](https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2) | 3:02 | 2020-10-21 |  |
@@ -584,6 +584,7 @@
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-07-22 | 2022-07-30 |
 | [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 | 2024-04-19 |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 | 2024-11-21 |
+| [Whispering Tides](https://open.spotify.com/track/1djQB3jKpQfPlMMKIPo9KY) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Whispering Tides](https://open.spotify.com/album/52nkzmpNVeSyGNdAaAydx7) | 2:24 | 2025-02-27 |  |
 | [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 |  |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2024-11-20 |  |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |

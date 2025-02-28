@@ -7030,7 +7030,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 184892,
       "name": "Buggy",
       "url": "https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY"
@@ -14221,6 +14221,28 @@
     },
     {
       "album": {
+        "name": "Africa Jungle Part.1",
+        "url": "https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "Dinars",
+      "url": "https://open.spotify.com/track/37uCx8hYtt0WyE3rBHGgaY"
+    },
+    {
+      "album": {
         "name": "EQUATEUR",
         "url": "https://open.spotify.com/album/5ir8ufLwVZSypIOeJKXmPu"
       },
@@ -18754,7 +18776,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160706,
       "name": "Fille lacrymale",
       "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
@@ -22786,7 +22808,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161565,
       "name": "Il le fallait",
       "url": "https://open.spotify.com/track/489YjHsmah1LZmAk0AXKr1"

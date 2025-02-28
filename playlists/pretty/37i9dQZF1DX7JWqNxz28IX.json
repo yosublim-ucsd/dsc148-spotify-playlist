@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47156,
+  "num_followers": 47159,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Hurt So Bad",
-        "url": "https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ"
+        "name": "Come noi",
+        "url": "https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 154982,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK"
+      "duration_ms": 129882,
+      "name": "Come noi",
+      "url": "https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Come noi",
-        "url": "https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG"
+        "name": "Hurt So Bad",
+        "url": "https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Come noi",
-      "url": "https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0"
+      "duration_ms": 154982,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Spazio",
-        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Amianto",
-      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "CHE IO MI AIUTI",
         "url": "https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 156448,
       "name": "RABBIA DISTILLATA",
       "url": "https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "Spazio",
+        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Amianto",
+      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 149557,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "TheWitch&TheWizard",
         "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 108460,
       "name": "Situation",
       "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 149557,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+        "name": "Buio",
+        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
         }
       ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+      "duration_ms": 142747,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Buio",
-        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
       "artists": [
         {
-          "name": "ANSIAH",
-          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 142747,
-      "name": "Buio",
-      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "cattive abitudini",
-        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
+        "name": "Profondo Rosa",
+        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
       "artists": [
         {
-          "name": "Biondo",
-          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        },
+        {
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
         }
       ],
-      "duration_ms": 125000,
-      "name": "ti sei scordata del mio compleanno",
-      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
+      "duration_ms": 171641,
+      "name": "Dentro di Te",
+      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Profondo Rosa",
-        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
+        "name": "cattive abitudini",
+        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
       },
       "artists": [
         {
-          "name": "Simone Panetti",
-          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
-        },
-        {
-          "name": "Drast",
-          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+          "name": "Biondo",
+          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
         }
       ],
-      "duration_ms": 171641,
-      "name": "Dentro di Te",
-      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
+      "duration_ms": 125000,
+      "name": "ti sei scordata del mio compleanno",
+      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
       },
       "artists": [
         {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1323,24 +1319,28 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
     },
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Servir\u00e0 La Pioggia",
-        "url": "https://open.spotify.com/album/3HS2Yx5Jd2AYaNOz5b5JOW"
+        "name": "bambino perfetto",
+        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
       "artists": [
         {
@@ -1348,17 +1348,17 @@
           "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
-          "name": "TOMMY DALI",
-          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
+          "name": "piccolo principe",
+          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
         },
         {
           "name": "Gheb",
           "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
         }
       ],
-      "duration_ms": 158431,
-      "name": "Servir\u00e0 La Pioggia",
-      "url": "https://open.spotify.com/track/0xwZ2U4ANjCiwbHdrCMq0Y"
+      "duration_ms": 140160,
+      "name": "bambino perfetto",
+      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
-      },
-      "artists": [
-        {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+      },
+      "artists": [
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "bambino perfetto",
-        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
+        "name": "Servir\u00e0 La Pioggia",
+        "url": "https://open.spotify.com/album/3HS2Yx5Jd2AYaNOz5b5JOW"
       },
       "artists": [
         {
@@ -1504,17 +1504,33 @@
           "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
-          "name": "piccolo principe",
-          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
+          "name": "TOMMY DALI",
+          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
         },
         {
           "name": "Gheb",
           "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
         }
       ],
-      "duration_ms": 140160,
-      "name": "bambino perfetto",
-      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
+      "duration_ms": 158431,
+      "name": "Servir\u00e0 La Pioggia",
+      "url": "https://open.spotify.com/track/0xwZ2U4ANjCiwbHdrCMq0Y"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1535,22 +1551,6 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1711,6 +1695,22 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2025-02-21 00:01:30",

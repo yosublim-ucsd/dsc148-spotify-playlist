@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H?si=gBtpLf7mRAeA3\-ohcHa\_Sw">Amu Classic</a>, <a href="https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC?si=kTg2ljYqT0mcroqhencjiQ">Kappie</a>, <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=XKfkQXsBS\_\-fXbZ5xujDyQ">Mellow & Sleazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,791 likes - 65 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,341 likes - 65 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> a7san ma kayn f rap maghribi\. Cover: Fetah
+> a7san ma kayn f rap maghribi\. Cover: ElGrandeToto
 
 372 songs - 19 hr 44 min
 

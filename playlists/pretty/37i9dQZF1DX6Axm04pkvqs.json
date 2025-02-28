@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 33780,
+  "num_followers": 33890,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCWAAAAAAdUwcNq2zhn8JIjwNhI/5d",
+  "snapshot_id": "Z8D83AAAAAB1gkiFYbYCnVphbIBzog9P",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Lara George",
-        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
-      },
-      "artists": [
-        {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Ko Ma Si/ Nobody Like You",
-      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
-    },
-    {
       "added_at": "2025-02-14 00:01:09",
       "album": {
         "name": "Alignment Chant",
@@ -263,6 +247,22 @@
       "duration_ms": 810956,
       "name": "Alignment Chant - EP",
       "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Nekwa Mu",
-        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 162655,
-      "name": "Nekwa Mu",
-      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 468360,
       "name": "The Call (Chants)",
       "url": "https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Nekwa Mu",
+        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 162655,
+      "name": "Nekwa Mu",
+      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+        "name": "Odogwu",
+        "url": "https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+          "name": "Kemelord",
+          "url": "https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP"
         }
       ],
-      "duration_ms": 444255,
-      "name": "Sound of Revival",
-      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+      "duration_ms": 290064,
+      "name": "Odogwu",
+      "url": "https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 444255,
+      "name": "Sound of Revival",
+      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Iwo Loba",
         "url": "https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 893936,
       "name": "Iwo Loba",
       "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Odogwu",
-        "url": "https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC"
-      },
-      "artists": [
-        {
-          "name": "Kemelord",
-          "url": "https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP"
-        }
-      ],
-      "duration_ms": 290064,
-      "name": "Odogwu",
-      "url": "https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 631338,
-      "name": "Captured My Heart",
-      "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Shift (Awakening)",
         "url": "https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz"
       },
@@ -775,6 +759,26 @@
       "duration_ms": 479506,
       "name": "House of Prayer (feat. Jayna Cullens)",
       "url": "https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 428507,
+      "name": "Holy Ghost (Live)",
+      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -831,6 +835,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 631338,
+      "name": "Captured My Heart",
+      "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "God Can Live Ministration",
         "url": "https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 369255,
       "name": "Song of Angels (The Call)",
       "url": "https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 428507,
-      "name": "Holy Ghost (Live)",
-      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Deep Prophetic Worship",
+        "url": "https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6"
+      },
+      "artists": [
+        {
+          "name": "Fiyin Adeniyi",
+          "url": "https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0"
+        }
+      ],
+      "duration_ms": 162422,
+      "name": "Deep Prophetic Worship",
+      "url": "https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "My Altar Is Calling You",
         "url": "https://open.spotify.com/album/7GeZxUpzniRCXgvdg4GCcG"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Deep Prophetic Worship",
-        "url": "https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6"
-      },
-      "artists": [
-        {
-          "name": "Fiyin Adeniyi",
-          "url": "https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0"
-        }
-      ],
-      "duration_ms": 162422,
-      "name": "Deep Prophetic Worship",
-      "url": "https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Holyghost",
         "url": "https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Midnight Cry, Vol. 2",
-        "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
+        "name": "Kadosh",
+        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
         }
       ],
-      "duration_ms": 1442088,
-      "name": "Midnight Cry, Vol. 2",
-      "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
+      "duration_ms": 337711,
+      "name": "Kadosh (Live)",
+      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1107,18 +1107,46 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Kadosh",
-        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
       },
       "artists": [
         {
-          "name": "Pv Idemudia",
-          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 337711,
-      "name": "Kadosh (Live)",
-      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
+      "duration_ms": 398329,
+      "name": "Revival Revival",
+      "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Midnight Cry, Vol. 2",
+        "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 1442088,
+      "name": "Midnight Cry, Vol. 2",
+      "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1163,34 +1191,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "We Are Fire",
-        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        },
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "121 Selah",
-          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
-        }
-      ],
-      "duration_ms": 398329,
-      "name": "Revival Revival",
-      "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "You Cover Me",
         "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 1078359,
       "name": "You Cover Me",
       "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 323004,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1223,18 +1239,26 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 323004,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC"
+      "duration_ms": 380123,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1317,28 +1341,20 @@
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "We Are Fire",
-        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
+        "name": "The Conqueror\u2019s Chant (Agalliao)",
+        "url": "https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj"
       },
       "artists": [
         {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        },
-        {
-          "name": "121 Selah",
-          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 380123,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
+      "duration_ms": 524409,
+      "name": "The Conqueror\u2019s Chant (Agalliao)",
+      "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 483196,
       "name": "Let Me Want What You Want",
       "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "The Conqueror\u2019s Chant (Agalliao)",
-        "url": "https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 524409,
-      "name": "The Conqueror\u2019s Chant (Agalliao)",
-      "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
     },
     {
       "added_at": "2024-07-26 00:01:00",

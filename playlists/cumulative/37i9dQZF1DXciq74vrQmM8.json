@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. rico nasty \u26d3\ufe0f",
+  "description": "welcome to our universe ft. BEEFCAKE \u26d3\ufe0f",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -9417,6 +9417,24 @@
     },
     {
       "album": {
+        "name": "idgaf",
+        "url": "https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133905,
+      "name": "idgaf",
+      "url": "https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y"
+    },
+    {
+      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
       },
@@ -12855,6 +12873,24 @@
     },
     {
       "album": {
+        "name": "Near-hearted",
+        "url": "https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP"
+      },
+      "artists": [
+        {
+          "name": "BEEFCAKE",
+          "url": "https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205730,
+      "name": "Near-hearted",
+      "url": "https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt"
+    },
+    {
+      "album": {
         "name": "neggy",
         "url": "https://open.spotify.com/album/5tUeZZk64jK7EWDkvmbSN7"
       },
@@ -15618,7 +15654,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 181694,
       "name": "serenity in torture",
       "url": "https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS"
@@ -16864,7 +16900,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 227787,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu"

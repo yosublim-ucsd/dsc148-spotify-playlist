@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina Lioliou, Giannis Fakinos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -190,10 +190,28 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 182526,
       "name": "An Me Agapas Deiks' To",
       "url": "https://open.spotify.com/track/60smzoXUyrEJnNahFxE4Ox"
+    },
+    {
+      "album": {
+        "name": "Anasa",
+        "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283520,
+      "name": "Anasa",
+      "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
     },
     {
       "album": {
@@ -797,6 +815,32 @@
     },
     {
       "album": {
+        "name": "Grand Hotel - Pame Na Pioume Ena Asteri (Original TV Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1rZBggATCY2QxfiZQTXo3L"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        },
+        {
+          "name": "Nicos Terzis",
+          "url": "https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j"
+        },
+        {
+          "name": "Yiannis Kotsiras",
+          "url": "https://open.spotify.com/artist/6waWR57xXsgtWztHX1v8TB"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257704,
+      "name": "Grand Hotel - Pame Na Pioume Ena Asteri",
+      "url": "https://open.spotify.com/track/0Cw5apeuG3eEIMSIzAWinG"
+    },
+    {
+      "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
       },
@@ -1232,7 +1276,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 261562,
       "name": "Mia Paraligo Eftihia",
       "url": "https://open.spotify.com/track/67ZwhgqlsLtLhi6P5JkyPw"
@@ -1616,6 +1660,24 @@
       "duration_ms": 190000,
       "name": "Paraponaki Mou",
       "url": "https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu"
+    },
+    {
+      "album": {
+        "name": "Perifanos Aetos",
+        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228835,
+      "name": "Perifanos Aetos",
+      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
     },
     {
       "album": {
@@ -2227,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "To Flitzani",
+        "url": "https://open.spotify.com/album/2GmjJmWEgFIOwtjIaKhSMj"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236759,
+      "name": "To Flitzani",
+      "url": "https://open.spotify.com/track/3bmEU7l7GXxnuwi1fMIGAv"
+    },
+    {
+      "album": {
         "name": "To Mystiko",
         "url": "https://open.spotify.com/album/0yaV7hs9aKvylS64s8mGLM"
       },
@@ -2404,7 +2484,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 197647,
       "name": "Xeimwnas",
       "url": "https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1"
@@ -2466,7 +2546,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 219690,
       "name": "\u0395\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b1",
       "url": "https://open.spotify.com/track/4M9NG8E5hoUIBYz3kXmiAC"

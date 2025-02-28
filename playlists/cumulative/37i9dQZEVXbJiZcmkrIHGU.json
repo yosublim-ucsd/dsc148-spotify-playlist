@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
+      "album": {
         "name": "A$AP & Rihanna",
         "url": "https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2"
       },
@@ -4022,10 +4044,36 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 128780,
       "name": "Angels Sippen Mashup",
       "url": "https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0"
+    },
+    {
+      "album": {
+        "name": "Angels Sippen Mashup",
+        "url": "https://open.spotify.com/album/4mid0yp51I21JxnnH9UlCw"
+      },
+      "artists": [
+        {
+          "name": "Der Heimer",
+          "url": "https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Angels Sippen Mashup",
+      "url": "https://open.spotify.com/track/7CwJ8o9FdExCbIuLCnsHK8"
     },
     {
       "album": {
@@ -13916,7 +13964,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
@@ -13992,7 +14040,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 155081,
       "name": "Delale",
       "url": "https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv"
@@ -41610,7 +41658,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 208773,
       "name": "Nie mehr Fastelovend",
       "url": "https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r"

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "With a Wish",
+        "url": "https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT"
+    },
+    {
+      "album": {
         "name": "Give Me Five!",
         "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },

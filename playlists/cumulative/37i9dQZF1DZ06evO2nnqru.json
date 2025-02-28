@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192576,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
@@ -1684,6 +1684,24 @@
       "duration_ms": 230303,
       "name": "Saliste De Mi Mente",
       "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
+    },
+    {
+      "album": {
+        "name": "ONLY ENAMORADOS",
+        "url": "https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "SE FUE MI AMOR",
+      "url": "https://open.spotify.com/track/0kWaKFQeq9IbnKhfR2oxTP"
     },
     {
       "album": {

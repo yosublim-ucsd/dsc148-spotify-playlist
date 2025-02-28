@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 06",
+        "url": "https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c8\u30ec\u30a4\u30e9\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251453,
+      "name": "Transcending The World",
+      "url": "https://open.spotify.com/track/7ki8aelo1r9mLmJx5ClQlT"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 02",
         "url": "https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 286920,
       "name": "\u30a2\u30b9\u30d5\u30a1\u30eb\u30c8\u3092\u9cf4\u3089\u3057\u3066",
       "url": "https://open.spotify.com/track/5IbCoJ5pzcTVAe2FNG7ymA"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 235706,
       "name": "\u6d6e\u52d5\u6027\u30a4\u30ce\u30bb\u30f3\u30b9",
       "url": "https://open.spotify.com/track/29xsZmlSwrCno2BchVrCX8"
@@ -2944,6 +2962,24 @@
       "duration_ms": 251546,
       "name": "\u9752\u3068\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/1Cpk6loUsHtZmSrzu25ips"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 03 (2023 Version)",
+        "url": "https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249506,
+      "name": "\u9769\u547d\u9032\u5316\u8ad6 - 2023 Version",
+      "url": "https://open.spotify.com/track/6er0j8UjDyjlN51WUjodpO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9QL9TBCM8cE"

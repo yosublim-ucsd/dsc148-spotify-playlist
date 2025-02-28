@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Bren Joy
 
-1,388 songs - 3 day 1 hr 7 min
+1,389 songs - 3 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [Ride](https://open.spotify.com/track/3xxUGSaRrNHmVXKsa3gqKs) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Paradigm](https://open.spotify.com/album/3MaikI62Ap7RbrBSE0i4AU) | 3:04 | 2025-02-14 |  |
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2021-04-30 | 2022-07-29 |
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-06-10 | 2023-03-11 |
+| [Right Back](https://open.spotify.com/track/5fh8JWHGfuJzGGjCm9uojM) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Right Back](https://open.spotify.com/album/5ooAoQeUINLWK74OPiNldE) | 3:11 | 2025-02-21 |  |
 | [Right now!](https://open.spotify.com/track/1lZlW5sarv3iIRluQGcFYj) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Right now!](https://open.spotify.com/album/7IGXZOVyp9uiiR1fCIkIUz) | 1:54 | 2024-03-22 | 2025-01-21 |
 | [Right Track \(feat\. Smino\)](https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Right Track \(feat\. Smino\)](https://open.spotify.com/album/085JymZoUxeCSJlOYqLd5u) | 2:38 | 2021-09-10 | 2022-07-16 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 | 2022-05-14 |
@@ -1377,7 +1378,7 @@
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 | 2023-04-29 |
 | [XXX](https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [XXX](https://open.spotify.com/album/4cFpJm5EasHk1JXLQJlAbL) | 2:38 | 2024-05-10 |  |
 | [YOGA](https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 3:11 | 2021-04-30 | 2022-01-10 |
-| [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 |  |
+| [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 | 2025-02-28 |
 | [You](https://open.spotify.com/track/7HyEVTcgQdkHGEvR565bTt) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [You](https://open.spotify.com/album/446ZiXI32FxjZZd9OBsdca) | 4:06 | 2022-04-01 | 2022-04-13 |
 | [You & I](https://open.spotify.com/track/2yY8uvStXUNPxmwlI2KWdQ) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [You & I](https://open.spotify.com/album/7vgBcj3mlMEm7mmockI4IA) | 2:08 | 2023-02-17 | 2023-03-11 |
 | [You & Me](https://open.spotify.com/track/6KcRrFkHegWvb8D3W2XGN9) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [You & Me](https://open.spotify.com/album/3ro5vbRR4ONfo390anN3VH) | 3:22 | 2022-04-01 | 2022-04-14 |

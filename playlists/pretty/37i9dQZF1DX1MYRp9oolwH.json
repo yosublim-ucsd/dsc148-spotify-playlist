@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mazaka",
-  "num_followers": 148712,
+  "num_followers": 148750,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z71sxAAAAACKlqdeEgD4B2/rjOxm+9zJ",
+  "snapshot_id": "Z8CB1gAAAACFJJbS78yLGTGkJFYy/+E6",
   "tracks": [
     {
       "added_at": "2025-02-10 11:48:01",
@@ -93,6 +93,34 @@
       "url": "https://open.spotify.com/track/66nCmAQwd4RaLVqDxr23FZ"
     },
     {
+      "added_at": "2025-02-27 15:16:38",
+      "album": {
+        "name": "Daachekodhi Prema (From \"Laggam Time\")",
+        "url": "https://open.spotify.com/album/4rbXPlK0fUfTVUPA51sBQz"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Mahesh Poloju",
+          "url": "https://open.spotify.com/artist/37Q1srovPmgWP9DvfYpe5i"
+        }
+      ],
+      "duration_ms": 236363,
+      "name": "Daachekodhi Prema (From \"Laggam Time\")",
+      "url": "https://open.spotify.com/track/0UZH69cnEeyi2VXjw5utbp"
+    },
+    {
       "added_at": "2025-02-14 13:58:45",
       "album": {
         "name": "Wherever You Go (From \"Robinhood\")",
@@ -115,6 +143,30 @@
       "duration_ms": 187428,
       "name": "Wherever You Go (From \"Robinhood\")",
       "url": "https://open.spotify.com/track/7mW0piZKSZlFwGun1G5zKf"
+    },
+    {
+      "added_at": "2025-02-27 15:16:38",
+      "album": {
+        "name": "Gundelona Edho (From \"Naari - The Women\")",
+        "url": "https://open.spotify.com/album/2g4WI8a4Sc53iCGuo3sFOh"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kumar (Vinnu)",
+          "url": "https://open.spotify.com/artist/3xb4cUCZsdg6VqxzLT3LXl"
+        },
+        {
+          "name": "Prasad Saana",
+          "url": "https://open.spotify.com/artist/5FPCRcIcGEmDFg3fLqsarG"
+        },
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Gundelona Edho (From \"Naari - The Women\")",
+      "url": "https://open.spotify.com/track/1iJPwFw8Wd3QyYDJUEFvmH"
     },
     {
       "added_at": "2025-02-19 11:18:17",
@@ -1145,30 +1197,6 @@
       "url": "https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV"
     },
     {
-      "added_at": "2024-05-29 05:44:55",
-      "album": {
-        "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
-        "url": "https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 260177,
-      "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
-      "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
-    },
-    {
       "added_at": "2024-07-10 05:39:26",
       "album": {
         "name": "Sitar Song (From \"Mr. Bachchan\")",
@@ -1191,34 +1219,6 @@
       "duration_ms": 249365,
       "name": "Sitar Song (From \"Mr. Bachchan\")",
       "url": "https://open.spotify.com/track/05EF4pLoo5dHCbFVm5ImJ7"
-    },
-    {
-      "added_at": "2024-06-19 08:56:00",
-      "album": {
-        "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
-        "url": "https://open.spotify.com/album/1jt6U4Ag5PaI5UwpBWvDFc"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
-        }
-      ],
-      "duration_ms": 222537,
-      "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
-      "url": "https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU"
     }
   ],
   "unique_name": "Latest Romance Telugu",

@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 229146,
       "name": "Changing",
       "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 196446,
       "name": "Convince Yourself",
       "url": "https://open.spotify.com/track/2z5az4Tl4e7bQzfX8Sr6r9"
@@ -810,6 +810,24 @@
       "duration_ms": 221040,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5miJiOLexPAA2F8J2sj4T4"
+    },
+    {
+      "album": {
+        "name": "antichamber",
+        "url": "https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "gone is the grace",
+      "url": "https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX"
     },
     {
       "album": {
@@ -1386,6 +1404,24 @@
       "duration_ms": 269869,
       "name": "Moonlight Child",
       "url": "https://open.spotify.com/track/1XS1byNGw6Ii27Z9os7RUf"
+    },
+    {
+      "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "album": {

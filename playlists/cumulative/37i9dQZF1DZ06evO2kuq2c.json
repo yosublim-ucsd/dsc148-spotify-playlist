@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Everything Ends",
+        "url": "https://open.spotify.com/album/5rKIP27uR8W0jMJgJNqZ6c"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/2x6R10R0MJ5BeDdqpkpaHC"
+    },
+    {
+      "album": {
         "name": "Hollow Crown",
         "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
       },

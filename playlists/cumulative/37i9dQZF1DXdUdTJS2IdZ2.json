@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Joie Tan",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: shazza, teem, Umar Sirhan",
   "name": "Rising 65",
   "tracks": [
     {
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "autumn",
+        "url": "https://open.spotify.com/album/6yTzitE1869LOf5IHBiHoO"
+      },
+      "artists": [
+        {
+          "name": "RAEL",
+          "url": "https://open.spotify.com/artist/0udtWqcOqsxYTZLvnTd3wf"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239700,
+      "name": "autumn",
+      "url": "https://open.spotify.com/track/3iYPDWJH7JXx1zLFAgmWq6"
+    },
+    {
+      "album": {
         "name": "Awesome",
         "url": "https://open.spotify.com/album/5DbOURVQo14fdvTfVZ92Qh"
       },
@@ -624,6 +642,24 @@
       "duration_ms": 202598,
       "name": "Bad Company feat. Vivien Yap",
       "url": "https://open.spotify.com/track/5NZ0kGvWNJE8nNUUddMqQf"
+    },
+    {
+      "album": {
+        "name": "BAD HABITS",
+        "url": "https://open.spotify.com/album/0OX2Mlng32ZA4cUGHq66Xi"
+      },
+      "artists": [
+        {
+          "name": "Louie Indigo",
+          "url": "https://open.spotify.com/artist/0QE2TLLnUNW5kqPFmkE2pj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "BAD HABITS",
+      "url": "https://open.spotify.com/track/32Mzai6kymvJ8UYh6Yg9LN"
     },
     {
       "album": {
@@ -2363,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Fairy",
+        "url": "https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201147,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc"
+    },
+    {
+      "album": {
         "name": "Fakta",
         "url": "https://open.spotify.com/album/4OU35N9XAg2jJBGXCPEGP5"
       },
@@ -3022,7 +3076,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 159878,
       "name": "HAPPY MAN",
       "url": "https://open.spotify.com/track/40szqdafGlbPjQx7a8y8fP"
@@ -3062,6 +3116,24 @@
       "duration_ms": 204255,
       "name": "Hard To Get",
       "url": "https://open.spotify.com/track/55bZpuolcHdbt9IzwvpZtM"
+    },
+    {
+      "album": {
+        "name": "Hari Raya Raya Raya",
+        "url": "https://open.spotify.com/album/4OuA5A2a5elX6AxRWvEajX"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185534,
+      "name": "Hari Raya Raya Raya",
+      "url": "https://open.spotify.com/track/0LggpghEj5tyf7ffRqMdwl"
     },
     {
       "album": {
@@ -3574,6 +3646,32 @@
       "duration_ms": 144000,
       "name": "i don't wanna",
       "url": "https://open.spotify.com/track/2kSRbzzPiqNs4l9SpYOTvp"
+    },
+    {
+      "album": {
+        "name": "I Like It (feat. nomoe)",
+        "url": "https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "QUARAW",
+          "url": "https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc"
+        },
+        {
+          "name": "nomoe",
+          "url": "https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "I Like It (feat. nomoe)",
+      "url": "https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli"
     },
     {
       "album": {
@@ -4973,6 +5071,32 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/4ZWOZFRPUZOSo33Y1Vjpme"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        },
+        {
+          "name": "Umar Sirhan",
+          "url": "https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/3rIWdmJhTiE5LiUfFhPOiY"
+    },
+    {
+      "album": {
         "name": "we've been here before",
         "url": "https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz"
       },
@@ -5050,7 +5174,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 146094,
       "name": "MORE",
       "url": "https://open.spotify.com/track/0l927kUIpt45sSH2FXsdhO"
@@ -5305,6 +5429,28 @@
     },
     {
       "album": {
+        "name": "Never Meant To Say Goodbye",
+        "url": "https://open.spotify.com/album/4uIer0x5uXMMQvIyj3bLIc"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Katz",
+          "url": "https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217170,
+      "name": "Never Meant To Say Goodbye",
+      "url": "https://open.spotify.com/track/7n9TOI23DJz4HQS0yXsKng"
+    },
+    {
+      "album": {
         "name": "next life",
         "url": "https://open.spotify.com/album/5aqzJflEQ78AIOIQrRBEG3"
       },
@@ -5382,7 +5528,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 228480,
       "name": "NO TIME FOR LUV",
       "url": "https://open.spotify.com/track/29qSo3uuxJLk8j5KGTdsSR"
@@ -6153,6 +6299,42 @@
     },
     {
       "album": {
+        "name": "PRETTY",
+        "url": "https://open.spotify.com/album/4uvlhX6FXFjaJRbf4lomEc"
+      },
+      "artists": [
+        {
+          "name": "Moe Sunny",
+          "url": "https://open.spotify.com/artist/0jsIBquhDmGElTUi7wKaoL"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/0H6GgEikXam2hMTcy6wxXo"
+    },
+    {
+      "album": {
+        "name": "pretty sure you're fine",
+        "url": "https://open.spotify.com/album/5BL3gZkADVjB3pHG1thulk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "pretty sure you're fine",
+      "url": "https://open.spotify.com/track/4F4XQKH4vVoPnwDmRPh6sJ"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/1yp6o9hR7I1wC0WPDtneKl"
       },
@@ -6220,6 +6402,24 @@
       "duration_ms": 209706,
       "name": "Raasathi",
       "url": "https://open.spotify.com/track/3cpsgr9fYcDDhYc4StIVon"
+    },
+    {
+      "album": {
+        "name": "RADAR",
+        "url": "https://open.spotify.com/album/4WhSgbkRVqiOyMH9Qkf1kD"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160729,
+      "name": "RADAR",
+      "url": "https://open.spotify.com/track/0hxNOnPCbJzKmohmpDGa2K"
     },
     {
       "album": {
@@ -10126,7 +10326,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 252736,
       "name": "\u7231\u60c5\u7684\u540d\u5b57",
       "url": "https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ"
@@ -10434,7 +10634,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 268000,
       "name": "\u843d\u82b1\u5982\u96e8 (\u65b0\u4f20\u5a92\u620f\u5267\u300a\u5c0f\u5a18\u60f9\u4e4b\u7fe1\u7fe0\u5c71\u300b\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc"

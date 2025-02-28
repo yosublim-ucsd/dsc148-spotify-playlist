@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Fameye",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kojo Blak",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 202501,
       "name": "Akokoa",
       "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 233077,
       "name": "GoodSin (feat. Reekado Banks) - Remix",
       "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 190589,
       "name": "Jesus Christ",
       "url": "https://open.spotify.com/track/0Au5PSC5WR6PajhnCBogle"
@@ -5633,6 +5633,46 @@
     },
     {
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/77DPwnQlCREZ4Q38w2WAYL"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/5PS1CtATOsyG0JFEXHwhhK"
+    },
+    {
+      "album": {
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe"
+    },
+    {
+      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV"
       },
@@ -6244,6 +6284,28 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "album": {
+        "name": "Love In The Club",
+        "url": "https://open.spotify.com/album/0PTK2AseRH37noa9ckhuZn"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Odo bi y3 d3",
+      "url": "https://open.spotify.com/track/3RcnxHroFgszVGBqqNBsft"
     },
     {
       "album": {
@@ -7200,6 +7262,24 @@
       "duration_ms": 183298,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz"
+    },
+    {
+      "album": {
+        "name": "RADAR",
+        "url": "https://open.spotify.com/album/5qCg9cTmTSk3emuSUQGqJb"
+      },
+      "artists": [
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172770,
+      "name": "RADAR",
+      "url": "https://open.spotify.com/track/3SfQLCyyinfDtOWuHPdkQF"
     },
     {
       "album": {

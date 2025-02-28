@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -10012,7 +10012,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 135257,
       "name": "OHMA TOKITA",
       "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
@@ -10456,6 +10456,24 @@
       "duration_ms": 211636,
       "name": "Ozumba Mbadiwe - Remix",
       "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
+    },
+    {
+      "album": {
+        "name": "Padtal",
+        "url": "https://open.spotify.com/album/1OPmur8touyc5GnLwwQE45"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99787,
+      "name": "Padtal",
+      "url": "https://open.spotify.com/track/4fKexvjJAV9MrhQNgN0IH8"
     },
     {
       "album": {

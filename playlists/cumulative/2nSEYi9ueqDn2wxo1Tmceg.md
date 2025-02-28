@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-1,249 songs - 3 day 13 hr 32 min
+1,250 songs - 3 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Convincing \- Spotify Singles](https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:58 | 2022-09-21 | 2022-10-21 |
 | [Cool Enough](https://open.spotify.com/track/66BFiJStrnr8vz4lp7SEQ6) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Cool Enough](https://open.spotify.com/album/3PXTrh4dwXrCbDgUcvpyVX) | 3:33 | 2022-10-20 | 2022-11-24 |
 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 | 2023-01-04 | 2023-02-16 |
+| [Covet](https://open.spotify.com/track/5jaqtaQLqzZZPVigLPooiI) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet](https://open.spotify.com/album/59SRm7QgaV7ucp9IGNiGYZ) | 3:30 | 2025-02-27 |  |
 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 | 2022-09-14 | 2022-10-13 |
 | [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-10 | 2024-02-22 |
 | [Crashing](https://open.spotify.com/track/01wbcVhScz3VGUJIVOZUF0) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Crashing](https://open.spotify.com/album/5b0JlVQMaHGTpLwmz7bVkD) | 3:29 | 2024-04-10 | 2024-05-16 |

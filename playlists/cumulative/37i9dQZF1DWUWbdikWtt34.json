@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: RaRa",
+  "description": "Dendang Dangdut teratas. Cover: Faul Gayo",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1322,6 +1322,24 @@
       "duration_ms": 235237,
       "name": "Hai Sayang",
       "url": "https://open.spotify.com/track/2GfIBIeCABdzxZ2qDB7NHN"
+    },
+    {
+      "album": {
+        "name": "Halal Tapi Dibenci",
+        "url": "https://open.spotify.com/album/5dlKinz60LnA0hfrrkTwjf"
+      },
+      "artists": [
+        {
+          "name": "Dadido",
+          "url": "https://open.spotify.com/artist/5fIz4Xdtz2dnALYjnMeucG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221884,
+      "name": "Halal Tapi Dibenci",
+      "url": "https://open.spotify.com/track/15b5dto9jRwLIDzq9P5Kr2"
     },
     {
       "album": {
@@ -3010,6 +3028,24 @@
       "duration_ms": 268085,
       "name": "Rumit",
       "url": "https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo"
+    },
+    {
+      "album": {
+        "name": "Sakit Karena Cinta",
+        "url": "https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a"
+      },
+      "artists": [
+        {
+          "name": "Faul Gayo",
+          "url": "https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356129,
+      "name": "Sakit Karena Cinta",
+      "url": "https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI"
     },
     {
       "album": {

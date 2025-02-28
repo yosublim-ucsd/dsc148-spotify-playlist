@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,331 songs - 3 day 3 hr 52 min
+1,333 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [border line \- feat\. 梓川](https://open.spotify.com/track/5xHAx3DMhIUlf3EL7AELWH) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [梓川](https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8) | [interchange](https://open.spotify.com/album/69OYpgaZN4DmNbTVajIIBC) | 3:05 | 2024-11-19 | 2024-12-11 |
 | [Bottoms call](https://open.spotify.com/track/2rqlkkVdR9j1HkSKafirod) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [FIZZY POP SYNDROME](https://open.spotify.com/album/60JxpX2186DBSffWf0HDpk) | 3:30 | 2022-06-16 | 2022-06-22 |
 | [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 | 2023-09-20 |
+| [BRAIN](https://open.spotify.com/track/27Yo7rtsCyg3TKvpeyn9HG) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [BRAIN](https://open.spotify.com/album/0RwZNRJgW8pzh33jevQ6pk) | 2:36 | 2025-02-27 |  |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-06-16 | 2023-02-07 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-08 |  |
 | [Bunny Girl \- heiakim Remix](https://open.spotify.com/track/4i0oNWkpE7HRjGTuFCPlXI) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [Bunny Girl \(heiakim Remix\)](https://open.spotify.com/album/1pK1SF8M3yLodIgMf8ZGXI) | 3:11 | 2025-01-21 | 2025-02-19 |
@@ -373,6 +374,7 @@
 | [School explodes](https://open.spotify.com/track/3xkmjEzvzC59IPlcCxhwH7) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [School explodes](https://open.spotify.com/album/5qMIh8rhKiounZckTvCeIR) | 1:10 | 2023-06-27 | 2023-07-21 |
 | [SCORPION](https://open.spotify.com/track/1pZmdVqhzMuEV0quFA0q01) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [SCORPION](https://open.spotify.com/album/48sbFxmZurDZIT5p3gbeWE) | 2:56 | 2022-10-27 | 2022-11-18 |
 | [See You in My Dream](https://open.spotify.com/track/5teehiaGmTZ9hE5cvFLGBV) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [See You in My Dream](https://open.spotify.com/album/38x51ZTP1Rhlm2jNSPi4c4) | 4:26 | 2022-07-12 | 2022-07-14 |
+| [Seeing Stars](https://open.spotify.com/track/3ZKKYwnkAnnLRT0WarwJzb) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [Seeing Stars](https://open.spotify.com/album/6NAp5C3DoGEW1f6I8dE0RK) | 3:27 | 2025-02-27 |  |
 | [Seimei Oka](https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Zeitaku](https://open.spotify.com/album/0l6eHIUnUiOmzPUYsflA4q) | 3:09 | 2023-04-25 | 2023-06-28 |
 | [SeishunKippu](https://open.spotify.com/track/0gb9k8uR9jC9Jtk2OdapKs) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [SeishunKippu](https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt) | 4:04 | 2022-10-25 | 2023-01-04 |
 | [Seishunnofuriwoshita](https://open.spotify.com/track/3xxI0EKXVS1hDXlaSBA81L) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [Seishunnofuriwoshita](https://open.spotify.com/album/6D246le5cvlDziPoiEBQCv) | 3:20 | 2022-06-21 | 2022-07-20 |
@@ -859,7 +861,7 @@
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 | 2023-08-04 |
 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 | 2024-09-03 | 2025-02-03 |
 | [メーベル](https://open.spotify.com/track/2O7HF4q4GbBOwZ5qKdN1yB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メーベル](https://open.spotify.com/album/0Ac4zecj11ls9CDRr66FIL) | 3:09 | 2025-01-14 |  |
-| [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 | 2024-09-17 |  |
+| [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 | 2024-09-17 | 2025-02-28 |
 | [モノトーン](https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [モノトーン](https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ) | 3:30 | 2024-10-08 | 2025-02-26 |
 | [モノフォビア](https://open.spotify.com/track/4YT9358e87upxQxIGy2FVo) | [NEW \(te”nC\)^2](https://open.spotify.com/artist/3YzKiDDsf14CuftYBdSULa) | [モノフォビア](https://open.spotify.com/album/6B12Xztii6946TqS3eEvCk) | 2:59 | 2022-07-12 | 2022-07-15 |
 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 | 2025-02-04 |  |

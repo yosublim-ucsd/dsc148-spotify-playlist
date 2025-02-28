@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 310645,
+  "num_followers": 310682,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blue Kentucky Girl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Blue Kentucky Girl - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Blue Kentucky Girl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Blue Kentucky Girl - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 196339,
       "name": "I Thought You Were Somebody Else",
       "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
+      },
+      "artists": [
+        {
+          "name": "Haroula Rose",
+          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Margo",
-        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
-      },
-      "artists": [
-        {
-          "name": "Haroula Rose",
-          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Margo",
-      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Finger on the Button",
-        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
-      },
-      "artists": [
-        {
-          "name": "Blue Cactus",
-          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Finger on the Button",
-      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bright Shadow",
         "url": "https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 170813,
       "name": "Flat Top Guitar",
       "url": "https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Finger on the Button",
+        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
+      },
+      "artists": [
+        {
+          "name": "Blue Cactus",
+          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
+        }
+      ],
+      "duration_ms": 224132,
+      "name": "Finger on the Button",
+      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hey Little Girl",
-        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
-      },
-      "artists": [
-        {
-          "name": "Carli Brill",
-          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Hey Little Girl",
-      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Hey Little Girl",
+        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
+      },
+      "artists": [
+        {
+          "name": "Carli Brill",
+          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Hey Little Girl",
+      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: JAE5
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Asake
 
-273 songs - 18 hr 44 min
+274 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dangerous Love \- DJ Ganyani & De Mogul Remix](https://open.spotify.com/track/4FmVx7MwV11Y3iEzbbXalR) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Ganyani](https://open.spotify.com/artist/3D168M3LLSF7IPPU7HUZGa), [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC) | [Dangerous Love \(DJ Ganyani & De Mogul Remix\)](https://open.spotify.com/album/2IUiQgkfKXwrH08ALZSwLC) | 5:51 | 2022-05-23 | 2022-08-05 |
 | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-05-23 | 2025-02-21 |
 | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT) | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL) | 3:04 | 2025-02-13 |  |
+| [Dlala iDhol](https://open.spotify.com/track/3Sfnlko5zWFLk0c1tlhFBG) | [DJ HABIBEATS](https://open.spotify.com/artist/6TuJEVeUBF7uFjMWiMX0st), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [AKU](https://open.spotify.com/artist/5GTMVApm4eVMVUOgC8RcqU) | [Dlala iDhol](https://open.spotify.com/album/7Fi9dklycWbjTYJV7o5v2v) | 4:21 | 2025-02-27 |  |
 | [DOMINATOR \- ROSEY GOLD & JAY MUSIC VS HUMAN RESOURCE](https://open.spotify.com/track/09LnLn1TaUrkSdKukKfQOM) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rosey Gold](https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [DOMINATOR \- ROSEY GOLD & JAY MUSIC VS HUMAN RESOURCE](https://open.spotify.com/album/1qyfoCN8GQCZOG2BR7T5nZ) | 6:52 | 2024-07-25 | 2025-02-21 |
 | [Don't Stress Me](https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Don't Stress Me](https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX) | 2:53 | 2024-05-09 | 2024-11-08 |
 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 | 2023-07-28 | 2024-01-26 |

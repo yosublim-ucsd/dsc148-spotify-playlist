@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "BRAIN",
+        "url": "https://open.spotify.com/album/0RwZNRJgW8pzh33jevQ6pk"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156683,
+      "name": "BRAIN",
+      "url": "https://open.spotify.com/track/27Yo7rtsCyg3TKvpeyn9HG"
+    },
+    {
+      "album": {
         "name": "Bubble (feat. Uta)",
         "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
       },
@@ -7020,6 +7038,28 @@
       "duration_ms": 266717,
       "name": "See You in My Dream",
       "url": "https://open.spotify.com/track/5teehiaGmTZ9hE5cvFLGBV"
+    },
+    {
+      "album": {
+        "name": "Seeing Stars",
+        "url": "https://open.spotify.com/album/6NAp5C3DoGEW1f6I8dE0RK"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Lotus Juice",
+          "url": "https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207566,
+      "name": "Seeing Stars",
+      "url": "https://open.spotify.com/track/3ZKKYwnkAnnLRT0WarwJzb"
     },
     {
       "album": {
@@ -16302,7 +16342,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 155981,
       "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
       "url": "https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG"

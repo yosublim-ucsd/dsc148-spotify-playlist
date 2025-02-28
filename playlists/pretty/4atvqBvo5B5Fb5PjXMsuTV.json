@@ -1,13 +1,81 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Feb 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Feb 23:03 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAPzReTJApaQYgeILX9DhPCEj82fYSA",
+  "snapshot_id": "AAAP06ZIC5qmR3rIdLbY9qkOwMUDjp3S",
   "tracks": [
+    {
+      "added_at": "2025-02-27 19:03:39",
+      "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
+    },
+    {
+      "added_at": "2025-02-27 23:03:36",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
+      "added_at": "2025-02-27 14:03:28",
+      "album": {
+        "name": "reprogram",
+        "url": "https://open.spotify.com/album/4vG6oCFDcJJotl40kHwKE6"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "reprogram",
+      "url": "https://open.spotify.com/track/3rnu806sQS4sNydAjQRhdO"
+    },
+    {
+      "added_at": "2025-02-27 14:03:28",
+      "album": {
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/70V8razl5P5SkjnykqHCe4"
+      },
+      "artists": [
+        {
+          "name": "By Storm",
+          "url": "https://open.spotify.com/artist/1YUIjQ3ugjokiyb908LpVO"
+        },
+        {
+          "name": "Injury Reserve",
+          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
+        }
+      ],
+      "duration_ms": 416326,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/4pHoLfmvt3EubWU9RFMQWU"
+    },
     {
       "added_at": "2025-02-26 19:03:28",
       "album": {
@@ -127,6 +195,38 @@
       "duration_ms": 245853,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p"
+    },
+    {
+      "added_at": "2025-02-27 23:03:36",
+      "album": {
+        "name": "MARVIN GAYE.",
+        "url": "https://open.spotify.com/album/1TtRkqZaAsVMh9vIwcxj2y"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "MARVIN GAYE.",
+      "url": "https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz"
+    },
+    {
+      "added_at": "2025-02-27 23:03:36",
+      "album": {
+        "name": "Milkshake Man",
+        "url": "https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "Milkshake Man",
+      "url": "https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC"
     },
     {
       "added_at": "2025-02-26 14:03:09",
@@ -739,102 +839,6 @@
       "duration_ms": 181320,
       "name": "Bunky Pop",
       "url": "https://open.spotify.com/track/3XNTRQC9MdHCcxh0qSbxzW"
-    },
-    {
-      "added_at": "2025-02-19 19:04:00",
-      "album": {
-        "name": "infinyte",
-        "url": "https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "infinyte",
-      "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
-    },
-    {
-      "added_at": "2025-02-19 09:04:05",
-      "album": {
-        "name": "Tiara",
-        "url": "https://open.spotify.com/album/52FMewyydnYgknvRsRzEqf"
-      },
-      "artists": [
-        {
-          "name": "Weatherday",
-          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
-        }
-      ],
-      "duration_ms": 222624,
-      "name": "Tiara",
-      "url": "https://open.spotify.com/track/1qlhJ0PND0HRtUXRbJyjZa"
-    },
-    {
-      "added_at": "2025-02-23 04:03:15",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/4LD1uDOWIXub9KVhXebZAO"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 164079,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/7qCojYqfbCKWVb0lDGpfCv"
-    },
-    {
-      "added_at": "2025-02-19 23:04:01",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-02-18 09:03:34",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
-    },
-    {
-      "added_at": "2025-02-19 23:04:01",
-      "album": {
-        "name": "UNB\u00d8UND",
-        "url": "https://open.spotify.com/album/5fa7pFzXKaGTQNJnTqvciH"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236531,
-      "name": "UNB\u00d8UND",
-      "url": "https://open.spotify.com/track/2giZNr8LWr8ywmcbxdvqjn"
     }
   ],
   "unique_name": "New Singles Now",

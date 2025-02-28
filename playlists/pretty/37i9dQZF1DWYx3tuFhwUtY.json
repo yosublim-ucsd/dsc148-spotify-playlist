@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138357,
+  "num_followers": 138358,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "I'll Be Your Girl",
+        "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Severed",
+      "url": "https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 194731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "I'll Be Your Girl",
-        "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Severed",
-      "url": "https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 296980,
+      "name": "Gondii",
+      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 296980,
-      "name": "Gondii",
-      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 240399,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199066,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 240399,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
-      },
-      "artists": [
-        {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 179226,
       "name": "Love's a Real Thing",
       "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+      },
+      "artists": [
+        {
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Love is the Answer",
-        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
-      },
-      "artists": [
-        {
-          "name": "Las Robertas",
-          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
-        }
-      ],
-      "duration_ms": 360259,
-      "name": "Love is the Answer",
-      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Kills Birds",
         "url": "https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 156001,
       "name": "Worthy Girl",
       "url": "https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Love is the Answer",
+        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
+      },
+      "artists": [
+        {
+          "name": "Las Robertas",
+          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
+        }
+      ],
+      "duration_ms": 360259,
+      "name": "Love is the Answer",
+      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
     },
     {
       "added_at": "2024-07-12 23:20:36",

@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-290 songs - 17 hr 8 min
+291 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 | 2021-10-15 | 2024-10-23 |
 | [Alma Negra](https://open.spotify.com/track/3EeCZJXdxpLK40Pvl9alku) | [Yzalú](https://open.spotify.com/artist/7q1jWJl5Iw466LykkPDC7M) | [Minha Bossa É Treta](https://open.spotify.com/album/17mQrmiIs0jK0M9TgbOzQw) | 1:07 | 2021-10-15 | 2022-07-23 |
 | [Amor Calado](https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:09 | 2024-10-22 |  |
-| [Amor Da Minha Vida](https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl) | [Carabao O Furioso Do Marajó](https://open.spotify.com/artist/1JESC6Kt3eyYHGz4TwvOV6) | [Carabao O Furioso Do Marajó](https://open.spotify.com/album/5uHPp4xJTqjUapy4Oac13N) | 2:56 | 2024-10-22 |  |
+| [Amor Da Minha Vida](https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl) | [Carabao O Furioso Do Marajó](https://open.spotify.com/artist/1JESC6Kt3eyYHGz4TwvOV6) | [Carabao O Furioso Do Marajó](https://open.spotify.com/album/5uHPp4xJTqjUapy4Oac13N) | 2:56 | 2024-10-22 | 2025-02-28 |
 | [Amor e Paz](https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:31 | 2021-10-15 | 2022-07-29 |
 | [Amor Meu Grande Amor](https://open.spotify.com/track/3i8gG670ThI3tWSwujH6kt) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/1xC1f01BH8WycquDSClLBR) | 3:15 | 2021-10-15 | 2022-07-29 |
 | [Amor Meu Grande Amor](https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd) | 3:15 | 2021-10-15 | 2024-04-19 |
@@ -161,6 +161,7 @@
 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 | 2024-10-22 |  |
 | [Meu Choro](https://open.spotify.com/track/1kHb7AHIJtWPPHV0BDYXTH) | [Ná Ozetti](https://open.spotify.com/artist/2CUAJZgMaVXkBoaGc583AJ) | [Rubens Lisboa por Tantas Vozes](https://open.spotify.com/album/0ZjCudqOTwR3erdEP7dbRN) | 2:14 | 2021-10-15 | 2022-07-27 |
 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 | 2021-10-15 | 2024-10-23 |
+| [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 | 2025-02-28 |  |
 | [Mina](https://open.spotify.com/track/1bpT0SG7ppxMvCcVmCsKql) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Raízes](https://open.spotify.com/album/3OjEAkgujukkD6mD5WT7gg) | 3:23 | 2021-10-15 | 2022-07-29 |
 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 | 2021-10-15 | 2024-10-23 |
 | [Morena De Angola](https://open.spotify.com/track/2197m72oqAuxBiSIV5cQ72) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Brasil Mestiço](https://open.spotify.com/album/3IByK5jqmLWKhrtjrb8xun) | 3:26 | 2021-10-15 | 2024-10-23 |

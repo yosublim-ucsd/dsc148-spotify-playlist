@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Aliisa Syrj\u00e4 ja Robin Packalen.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Bee.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Anna tulla",
+        "url": "https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193638,
+      "name": "Anna tulla",
+      "url": "https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB"
+    },
+    {
+      "album": {
         "name": "Anteeks",
         "url": "https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 193131,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 151500,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
@@ -1034,6 +1052,24 @@
       "duration_ms": 196539,
       "name": "Ei kenenk\u00e4\u00e4n maa",
       "url": "https://open.spotify.com/track/6PANiQUSF5adKoACZMBX59"
+    },
+    {
+      "album": {
+        "name": "Ei me kuolla kuitenkaan",
+        "url": "https://open.spotify.com/album/39MJlMRGdRCQiHCqMJHibn"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212436,
+      "name": "Ei me kuolla kuitenkaan",
+      "url": "https://open.spotify.com/track/6JJOkXsbhZAWfJUIFApXIp"
     },
     {
       "album": {
@@ -1938,7 +1974,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 181106,
       "name": "H\u00e4n",
       "url": "https://open.spotify.com/track/4gmir4Q2IHvYB94pPP1TYW"
@@ -2160,7 +2196,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 196744,
       "name": "Ilmaa",
       "url": "https://open.spotify.com/track/0aPEp3qLmKjXvDllQ5QwLQ"
@@ -2690,6 +2726,28 @@
       "duration_ms": 171182,
       "name": "Kantavaa maata",
       "url": "https://open.spotify.com/track/5AbQCOUnNQ6Buf8wR0F4kY"
+    },
+    {
+      "album": {
+        "name": "Karaokemaa",
+        "url": "https://open.spotify.com/album/5UCJ8twtmxPX3Qbmq85eQ2"
+      },
+      "artists": [
+        {
+          "name": "Hesa\u00c4ij\u00e4",
+          "url": "https://open.spotify.com/artist/31l5HEi8RuEjCwU46y49Hf"
+        },
+        {
+          "name": "Faija",
+          "url": "https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Karaokemaa",
+      "url": "https://open.spotify.com/track/7wHLvaHdCpASSZIigfWEsf"
     },
     {
       "album": {
@@ -3962,7 +4020,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 200045,
       "name": "Magiaa",
       "url": "https://open.spotify.com/track/0s2r7IbiptWCtJs8DwfqCv"
@@ -3980,7 +4038,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 166250,
       "name": "Magnoliapuu",
       "url": "https://open.spotify.com/track/1owMF74i1TxNWTRFJGFPjF"
@@ -4477,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 meist j\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149058,
+      "name": "Mit\u00e4 meist j\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ"
+    },
+    {
+      "album": {
         "name": "Mit\u00e4 m\u00e4 teen? (sped up)",
         "url": "https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy"
       },
@@ -4666,6 +4742,32 @@
       "duration_ms": 207133,
       "name": "Mutta s\u00e4 el\u00e4t",
       "url": "https://open.spotify.com/track/1DFiObAYlkGUcE8oi5m8e5"
+    },
+    {
+      "album": {
+        "name": "MVP (feat. ibe & Elastinen)",
+        "url": "https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185605,
+      "name": "MVP (feat. ibe & Elastinen)",
+      "url": "https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5"
     },
     {
       "album": {
@@ -5374,6 +5476,24 @@
       "duration_ms": 174474,
       "name": "Paratiisi",
       "url": "https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7"
+    },
+    {
+      "album": {
+        "name": "Parempaa ku m\u00e4",
+        "url": "https://open.spotify.com/album/1fEP1mXZsKPLqHUC2pi4Na"
+      },
+      "artists": [
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191462,
+      "name": "Parempaa ku m\u00e4",
+      "url": "https://open.spotify.com/track/5r6jzIucRh15p4hP4DbTiN"
     },
     {
       "album": {
@@ -6311,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Sateenkaaret on py\u00f6reit\u00e4",
+        "url": "https://open.spotify.com/album/2DyBHjFwYR2vkUsLltXZpA"
+      },
+      "artists": [
+        {
+          "name": "Pikku G",
+          "url": "https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177522,
+      "name": "Sateenkaaret on py\u00f6reit\u00e4",
+      "url": "https://open.spotify.com/track/3muAyFD0nIA5Y3APoSzfCB"
+    },
+    {
+      "album": {
         "name": "Sattuu jos sattuu",
         "url": "https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr"
       },
@@ -6803,6 +6941,28 @@
     },
     {
       "album": {
+        "name": "Suomileijona",
+        "url": "https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5"
+      },
+      "artists": [
+        {
+          "name": "TIPPA",
+          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158460,
+      "name": "Suomileijona",
+      "url": "https://open.spotify.com/track/2VrulJUteGq31RtnshZ495"
+    },
+    {
+      "album": {
         "name": "Supersankari (feat. Petri Nyg\u00e5rd & Pasi ja Anssi)",
         "url": "https://open.spotify.com/album/4xjZjEV8nldsKGCDWDbdrp"
       },
@@ -6858,7 +7018,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 145566,
       "name": "Suutele mun silmii",
       "url": "https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR"
@@ -7249,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "Teen Mit\u00e4 T\u00e4ytyy",
+        "url": "https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Teen mit\u00e4 t\u00e4ytyy",
+      "url": "https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq"
+    },
+    {
+      "album": {
         "name": "The Islander (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/35MQVa39LOlpsmIq7GkkHA"
       },
@@ -7282,7 +7460,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 153628,
       "name": "Tili tuli, tili meni",
       "url": "https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX"
@@ -7450,6 +7628,24 @@
       "duration_ms": 175889,
       "name": "Tuonelan tuulet",
       "url": "https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE"
+    },
+    {
+      "album": {
+        "name": "Tupakkaa ja rakkautta",
+        "url": "https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202348,
+      "name": "Tupakkaa ja rakkautta",
+      "url": "https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k"
     },
     {
       "album": {
@@ -7763,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "unissasi",
+        "url": "https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y"
+      },
+      "artists": [
+        {
+          "name": "ILON",
+          "url": "https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "unissasi",
+      "url": "https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi"
+    },
+    {
+      "album": {
         "name": "Sanansaattaja",
         "url": "https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN"
       },
@@ -7876,6 +8090,24 @@
       "duration_ms": 160350,
       "name": "Valheista kaunein",
       "url": "https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp"
+    },
+    {
+      "album": {
+        "name": "Valinnu mun tien",
+        "url": "https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181571,
+      "name": "Valinnu mun tien",
+      "url": "https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9"
     },
     {
       "album": {

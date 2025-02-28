@@ -39673,6 +39673,28 @@
     },
     {
       "album": {
+        "name": "Mafu",
+        "url": "https://open.spotify.com/album/247gcFwILuBMUaPKh54lL7"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "paddybeatz",
+          "url": "https://open.spotify.com/artist/5GNd1U5j93WRTSCRmb6lj5"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Mafu",
+      "url": "https://open.spotify.com/track/650XgPDMRWje8oGC17Cr45"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij"
       },

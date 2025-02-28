@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Lachispa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,394 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,399 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 30 | [Con el Alma, Cover](https://open.spotify.com/track/08XYSCEHxRXy1FVrtEyQ2X) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [Con el Alma, Cover](https://open.spotify.com/album/7dfRM7oiHUB6gJrYPhV6c4) | 3:21 |
 | 31 | [Te Voy A Regalar](https://open.spotify.com/track/2DBmBEu6L0ZVtTEyLH7e3e) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Te Voy A Regalar](https://open.spotify.com/album/1A2Q7SyCk9Di8psssnzCHM) | 2:48 |
 | 32 | [MONIGOTE](https://open.spotify.com/track/1nwZIxkW9v2WLtk2wUKn3b) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ) | [AMORIOS\. LA VERDAD DE MI COPLILLA](https://open.spotify.com/album/3xLRVcOyWsWxmoqB3A7cpa) | 2:10 |
-| 33 | [La Fe](https://open.spotify.com/track/6opB6SYU9gCCZFOBIiRBJn) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [La Fe](https://open.spotify.com/album/0yvpCtb3xssyrBkc854A4i) | 3:32 |
+| 33 | [LA FE](https://open.spotify.com/track/6opB6SYU9gCCZFOBIiRBJn) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [LA FE](https://open.spotify.com/album/0yvpCtb3xssyrBkc854A4i) | 3:32 |
 | 34 | [Yalili](https://open.spotify.com/track/7BLGYxdrQSTXXY3qzIwCwM) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Yalili](https://open.spotify.com/album/19vo2JeYFxJcwpzsrLdRh7) | 5:48 |
 | 35 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
 | 36 | [Lágrima](https://open.spotify.com/track/6AESP7mEOCz3igOerC9QJ9) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Lágrima](https://open.spotify.com/album/6yd03uk0vAfZ3cvynnYtVW) | 2:29 |

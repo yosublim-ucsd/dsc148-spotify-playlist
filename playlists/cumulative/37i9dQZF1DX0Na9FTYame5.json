@@ -78,10 +78,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 123280,
       "name": "1000 Sterne",
       "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
+    },
+    {
+      "album": {
+        "name": "1402",
+        "url": "https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135410,
+      "name": "1402",
+      "url": "https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi"
     },
     {
       "album": {
@@ -845,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Ende",
+        "url": "https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173487,
+      "name": "Ende",
+      "url": "https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1"
+    },
+    {
+      "album": {
         "name": "Ende der Strasse",
         "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
       },
@@ -1012,7 +1052,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 157147,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0"
@@ -2268,7 +2308,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 158400,
       "name": "Narben",
       "url": "https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK"
@@ -2462,6 +2502,24 @@
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+    },
+    {
+      "album": {
+        "name": "Lost Tapes Teil 2",
+        "url": "https://open.spotify.com/album/2QCQLyr5RnqZdikUD3cDbn"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125100,
+      "name": "Party Allein",
+      "url": "https://open.spotify.com/track/0OU4O2hTL2PtjzZ1yg8o2G"
     },
     {
       "album": {

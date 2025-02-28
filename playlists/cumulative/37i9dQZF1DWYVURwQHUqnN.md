@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Soolking
+> Photo : Jul
 
-244 songs - 11 hr 43 min
+245 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-08 | 2024-02-09 |
 | [Kengan Ashura](https://open.spotify.com/track/5XVlrCa2mygLe7jWcg8DL7) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Kengan Ashura](https://open.spotify.com/album/1zamgEDwMF7jU7R5gzIImN) | 2:09 | 2024-04-11 | 2024-05-10 |
 | [Khemem](https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Khemem](https://open.spotify.com/album/1ObRhUhvJgVfFOd6C6x23J) | 2:55 | 2023-09-28 | 2024-06-01 |
-| [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-14 |  |
+| [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-14 | 2025-02-28 |
 | [Këur](https://open.spotify.com/track/7awY6bDRy9M3OGfwGXG0T8) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Këur](https://open.spotify.com/album/1fYhYoGkV8ekc0PdsJQ73a) | 2:45 | 2025-01-02 |  |
 | [La Capitale](https://open.spotify.com/track/61ftvJIboUekDBePgs2Qe9) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1) | [La Capitale](https://open.spotify.com/album/5jTEJD2cxm5u2naymHRBDN) | 2:31 | 2023-09-28 | 2023-10-06 |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-28 | 2023-12-01 |
@@ -221,6 +221,7 @@
 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 | 2023-09-28 | 2023-10-13 |
 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 | 2024-06-13 |  |
 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-01 | 2024-07-12 |
+| [TIME](https://open.spotify.com/track/4rFDF81MFipCajOoJfPDL7) | [clubb29](https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg) | [TIME](https://open.spotify.com/album/4z92ih6fRYfvJ5xvr4RweJ) | 2:24 | 2025-02-27 |  |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-07-19 |
 | [Totopika](https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 2:19 | 2025-02-13 |  |
 | [Tour du Monde](https://open.spotify.com/track/7Mk0whTW3cBo3dLgCACZsf) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Tour du Monde](https://open.spotify.com/album/7de883jdeEEshL3nkpjWRy) | 2:45 | 2025-01-16 | 2025-02-14 |

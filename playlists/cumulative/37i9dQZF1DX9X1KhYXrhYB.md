@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-112 songs - 7 hr 21 min
+117 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2025-02-14 |  |
 | [Cinematic Drone](https://open.spotify.com/track/5esZgmcOCRI63uA09rePwm) | [Alan Fillip](https://open.spotify.com/artist/4F36M3hoL2FakyOvC0anhd) | [New Drones and Dark Moods](https://open.spotify.com/album/20582xsSvowIBlV6c1pNgX) | 2:23 | 2023-05-26 |  |
 | [Climbing Up the Walls](https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:45 | 2023-05-26 |  |
+| [Cold \- 2005 Remaster](https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:26 | 2025-02-27 |  |
 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 | 2023-05-26 |  |
 | [Confetti](https://open.spotify.com/track/5Vn8Vc0TsQkair5bzrkQCg) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Confetti](https://open.spotify.com/album/0rsk1zNbXYxKoWwNwxEfWX) | 5:18 | 2023-05-26 |  |
 | [Cornflake Girl \- 2015 Remaster](https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(Deluxe Edition\)](https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U) | 5:05 | 2023-05-26 |  |
@@ -35,6 +36,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-05-26 |  |
 | [Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:59 | 2025-02-14 |  |
 | [Feel the Pain](https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Without a Sound](https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4) | 4:19 | 2023-05-26 |  |
+| [Feelin' Like Yeah Yeah Yeah](https://open.spotify.com/track/39IWzKlq4ggWvqTyxqWut7) | [Simon Tellier](https://open.spotify.com/artist/4ZLAACYvR4O4jZpuYQjknL), [Roland Bingaman](https://open.spotify.com/artist/5HiHK1FPVHrphjnb7IPINi) | [On the Radar: Pop Hits](https://open.spotify.com/album/27uIFxnOXwi4tPBYtq3daR) | 2:45 | 2025-02-27 |  |
 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 | 2023-05-26 |  |
 | [Freak Out](https://open.spotify.com/track/4A7KmLT5PbXil3ntchAsvF) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Bambie](https://open.spotify.com/artist/6dziONGk8cc7ZFza0Am9vU) | [Freak Out](https://open.spotify.com/album/6AOsBT1D5gNyzeYzZcNLtt) | 3:19 | 2023-05-26 |  |
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2023-05-26 |  |
@@ -50,6 +52,7 @@
 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 | 2023-05-26 |  |
 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 | 2025-02-14 |  |
 | [I'm Gonna Blow](https://open.spotify.com/track/5kdHXKOmNpvrLftDbV2Nty) | [Trevor M\. Simpson](https://open.spotify.com/artist/7CC6F9KLCn1szwbmDZE5TC) | [Rock 'Til You Drop Vol\. 2](https://open.spotify.com/album/0og4CcAW77XAnNVt2y9YRw) | 2:32 | 2025-02-14 |  |
+| [I'm Too Sexy](https://open.spotify.com/track/2wmnubOPY1hyR4fSaZ9o1T) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/78u5gGU8ALR3TuvEVWV3tH) | 2:50 | 2025-02-27 |  |
 | [Inertia Creeps](https://open.spotify.com/track/3N2UhXZI4Gf64Ku3cCjz2g) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:57 | 2023-05-26 |  |
 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2023-05-26 |  |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-05-26 |  |
@@ -63,6 +66,7 @@
 | [Little Queenie](https://open.spotify.com/track/2d9Xw1OiRL8ca2K4A03aD3) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Vol\. Three: The Hand That Did the Deed](https://open.spotify.com/album/76RlOpOj4GHhvJ9EY7NFSA) | 2:50 | 2023-05-26 |  |
 | [Love Comes Close](https://open.spotify.com/track/5GHjhiMYYSCfCGHHfoNVhV) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Love Comes Close \(Deluxe Edition\)](https://open.spotify.com/album/2XNJcFlzfBOvL8SzihQ2E3) | 4:25 | 2023-05-26 |  |
 | [Maid in China](https://open.spotify.com/track/5z7do5vuWxNGaUUEfjNvOk) | [The Father Figures](https://open.spotify.com/artist/5YhXGdEwTDvxwDd7gAhVqX) | [All About Everything](https://open.spotify.com/album/2Tfr5H2Mrv3e6zLACaZtnH) | 3:05 | 2023-05-26 |  |
+| [Make Your Own Kind Of Music](https://open.spotify.com/track/6H3Wa6hWR9DRMzMSd4pZkT) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk) | [Mama's Big Ones](https://open.spotify.com/album/3x44BijmAfm1N7Cs7yILL4) | 2:19 | 2025-02-27 |  |
 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 | 2025-02-14 |  |
 | [Medusa](https://open.spotify.com/track/47m4KywG7aScTCQrVmEGzd) | [Noonday Devils](https://open.spotify.com/artist/3bE1tOIIIUiftncsv1OGyG) | [Bitters](https://open.spotify.com/album/4oLJM8xYwc1VOdb3SOJ2Pc) | 2:35 | 2023-05-26 |  |
 | [Miss World](https://open.spotify.com/track/3yMFBuIdPBdJkkzaPBDjKY) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:00 | 2023-05-26 |  |
@@ -76,6 +80,7 @@
 | [No Return \(Extended Version\)](https://open.spotify.com/track/26asZ6eCAQqJByZD4eVTJa) | [Craig Wedren](https://open.spotify.com/artist/4GPehFTPUP3j8J8ULlpqWh), [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Blood Hive \(Original Score from the Showtime Series Yellowjackets\)](https://open.spotify.com/album/5s3QZqajwEsenbqMDNsgcr) | 3:00 | 2023-05-26 |  |
 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2023-05-26 |  |
 | [No Room for a Nihilist in Hollywood](https://open.spotify.com/track/2FeDzl4Sx3u0nG9FDwCI5s) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [We Make Characters That Look Like Us to Feel Less Alone](https://open.spotify.com/album/5XnyCKcaLIuCmG5uVLibPJ) | 3:04 | 2023-05-26 |  |
+| [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 | 2025-02-27 |  |
 | [Not While I'm Around](https://open.spotify.com/track/2MQPALok7JGj3hBUaP7tWU) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Broadway Album](https://open.spotify.com/album/7KBxxaIFKYYcbS4CIwvTno) | 3:29 | 2023-05-26 |  |
 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 | 2023-05-26 |  |
 | [Overture](https://open.spotify.com/track/37u4N8Nje0UIJINbW7QULX) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 3:05 | 2023-05-26 |  |

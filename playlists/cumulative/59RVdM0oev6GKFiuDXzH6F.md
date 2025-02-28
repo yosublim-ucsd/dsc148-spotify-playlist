@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-942 songs - 2 day 0 hr 1 min
+943 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Give It Up](https://open.spotify.com/track/62ro6kcujbmEhlndu4uT0Z) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:36 | 2024-12-05 |  |
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 | 2024-09-26 |
 | [Go Down \- Radio Mix](https://open.spotify.com/track/5rknguMmLNVo3nssfJiThj) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR), [Ivax](https://open.spotify.com/artist/7E0QQ55VuvXNy0iF3mop5x) | [Go Down](https://open.spotify.com/album/37oTqjeAYIQH7AYT8thNkJ) | 3:14 | 2025-01-10 |  |
+| [Go Insane](https://open.spotify.com/track/5Brow4FeMgJ2ZsB9w9vd8Q) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [THNDERZ](https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23) | [Go Insane](https://open.spotify.com/album/78dxvt5Zb1nKsC3VV1s12r) | 2:06 | 2025-02-27 |  |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 | 2025-01-09 |
 | [Golden Coast](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Golden Coast](https://open.spotify.com/album/2ocTIH0Mm6EEGBfl6DyYOE) | 2:47 | 2024-12-05 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-01 | 2023-12-14 |

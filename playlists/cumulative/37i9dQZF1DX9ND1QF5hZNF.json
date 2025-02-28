@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 152347,
       "name": "BWU",
       "url": "https://open.spotify.com/track/40rev08jSE8ZQfrESVu4uc"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 133760,
       "name": "Careless",
       "url": "https://open.spotify.com/track/4yCgGNBPqIWzOGB3WAakR3"
@@ -1928,6 +1928,28 @@
       "duration_ms": 252973,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0XbMHMNMSvvKXthvVx7cN3"
+    },
+    {
+      "album": {
+        "name": "Je t'attends",
+        "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Shahin Shantiaei",
+          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Je t'attends",
+      "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
     },
     {
       "album": {
@@ -3472,6 +3494,36 @@
       "duration_ms": 164008,
       "name": "Smoke & Ash",
       "url": "https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy"
+    },
+    {
+      "album": {
+        "name": "Solfa",
+        "url": "https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Rindss",
+          "url": "https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Solfa",
+      "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAA2T8wQXFRkJPLQw3kcp8/2",
+  "snapshot_id": "Z75ZgAAAAADmTkb+ZcBy8TWHywhQKKFK",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Lemon Grove",
-        "url": "https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Introduction to Pop (Live)",
-      "url": "https://open.spotify.com/track/6nH9suYXFEaXE8sFyCW6Yy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 256106,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
+      "duration_ms": 256106,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
     },
     {
       "added_at": null,

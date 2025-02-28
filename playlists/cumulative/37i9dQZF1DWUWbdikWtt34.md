@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: RaRa
+> Dendang Dangdut teratas\. Cover: Faul Gayo
 
-223 songs - 17 hr 33 min
+225 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Goyang Nasi Padang](https://open.spotify.com/track/3zS02VGXpRYeXSsif1QxRM) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/7k86TETd5hMeUyX32ifK2j) | 3:07 | 2021-08-23 | 2024-03-23 |
 | [Goyang Nasi Padang](https://open.spotify.com/track/5enljbovbOWMy0WDtGfrPm) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/5K3HoEf17Jd4ZlBxPtIHKH) | 3:07 | 2021-08-23 | 2022-07-29 |
 | [Hai Sayang](https://open.spotify.com/track/2GfIBIeCABdzxZ2qDB7NHN) | [Ima Zara](https://open.spotify.com/artist/34nOrinFOsc5m9yjhi36qa) | [Hai Sayang](https://open.spotify.com/album/1isZbLn2v6VwPL4lDsIiUd) | 3:55 | 2024-11-21 |  |
+| [Halal Tapi Dibenci](https://open.spotify.com/track/15b5dto9jRwLIDzq9P5Kr2) | [Dadido](https://open.spotify.com/artist/5fIz4Xdtz2dnALYjnMeucG) | [Halal Tapi Dibenci](https://open.spotify.com/album/5dlKinz60LnA0hfrrkTwjf) | 3:41 | 2025-02-28 |  |
 | [HALU](https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [HALU](https://open.spotify.com/album/3WAJxIWrZAnMH6gGbqESYt) | 3:42 | 2024-08-22 |  |
 | [HALU \- Acoustic Version](https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3) | [HALU \(Acoustic Version\)](https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1) | 3:05 | 2024-12-12 |  |
 | [Hanya Insan Biasa \- Live Ska Reggae](https://open.spotify.com/track/6qJIqqPqWim82D36xcYXua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Hanya Insan Biasa \(Live Ska Reggae\)](https://open.spotify.com/album/5RPExE9DE9rnYUHJm55kaT) | 5:02 | 2024-07-18 | 2024-10-18 |
@@ -168,6 +169,7 @@
 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-08 | 2024-03-15 |
 | [Rindu Terhalang](https://open.spotify.com/track/0ZpjsLT6wzv0JSvIGa0MhQ) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Rindu Terhalang](https://open.spotify.com/album/0biYVS1ZoGwdRF7f5ySmJd) | 5:28 | 2024-07-25 |  |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 | 2025-02-21 |
+| [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 | 2025-02-28 |  |
 | [Sakur Ngimpi](https://open.spotify.com/track/0wWjSOuRhpjOcLlkxlFTh4) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Sakur Ngimpi](https://open.spotify.com/album/1fYzlUuZ8TETKCgZaeeeQI) | 5:15 | 2024-05-23 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 | 2023-11-04 |
 | [Salahkah Aku](https://open.spotify.com/track/377ZMIKzLmBAYx3BTdNISv) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Salahkah Aku](https://open.spotify.com/album/6TdZuqZQ4wdzTL0rl3WmzP) | 5:27 | 2023-05-18 | 2023-12-01 |

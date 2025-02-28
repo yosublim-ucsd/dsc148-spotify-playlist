@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Agari",
+        "url": "https://open.spotify.com/album/3yMcgo6uvXN4gRVcXMO0QY"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80253,
+      "name": "Agari",
+      "url": "https://open.spotify.com/track/4qcn2xQJDMliNK4dUiVXX1"
+    },
+    {
+      "album": {
         "name": "Ain't Scared",
         "url": "https://open.spotify.com/album/3mKKpRJXrBPZc1sZIKDrQf"
       },

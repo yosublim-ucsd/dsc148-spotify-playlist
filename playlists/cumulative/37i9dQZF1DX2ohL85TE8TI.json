@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: When the Stars Gossip(\ubcc4\ub4e4\uc5d0\uac8c \ubb3c\uc5b4\ubd10)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: You Are the Apple of My Eye(\uadf8 \uc2dc\uc808, \uc6b0\ub9ac\uac00 \uc88b\uc544\ud588\ub358 \uc18c\ub140)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 142373,
       "name": "Dog Sound",
       "url": "https://open.spotify.com/track/5E6mUNoD6g1hfz7KKv7mge"
@@ -6542,6 +6542,24 @@
       "duration_ms": 199639,
       "name": "I loved you",
       "url": "https://open.spotify.com/track/4IlBUBDdw9V9In4OCjeQFj"
+    },
+    {
+      "album": {
+        "name": "The Scandal of Chun Hwa (TVING Original Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6bX1pWQuXpPOAmsQxAfyBg"
+      },
+      "artists": [
+        {
+          "name": "Lee Hae Ri",
+          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/0yZf3jtKO5kR1025UyNT1n"
     },
     {
       "album": {
@@ -11838,7 +11856,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 169573,
       "name": "Ordinary love",
       "url": "https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I"
@@ -12606,6 +12624,24 @@
       "duration_ms": 220666,
       "name": "Rest",
       "url": "https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j"
+    },
+    {
+      "album": {
+        "name": "The Scandal of Chun Hwa (TVING Original Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/1rjKSVQcqGrOikQuI5sqLX"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/6JEvmNja9SKgRGPPDR28S4"
     },
     {
       "album": {
@@ -16488,7 +16524,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 188532,
       "name": "We Go",
       "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
@@ -17622,6 +17658,28 @@
       "duration_ms": 183998,
       "name": "You are my soul",
       "url": "https://open.spotify.com/track/6VDZHXq2dn9Uj44uak2Xsg"
+    },
+    {
+      "album": {
+        "name": "You Are the Apple of My Eye (From \"You Are the Apple of My Eye\" [Original Television Soundtrack], Pt.2)",
+        "url": "https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        },
+        {
+          "name": "Dahyun",
+          "url": "https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "You Are the Apple of My Eye (From \"You Are the Apple of My Eye\" [Original Television Soundtrack], Pt.2)",
+      "url": "https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Rachel Chinouriri.
 
-1,875 songs - 4 day 5 hr 22 min
+1,876 songs - 4 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1490,6 +1490,7 @@
 | [The Girl Who Cried Love](https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [The Girl Who Cried Love \(Sped Up + Slowed Down\)](https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7) | 2:57 | 2024-05-17 | 2024-11-21 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2022-02-03 | 2022-12-15 |
 | [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 |  |
+| [the occasion](https://open.spotify.com/track/0Xs0mRmlrmCfivQ3O5PSJC) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [the occasion](https://open.spotify.com/album/3i6GNFqyBRnDvUWU3nK1RO) | 3:21 | 2025-02-21 |  |
 | [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 | 2024-03-01 | 2024-04-14 |
 | [The Whole Story](https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 2:32 | 2024-02-09 | 2024-04-06 |
 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 | 2022-04-29 | 2022-05-15 |
@@ -1681,7 +1682,7 @@
 | [your house, my house](https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [your house, my house](https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM) | 3:14 | 2024-05-24 | 2024-06-17 |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-03-24 | 2023-04-18 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
-| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 |  |
+| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 | 2025-02-28 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-24 | 2024-12-01 |
 | [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 | 2024-12-22 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 | 2024-08-03 |

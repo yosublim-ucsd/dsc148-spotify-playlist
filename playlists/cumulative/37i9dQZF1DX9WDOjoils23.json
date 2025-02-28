@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "She Loves Me, She Loves Me Not...",
+        "url": "https://open.spotify.com/album/52LycdTcLfQ7fusg8XKXs9"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "Ustaad Dildar Hussian",
+          "url": "https://open.spotify.com/artist/7Khc0BFNH1WcQfn1QfrEbN"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379105,
+      "name": "Jhaleya",
+      "url": "https://open.spotify.com/track/2SqzHPZJkWqeiQaTKvVHK6"
+    },
+    {
+      "album": {
         "name": "The Most Sad Songs",
         "url": "https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi"
       },
@@ -746,10 +768,28 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 197506,
       "name": "Neendar Nain Aawndi",
       "url": "https://open.spotify.com/track/2rlxA33dXhCL6XGBYMz0Ce"
+    },
+    {
+      "album": {
+        "name": "Meri Pasand, Vol. 1",
+        "url": "https://open.spotify.com/album/44WjmR6pmbOcZ0bxt3CXcZ"
+      },
+      "artists": [
+        {
+          "name": "Attaullah Khan Essakhelvi",
+          "url": "https://open.spotify.com/artist/0UJeYZQqhmJT9706RaFOzj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326240,
+      "name": "Ni Uthan Waley",
+      "url": "https://open.spotify.com/track/3x8r2uTRILoLmbLOz8PIQk"
     },
     {
       "album": {
@@ -1060,7 +1100,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 315840,
       "name": "Sone Yaar",
       "url": "https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI"

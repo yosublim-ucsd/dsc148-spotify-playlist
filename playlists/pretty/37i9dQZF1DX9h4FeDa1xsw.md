@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Rilès
+> Photo : Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,867 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,872 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
-| 2 | [Comic sans MS](https://open.spotify.com/track/6H3u3KdZT5d37IYhd5u6LW) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Comic sans MS](https://open.spotify.com/album/68sOOXtT9bAtUYAoXLh4i7) | 2:52 |
-| 3 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 |
-| 4 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
-| 5 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 |
+| 1 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 |
+| 2 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
+| 3 | [Comic sans MS](https://open.spotify.com/track/6H3u3KdZT5d37IYhd5u6LW) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Comic sans MS](https://open.spotify.com/album/68sOOXtT9bAtUYAoXLh4i7) | 2:52 |
+| 4 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 |
+| 5 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
 | 6 | [Mon amour](https://open.spotify.com/track/2LbqFzZjgOoF2DcQp1dNch) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Mon amour](https://open.spotify.com/album/3doJ7vvQLpoISbhzbRJUcE) | 2:29 |
-| 7 | [leader price](https://open.spotify.com/track/0yODfEoKH4ev8xc1vOpbR8) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [leader price](https://open.spotify.com/album/5Hq7EI03uR1DXNBSWaLBao) | 2:53 |
-| 8 | [C'était pas à cause de toi](https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [C'était pas à cause de toi](https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt) | 2:46 |
+| 7 | [C'était pas à cause de toi](https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [C'était pas à cause de toi](https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt) | 2:46 |
+| 8 | [leader price](https://open.spotify.com/track/0yODfEoKH4ev8xc1vOpbR8) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [leader price](https://open.spotify.com/album/5Hq7EI03uR1DXNBSWaLBao) | 2:53 |
 | 9 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 |
 | 10 | [Je te ferai des signes](https://open.spotify.com/track/0oceqxMjTGGjdgeb8RgVJw) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Je te ferai des signes](https://open.spotify.com/album/0nGiBYxoJ7RUIPKu7NR8IQ) | 2:52 |
 | 11 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 |
 | 12 | [Ma jolie](https://open.spotify.com/track/1KGD3DZxekZfD1CghVKbt8) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Ma jolie](https://open.spotify.com/album/29kr1BdsCiUBY2V1Cd9vlb) | 2:31 |
-| 13 | [Perdu d'avance](https://open.spotify.com/track/2byn9WdHsCpMHisYCoKsxd) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En légende](https://open.spotify.com/album/1Cq9kjGSamotK6rfiUikgc) | 1:09 |
-| 14 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
-| 15 | [jtm.mp3](https://open.spotify.com/track/1PAcLSKxX1333rlWWvlFb3) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [jtm.mp3](https://open.spotify.com/album/6t484AIwPqTZP4kQcJIDjm) | 2:44 |
+| 13 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
+| 14 | [jtm.mp3](https://open.spotify.com/track/1PAcLSKxX1333rlWWvlFb3) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [jtm.mp3](https://open.spotify.com/album/6t484AIwPqTZP4kQcJIDjm) | 2:44 |
+| 15 | [Perdu d'avance](https://open.spotify.com/track/2byn9WdHsCpMHisYCoKsxd) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En légende](https://open.spotify.com/album/1Cq9kjGSamotK6rfiUikgc) | 1:09 |
 | 16 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 |
 | 17 | [Tout recommencer \(feat\. So La Lune\)](https://open.spotify.com/track/49zz3zQcytYAUHpIXq6VYU) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Tout recommencer \(feat\. So La Lune\)](https://open.spotify.com/album/2VtmpgM0LQIaert2GdwzwS) | 3:10 |
 | 18 | [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 39 | [A la folie](https://open.spotify.com/track/4CkPnK5pnxA5rGIgG6WmpU) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [A la folie](https://open.spotify.com/album/395fRjBGn4yoTYp97mAOUq) | 3:00 |
 | 40 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 |
 
-Snapshot ID: `Z7e0AQAAAABE1TsOhfz+JzXBLFbgUk6o`
+Snapshot ID: `Z8DujAAAAADOBhMdubLkXaj/ckIT7Wry`

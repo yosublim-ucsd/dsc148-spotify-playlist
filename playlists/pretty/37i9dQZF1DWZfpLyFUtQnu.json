@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 98267,
+  "num_followers": 98308,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "La Tendresse",
-        "url": "https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guichard",
-          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "La tendresse",
-      "url": "https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Bleu Blanc Vert",
         "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 308666,
       "name": "Voil\u00e0 c'est fini",
       "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "La Tendresse",
+        "url": "https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "La tendresse",
+      "url": "https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Les sunlights des tropiques",
-        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Les sunlights des tropiques",
-      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "\u00c2me fifties",
         "url": "https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185053,
       "name": "Ici et l\u00e0",
       "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Les sunlights des tropiques",
+        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Les sunlights des tropiques",
+      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Les p'tites jolies choses",
-        "url": "https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S"
-      },
-      "artists": [
-        {
-          "name": "Joyce Jonathan",
-          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Les p'tites jolies choses",
-      "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Piano S\u00d8LO",
         "url": "https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 225000,
       "name": "Paris-Seychelles - Piano-Voix",
       "url": "https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Les p'tites jolies choses",
+        "url": "https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Les p'tites jolies choses",
+      "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "La nuit (Version acoustique)",
+        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
+      },
+      "artists": [
+        {
+          "name": "Piedbois",
+          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
+        }
+      ],
+      "duration_ms": 231155,
+      "name": "La nuit - Version acoustique",
+      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Best of",
         "url": "https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 254813,
       "name": "\u00c0 toutes les filles",
       "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Loin des yeux",
-        "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
-      },
-      "artists": [
-        {
-          "name": "Boulevard des Airs",
-          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Allez reste (feat. Vianney)",
-      "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
     }
   ],
   "unique_name": "Douce France",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,027 likes - 134 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,030 likes - 134 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 49 | [Seeing Is Believing](https://open.spotify.com/track/0AHlbD95hYzP5Fgj0F69OI) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 3:44 |
 | 50 | [Susie's Dream House / Store Montage](https://open.spotify.com/track/4qMDIp2RvkMU0c9zMzwS93) | [Twentieth Century\-Fox Studio Orchestra](https://open.spotify.com/artist/5zqENwiqZP3DQrBZSngmtt), [Alfred Newman](https://open.spotify.com/artist/2e7myQwGa7Vyp7sss8brVC) | [Miracle on 34th Street \(Ost\) \[1947\]](https://open.spotify.com/album/1oizVBrHi6XreZTbAalPGe) | 3:50 |
 | 51 | [Christmas Breakfast](https://open.spotify.com/track/3SbTwfpEt0cuvYhl3BXhwG) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 2:33 |
-| 52 | [Overture](https://open.spotify.com/track/5gi1FHDRInOIBoN3S7AsaH) | [Singin' in the Rain 2012 London Cast Orchestra](https://open.spotify.com/artist/23RfPoxpitw4lzBzPdn7oO) | [Singin' in the Rain \(2012 London Cast\)](https://open.spotify.com/album/5igfMLfdiDTuTkGD1B99tc) | 3:36 |
+| 52 | [Overture](https://open.spotify.com/track/5gi1FHDRInOIBoN3S7AsaH) | [Singin' in the Rain 2012 London Cast Orchestra](https://open.spotify.com/artist/3cYQ9Sy2SzX6gAdxzQD2Zc) | [Singin' in the Rain \(2012 London Cast\)](https://open.spotify.com/album/5igfMLfdiDTuTkGD1B99tc) | 3:36 |
 | 53 | [A Dream Is a Wish Your Heart Makes \- Instrumental Version](https://open.spotify.com/track/42qmKRitmeSCKCW3PVPNcQ) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:01 |
 | 54 | [Three Musketeers](https://open.spotify.com/track/5J03NxgINpWSMW9gimJxuv) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 2:44 |
 | 55 | [Bridget Jones's Theme](https://open.spotify.com/track/5Nj4ShWa10M58FJDXpJKsr) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Bridget Jones’s Baby \(Original Motion Picture Score\)](https://open.spotify.com/album/7pI3xA0nYTiOV69T27WqCQ) | 3:29 |

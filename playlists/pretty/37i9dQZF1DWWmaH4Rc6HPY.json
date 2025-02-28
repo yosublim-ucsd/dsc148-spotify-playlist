@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Morat en portada.",
-  "num_followers": 33970,
+  "num_followers": 33988,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 210127,
       "name": "Todo cambia",
       "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Por no bailar contigo",
-        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 188515,
-      "name": "Por no bailar contigo",
-      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Cliente Frecuente",
-        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 169556,
-      "name": "Cliente Frecuente",
-      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Los de Siempre",
-        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+        "name": "Cliente Frecuente",
+        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
       },
       "artists": [
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Los de Siempre",
-      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
+      "duration_ms": 169556,
+      "name": "Cliente Frecuente",
+      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+        "name": "Los de Siempre",
+        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+      "duration_ms": 189920,
+      "name": "Los de Siempre",
+      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Biling\u00fces",
-        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Biling\u00fces",
-      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
         "name": "\u00bfQu\u00e9 vas a saber?",
         "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "No lo Entiendo",
-        "url": "https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG"
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
       },
       "artists": [
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 210449,
-      "name": "No lo Entiendo",
-      "url": "https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r"
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -991,6 +975,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "No lo Entiendo",
+        "url": "https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 210449,
+      "name": "No lo Entiendo",
+      "url": "https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "Clich\u00e9s",
         "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 198133,
       "name": "Clich\u00e9s",
       "url": "https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
-        "name": "Te Desenamoraste",
-        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Te Desenamoraste",
-      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Tormenta Perfecta",
-        "url": "https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n"
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
       },
       "artists": [
         {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
         }
       ],
-      "duration_ms": 237002,
-      "name": "Tormenta Perfecta",
-      "url": "https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp"
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "Tormenta Perfecta",
+        "url": "https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n"
+      },
+      "artists": [
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 237002,
+      "name": "Tormenta Perfecta",
+      "url": "https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "Mi + 1",
         "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
       },
@@ -1095,26 +1095,6 @@
       "duration_ms": 166400,
       "name": "Mi + 1",
       "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
-        "name": "Letal",
-        "url": "https://open.spotify.com/album/5VqIoF7Vt5xiiTXHI60yxZ"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 161112,
-      "name": "Letal",
-      "url": "https://open.spotify.com/track/1leHRtKavc4mLEqGB4t6Tw"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1175,6 +1155,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "sin nada",
         "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
       },
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+        "name": "Letal",
+        "url": "https://open.spotify.com/album/5VqIoF7Vt5xiiTXHI60yxZ"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+      "duration_ms": 161112,
+      "name": "Letal",
+      "url": "https://open.spotify.com/track/1leHRtKavc4mLEqGB4t6Tw"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 131628,
+      "name": "plan fatal",
+      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
         "url": "https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 131628,
-      "name": "plan fatal",
-      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
     }
   ],
   "unique_name": "Pop Rock Latino",

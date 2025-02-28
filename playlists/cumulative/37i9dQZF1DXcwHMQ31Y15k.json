@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Aku Po Dek e",
+        "url": "https://open.spotify.com/album/1BcoQHyfpaAzqSuQdWVL7p"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286891,
+      "name": "Aku Po Dek e",
+      "url": "https://open.spotify.com/track/1VQ7j2h4iH6eUdHncaUebz"
+    },
+    {
+      "album": {
         "name": "Aku Ra Mundur (Tepung Kanji)",
         "url": "https://open.spotify.com/album/7E4eC0hWBPdYe6017bLNdC"
       },
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 296572,
       "name": "Kau Yang Memilih Aku",
       "url": "https://open.spotify.com/track/0nlyeo8k3egwp0BPagXSgi"

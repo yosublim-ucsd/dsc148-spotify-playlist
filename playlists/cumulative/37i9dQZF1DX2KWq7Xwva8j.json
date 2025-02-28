@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Charlie USG.",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Mushkaa.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 157000,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/3nJxOzRqFnsknEP9O07cUX"
@@ -2974,6 +2974,36 @@
       "duration_ms": 158000,
       "name": "Mil Laberintos",
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
+    },
+    {
+      "album": {
+        "name": "NOVA BOSSA",
+        "url": "https://open.spotify.com/album/5ZEwm6KbZqoOh3WlW0JDNC"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "akaluigi",
+          "url": "https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208621,
+      "name": "MIMENINA",
+      "url": "https://open.spotify.com/track/73piTsKnySi5DVbCnPB29x"
     },
     {
       "album": {

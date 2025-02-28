@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-359 songs - 19 hr 43 min
+360 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-07-28 | 2023-02-25 |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [It's All Over](https://open.spotify.com/track/4HHMS3s0HKaOYzF8OSxjLR) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [Words From My Bedroom](https://open.spotify.com/album/0EYR5dwivh17s1lgiEoD7N) | 2:50 | 2022-11-19 | 2022-12-08 |
+| [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:23 | 2025-02-27 |  |
 | [Jabal](https://open.spotify.com/track/5shcRvPPK4usihJQeLZZEX) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Tina Yamout](https://open.spotify.com/artist/4MD4oAkzFo3Qm698L3ah2G), [Menon](https://open.spotify.com/artist/3vLug4a4OgSie73dtmCki4), [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD), [Swerte](https://open.spotify.com/artist/6WyyNmA5JyYsGelZSyLpFj), [Big Moe](https://open.spotify.com/artist/420QIvy8NhewcnrZWDP7xW) | [Jabal](https://open.spotify.com/album/4N39yHfoySqjIrdBaqduxO) | 2:56 | 2021-12-16 | 2022-01-25 |
 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 | 2023-06-26 |  |
 | [Je Cours](https://open.spotify.com/track/34W8tiXQUXw5f8l3HhI55J) | [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Je Cours](https://open.spotify.com/album/2SEuflFdsEI5pcq3Zo1FtP) | 2:59 | 2022-02-04 | 2022-12-08 |
@@ -201,7 +202,7 @@
 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 | 2024-05-30 |  |
 | [Male Hbibti Madjatch](https://open.spotify.com/track/1JrNnGXkmWeoXvzfTcHFp7) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Cheb Khaled, Double Best, 25 titres originaux remasterisés](https://open.spotify.com/album/6aPxtI5Sxk0MANK9O8XsG0) | 9:57 | 2022-06-06 | 2022-06-24 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2022-06-06 | 2022-06-24 |
-| [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 | 2023-05-19 |  |
+| [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 | 2023-05-19 | 2025-02-28 |
 | [marigold](https://open.spotify.com/track/6JrjfWgPI8d1uraNP0YEDx) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 4:24 | 2024-12-31 |  |
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 | 2022-12-16 |

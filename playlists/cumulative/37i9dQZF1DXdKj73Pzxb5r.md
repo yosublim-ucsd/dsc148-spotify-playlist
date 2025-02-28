@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Lomba Sihir
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rangkai
 
-274 songs - 17 hr 25 min
+278 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 | 2024-08-30 |
 | [Burner](https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Balancing Act](https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs) | 2:43 | 2024-10-31 | 2025-02-14 |
 | [By the Sea](https://open.spotify.com/track/6Ntc7YusEmJnb0IzJkCcZz) | [Humsikk](https://open.spotify.com/artist/48SOu6mhQKKdUpM8CAHTfc), [Amy Amanda](https://open.spotify.com/artist/3qE5P0cHaCusgOluEhpOrE), [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [By the Sea](https://open.spotify.com/album/05Gp2SBwGUUxpNiwgEFOCo) | 5:01 | 2024-11-28 | 2025-02-14 |
+| [byar](https://open.spotify.com/track/6ARVP7WgqKkyhefSctHN2C) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [byar](https://open.spotify.com/album/4oLgFactaiqhjxb6M3gDP0) | 3:53 | 2025-02-28 |  |
 | [Béntang Sagara](https://open.spotify.com/track/0DUycchEJkz4qXG9KgR3Mp) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Galura Tropikalia](https://open.spotify.com/album/5Cz944NT4taGMmOcAraPbm) | 4:25 | 2024-11-28 |  |
 | [can't get over you](https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ) | [Ernesto.](https://open.spotify.com/artist/0gaT6R7nbUJWNbZOydCP8m) | [can't get over you](https://open.spotify.com/album/7n3C0AQw8Qm91SJsxFXtyB) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Can't Stop Thinking of You](https://open.spotify.com/track/16QDnfyDBztTEdBatjF09y) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [The Reasons Why](https://open.spotify.com/album/3iSXqJbtRNytqs0ytpuxHO) | 4:00 | 2024-06-27 | 2024-09-06 |
@@ -106,6 +107,7 @@
 | [Heartless Man](https://open.spotify.com/track/7dRxFgqHCL0q3BlA9Er4J5) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Heartless Man](https://open.spotify.com/album/3ckyt87YZBksANQhtJGeyU) | 1:50 | 2024-06-27 | 2024-07-05 |
 | [Helpless](https://open.spotify.com/track/3PNY3KOBwCWoMlgcZqhblh) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Helpless](https://open.spotify.com/album/6x5ROoQjb8aG1uLhvFt6sn) | 2:30 | 2024-08-01 | 2024-09-20 |
 | [Higher \- Reinterpretation](https://open.spotify.com/track/34B32JK4vJNf9PtRZm7vwV) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo) | [Higher \(Reinterpretation\)](https://open.spotify.com/album/2LDFkidULv2Q7HbaUoDqVZ) | 3:04 | 2024-06-27 | 2024-08-02 |
+| [Hilang](https://open.spotify.com/track/6ISqWbkksV8qBRQG0zA7lT) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Hilang](https://open.spotify.com/album/1O5QjShn5r1t8q89QcZ9KQ) | 3:40 | 2025-02-28 |  |
 | [Hilang Di Nestapa](https://open.spotify.com/track/317JB3hbNXTfLYifDxzrDY) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Hilang Di Nestapa](https://open.spotify.com/album/4Ou8VOT5xtIxCTYQVPsrMR) | 5:12 | 2024-06-27 | 2024-07-12 |
 | [Hilang Naluri](https://open.spotify.com/track/7v1tKoC0caE47BRf7HV0b9) | [Neo Ketaren](https://open.spotify.com/artist/3bkDbv5H0Dm88XmdlZlFqa), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Hilang Naluri](https://open.spotify.com/album/4jWYBCnGcNIwCj2kX1adUr) | 5:21 | 2025-01-18 |  |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2024-07-12 |
@@ -120,8 +122,9 @@
 | [Ingkar](https://open.spotify.com/track/2a2FmnmZpLLu521keHj6CC) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Persembahan Vol\. 1](https://open.spotify.com/album/4QEtk6getifkkIXAEr5QTe) | 4:20 | 2024-06-27 | 2024-07-27 |
 | [insecure](https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL) | [Penky Adam](https://open.spotify.com/artist/42TWgEtVzIeKjg7S4mUNXQ) | [insecure](https://open.spotify.com/album/3jM42OfJaEIYPmjKmN4JBo) | 2:52 | 2024-07-25 | 2024-09-20 |
 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 | 2024-09-13 |  |
+| [Jagadhita](https://open.spotify.com/track/752raq1ayodQTY2Ke6Mx3j) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Jagadhita](https://open.spotify.com/album/6yUWEhonWXlrf9xLfSwcUR) | 4:05 | 2025-02-28 |  |
 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 | 2024-10-04 |
-| [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/album/1ulNzGRi72yRkgzyQsogJv) | 3:09 | 2025-02-13 |  |
+| [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/album/1ulNzGRi72yRkgzyQsogJv) | 3:07 | 2025-02-13 |  |
 | [Jangan Pernah Berubah](https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Jangan Pernah Berubah](https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y) | 3:58 | 2024-06-27 |  |
 | [Jangan Terlalu](https://open.spotify.com/track/0Zdo9YUOun1DscWe53UVbo) | [Mr\. Sonjaya](https://open.spotify.com/artist/6iUFomcMsqFIyq87u1UEwl) | [Jangan Terlalu](https://open.spotify.com/album/5YaLTKQWdGIpmxnehrTdMa) | 3:56 | 2024-07-04 | 2024-09-06 |
 | [Jarak dan Waktu](https://open.spotify.com/track/4N2ZdbozedvEmUX5Pz8ETB) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Jarak dan Waktu](https://open.spotify.com/album/5IDlrEPupFAXDClKNmmbVu) | 3:02 | 2024-10-31 |  |
@@ -216,6 +219,7 @@
 | [Sang Air](https://open.spotify.com/track/5y4Kgbn16NbHqd5hsWIqsa) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149), [Khita](https://open.spotify.com/artist/2mMf1BdJ0cc6IW2n4YiAEM) | [Sang Air](https://open.spotify.com/album/0eapVoaliAzU6N8g1r4kHn) | 3:58 | 2024-06-27 | 2024-08-02 |
 | [Secercah](https://open.spotify.com/track/2lJ8p5Khj22dEtcYQzkf23) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Secercah](https://open.spotify.com/album/0FmqdVa9xGnCAeW5Xly5DS) | 4:03 | 2024-09-20 |  |
 | [Segalanya Bermula](https://open.spotify.com/track/3pJYW5zdKh6PZWQ7OOWhi6) | [Kabar Burung](https://open.spotify.com/artist/6Uo4ELuiXfJZVy7QKPjf8m) | [Gita Masa Lalu](https://open.spotify.com/album/7aHKjuQbnWXZagPo9TNIUE) | 3:06 | 2024-06-27 | 2024-09-06 |
+| [Selam Hati Sulam Diri](https://open.spotify.com/track/0VbhMLHUG4saLpC0Hx279n) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Endah Widiastuti](https://open.spotify.com/artist/6mXxK8byLbjChJ8efKIDkt) | [Pekik Hening di Lantang Angan](https://open.spotify.com/album/3SnwMRRIpgLYYqRJ2Oebxi) | 4:29 | 2025-02-28 |  |
 | [Selamat Datang Patah Hati](https://open.spotify.com/track/6RZTlUF24ZpE9sUT9PUQ1Z) | [Eka Annash](https://open.spotify.com/artist/4uX7LU7w3psADDfDD07Snk) | [Selamat Datang Patah Hati](https://open.spotify.com/album/0FVafGmzrJZuzyUjcY13UD) | 3:51 | 2024-06-27 | 2024-12-14 |
 | [Selayang Serindu](https://open.spotify.com/track/3xwl4BYD8CFevons4dKt2n) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Selayang Serindu](https://open.spotify.com/album/0VVpcMHPvPp5OViZLJGTj0) | 4:02 | 2024-06-27 | 2024-10-25 |
 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-02-13 |  |

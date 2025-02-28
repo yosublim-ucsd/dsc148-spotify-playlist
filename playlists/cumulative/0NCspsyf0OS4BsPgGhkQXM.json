@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
+    },
+    {
+      "album": {
         "name": "Chemicals (Remix)",
         "url": "https://open.spotify.com/album/4YwQ3ECvPNLVBWjvv6KE81"
       },
@@ -6219,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Fake Like That",
+        "url": "https://open.spotify.com/album/0jvRpPPHXaCjmR4zfBtqhf"
+      },
+      "artists": [
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157128,
+      "name": "Fake Like That",
+      "url": "https://open.spotify.com/track/4V5syR0NLcqYB8sZkwN31T"
+    },
+    {
+      "album": {
         "name": "Fall Into Deep",
         "url": "https://open.spotify.com/album/0KlY7jCOReNFq9jD7zyNLs"
       },
@@ -8378,7 +8414,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183711,
       "name": "Heard About Me",
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
@@ -9944,7 +9980,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 226000,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
@@ -17168,7 +17204,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161714,
       "name": "rockabye",
       "url": "https://open.spotify.com/track/1BhqZEEFaf4b2OcG5pgenG"
@@ -18400,7 +18436,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 193333,
       "name": "Shift",
       "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
@@ -19316,7 +19352,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 210206,
       "name": "Straight Into The Ground",
       "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"

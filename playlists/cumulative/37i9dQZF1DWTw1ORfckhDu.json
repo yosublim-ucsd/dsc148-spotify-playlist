@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Ege Zulu.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160941,
       "name": "1000H Mummolassa",
       "url": "https://open.spotify.com/track/0pjCPHzuXdbHGQWMvoOcRy"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 174259,
       "name": "A.D.I",
       "url": "https://open.spotify.com/track/4dowlEKgOztCjm8eKmXKW7"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183106,
       "name": "Askel kerrallaan (feat. HUGO)",
       "url": "https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 151500,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161750,
       "name": "Hyv\u00e4\u00e4 pressii",
       "url": "https://open.spotify.com/track/1fGna4UHnyOUlJFm1enorI"
@@ -8945,6 +8945,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 meist j\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149058,
+      "name": "Mit\u00e4 meist j\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ"
+    },
+    {
+      "album": {
         "name": "MIT\u00c4 M\u00c4 TEEN",
         "url": "https://open.spotify.com/album/09t3xwOITtlq43PBjkaOGL"
       },
@@ -9337,6 +9355,32 @@
     },
     {
       "album": {
+        "name": "MVP (feat. ibe & Elastinen)",
+        "url": "https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185605,
+      "name": "MVP (feat. ibe & Elastinen)",
+      "url": "https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj"
       },
@@ -9694,6 +9738,28 @@
       "duration_ms": 232454,
       "name": "Niinku Ennen Tehtiin",
       "url": "https://open.spotify.com/track/5LKu3UuIECUPeOaiwc5vie"
+    },
+    {
+      "album": {
+        "name": "Nirvanaan",
+        "url": "https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130"
+      },
+      "artists": [
+        {
+          "name": "Young Mike",
+          "url": "https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Nirvanaan",
+      "url": "https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2"
     },
     {
       "album": {
@@ -11134,7 +11200,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 130893,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1WL8TO2hnusM1mPdxZ0Cwx"
@@ -13283,6 +13349,28 @@
     },
     {
       "album": {
+        "name": "Suomileijona",
+        "url": "https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5"
+      },
+      "artists": [
+        {
+          "name": "TIPPA",
+          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158460,
+      "name": "Suomileijona",
+      "url": "https://open.spotify.com/track/2VrulJUteGq31RtnshZ495"
+    },
+    {
+      "album": {
         "name": "houseparty",
         "url": "https://open.spotify.com/album/0wA2eLyY8Y3S8eR65lkK15"
       },
@@ -13941,6 +14029,24 @@
     },
     {
       "album": {
+        "name": "Teen Mit\u00e4 T\u00e4ytyy",
+        "url": "https://open.spotify.com/album/4plXzLtRVhQRVwdeHYw8q6"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Teen mit\u00e4 t\u00e4ytyy",
+      "url": "https://open.spotify.com/track/1f1XMgqGipqx8VN23xj1Pq"
+    },
+    {
+      "album": {
         "name": "Tehny hyn\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2BgteV6yb99VuqRBhDYILL"
       },
@@ -14268,7 +14374,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 169074,
       "name": "Toista sua",
       "url": "https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk"
@@ -15223,6 +15329,24 @@
     },
     {
       "album": {
+        "name": "Valinnu mun tien",
+        "url": "https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181571,
+      "name": "Valinnu mun tien",
+      "url": "https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9"
+    },
+    {
+      "album": {
         "name": "Valosaa & pime\u00e4\u00e4",
         "url": "https://open.spotify.com/album/0MsPiDtyxVkYlqUC3aa114"
       },
@@ -15278,7 +15402,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 127714,
       "name": "Vanilj - Remix",
       "url": "https://open.spotify.com/track/07xksEq7diDcVRd1MfXucZ"
@@ -15769,6 +15893,24 @@
     },
     {
       "album": {
+        "name": "Vittu mik\u00e4 \u00e4ij\u00e4",
+        "url": "https://open.spotify.com/album/7puK1S7dwidRXDzBvKD2ZG"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Kauhanen",
+          "url": "https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Vittu mik\u00e4 \u00e4ij\u00e4",
+      "url": "https://open.spotify.com/track/2imPefhCdCUrM55vYibOmf"
+    },
+    {
+      "album": {
         "name": "Vittuilen",
         "url": "https://open.spotify.com/album/5xbeZvgZjeGYuJBh31cwAR"
       },
@@ -16220,6 +16362,28 @@
       "duration_ms": 171614,
       "name": "Yliajattelen sua",
       "url": "https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t"
+    },
+    {
+      "album": {
+        "name": "Ylim\u00e4\u00e4r\u00e4st\u00e4 taskus",
+        "url": "https://open.spotify.com/album/5Im4pI8KPvzYK7OlCyIPs6"
+      },
+      "artists": [
+        {
+          "name": "Ex Tuuttiz",
+          "url": "https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A"
+        },
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228358,
+      "name": "Ylim\u00e4\u00e4r\u00e4st\u00e4 Taskus",
+      "url": "https://open.spotify.com/track/2FScZYWe2yMBS6YOdqCtNi"
     },
     {
       "album": {

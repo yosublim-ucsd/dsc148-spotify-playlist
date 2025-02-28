@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,560 songs - 10 day 15 hr 37 min
+4,561 songs - 10 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2634,7 +2634,7 @@
 | [More Than Words](https://open.spotify.com/track/5NITwEcAQXREfP2pzSWJrU) | [Dr\. Stuff](https://open.spotify.com/artist/54T03kwQRj3I5cAqcqjAIA) | [Music Is Medicine](https://open.spotify.com/album/5xmjbpNQy8q3mK71YSAvEF) | 5:34 | 2024-01-16 | 2024-01-25 |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 | 2024-04-30 |
 | [More Time](https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [More Time](https://open.spotify.com/album/2wHsJhnP4ss5XXh8KenlHh) | 2:43 | 2024-09-02 | 2024-09-13 |
-| [Morning Pulse](https://open.spotify.com/track/3Zy95EShtjEMe2Sn1StLvK) | [DONPAIRION](https://open.spotify.com/artist/0XkJBN6kZ25ZGfXsuHQRyp) | [PULSE](https://open.spotify.com/album/74aSmBDf6t5SlwJWoXLeC2) | 4:34 | 2025-02-16 |  |
+| [Morning Pulse](https://open.spotify.com/track/3Zy95EShtjEMe2Sn1StLvK) | [DONPAIRION](https://open.spotify.com/artist/0XkJBN6kZ25ZGfXsuHQRyp) | [PULSE](https://open.spotify.com/album/74aSmBDf6t5SlwJWoXLeC2) | 4:34 | 2025-02-16 | 2025-02-28 |
 | [Moses Brown \- \(Album Version\)](https://open.spotify.com/track/6FNhIuNmWRkgWTy8BfJxWe) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 3:49 | 2025-02-24 |  |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
 | [Motel 907](https://open.spotify.com/track/2oXpjjVFBH3BkTAt3vyS3V) | [XaeXani](https://open.spotify.com/artist/0ZX0jOdTcipOWhmtgTa3Ym), [Kealmoe](https://open.spotify.com/artist/4Gl6CP8NHRg1ubgWWbMTc1), [Selassie Jones](https://open.spotify.com/artist/5fVyLUgTDR4ZJnZdDJY5U7) | [Motel 907](https://open.spotify.com/album/3IQ0qRKtm6p621FOlrJLBI) | 3:01 | 2024-08-28 | 2024-09-07 |
@@ -4117,6 +4117,7 @@
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-20 | 2022-03-07 |
 | [Try Again](https://open.spotify.com/track/080H1ZMJfxM2e7AE2Ef9Lc) | [JTM](https://open.spotify.com/artist/0ZA6uKUCcTW9su5Rw514jC) | [Try Again](https://open.spotify.com/album/1FrlsnUYbRq6J98J3e3VL0) | 2:52 | 2023-03-17 | 2023-04-09 |
 | [Try Again](https://open.spotify.com/track/6uIhiWsucUZpfuyNkBB0RF) | [Rude Nala](https://open.spotify.com/artist/7v5dJSII3N53hZHrqN50jd) | [Try Again](https://open.spotify.com/album/1CnpFEKbcV3nY7ODlqmHCS) | 2:46 | 2021-12-10 | 2022-02-27 |
+| [Try Me](https://open.spotify.com/track/1UtYRW7QKfCr4BBNEg024w) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [Try Me](https://open.spotify.com/album/0Lb7A5O48QhsJIrrlQgtFm) | 3:08 | 2025-02-28 |  |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-07-20 |  |
 | [Tsunami](https://open.spotify.com/track/2No16QmtvDPqcu4fJpHm96) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Tsunami](https://open.spotify.com/album/5pktLygV4qTlObVG6Fmr8f) | 2:48 | 2024-10-22 | 2024-11-03 |
 | [Tu Fidelidad](https://open.spotify.com/track/605gQW4MozZsQcJ5Gc7m2f) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Tu Fidelidad](https://open.spotify.com/album/6lOjQXsDC0dYn2xFhBPDup) | 3:18 | 2025-01-18 | 2025-01-30 |

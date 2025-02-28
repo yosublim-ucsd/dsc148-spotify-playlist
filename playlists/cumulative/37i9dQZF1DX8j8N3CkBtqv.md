@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Salman Elahi
 
-984 songs - 2 day 5 hr 48 min
+985 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Na Ja](https://open.spotify.com/track/5PBms8xSMFFnTT9MShFQ6d) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Na Ja](https://open.spotify.com/album/29fiUguzZwSeACPVhm9HtA) | 2:41 | 2024-05-10 | 2024-06-15 |
 | [Na Rahi..](https://open.spotify.com/track/2J90MxSs0cCDdR8g6bj2sg) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Na Rahi..](https://open.spotify.com/album/2eA7WuGH2lqVr0CQzCve37) | 4:10 | 2024-05-17 | 2024-06-22 |
 | [Na Tha Woh Pyaar](https://open.spotify.com/track/6LwZHHF4DDTZH3ZKlSkcsy) | [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Na Tha Woh Pyaar](https://open.spotify.com/album/0N9HUA1kNmZhHvgwSv7HVk) | 3:38 | 2023-08-25 | 2023-09-30 |
+| [Naam Kaam](https://open.spotify.com/track/1AeNfDWNRVbgu50j3yacBZ) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Naam Kaam](https://open.spotify.com/album/7ad0igZrnVtlIlTSl3oYS3) | 3:18 | 2025-02-21 |  |
 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-05-31 | 2024-08-24 |
 | [Nadaaniyan](https://open.spotify.com/track/6yPJ4BeRhPEYKc9j314fto) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Nadaaniyan](https://open.spotify.com/album/4EAuRm1fb6dxiTpphl3Zm2) | 3:03 | 2024-05-17 | 2024-06-22 |
 | [Nadiya](https://open.spotify.com/track/2pbAtm6A1H1kcCrI6N8gia) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadiya](https://open.spotify.com/album/1wm4hA20dyDloqU1tAjt52) | 3:45 | 2024-10-11 | 2024-12-21 |
@@ -841,7 +842,7 @@
 | [Taaley](https://open.spotify.com/track/60hLo4SHBK4X74nOl8p2M8) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Taaley](https://open.spotify.com/album/0psikiLw7Yr7cks3uImtEs) | 2:11 | 2024-10-18 | 2025-01-18 |
 | [Taareyan Toh Puch](https://open.spotify.com/track/6RkZeLJlIOGpjWwnMqQjJ3) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Taareyan Toh Puch](https://open.spotify.com/album/4u6e3vVbivKZ3VurCr3dZj) | 2:43 | 2024-03-29 | 2024-05-11 |
 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 | 2023-09-15 | 2023-10-14 |
-| [Talaash](https://open.spotify.com/track/7rOlksKyOXRJrYHRdpTt6U) | [Khan Bros](https://open.spotify.com/artist/06wG4JPkmHQYrbKVW1CHpd), [Shez Khan](https://open.spotify.com/artist/3XUSVBhdWgVkiav648jkDV) | [Talaash](https://open.spotify.com/album/63TzFz5UF1wlQsLCWPKKnu) | 3:29 | 2024-12-20 |  |
+| [Talaash](https://open.spotify.com/track/7rOlksKyOXRJrYHRdpTt6U) | [Khan Bros](https://open.spotify.com/artist/06wG4JPkmHQYrbKVW1CHpd), [Shez Khan](https://open.spotify.com/artist/3XUSVBhdWgVkiav648jkDV) | [Talaash](https://open.spotify.com/album/63TzFz5UF1wlQsLCWPKKnu) | 3:29 | 2024-12-20 | 2025-02-28 |
 | [Talk About It](https://open.spotify.com/track/7qXU9k3EXn8sBAG9njp9Z8) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Talk About It](https://open.spotify.com/album/0df3TOTc7GC0oGIE6Uw7WZ) | 3:04 | 2023-08-11 | 2023-09-02 |
 | [Tarse Jiya](https://open.spotify.com/track/4awiGalBUrW2cGvuLdKDli) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Samriddhi Khatri](https://open.spotify.com/artist/6xlqskZB0uiMkeR2rc9kTK) | [Tarse Jiya](https://open.spotify.com/album/0kdSrz337jRVRzVGmvV6mQ) | 2:30 | 2024-07-12 | 2024-10-12 |
 | [Tasveer](https://open.spotify.com/track/1ghNR3ElQVDYdagjYRhdgS) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Tasveer](https://open.spotify.com/album/2jr3qbOt1ZTwrsCs6Mr9zJ) | 2:53 | 2024-12-20 | 2025-02-11 |

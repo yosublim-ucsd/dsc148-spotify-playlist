@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: Michael Ekow & May",
+  "description": "Nieuwe alternative en rock songs. Cover: POM",
   "name": "New Alternative",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 187686,
       "name": "A Hole In The Ground",
       "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
+    },
+    {
+      "album": {
+        "name": "a menace",
+        "url": "https://open.spotify.com/album/5O12kfhiDZcHJ3Ne9bcDE8"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "a menace",
+      "url": "https://open.spotify.com/track/55DzEjS7rrZbvyL9hCiSQC"
     },
     {
       "album": {
@@ -885,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Catch It Alive",
+        "url": "https://open.spotify.com/album/1K3STjN129PSyjtYPpbJtV"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219430,
+      "name": "Catch It Alive",
+      "url": "https://open.spotify.com/track/1zGHG90IrbVAgwfvMPzhk3"
+    },
+    {
+      "album": {
         "name": "Changing Colors",
         "url": "https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4"
       },
@@ -900,6 +936,24 @@
       "duration_ms": 220706,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "album": {
@@ -1566,7 +1620,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 232339,
       "name": "Final Wave",
       "url": "https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J"
@@ -1718,6 +1772,24 @@
       "duration_ms": 205155,
       "name": "For the Better",
       "url": "https://open.spotify.com/track/6JzfYu6EOgqmGRFF64undK"
+    },
+    {
+      "album": {
+        "name": "Franken",
+        "url": "https://open.spotify.com/album/6yRY627EVeRivXv1Rvy2Ti"
+      },
+      "artists": [
+        {
+          "name": "Greer",
+          "url": "https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231517,
+      "name": "Franken",
+      "url": "https://open.spotify.com/track/3jVFjOu1U6MN1fK0UyxBJO"
     },
     {
       "album": {
@@ -2100,6 +2172,24 @@
       "duration_ms": 177867,
       "name": "I Can Be Your Personal Trainer",
       "url": "https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz"
+    },
+    {
+      "album": {
+        "name": "I Could Be Wrong",
+        "url": "https://open.spotify.com/album/3sMUXIDxAS46dKrVvwbT9o"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252684,
+      "name": "I Could Be Wrong",
+      "url": "https://open.spotify.com/track/1arck7SrG7ws7U3eYpSMoK"
     },
     {
       "album": {
@@ -2618,7 +2708,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 187639,
       "name": "Like You Did Before",
       "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
@@ -2769,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Lost in Your Gold",
+        "url": "https://open.spotify.com/album/1nErYOyvOFSkg1WjnP0ooN"
+      },
+      "artists": [
+        {
+          "name": "Glitterpaard",
+          "url": "https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "Lost in Your Gold",
+      "url": "https://open.spotify.com/track/6NerQBTomEiFiMATcG0qxw"
+    },
+    {
+      "album": {
         "name": "Make It Easy",
         "url": "https://open.spotify.com/album/7MYieMQCDD8MdYJsruXwOU"
       },
@@ -2870,7 +2978,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 227986,
       "name": "MASSIVE LOVE INFECTION",
       "url": "https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi"
@@ -3306,7 +3414,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 318735,
       "name": "Not All Is in Vain",
       "url": "https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H"
@@ -3450,7 +3558,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 288841,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
@@ -3580,6 +3688,24 @@
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "album": {
+        "name": "Place I Know",
+        "url": "https://open.spotify.com/album/2CA1iSyvFchozfZtmToqsn"
+      },
+      "artists": [
+        {
+          "name": "Eelke",
+          "url": "https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "Place I Know",
+      "url": "https://open.spotify.com/track/4vFIQi8Jdy4jroGHcCsLQk"
     },
     {
       "album": {
@@ -3732,6 +3858,24 @@
       "duration_ms": 118725,
       "name": "Real Music",
       "url": "https://open.spotify.com/track/3vPn3nP3W5dacb7QQ9mr3X"
+    },
+    {
+      "album": {
+        "name": "Matter Does Not Define",
+        "url": "https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236229,
+      "name": "Reflections Of Lessons Left",
+      "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
     },
     {
       "album": {
@@ -3933,6 +4077,28 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2OgLzadQHTjW4WesvH8b4G"
+      },
+      "artists": [
+        {
+          "name": "JOHAN",
+          "url": "https://open.spotify.com/artist/0RBuJpjFEGVDZ7CWq3UcdQ"
+        },
+        {
+          "name": "FIEP",
+          "url": "https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245308,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5kpiGDKoKpNwQpYjHyucKN"
+    },
+    {
+      "album": {
         "name": "\u201c&\u201d (Ampersand), Part One",
         "url": "https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC"
       },
@@ -4020,6 +4186,24 @@
       "duration_ms": 197548,
       "name": "Shades",
       "url": "https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa"
+    },
+    {
+      "album": {
+        "name": "Shadow Raised a Star",
+        "url": "https://open.spotify.com/album/4x0pqRgBZRFeQAZE3FU3GL"
+      },
+      "artists": [
+        {
+          "name": "Marathon",
+          "url": "https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338761,
+      "name": "Shadow Raised a Star",
+      "url": "https://open.spotify.com/track/0sRqiqYf94UkRxf4GdTJfM"
     },
     {
       "album": {
@@ -4268,7 +4452,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 228350,
       "name": "Southern Life (What It Must Be Like)",
       "url": "https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY"
@@ -4376,7 +4560,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 253008,
       "name": "Start Again - Edit",
       "url": "https://open.spotify.com/track/2CVNBC4eLDqmNcpWdyHbNw"
@@ -4556,7 +4740,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 225280,
       "name": "T&A",
       "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
@@ -5158,6 +5342,24 @@
       "duration_ms": 263160,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm"
+    },
+    {
+      "album": {
+        "name": "Uno II",
+        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
     },
     {
       "album": {

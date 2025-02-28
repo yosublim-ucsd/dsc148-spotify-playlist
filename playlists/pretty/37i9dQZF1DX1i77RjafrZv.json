@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 321512,
+  "num_followers": 321514,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Fragile (Remastered)",
-        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "L'encre de tes yeux - Remastered",
-      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+        "name": "Fragile (Remastered)",
+        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Le lac",
-      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+      "duration_ms": 186706,
+      "name": "L'encre de tes yeux - Remastered",
+      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -519,6 +503,22 @@
       "duration_ms": 201106,
       "name": "Viens on s\u2019aime",
       "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Le lac",
+      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Je Suis Malade",
-        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
-      },
-      "artists": [
-        {
-          "name": "Serge Lama",
-          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Je suis malade",
-      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "D'Eux",
         "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 273133,
       "name": "Je sais pas",
       "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
     },
     {
       "added_at": "2024-10-15 19:50:17",

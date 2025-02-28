@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Medalla.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sexy Zebras.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 162110,
       "name": "Amigos tengo",
       "url": "https://open.spotify.com/track/1FT0JcORoaEzOrkOiHlYXv"
@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Demasiados Deseos",
+        "url": "https://open.spotify.com/album/7HsP5xchqdjIduuOr5tGTy"
+      },
+      "artists": [
+        {
+          "name": "el momento inc\u00f3modo",
+          "url": "https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173885,
+      "name": "Demasiados Deseos",
+      "url": "https://open.spotify.com/track/1A6dbG3FyqNIt3uQbQDSPu"
+    },
+    {
+      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu"
       },
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 206874,
       "name": "Duele",
       "url": "https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 203037,
       "name": "El ingl\u00e9s se ense\u00f1a mal",
       "url": "https://open.spotify.com/track/5hNsJPvi6kSFUUWwDuN1rN"
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 220153,
       "name": "La batalla final",
       "url": "https://open.spotify.com/track/2ADGnVlRK5FHUuoS5pOGcD"
@@ -2214,6 +2232,24 @@
       "duration_ms": 204173,
       "name": "La Carretera Nocturna",
       "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
+    },
+    {
+      "album": {
+        "name": "La Casa Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/1ExWEPwei4vY3T3OFFs5z6"
+      },
+      "artists": [
+        {
+          "name": "Lady Banana",
+          "url": "https://open.spotify.com/artist/5rYapv14QGjhRGc4N59QR2"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184356,
+      "name": "La Casa Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/3eDJEUMt8OoKlryZbXqTMC"
     },
     {
       "album": {
@@ -2464,6 +2500,24 @@
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
+    },
+    {
+      "album": {
+        "name": "Las horas pasan",
+        "url": "https://open.spotify.com/album/0VGBrWhfTw00SKnPVy7yBP"
+      },
+      "artists": [
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Las horas pasan",
+      "url": "https://open.spotify.com/track/0GfqERTJm2jdiIfNBowmTi"
     },
     {
       "album": {
@@ -3306,10 +3360,28 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 166000,
       "name": "Nadie Se Muere De Amor",
       "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
+    },
+    {
+      "album": {
+        "name": "Nena, no est\u00e1s",
+        "url": "https://open.spotify.com/album/7pwjXZKNYOqhKBRTJwDmTZ"
+      },
+      "artists": [
+        {
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Nena, no est\u00e1s",
+      "url": "https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm"
     },
     {
       "album": {
@@ -3692,7 +3764,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 161756,
       "name": "Palma Barcelona",
       "url": "https://open.spotify.com/track/1S79QByWkGE8ufw0Av0qQy"
@@ -3836,7 +3908,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 166528,
       "name": "Perdiendo el tiempo",
       "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
@@ -4913,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Crees",
+        "url": "https://open.spotify.com/album/3PBDRxRIbpuu1PoXX9yAVC"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213676,
+      "name": "T\u00fa Crees",
+      "url": "https://open.spotify.com/track/6qTCDNZq0LUbq1XGmlMait"
+    },
+    {
+      "album": {
         "name": "T\u00fa No Lo Ves",
         "url": "https://open.spotify.com/album/117oS61cOoLRl1mAUkoiAt"
       },
@@ -5040,6 +5130,24 @@
       "duration_ms": 201346,
       "name": "UN PALACIO CON MIS HUESOS",
       "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
+    },
+    {
+      "album": {
+        "name": "Un poco de cari\u00f1o",
+        "url": "https://open.spotify.com/album/1mZ5r1KWBFdIxABNoOh9aD"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200999,
+      "name": "Un poco de cari\u00f1o",
+      "url": "https://open.spotify.com/track/60RGc6MtwwTYMNp6A3CS2D"
     },
     {
       "album": {
@@ -5310,7 +5418,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 187816,
       "name": "WTF",
       "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
@@ -5411,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Vamos Tarde",
+        "url": "https://open.spotify.com/album/5yH5j8Znp3Thdn7eJ6DRcb"
+      },
+      "artists": [
+        {
+          "name": "Vosotras Ver\u00e9is",
+          "url": "https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183900,
+      "name": "Yo Nunca He",
+      "url": "https://open.spotify.com/track/09hobK7AC3FLTjMGnoz25P"
+    },
+    {
+      "album": {
         "name": "Yo pensaba que me hab\u00eda tocado Dios",
         "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
       },
@@ -5480,7 +5606,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 174451,
       "name": "Zero Az\u00facar",
       "url": "https://open.spotify.com/track/24HHvn8ptcD54cBDOubRFx"

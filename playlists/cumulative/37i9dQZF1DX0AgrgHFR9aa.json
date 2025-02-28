@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssef Swatt's",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183106,
       "name": "375",
       "url": "https://open.spotify.com/track/7oBaEJ9gojLd28y1sfbdA0"
@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "KONSIGLIERE!",
+        "url": "https://open.spotify.com/album/7444gWdcL0cd1CH6wGKYln"
+      },
+      "artists": [
+        {
+          "name": "Tedax Max",
+          "url": "https://open.spotify.com/artist/6hjoQ84QiA6LVscW9dhcmO"
+        },
+        {
+          "name": "Ismayyyel",
+          "url": "https://open.spotify.com/artist/5zlBHSX5SOPPV1PzkqEob9"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134624,
+      "name": "BARZ'INI",
+      "url": "https://open.spotify.com/track/7wNVz9l9uhr6Q1padvZyTW"
+    },
+    {
+      "album": {
         "name": "BIZON",
         "url": "https://open.spotify.com/album/4Iqqdec5r2TZNVf1WTfxX7"
       },
@@ -420,7 +442,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 219259,
       "name": "blouseblanche",
       "url": "https://open.spotify.com/track/1RkmXt2d0kIu3hLAjUHmW8"
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 211573,
       "name": "Gamberge d'ancien",
       "url": "https://open.spotify.com/track/5KolI8eEwlv0omxdvUGwWU"
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 170242,
       "name": "La chute des anges",
       "url": "https://open.spotify.com/track/7L3OWRDfgdsHtfRi1h2ISf"
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 160075,
       "name": "PHOBOS",
       "url": "https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv"
@@ -2131,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "POUR LES VRAIS",
+        "url": "https://open.spotify.com/album/72vKKMcwCkAlIQQjBBOTB7"
+      },
+      "artists": [
+        {
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
+        },
+        {
+          "name": "Mister You",
+          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "POUR LES VRAIS",
+      "url": "https://open.spotify.com/track/1lVpdD2KG5mrj2pxjkrQ1H"
+    },
+    {
+      "album": {
         "name": "Poussez vous 5",
         "url": "https://open.spotify.com/album/1iDVIDiFOJv4sZhbuiSKOO"
       },
@@ -2172,6 +2216,24 @@
       "duration_ms": 160631,
       "name": "Psychose",
       "url": "https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z"
+    },
+    {
+      "album": {
+        "name": "QI. RAP",
+        "url": "https://open.spotify.com/album/3hYR3wlA63xrFZ0fZxfiEt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170220,
+      "name": "QI. RAP",
+      "url": "https://open.spotify.com/track/2keS8llLDlW3Auh6LFbNrf"
     },
     {
       "album": {
@@ -2463,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9tano\u00efa",
+        "url": "https://open.spotify.com/album/2oPmxZ0QHNV1eQrmL4hFoG"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Trop tard pour hier",
+      "url": "https://open.spotify.com/track/5CjuZbtXEqCVX4wfGBrBaE"
+    },
+    {
+      "album": {
         "name": "Turbulences",
         "url": "https://open.spotify.com/album/6fWRil5uKUeaYp1ab6MOOk"
       },
@@ -2554,6 +2634,24 @@
       "duration_ms": 222000,
       "name": "UNIVERS SONS",
       "url": "https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV"
+    },
+    {
+      "album": {
+        "name": "Reality Check",
+        "url": "https://open.spotify.com/album/3LtLnGXRMzM810bSQX8dP6"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/73Ifh3j4V2PI6R5JNkcIyz"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155244,
+      "name": "Up in smoke",
+      "url": "https://open.spotify.com/track/62bg7v0o81EMp5h2dpMT5a"
     },
     {
       "album": {

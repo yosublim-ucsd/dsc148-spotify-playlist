@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214021,
+      "name": "Cara Bonita",
+      "url": "https://open.spotify.com/track/4WDP5rALWjwTrgQMau3PUE"
+    },
+    {
+      "album": {
         "name": "Castillo De Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH"
       },
@@ -596,7 +614,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 183760,
       "name": "El Maquinista",
       "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"

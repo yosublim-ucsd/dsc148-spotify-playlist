@@ -4,12 +4,13 @@
 
 > De mooiste muziek: Americana \| Country
 
-204 songs - 12 hr 14 min
+205 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2025-02-03 |  |
+| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2025-02-03 | 2025-02-28 |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-11-08 | 2025-02-21 |
+| [About Heartaches And Being Blue](https://open.spotify.com/track/6L9HQyvVHToVbjtXMjJqxw) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [About Heartaches And Being Blue](https://open.spotify.com/album/3br2mgNzpyHDkqpqTyINuG) | 2:33 | 2025-02-27 |  |
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 |  |
 | [All Good](https://open.spotify.com/track/51imPDYWGqCNEA94TsBHhS) | [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [All Good](https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t) | 3:06 | 2024-07-25 | 2025-01-17 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 | 2024-04-19 |

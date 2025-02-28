@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Caelum (Excerpts)",
+        "url": "https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336015,
+      "name": "Caelum, No. I",
+      "url": "https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM"
       },
@@ -1753,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Shards",
+        "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288216,
+      "name": "Heaven Will Come",
+      "url": "https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw"
+    },
+    {
+      "album": {
         "name": "Helicidae",
         "url": "https://open.spotify.com/album/7B8g3dBjoR1j3UHSJBRYlA"
       },
@@ -1764,7 +1800,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 316280,
       "name": "Helicidae",
       "url": "https://open.spotify.com/track/10UtFKrrp7SLBlK2CKJlQP"
@@ -2062,7 +2098,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 167739,
       "name": "I See Your Picture, It's in the Same Old Frame",
       "url": "https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC"
@@ -2834,7 +2870,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 604544,
       "name": "Mend",
       "url": "https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9"
@@ -3326,6 +3362,24 @@
       "duration_ms": 342013,
       "name": "Once",
       "url": "https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w"
+    },
+    {
+      "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344490,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
     },
     {
       "album": {

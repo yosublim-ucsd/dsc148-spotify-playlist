@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Memphis May Fire",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Magnolia Park",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 144533,
       "name": "Blood Red Heart",
       "url": "https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 184417,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
@@ -1694,6 +1694,24 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
+    },
+    {
+      "album": {
+        "name": "dark things",
+        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280776,
+      "name": "dark things",
+      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
     },
     {
       "album": {
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 195320,
       "name": "Don't Let Me Bring You Down",
       "url": "https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI"
@@ -3583,6 +3601,28 @@
     },
     {
       "album": {
+        "name": "Knightclub",
+        "url": "https://open.spotify.com/album/2DctIAyszxWnXk57Zd0V3G"
+      },
+      "artists": [
+        {
+          "name": "Feuerschwanz",
+          "url": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
+        },
+        {
+          "name": "Dag SDP",
+          "url": "https://open.spotify.com/artist/6kEOmftXVjLnvUoSPbcErC"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Knightclub (feat. Dag SDP)",
+      "url": "https://open.spotify.com/track/5dHD9LViydKuis3NGZiFAR"
+    },
+    {
+      "album": {
         "name": "Kool-Aid",
         "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
       },
@@ -4006,7 +4046,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
@@ -4234,7 +4274,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 211786,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4"
@@ -4958,7 +4998,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
@@ -5390,7 +5430,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 254333,
       "name": "Rusty Rose",
       "url": "https://open.spotify.com/track/0kILLfeKtwUP8WXlTEzYHd"
@@ -5686,7 +5726,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 178666,
       "name": "Snowlover",
       "url": "https://open.spotify.com/track/4VnfGYHaTRDEO4Udn3f8C1"
@@ -5929,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226904,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe"
+    },
+    {
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/3ao2YSxNYME3q7hbQgW8Yi"
       },
@@ -6042,6 +6100,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Sweet Cherry Lipgloss",
+        "url": "https://open.spotify.com/album/6vRIBa6Y3J0xFP2gusE9zQ"
+      },
+      "artists": [
+        {
+          "name": "Dews Pegahorn",
+          "url": "https://open.spotify.com/artist/6Ps1VYd6CPGYk96SYPQy08"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137543,
+      "name": "Sweet Cherry Lipgloss",
+      "url": "https://open.spotify.com/track/1qsGsvq1yrgE3yWHnJYmoI"
     },
     {
       "album": {
@@ -6457,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2CTuRe30h0BmwHtKD7e7lV"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/5oXWoQqcLwCGdZtDC7QhOB"
+    },
+    {
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/4gyN1dpfEzQBnSYRBk2NZl"
       },
@@ -6637,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Uno II",
+        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
       },
@@ -6652,6 +6764,24 @@
       "duration_ms": 225891,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/5IAazt3sxyynZLvBzi5gR9"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4DhutNBHQqWZiy8QR2g6g8"
+      },
+      "artists": [
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168625,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/3Y0hjTh9bQW6shXXMWiTx4"
     },
     {
       "album": {
@@ -7028,6 +7158,32 @@
       "duration_ms": 240151,
       "name": "WONDERWaLL - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "PLVTINUM",
+          "url": "https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn"
+        },
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189494,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7IF328weNbUocWsxzosLsB"
     },
     {
       "album": {

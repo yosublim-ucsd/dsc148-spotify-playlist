@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 112974,
+  "num_followers": 112997,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "I Like Your Style",
+        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
+      },
+      "artists": [
+        {
+          "name": "Tony Wilson",
+          "url": "https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "I Like Your Style",
+      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "The Best Of Victor Uwaifo, Vol. 1",
         "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "I Like Your Style",
-        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
-      },
-      "artists": [
-        {
-          "name": "Tony Wilson",
-          "url": "https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "I Like Your Style",
-      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
-        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
       "artists": [
         {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -603,6 +619,26 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
       },
@@ -631,46 +667,6 @@
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Neria",
-        "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
-      },
-      "artists": [
-        {
-          "name": "Oliver Mtukudzi",
-          "url": "https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 357181,
-      "name": "Neria",
-      "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
     }
   ],
   "unique_name": "Classic Afropop",

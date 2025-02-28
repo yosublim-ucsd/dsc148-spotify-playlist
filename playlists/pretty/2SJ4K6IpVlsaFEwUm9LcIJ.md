@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,828 likes - 62 songs - 4 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,835 likes - 62 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [Green Is the Colour of Evil](https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:46 |
 | 55 | [Little Eyes](https://open.spotify.com/track/5pHNCZCt3daiBXs1lWopBS) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 4:22 |
 | 56 | [Art Lovers](https://open.spotify.com/track/2t1432gcPePXsmsZcEc2mp) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 4:57 |
-| 57 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 |
-| 58 | [Knocking \(At Your Door\)](https://open.spotify.com/track/7oy8qkcgc94q1O5Afq8ltH) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY) | [Grand Man](https://open.spotify.com/album/3wm4witKWRXc2nhFMCuwwN) | 3:29 |
+| 57 | [My Autumn's Done Come](https://open.spotify.com/track/4jJGLOYVMAyb5RyVKjQzUr) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 4:06 |
+| 58 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 |
 | 59 | [Late November](https://open.spotify.com/track/16Y0Ubjxap4dcD5elBeFVJ) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The North Star Grassman And The Ravens \(Remastered\)](https://open.spotify.com/album/6svGCFgSQDt8ooH5x0BrD7) | 4:29 |
 | 60 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 |
 | 61 | [The Human Abstract](https://open.spotify.com/track/4nZVh6X19GZwrw9QAbJ4rQ) | [David Axelrod](https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74) | [Songs Of Experience](https://open.spotify.com/album/2tsxt8ECmX83pWhsTilzkZ) | 5:35 |
 | 62 | [The Water Is Wide](https://open.spotify.com/track/46wDI2wGZgW2BrO37OUD5k) | [Fred Neil](https://open.spotify.com/artist/3xmUdkZUQbtMM62XP4nnb6) | [Bleecker And McDougal \(US Release\)](https://open.spotify.com/album/0udQYUvwWS8PC6XGaVAMi0) | 4:18 |
 
-Snapshot ID: `AAAL7Drh4ISSpNY7FNHoJKlZlntAHg0w`
+Snapshot ID: `AAAL8LL1Oddtf7Wz9JvzkfWKiqfopWKc`

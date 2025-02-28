@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-470 songs - 1 day 3 hr 56 min
+471 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [](https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2023-10-05 | 2023-12-14 |
 | [301](https://open.spotify.com/track/5GJBSWrbSZRj0M9yi0nDdS) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC) | 2:49 | 2022-05-24 | 2023-07-22 |
 | [301](https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/2LOKRHhpYOX545H2ISo4jk) | 2:51 | 2023-08-14 | 2024-04-15 |
-| [5 de Septiembre \- Reggaeton Version](https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [En Honor A La Verdad](https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW) | 2:57 | 2022-10-12 |  |
+| [5 de Septiembre \- Reggaeton Version](https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [En Honor A La Verdad](https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW) | 2:57 | 2022-10-12 | 2025-02-28 |
 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 | 2021-12-17 |  |
 | [6 AM](https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 4:03 | 2021-12-17 |  |
 | [A Ti No](https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [La Moda](https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz) | 3:32 | 2021-12-17 |  |
@@ -224,6 +224,7 @@
 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 | 2021-12-17 |  |
 | [Mala y Descarada](https://open.spotify.com/track/0ItvgDqMVPkJ2sYiTCld5l) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [Back to Basics](https://open.spotify.com/album/3jtdZLQVtCIgm7KRugV413) | 3:44 | 2023-12-21 |  |
 | [Maniatica](https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Megahitz Volumen Uno](https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U) | 4:22 | 2022-05-13 |  |
+| [Manicomio](https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Blanco Perla](https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7) | 3:48 | 2025-02-27 |  |
 | [Matador \- Official Remix](https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Jo\-Well](https://open.spotify.com/artist/5XEOUCB6Jv1UGIbpJYIsVr), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Matador \(Official Remix\)](https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq) | 4:32 | 2021-12-17 |  |
 | [Maulla](https://open.spotify.com/track/1ITZAfqLxTVmc8873wdWUG) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-17 | 2022-03-09 |
 | [Mayor que yo](https://open.spotify.com/track/4n4CBlQVxxnU0MHGO5Mqv3) | [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Infinite summer](https://open.spotify.com/album/5jAs6j5Dbpqo1Zr7QcZAoP) | 4:09 | 2021-12-17 | 2022-07-29 |

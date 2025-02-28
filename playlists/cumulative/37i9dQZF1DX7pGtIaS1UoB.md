@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-391 songs - 23 hr 1 min
+392 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-25 | 2024-01-10 |
 | [Mojito](https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:05 | 2024-01-08 | 2024-04-19 |
 | [Morning Coffee](https://open.spotify.com/track/5k2eyrx86Q5f5DFtRvkSvN) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [Morning Coffee](https://open.spotify.com/album/6gnYvMta73slbta2wnJt5Z) | 3:48 | 2023-04-24 | 2023-05-02 |
-| [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 |  |
+| [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 | 2025-02-28 |
 | [My Only](https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [My Only](https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n) | 2:26 | 2022-12-13 | 2023-01-15 |
 | [No One Else but You](https://open.spotify.com/track/4Sj3jeyShkgMwFBqzHrrKy) | [Richard Lim 林耀亮](https://open.spotify.com/artist/7udFRD8aeVyZBuJWnfJmNH), [安映霏](https://open.spotify.com/artist/01TNqVsmC0GF1VTBab9Emr), [罗振宏](https://open.spotify.com/artist/2nbMroXrzyBOJIvJKAYfRG) | [No One Else but You](https://open.spotify.com/album/71UqkCjNLHW5ytfmBWLLfT) | 3:46 | 2023-09-18 | 2023-09-26 |
 | [NOT OVER U](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [NOT OVER U](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-06-06 | 2022-07-20 |
@@ -109,7 +109,7 @@
 | [低頭戰](https://open.spotify.com/track/3PZHvFk65YHEhbXtI5T82Q) | [Amber An](https://open.spotify.com/artist/3a5LC9P4JzYWSWo6npWQsw), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [低頭戰](https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4) | 3:22 | 2022-06-06 | 2022-06-13 |
 | [住進你心窩](https://open.spotify.com/track/2dlgLXOZ4dLxOzQPEnjCV5) | [艾成](https://open.spotify.com/artist/2I8PVhkliy7HQXjblxm15w), [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY), [謝俊奇](https://open.spotify.com/artist/2YH8D70CBnOGuDegklDuLK) | [艾成的異想世界](https://open.spotify.com/album/2sl0Yv2sW69M9IavFZfczJ) | 3:49 | 2022-07-04 | 2022-07-29 |
 | [余生都是妳](https://open.spotify.com/track/2QlQ3Pjd5wtYefrnAiHxzl) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [余生都是妳](https://open.spotify.com/album/1BK4cdw3TyPvsh3QOYw9Os) | 3:00 | 2022-06-13 | 2022-08-22 |
-| [你怎么这么可爱 \- Cuteless Chinese Ver.](https://open.spotify.com/track/4lkxDCAllvyqoVhIL4dFzS) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [你怎么这么可爱 \(Cuteless Chinese Ver.\)](https://open.spotify.com/album/3XvPJaChO6sl1x5aMkhqo4) | 3:45 | 2025-02-20 |  |
+| [你怎么这么可爱 \- Cuteless Chinese Ver.](https://open.spotify.com/track/4lkxDCAllvyqoVhIL4dFzS) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [你怎么这么可爱 \(Cuteless Chinese Ver.\)](https://open.spotify.com/album/3XvPJaChO6sl1x5aMkhqo4) | 3:45 | 2025-02-20 | 2025-02-28 |
 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 | 2023-05-08 | 2024-04-19 |
 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 | 2022-08-08 | 2023-05-01 |
 | [你是我的](https://open.spotify.com/track/4dMEzt1ZkFJfHBwcnsHFFi) | [楊勝賢](https://open.spotify.com/artist/1eItrtndbxAuqzQozWCcx0) | [你是我的](https://open.spotify.com/album/3vi6ZO0VmjAiwuyqfkWC6q) | 3:06 | 2024-09-26 | 2024-10-04 |
@@ -128,6 +128,7 @@
 | [偷偷喜歡你](https://open.spotify.com/track/15zmD6lAuAXhT3OsehC8PP) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [偷偷喜歡你](https://open.spotify.com/album/15yMOiTpsvhzObXjrOIh8V) | 3:13 | 2023-07-03 | 2023-07-18 |
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 | 2024-03-04 |  |
+| [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 | 2025-02-27 |  |
 | [像極了愛情](https://open.spotify.com/track/5pUZgW1mHL2BDO7alkxmJM) | [ZouHaoHao](https://open.spotify.com/artist/1nTcm5zOf9aYf7jYmmJStI) | [像極了愛情](https://open.spotify.com/album/4Tbw7aEOvvTyESuHvcwOKK) | 3:23 | 2022-06-06 | 2022-07-21 |
 | [億點點](https://open.spotify.com/track/3gXfPCQRNtS9r2i9W3cvxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [謝慧嫻 Stella](https://open.spotify.com/artist/4LZDii3NkICtWotw25Pt4i) | [億點點](https://open.spotify.com/album/5CCCFBeZXAX3xRgssdX3aC) | 3:08 | 2024-09-12 | 2024-10-10 |
 | [全糖生活](https://open.spotify.com/track/2MarMkhBQ2OGMHViXAoKrx) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [全糖生活](https://open.spotify.com/album/0TEobWuNXXSeQv96V5mcvT) | 2:57 | 2024-01-15 | 2024-01-29 |
@@ -168,7 +169,7 @@
 | [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 | 2023-02-02 |
 | [天气预报](https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA) | 2:51 | 2023-02-27 | 2023-09-06 |
 | [天生一對](https://open.spotify.com/track/2zHy0qGu8LmpG7EHP2QzkB) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [天生一對](https://open.spotify.com/album/5uSx00qbtn0iZbyM44YXYY) | 4:03 | 2022-06-06 | 2022-07-29 |
-| [太陽陪著行星](https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [太陽陪著行星](https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x) | 3:52 | 2024-08-01 | 2025-02-02 |
+| [太陽陪著行星](https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [太陽陪著行星](https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x) | 3:52 | 2024-08-01 |  |
 | [奔向銀河的你（影視劇《帥哥不可以》片頭曲）](https://open.spotify.com/track/1MkX5Vhmh8fhIUrrDJircX) | [周典奧](https://open.spotify.com/artist/26uSxVELbbHUxtypLCCYfi) | [奔向銀河的你（影視劇《帥哥不可以》片頭曲）](https://open.spotify.com/album/4OXuHRWVrUQgh7xk7asNhO) | 3:23 | 2024-05-27 | 2024-06-01 |
 | [女孩戀愛手冊 HER GUIDE TO LOVE](https://open.spotify.com/track/5lRc8AABPG4lLEvNy3SBWR) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [女孩戀愛手冊 HER GUIDE TO LOVE](https://open.spotify.com/album/0NLXJUsmTyWRahb7lchwX8) | 2:45 | 2024-06-06 | 2024-09-09 |
 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 | 2022-06-20 |  |

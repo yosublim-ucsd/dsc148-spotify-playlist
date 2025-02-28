@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139975,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
+    },
+    {
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/7vxybNjAJQTUExJvdpLHL7"
       },
@@ -8940,6 +8958,28 @@
       "duration_ms": 143951,
       "name": "F\u00d6R FULL - Remix",
       "url": "https://open.spotify.com/track/2MurpDQ5YAbTI24VEC2xam"
+    },
+    {
+      "album": {
+        "name": "F\u00d6R M\u00c5NGA (J.O.X Remix)",
+        "url": "https://open.spotify.com/album/2AtlwClAGoZZcI8KeEtZi0"
+      },
+      "artists": [
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136423,
+      "name": "F\u00d6R M\u00c5NGA - J.O.X Remix",
+      "url": "https://open.spotify.com/track/7vgyhPqAyksdtIsiVVA2ew"
     },
     {
       "album": {
@@ -19174,7 +19214,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 129000,
       "name": "RAGGARE IKV\u00c4LL",
       "url": "https://open.spotify.com/track/2eyf4DxKR4C953qsslVmgy"
@@ -20268,6 +20308,24 @@
       "duration_ms": 136216,
       "name": "RULLAR IN",
       "url": "https://open.spotify.com/track/0ktEsvvcUdZoupi1EUS9KL"
+    },
+    {
+      "album": {
+        "name": "RUNKA P\u00c5",
+        "url": "https://open.spotify.com/album/7qkFu60K5I40CsRkJaXdRa"
+      },
+      "artists": [
+        {
+          "name": "FL\u00c4DERPOJKARNA",
+          "url": "https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137294,
+      "name": "RUNKA P\u00c5",
+      "url": "https://open.spotify.com/track/22PyOVUzE9IJdaE4PH5CL5"
     },
     {
       "album": {
@@ -21576,7 +21634,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 110400,
       "name": "SK\u00c5L",
       "url": "https://open.spotify.com/track/3yDORR5PhoKA4qiCQgj2pG"
@@ -25165,6 +25223,24 @@
     },
     {
       "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/3QHIj8sjynVEGPX5ZjeQme"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142874,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/5inSBp35LuAbMdW5KnkaKd"
+    },
+    {
+      "album": {
         "name": "TRAKTEN TILL EPAN (feat 1.Cuz & FR\u00d6KEN SNUSK)",
         "url": "https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa"
       },
@@ -26520,7 +26596,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 133161,
       "name": "VI SJUNGER SK\u00c5L D\u00c5!",
       "url": "https://open.spotify.com/track/5zO8X42cDpL6ANOI6ZOYsS"

@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-224 songs - 10 hr 55 min
+225 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Agenda Rabiscada / Desatino \(Nois É Peão\) \- Ao Vivo](https://open.spotify.com/track/5mzgepnoUd2J17edCga3cs) | [Mazzo e Gabriel](https://open.spotify.com/artist/0JZ820wwYkeKfjE7eMxyaI) | [Agenda Rabiscada / Desatino \(Nois É Peão\) \[Ao Vivo\]](https://open.spotify.com/album/4ejfQN8bJEPkL7H67XCpTm) | 2:43 | 2024-06-28 | 2024-07-27 |
 | [Amor Daqueles \- Ao Vivo](https://open.spotify.com/track/5CYhQlbkRo8hemyBRJ561P) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Amor Daqueles \(Ao Vivo\)](https://open.spotify.com/album/7qNLibF76DlJMcrRTNPwz8) | 2:53 | 2024-12-13 |  |
 | [Amor do Meu Cachorro](https://open.spotify.com/track/7LmLCVbeQAFYUizcCQlffM) | [Estefany e Gabriely](https://open.spotify.com/artist/7014uj8VlLNRuVxi17VobB), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Amor do Meu Cachorro](https://open.spotify.com/album/3Udr83epOI6oWtxcALxFE9) | 2:35 | 2024-11-22 |  |
+| [Ana \- Ao Vivo](https://open.spotify.com/track/6bLe02oNRJQyBPkM8x2hYT) | [Anna Toledo](https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj), [Henrique Casttro](https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK) | [Ana \(Ao Vivo\)](https://open.spotify.com/album/0Q8ccN6Q8593aZOIvWpd0X) | 2:56 | 2025-02-28 |  |
 | [Antes da Briga \- Live](https://open.spotify.com/track/1rd42CV4BeIQnk9sZqYimj) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Antes da Briga \(Live\)](https://open.spotify.com/album/7c34YZvNG1V8QsomzyeOAu) | 2:25 | 2024-10-25 |  |
 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 | 2024-06-28 | 2024-10-26 |
 | [Aquela Boca](https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Aquela Boca](https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd) | 2:44 | 2024-08-02 | 2024-12-13 |

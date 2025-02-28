@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Serøtonin
+> New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-1,182 songs - 2 day 8 hr 54 min
+1,185 songs - 2 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Bonjour](https://open.spotify.com/track/0BkYNFe23cGq7herskna5k) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour](https://open.spotify.com/album/2OHIWGJpTUKx5WuEhJ2QoO) | 3:39 | 2024-11-29 |  |
 | [Boogie Down](https://open.spotify.com/track/6NQ2z6g3eXqqgmlM3Y79fk) | [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [Boogie Down](https://open.spotify.com/album/4V9RzFCnX5nnR2gv00fKmu) | 2:44 | 2022-12-08 | 2023-05-12 |
 | [BOOGIEBANGO](https://open.spotify.com/track/6X3QrYjtH0hjQSTzA9Tkd9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [BOOGIEBANGO](https://open.spotify.com/album/2NHrw7deukBpX1wF81nZ1M) | 2:29 | 2023-07-14 | 2023-10-27 |
+| [Bossa Nova](https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Bossa Nova](https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR) | 3:15 | 2025-02-28 |  |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-16 | 2023-02-24 |
 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 | 2024-10-25 |  |
 | [Braids](https://open.spotify.com/track/482tB4gtpuW8ObJNQI0BXP) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Braids](https://open.spotify.com/album/3HVSOK0ei8azFlyowLimxb) | 2:19 | 2024-06-14 | 2024-07-27 |
@@ -594,6 +595,7 @@
 | [Loner](https://open.spotify.com/track/3RPgxXb9RopRs3OoQN6cN6) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hargoi](https://open.spotify.com/artist/5EKMO9ebgUrSybptTbz4TD) | [Loner](https://open.spotify.com/album/6VIQgfoeJCFDQgsbeTaWPB) | 3:13 | 2024-04-19 | 2024-06-01 |
 | [Lose My Mind](https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Lose My Mind](https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E) | 3:31 | 2025-01-31 |  |
 | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 | 2025-01-17 |  |
+| [Lost](https://open.spotify.com/track/3zRzwveWZimcIXck96oqcr) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Lost](https://open.spotify.com/album/2bKhMLrApxroMa3x8ry236) | 2:55 | 2025-02-28 |  |
 | [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-15 | 2023-07-14 |
 | [Lost Love](https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF) | [Akwasi Sage](https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je) | [Lost Love](https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd) | 2:43 | 2024-07-26 | 2024-08-30 |
 | [LOTDF](https://open.spotify.com/track/5lDAysaKeH4QWcjrsjHCrP) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [LOTDF & TRUTH](https://open.spotify.com/album/55fXp59Q6qa9nAA2GqZ2wt) | 2:05 | 2024-08-02 | 2024-10-26 |
@@ -816,6 +818,7 @@
 | [Pearls](https://open.spotify.com/track/5R9nzCz233Wh8BKfk0u8NI) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Angel Waves \(soundtrack\)](https://open.spotify.com/album/5oyP3NZio2wOW31SHCxSzM) | 2:45 | 2024-11-22 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 | 2023-03-25 |
 | [Peperomia](https://open.spotify.com/track/5VvTAowsgsx2pbN1nIpH0D) | [JCOOLVIBES](https://open.spotify.com/artist/2P6gg6q6eTQl5XlcaD20kg) | [Peperomia](https://open.spotify.com/album/1swA84rymPgftRUsZeGbCR) | 2:40 | 2023-11-17 | 2023-11-24 |
+| [Pepper Demm](https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Demm](https://open.spotify.com/album/6bZNNrCzbcozLN1ZSCIfS3) | 2:34 | 2025-02-28 |  |
 | [Perception](https://open.spotify.com/track/3GRcOZw7VBpTA9iReVjmYF) | [Delasi](https://open.spotify.com/artist/6qeWbpcQrSt9tQRWACjfQ0) | [Perception](https://open.spotify.com/album/791Swwkb7vtPTTR7wjUjeE) | 5:45 | 2023-11-17 | 2024-01-05 |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-03 | 2024-01-26 |
 | [Perfect for You](https://open.spotify.com/track/0eT2eNReYnqqwmBpnNkLV8) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk), [Waye](https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v) | [Perfect for You](https://open.spotify.com/album/52q1z24xP20oeiQWUR1Cav) | 3:03 | 2022-09-29 | 2022-11-04 |

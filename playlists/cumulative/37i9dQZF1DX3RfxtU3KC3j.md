@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Paptircem x Batu Akdeniz
 
-240 songs - 14 hr 13 min
+242 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 | 2024-08-29 | 2024-09-20 |
 | [Benimsin](https://open.spotify.com/track/3sc0nBBYQRPMUXdmPRAry5) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Benimsin](https://open.spotify.com/album/1InJ2mXgyAnxGJUk1NWQpX) | 2:51 | 2024-12-19 |  |
 | [Beteri Yok Uslanmaktan \- Stüdyodan, Canlı](https://open.spotify.com/track/2LbTg0TTPdoSNeEzkqhcIj) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Beteri Yok Uslanmaktan \(Stüdyodan, Canlı\)](https://open.spotify.com/album/2EnIYbLV8Vp2yck7KHLdQy) | 3:15 | 2024-12-12 | 2025-02-14 |
+| [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 | 2025-02-27 |  |
 | [Biliyorsun](https://open.spotify.com/track/5qdtL7xVn7V7AoxhMjM1R2) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Biliyorsun](https://open.spotify.com/album/1vstdK2thDKrgToZO3IBOb) | 3:49 | 2024-09-26 |  |
 | [Bir Bilsen](https://open.spotify.com/track/77yV85MSaJ7JTfrvjpTJBl) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Bir Bilsen](https://open.spotify.com/album/7cqENT2shjkWtDPofTgPCJ) | 4:39 | 2024-12-19 |  |
 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2024-10-03 |  |
@@ -117,7 +118,7 @@
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-06-28 | 2025-01-31 |
 | [İleri](https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [İleri](https://open.spotify.com/album/7mlUMr8dKwPr6PzCuBvDpA) | 2:56 | 2024-07-18 | 2024-08-16 |
 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 | 2024-12-12 |  |
-| [İnci Tanesi](https://open.spotify.com/track/24Xrjpc9VQ2YZeiev7P2Wb) | [Şekersiz](https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf) | [İnci Tanesi](https://open.spotify.com/album/5B3RB52CnkIpnS4rrfcD4C) | 3:13 | 2025-02-13 |  |
+| [İnci Tanesi](https://open.spotify.com/track/24Xrjpc9VQ2YZeiev7P2Wb) | [Şekersiz](https://open.spotify.com/artist/1vMWLVjfrmItWSB4hP1eYf) | [İnci Tanesi](https://open.spotify.com/album/5B3RB52CnkIpnS4rrfcD4C) | 3:13 | 2025-02-13 | 2025-02-28 |
 | [İnziva](https://open.spotify.com/track/6xdWnfLHKxhJQYaZn21I21) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [İnziva](https://open.spotify.com/album/19yKkXLvEJ64VaPkCJ92Of) | 4:20 | 2024-09-12 | 2024-10-04 |
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-10-23 |
 | [İstemeyerek](https://open.spotify.com/track/1kFjcKvK9dMRdk4PpAAUmR) | [Serdar Ateşer](https://open.spotify.com/artist/3n6Xy24xiyMnwRpFZYqAPD) | [Avdet Seyri](https://open.spotify.com/album/16LIGZdu9lyO6FeV3gM9HJ) | 4:38 | 2024-10-22 | 2024-11-08 |
@@ -222,9 +223,10 @@
 | [Yaz Şarkısı](https://open.spotify.com/track/1oXMrxAVnXhqTpqOXU8hC0) | [melih](https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1) | [Yaz Şarkısı](https://open.spotify.com/album/3er5EddTFMRK2mrKuEeDpZ) | 3:03 | 2024-09-12 | 2024-09-27 |
 | [Yağmur 2025](https://open.spotify.com/track/55hx5GvZW7wZqzG4th66RV) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Yağmur 2025](https://open.spotify.com/album/72uUhhsVTJkJxkuiEl3bOZ) | 3:31 | 2025-01-16 | 2025-02-07 |
 | [Yaşayamam Bu Benle](https://open.spotify.com/track/2OC7TDRpQDfWgo9IEBG807) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Yaşayamam Bu Benle](https://open.spotify.com/album/1dxmUVPcMQwPFWLfAP9aRM) | 3:35 | 2024-06-28 |  |
-| [YBG](https://open.spotify.com/track/0yzknXQCyC7HQ1VYbYcg21) | [You May Kiss The Bride](https://open.spotify.com/artist/2j935hNGbojPT0ye7Uaazj) | [YBG](https://open.spotify.com/album/5liW1kIqdQEiIvaE6SzhvC) | 3:25 | 2025-02-13 |  |
+| [YBG](https://open.spotify.com/track/0yzknXQCyC7HQ1VYbYcg21) | [You May Kiss The Bride](https://open.spotify.com/artist/2j935hNGbojPT0ye7Uaazj) | [YBG](https://open.spotify.com/album/5liW1kIqdQEiIvaE6SzhvC) | 3:25 | 2025-02-13 | 2025-02-28 |
 | [Yerlerdeyim](https://open.spotify.com/track/36XvQFoo2dTSbwawPjO0c6) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Yerlerdeyim](https://open.spotify.com/album/0CrUw1BKM8SHtrsIMnm8Sp) | 3:43 | 2025-02-20 |  |
 | [Yine Sev Diyemem](https://open.spotify.com/track/027QueXikc6hen5DyuOhw2) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Yine Sev Diyemem](https://open.spotify.com/album/4iJ9li7MMjbzaueRIpmAgh) | 2:57 | 2024-09-05 | 2024-10-18 |
+| [Yol](https://open.spotify.com/track/3bbpdRTMYXQK4MHlBrCqXC) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sana Yazmadığım Şarkılar](https://open.spotify.com/album/2Dbpe6mOnryH6QPIOr7csE) | 2:54 | 2025-02-27 |  |
 | [Yollar](https://open.spotify.com/track/7CYXlahu5er53mmOaUrYV7) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Uyanmadan Önce](https://open.spotify.com/album/6VI6SCC4gMkWx81ocTNYFy) | 3:52 | 2024-11-21 |  |
 | [Yolumun Üstünde](https://open.spotify.com/track/23PhLdbX4EfZhgub2BMYrH) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Yolumun Üstünde](https://open.spotify.com/album/4m6NTfHCNXWSjZIBgzuDM0) | 3:50 | 2025-01-02 |  |
 | [Yolun Sonunda \(Garage Version\)](https://open.spotify.com/track/0JLWzcvxkN3O0BypdTMU8d) | [The Ringo Jets](https://open.spotify.com/artist/5FhnxR08tvAO0f4ixh3VFD) | [Shed My Skin](https://open.spotify.com/album/3T0NQi71TLXEEgBmdtZHkQ) | 3:22 | 2024-12-12 | 2025-01-10 |

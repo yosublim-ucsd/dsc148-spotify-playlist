@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Sut\u00e9 Iwar",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Braye",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -2270,6 +2270,24 @@
       "duration_ms": 120774,
       "name": "BornAloneD!eAlone",
       "url": "https://open.spotify.com/track/2kOsUzjJ7wQKbnfdMTo0Lg"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bossa Nova",
+      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
     },
     {
       "album": {
@@ -5495,6 +5513,36 @@
     },
     {
       "album": {
+        "name": "Subaru Live Radio",
+        "url": "https://open.spotify.com/album/3OyVFo9DMVVT2J1w4HwWnx"
+      },
+      "artists": [
+        {
+          "name": "Subaru Live Radio",
+          "url": "https://open.spotify.com/artist/0qb8N71Uumnti0NYwRCXv4"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Ravington",
+          "url": "https://open.spotify.com/artist/5toMJY8OHE9np3f4Hh0wCy"
+        },
+        {
+          "name": "T6lu",
+          "url": "https://open.spotify.com/artist/0NuyKVdlT2wpg1Dsd7pa8s"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125940,
+      "name": "Gates of Heaven",
+      "url": "https://open.spotify.com/track/3CM2LE1CI0fLKrnmXTviYw"
+    },
+    {
+      "album": {
         "name": "Gateway Drug",
         "url": "https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1"
       },
@@ -6004,7 +6052,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 126993,
       "name": "Hardest Babe",
       "url": "https://open.spotify.com/track/645fiSovmhWhotSv00WcHT"
@@ -6136,6 +6184,24 @@
       "duration_ms": 176000,
       "name": "Hear My Sound",
       "url": "https://open.spotify.com/track/2vCndumgGW5m8Bi16Y3mNg"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/2Pi2ZiUR6koGI6a5yZO9oO"
+      },
+      "artists": [
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146689,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/5yX2b0p2F3JuTmGqbwz29o"
     },
     {
       "album": {
@@ -6340,7 +6406,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 164819,
       "name": "Higher Self",
       "url": "https://open.spotify.com/track/2w4VBVPUyvtCccouC1oMZB"
@@ -15022,7 +15088,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 137142,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7GNEUqWco6aMGNgIlwUqID"

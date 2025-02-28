@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Metalero",
+        "url": "https://open.spotify.com/album/55aqfVZQmIGFN7lOglZgaB"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208628,
+      "name": "Metalero",
+      "url": "https://open.spotify.com/track/2NjWjoVZ20JvL6GqKvdQTC"
+    },
+    {
+      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -4474,6 +4492,28 @@
       "duration_ms": 223692,
       "name": "R\u00edos de Lava",
       "url": "https://open.spotify.com/track/0f70fllnpYQJlADzm3dkEX"
+    },
+    {
+      "album": {
+        "name": "Sabias Palabras",
+        "url": "https://open.spotify.com/album/5wde6HXV4RkeebjSBc8mqR"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        },
+        {
+          "name": "Las Paritarias",
+          "url": "https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234275,
+      "name": "Sabias Palabras",
+      "url": "https://open.spotify.com/track/2FejLYSy4vtLAEkmw0gVtk"
     },
     {
       "album": {
@@ -5336,7 +5376,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "CURIOUS",
+        "url": "https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191093,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl"
+    },
+    {
+      "album": {
         "name": "Between Us (The Experience)",
         "url": "https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4"
       },

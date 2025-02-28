@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 145230,
+  "num_followers": 145381,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u2gAAAAAA4YpGd2qLsw1mpuaR5NKKO",
+  "snapshot_id": "Z75ZgAAAAACcdLy9UnCYQodxEPH5S3+f",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELIO and Friends : The Remixes",
-        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
+        "name": "Number 1 Angel",
+        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
       "artists": [
         {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        },
-        {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         }
       ],
-      "duration_ms": 147368,
-      "name": "CHARGER (ft. Charli XCX)",
-      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
+      "duration_ms": 234755,
+      "name": "Lipgloss (feat. CupcakKe)",
+      "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number 1 Angel",
-        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
+        "name": "ELIO and Friends : The Remixes",
+        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         },
         {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 234755,
-      "name": "Lipgloss (feat. CupcakKe)",
-      "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
+      "duration_ms": 147368,
+      "name": "CHARGER (ft. Charli XCX)",
+      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
     },
     {
       "added_at": null,

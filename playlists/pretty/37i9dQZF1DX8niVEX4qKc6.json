@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 189288,
+  "num_followers": 189299,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 295160,
       "name": "Un Pacto - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Chau",
-        "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 320656,
-      "name": "Chau",
-      "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -395,18 +391,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
-        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+        "name": "Chau",
+        "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 179393,
-      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
-      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+      "duration_ms": 320656,
+      "name": "Chau",
+      "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -487,18 +487,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
       },
       "artists": [
         {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
         }
       ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "La Otra Dimensi\u00f3n",
-        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 320600,
-      "name": "El Tesoro - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 320600,
+      "name": "El Tesoro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "TORMENTA",
-        "url": "https://open.spotify.com/album/0foNLXCfKnc7TBU4HO7fYr"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "TORMENTA",
-      "url": "https://open.spotify.com/track/1dYoXlC0FbzBfAZsv9xElo"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "TORMENTA",
+        "url": "https://open.spotify.com/album/0foNLXCfKnc7TBU4HO7fYr"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "TORMENTA",
+      "url": "https://open.spotify.com/track/1dYoXlC0FbzBfAZsv9xElo"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Amado M\u00edo (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 144425,
-      "name": "Amado M\u00edo (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Amado M\u00edo (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 144425,
+      "name": "Amado M\u00edo (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Se Vos",
-        "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Pedro Rossi",
-          "url": "https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC"
-        }
-      ],
-      "duration_ms": 276252,
-      "name": "Se Vos",
-      "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Celesteacustica",
         "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Se Vos",
+        "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Pedro Rossi",
+          "url": "https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC"
+        }
+      ],
+      "duration_ms": 276252,
+      "name": "Se Vos",
+      "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "A la deriva",
-        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
-      },
-      "artists": [
-        {
-          "name": "Pablo Joaqu\u00edn",
-          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
-        },
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 186597,
-      "name": "A la deriva",
-      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Amor de Barricada",
         "url": "https://open.spotify.com/album/3KC3ZRq7ZDwFwjnMx3hTK1"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "A la deriva",
+        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
+      },
+      "artists": [
+        {
+          "name": "Pablo Joaqu\u00edn",
+          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+        },
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 186597,
+      "name": "A la deriva",
+      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Nada Mas Que Vos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 182241,
-      "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 245373,
       "name": "Love Song - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Nada Mas Que Vos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 182241,
+      "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

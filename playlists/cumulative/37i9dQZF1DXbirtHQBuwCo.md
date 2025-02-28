@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Mirae\(미래\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: JAEHA\(재하\)\)
 
 801 songs - 1 day 18 hr 35 min
 

@@ -559,8 +559,8 @@
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
-        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
         }
       ],
-      "duration_ms": 267013,
-      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
+      "duration_ms": 300493,
+      "name": "\u5e78\u305b\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
     },
     {
       "added_at": "2024-11-28 15:00:00",
@@ -667,8 +667,8 @@
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
       },
       "artists": [
         {
@@ -676,33 +676,25 @@
           "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
         }
       ],
-      "duration_ms": 300493,
-      "name": "\u5e78\u305b\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
+      "duration_ms": 267013,
+      "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
     },
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
-        "name": "Unfoggy Sight",
-        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
       },
       "artists": [
         {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        },
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
         }
       ],
-      "duration_ms": 260560,
-      "name": "Unfoggy Sight",
-      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
+      "duration_ms": 258385,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
     },
     {
       "added_at": "2024-11-28 15:00:00",
@@ -755,18 +747,26 @@
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "Unfoggy Sight",
+        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
       },
       "artists": [
         {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
         }
       ],
-      "duration_ms": 251520,
-      "name": "Risky\u306a\u5f7c\u5973",
-      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
+      "duration_ms": 260560,
+      "name": "Unfoggy Sight",
+      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
     },
     {
       "added_at": "2024-11-28 15:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
       "artists": [
         {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
         }
       ],
-      "duration_ms": 258385,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
+      "duration_ms": 251520,
+      "name": "Risky\u306a\u5f7c\u5973",
+      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
     },
     {
       "added_at": "2024-11-28 15:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-28 15:00:00",
       "album": {
+        "name": "Four Leaf Ring",
+        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        }
+      ],
+      "duration_ms": 267146,
+      "name": "Four Leaf Ring",
+      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
+    },
+    {
+      "added_at": "2024-11-28 15:00:00",
+      "album": {
         "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
         "url": "https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 324607,
       "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY"
-    },
-    {
-      "added_at": "2024-11-28 15:00:00",
-      "album": {
-        "name": "Four Leaf Ring",
-        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
-      },
-      "artists": [
-        {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
-        }
-      ],
-      "duration_ms": 267146,
-      "name": "Four Leaf Ring",
-      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
     },
     {
       "added_at": "2024-11-28 15:00:00",

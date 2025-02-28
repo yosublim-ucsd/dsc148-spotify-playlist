@@ -714,7 +714,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 234000,
       "name": "Azaad",
       "url": "https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn"
@@ -6492,6 +6492,32 @@
       "duration_ms": 151176,
       "name": "Nazar Na Lage",
       "url": "https://open.spotify.com/track/0AQmKOQ3efDoyXRqsIXYRH"
+    },
+    {
+      "album": {
+        "name": "Nazar Se Baat Karlena",
+        "url": "https://open.spotify.com/album/3KhEUynBxmut2zzcF138FV"
+      },
+      "artists": [
+        {
+          "name": "Anmol Malik",
+          "url": "https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Azeem Shirazi",
+          "url": "https://open.spotify.com/artist/09pOWiheDJ64OnXW62EhvI"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Nazar Se Baat Karlena",
+      "url": "https://open.spotify.com/track/2Q9P2x7Ve7XW0lGFI0nH3R"
     },
     {
       "album": {

@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "damn, look at the view !",
+        "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110785,
+      "name": "damn, look at the view !",
+      "url": "https://open.spotify.com/track/246gIi3P5IlEAmaR8bE3bL"
+    },
+    {
+      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -641,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "My Best Friend Needs",
+      "url": "https://open.spotify.com/track/460fiLttrlcZYSfc7c7Uus"
+    },
+    {
+      "album": {
         "name": "Too Bright",
         "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
       },
@@ -710,6 +746,24 @@
       "duration_ms": 154386,
       "name": "Never Want to Leave",
       "url": "https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0rAJIWMYuKwRVMYPgbCov6"
+      },
+      "artists": [
+        {
+          "name": "Stuart Hamblen",
+          "url": "https://open.spotify.com/artist/7n8QNNHYcQZwQFzQNNVmwj"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Open Up Your Heart (And Let The Sun Shine In)",
+      "url": "https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5"
     },
     {
       "album": {
@@ -1050,6 +1104,24 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100266,
+      "name": "The Elevator",
+      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
     },
     {
       "album": {

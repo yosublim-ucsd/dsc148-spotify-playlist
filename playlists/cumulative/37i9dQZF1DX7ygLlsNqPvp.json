@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Jay Bahd",
+  "description": "The most intense local drill music firing up the continent. Cover:  Reggie",
   "name": "Asakaa",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 195093,
       "name": "Awoyo Sofo",
       "url": "https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K"
@@ -1425,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210644,
+      "name": "Council Flat (Feat. Jay Bahd)",
+      "url": "https://open.spotify.com/track/76bZKPxfgrJtcwEZi7Wdbj"
+    },
+    {
+      "album": {
         "name": "Daakye",
         "url": "https://open.spotify.com/album/5YCNI7m6CQt8zzGovlQakC"
       },
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 205096,
       "name": "FIE NIPA",
       "url": "https://open.spotify.com/track/7tylh3NIGSBKwgSEjZ3NfC"
@@ -1919,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "For The Streetz",
+        "url": "https://open.spotify.com/album/3ue4vYiExwOP9VvpipbTJS"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142172,
+      "name": "For The Streetz",
+      "url": "https://open.spotify.com/track/1gS2JFbUnIGwzPAZAx7CaG"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi"
       },
@@ -1967,6 +2007,32 @@
     },
     {
       "album": {
+        "name": "FREEEE (feat. Lil Skid & Bosom P-Yung)",
+        "url": "https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp"
+      },
+      "artists": [
+        {
+          "name": "FREE THE YOUTH",
+          "url": "https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui"
+        },
+        {
+          "name": "Lil Skid",
+          "url": "https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179072,
+      "name": "FREEEE (feat. Lil Skid & Bosom P-Yung)",
+      "url": "https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY"
+    },
+    {
+      "album": {
         "name": "Bar 6",
         "url": "https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb"
       },
@@ -2008,6 +2074,28 @@
       "duration_ms": 276410,
       "name": "Frodo Baggins",
       "url": "https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo"
+    },
+    {
+      "album": {
+        "name": "Gagging",
+        "url": "https://open.spotify.com/album/3TmImBXEyLpj4fSP81HAX8"
+      },
+      "artists": [
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180431,
+      "name": "Gagging",
+      "url": "https://open.spotify.com/track/13MdYCDGb9vSdgrYeF77Kv"
     },
     {
       "album": {
@@ -2098,7 +2186,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 152480,
       "name": "Ghana Girl (Asakaa Mix)",
       "url": "https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA"
@@ -2527,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "ISHOWSLIME",
+        "url": "https://open.spotify.com/album/2SBgt9ehUfaIJof7h9oLzz"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145037,
+      "name": "ISHOWSLIME",
+      "url": "https://open.spotify.com/track/5Z9Ykm3nBlE5aRWEhY0eD5"
+    },
+    {
+      "album": {
         "name": "It's not over",
         "url": "https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX"
       },
@@ -2574,7 +2680,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 137183,
       "name": "KABUTEY FLOW",
       "url": "https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY"
@@ -2838,7 +2944,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 155204,
       "name": "Lavida Loca",
       "url": "https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg"
@@ -3894,7 +4000,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 140307,
       "name": "Okomfo Anokye",
       "url": "https://open.spotify.com/track/26YmQEOPgWdmy7qFCyHkET"
@@ -4252,6 +4358,42 @@
       "duration_ms": 172173,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139676,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF"
+    },
+    {
+      "album": {
+        "name": "Realest",
+        "url": "https://open.spotify.com/album/64qM0Ulp6jyKd9zroh7crz"
+      },
+      "artists": [
+        {
+          "name": "Slim Drumz",
+          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217182,
+      "name": "Realest",
+      "url": "https://open.spotify.com/track/1sUUwtbL9A4edhaThMUboc"
     },
     {
       "album": {
@@ -4925,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "The Big 6",
+        "url": "https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221587,
+      "name": "Tesco (Feat. Medikal)",
+      "url": "https://open.spotify.com/track/446yWd379q3bDzKbXyZ7UO"
+    },
+    {
+      "album": {
         "name": "The One that Got Away",
         "url": "https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe"
       },
@@ -5300,7 +5464,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 192887,
       "name": "We Paid",
       "url": "https://open.spotify.com/track/0O3WLUlUFXFHaGBE95Phwo"
@@ -5492,10 +5656,28 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-28",
       "duration_ms": 232106,
       "name": "Yesu",
       "url": "https://open.spotify.com/track/20a7Vi2E3huh83U2FwT6hW"
+    },
+    {
+      "album": {
+        "name": "Yipi Yoo",
+        "url": "https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156922,
+      "name": "Yipi Yoo",
+      "url": "https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs"
     },
     {
       "album": {

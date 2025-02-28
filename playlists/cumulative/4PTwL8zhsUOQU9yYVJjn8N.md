@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/4PTwL8zhsUOQU9yYVJjn8N.md) - cumulative - [plain](/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N)
 
-### [Kittydog \- All songs that I could find that include kittydog!](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
+### [007 𓏵 All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> Oldest to Newest!!!!1 &\#x2F;&\#x2F; yes i update as fast as i can
+> 
 
 174 songs - 5 hr 30 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,595 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,623 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Sitalia Tena](https://open.spotify.com/track/6jqIBx1x8iiaGliPsqXsJM) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Sitalia Tena](https://open.spotify.com/album/53Vx8y821d9Wrawn02xr7G) | 3:07 |
 | 100 | [Mimi Ni Wa Mungu](https://open.spotify.com/track/30bZJE9rGEjQIb2eWYbZBx) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Mimi Ni Wa Mungu](https://open.spotify.com/album/740ujjyVeY1jIXqUcB3iGq) | 3:10 |
 
-Snapshot ID: `Z7fCWQAAAAC7JJqa12R3+c6KfjjKTDIq`
+Snapshot ID: `Z8D83QAAAACA0Wr8hvdrYuM0s2RIQYNn`

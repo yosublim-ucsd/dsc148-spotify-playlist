@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-387 songs - 22 hr 58 min
+389 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Lover/Friend](https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD) | 3:32 | 2024-04-18 |  |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 | 2024-04-19 |
 | [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-05-24 |  |
+| [Loving Excuse featuring Benny Sings](https://open.spotify.com/track/4tblAFrAQyxbhiBGYfvgyA) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Excuse featuring Benny Sings](https://open.spotify.com/album/5X8jlMiXZGUpo1yvaj34bl) | 2:53 | 2025-02-27 |  |
 | [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 |  |
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 | 2024-07-12 |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 | 2024-08-30 |
@@ -368,6 +369,7 @@
 | [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 | 2023-11-16 | 2024-03-21 |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-09-09 | 2023-11-21 |
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-09-09 | 2022-10-15 |
+| [Two Step \- .multibeat VIP Remix](https://open.spotify.com/track/6uFUh1h1cLs8yazEx20vFp) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Channel Island: Deluxe](https://open.spotify.com/album/3cy0JYpu778gr6hIwcNWXC) | 3:53 | 2025-02-27 |  |
 | [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 | 2023-07-11 |
 | [Vibe of Summer](https://open.spotify.com/track/3bNTws4fs7hgliXbfBmN3d) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1TgpfmHtQM4sUrGowYTtn2) | 3:27 | 2022-09-09 | 2022-10-15 |
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 | 2023-04-21 |

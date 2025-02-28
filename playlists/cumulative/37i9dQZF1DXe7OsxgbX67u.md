@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-65 songs - 3 hr 58 min
+69 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,9 @@
 | [For Nothing](https://open.spotify.com/track/6uu7hTgI4v2Oyk7NKhkjB4) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 2:57 | 2025-02-06 |  |
 | [Forever](https://open.spotify.com/track/4Pn4v9RemDhJ2iOi0q11js) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 5:29 | 2025-02-06 |  |
 | [Forever Never Feat\. Cleva Thoughts](https://open.spotify.com/track/2BBAdTvt3a0B3sFuQ2OcDG) | [K+Lab](https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Beasts](https://open.spotify.com/album/2YcgLxtAkhbrli6kiZlJ1f) | 4:34 | 2025-02-06 |  |
+| [Future People](https://open.spotify.com/track/09ElWkqYgwbuZoo52YWQ7m) | [Vindigo](https://open.spotify.com/artist/5lSc6BIpfTBIcco5gQOEWH) | [Future People](https://open.spotify.com/album/1LCJclhR4VDUcR27NhdZmT) | 2:37 | 2025-02-27 |  |
 | [Get Gone](https://open.spotify.com/track/5B220KelBGlzYwKrChQezA) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Gone](https://open.spotify.com/album/1WuwRUmQxBxYMP85xvv4lY) | 1:41 | 2025-02-06 |  |
+| [GHETTOCHIP MALFUNCTION \(Hell Yes \- remix by 8\-Bit\)](https://open.spotify.com/track/7oS9vh40ps5sBCx2i2FMfB) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [GameBoy Variations \(Hell Yes Remix EP\)](https://open.spotify.com/album/1daaLQSRyaeuCbj54x1geV) | 2:40 | 2025-02-27 |  |
 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 | 2025-02-06 |  |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2025-02-06 |  |
 | [Hard to Kill](https://open.spotify.com/track/2W830GhisPFzMAZOlKNBcY) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Don’t You Think You’ve Had Enough?](https://open.spotify.com/album/1wAaE8ae7uJ0F8ZDxXYcCW) | 3:26 | 2025-02-06 |  |
@@ -58,6 +60,8 @@
 | [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2025-02-20 |  |
 | [Skipping Stones](https://open.spotify.com/track/20spL0UCWRur2zbgpZhMM6) | [Olivia Wendel](https://open.spotify.com/artist/6VFhe94v6lnp9FLqRdfgAx) | [Windthrow](https://open.spotify.com/album/0P2WCmU6hiDH0iyrZ5tm4A) | 3:16 | 2025-02-06 |  |
 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 | 2025-02-06 |  |
+| [Supernova](https://open.spotify.com/track/6EpX1pKc5X4RpBOaY73haj) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [The Way Back](https://open.spotify.com/album/42GFKCvN2Gy9uAnWuu3b47) | 2:53 | 2025-02-27 |  |
+| [Take It All](https://open.spotify.com/track/2k7PGVIRIqdilhTn1Z0XsO) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. II](https://open.spotify.com/album/1oXWxbM8MIW61D8YuRhQwP) | 4:36 | 2025-02-27 |  |
 | [Televangelism](https://open.spotify.com/track/6jd7Cv7yfWGTs7g89eA9Ss) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:03 | 2025-02-06 |  |
 | [the ground below \(feat\. Royal Blood\) \(Royal Jewels Mix\)](https://open.spotify.com/track/51MmpaulaAAEMra1gKbGmc) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [RTJ4 \(Deluxe Edition\)](https://open.spotify.com/album/6OF22epek0JiHpizYsA9jm) | 2:53 | 2025-02-06 |  |
 | [the ground below \(feat\. Royal Blood\) \- Royal Jewels Mix](https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [the ground below \(feat\. Royal Blood\) \[Royal Jewels Mix\]](https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX) | 2:53 | 2025-02-06 |  |

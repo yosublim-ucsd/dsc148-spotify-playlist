@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Kiri T
+> 感受超級女聲力量。Cover: Cloud雲浩影
 
-452 songs - 1 day 3 hr 0 min
+459 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
 | [Sexy Dangerous](https://open.spotify.com/track/1WSJkeHNwlhRrG1qAO0aCk) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [Sexy Dangerous](https://open.spotify.com/album/3XwX6rgsOzRWPADfuKsyO2) | 3:04 | 2024-06-27 |  |
 | [Shattered](https://open.spotify.com/track/0Jzfsn3VpuF1VbwCtla7Xw) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Shattered](https://open.spotify.com/album/2X2UpyyPSNVj6Qveao987x) | 5:45 | 2024-06-27 |  |
+| [Shisha](https://open.spotify.com/track/0LUoXjOBnKFTDIdZeWr7yk) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Shisha](https://open.spotify.com/album/61JVWtcfprSRISh3eNrcwl) | 2:57 | 2025-02-27 |  |
 | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/track/6OeqBgXjRapq5I9TwtN8ub) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08), [Sheena 陳書昕](https://open.spotify.com/artist/31l0gLWOmac7pl45vzXmvR) | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/album/35NNLFfB3ic305HsTe55h4) | 2:40 | 2024-11-21 |  |
 | [Speak Love](https://open.spotify.com/track/0BQaaSfzHe9Grd7DID3An9) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Speak Love](https://open.spotify.com/album/6ABfEqC4ZRjjQcVBeBgeUl) | 3:09 | 2024-06-27 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2024-06-27 |  |
@@ -153,6 +154,7 @@
 | [Unfamiliar City](https://open.spotify.com/track/6ifU8TVuad0XdG9AxzBbX8) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Unfamiliar City](https://open.spotify.com/album/2top45rqhgC5JyBtUaTmWA) | 3:22 | 2024-10-17 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 |  |
 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 | 2025-01-16 |  |
+| [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 | 2025-02-27 |  |
 | [What am I looking for](https://open.spotify.com/track/6ecNEsORgS6X2mGm1K8uJI) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [What am I looking for](https://open.spotify.com/album/01qizqxGyyn3fZ2AuOYuCC) | 3:22 | 2024-09-26 |  |
 | [What If \(電影《看我今天怎麼說》主題曲\)](https://open.spotify.com/track/2AGJHZhp7lj09CI4QTsjSv) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [What If \(電影《看我今天怎麼說》主題曲\)](https://open.spotify.com/album/6vKTrNdgmalT50fvSE7BgQ) | 3:33 | 2025-01-16 |  |
 | [What You Get](https://open.spotify.com/track/44PGzR19q2lueHkZGar6mm) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [What You Get](https://open.spotify.com/album/2VRaFTFydFnj6K1MPFezFd) | 4:08 | 2024-06-27 |  |
@@ -187,6 +189,7 @@
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2024-06-27 |  |
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 |  |
 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 | 2024-11-28 |  |
+| [世界末日才一起](https://open.spotify.com/track/4vvVnV7qhVi4cOjhcybMXf) | [JESS Law](https://open.spotify.com/artist/31wCXKxcKB1ifMXo5VS5XI) | [世界末日才一起](https://open.spotify.com/album/65KpxwVtgaeCxn14xAN8wp) | 3:59 | 2025-02-27 |  |
 | [九千九百九十九個我](https://open.spotify.com/track/5IDSQYCmhVAlwmynAs8Xtc) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [九千九百九十九個我](https://open.spotify.com/album/0Rxb2n9pLdDgCyEqMAadsO) | 3:29 | 2024-06-27 |  |
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
 | [二十五圓舞曲](https://open.spotify.com/track/4ZkqCDbol3xuC2ejpD6dX3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [二十五圓舞曲](https://open.spotify.com/album/6PMQ1ZJUYwRznehhGyJ7r2) | 3:56 | 2025-01-16 |  |
@@ -200,8 +203,10 @@
 | [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2024-06-27 |  |
 | [低調\(bossa nova\)](https://open.spotify.com/track/00eXc2sJq8632QUBKruhSv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [低調\(bossa nova\)](https://open.spotify.com/album/7oXpZU3qrTmdLSXycMKmml) | 2:54 | 2024-06-27 |  |
 | [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 | 2024-10-31 |  |
+| [你在我不遠處](https://open.spotify.com/track/4Ly4kSvsSLR2oThi5DGJaW) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你在我不遠處](https://open.spotify.com/album/3yKf5hHj8NGN54Buiv5mNv) | 3:01 | 2025-02-27 |  |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2024-06-27 |  |
 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 | 2024-06-27 |  |
+| [你是可有可無的](https://open.spotify.com/track/00G30y5SL9oLDcgIEUwsoI) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [你是可有可無的](https://open.spotify.com/album/2F2Eo9xVkWMXfOGRG8UBrP) | 3:53 | 2025-02-27 |  |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2024-06-27 |  |
 | [假如讓你吻下去](https://open.spotify.com/track/0Qsofso1lXDJNIZbFi1bD4) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [假如讓你吻下去](https://open.spotify.com/album/0HRhPx2IxvKql2bOvVygna) | 4:35 | 2024-06-27 |  |
 | [偷東西的女孩](https://open.spotify.com/track/7ptKqAuDW94DRMIFxKJHal) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [偷東西的女孩](https://open.spotify.com/album/21cpsk8V7cfhmSpQAKiisF) | 4:18 | 2024-06-27 |  |
@@ -281,6 +286,7 @@
 | [後人類的美麗與哀愁](https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [後人類的美麗與哀愁](https://open.spotify.com/album/2XRiLdbU5VPiLF5jxRPczq) | 3:40 | 2024-06-27 |  |
 | [後來知道了](https://open.spotify.com/track/6H2Z2wFh92yo9Z5MNOh7xu) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [後來知道了](https://open.spotify.com/album/3Xwx9BUFl4s4aCzj6Rs1VV) | 3:31 | 2024-11-14 |  |
 | [從前的我們](https://open.spotify.com/track/6ovnT0BGF0l7pgur3t6X4Z) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 3:39 | 2024-07-25 |  |
+| [心之所向](https://open.spotify.com/track/4s258h666TRMUxtloLuGy8) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [心之所向](https://open.spotify.com/album/3Ip7qBh7fS5MHcEdT9Due9) | 4:03 | 2025-02-27 |  |
 | [心好細 <3](https://open.spotify.com/track/4rAGMvxecVlnFSuZNbdlyM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [心好細 <3](https://open.spotify.com/album/33L8MnulOYyeb6HP6VF6k8) | 3:10 | 2024-10-10 |  |
 | [心甘情願](https://open.spotify.com/track/1rkbhMawUQNcA9okSe0DaN) | [Stephanie Leung](https://open.spotify.com/artist/5L8OEtf2LqWJhj3vFkLfDP) | [心甘情願](https://open.spotify.com/album/1TyTLJ5ESW2dXMHeikM2hE) | 3:16 | 2024-06-27 |  |
 | [心魔](https://open.spotify.com/track/3H9A0RlpWlPf61RR3EPhYI) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [心魔](https://open.spotify.com/album/12jqcFB37LnxltbicrX1fq) | 2:52 | 2024-06-27 |  |
@@ -376,6 +382,7 @@
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2024-06-27 |  |
 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 | 2024-06-27 |  |
 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2024-06-27 |  |
+| [無愧於當初的我](https://open.spotify.com/track/2IPkyXBGEhkAbFHmORynJ9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Leap of Faith](https://open.spotify.com/album/78xlTT3f0OyrdPr3XJflhq) | 3:43 | 2025-02-27 |  |
 | [無窮盡](https://open.spotify.com/track/70wJlV40JiB5eqWbxxqRvE) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [無窮盡](https://open.spotify.com/album/7ymagvuqyzfVFbaqIksYao) | 3:35 | 2024-06-27 |  |
 | [無糖可樂](https://open.spotify.com/track/1rudYSVdB88q9bSeQnqyBb) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無糖可樂](https://open.spotify.com/album/4L7aoAJwGiKZEeF9x37TVI) | 4:19 | 2025-01-16 |  |
 | [無能 為力](https://open.spotify.com/track/33GjUsP4FAkk8sHcHJiN2e) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無能 為力](https://open.spotify.com/album/5xfczPThgUv5RpvPZwhGzD) | 3:13 | 2024-06-27 |  |

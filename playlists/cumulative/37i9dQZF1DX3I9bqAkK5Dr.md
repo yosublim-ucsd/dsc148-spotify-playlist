@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-343 songs - 20 hr 38 min
+344 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Nene ila](https://open.spotify.com/track/5DpLSzttzURdtjRqiqhuLx) | [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ), [Ayaan](https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP), [Stanley Sajeev](https://open.spotify.com/artist/48ZCF46lcsGvMQ3keWLY44), [Srirag Vadlakonda](https://open.spotify.com/artist/35nglePPpoof0Yl8rIOpXX) | [Nene ila](https://open.spotify.com/album/5sy2tWFF8emaC4E7s3NiYS) | 3:34 | 2024-08-02 | 2024-11-26 |
 | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Rajashekar Parsha](https://open.spotify.com/artist/7k0oRtPlbMSdf5ZyESXTqM) | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/album/6tIj7YcWkgn4eA8vuq14JI) | 4:34 | 2023-07-10 | 2023-09-05 |
 | [Ni Valle](https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU) | [D'strucT](https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Ni Valle](https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc) | 2:28 | 2023-08-18 | 2023-09-09 |
+| [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 | 2025-02-27 |  |
 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 | 2024-04-19 | 2024-10-04 |
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Ninne Ninne](https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Ninne Ninne](https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF) | 4:16 | 2024-02-14 |  |
@@ -279,7 +280,7 @@
 | [Sandela Kusuni](https://open.spotify.com/track/5yg0VylKGCJhL2jIu3D0Oq) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Sandela Kusuni](https://open.spotify.com/album/3FtLruzrqugjfqV4xX6VTr) | 4:43 | 2024-01-18 | 2024-08-20 |
 | [Sara Sara](https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Sara Sara](https://open.spotify.com/album/6OKdkEQdcwGyhvkaocFwZm) | 1:04 | 2023-10-11 | 2023-12-30 |
 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 | 2022-07-18 | 2024-02-15 |
-| [Satyabhama](https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Satyabhama](https://open.spotify.com/album/6wgbTGIpgyBheHFtQeQi2f) | 3:41 | 2024-02-14 |  |
+| [Satyabhama](https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Satyabhama](https://open.spotify.com/album/6wgbTGIpgyBheHFtQeQi2f) | 3:41 | 2024-02-14 | 2025-02-28 |
 | [Seethakaalam Vennellona](https://open.spotify.com/track/4MdCVBPBmBsc4sGXWbh0aj) | [Syel](https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT) | [Seethakaalam Vennellona](https://open.spotify.com/album/47WUi5iPAs56MXvn1InHqa) | 4:02 | 2025-01-29 |  |
 | [Senorita](https://open.spotify.com/track/29fHhYed8SpAL9T10i8r3h) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Senorita](https://open.spotify.com/album/5lcGBcUeM6SrOSrPP5R2d1) | 2:38 | 2025-01-30 | 2025-02-14 |
 | [Senorita](https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Senorita](https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA) | 3:26 | 2023-11-20 | 2023-12-20 |

@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Ceren Sagu
+> viral, trend ve yükselenler\. Kapak: Gülden
 
 129 songs - 6 hr 41 min
 

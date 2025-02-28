@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Roomer, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,085 likes - 87 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,12 +88,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 78 | [Wenn man nicht mehr kann](https://open.spotify.com/track/3osE7BRpjLGPMLGkqV5RmH) | [weesby](https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd) | [Wenn man nicht mehr kann](https://open.spotify.com/album/1ZNW7PSYdjjLVm70sXi2L2) | 2:21 |
 | 79 | [We Must Have Been Asleep](https://open.spotify.com/track/2v3nIUhZyC7kDU5zp4Tpn5) | [Aino Salto](https://open.spotify.com/artist/6FHdbKQfdgDdTGibIj8ZDb) | [We Must Have Been Asleep](https://open.spotify.com/album/1bGEtxNspIG3CiRJoKoSSd) | 3:40 |
 | 80 | [Roadtrip](https://open.spotify.com/track/1mQhTVnWx7o9spFStzYSDE) | [Gelblicht 108](https://open.spotify.com/artist/2fpBB07m0Y60eGuJSQMO3e), [BSIC](https://open.spotify.com/artist/51jljXHjpqJe15P2Vh76HE) | [Roadtrip](https://open.spotify.com/album/5RMlawiW4KcXl0pLW3D7iu) | 3:58 |
-| 81 | [Conversations With The Unconscious](https://open.spotify.com/track/2cxrgCovB2X0wGcznvjt7s) | [Post Meridiem](https://open.spotify.com/artist/4nXTmOzMhTsRt6vNjelLZN) | [Conversation With The Unconscious](https://open.spotify.com/album/1IK28XKI3JtIMJlMcUEFAE) | 3:05 |
-| 82 | [record player](https://open.spotify.com/track/6ywvC1LCLmUdIYiRJNynS8) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6), [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [record player](https://open.spotify.com/album/4EfKkOzZiDlnEwkS4H5U1N) | 2:36 |
-| 83 | [Lichter](https://open.spotify.com/track/6l8u6FeBVtdruvoIwQjrct) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Lichter](https://open.spotify.com/album/5GhvA64GvSFjI7cQfoinmK) | 2:11 |
-| 84 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
-| 85 | [Poster an deiner Wand](https://open.spotify.com/track/3Nlckx1GBPWCZlmmQVZ9wk) | [Lukas Mondlicht](https://open.spotify.com/artist/3sqjGPx0xwt4A6Y6f5A7w2) | [Poster an deiner Wand](https://open.spotify.com/album/4c7s7nQwAvm38TyTeeRuN9) | 3:39 |
-| 86 | [Perfekt](https://open.spotify.com/track/3FTPQcRnwkm5RXzHbqyRDr) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Perfekt](https://open.spotify.com/album/3GF9y1o0sjdCwE79vASjYa) | 2:40 |
-| 87 | [Show Me What Love Is](https://open.spotify.com/track/1yrc1AelOtznrskQb5yjaZ) | [The Deadnotes](https://open.spotify.com/artist/6Ul5GFMF8FIfK9ARp9efBF) | [Show Me What Love Is](https://open.spotify.com/album/3RRD2qFwDwRgtErVxK7uGZ) | 3:14 |
 
-Snapshot ID: `Z7+dBwAAAADN5kj6bQjDF1yxgP7NzgRn`
+Snapshot ID: `Z8A6ewAAAAD+skoZxHVAcBVUqqvUVU2Q`

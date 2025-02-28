@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-2,049 songs - 4 day 12 hr 26 min
+2,050 songs - 4 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [ALWAYS](https://open.spotify.com/track/5czjOqOzkUPZotzveWLQ2G) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [ALWAYS](https://open.spotify.com/album/05SDu21DKt9AAvJPzXoSIi) | 4:00 | 2020-10-13\* | 2020-10-16 |
 | [Am I Alright](https://open.spotify.com/track/2OZJWIhTXHL3UKJmhG5kxq) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Am I Alright](https://open.spotify.com/album/3b68VqtD6JXCG5NlVo0QTH) | 3:34 | 2021-10-29 | 2022-07-29 |
 | [Ambition](https://open.spotify.com/track/0GK4RUr5qBUPsOv8kWkK70) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Ambition](https://open.spotify.com/album/2qDUykT1C6Psc8Vr8LBABd) | 2:49 | 2021-10-10 | 2021-11-14 |
+| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-02-21 |  |
 | [American Dream](https://open.spotify.com/track/2HRPgT1aI9IYTQi8jIHPAm) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [American Dream](https://open.spotify.com/album/4ZpWUFvJDQoslAdpUToCS3) | 4:19 | 2021-06-05 | 2021-12-04 |
 | [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 | 2022-08-19 | 2022-08-23 |
 | [American Football](https://open.spotify.com/track/1NI5y9DsyLxdybMe7i3OdN) | [Kitten](https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC) | [American Football](https://open.spotify.com/album/702HLtsHLyZaHqg9S1GWJO) | 3:21 | 2021-03-02 | 2021-05-20 |
@@ -754,7 +755,7 @@
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2020-10-20 | 2021-07-15 |
 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-25 | 2022-04-20 |
 | [Guys](https://open.spotify.com/track/1qQJWohzIrKMNIz6pyyKYw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Guys](https://open.spotify.com/album/5MHKEvcqdoIPoFvp9DOqyK) | 4:29 | 2020-10-20 | 2021-06-03 |
-| [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 | 2024-11-22 |  |
+| [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 | 2024-11-22 | 2025-02-28 |
 | [Half Life](https://open.spotify.com/track/7EpbGGZSj9wsXVHmQg7gyN) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Half Empty](https://open.spotify.com/album/0gKxpdLLqf2611EmOCA7mI) | 3:28 | 2020-11-10 | 2021-05-21 |
 | [Halloween](https://open.spotify.com/track/1qx755YI9plWMkHAoPq1lH) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Halloween](https://open.spotify.com/album/08MVxeBRotNzwJZhx5mNzY) | 2:35 | 2020-10-16 | 2021-01-15 |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0OStKKAuXlxA0fMH54Qs6E) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie III: Seven Days](https://open.spotify.com/album/1UdHs4K8sjSKy3BJJP1h8q) | 2:30 | 2020-10-24 | 2020-11-15 |

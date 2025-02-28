@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "BLUE LOVE",
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
@@ -2762,6 +2762,24 @@
       "duration_ms": 244363,
       "name": "Ghorba",
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
     },
     {
       "album": {

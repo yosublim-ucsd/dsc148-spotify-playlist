@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 309703,
+  "num_followers": 309763,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 166466,
       "name": "Drown",
       "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "crying",
-        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
       "artists": [
         {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 187234,
-      "name": "crying",
-      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 215680,
       "name": "Venom",
       "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Learn To Forget",
+        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Learn To Forget",
+      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -579,22 +595,6 @@
       "duration_ms": 208360,
       "name": "Gatekeepers",
       "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Learn To Forget",
-        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Learn To Forget",
-      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Plantgazer",
         "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 576912,
       "name": "Red River",
       "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2024-07-19 13:56:32",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Dr\u00fdsill",
-        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 532351,
-      "name": "Dr\u00fdsill",
-      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Dr\u00fdsill",
+        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 532351,
+      "name": "Dr\u00fdsill",
+      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Future Says Thank You",
-        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "ABYSS",
-        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
-      },
-      "artists": [
-        {
-          "name": "Mimi Barks",
-          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "ABYSS",
-      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Nowhere Now Here",
         "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
       },
@@ -1691,18 +1659,34 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "AN ITERATION",
-        "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
+        "name": "The Future Says Thank You",
+        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
       },
       "artists": [
         {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
         }
       ],
-      "duration_ms": 173154,
-      "name": "AN ITERATION",
-      "url": "https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6"
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1723,6 +1707,38 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "AN ITERATION",
+        "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "AN ITERATION",
+      "url": "https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Only Paradise Lost",
+        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Only Paradise Lost",
+      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 269265,
       "name": "Power",
       "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     }
   ],
   "unique_name": "Alternative Metal",
