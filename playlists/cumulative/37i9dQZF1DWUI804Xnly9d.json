@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210186,
       "name": "Chameli",
       "url": "https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169405,
       "name": "Chand Ka Takiya",
       "url": "https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM"
@@ -1700,6 +1700,24 @@
       "duration_ms": 234000,
       "name": "Chhora Kyun",
       "url": "https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw"
+    },
+    {
+      "album": {
+        "name": "Choti Si Baat",
+        "url": "https://open.spotify.com/album/3XTyGQYMEqLxUwJWrltb7l"
+      },
+      "artists": [
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292665,
+      "name": "Choti Si Baat",
+      "url": "https://open.spotify.com/track/73PlprGKv36zcgrkRGT9UO"
     },
     {
       "album": {
@@ -3080,6 +3098,28 @@
       "duration_ms": 226650,
       "name": "Hum Yun Chale",
       "url": "https://open.spotify.com/track/37NYkKo9phEN8iWLiesBvK"
+    },
+    {
+      "album": {
+        "name": "Humnasheen (Acoustic)",
+        "url": "https://open.spotify.com/album/2C0xPWdulOBWUWWX5A4IYO"
+      },
+      "artists": [
+        {
+          "name": "Suddipta Borthakur",
+          "url": "https://open.spotify.com/artist/1SNo36nyvDNd9lcuNTQh6D"
+        },
+        {
+          "name": "KENXU",
+          "url": "https://open.spotify.com/artist/4U1YiYeYugLOXPa3QnCOkP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227024,
+      "name": "Humnasheen (Acoustic)",
+      "url": "https://open.spotify.com/track/3cFD0MJGAKav9Hpum2ZjwX"
     },
     {
       "album": {
@@ -5838,7 +5878,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 157375,
       "name": "Mascara (Unplugged)",
       "url": "https://open.spotify.com/track/6IdJ9zRvPbSW5cERtMsoL5"
@@ -6381,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Na Koi Ehsaas",
+        "url": "https://open.spotify.com/album/5j4tDlDc5NCbYKB7HKW8Fv"
+      },
+      "artists": [
+        {
+          "name": "Sajid Rizvi",
+          "url": "https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298421,
+      "name": "Na Koi Ehsaas",
+      "url": "https://open.spotify.com/track/1U2zDSIsNTvsEJYJxphWGK"
+    },
+    {
+      "album": {
         "name": "Na Neend Hai Na Khwaab",
         "url": "https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv"
       },
@@ -6810,7 +6868,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204625,
       "name": "Panchii",
       "url": "https://open.spotify.com/track/61v9NMnW3ssoI0RkW8Cghu"
@@ -9730,6 +9788,28 @@
       "duration_ms": 244880,
       "name": "Woh Baarishein",
       "url": "https://open.spotify.com/track/3YtAM6r7eWfgWSGhnBJRts"
+    },
+    {
+      "album": {
+        "name": "Woh Kitaab",
+        "url": "https://open.spotify.com/album/1C63lZP0nVG3IvWzplLuth"
+      },
+      "artists": [
+        {
+          "name": "Rishi Dutta",
+          "url": "https://open.spotify.com/artist/4fmbLKWLB2luqzJXcevWkW"
+        },
+        {
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255454,
+      "name": "Woh Kitaab",
+      "url": "https://open.spotify.com/track/01f9F1FFwOcwZeqogOlCVJ"
     },
     {
       "album": {

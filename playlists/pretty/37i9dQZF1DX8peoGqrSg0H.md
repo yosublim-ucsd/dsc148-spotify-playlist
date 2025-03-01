@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,693 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,739 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
 | 2 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
-| 3 | [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/5fm7f356c7AZIeCcRK3gig) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 |
+| 3 | [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 |
 | 4 | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ) | 3:39 |
 | 5 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 |
 | 6 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |

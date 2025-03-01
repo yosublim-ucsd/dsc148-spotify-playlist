@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Left In Your Love",
+        "url": "https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182124,
+      "name": "Learn To Love Myself",
+      "url": "https://open.spotify.com/track/0FQ9ML5Is7CRKHGoVDdrKi"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q"
       },

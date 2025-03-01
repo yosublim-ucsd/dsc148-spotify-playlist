@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 157135,
       "name": "Like a sculptor",
       "url": "https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE"
@@ -2250,6 +2250,24 @@
       "duration_ms": 141013,
       "name": "Now and Then",
       "url": "https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG"
+    },
+    {
+      "album": {
+        "name": "Nuit Claire",
+        "url": "https://open.spotify.com/album/3j4Rvcw23462SvnuIf5PgC"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164167,
+      "name": "Nuit Claire",
+      "url": "https://open.spotify.com/track/6tCcyb0NtqtKCMHzX2YZIh"
     },
     {
       "album": {

@@ -2095,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187509,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"

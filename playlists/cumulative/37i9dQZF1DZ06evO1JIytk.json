@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171850,
+      "name": "1915",
+      "url": "https://open.spotify.com/track/4wVyJwCztcUG1vomQH1day"
+    },
+    {
+      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 79365,
       "name": "Turn a Blind Eye",
       "url": "https://open.spotify.com/track/7qQozeAd8GtiiQgisLoRKc"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: Noeline Hofmann",
+  "description": "Americana's artists and hits of tomorrow. Cover: Sean McConnell",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 155706,
       "name": "Hush",
       "url": "https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 267506,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM"
@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO"
+      },
+      "artists": [
+        {
+          "name": "Sean McConnell",
+          "url": "https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Southside of Forever",
+      "url": "https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ"
+    },
+    {
+      "album": {
         "name": "Stolen Love",
         "url": "https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635"
       },
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168124,
       "name": "This Town (feat. Shakey Graves)",
       "url": "https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ"

@@ -2,9 +2,9 @@
 
 ### [Women of Folk](https://open.spotify.com/playlist/37i9dQZF1DWSIcimvN18p3)
 
-> Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Jensen McRae
+> Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Paris Paloma
 
-418 songs - 1 day 1 hr 32 min
+420 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Capable](https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:17 | 2021-03-05 | 2024-04-15 |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2021-03-05 |  |
 | [Carolina in the Pines \(with Indigo Girls\)](https://open.spotify.com/track/5Txa7Oq2dH2yUkFeLJxgTq) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:57 | 2021-03-05 |  |
+| [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 |  |
 | [Cherokee Shuffle](https://open.spotify.com/track/5i5fxEV8ua3ogAPqTyAgrn) | [Sally Van Meter](https://open.spotify.com/artist/6lLz34wZ76saeHvfWh1X7G) | [The Great Dobro Sessions](https://open.spotify.com/album/3nu4888MBqWYY5WRNdXM6n) | 3:31 | 2021-03-05 | 2022-07-29 |
 | [Chris Issak](https://open.spotify.com/track/2XcrlQXBsRJtpzcqMVEOPO) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Somewhere Else](https://open.spotify.com/album/15UfMA8VC7IxY6z6CbRsMN) | 4:33 | 2021-03-05 | 2022-07-21 |
 | [Clean Getaway](https://open.spotify.com/track/4aPkrXsRnoF7fgpt4va3ur) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Clean Getaway](https://open.spotify.com/album/3hLWNMK8P5d6wJkRWWFmEE) | 3:47 | 2022-03-08 | 2022-07-29 |
@@ -122,6 +123,7 @@
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2021-03-05 |  |
 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 | 2024-03-08 |  |
 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 | 2021-03-05 |  |
+| [Earthstar](https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75) | 4:03 | 2025-02-28 |  |
 | [Easier Than Leaving \(Live Acoustic\)](https://open.spotify.com/track/1gxB7wcHBVfqMar1nV3Ryw) | [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [Easier Than Leaving \(Live Acoustic\)](https://open.spotify.com/album/2sQLhzkMddaWDlV5aE6ZAr) | 4:46 | 2021-03-05 | 2022-07-26 |
 | [Emmylou](https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs) | 4:18 | 2023-03-08 | 2024-04-19 |
 | [Emmylou](https://open.spotify.com/track/3UzvFIyu5qdRepwJViDwjN) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/4l74hbWS9uJmGe4npUbsR5) | 4:18 | 2021-03-05 | 2022-07-29 |
@@ -335,11 +337,11 @@
 | [Step By Step](https://open.spotify.com/track/6bmwvWjxsKRUWVRFiuwH1d) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7rVhpKQOuUu4wKFg3jnfl7) | 1:53 | 2021-03-05 | 2022-07-29 |
 | [Stoned Soul Picnic](https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Time And Love: The Essential Masters](https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP) | 3:47 | 2022-03-08 |  |
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-03-05 |  |
-| [Strange Isabella](https://open.spotify.com/track/0Cb2GVqt0s3RL5jKR4KyN1) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 1](https://open.spotify.com/album/33qsTsdSSS0dXLEOOUpcci) | 3:50 | 2021-03-05 |  |
+| [Strange Isabella](https://open.spotify.com/track/0Cb2GVqt0s3RL5jKR4KyN1) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 1](https://open.spotify.com/album/33qsTsdSSS0dXLEOOUpcci) | 3:50 | 2021-03-05 | 2025-03-01 |
 | [Swept Away](https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:56 | 2021-03-05 |  |
 | [Swing and Turn Jubilee](https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Fruit](https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ) | 4:09 | 2023-03-08 |  |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2022-03-08 |  |
-| [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-08 |  |
+| [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-08 | 2025-03-01 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2022-03-08 | 2024-06-22 |
 | [Television](https://open.spotify.com/track/3GILEwEmWoonGBHZ0GgMoK) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Television](https://open.spotify.com/album/0RPLFoQwS9BtMPXNKOsFyA) | 4:29 | 2021-03-05 | 2022-07-29 |
 | [Tennessee Breakdown](https://open.spotify.com/track/4K3z84ENFol2LQFishwXMu) | [Barbara Lamb](https://open.spotify.com/artist/4KYqgUrjlxeVvLOBSrln3M) | [Bluegrass Banjo at its Best](https://open.spotify.com/album/0bXQtYUmSKJOBFj6rYWqy0) | 2:57 | 2021-03-05 | 2022-07-25 |

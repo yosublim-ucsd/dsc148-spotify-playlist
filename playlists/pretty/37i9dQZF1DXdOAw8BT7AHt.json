@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: YHWH Nailgun",
-  "num_followers": 469783,
+  "num_followers": 469780,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Negative Spaces",
-        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "negative spaces",
-      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "End Eric Sparrow and the Life of Him",
         "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 169000,
       "name": "End Eric Sparrow and the Life of Him",
       "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Negative Spaces",
+        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "negative spaces",
+      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Junebug",
-        "url": "https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 196394,
-      "name": "Junebug",
-      "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Junebug",
+        "url": "https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 196394,
+      "name": "Junebug",
+      "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "State Champs",
-        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Slope",
-          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
-        }
-      ],
-      "duration_ms": 199811,
-      "name": "Save Face Story",
-      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
       },
@@ -551,6 +531,22 @@
       "duration_ms": 214507,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -611,8 +607,8 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3"
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
       "artists": [
         {
@@ -620,25 +616,9 @@
           "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "State Champs",
-        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 188399,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -675,6 +655,22 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 162851,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -691,18 +687,22 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
         }
       ],
-      "duration_ms": 162851,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
+      "duration_ms": 199811,
+      "name": "Save Face Story",
+      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -723,8 +723,8 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+      "duration_ms": 220533,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "20 Something",
-        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -835,42 +835,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Some Girls",
-      "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "All My Fault",
-        "url": "https://open.spotify.com/album/2NyJW1lrrOEqunfuCmJmmX"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        },
-        {
-          "name": "Levi Hummon",
-          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
-        }
-      ],
-      "duration_ms": 184525,
-      "name": "All My Fault",
-      "url": "https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "I really am feeling better",
         "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
@@ -883,6 +847,22 @@
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Some Girls",
+      "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -935,6 +915,42 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD"
+      },
+      "artists": [
+        {
+          "name": "Preoccupations",
+          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/2NyJW1lrrOEqunfuCmJmmX"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        }
+      ],
+      "duration_ms": 184525,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
         "name": "Raw Muscular Power",
         "url": "https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD"
-      },
-      "artists": [
-        {
-          "name": "Preoccupations",
-          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "Walk The Walk",
         "url": "https://open.spotify.com/album/6EDB7lh5A56htL40wdCuSx"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 178956,
       "name": "Walk The Walk",
       "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
-        "name": "Gift Horse",
-        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Gift Horse",
-      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1063,6 +1047,22 @@
       "duration_ms": 168903,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Mood Swings - Spotify Singles",
-      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
       "added_at": "2025-02-21 14:02:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-02-21 14:02:29",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A"
-      },
-      "artists": [
-        {
-          "name": "Michael Cera Palin",
-          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
-        }
-      ],
-      "duration_ms": 292907,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO"
-    },
-    {
-      "added_at": "2025-02-21 14:02:29",
-      "album": {
         "name": "5168 Days",
         "url": "https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 195553,
       "name": "5168 Days",
       "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
+    },
+    {
+      "added_at": "2025-02-21 14:02:29",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera Palin",
+          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
+        }
+      ],
+      "duration_ms": 292907,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO"
     }
   ],
   "unique_name": "Today's Punk",

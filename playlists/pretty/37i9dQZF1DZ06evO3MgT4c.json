@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 434332,
+  "num_followers": 434340,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAABGFYD+CX9dnI4KBYhDo0bt",
+  "snapshot_id": "Z7+rAAAAAAAzUz616Af6P1k4yUdfMjiK",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger (with Migos & Marshmello) [From Bright: The Album]",
-        "url": "https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Danger (with Migos & Marshmello)",
-      "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 295997,
       "name": "Too Hotty",
       "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger (with Migos & Marshmello) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Danger (with Migos & Marshmello)",
+      "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
     },
     {
       "added_at": null,

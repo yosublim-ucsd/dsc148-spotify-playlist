@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 517,
+  "num_followers": 523,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sunrise Over Sea",
-        "url": "https://open.spotify.com/album/4Plc6eI1zbCMTawqZTxwgz"
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
       },
       "artists": [
         {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 237626,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/7IahivnWF9l1W8DSBQe3Xv"
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -359,6 +343,22 @@
       "duration_ms": 243131,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Sunrise Over Sea",
+        "url": "https://open.spotify.com/album/4Plc6eI1zbCMTawqZTxwgz"
+      },
+      "artists": [
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/7IahivnWF9l1W8DSBQe3Xv"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "In The Sky",
-        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
         }
       ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -443,34 +443,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+        "name": "In The Sky",
+        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Grand National",
-        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
-      },
-      "artists": [
-        {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -491,6 +475,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Grand National",
+        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
+      },
+      "artists": [
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Moonfire",
+        "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Feeding Line",
+      "url": "https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Moonfire",
-        "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Feeding Line",
-      "url": "https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk"
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 226733,
       "name": "London Still",
       "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Gossip",
         "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 203920,
       "name": "Leaps And Bounds",
       "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "My Own Pool of Light",
         "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 237080,
       "name": "Maybe You Know",
       "url": "https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+        "name": "Half Mile Harvest (Deluxe)",
+        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 203316,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
+      "duration_ms": 263840,
+      "name": "I Get Up",
+      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Half Mile Harvest (Deluxe)",
-        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 263840,
-      "name": "I Get Up",
-      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
+      "duration_ms": 203316,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "After Hours, Close To Dawn",
         "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202000,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Get On Board",
+        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
+      },
+      "artists": [
+        {
+          "name": "The Badloves",
+          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Green Limousine",
+      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Get On Board",
-        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
       "artists": [
         {
-          "name": "The Badloves",
-          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Green Limousine",
-      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
+      "duration_ms": 223040,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV"
       },
       "artists": [
         {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
+      "duration_ms": 255517,
+      "name": "We Will Run",
+      "url": "https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH"
     }
   ],
   "unique_name": "Coast to Coast",

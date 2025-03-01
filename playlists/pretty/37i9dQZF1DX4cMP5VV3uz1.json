@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162346,
+  "num_followers": 162385,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -293,7 +293,7 @@
         },
         {
           "name": "Submotive",
-          "url": "https://open.spotify.com/artist/18IDmJ9TpGsEp3mQqixaUE"
+          "url": "https://open.spotify.com/artist/5wlb3CuXIKwGZj2qSmNFUU"
         },
         {
           "name": "CASISDEAD",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
+        "name": "Wicked & Bad",
+        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
         "name": "Waited All Night (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 189249,
       "name": "Waited All Night - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
-        "name": "Wicked & Bad",
-        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
-      },
-      "artists": [
-        {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
         "name": "Vibe Check",
         "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 190344,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
-        "name": "Back 2 Dance",
-        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Back 2 Dance",
-      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
+        "name": "Back 2 Dance",
+        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Back 2 Dance",
+      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
     },
     {
       "added_at": "2025-02-28 00:00:26",

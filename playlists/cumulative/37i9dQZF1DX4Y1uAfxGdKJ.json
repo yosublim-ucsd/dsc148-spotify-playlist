@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "World to Know",
+        "url": "https://open.spotify.com/album/1QhGS3RshkPCnqLnbbG5Ad"
+      },
+      "artists": [
+        {
+          "name": "Phello",
+          "url": "https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh"
+        },
+        {
+          "name": "Molife",
+          "url": "https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162884,
+      "name": "9 Lives",
+      "url": "https://open.spotify.com/track/7ud3CJgSsb7n49rANpFr1H"
+    },
+    {
+      "album": {
         "name": "A Different Way",
         "url": "https://open.spotify.com/album/2PmFKGURKYeSO6CnyaVwmf"
       },
@@ -268,7 +290,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201625,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi"
@@ -538,7 +560,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168000,
       "name": "Casa Commercial",
       "url": "https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA"
@@ -808,7 +830,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193129,
       "name": "Dangerous Thing",
       "url": "https://open.spotify.com/track/1XvuCcjK1Q3R8e0U2axlet"
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 131218,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/1KqRI4mAyLW1mpFJQnJCAM"
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171500,
       "name": "full throttle",
       "url": "https://open.spotify.com/track/2IBYFJJgdQvE83nt5q3Mds"
@@ -1890,6 +1912,24 @@
       "duration_ms": 141403,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0m1tTFoVtaeNn4tfzl3Jfu"
+    },
+    {
+      "album": {
+        "name": "Got It",
+        "url": "https://open.spotify.com/album/5TgsDWAcxaDr8cMBJGdtFE"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167565,
+      "name": "Got It",
+      "url": "https://open.spotify.com/track/2WEFQ6Kzv5xYESusk6ep6U"
     },
     {
       "album": {
@@ -2354,7 +2394,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 237062,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3"
@@ -2426,7 +2466,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195458,
       "name": "Keep Them Alive",
       "url": "https://open.spotify.com/track/3VKRg5UXSovJoNabq2vrnq"
@@ -2444,7 +2484,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 306204,
       "name": "Landmarks",
       "url": "https://open.spotify.com/track/0p4zxScTH4QBPnDdIeInfB"
@@ -2631,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Mirage Palms",
+        "url": "https://open.spotify.com/album/448GlhttMXbsoHmqrQPCBI"
+      },
+      "artists": [
+        {
+          "name": "Egelloc",
+          "url": "https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132642,
+      "name": "Mirage Palms",
+      "url": "https://open.spotify.com/track/4ZQ2z1nTT0KDtWOlgVYxjO"
+    },
+    {
+      "album": {
         "name": "Mistwalker",
         "url": "https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg"
       },
@@ -2736,7 +2794,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 227250,
       "name": "Moves",
       "url": "https://open.spotify.com/track/4fPv168u1RcMv7EvXpjhm2"
@@ -2844,7 +2902,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 305874,
       "name": "Night Riding",
       "url": "https://open.spotify.com/track/1lzBu9GwCyWPieEWTrqtnI"
@@ -2880,7 +2938,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149000,
       "name": "Nizm",
       "url": "https://open.spotify.com/track/3fMOE6PBOkIAEHlMAExlKj"
@@ -3301,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "Pride and Joy",
+        "url": "https://open.spotify.com/album/3aYlBOUie41gTAOqwRK2Wr"
+      },
+      "artists": [
+        {
+          "name": "Kris Karrey",
+          "url": "https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190201,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/4ShqE9f4IFXIWAkfzQlGZe"
+    },
+    {
+      "album": {
         "name": "Projectile",
         "url": "https://open.spotify.com/album/2AmwppTukWbE4BmVGlM6zo"
       },
@@ -3528,7 +3604,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 353660,
       "name": "Returning to What Is",
       "url": "https://open.spotify.com/track/7x5AbgjodfYRFdB3UxAOGB"
@@ -3892,10 +3968,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 233635,
       "name": "Shimone Shimone",
       "url": "https://open.spotify.com/track/4CXcplkSoeBK15TewprZMe"
+    },
+    {
+      "album": {
+        "name": "simply trying",
+        "url": "https://open.spotify.com/album/6mekbgRcvrc3W0xm3M3jAj"
+      },
+      "artists": [
+        {
+          "name": "Elliot Horizon",
+          "url": "https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "simply trying",
+      "url": "https://open.spotify.com/track/4LQsQGVLgOvmga5nl1PMm1"
     },
     {
       "album": {
@@ -4321,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/3r67DR4FR3fI4BDV6fHn55"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176125,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/0MEmP277PiFkMcMnBBSHll"
+    },
+    {
+      "album": {
         "name": "Melodic Mind",
         "url": "https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS"
       },
@@ -4332,7 +4444,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 326116,
       "name": "The Life of an Empath",
       "url": "https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp"
@@ -4660,7 +4772,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 243361,
       "name": "Wut",
       "url": "https://open.spotify.com/track/1dlNlopZwjwqb6orJH1MKC"
@@ -4678,7 +4790,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 151022,
       "name": "Yesterday's Dream",
       "url": "https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs"

@@ -2,7 +2,7 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: ODUMODUBLVCK
+> The hottest Afropop records on the planet\.  Cover: Kel P & Wande coal
 
 632 songs - 1 day 8 hr 19 min
 

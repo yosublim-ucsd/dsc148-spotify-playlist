@@ -5420,7 +5420,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168200,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF"
@@ -8152,6 +8152,28 @@
       "duration_ms": 352707,
       "name": "No Self Control - The Breakglass Version",
       "url": "https://open.spotify.com/track/5sB5IzZu7dsI1GAX2c6QHR"
+    },
+    {
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "album": {

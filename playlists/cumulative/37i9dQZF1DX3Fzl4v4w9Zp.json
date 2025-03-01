@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Mumford & Sons",
+  "description": "Keep your finger on the pulse of Americana. Cover: Jesse Welles",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 210680,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/58hAI1XXrFla3sZ1XdL916"
+    },
+    {
+      "album": {
+        "name": "After The Setting Sun",
+        "url": "https://open.spotify.com/album/3fdqRZ0j8t8EW351K4H1Or"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270413,
+      "name": "After The Setting Sun",
+      "url": "https://open.spotify.com/track/2F9T7qKqhmZeAR7fdKBQF1"
     },
     {
       "album": {
@@ -1413,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
+      "album": {
         "name": "Blue Jean Baby",
         "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 243973,
       "name": "Cherokee Purples",
       "url": "https://open.spotify.com/track/1nxPbavSUdBMCWjPtmaWGv"
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
@@ -3972,6 +4008,28 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240629,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
     },
     {
       "album": {
@@ -6032,7 +6090,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217133,
       "name": "I Gotta Change (Or I'm Gonna Die)",
       "url": "https://open.spotify.com/track/0e30nRCNjBZ0EDi5Pr2vCq"
@@ -6108,7 +6166,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236500,
       "name": "I Let Him Love Me",
       "url": "https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ"
@@ -6387,6 +6445,32 @@
     },
     {
       "album": {
+        "name": "Inside the Lines",
+        "url": "https://open.spotify.com/album/5HwwP4qk8IrT8Xiguxm5lb"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199158,
+      "name": "Inside the Lines",
+      "url": "https://open.spotify.com/track/4vmkUd9DjoIePvvAPMWBJY"
+    },
+    {
+      "album": {
         "name": "Homemaker",
         "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
       },
@@ -6596,7 +6680,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 264809,
       "name": "Jealous Moon",
       "url": "https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX"
@@ -11010,6 +11094,24 @@
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO"
+      },
+      "artists": [
+        {
+          "name": "Sean McConnell",
+          "url": "https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Southside of Forever",
+      "url": "https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ"
     },
     {
       "album": {

@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:2HPaUgqeutzr3jx5a9WyDV\">PARTYNEXTDOOR</a> ",
+  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:2FgooFaZzZy6PUyJImk0kG\">Jada Kingdom</a> ",
   "name": "Fever",
   "tracks": [
+    {
+      "album": {
+        "name": "Close (Remix)",
+        "url": "https://open.spotify.com/album/0asY1dRdFyI1RgAnBGU41k"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245078,
+      "name": "`Close (Remix) (with Masicka and DING DONG)",
+      "url": "https://open.spotify.com/track/2JTCsRhIYoDQ6HyEt8gvkp"
+    },
     {
       "album": {
         "name": "BARE CHAT",
@@ -411,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/2OzKSDi0TDhc7Vb8X9eeXe"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/0T3EDAwXpUNAfzWulhAiEV"
+    },
+    {
+      "album": {
         "name": "Choppa (with Lil Baby & Rvssian)",
         "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
       },
@@ -492,7 +540,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193500,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp"
@@ -536,6 +584,24 @@
       "duration_ms": 206250,
       "name": "D N A",
       "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/0yWpywE2F4Iv2xXimZC8kf"
+      },
+      "artists": [
+        {
+          "name": "D'yani",
+          "url": "https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2MBg1KNO6H3aYHOnS8phqi"
     },
     {
       "album": {
@@ -714,7 +780,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 115000,
       "name": "Dreams Are Made Of",
       "url": "https://open.spotify.com/track/5OgGzWwwZUnIai4iXpIRrZ"
@@ -1383,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Life of The Party",
+        "url": "https://open.spotify.com/album/7LqmuIdc6C1c68OBUhgzjP"
+      },
+      "artists": [
+        {
+          "name": "NIGY BOY",
+          "url": "https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Life of The Party",
+      "url": "https://open.spotify.com/track/1VxsfMAJDss6usTE85yv32"
+    },
+    {
+      "album": {
         "name": "LIFESTYLE",
         "url": "https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4"
       },
@@ -1576,7 +1660,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166553,
       "name": "Nah Follow Dem",
       "url": "https://open.spotify.com/track/1Wfp2x8SNKzlAnPQtbdOWw"
@@ -1799,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/79pkMBFXLF3RGt2I1Z6Y54"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423079,
+      "name": "PARDY - Road Mix",
+      "url": "https://open.spotify.com/track/7ksaZiIN0xGny4iS3sHqFP"
+    },
+    {
+      "album": {
         "name": "Payroll",
         "url": "https://open.spotify.com/album/0RRzVs6vxZ5s3JzJA6jMoE"
       },
@@ -1828,7 +1930,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 128156,
       "name": "PDF",
       "url": "https://open.spotify.com/track/63fzTn3xge4fU2BsUdfCDQ"
@@ -1898,7 +2000,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 164764,
       "name": "Puni Police",
       "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"
@@ -2477,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
+    },
+    {
+      "album": {
         "name": "Touchdown (with J Balvin, Beenie Man, Bounty Killer & Tasan)",
         "url": "https://open.spotify.com/album/09NhKmRugCWSvRKh1jK46Z"
       },
@@ -2504,10 +2624,32 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198260,
       "name": "Touchdown (with J Balvin, Beenie Man, Bounty Killer & Tasan)",
       "url": "https://open.spotify.com/track/5YQoiJnRRrsctf33UG9JYv"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4GqrCFlZXJahZeZVDbbIDV"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Extol",
+          "url": "https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1GK8FnBpH7Qcto93kw1bYQ"
     },
     {
       "album": {
@@ -2727,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Waste Har Time",
+        "url": "https://open.spotify.com/album/5M5lWvEgCrfiobNnlN7EzV"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173412,
+      "name": "Waste Har Time",
+      "url": "https://open.spotify.com/track/5VNpSFUUsMHRjt8iVVxupx"
+    },
+    {
+      "album": {
         "name": "Great Is He (Deluxe)",
         "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
       },
@@ -2848,10 +3008,32 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 268895,
       "name": "Whites",
       "url": "https://open.spotify.com/track/4Sf6Kt4Tnskbszxl7hui7t"
+    },
+    {
+      "album": {
+        "name": "Whites (Remix)",
+        "url": "https://open.spotify.com/album/2xcK6qqeYb1WjtyD7AivXR"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Whites (feat. French Montana) - Remix",
+      "url": "https://open.spotify.com/track/3wo2bfsXZhzc3YUIm1Awk3"
     },
     {
       "album": {
@@ -2866,7 +3048,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165652,
       "name": "Whole Lotta",
       "url": "https://open.spotify.com/track/3SSF3dMSgMDI5BTAU7dK5U"
@@ -2950,7 +3132,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"

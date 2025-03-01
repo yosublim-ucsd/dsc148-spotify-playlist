@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: Neton Vega",
+  "description": "Descubre los nuevos \u00e1lbumes de m\u00fasica mexicana del 2025. Hit shuffle for a mixed listening experience. Cover: Gerardo Coronel",
   "name": "New M\u00fasica Mexicana albums ",
   "tracks": [
+    {
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212418,
+      "name": "\"Vivo\"",
+      "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
+    },
     {
       "album": {
         "name": "F\u00e9nix",
@@ -614,6 +632,28 @@
       "duration_ms": 195866,
       "name": "Amor Real",
       "url": "https://open.spotify.com/track/2w8ugK3rWHA1zL5WnFnlIO"
+    },
+    {
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Los DL Mar",
+          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191994,
+      "name": "Andaba En Pausa",
+      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
     },
     {
       "album": {
@@ -2084,6 +2124,28 @@
       "duration_ms": 227285,
       "name": "Como a El",
       "url": "https://open.spotify.com/track/370J4WxNks5tzvoxaXuwyF"
+    },
+    {
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165482,
+      "name": "COMO CAPO",
+      "url": "https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF"
     },
     {
       "album": {
@@ -3695,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "El Festejado",
+      "url": "https://open.spotify.com/track/5YfCnHZf1fvCIFO7mNZV72"
+    },
+    {
+      "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
@@ -4086,6 +4170,24 @@
       "duration_ms": 158893,
       "name": "El Pilot\u00f3n",
       "url": "https://open.spotify.com/track/2OSC9jsFUoSxFBHT8zNqtq"
+    },
+    {
+      "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234215,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/28OJgDZ7mzzNfydnixtrVE"
     },
     {
       "album": {
@@ -4924,6 +5026,24 @@
       "duration_ms": 198624,
       "name": "Estoy A Punto",
       "url": "https://open.spotify.com/track/2GOUo9145jxWT8hhe7yVuL"
+    },
+    {
+      "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200932,
+      "name": "Estoy Cansado Jefe",
+      "url": "https://open.spotify.com/track/7HRPOdM4e9iwVWHtO2B0or"
     },
     {
       "album": {
@@ -7103,6 +7223,28 @@
     },
     {
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163251,
+      "name": "Lo Que Sucede En LV",
+      "url": "https://open.spotify.com/track/7aVMXEBI5o3SqXo3cJqloR"
+    },
+    {
+      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -8907,6 +9049,28 @@
     },
     {
       "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131793,
+      "name": "NIMODO QUE NO",
+      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
+    },
+    {
+      "album": {
         "name": "Aunque Digan",
         "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
       },
@@ -9276,6 +9440,24 @@
       "duration_ms": 206150,
       "name": "Noches Negras",
       "url": "https://open.spotify.com/track/0CcNWILDznvsBTy0eYbSvN"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143906,
+      "name": "Nom\u00e1s por Bonita",
+      "url": "https://open.spotify.com/track/6GL4k6t98y0myaGkp4jdXg"
     },
     {
       "album": {
@@ -10579,6 +10761,28 @@
     },
     {
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136642,
+      "name": "Que Soy Un Malandro",
+      "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
+    },
+    {
+      "album": {
         "name": "Pa Que Sepan Como Roza La Cadena",
         "url": "https://open.spotify.com/album/1xoUpJwGPhfq2jqg7OtjdS"
       },
@@ -10714,6 +10918,24 @@
       "duration_ms": 193773,
       "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
       "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+    },
+    {
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Qu\u00e9 Ganas",
+      "url": "https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW"
     },
     {
       "album": {
@@ -12255,6 +12477,24 @@
     },
     {
       "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161935,
+      "name": "Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5QFIuK2B6MKBdwpXEos7ly"
+    },
+    {
+      "album": {
         "name": "Seguimos Dejando Marca (En Vivo)",
         "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
       },
@@ -12745,6 +12985,28 @@
     },
     {
       "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134318,
+      "name": "Tu Otra Mitad",
+      "url": "https://open.spotify.com/track/4SFzz315l6AWNczaPeAsMU"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -12782,6 +13044,28 @@
       "duration_ms": 219556,
       "name": "TU SIN MI",
       "url": "https://open.spotify.com/track/53GEtyvqjxpHS8NXLIaANL"
+    },
+    {
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka"
     },
     {
       "album": {
@@ -13474,6 +13758,24 @@
       "duration_ms": 200558,
       "name": "Volviste",
       "url": "https://open.spotify.com/track/7LxxXsIcWd3HtSCTWtTPuF"
+    },
+    {
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Voy Queri\u00e9ndote",
+      "url": "https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1"
     },
     {
       "album": {

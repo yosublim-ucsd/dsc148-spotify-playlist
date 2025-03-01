@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "5 Night",
+        "url": "https://open.spotify.com/album/7twNH5jlh4LKOnvMRoNko6"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "5 Night",
+      "url": "https://open.spotify.com/track/2eIE4dRn7vNfv2sPY5kXm2"
+    },
+    {
+      "album": {
         "name": "5 Percent",
         "url": "https://open.spotify.com/album/1qfeSZwjjTa2pU1zW6Mndk"
       },
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166922,
       "name": "Bag On Me",
       "url": "https://open.spotify.com/track/4bd0t1JQm2vYGJ5pIT76Bi"
@@ -3562,6 +3580,24 @@
       "duration_ms": 161568,
       "name": "Big Money",
       "url": "https://open.spotify.com/track/6QueNJeQGIW8qZoHqCF7un"
+    },
+    {
+      "album": {
+        "name": "Zombie Love Kensington Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115613,
+      "name": "Big Opp",
+      "url": "https://open.spotify.com/track/0anDupkCg2nwY8WnIzWZOB"
     },
     {
       "album": {
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 114431,
       "name": "Bobby Fisher (feat. Payroll Giovanni)",
       "url": "https://open.spotify.com/track/4Nb9MqxqgfEt0Xbotq9hHm"
@@ -6489,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "Cornball",
+        "url": "https://open.spotify.com/album/5ZskRxF9Hc3Mqbh8AcrZUG"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134605,
+      "name": "Cornball",
+      "url": "https://open.spotify.com/track/6RiWXEkt135XTicnJS2MyD"
+    },
+    {
+      "album": {
         "name": "Here for a Reason: In The Darkest Time",
         "url": "https://open.spotify.com/album/46AfkXwlynoZ1j0xoSDSVM"
       },
@@ -6562,7 +6616,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125842,
       "name": "Craig and DooDoo (feat. Trap Dickey)",
       "url": "https://open.spotify.com/track/1bddOKQWCXheB7c1xIl9Go"
@@ -7166,7 +7220,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195457,
       "name": "Dead N****s (feat. Polo G & G Herbo)",
       "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
@@ -7678,7 +7732,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 123941,
       "name": "Dirty Revolver",
       "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
@@ -11030,7 +11084,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 173487,
       "name": "Get It",
       "url": "https://open.spotify.com/track/0atjt58UiZ7rP6Jwc0rDbd"
@@ -11500,7 +11554,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 126164,
       "name": "Go",
       "url": "https://open.spotify.com/track/1HQFiEOMA4k4lPCnUMFwDm"
@@ -18381,6 +18435,28 @@
     },
     {
       "album": {
+        "name": "Zombie Love Kensington Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130716,
+      "name": "Maybach Seats (feat. Rob49)",
+      "url": "https://open.spotify.com/track/7MEDWo5seeTaV8yR8V7fYV"
+    },
+    {
+      "album": {
         "name": "MC OLUOMO",
         "url": "https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE"
       },
@@ -18818,6 +18894,24 @@
       "duration_ms": 170192,
       "name": "MIND OVER MATTER",
       "url": "https://open.spotify.com/track/1mPqRdXVonjyRGLWLlSiGy"
+    },
+    {
+      "album": {
+        "name": "MINNESOTA",
+        "url": "https://open.spotify.com/album/1RDJzfE2UHF8Og2Ki5SufD"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140176,
+      "name": "MINNESOTA",
+      "url": "https://open.spotify.com/track/4XtEJ8ePNIX4zKnz5OM94O"
     },
     {
       "album": {
@@ -19676,7 +19770,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171968,
       "name": "Mud Baby",
       "url": "https://open.spotify.com/track/2yaAYGFWsGP0IIFlTk14BD"
@@ -20445,6 +20539,24 @@
     },
     {
       "album": {
+        "name": "NEW ERA 8",
+        "url": "https://open.spotify.com/album/4QzWjPiNIENwAtlz0qyblr"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "NEW ERA 8",
+      "url": "https://open.spotify.com/track/2DCwTa7IhEb4Gk6UfQRXWz"
+    },
+    {
+      "album": {
         "name": "Hardy Brothers",
         "url": "https://open.spotify.com/album/1oTOi16ME9FE4Y1OFyurJB"
       },
@@ -20598,6 +20710,24 @@
       "duration_ms": 168185,
       "name": "No Dissin",
       "url": "https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR"
+    },
+    {
+      "album": {
+        "name": "World On My Head",
+        "url": "https://open.spotify.com/album/4hK0OmMpJyJXiQVYytcab2"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161187,
+      "name": "No Drop",
+      "url": "https://open.spotify.com/track/3czK7L8yxjEZWO3grVWF3G"
     },
     {
       "album": {
@@ -22784,6 +22914,24 @@
       "duration_ms": 129018,
       "name": "Pape Talk",
       "url": "https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG"
+    },
+    {
+      "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/3Ypp1ZUKsRnkLRzbAyfe2k"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147993,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/1WLXweaReiGbFB5WWqwjAn"
     },
     {
       "album": {
@@ -26811,6 +26959,24 @@
     },
     {
       "album": {
+        "name": "World On My Head",
+        "url": "https://open.spotify.com/album/4hK0OmMpJyJXiQVYytcab2"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Screwly Flow",
+      "url": "https://open.spotify.com/track/5JT7cUwuf7TQ8ftnmslvAQ"
+    },
+    {
+      "album": {
         "name": "30 Story",
         "url": "https://open.spotify.com/album/1LBGY9UEF54xFOCspyEuuE"
       },
@@ -28024,7 +28190,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165022,
       "name": "Smackers",
       "url": "https://open.spotify.com/track/2PDMK0p3rhVfnywMpXr0ML"
@@ -29726,6 +29892,24 @@
       "duration_ms": 234871,
       "name": "Suit Me Up",
       "url": "https://open.spotify.com/track/5pyve48qwbI8CTWDnW9eiQ"
+    },
+    {
+      "album": {
+        "name": "Sum Out Of Nun",
+        "url": "https://open.spotify.com/album/14Y0P6YmMDAIl9dNknMK0D"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Sum Out Of Nun",
+      "url": "https://open.spotify.com/track/26Cq1ai7WbHWK6Teou1SKS"
     },
     {
       "album": {
@@ -33760,7 +33944,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171833,
       "name": "WEST MEMPHIS",
       "url": "https://open.spotify.com/track/0HqAqJCNH9e2sKE91MkTSr"
@@ -35298,7 +35482,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188645,
       "name": "Zoo Life",
       "url": "https://open.spotify.com/track/26jWu6ccHlmi3LA3KdGz3j"

@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147603,
       "name": "8 AM",
       "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
@@ -6197,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "ROMCOM",
+        "url": "https://open.spotify.com/album/7rUN9ZsuVBmz4SF37JyUOZ"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147696,
+      "name": "ROMCOM",
+      "url": "https://open.spotify.com/track/0slW4JzTzoSWKSQdzbsVEN"
+    },
+    {
+      "album": {
         "name": "Rompediscoteka",
         "url": "https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om"
       },
@@ -6674,6 +6692,24 @@
       "duration_ms": 120058,
       "name": "Si Viene",
       "url": "https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO"
+    },
+    {
+      "album": {
+        "name": "Siempre Que Peleamos",
+        "url": "https://open.spotify.com/album/3MLWKAGd2WdGc8PKBnnBeM"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "Siempre Que Peleamos",
+      "url": "https://open.spotify.com/track/1bvB9q2rVa9dwaxNABeis2"
     },
     {
       "album": {
@@ -7294,7 +7330,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147038,
       "name": "Toda La Plata",
       "url": "https://open.spotify.com/track/5yTGgltdQt7W2gUKBDFXEV"

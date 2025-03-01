@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New, leftfield, and for the real hip-hop stans! Cover: Doechii",
+  "description": "New, leftfield, and for the real hip-hop stans! Cover: Paris Texas",
   "name": "Alternative Hip-Hop",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 381534,
       "name": "1:1[FKDUP.BEZEL]",
       "url": "https://open.spotify.com/track/0L9dIZ2pycdzAanqDiOwrG"
@@ -4319,6 +4319,28 @@
     },
     {
       "album": {
+        "name": "chase (feat. Tommy Richman)",
+        "url": "https://open.spotify.com/album/4PGTiaEsYEz59s3gIJLTfH"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164769,
+      "name": "chase (feat. Tommy Richman)",
+      "url": "https://open.spotify.com/track/4vaoDBsNpm1ztReEtrLkIo"
+    },
+    {
+      "album": {
         "name": "Quaranta (Deluxe)",
         "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
       },
@@ -7934,6 +7956,32 @@
       "duration_ms": 189066,
       "name": "flings",
       "url": "https://open.spotify.com/track/2yOkAP9vJSfLZbkuulUOCo"
+    },
+    {
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
     },
     {
       "album": {
@@ -16462,7 +16510,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162911,
       "name": "pesticides",
       "url": "https://open.spotify.com/track/4ZUeoTIJLu74h6oUaO66ve"
@@ -17118,7 +17166,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162052,
       "name": "pradaponcho",
       "url": "https://open.spotify.com/track/6Y4JejQ1typSpsBYcbwVbZ"
@@ -18578,6 +18626,24 @@
       "duration_ms": 232498,
       "name": "R\u00f6kKOut",
       "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
+    },
+    {
+      "album": {
+        "name": "S!CK (style)",
+        "url": "https://open.spotify.com/album/4jrlyJ4OnTFPnEMt1UaGtr"
+      },
+      "artists": [
+        {
+          "name": "Caleborate",
+          "url": "https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "S!CK (style)",
+      "url": "https://open.spotify.com/track/4FVlp3iNY8bjQq6vvxRGN0"
     },
     {
       "album": {
@@ -22132,6 +22198,32 @@
       "duration_ms": 131351,
       "name": "TOP FLO",
       "url": "https://open.spotify.com/track/3i0lNc8ezBNtxkOfyxdUMR"
+    },
+    {
+      "album": {
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Bekon",
+          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
     },
     {
       "album": {

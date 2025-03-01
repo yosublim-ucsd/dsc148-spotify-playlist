@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u300eMISAMO JAPAN DOME TOUR 2024 \u201cHAUTE COUTURE\u201d\u300f\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
-  "name": "On Tour Japan: MISAMO",
+  "description": "\u300eBOYNEXTDOOR TOUR 'KNOCK ON Vol.1' IN JAPAN\u300f\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u5f53\u65e5\u306eMC\u3068\u4e00\u7dd2\u306b\u697d\u3057\u3082\u3046\uff01",
+  "name": "On Tour Japan: BOYNEXTDOOR",
   "tracks": [
     {
       "album": {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "20",
+      "url": "https://open.spotify.com/track/0Pd79ZmfbrE6690cuN9fHC"
+    },
+    {
+      "album": {
         "name": "Steady - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF"
       },
@@ -41,6 +59,60 @@
     },
     {
       "album": {
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "ABCDLOVE",
+      "url": "https://open.spotify.com/track/76WmEfvmMXKBvfAkb41fut"
+    },
+    {
+      "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/0S8ADBMlBJQpncJTHtqAaT"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44781,
+      "name": "About GOOD DAY",
+      "url": "https://open.spotify.com/track/4sfvpWmUXRDo0unh3SYYgS"
+    },
+    {
+      "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/0S8ADBMlBJQpncJTHtqAaT"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62300,
+      "name": "About IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/3JiF9qFwFo4jGrGieEcZgX"
+    },
+    {
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/3Vupzmw4Fjk2uTW7hUrji0"
       },
@@ -56,6 +128,24 @@
       "duration_ms": 129598,
       "name": "Always",
       "url": "https://open.spotify.com/track/62jZu5ozVsROg5pzBkxCA0"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1w1kvWFdm3u0GgkG9VSFGH"
     },
     {
       "album": {
@@ -196,7 +286,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 179386,
       "name": "Baby, I'm good",
       "url": "https://open.spotify.com/track/5VeH6BTYuILdKR7SzSuwkx"
@@ -286,7 +376,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178733,
       "name": "Behind The Curtain",
       "url": "https://open.spotify.com/track/14nturKxV48wR3lbknehiu"
@@ -488,7 +578,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 264389,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/3XwMdYdN6PauyBAOQxlu76"
@@ -603,6 +693,42 @@
     },
     {
       "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "But I Like You",
+      "url": "https://open.spotify.com/track/3cJgwAm8FRkgjRIGatdRct"
+    },
+    {
+      "album": {
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "But Sometimes",
+      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
+    },
+    {
+      "album": {
         "name": "We Boom - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
       },
@@ -618,6 +744,24 @@
       "duration_ms": 207155,
       "name": "Bye My First\u2026",
       "url": "https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM"
+    },
+    {
+      "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1Oa2zQLfI44pN76mZgAoqT"
     },
     {
       "album": {
@@ -855,6 +999,24 @@
     },
     {
       "album": {
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/2EcUNCoMNUqqF6v81loNNk"
+    },
+    {
+      "album": {
         "name": "<FLY-UP> - Special Edition -",
         "url": "https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL"
       },
@@ -891,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0OaHZgVm77zLQNR3kwFf6n"
+    },
+    {
+      "album": {
         "name": "Fe3O4: BREAK",
         "url": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y"
       },
@@ -920,7 +1100,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165133,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6Ysrcp03rQVYuSeFO6bC0W"
@@ -1046,7 +1226,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
@@ -1215,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -1251,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/0S8ADBMlBJQpncJTHtqAaT"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85091,
+      "name": "Ending Ment",
+      "url": "https://open.spotify.com/track/1kkgF7mYaN56KorQznvdBH"
+    },
+    {
+      "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
@@ -1284,6 +1500,24 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "album": {
+        "name": "Fadeaway (From \"GARBAGE TIME\")",
+        "url": "https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Fadeaway",
+      "url": "https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv"
     },
     {
       "album": {
@@ -1442,7 +1676,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197080,
       "name": "Funny Valentine",
       "url": "https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT"
@@ -1576,6 +1810,60 @@
       "duration_ms": 201707,
       "name": "Go Big or Go Home",
       "url": "https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY"
+    },
+    {
+      "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/0S8ADBMlBJQpncJTHtqAaT"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69552,
+      "name": "Go to Next Stage?",
+      "url": "https://open.spotify.com/track/2eHM64vUuDYBMtco8xCeTF"
+    },
+    {
+      "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Gonna Be A Rock",
+      "url": "https://open.spotify.com/track/1t4a4bAObtfBiiNo0a0vle"
+    },
+    {
+      "album": {
+        "name": "AND,",
+        "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2"
     },
     {
       "album": {
@@ -1896,7 +2184,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 140466,
       "name": "Identity",
       "url": "https://open.spotify.com/track/0wu7L2JkRqx2nFCSiYqcKy"
@@ -1986,7 +2274,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 140413,
       "name": "It's not easy for you",
       "url": "https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN"
@@ -2004,7 +2292,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199360,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/17mOPJIiRx5J5jtvOzvpet"
@@ -2116,6 +2404,24 @@
       "duration_ms": 186573,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "l i f e i s c o o l",
+      "url": "https://open.spotify.com/track/7rXUWfUAaOmPNHS7cwfTL2"
     },
     {
       "album": {
@@ -2436,7 +2742,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182321,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/1V6H3YoNZJ2WlPmwsaOXZx"
@@ -2490,7 +2796,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 28266,
       "name": "Message from MISAMO",
       "url": "https://open.spotify.com/track/46Y4GOxN1BROB0f9rhovKj"
@@ -2562,7 +2868,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180360,
       "name": "Mirage (SANA)",
       "url": "https://open.spotify.com/track/0HtVZMMehKHJPG4npCnXIv"
@@ -2580,7 +2886,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194973,
       "name": "Misty (MINA)",
       "url": "https://open.spotify.com/track/347F32RMBGXtUyntcqX1oS"
@@ -2598,7 +2904,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149026,
       "name": "Money In My Pocket (MOMO)",
       "url": "https://open.spotify.com/track/78qBcW44wNzdr2EDpqi0oV"
@@ -2760,7 +3066,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 196680,
       "name": "NEW LOOK",
       "url": "https://open.spotify.com/track/2dcUJfnd2BAKS7jUSdlmmO"
@@ -2782,6 +3088,24 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
     },
     {
       "album": {
@@ -2875,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d"
+    },
+    {
+      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx"
       },
@@ -2944,6 +3286,24 @@
       "duration_ms": 180285,
       "name": "Orange Flower (You Complete Me)",
       "url": "https://open.spotify.com/track/5Cb3JSisvjlZhjSfYD6d7C"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156240,
+      "name": "OUR",
+      "url": "https://open.spotify.com/track/54wqX30KnwGZdLmi8r0Wgo"
     },
     {
       "album": {
@@ -3156,7 +3516,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197120,
       "name": "Rewind you",
       "url": "https://open.spotify.com/track/1ND5rLpNQsyLxRd84HysSn"
@@ -3246,7 +3606,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163466,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/1ctHNAVFmDTtge6GpmuBlg"
@@ -3340,6 +3700,24 @@
       "duration_ms": 199213,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC"
+    },
+    {
+      "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/0mJohf6KCgFeCWbMBAS8RL"
     },
     {
       "album": {
@@ -3455,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66773,
+      "name": "SKIT",
+      "url": "https://open.spotify.com/track/52NdZoytptz6k8oMtDWtzX"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -3488,6 +3884,24 @@
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "So let's go see the stars",
+      "url": "https://open.spotify.com/track/7x9s9KVpMOrQ2z2fzOGo8z"
     },
     {
       "album": {
@@ -3596,6 +4010,24 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "BOYNEXTDOOR TOUR \u2018KNOCK ON Vol.1\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/0S8ADBMlBJQpncJTHtqAaT"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54501,
+      "name": "Starting Japan Tour",
+      "url": "https://open.spotify.com/track/4z4UVsUQHhu6ouUft5uHqM"
     },
     {
       "album": {
@@ -4140,7 +4572,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 187013,
       "name": "Wah Wah Wah",
       "url": "https://open.spotify.com/track/13NAPa9UGsNvpWlCeIBB9K"
@@ -4432,6 +4864,24 @@
       "duration_ms": 306626,
       "name": "\u30de\u30ea\u30fc\u30b4\u30fc\u30eb\u30c9",
       "url": "https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S"
     },
     {
       "album": {

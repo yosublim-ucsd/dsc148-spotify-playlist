@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con ha$lopablito en portada.
 
-165 songs - 9 hr 9 min
+166 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 | 2023-09-22 | 2023-10-14 |
 | [Cómo Te Hago Entender](https://open.spotify.com/track/0uPbJDwoDa065Os4rxUNRj) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Cómo Te Hago Entender](https://open.spotify.com/album/2Cj7bkDQI88H1TmrBaL3Km) | 3:45 | 2024-02-02 | 2024-08-03 |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-09-22 | 2024-02-10 |
+| [Dando Vueltas](https://open.spotify.com/track/2Srk8jVfZ127B9M3xSFueE) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [Dando Vueltas](https://open.spotify.com/album/6ggzEqaDwakWrfmb6z4PcK) | 2:57 | 2025-02-28 |  |
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2023-09-22 |  |
 | [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
@@ -93,7 +94,7 @@
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 | 2023-12-02 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2023-11-11 |
 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 | 2024-04-26 |  |
-| [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-12 |  |
+| [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-12 | 2025-03-01 |
 | [lo que dura la canción](https://open.spotify.com/track/0Tn2iauUDbOKWpP3et4Wuz) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [lo que dura la canción](https://open.spotify.com/album/7N3TiYr4lyhNCPCVKyhZak) | 3:11 | 2024-11-08 |  |
 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-22 | 2023-10-28 |
 | [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-07-19 |  |

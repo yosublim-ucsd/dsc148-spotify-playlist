@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-339 songs - 22 hr 23 min
+340 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2025-02-20 |  |
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2024-01-31 |  |
 | [Love Again](https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Love Again](https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN) | 2:34 | 2022-02-18 | 2022-03-10 |
-| [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/51zMVZ0d9XOwsWvgz4kFZb) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 | 2024-01-31 |  |
+| [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/51zMVZ0d9XOwsWvgz4kFZb) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 | 2024-01-31 | 2025-03-01 |
 | [Love Calls](https://open.spotify.com/track/3HoyAX58MUIBFCNmhMliHy) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Kemistry](https://open.spotify.com/album/3ebsgIalEIKpGBVrNErCAd) | 5:13 | 2023-02-10 | 2024-02-01 |
 | [Love Drought](https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:57 | 2023-02-10 | 2024-02-01 |
 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 | 2021-12-15 | 2024-12-21 |
@@ -235,6 +235,7 @@
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2023-02-10 |  |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2021-12-15 | 2023-02-11 |
 | [One Call Away](https://open.spotify.com/track/0UNTBB02C1aB55Fu4H63qd) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:36 | 2023-02-10 |  |
+| [One Call Away \(feat\. Chris Brown\)](https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:31 | 2025-02-28 |  |
 | [Only Want U](https://open.spotify.com/track/3hfvgjn6ep3xxNK7CltOUu) | [JAWAN.mp3](https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7) | [The Abstract](https://open.spotify.com/album/3ghDo0bFt6BoOeWK8NCXXi) | 4:14 | 2022-10-17 | 2023-02-11 |
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/4SHR8Udn1oQ95yvXRZU1I8) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3xep2gRuo1u8ekr5Qz6VQl) | 6:16 | 2021-12-15 | 2022-07-29 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-02-10 | 2024-02-01 |

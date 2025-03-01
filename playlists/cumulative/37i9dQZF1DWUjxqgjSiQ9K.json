@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Art Aguilar",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Art Aguilera",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Bendice Alma M\u00eda",
+        "url": "https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284855,
+      "name": "Bendice Alma M\u00eda",
+      "url": "https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW"
+    },
+    {
+      "album": {
         "name": "Bendita Esperanza (Live)",
         "url": "https://open.spotify.com/album/3HfqQdQJPKHIsikpX2xWac"
       },
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184843,
       "name": "Canta Mi Alma",
       "url": "https://open.spotify.com/track/5CMg6LmZClRr9tzFZCKdSl"
@@ -2246,6 +2264,28 @@
       "duration_ms": 328135,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/4XXfX1L3uqlRxbHmsgTCvE"
+    },
+    {
+      "album": {
+        "name": "Cantar\u00e9 de tu Amor",
+        "url": "https://open.spotify.com/album/5qblGELHjLgR6dKwPQdMBv"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321269,
+      "name": "Cantar\u00e9 de tu Amor",
+      "url": "https://open.spotify.com/track/7gdABl8DcNsz8KyKrjN8gM"
     },
     {
       "album": {
@@ -4005,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Dios Fuerte",
+        "url": "https://open.spotify.com/album/7ksMtOqkJt5urr5XejIDOH"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460374,
+      "name": "Dios Fuerte",
+      "url": "https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB"
+    },
+    {
+      "album": {
         "name": "DIOS HA SIDO BUENO",
         "url": "https://open.spotify.com/album/13L1JYQNlTfmBYWrvB6yEq"
       },
@@ -5060,7 +5118,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 305591,
       "name": "Entregado",
       "url": "https://open.spotify.com/track/6BmeJq8UwA4gq8XHhALRx9"
@@ -6151,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "AM 7",
+        "url": "https://open.spotify.com/album/6vJtUOKKP5nCJCpGkwUSLm"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/1i9VV4U4QVWdhOODMfE229"
+    },
+    {
+      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0LTPe8lgBKZbso4WBdHx74"
       },
@@ -6464,7 +6540,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 418386,
       "name": "Habita - Live",
       "url": "https://open.spotify.com/track/7zdFxQhgrHC3WI2NfRiRR6"
@@ -8790,7 +8866,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 342227,
       "name": "Mi Salvador",
       "url": "https://open.spotify.com/track/4gXN01KSnEQ0WEDfhtMHq4"
@@ -10024,6 +10100,28 @@
       "duration_ms": 243837,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ"
+    },
+    {
+      "album": {
+        "name": "Esto es Otra Cosa",
+        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Nueva Temporada",
+      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
     },
     {
       "album": {
@@ -12372,7 +12470,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 271426,
       "name": "Solo En Jes\u00fas",
       "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
@@ -14294,7 +14392,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 730907,
       "name": "Ven Regresa",
       "url": "https://open.spotify.com/track/0MGftj6dMvNbOmYdc862fr"
@@ -14320,6 +14418,28 @@
       "duration_ms": 582917,
       "name": "Ven Satura - En Vivo",
       "url": "https://open.spotify.com/track/3pfSCaOp79DNAi5rriXaiG"
+    },
+    {
+      "album": {
+        "name": "Vencido (Live)",
+        "url": "https://open.spotify.com/album/2kh9Yrv0RwSEpiRYxKbgjV"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499186,
+      "name": "Vencido - Live",
+      "url": "https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A"
     },
     {
       "album": {

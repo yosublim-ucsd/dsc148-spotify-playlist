@@ -4353,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "blue valentine",
+        "url": "https://open.spotify.com/album/6z6XNp6gYizrFIGTylKvq4"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130194,
+      "name": "blue valentine",
+      "url": "https://open.spotify.com/track/2YsQabOHFEVABlTJ0BLaSU"
+    },
+    {
+      "album": {
         "name": "Mood Modifier",
         "url": "https://open.spotify.com/album/0KDTtTTW2RgZaBdlyPb4P8"
       },
@@ -14832,7 +14850,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 118554,
       "name": "go back to sleep",
       "url": "https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR"
@@ -18126,7 +18144,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
@@ -19702,7 +19720,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 138666,
       "name": "Leaps Of Faith",
       "url": "https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S"

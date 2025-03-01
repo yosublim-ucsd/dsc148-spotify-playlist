@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: R\u00d8RY",
-  "num_followers": 589091,
+  "num_followers": 589156,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "Why Would I Watch",
-        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 200595,
-      "name": "No Shoes in the Coffee Shop (Or Socks)",
-      "url": "https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "Why Would I Watch",
+        "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 200595,
+      "name": "No Shoes in the Coffee Shop (Or Socks)",
+      "url": "https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
         "name": "B.A.B.E.",
         "url": "https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+        "name": "Funny Face",
+        "url": "https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
         }
       ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+      "duration_ms": 167904,
+      "name": "Funny Face",
+      "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -723,38 +739,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "Funny Face",
-        "url": "https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 167904,
-      "name": "Funny Face",
-      "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
-        "name": "The Rock Show",
-        "url": "https://open.spotify.com/album/5oej3v6X1KNDzd1b8P4zDZ"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "The Rock Show",
-      "url": "https://open.spotify.com/track/44ChFEM79BVYEXhDN2UQkH"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "Incomplete",
         "url": "https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 216338,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "The Rock Show",
+        "url": "https://open.spotify.com/album/5oej3v6X1KNDzd1b8P4zDZ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "The Rock Show",
+      "url": "https://open.spotify.com/track/44ChFEM79BVYEXhDN2UQkH"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -871,30 +871,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "Forgive (feat. Joe Taylor)",
-        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
-      },
-      "artists": [
-        {
-          "name": "Shoreline",
-          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        },
-        {
-          "name": "Joe Taylor",
-          "url": "https://open.spotify.com/artist/6CkD3DpO2MXNoTciSNL5Cj"
-        }
-      ],
-      "duration_ms": 193912,
-      "name": "Forgive (feat. Joe Taylor)",
-      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "Forgive (feat. Joe Taylor)",
+        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/6CkD3DpO2MXNoTciSNL5Cj"
+        }
+      ],
+      "duration_ms": 193912,
+      "name": "Forgive (feat. Joe Taylor)",
+      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 217235,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
         "name": "Dial Tones X (feat. Holding Absence)",
         "url": "https://open.spotify.com/album/1phetcHx7smJTwJsuN8hqN"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 197527,
       "name": "Dial Tones X (feat. Holding Absence)",
       "url": "https://open.spotify.com/track/7HlHHdXN8RJMdAA2Ujbwju"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 217235,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "20 Something",
-        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "Watch The Fire",
         "url": "https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 208640,
       "name": "Watch The Fire",
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "When I'm Dead",
-        "url": "https://open.spotify.com/album/4u99JawFy9aht4HCD6FKak"
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
       },
       "artists": [
         {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 184874,
-      "name": "When I'm Dead",
-      "url": "https://open.spotify.com/track/1Zpe97i8SK2dPGA0yaJsIm"
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "Certified Depressant",
-        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Everything Sucks",
-      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "When I'm Dead",
+        "url": "https://open.spotify.com/album/4u99JawFy9aht4HCD6FKak"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 184874,
+      "name": "When I'm Dead",
+      "url": "https://open.spotify.com/track/1Zpe97i8SK2dPGA0yaJsIm"
     },
     {
       "added_at": "2025-02-21 14:17:15",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-21 14:17:15",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Some Girls",
-      "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
-    },
-    {
-      "added_at": "2025-02-21 14:17:15",
-      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
+    },
+    {
+      "added_at": "2025-02-21 14:17:15",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/2dvZmyHj13wcxdWPHAq4oD"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Some Girls",
+      "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
     },
     {
       "added_at": "2025-02-21 14:17:15",

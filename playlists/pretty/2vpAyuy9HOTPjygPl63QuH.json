@@ -1,13 +1,29 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 12017,
+  "num_followers": 12018,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAk00VZNf88rYwioc/w2y2kcJRZhQv6",
+  "snapshot_id": "AAAk67/lYqTDbKuEs1OqLqadHceZbkIh",
   "tracks": [
+    {
+      "added_at": "2025-02-28 09:46:25",
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
     {
       "added_at": "2025-01-24 00:02:20",
       "album": {
@@ -47,6 +63,50 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "added_at": "2025-02-28 09:49:21",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1W8Hn0rq5LNsfnDi67X8rC"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/6PWMNrSexfbrn7Fw1mxupR"
+    },
+    {
+      "added_at": "2025-02-28 11:43:13",
+      "album": {
+        "name": "Proper Whopper",
+        "url": "https://open.spotify.com/album/7cGuSvxH6gsyygZOQZQrGb"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Sam Curran",
+          "url": "https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA"
+        },
+        {
+          "name": "Harry Unsworth",
+          "url": "https://open.spotify.com/artist/1cS0sZXi7K2blpbendbE2A"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Proper Whopper",
+      "url": "https://open.spotify.com/track/0jDYMxl9oJRNPOnVKKVaZW"
     },
     {
       "added_at": "2025-02-07 13:10:36",
@@ -125,24 +185,24 @@
       "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
     },
     {
-      "added_at": "2025-02-21 12:35:06",
+      "added_at": "2025-02-28 09:46:04",
       "album": {
-        "name": "Choose Violence",
-        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+        "name": "SNITCHES",
+        "url": "https://open.spotify.com/album/288DkcVUVOKUFHxRUksks0"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
         },
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "CHMPLOO",
+          "url": "https://open.spotify.com/artist/2Ak25JbEnXbtfswxK5qepN"
         }
       ],
-      "duration_ms": 195071,
-      "name": "Choose Violence",
-      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+      "duration_ms": 210000,
+      "name": "SNITCHES",
+      "url": "https://open.spotify.com/track/5mKJBpvDf4wOLxHUnVYti2"
     },
     {
       "added_at": "2025-02-21 12:35:04",
@@ -163,6 +223,58 @@
       "duration_ms": 170644,
       "name": "Drum Death",
       "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
+    },
+    {
+      "added_at": "2025-02-21 12:35:06",
+      "album": {
+        "name": "Choose Violence",
+        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Choose Violence",
+      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+    },
+    {
+      "added_at": "2025-02-28 09:46:17",
+      "album": {
+        "name": "Take Me Up / Stop The Yap",
+        "url": "https://open.spotify.com/album/69yxpI7gvwnU6tE1jqHaEQ"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "Take Me Up - Radio Edit",
+      "url": "https://open.spotify.com/track/1VVrKYpRjdTMT7D5nd0pFp"
+    },
+    {
+      "added_at": "2025-02-28 09:47:28",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2Ij05JnZx2T3CaWMWhPuLS"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7wcBjem7yS10mCTL7Tf14k"
     },
     {
       "added_at": "2025-01-24 12:22:34",
@@ -245,20 +357,24 @@
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
-      "added_at": "2025-01-18 14:03:31",
+      "added_at": "2025-02-28 09:47:10",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/4aMjAjmddidXMjA5e65gaX"
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
       },
       "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
         {
           "name": "Dan Molinari",
           "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7s4FWMmzcHjOkJvo4L2ZWs"
+      "duration_ms": 180000,
+      "name": "P!NK",
+      "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
     },
     {
       "added_at": "2025-02-07 13:13:38",
@@ -321,24 +437,20 @@
       "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
     },
     {
-      "added_at": "2025-01-17 11:38:36",
+      "added_at": "2025-02-28 09:46:23",
       "album": {
-        "name": "Love Spell",
-        "url": "https://open.spotify.com/album/7CF7PF1YvnPkuziTrWvfQW"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/227mLJGRGZAIHOliiU6ZC6"
       },
       "artists": [
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
         }
       ],
-      "duration_ms": 182769,
-      "name": "Love Spell",
-      "url": "https://open.spotify.com/track/0fjN6JXHE5CS03lUp6DHlk"
+      "duration_ms": 166153,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3WKP2GWvwidg2TDMD1RM2k"
     },
     {
       "added_at": "2025-01-25 11:58:29",
@@ -417,34 +529,6 @@
       "url": "https://open.spotify.com/track/5Ctacqj7cOVHtOcO8ZYZ57"
     },
     {
-      "added_at": "2025-01-17 11:38:19",
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/4XJj6w9B1gj4pWmtFtwS1P"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Detlef",
-          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
-        },
-        {
-          "name": "TheConnect",
-          "url": "https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0"
-        },
-        {
-          "name": "Spektrum",
-          "url": "https://open.spotify.com/artist/4Z0QHIb2JGll7LllNLeKyD"
-        }
-      ],
-      "duration_ms": 230697,
-      "name": "Pony feat. Spektrum",
-      "url": "https://open.spotify.com/track/0wHTFWA4lXEVy4O5URaLVA"
-    },
-    {
       "added_at": "2025-02-07 13:11:00",
       "album": {
         "name": "Hoochie Mama",
@@ -479,22 +563,6 @@
       "duration_ms": 201377,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
-    },
-    {
-      "added_at": "2025-01-17 11:38:15",
-      "album": {
-        "name": "Paula Abdul",
-        "url": "https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Paula Abdul",
-      "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
     },
     {
       "added_at": "2025-02-07 13:13:29",
@@ -573,26 +641,6 @@
       "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
     },
     {
-      "added_at": "2025-01-17 11:38:43",
-      "album": {
-        "name": "Circle Dance",
-        "url": "https://open.spotify.com/album/4VoYexYVHkOYq6UOizr1VS"
-      },
-      "artists": [
-        {
-          "name": "TEKO",
-          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
-        },
-        {
-          "name": "Malcolm Zeller",
-          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Circle Dance",
-      "url": "https://open.spotify.com/track/68FNt48LTZq4NILRCMKtWG"
-    },
-    {
       "added_at": "2025-02-07 13:10:57",
       "album": {
         "name": "Nonstop",
@@ -609,36 +657,20 @@
       "url": "https://open.spotify.com/track/0dIK6A97udcCJ3oq55sl2f"
     },
     {
-      "added_at": "2025-01-13 14:26:45",
+      "added_at": "2025-02-28 09:47:05",
       "album": {
-        "name": "La Tengo EP",
-        "url": "https://open.spotify.com/album/5WYfSjuJZcjxjUG3wijbWE"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/2AMhmZpPHkZnCs3aYQ0tEs"
       },
       "artists": [
         {
-          "name": "Milan",
-          "url": "https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 221538,
-      "name": "La Tengo",
-      "url": "https://open.spotify.com/track/4qpc48pFG6GKtrq1VM0MOL"
-    },
-    {
-      "added_at": "2025-01-17 11:38:40",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/7HH4LiIIrbJ2dc5pzftC0m"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/5wo8Gt4FPo4XSGh1hAKrIg"
+      "duration_ms": 180000,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/76kfd4vdAf10jSJNI6xop1"
     },
     {
       "added_at": "2024-06-28 10:30:04",
@@ -693,22 +725,6 @@
       "url": "https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11"
     },
     {
-      "added_at": "2025-01-17 11:38:28",
-      "album": {
-        "name": "Ma Face",
-        "url": "https://open.spotify.com/album/1Be1DPZvfZDrmXFJcirAf8"
-      },
-      "artists": [
-        {
-          "name": "Roxe",
-          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Ma Face",
-      "url": "https://open.spotify.com/track/5ZcMllqKkC7lvlk71gdQOv"
-    },
-    {
       "added_at": "2025-01-17 11:41:46",
       "album": {
         "name": "Kicking You Out",
@@ -723,26 +739,6 @@
       "duration_ms": 132727,
       "name": "Kicking You Out",
       "url": "https://open.spotify.com/track/2wxzJgEPeK0nteer6J8Z93"
-    },
-    {
-      "added_at": "2025-01-17 11:38:33",
-      "album": {
-        "name": "Beat of the Drum EP",
-        "url": "https://open.spotify.com/album/0v6VNydsSAFaLaeY3z8Uex"
-      },
-      "artists": [
-        {
-          "name": "Damelo",
-          "url": "https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5"
-        },
-        {
-          "name": "Joe Vanditti",
-          "url": "https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC"
-        }
-      ],
-      "duration_ms": 364000,
-      "name": "Beat of the Drum",
-      "url": "https://open.spotify.com/track/3QeAAUENrwqgyS7DYXFdRG"
     },
     {
       "added_at": "2025-01-17 11:38:54",

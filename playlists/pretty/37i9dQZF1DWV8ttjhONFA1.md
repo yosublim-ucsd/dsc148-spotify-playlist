@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Andry Bett
+> El nuevo sonido argentino lo encontrás acá\. Foto: BLAIR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,724 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,735 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Un Rato Más](https://open.spotify.com/track/5Sps2GFDVRR4AARMFT5Psx) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Un Rato Más](https://open.spotify.com/album/0Kg7boJK6PpHrg6N53s4aL) | 3:04 |
-| 2 | [Extracto](https://open.spotify.com/track/6TJrQLM2IFVsfscsZUsRRg) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Extracto](https://open.spotify.com/album/6z08grMSoMiOxXPINCfGic) | 2:32 |
+| 1 | [TODO LO QUE TENGO](https://open.spotify.com/track/7g9MkDG1sBk9zazzGOaqXF) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [TODO LO QUE TENGO](https://open.spotify.com/album/2Xn78gLJkbchsxPqnMrMsd) | 3:30 |
+| 2 | [Comando Juntar](https://open.spotify.com/track/0OUzVgwTdNmSsC3QyDFijv) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Comando Juntar](https://open.spotify.com/album/2KIINvnUtbd2vJjV4bDlyb) | 3:48 |
 | 3 | [Desvelo](https://open.spotify.com/track/3zhfv6cdYKBth1rm5woQuZ) | [Eugenia Mosca](https://open.spotify.com/artist/7caluRMMl2cL4NMmKtC3hu), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy) | [Desvelo](https://open.spotify.com/album/6eOIWZHYhKZdXni7zQpR4X) | 2:38 |
 | 4 | [Yanina](https://open.spotify.com/track/3ERN9saVeg8WeMe8m48Spd) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Yanina](https://open.spotify.com/album/0qdCj5u3smxdwDTMVUUhGZ) | 2:58 |
 | 5 | [QUE PASO](https://open.spotify.com/track/7CphBSzmtjPXdkhpdN7Ex8) | [El Dog](https://open.spotify.com/artist/0zZ9SfkYVZwhWf1Zik2rHU) | [QUE PASO](https://open.spotify.com/album/07J4Xvz3NjcyJ08yqWXqOj) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 |
 | 100 | [Amor de Verano \- Remix](https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Amor de Verano \(Remix\)](https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc) | 2:54 |
 
-Snapshot ID: `Z7iCrAAAAABt4cEjiT18VOf0mTgIPQVw`
+Snapshot ID: `Z8EmzAAAAACbNtSec9rWHM1cBlB/YEgW`

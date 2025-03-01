@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Mdou Moctar on cover.",
-  "num_followers": 555451,
+  "num_followers": 555502,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Pastafrolla",
-        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
-      },
-      "artists": [
-        {
-          "name": "Post Nebbia",
-          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Pastafrolla",
-      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Pastafrolla",
+        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Pastafrolla",
+      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "MU!",
-        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
-      },
-      "artists": [
-        {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
-        }
-      ],
-      "duration_ms": 208994,
-      "name": "Sword In the Stone",
-      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "A Round of Applause",
         "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 265374,
       "name": "See",
       "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "MU!",
+        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
+      },
+      "artists": [
+        {
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+        }
+      ],
+      "duration_ms": 208994,
+      "name": "Sword In the Stone",
+      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Canti, Vol. I",
-        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
-      },
-      "artists": [
-        {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Nel Tempio Blu",
-      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
-        "name": "Cascabel",
-        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 392598,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -1215,6 +1183,22 @@
       "duration_ms": 221701,
       "name": "Asteroid Witch",
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Canti, Vol. I",
+        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Nel Tempio Blu",
+      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
+      },
+      "artists": [
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "duration_ms": 392598,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Sul Globo d'argento",
-        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
       "artists": [
         {
-          "name": "Neoprimitivi",
-          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
         }
       ],
-      "duration_ms": 1259437,
-      "name": "Sul Globo d'argento",
-      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "Sul Globo d'argento",
+        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Neoprimitivi",
+          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 1259437,
+      "name": "Sul Globo d'argento",
+      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Cardboard Pile",
-        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Cardboard Pile",
-      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "D\u00edas Grises",
-        "url": "https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy"
+        "name": "Cardboard Pile",
+        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
       },
       "artists": [
         {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Los Duelistas",
-      "url": "https://open.spotify.com/track/0wrDrk9j23NV6OnGaTpib4"
+      "duration_ms": 246500,
+      "name": "Cardboard Pile",
+      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1459,6 +1443,22 @@
       "duration_ms": 304901,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "D\u00edas Grises",
+        "url": "https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Los Duelistas",
+      "url": "https://open.spotify.com/track/0wrDrk9j23NV6OnGaTpib4"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+        "name": "Taste of Blood",
+        "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
       },
       "artists": [
         {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+          "name": "My Expansive Awareness",
+          "url": "https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND"
         }
       ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+      "duration_ms": 269799,
+      "name": "God of Sun",
+      "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 73979,
+  "num_followers": 74058,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAACr9lfb3wQ0SoIuvQFEOlu3",
+  "snapshot_id": "Z7+rAAAAAADCVr7C4r7tOF+HRpCNPAwc",
   "tracks": [
     {
       "added_at": null,
@@ -1095,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Alguien Mas",
+      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amigos X Siempre",
         "url": "https://open.spotify.com/album/4uC8aLKiO6jtJQOcQsROFn"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 193626,
       "name": "Amigos por Siempre",
       "url": "https://open.spotify.com/track/2T5zGc7PYrxpgN3lL1BcAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Alguien Mas",
-      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
     },
     {
       "added_at": null,

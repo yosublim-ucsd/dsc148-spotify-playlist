@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Alkolirykoz",
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Crudo Means Raw",
   "name": "Los Gallos",
   "tracks": [
     {
@@ -916,6 +916,24 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
+    },
+    {
+      "album": {
+        "name": "Dios y Madre",
+        "url": "https://open.spotify.com/album/1dMfJIlVKopZkPqn2UmTQH"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "Dios y Madre",
+      "url": "https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt"
     },
     {
       "album": {
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 164659,
       "name": "Querido Frank",
       "url": "https://open.spotify.com/track/6jPdkC03Y7tZpG5D9QEnTz"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 223616,
       "name": "Raza Brava",
       "url": "https://open.spotify.com/track/5LQek02qLbkou8wBEgwVLv"
@@ -3578,6 +3596,28 @@
       "duration_ms": 118500,
       "name": "Viento",
       "url": "https://open.spotify.com/track/38HS4ioSKj5aIj5Czr0352"
+    },
+    {
+      "album": {
+        "name": "Miedo",
+        "url": "https://open.spotify.com/album/1hoK3q8ot47VN4o2sAYvgU"
+      },
+      "artists": [
+        {
+          "name": "Luis7Lunes",
+          "url": "https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152174,
+      "name": "Viento en Popa",
+      "url": "https://open.spotify.com/track/6dXCENI9cZZjB2adfQAeor"
     },
     {
       "album": {

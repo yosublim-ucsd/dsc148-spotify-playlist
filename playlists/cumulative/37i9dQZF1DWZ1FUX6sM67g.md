@@ -2,15 +2,15 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond & Emilia
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Fonseca & Rawayana
 
-218 songs - 12 hr 47 min
+220 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/28IydUm2BpsO9NP3lPjGvX) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [24/7](https://open.spotify.com/album/7C6LwNsw7ClFlZZEhjkqkO) | 3:19 | 2022-11-11 | 2023-02-10 |
 | [Addicted to You](https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:27 | 2023-09-25 | 2023-11-04 |
-| [Ahora o nunca](https://open.spotify.com/track/1BxFaBpXzfSRollZPEDS8b) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol\. 2](https://open.spotify.com/album/0QLPKDCgBilROQKel4flIp) | 4:07 | 2024-11-22 |  |
+| [Ahora o nunca](https://open.spotify.com/track/1BxFaBpXzfSRollZPEDS8b) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol\. 2](https://open.spotify.com/album/0QLPKDCgBilROQKel4flIp) | 4:07 | 2024-11-22 | 2025-03-01 |
 | [Akakaw](https://open.spotify.com/track/0tSy6coB9Bs7qAdkcCi2JE) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Akakaw](https://open.spotify.com/album/3lxQjWRZ7SKbwYg5C3BFox) | 3:12 | 2023-09-11 | 2024-01-27 |
 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 | 2024-04-26 |  |
 | [Algo Mejor](https://open.spotify.com/track/1Kdh7ieq52jm0aa7A3izgV) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Algo Mejor](https://open.spotify.com/album/72vF4DCs5ml4Azd7XBEGE0) | 2:39 | 2024-06-21 | 2024-08-24 |
@@ -42,7 +42,7 @@
 | [Borracha & Loca](https://open.spotify.com/track/3M2Uxu8sbTwgznw6anIxB9) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:49 | 2023-02-02 | 2023-02-25 |
 | [Brindo Con Agua](https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Brindo Con Agua](https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO) | 4:41 | 2024-04-05 |  |
 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 | 2022-05-26 | 2023-04-29 |
-| [Buenos Aires](https://open.spotify.com/track/4XOLt9ws0ySnmOhp5snGQN) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Bachata City](https://open.spotify.com/album/156ryhlAmn7gxfm7D5sD8h) | 3:41 | 2024-11-15 |  |
+| [Buenos Aires](https://open.spotify.com/track/4XOLt9ws0ySnmOhp5snGQN) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Bachata City](https://open.spotify.com/album/156ryhlAmn7gxfm7D5sD8h) | 3:41 | 2024-11-15 | 2025-03-01 |
 | [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-02-10 | 2023-04-22 |
 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 | 2024-11-23 |
 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 | 2024-04-26 |  |
@@ -57,6 +57,7 @@
 | [Chacha Me \- Español](https://open.spotify.com/track/3d2O38xlPzQRHo98Brb6Xn) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Chacha Me](https://open.spotify.com/album/1Ts5BDhFPlSth1TgB37iC0) | 3:20 | 2022-05-20 | 2022-08-06 |
 | [Colección De Recuerdos](https://open.spotify.com/track/0CFAlfhun1YGMHoEEdyyYV) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Colección De Recuerdos](https://open.spotify.com/album/1oQ9hPIOK2Me7vDa55IjCa) | 3:47 | 2024-03-22 | 2024-08-17 |
 | [Como Olvidarte](https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Olvidarte](https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9) | 3:08 | 2024-01-26 | 2024-04-06 |
+| [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender \(Clean\)](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 | 2025-02-28 |  |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-20 |  |
 | [Como Te Pago](https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ) | 3:13 | 2023-06-30 | 2024-04-19 |
 | [Como Tu No Hay Dos \- Acoustic Version](https://open.spotify.com/track/4CpPFzhamJ5cuxZmBL8NTd) | [Buxxi](https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz), [Jacob Bush](https://open.spotify.com/artist/5pTsrFcYLR8Uy9f1wMUXDz) | [Como Tu No Hay Dos \(Acoustic Version\)](https://open.spotify.com/album/6LxvokuIy4HhATjbxNAXzH) | 2:50 | 2022-05-20 | 2023-04-22 |
@@ -221,6 +222,7 @@
 | [Ven a Mi](https://open.spotify.com/track/1g2ZA7SEOEio0tiPRuKQlS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 4:44 | 2022-05-20 | 2022-07-29 |
 | [Ven A Mí](https://open.spotify.com/track/3FbY8IsVYAnchlr4wQfH2e) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente Y Futuro](https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt) | 4:44 | 2022-07-28 | 2022-09-10 |
 | [Ven y Dime](https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Ven y Dime](https://open.spotify.com/album/4IRFm0IENRUI4qRcWuOvZS) | 4:37 | 2022-05-20 | 2022-10-29 |
+| [VENGA lo que VENGA](https://open.spotify.com/track/53q6jYH4RpudSBrCu321al) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [VENGA lo que VENGA](https://open.spotify.com/album/3iazKoltbY6851gJSEfI1q) | 3:08 | 2025-02-28 |  |
 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 | 2025-02-07 |  |
 | [Ya Me Enteré](https://open.spotify.com/track/4Kjll3JYjHkaOySaJyUNjH) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW) | [Ya Me Enteré](https://open.spotify.com/album/1T4GzD73DNzvF7jx6uNdUd) | 3:41 | 2022-05-20 | 2023-04-22 |
 | [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 | 2023-05-27 |

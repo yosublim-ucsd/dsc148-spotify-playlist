@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 12523,
+  "num_followers": 12533,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+        "name": "Milanoche",
+        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+      "duration_ms": 168282,
+      "name": "Milanoche",
+      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Milanoche",
-        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 168282,
-      "name": "Milanoche",
-      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
     },
     {
-      "added_at": "2024-11-26 17:54:19",
-      "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/5rh4F5LkfBtGxBCjgMqV4M"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 218710,
-      "name": "Insomnio",
-      "url": "https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc"
-    },
-    {
       "added_at": "2024-08-09 04:23:31",
       "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
@@ -1219,6 +1203,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2024-11-26 17:54:19",
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/5rh4F5LkfBtGxBCjgMqV4M"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218710,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edsos",
-          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 195317,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Mi Testamento",
         "url": "https://open.spotify.com/album/6tWfukNvIHq6dPW6M8ymQO"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 205687,
       "name": "Mi Testamento",
       "url": "https://open.spotify.com/track/5H1YlKQ0an6BAH8BOVUqKe"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edsos",
+          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
     },
     {
       "added_at": "2024-08-09 04:23:31",

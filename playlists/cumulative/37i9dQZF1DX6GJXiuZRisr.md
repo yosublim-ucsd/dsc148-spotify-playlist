@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-566 songs - 1 day 15 hr 29 min
+567 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Haunt Me](https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3) | 4:59 | 2022-07-01 | 2023-07-17 |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-09-03 | 2022-08-13 |
 | [Hear Me Out](https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hear Me Out](https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F) | 4:39 | 2022-08-05 | 2023-08-07 |
+| [Heard It All Before](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Heard It All Before](https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH) | 2:54 | 2025-02-28 |  |
 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-27 |  |
 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 | 2024-05-17 | 2024-08-07 |
 | [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-19 | 2022-11-20 |
@@ -415,7 +416,7 @@
 | [Say It's Over](https://open.spotify.com/track/1Mezu0QLswKxKY21bgIzQn) | [REFFEL](https://open.spotify.com/artist/7eBZQrvBsAeuqAasuZM3hS) | [Say It's Over](https://open.spotify.com/album/6ieHyR7Zj4dNBoMpGcRRLI) | 3:59 | 2021-05-07 | 2022-04-21 |
 | [Sendeturm](https://open.spotify.com/track/0VoqjK1Nf9MjeRM60b8GiO) | [PBR Streetgang](https://open.spotify.com/artist/5PDEurVJJvitl9PGDjhPgY) | [Zoot Module](https://open.spotify.com/album/1znAzYbadOJI7CAc1HPZz6) | 3:22 | 2021-05-07 | 2022-07-13 |
 | [set me free \- CamelPhat Remix](https://open.spotify.com/track/3lhVWN4MfWDv7X8FOaXubv) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [set me free \(CamelPhat Remix\)](https://open.spotify.com/album/4JE2X17Ued82wlJc5Bh8xi) | 3:53 | 2025-02-07 |  |
-| [Sever](https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [some ep](https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN) | 7:07 | 2024-07-19 |  |
+| [Sever](https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [some ep](https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN) | 7:07 | 2024-07-19 | 2025-03-01 |
 | [Shake & Pop \- John Summit Remix](https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Shake & Pop \(John Summit Remix\)](https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx) | 3:37 | 2024-10-25 |  |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 | 2024-11-08 |
 | [Shiver \- Cassian Remix](https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Shiver \(Cassian Remix\)](https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni) | 4:05 | 2024-05-24 | 2024-07-14 |

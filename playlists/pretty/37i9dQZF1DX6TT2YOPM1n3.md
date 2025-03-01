@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Maanu, Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,832 likes - 57 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,849 likes - 57 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 56 | [Over You](https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Over You](https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv) | 2:57 |
 | 57 | [Khwabeeda](https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Khwabeeda](https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02) | 2:43 |
 
-Snapshot ID: `Z774WQAAAAD8K/wOOPtAU/GvDmppAgTa`
+Snapshot ID: `Z774WQAAAABEpCE3GjBLUPkU0kVk7WxI`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Glixen (pictured), Superheaven, Glare, and more.",
+  "description": "The shape of noise to come with OVERSIZE (pictured), Superheaven, Split Chain, Glixen, and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -644,6 +644,24 @@
       "duration_ms": 269721,
       "name": "Application For Release From The Dream",
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
+    },
+    {
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/6o4g14eoR5pb5ogKfAdBCB"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226543,
+      "name": "Are You With Me?",
+      "url": "https://open.spotify.com/track/1XMoUV0eU7Ee1lovC0MbQw"
     },
     {
       "album": {
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 238690,
       "name": "Bliss Bliss",
       "url": "https://open.spotify.com/track/48CG1IUOn64VHIkEKWo7Xa"
@@ -1440,6 +1458,24 @@
       "duration_ms": 230980,
       "name": "Blur Into One",
       "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
+    },
+    {
+      "album": {
+        "name": "They Will Leave Us With Nothing",
+        "url": "https://open.spotify.com/album/551Mba4haaU7JtALNrDkRx"
+      },
+      "artists": [
+        {
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280810,
+      "name": "Bodyknot",
+      "url": "https://open.spotify.com/track/53zj5RyJA7LgKZ9oQpDHHJ"
     },
     {
       "album": {
@@ -4345,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "Last Leg of the Human Table",
+        "url": "https://open.spotify.com/album/71Hy1xx5UXkMPZ6QAZ4SG8"
+      },
+      "artists": [
+        {
+          "name": "Cloakroom",
+          "url": "https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199674,
+      "name": "Ester Wind",
+      "url": "https://open.spotify.com/track/0HqnwQrM3DFO8T3FGv8ySw"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX"
       },
@@ -6877,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "Intrepid",
+        "url": "https://open.spotify.com/album/0YbTJ8DyyGGrs1Z4UnSEjB"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Intrepid",
+      "url": "https://open.spotify.com/track/4auxcoAtvc9HhEPlzEwKZJ"
+    },
+    {
+      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
       },
@@ -7360,7 +7432,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 235046,
       "name": "Last Amour",
       "url": "https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu"
@@ -11734,7 +11806,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 265077,
       "name": "Story of the Egg",
       "url": "https://open.spotify.com/track/4d9sh6oekDIWtAT16Y5YhX"
@@ -12512,7 +12584,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 191400,
       "name": "The Apollo Programme Was A Hoax",
       "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
@@ -13518,7 +13590,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 189723,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/1RSEUx1pkaiL7is1obW5v7"
@@ -13792,6 +13864,24 @@
       "duration_ms": 189397,
       "name": "War Boys",
       "url": "https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku"
+    },
+    {
+      "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/4eBQiO0buuE8dC4BGBgsld"
+      },
+      "artists": [
+        {
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201541,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/5be9o0d1vFSYG9L2SCMn06"
     },
     {
       "album": {

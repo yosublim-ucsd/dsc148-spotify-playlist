@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 196919,
+  "num_followers": 196949,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "Wassellik Khabar",
+        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "Red Bull Sika",
         "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 180599,
       "name": "Nerga3 Le Awel Yom",
       "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Wassellik Khabar",
-        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Ya Rohy",
-        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
+        "name": "Ma Nesitak",
+        "url": "https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn"
       },
       "artists": [
         {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
         }
       ],
-      "duration_ms": 241368,
-      "name": "Ya Rohy",
-      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
+      "duration_ms": 386328,
+      "name": "Ma Nesitak",
+      "url": "https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Ma Nesitak",
-        "url": "https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn"
-      },
-      "artists": [
-        {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
-        }
-      ],
-      "duration_ms": 386328,
-      "name": "Ma Nesitak",
-      "url": "https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
         "name": "Baddi Hada Hebbou",
         "url": "https://open.spotify.com/album/7lBwCNhfMEM9jvjNJKdgsJ"
       },
@@ -959,18 +943,34 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Beehom Kolohom",
-        "url": "https://open.spotify.com/album/1TUpXSqsCKAT3nm6EJszhe"
+        "name": "Ya Rohy",
+        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
         }
       ],
-      "duration_ms": 228570,
-      "name": "Beehom Kolohom",
-      "url": "https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV"
+      "duration_ms": 241368,
+      "name": "Ya Rohy",
+      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+        "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 339591,
+      "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+      "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
     },
     {
       "added_at": "2024-10-31 22:00:00",

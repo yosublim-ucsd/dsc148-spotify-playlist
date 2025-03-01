@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: SIENNA SPIRO",
+  "description": "Sit back and relax to the chillest pop.  Cover: Tiger La Flor",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Softcore",
+        "url": "https://open.spotify.com/album/0HOERi3j4WVVAa1ifTed3V"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/2jZFtP2nxnb8TkcL2jaMN2"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145502,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5LtmTnc12V5jSPhwG9noBK"
@@ -1818,6 +1836,24 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
+    {
+      "album": {
+        "name": "Drugstore Cowgirl",
+        "url": "https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200129,
+      "name": "AMERICAN DREAMS",
+      "url": "https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc"
     },
     {
       "album": {
@@ -5824,7 +5860,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156093,
       "name": "caught in the middle",
       "url": "https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH"
@@ -7511,6 +7547,28 @@
     },
     {
       "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2UqR8rP9TB0Oz6TqS5QwjA"
       },
@@ -8461,6 +8519,24 @@
     },
     {
       "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
+      "album": {
         "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
@@ -8852,7 +8928,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178751,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
@@ -14110,7 +14186,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181469,
       "name": "HEAVEN IS A HARLEY",
       "url": "https://open.spotify.com/track/1OTbM3iXNdnHey6QkLPk71"
@@ -17658,7 +17734,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165434,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv"
@@ -21063,6 +21139,24 @@
     },
     {
       "album": {
+        "name": "The Alchemist (Gold Edition)",
+        "url": "https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Love Will Find Me",
+      "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
+    },
+    {
+      "album": {
         "name": "Bailey Barely Knew Me",
         "url": "https://open.spotify.com/album/4HiJLVMKKkiC31ZvRuYXTv"
       },
@@ -21678,6 +21772,24 @@
       "duration_ms": 217440,
       "name": "Matter To You",
       "url": "https://open.spotify.com/track/1InPL1Qm8qJC3FIIvFruNt"
+    },
+    {
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "album": {
@@ -22728,7 +22840,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206080,
       "name": "Money",
       "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
@@ -23761,6 +23873,28 @@
     },
     {
       "album": {
+        "name": "New Friends",
+        "url": "https://open.spotify.com/album/3ZExOef8EUrB1Fw8CSCWm8"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        },
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181704,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/3QUh31Bk9Zs6wh6CEYK7Bu"
+    },
+    {
+      "album": {
         "name": "New Normal",
         "url": "https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk"
       },
@@ -23869,6 +24003,24 @@
     },
     {
       "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "album": {
         "name": "next to you",
         "url": "https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW"
       },
@@ -23880,7 +24032,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 154255,
       "name": "next to you",
       "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
@@ -25754,7 +25906,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221505,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/7cxdXq5q4OS6xiCwd9a5SX"
@@ -27038,6 +27190,24 @@
       "duration_ms": 156376,
       "name": "Present",
       "url": "https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf"
+    },
+    {
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150478,
+      "name": "pretty",
+      "url": "https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ"
     },
     {
       "album": {
@@ -29923,6 +30093,24 @@
     },
     {
       "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
+    },
+    {
+      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -30082,7 +30270,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 174705,
       "name": "sinking",
       "url": "https://open.spotify.com/track/2xN8yAMa3MHZIokrfvfnPC"
@@ -32000,7 +32188,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 126981,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln"
@@ -33772,7 +33960,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 212021,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
@@ -34636,6 +34824,24 @@
       "duration_ms": 241853,
       "name": "The Subway Song",
       "url": "https://open.spotify.com/track/3tGHqDvhpxcFtd3QXLf8nG"
+    },
+    {
+      "album": {
+        "name": "the thought of you",
+        "url": "https://open.spotify.com/album/7bKdJCihY713LPi5oqWL3X"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219512,
+      "name": "the thought of you",
+      "url": "https://open.spotify.com/track/7soIWeuH8iDZcqPVZv0zdq"
     },
     {
       "album": {
@@ -37686,7 +37892,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 335233,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7mXWqPVHYNyzQVNmflBSYH"
@@ -38398,7 +38604,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"

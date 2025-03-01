@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Alya",
+        "url": "https://open.spotify.com/album/53WAoOHSDwfkFoDWZuZcq2"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Alya",
+      "url": "https://open.spotify.com/track/6lcAqMJXbjrCFwOJV5V1Gy"
+    },
+    {
+      "album": {
         "name": "Angelic Spaces",
         "url": "https://open.spotify.com/album/0Na5e10kAhbEWpStQ1wmPB"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 208733,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0AybRyGs6InawBTxnQUEeM"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156793,
       "name": "Deep Steadiness",
       "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
@@ -2087,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Downing",
+        "url": "https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM"
+      },
+      "artists": [
+        {
+          "name": "Dreamscaper",
+          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Downing",
+      "url": "https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg"
+    },
+    {
+      "album": {
         "name": "Dream Creator",
         "url": "https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6"
       },
@@ -2138,6 +2174,24 @@
       "duration_ms": 117600,
       "name": "Dreaming Away",
       "url": "https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/5OSS2Wr61ht4r3K6fmPp7i"
+      },
+      "artists": [
+        {
+          "name": "Elm Lake",
+          "url": "https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/63DYW0thoEaYcoz0z1Ei3P"
     },
     {
       "album": {
@@ -3168,7 +3222,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171543,
       "name": "Gateway",
       "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
@@ -3550,6 +3604,24 @@
       "duration_ms": 255000,
       "name": "Hollow Shells",
       "url": "https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08"
+    },
+    {
+      "album": {
+        "name": "Hope Anew",
+        "url": "https://open.spotify.com/album/3VyTc7zxxIdYiIcj5bdJ7W"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Hope Anew",
+      "url": "https://open.spotify.com/track/2hbOIXMG8fTxQoIT2tJNXZ"
     },
     {
       "album": {
@@ -4508,7 +4580,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 138000,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ"
@@ -5390,7 +5462,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 154000,
       "name": "Outer Landscape",
       "url": "https://open.spotify.com/track/3Ok08TYWMM3Fl655SAZ3jS"
@@ -6640,6 +6712,24 @@
       "duration_ms": 180000,
       "name": "Solar Plexus 528 Hz",
       "url": "https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy"
+    },
+    {
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/12dUsxCb14lYdk35EH9lZY"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168058,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/6RiFmLjeXzsi3ivJmwalQk"
     },
     {
       "album": {

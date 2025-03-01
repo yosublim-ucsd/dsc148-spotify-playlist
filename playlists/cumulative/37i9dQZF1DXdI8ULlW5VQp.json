@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Macario Mart\u00ednez en portada.",
+  "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Natalia Lafourcade en portada.",
   "name": "Pop Folk",
   "tracks": [
     {
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/1cj7pNUyxvUhnVseDclg7q"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336347,
+      "name": "Cancionera",
+      "url": "https://open.spotify.com/track/4omxAjV5OFVfh4vBeVUH60"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n de Cuna Para mi Amor",
         "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
       },
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172100,
       "name": "Coraz\u00f3n en Coma",
       "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184000,
       "name": "De Contrabando",
       "url": "https://open.spotify.com/track/4czu8sRwSkJjyTz659Bt0X"
@@ -2825,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Tan Corta la Vida",
+        "url": "https://open.spotify.com/album/2GFjPUWIJnCkn7bJ24202n"
+      },
+      "artists": [
+        {
+          "name": "FRIEDA",
+          "url": "https://open.spotify.com/artist/3aPTDYJ9ef1MA1Tes8jQ60"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178421,
+      "name": "Hoy Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3v1pjFTGxwn0DSwwjtjXe3"
+    },
+    {
+      "album": {
         "name": "Hubo Algo",
         "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
@@ -2996,7 +3032,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 274601,
       "name": "La Calle de las Sirenas",
       "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181833,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4GTEErX3wGuOhGWyCSO40m"
@@ -4010,7 +4046,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178039,
       "name": "Mis Amigas Las Flores",
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
@@ -4865,6 +4901,28 @@
     },
     {
       "album": {
+        "name": "Pinceles",
+        "url": "https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv"
+      },
+      "artists": [
+        {
+          "name": "Javi Medina",
+          "url": "https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182999,
+      "name": "Pinceles",
+      "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
+    },
+    {
+      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -4876,7 +4934,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
@@ -5602,7 +5660,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142603,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/6ooLaA3YD06LIygkUAvxNe"
@@ -6140,6 +6198,24 @@
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "album": {
+        "name": "Tomar T\u00e9",
+        "url": "https://open.spotify.com/album/6wlogEQQDcm2Rs8AlEi6Nj"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226060,
+      "name": "Tomar T\u00e9",
+      "url": "https://open.spotify.com/track/21u1pPvdRkR0tv1z069AwI"
     },
     {
       "album": {
@@ -6756,7 +6832,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 262310,
       "name": "Ya No Est\u00e1s",
       "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"

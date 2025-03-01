@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-221 songs - 19 hr 2 min
+222 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [No Problem](https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt) | [Tristan Mélia Trio](https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz) | [No Problem](https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz) | 7:02 | 2021-12-21 | 2023-01-16 |
 | [Nothing Happens Here](https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Nothing Happens Here](https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K) | 4:14 | 2024-02-09 |  |
 | [Oh My](https://open.spotify.com/track/4tW55Nq7uPwHkYWqNx8e6t) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Oh My](https://open.spotify.com/album/2rFOE5zMg2b6nydeMZyIyY) | 4:17 | 2024-02-09 | 2024-07-20 |
+| [Oh, Jaco!](https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun) | [Peter Vuust](https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Oh, Jaco!](https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5) | 6:00 | 2025-02-28 |  |
 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 | 2023-11-17 | 2024-08-24 |
 | [On The Second Day](https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [On the Second Day](https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff) | 4:32 | 2021-12-21 |  |
 | [Oscarlypso](https://open.spotify.com/track/7uslfUYQ7fOwaKLBwUw7B0) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [World Jazz](https://open.spotify.com/album/0kuMIGBvbeMDfP7raCXh91) | 7:46 | 2021-12-21 | 2022-06-01 |
@@ -181,7 +182,7 @@
 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2022-06-30 | 2024-01-18 |
 | [Sun Khosi](https://open.spotify.com/track/5jY2fC4kHyTwFfThR7CFTh) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV) | 3:56 | 2021-12-21 | 2022-07-29 |
 | [Sweet Smile](https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 5:27 | 2022-06-30 | 2024-04-19 |
-| [Sweet Smile](https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Sweet Smile](https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv) | 5:27 | 2022-02-10 |  |
+| [Sweet Smile](https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Sweet Smile](https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv) | 5:27 | 2022-02-10 | 2025-03-01 |
 | [Symphonie Pacifique](https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0) | [Symphonie Pacifique](https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY) | 4:54 | 2022-06-30 | 2023-10-05 |
 | [Symphonie Pacifique](https://open.spotify.com/track/2ztWaTE796lLPU3vqYtXVA) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0) | [Symphonie Pacifique](https://open.spotify.com/album/23wdtu2CB7G1psN1SFghic) | 4:54 | 2021-12-21 | 2022-07-29 |
 | [Tambura](https://open.spotify.com/track/4WCyQPYNFbJCMR7qPhwAos) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Taking Another Look \- Deluxe Edition](https://open.spotify.com/album/1HaE9olgQrHcHu0upVFsQz) | 4:18 | 2021-12-21 | 2022-07-29 |

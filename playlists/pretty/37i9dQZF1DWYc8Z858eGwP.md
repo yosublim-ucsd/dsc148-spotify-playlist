@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,442 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,540 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 |
 | 50 | [Tompa](https://open.spotify.com/track/6MopLDu0gQs38srcOJyWqv) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [K&K](https://open.spotify.com/artist/0u1iQxzpvXUIc2U6uQttEn) | [Tompa](https://open.spotify.com/album/1NsrqpQKmh3uWkHV1pt3Q9) | 2:55 |
 
-Snapshot ID: `Z5oSJgAAAAA+PpiyK3TbOUKsqkS6Ckck`
+Snapshot ID: `Z5oSJgAAAAC/yUw4aaCU5CVzPt1M9CT1`

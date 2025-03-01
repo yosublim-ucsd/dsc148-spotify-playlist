@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo que m\u00e1s suena, con ustedes... Emilia & Gordo.",
+  "description": "Lo m\u00e1s pegado, lo que m\u00e1s suena, con ustedes... La T y La M!",
   "name": "Top Verano 2025",
   "tracks": [
+    {
+      "album": {
+        "name": "#TETAS",
+        "url": "https://open.spotify.com/album/2nVsMzErBfjaKSl33WsfAq"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149394,
+      "name": "#TETAS",
+      "url": "https://open.spotify.com/track/1wgjAYlp6GHSX6ex8pRJd9"
+    },
     {
       "album": {
         "name": "+57",
@@ -448,6 +474,24 @@
       "duration_ms": 319105,
       "name": "A200 - Remix",
       "url": "https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -1772,7 +1816,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 153750,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/5qcYskwpeP2QiOeJYrhKVp"
@@ -7365,6 +7409,28 @@
     },
     {
       "album": {
+        "name": "LEAL",
+        "url": "https://open.spotify.com/album/7y28LXJNi2uZZ6YRQvqPJD"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "LEAL",
+      "url": "https://open.spotify.com/track/6dltsLkzqC5bBQfhx9XXoZ"
+    },
+    {
+      "album": {
         "name": "MAL APRENDIDA",
         "url": "https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ"
       },
@@ -7406,7 +7472,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 330000,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
@@ -8334,7 +8400,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145714,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
@@ -9306,7 +9372,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232763,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/1s30S1LWNUfrZM6tUntDB6"

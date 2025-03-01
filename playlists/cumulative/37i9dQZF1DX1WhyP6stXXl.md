@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Benson Boone
 
-824 songs - 1 day 17 hr 32 min
+828 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [All Over You](https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [All Over You](https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx) | 2:37 | 2025-01-23 | 2025-02-21 |
 | [Allez! Touché!](https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:07 | 2024-11-14 | 2024-12-13 |
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-25 | 2024-08-23 |
+| [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 |  |
 | [Alright](https://open.spotify.com/track/2haMyzKGv0uOfV4vCObmYq) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [wanna be friends?](https://open.spotify.com/album/1GfChrfO2dg92W5W7FGj6O) | 2:35 | 2024-11-07 | 2024-12-06 |
 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 | 2024-07-18 | 2024-08-16 |
 | [Always Been You](https://open.spotify.com/track/5LtmTnc12V5jSPhwG9noBK) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Always Been You](https://open.spotify.com/album/0nHDACGAzEpDQh8InBqr3I) | 2:25 | 2025-02-06 | 2025-02-21 |
@@ -49,6 +50,7 @@
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 | 2024-08-16 |
 | [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-22 | 2024-09-20 |
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-08 | 2024-09-06 |
+| [Another Goodbye](https://open.spotify.com/track/21zjdzQTkihbItqx2jVu7B) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:52 | 2025-02-28 |  |
 | [Another Me](https://open.spotify.com/track/6N2ia0SNq4IPSo61WuTEZt) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Another Me](https://open.spotify.com/album/4zZHcMsNWP3SeNYREU33b6) | 2:44 | 2024-06-28 | 2024-07-19 |
 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 | 2025-02-27 |  |
 | [Antisocial](https://open.spotify.com/track/1xg93926pWrIg16jbOPP3o) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Antisocial](https://open.spotify.com/album/59zZXObd2xt2Mcj9ngnISl) | 2:55 | 2024-11-14 | 2024-12-06 |
@@ -424,6 +426,7 @@
 | [Keep It Together](https://open.spotify.com/track/3HQU6KApPS6oEkAleCIFeT) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Keep It Together](https://open.spotify.com/album/7sbZRDkCgBoVxLFrBYWQrV) | 2:58 | 2024-10-17 | 2024-11-15 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2025-01-24 |
 | [King Of Spain](https://open.spotify.com/track/5ntu5AUNCFzLtZ6vH104t1) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [King Of Spain](https://open.spotify.com/album/6OOFAdHTPBKJXIue83eQPv) | 3:11 | 2025-01-09 | 2025-01-24 |
+| [Kiss Me Slow](https://open.spotify.com/track/4RjPbpWbPapGuV9mYsqvl6) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Kiss Me Slow](https://open.spotify.com/album/2DIarKBTuYfojk2otXPuuX) | 2:25 | 2025-02-28 |  |
 | [Kissing A Ghost](https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Kissing A Ghost](https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es) | 3:19 | 2024-11-21 | 2024-12-20 |
 | [Ladies Room](https://open.spotify.com/track/26mmRnl76vFrsrao47dcHA) | [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Dreamcatcher](https://open.spotify.com/album/0kyKYvSopIgFWxyRISPoFk) | 2:39 | 2024-09-19 | 2024-10-04 |
 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-05 | 2024-10-04 |
@@ -460,6 +463,7 @@
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-03 | 2024-10-25 |
 | [love does not need time](https://open.spotify.com/track/0cNmv2ef2bKHXKkCzGCBBl) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [love does not need time](https://open.spotify.com/album/0OMwbEe3eWjbmkDzO7hQxO) | 2:18 | 2024-11-14 | 2024-12-13 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-28 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-28 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 |  |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-16 | 2025-01-31 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 | 2025-02-14 |

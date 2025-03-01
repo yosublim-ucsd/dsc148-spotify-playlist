@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Josh Ross
+> The home of Canadian country music\. Cover: Brett Kissel
 
-206 songs - 11 hr 15 min
+209 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 | 2024-08-24 |
 | [Between The Lines](https://open.spotify.com/track/2D5tN7ZWcMIdi8KIzI4lIE) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Between The Lines](https://open.spotify.com/album/7nsdJWRGAOAtINHLDJPSjc) | 3:40 | 2025-02-14 |  |
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 | 2024-10-19 |
+| [Bittersweet](https://open.spotify.com/track/5p8SGq5NRrDBwQMWXs9ZDX) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Bittersweet](https://open.spotify.com/album/1HwotcH7kAFTnAG3DLrdEA) | 3:11 | 2025-02-28 |  |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Bobcaygeon](https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bobcaygeon](https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1) | 4:43 | 2024-09-27 | 2024-11-02 |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 | 2025-01-25 |
@@ -31,7 +32,7 @@
 | [Canadian Dirt](https://open.spotify.com/track/5lXSTYtTQcobQ6msc54ABz) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Fire It Up](https://open.spotify.com/album/5UfiHSXHhrLNZ5ZTFGsawT) | 3:03 | 2024-06-28 | 2024-08-03 |
 | [Cant Go Home](https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum) | [Tyson Ray Borsboom](https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC) | [Cant Go Home](https://open.spotify.com/album/6nNZu0SLhEsYT2Rgphh59z) | 3:54 | 2024-09-13 | 2024-11-02 |
 | [Church](https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Church](https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c) | 3:31 | 2024-08-16 | 2024-09-28 |
-| [Close to You](https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Close to You](https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU) | 3:24 | 2024-11-22 |  |
+| [Close to You](https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Close to You](https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU) | 3:24 | 2024-11-22 | 2025-03-01 |
 | [Coast to Coast](https://open.spotify.com/track/18fqq295kEELwCmgky7y9a) | [Tyson Ray Borsboom](https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC) | [Coast to Coast](https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh) | 3:58 | 2024-10-25 | 2025-02-22 |
 | [Coffee in the Morning](https://open.spotify.com/track/06pHO2x8YCfT1HyFsPvYw7) | [Jesse Slack](https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN) | [Coffee in the Morning](https://open.spotify.com/album/3Tz7JknvlUIBANMy9fzz6B) | 2:55 | 2024-06-28 | 2024-07-06 |
 | [Cold Feet](https://open.spotify.com/track/2xMbZBV9hRc2tuIxkTiSoH) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Cold Feet](https://open.spotify.com/album/4SxOxJntqDiiHZFPcqEmGQ) | 2:22 | 2024-06-28 | 2024-08-03 |
@@ -40,6 +41,8 @@
 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 | 2024-06-28 | 2024-08-31 |
 | [Concrete And Barbed Wire](https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Concrete And Barbed Wire](https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z) | 3:13 | 2024-06-28 | 2024-07-13 |
 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 | 2024-06-28 | 2024-10-05 |
+| [Cowboys & Dreamers](https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run \- The Album](https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa) | 3:09 | 2025-02-28 |  |
+| [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 | 2025-02-28 |  |
 | [Coyote](https://open.spotify.com/track/0uQxv3pvFrL3ri6Cec2dQ1) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/5CuM2FEgmQ5a5PtrZJmtHU) | 4:16 | 2024-06-28 | 2024-07-06 |
 | [Dan](https://open.spotify.com/track/4y0LXmaQInSd2ZK0GEP9mm) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 5:02 | 2024-06-28 | 2024-08-17 |
 | [Days Like This](https://open.spotify.com/track/6PL8OAhhl6vlnJlwO2vRaU) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Days Like This](https://open.spotify.com/album/1rm5E8eTWuFDMSsngY4CII) | 3:18 | 2024-06-28 | 2024-10-05 |
@@ -59,7 +62,7 @@
 | [Five Beers From Now](https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Five Beers From Now](https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP) | 3:03 | 2024-08-23 |  |
 | [Flower Tattoos](https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t) | 3:47 | 2024-09-27 | 2024-11-02 |
 | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz) | 3:36 | 2024-06-28 | 2024-10-12 |
-| [Get The Hell Out Of This Town](https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Get The Hell Out Of This Town](https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3) | 3:01 | 2025-01-31 |  |
+| [Get The Hell Out Of This Town](https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Get The Hell Out Of This Town](https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3) | 3:01 | 2025-01-31 | 2025-03-01 |
 | [Go Deep \(Jays Edition\)](https://open.spotify.com/track/7fotqYdDq2BWtHYJV2oTdY) | [Jeremy Macklin](https://open.spotify.com/artist/6JQ5BCJ9lQNQodoGAt3QJ0) | [Go Deep \(Jays Edition\)](https://open.spotify.com/album/2i2YYCoA2SGp3VLUT0HBN0) | 2:56 | 2024-07-19 | 2024-09-14 |
 | [Go Get Er](https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY) | 3:03 | 2024-06-28 | 2024-08-31 |
 | [Going Home](https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Going Home](https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR) | 3:06 | 2024-10-25 |  |
@@ -101,7 +104,7 @@
 | [Let Your Horses Run](https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd) | 2:59 | 2024-06-28 | 2024-09-14 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-31 |  |
 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 | 2024-07-12 | 2024-09-14 |
-| [LIFE OUT HERE](https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [LIFE OUT HERE](https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b) | 2:44 | 2024-10-18 |  |
+| [LIFE OUT HERE](https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [LIFE OUT HERE](https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b) | 2:44 | 2024-10-18 | 2025-03-01 |
 | [Lightning in July \(Prairie Fire\)](https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas / Lightning in July \(Prairie Fire\)](https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ) | 4:02 | 2024-08-09 | 2024-09-14 |
 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 | 2024-09-06 | 2024-11-02 |
 | [Lonely Dirt Road](https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Lonely Dirt Road](https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y) | 4:06 | 2024-10-11 | 2024-12-07 |

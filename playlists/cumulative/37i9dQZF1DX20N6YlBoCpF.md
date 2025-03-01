@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3FYg4uUY2Mtunx0NldiDWG?si=iSuRBly7TBWs8CqVLstIDQ">Shakira Peach</a>
 
-1,540 songs - 3 day 13 hr 47 min
+1,541 songs - 3 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [Lyfstraf \- Hypertechno Remix](https://open.spotify.com/track/3CFyzxgmbtSUAsJ4HCywh9) | [Bjarne](https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW), [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Lysftraf \(Hypertechno Remix\)](https://open.spotify.com/album/54zTjfYbJp1VWuOhzNgnW1) | 2:37 | 2025-01-02 | 2025-01-10 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-06-16 | 2023-07-14 |
 | [Maak My Mal](https://open.spotify.com/track/582DmIHtYxwvLOpzTFH3Mm) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Maak My Mal](https://open.spotify.com/album/4c0HNq7zGWgA9bX4l0d9IN) | 3:04 | 2024-03-07 | 2024-04-12 |
+| [Maak Of Jy Mal Is](https://open.spotify.com/track/4VN9hm1EaqMjxl3BFo5hCB) | [Onblusbaar](https://open.spotify.com/artist/1wiGddlXhRWRDAxelaKxyX) | [Maak Of Jy Mal Is](https://open.spotify.com/album/3Cmmgc2aIf2wznpuPzDQ6d) | 3:19 | 2025-02-27 |  |
 | [Maak Wakker](https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Maak Wakker](https://open.spotify.com/album/0ydJ2CZGUPWWk5JcySWIpj) | 3:21 | 2022-12-27 | 2023-01-02 |
 | [Maar Jy](https://open.spotify.com/track/2mNb83HvLa5U3LzJVvSKXL) | [Luzelle](https://open.spotify.com/artist/4uPi9ThPDv6AMst7MJmPmN) | [Maar Jy](https://open.spotify.com/album/4eoYKnYmLLMSb9DXPfZcKc) | 3:40 | 2024-08-29 | 2024-09-06 |
 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 | 2024-04-04 | 2024-06-28 |

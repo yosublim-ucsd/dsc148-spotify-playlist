@@ -966,6 +966,24 @@
     {
       "album": {
         "name": "Amnesia",
+        "url": "https://open.spotify.com/album/4UtKKYAgvPERIyryj5xfSz"
+      },
+      "artists": [
+        {
+          "name": "AIROD",
+          "url": "https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293424,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0W7QeJmNxTCLEanqpc7PqT"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
         "url": "https://open.spotify.com/album/4AwkZ6httoqZARnMrD0mX5"
       },
       "artists": [
@@ -5529,6 +5547,32 @@
     },
     {
       "album": {
+        "name": "Electronic Malfunction",
+        "url": "https://open.spotify.com/album/1YokQvIJu2D3VTg0Gh4VPb"
+      },
+      "artists": [
+        {
+          "name": "CIRCA96",
+          "url": "https://open.spotify.com/artist/7pwzweHfZlWwn4ZduhKJPy"
+        },
+        {
+          "name": "Ton TB",
+          "url": "https://open.spotify.com/artist/718LzbYGeOgvkzyf2RCm2H"
+        },
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233706,
+      "name": "Electronic Malfunction",
+      "url": "https://open.spotify.com/track/6GOjvqMPGoejvJXy2j1Eb4"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/2xxXLUlty5N29185Dcrqxp"
       },
@@ -6845,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/6AkyuOgAJargMYLPSfKcl1"
+      },
+      "artists": [
+        {
+          "name": "Phillip Castle",
+          "url": "https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230156,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/5TM7pcDUxjTs4KwUv6S98l"
+    },
+    {
+      "album": {
         "name": "Feel It in My Soul",
         "url": "https://open.spotify.com/album/4JdyE6xgvTGZsAiHJ90D9e"
       },
@@ -7282,7 +7344,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201940,
       "name": "For An Angel - \u00d6wnboss Remix Edit",
       "url": "https://open.spotify.com/track/2pj3I0v2jir200MTPYpEP2"
@@ -11924,7 +11986,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176417,
       "name": "Love Is Enough",
       "url": "https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P"
@@ -12944,6 +13006,28 @@
       "duration_ms": 191718,
       "name": "Moment",
       "url": "https://open.spotify.com/track/1OhNIHWABDYC8KE7EF3YOK"
+    },
+    {
+      "album": {
+        "name": "Moment In Time",
+        "url": "https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8"
+      },
+      "artists": [
+        {
+          "name": "Peter Steele",
+          "url": "https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "Moment In Time",
+      "url": "https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues"
     },
     {
       "album": {
@@ -17099,6 +17183,28 @@
     },
     {
       "album": {
+        "name": "Seven Seas",
+        "url": "https://open.spotify.com/album/7xWGfkbOi8UnDJxb51lSVR"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Fuenka",
+          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Seven Seas / The Poem",
+      "url": "https://open.spotify.com/track/7dub73ADzBTXTuN6ONhfWM"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/1IMlfH57fXWEmaFe3S6HIT"
       },
@@ -17330,10 +17436,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 161142,
       "name": "SHINE TOGETHER NOW (SHINE IBIZA ANTHEM 2024)",
       "url": "https://open.spotify.com/track/0tjC5ijuresyOzcdZlLnND"
+    },
+    {
+      "album": {
+        "name": "Shiva",
+        "url": "https://open.spotify.com/album/7nvRymdvZYAgtKzjmxuwpU"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        },
+        {
+          "name": "Benjamin Duchenne",
+          "url": "https://open.spotify.com/artist/4UJKe3JbVAObXrnURuUALb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/5v2cERV2Xsi8g6FIwVqIUs"
     },
     {
       "album": {
@@ -18599,6 +18727,24 @@
     },
     {
       "album": {
+        "name": "Strobo",
+        "url": "https://open.spotify.com/album/31qgXCAGd2dQ3mHY2yP7Qd"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "Strobo",
+      "url": "https://open.spotify.com/track/7etRXqWIwKkmuDU85sn9r4"
+    },
+    {
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/2P0KEaYwBePZufWGPkGl3i"
       },
@@ -18997,6 +19143,28 @@
     },
     {
       "album": {
+        "name": "Superposition",
+        "url": "https://open.spotify.com/album/40ZUwpFCj04cP9xU9EYDmh"
+      },
+      "artists": [
+        {
+          "name": "Mark Sherry",
+          "url": "https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH"
+        },
+        {
+          "name": "David Forbes",
+          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243950,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/4XX6FCFGMHjCrHMWnYnrKu"
+    },
+    {
+      "album": {
         "name": "Sweet Release (Shugz Remix)",
         "url": "https://open.spotify.com/album/2j3cstSVFVoeznqom55j4x"
       },
@@ -19288,6 +19456,28 @@
       "duration_ms": 206250,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/7pQekf05XFyuZfpMSjKEBW"
+    },
+    {
+      "album": {
+        "name": "Taking Over Me",
+        "url": "https://open.spotify.com/album/3pHIR8BzC8Gi8nZFj2NkVs"
+      },
+      "artists": [
+        {
+          "name": "Apollo Nash",
+          "url": "https://open.spotify.com/artist/66Muil9ntdkdk3KzQbaG8T"
+        },
+        {
+          "name": "Karel & XoJani",
+          "url": "https://open.spotify.com/artist/50BfKVazLcHIKR0qVSZtem"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216404,
+      "name": "Taking Over Me",
+      "url": "https://open.spotify.com/track/3IVzxHtghdM6kjfmF3dKaz"
     },
     {
       "album": {
@@ -22590,6 +22780,24 @@
       "duration_ms": 135111,
       "name": "Xtravaganza",
       "url": "https://open.spotify.com/track/2yeRKaYDZp9EPANGzeBcvH"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/0Qr6hyjW3JqnnjRxKiy4Bk"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201799,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/76ma1GT4O6D1WO4AfIdEnO"
     },
     {
       "album": {

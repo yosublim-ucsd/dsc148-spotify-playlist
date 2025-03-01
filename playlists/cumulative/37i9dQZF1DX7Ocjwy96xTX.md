@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-325 songs - 19 hr 17 min
+327 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [0% Angel](https://open.spotify.com/track/0l2Ob0zMIQ21gJn642HyQ1) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Ephemeral](https://open.spotify.com/album/4aJdRGvDt8BAU8Po8Sr3dg) | 3:54 | 2022-09-02 | 2022-10-15 |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2023-08-26 |
 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 | 2022-09-30 | 2023-08-19 |
+| [7 minutes in heaven](https://open.spotify.com/track/5v6rLrTb6JzqgXXuwGVevq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [7 minutes in heaven](https://open.spotify.com/album/5cxtSmeK3EugYV2ESKAjr0) | 4:51 | 2025-02-28 |  |
 | [9 Circles](https://open.spotify.com/track/0yo0S4H7hSS79S2C2vptGV) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:00 | 2024-07-05 |  |
 | [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 | 2023-01-26 | 2023-05-25 |
 | [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/track/0RIo4eYBgbStfy3lnAOJDE) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/album/2FF6OrtvLpIv24eHBVZzDt) | 3:11 | 2024-03-01 |  |
@@ -80,6 +81,7 @@
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-20 | 2024-10-03 |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2022-10-07 | 2022-10-15 |
 | [Do Not Enter \- Remastered](https://open.spotify.com/track/3zRAgsGmuuLl7gMPssLxyj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You / Void In Blue](https://open.spotify.com/album/5C3EWz8nPYZQ0zxbDt750r) | 2:44 | 2023-05-24 | 2023-09-30 |
+| [Doll Hearts](https://open.spotify.com/track/7wTW7z3VFmUFAcIlCNboaq) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Doll Hearts](https://open.spotify.com/album/2P2eSZkMoVLJ4xCoUbOlfz) | 2:23 | 2025-02-28 |  |
 | [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 | 2025-02-25 |  |
 | [Dream, Ivory](https://open.spotify.com/track/3QX3hxUM76cNIwzC1gj8vF) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 3:08 | 2022-09-02 | 2022-10-14 |
 | [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 | 2022-10-07 | 2023-08-26 |

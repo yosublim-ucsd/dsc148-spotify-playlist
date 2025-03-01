@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-245 songs - 15 hr 38 min
+246 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 | 2025-02-06 |  |
 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 | 2024-10-24 | 2024-12-20 |
 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 | 2024-06-27 | 2024-12-13 |
+| [Still Dancing](https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Still Dancing](https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC) | 3:46 | 2025-02-28 |  |
 | [Still My Hero](https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Still My Hero](https://open.spotify.com/album/1cLa4VMrT73UlrjSW52lvw) | 3:43 | 2024-08-22 | 2024-09-20 |
 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 | 2024-06-27 | 2024-08-30 |
 | [Sunraven](https://open.spotify.com/track/4KehhSNvzbYqBqpkbOOlLX) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Sunraven](https://open.spotify.com/album/6YJV00XPVPZ8GPBKaPcagD) | 3:37 | 2024-10-17 | 2025-01-24 |

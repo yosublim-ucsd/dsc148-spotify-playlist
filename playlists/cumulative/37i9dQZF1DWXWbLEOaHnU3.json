@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195724,
       "name": "Drivin Me Insane",
       "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 278068,
       "name": "Golden Teacher",
       "url": "https://open.spotify.com/track/4DF78KTbDZ3cGI5h1dzOEJ"
@@ -3691,6 +3691,28 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv"
+      },
+      "artists": [
+        {
+          "name": "Ace Ventura",
+          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
+        },
+        {
+          "name": "Protonica",
+          "url": "https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488571,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3"
+    },
+    {
+      "album": {
         "name": "Novo Mundo",
         "url": "https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj"
       },
@@ -3930,6 +3952,24 @@
       "duration_ms": 145714,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix"
     },
     {
       "album": {
@@ -4716,7 +4756,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 327887,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
@@ -6142,6 +6182,24 @@
       "duration_ms": 289418,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/37eQ13yBg842gYEz6sat92"
+    },
+    {
+      "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
     },
     {
       "album": {

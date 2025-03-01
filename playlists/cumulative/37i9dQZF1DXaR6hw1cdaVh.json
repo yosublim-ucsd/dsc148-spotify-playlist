@@ -625,6 +625,54 @@
     },
     {
       "album": {
+        "name": "Sulla riva del fiume",
+        "url": "https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Tiromancino",
+          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
+        },
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225982,
+      "name": "Un tempo piccolo (feat. Tiromancino & Ditonellapiaga)",
+      "url": "https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75"
+    },
+    {
+      "album": {
+        "name": "Yes I Know My Way (Live - Sanremo 2025)",
+        "url": "https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Yes I Know My Way (Live - Sanremo 2025)",
+      "url": "https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7"
+    },
+    {
+      "album": {
         "name": "Vai mo' (2021 Remaster)",
         "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
       },

@@ -4,7 +4,7 @@
 
 > Rock e punk dall'Italia 🎸 Asino in cover
 
-1,343 songs - 3 day 2 hr 44 min
+1,344 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [Non è così male](https://open.spotify.com/track/34J9aaAIK8hx44I00gTm1y) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Non è così male](https://open.spotify.com/album/29vLnWfcp2RyY0xUnOIDhT) | 3:12 | 2022-11-24 | 2023-04-07 |
 | [Non È Per Sempre](https://open.spotify.com/track/3hmcaxci5fSfzMdT59gf3M) | [La ragazza dello Sputnik](https://open.spotify.com/artist/3k1ymzgC0JLqsmj6R8WaYB) | [Non È Per Sempre](https://open.spotify.com/album/1ENKtcZOUYJj21mbuki1XI) | 3:28 | 2022-09-22 | 2022-11-25 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-08-25 | 2022-09-09 |
+| [Normale](https://open.spotify.com/track/6up7k5hPKAKLl064FPdd57) | [Cosmetic](https://open.spotify.com/artist/4C6fXZ7soCX4ycsXguZ1zE) | [Normale](https://open.spotify.com/album/0w63BJvHhaTWDP8Chgzjo7) | 1:41 | 2025-02-28 |  |
 | [NORMALI](https://open.spotify.com/track/0uQ4TOs6alpqTBiKVCo3lt) | [CASPIO](https://open.spotify.com/artist/5qP9tB527npgArtqAxWRu0) | [NORMALI](https://open.spotify.com/album/0jJQ1UaAoFggNHt8T3NYCj) | 3:34 | 2024-09-12 | 2024-11-08 |
 | [Nosferatu](https://open.spotify.com/track/3yn49UA6N8Xd0kVoX7UTF2) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Nosferatu](https://open.spotify.com/album/060zMrANzhIRsg0FWI8kDe) | 3:37 | 2023-10-12 | 2024-01-19 |
 | [Not a Song for U](https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL) | [Hardcore Tamburo](https://open.spotify.com/artist/7LQPw5C8KFKcwO9g6XWCBH) | [Not a Song for U](https://open.spotify.com/album/5DrQcWGXrSFuuJaO78DVn8) | 4:26 | 2024-11-21 | 2025-01-29 |

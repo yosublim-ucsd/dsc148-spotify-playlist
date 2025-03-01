@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/5J8cYNlz6oP2tiHKtWEmtB"
+      },
+      "artists": [
+        {
+          "name": "Rebo",
+          "url": "https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196487,
+      "name": "ANTIDOTE",
+      "url": "https://open.spotify.com/track/3t8cRI6x5jScNQvilkDbxe"
+    },
+    {
+      "album": {
         "name": "App\u00e9tit",
         "url": "https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 158740,
       "name": "Beta maboko",
       "url": "https://open.spotify.com/track/28DTeYIDHT3a7I8bG8egww"
@@ -1940,6 +1958,32 @@
       "duration_ms": 172228,
       "name": "Ch\u00e9rie Coco",
       "url": "https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79"
+    },
+    {
+      "album": {
+        "name": "Tears On The Dancefloor",
+        "url": "https://open.spotify.com/album/4FSWeYOHJIGe65jSgxOXu2"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "NegoO",
+          "url": "https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Clair De Lune",
+      "url": "https://open.spotify.com/track/756ty0Bv8lSNQZ00ylKSJd"
     },
     {
       "album": {
@@ -3074,7 +3118,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 415284,
       "name": "Elengi",
       "url": "https://open.spotify.com/track/0jEuWbCyqhuWqPRUbQR4AD"
@@ -3278,7 +3322,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171093,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T"
@@ -6642,6 +6686,24 @@
       "duration_ms": 189000,
       "name": "Mon doudou",
       "url": "https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171537,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
     },
     {
       "album": {

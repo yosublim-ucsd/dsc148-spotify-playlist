@@ -1081,6 +1081,32 @@
     },
     {
       "album": {
+        "name": "Gina Canta Cazuza",
+        "url": "https://open.spotify.com/album/3v7Ci6DTaoUH3pTN8Qz6k3"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        },
+        {
+          "name": "Evelyn Castro",
+          "url": "https://open.spotify.com/artist/0WiXJNnWKqfx4xaEDmXNNG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179219,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/2aPDZWJgpzRjntDwwvXQFd"
+    },
+    {
+      "album": {
         "name": "Beba-Me Ao Vivo",
         "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
       },
@@ -1478,7 +1504,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188026,
       "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE"

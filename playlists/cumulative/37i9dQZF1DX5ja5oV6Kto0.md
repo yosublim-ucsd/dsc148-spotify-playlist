@@ -2,7 +2,7 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Braye
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Cruel Santino
 
 804 songs - 1 day 15 hr 21 min
 

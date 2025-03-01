@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 364000,
       "name": "Beat of the Drum",
       "url": "https://open.spotify.com/track/3QeAAUENrwqgyS7DYXFdRG"
@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180173,
       "name": "Circle Dance",
       "url": "https://open.spotify.com/track/68FNt48LTZq4NILRCMKtWG"
@@ -14340,7 +14340,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 326000,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7s4FWMmzcHjOkJvo4L2ZWs"
@@ -18704,7 +18704,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168750,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/5wo8Gt4FPo4XSGh1hAKrIg"
@@ -19990,7 +19990,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221538,
       "name": "La Tengo",
       "url": "https://open.spotify.com/track/4qpc48pFG6GKtrq1VM0MOL"
@@ -22208,7 +22208,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182769,
       "name": "Love Spell",
       "url": "https://open.spotify.com/track/0fjN6JXHE5CS03lUp6DHlk"
@@ -22408,7 +22408,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176914,
       "name": "Ma Face",
       "url": "https://open.spotify.com/track/5ZcMllqKkC7lvlk71gdQOv"
@@ -24400,6 +24400,24 @@
       "duration_ms": 203825,
       "name": "Move Your Body - Short Version",
       "url": "https://open.spotify.com/track/36zCQBmyIz9NSuLmLbpqHm"
+    },
+    {
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/2AMhmZpPHkZnCs3aYQ0tEs"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/76kfd4vdAf10jSJNI6xop1"
     },
     {
       "album": {
@@ -27241,6 +27259,28 @@
     },
     {
       "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "P!NK",
+      "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
+    },
+    {
+      "album": {
         "name": "Pa la Mami",
         "url": "https://open.spotify.com/album/2SiRitQE8zFjdy9DcWkDrp"
       },
@@ -27864,7 +27904,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 218181,
       "name": "Paula Abdul",
       "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
@@ -28521,6 +28561,28 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1W8Hn0rq5LNsfnDi67X8rC"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/6PWMNrSexfbrn7Fw1mxupR"
+    },
+    {
+      "album": {
         "name": "Playgirl",
         "url": "https://open.spotify.com/album/7n5GXUnDUYgC6xDl5QrGZG"
       },
@@ -28672,7 +28734,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 230697,
       "name": "Pony feat. Spektrum",
       "url": "https://open.spotify.com/track/0wHTFWA4lXEVy4O5URaLVA"
@@ -29130,6 +29192,32 @@
       "duration_ms": 182703,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/3AnStUBkcxdkiwBfHyK501"
+    },
+    {
+      "album": {
+        "name": "Proper Whopper",
+        "url": "https://open.spotify.com/album/7cGuSvxH6gsyygZOQZQrGb"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Sam Curran",
+          "url": "https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA"
+        },
+        {
+          "name": "Harry Unsworth",
+          "url": "https://open.spotify.com/artist/1cS0sZXi7K2blpbendbE2A"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Proper Whopper",
+      "url": "https://open.spotify.com/track/0jDYMxl9oJRNPOnVKKVaZW"
     },
     {
       "album": {
@@ -31247,6 +31335,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/227mLJGRGZAIHOliiU6ZC6"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3WKP2GWvwidg2TDMD1RM2k"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/0DHip6BOwZ2uyLvQwQ870n"
       },
@@ -33254,6 +33360,28 @@
       "duration_ms": 164115,
       "name": "Sneaky Link (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+    },
+    {
+      "album": {
+        "name": "SNITCHES",
+        "url": "https://open.spotify.com/album/288DkcVUVOKUFHxRUksks0"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        },
+        {
+          "name": "CHMPLOO",
+          "url": "https://open.spotify.com/artist/2Ak25JbEnXbtfswxK5qepN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "SNITCHES",
+      "url": "https://open.spotify.com/track/5mKJBpvDf4wOLxHUnVYti2"
     },
     {
       "album": {
@@ -35337,6 +35465,24 @@
     },
     {
       "album": {
+        "name": "Take Me Up / Stop The Yap",
+        "url": "https://open.spotify.com/album/69yxpI7gvwnU6tE1jqHaEQ"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220116,
+      "name": "Take Me Up - Radio Edit",
+      "url": "https://open.spotify.com/track/1VVrKYpRjdTMT7D5nd0pFp"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/7flKEKlL42QgUd4WWf0cm5"
       },
@@ -35720,6 +35866,24 @@
       "duration_ms": 195014,
       "name": "Teka (with Peso Pluma) - Matroda Remix",
       "url": "https://open.spotify.com/track/0eF9MPddedbS6MngSnB9RC"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2Ij05JnZx2T3CaWMWhPuLS"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7wcBjem7yS10mCTL7Tf14k"
     },
     {
       "album": {
@@ -36482,6 +36646,24 @@
       "duration_ms": 190288,
       "name": "The Inside",
       "url": "https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9"
+    },
+    {
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
       "album": {

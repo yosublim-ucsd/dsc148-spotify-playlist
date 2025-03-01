@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Gurnam Bhullar &  Geet Goraya",
-  "num_followers": 210434,
+  "num_followers": 210484,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
+        "name": "Right Way",
+        "url": "https://open.spotify.com/album/2XQRlJWhTkSyU42p9X3SDP"
+      },
+      "artists": [
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Nadha Virender",
+          "url": "https://open.spotify.com/artist/0O8dnO0SyOIX4C8dI1ERsF"
+        },
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 138064,
+      "name": "Right Way",
+      "url": "https://open.spotify.com/track/2T4Pvgy8nFPA0Ub0P8vCQV"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
         "name": "31,10",
         "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
       },
@@ -1027,22 +1051,6 @@
       "duration_ms": 164210,
       "name": "31,10",
       "url": "https://open.spotify.com/track/6hCJYYohjT9FqR6WZh2ToL"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
-        "name": "Kill Goriye",
-        "url": "https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy"
-      },
-      "artists": [
-        {
-          "name": "Gurj Sidhu",
-          "url": "https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "Kill Goriye",
-      "url": "https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1071,6 +1079,22 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
+        "name": "Kill Goriye",
+        "url": "https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy"
+      },
+      "artists": [
+        {
+          "name": "Gurj Sidhu",
+          "url": "https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Kill Goriye",
+      "url": "https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
         "name": "XPENSIVE",
         "url": "https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 170342,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
-        "name": "Right Way",
-        "url": "https://open.spotify.com/album/2XQRlJWhTkSyU42p9X3SDP"
-      },
-      "artists": [
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "Nadha Virender",
-          "url": "https://open.spotify.com/artist/0O8dnO0SyOIX4C8dI1ERsF"
-        },
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 138064,
-      "name": "Right Way",
-      "url": "https://open.spotify.com/track/2T4Pvgy8nFPA0Ub0P8vCQV"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
-        "name": "Bhadauria",
-        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
-      },
-      "artists": [
-        {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "Step Bhull Gyi",
-      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
         "name": "Mitra Ne Dil Mangeya",
         "url": "https://open.spotify.com/album/7DRxW3DYyxUzAeRX2D2Hg9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 162857,
       "name": "Mitra Ne Dil Mangeya",
       "url": "https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
+        "name": "Bhadauria",
+        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "Step Bhull Gyi",
+      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
-        "name": "Jatt Flex",
-        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "Jatt Flex",
-      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
         "name": "Gundagardi (\u201cDakuaan Da Munda 2\")",
         "url": "https://open.spotify.com/album/5LoEtwtK8sPH2AfRnOjfMy"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 202340,
       "name": "Gundagardi (\u201cDakuaan Da Munda 2\")",
       "url": "https://open.spotify.com/track/6mcKuKxSM8AwZWiX3gcS4Q"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
+        "name": "Jatt Flex",
+        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        }
+      ],
+      "duration_ms": 195714,
+      "name": "Jatt Flex",
+      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
+        "name": "The Bull Walk 2",
+        "url": "https://open.spotify.com/album/1ToKW8En2i6lKeOoLeXCO3"
+      },
+      "artists": [
+        {
+          "name": "Kabir Sandhu",
+          "url": "https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3"
+        },
+        {
+          "name": "Raja Kang",
+          "url": "https://open.spotify.com/artist/5KCHRPbzx9DQHpCv9i4PFs"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "The Bull Walk 2",
+      "url": "https://open.spotify.com/track/2NZOEgSzJxXGmzltOt8c7y"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
         "name": "Kangni",
         "url": "https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
-        "name": "The Bull Walk 2",
-        "url": "https://open.spotify.com/album/1ToKW8En2i6lKeOoLeXCO3"
-      },
-      "artists": [
-        {
-          "name": "Kabir Sandhu",
-          "url": "https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3"
-        },
-        {
-          "name": "Raja Kang",
-          "url": "https://open.spotify.com/artist/5KCHRPbzx9DQHpCv9i4PFs"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "The Bull Walk 2",
-      "url": "https://open.spotify.com/track/2NZOEgSzJxXGmzltOt8c7y"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1635,26 +1635,22 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
-        "name": "Boli Tu Pawe",
-        "url": "https://open.spotify.com/album/6VtVp0mA1nLfNLc1zHiXgn"
+        "name": "Leeran",
+        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
       },
       "artists": [
         {
-          "name": "Ekam Chanoli",
-          "url": "https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik"
+          "name": "Balkar Ankhila",
+          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
         },
         {
-          "name": "Akash Jandu",
-          "url": "https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA"
-        },
-        {
-          "name": "Kuldeep Rathorr",
-          "url": "https://open.spotify.com/artist/4YMWBFmvdTqsHKmAiStUTF"
+          "name": "Manjinder Gulshan",
+          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
         }
       ],
-      "duration_ms": 146570,
-      "name": "Boli Tu Pawe",
-      "url": "https://open.spotify.com/track/7BWs7IV2jytym8ziyxWEIR"
+      "duration_ms": 141923,
+      "name": "Leeran",
+      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
     },
     {
       "added_at": "2025-02-28 00:39:30",
@@ -1679,6 +1675,30 @@
     {
       "added_at": "2025-02-28 00:39:30",
       "album": {
+        "name": "Boli Tu Pawe",
+        "url": "https://open.spotify.com/album/6VtVp0mA1nLfNLc1zHiXgn"
+      },
+      "artists": [
+        {
+          "name": "Ekam Chanoli",
+          "url": "https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik"
+        },
+        {
+          "name": "Akash Jandu",
+          "url": "https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA"
+        },
+        {
+          "name": "Kuldeep Rathorr",
+          "url": "https://open.spotify.com/artist/4YMWBFmvdTqsHKmAiStUTF"
+        }
+      ],
+      "duration_ms": 146570,
+      "name": "Boli Tu Pawe",
+      "url": "https://open.spotify.com/track/7BWs7IV2jytym8ziyxWEIR"
+    },
+    {
+      "added_at": "2025-02-28 00:39:30",
+      "album": {
         "name": "4 Mint",
         "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 254537,
       "name": "4 Mint",
       "url": "https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3"
-    },
-    {
-      "added_at": "2025-02-28 00:39:30",
-      "album": {
-        "name": "Leeran",
-        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
-      },
-      "artists": [
-        {
-          "name": "Balkar Ankhila",
-          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
-        },
-        {
-          "name": "Manjinder Gulshan",
-          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
-        }
-      ],
-      "duration_ms": 141923,
-      "name": "Leeran",
-      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
     },
     {
       "added_at": "2025-02-28 00:39:30",

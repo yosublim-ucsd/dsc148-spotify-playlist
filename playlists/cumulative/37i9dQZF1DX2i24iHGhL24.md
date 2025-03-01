@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-439 songs - 1 day 1 hr 19 min
+440 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Same Drugs](https://open.spotify.com/track/6CTTipcCa8RZX8aY0mttHa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Same Drugs](https://open.spotify.com/album/5Cm0jOtMleDMQXb2R7p0cI) | 4:24 | 2022-03-25 | 2022-04-16 |
 | [Say My Name](https://open.spotify.com/track/1FT0UxEC9oRWUg18MfPEcj) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Covers EP](https://open.spotify.com/album/1dh2pFzrKtkLeuQ8uoMX0U) | 3:40 | 2021-12-17 | 2022-12-30 |
 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 | 2021-12-17 |  |
+| [Say Something](https://open.spotify.com/track/0BXumCgm0URFmvr1lDnMZI) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Say Something](https://open.spotify.com/album/5OovV8k5IcxufGdpCSke9T) | 3:32 | 2025-02-28 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 | 2021-12-17 | 2022-05-02 |
 | [See You Again](https://open.spotify.com/track/2GArYzH7f20j2e3xgFPEQc) | [Sabby Sousa](https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6) | [See You Again](https://open.spotify.com/album/0AwxjhGlgTp5hMUw9GmEmE) | 3:38 | 2021-12-17 | 2022-05-02 |
 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 | 2021-12-17 | 2022-04-21 |
@@ -396,7 +397,7 @@
 | [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-20 |  |
 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 | 2022-07-08 | 2022-10-29 |
 | [Titanium](https://open.spotify.com/track/7vEX2DuGfeyH2RRV3XZdHJ) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 4](https://open.spotify.com/album/6olVyDyIS9W67adbR23ypX) | 3:47 | 2022-03-25 | 2022-07-29 |
-| [Too Funky](https://open.spotify.com/track/6DGujQojYKebtgnq9SGT0B) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [808 BEACH](https://open.spotify.com/artist/7LiLZltLf7oBTbpxJYd0gH) | [Red Hot + Free: Mixtape](https://open.spotify.com/album/1NoGWWVyxGoKfTKAhLc3Xz) | 3:45 | 2024-06-19 |  |
+| [Too Funky](https://open.spotify.com/track/6DGujQojYKebtgnq9SGT0B) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [808 BEACH](https://open.spotify.com/artist/7LiLZltLf7oBTbpxJYd0gH) | [Red Hot + Free: Mixtape](https://open.spotify.com/album/1NoGWWVyxGoKfTKAhLc3Xz) | 3:45 | 2024-06-19 | 2025-03-01 |
 | [Torn](https://open.spotify.com/track/5bE0T0e4BrW8zhlwGR9vWD) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Torn](https://open.spotify.com/album/2Q2SAVlPW1l56d2jRJsoRi) | 3:25 | 2023-12-22 |  |
 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 | 2021-12-17 | 2022-05-02 |
 | [Torn](https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Torn](https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk) | 3:37 | 2021-12-17 | 2022-12-30 |

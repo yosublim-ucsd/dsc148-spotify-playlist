@@ -4,7 +4,7 @@
 
 > Noemi in cover + tutte le migliori uscite della settimana!
 
-3,783 songs - 7 day 22 hr 58 min
+3,785 songs - 7 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1910,6 +1910,7 @@
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-09 | 2024-05-17 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-07 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-28 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
 | [Love Is Eternity](https://open.spotify.com/track/4iXTpwsitXpEeS9nojYVGb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Love Is Eternity](https://open.spotify.com/album/50GZ0ASPkFLzIW7gtivOre) | 3:33 | 2024-08-29 | 2024-09-06 |
 | [LOVE IS OVERRATED](https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [LOVE IS OVERRATED](https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx) | 3:33 | 2024-07-11 | 2024-07-19 |
@@ -3535,6 +3536,7 @@
 | [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 | 2024-07-04 | 2024-07-12 |
 | [Un posto piccolo](https://open.spotify.com/track/3e0FeWKt4itlv0Bk0zfrMO) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Un posto piccolo](https://open.spotify.com/album/70pSe6NM0YHM0wq4KDt34b) | 3:28 | 2024-11-15 | 2024-11-22 |
 | [Un senso](https://open.spotify.com/track/7eKIIKi1xkcZz8ElZ1DYZJ) | [Orang3](https://open.spotify.com/artist/2CiAivRzLBZI5HDPKNUokU) | [CROCI e SCUSE](https://open.spotify.com/album/1TKfVn8ZoSrEtKxCGo8fCj) | 3:23 | 2025-01-30 | 2025-02-07 |
+| [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 | 2025-02-28 |  |
 | [UN TRAUMA È PER SEMPRE](https://open.spotify.com/track/4dKneHwNN779NhxDkFDYGt) | [SARAFINE](https://open.spotify.com/artist/6uejEU9tKd16IvCqvf2n5E) | [UN TRAUMA È PER SEMPRE](https://open.spotify.com/album/1dvuxPumMdWblBsJ7aYhI5) | 2:57 | 2024-12-05 | 2024-12-13 |
 | [Un uomo qualunque](https://open.spotify.com/track/0t8T9q0bhIhansXlWaWmYX) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [Un uomo qualunque](https://open.spotify.com/album/3r31b4BMUdcuTtxYGMOiG3) | 3:34 | 2024-06-27 | 2024-07-05 |
 | [un'altra idea di merda](https://open.spotify.com/track/1Py2OeeVKpZ151KedQHUYg) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [GOMME DA MASTICARE](https://open.spotify.com/album/6f7mUTeasKOwBBiWE5eAES) | 2:52 | 2024-11-07 | 2024-11-15 |

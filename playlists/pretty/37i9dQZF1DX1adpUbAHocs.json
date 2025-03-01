@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 660836,
+  "num_followers": 660840,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 176733,
       "name": "to Perth, before the border closes",
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "A Different Kind Of Fix",
         "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210213,
       "name": "How Can You Swallow So Much Sleep",
       "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Going On A Feeling",
-      "url": "https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Faithless",
         "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 250565,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Going On A Feeling",
+      "url": "https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 205600,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
-      },
-      "artists": [
-        {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
         "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 256352,
       "name": "Santa Ana Winds",
       "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Drivin (feat. Field Medic)",
-        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Drivin (feat. Field Medic)",
-      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
+      "duration_ms": 176600,
+      "name": "Supertramp",
+      "url": "https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs"
     }
   ],
   "unique_name": "Scenic Route",

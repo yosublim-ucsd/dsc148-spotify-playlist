@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Robin Schulz au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,790 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,838 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/track/0GaelwSoQDKjwoE16jxwNo) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/album/0CjeKexsHa6yFv7X43qJ4d) | 2:39 |
 | 40 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 |
 
-Snapshot ID: `Z8DuiwAAAAAtB6maTEqR9ssSXQ+Pwpnd`
+Snapshot ID: `Z8DuiwAAAACzR0Mg4sI6hbf1Dc8pt9Js`

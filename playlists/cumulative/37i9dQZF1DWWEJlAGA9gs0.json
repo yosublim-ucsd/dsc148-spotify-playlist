@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Rachmaninoff: 10 Preludes, Op. 23: No. 5 in G Minor. Alla marcia",
+        "url": "https://open.spotify.com/album/3J919bkzMdYLMyx6UBqYs9"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "10 Preludes, Op. 23: No. 5 in G Minor. Alla marcia",
+      "url": "https://open.spotify.com/track/5Rr36ZvGCXvWTF7bdL40KA"
+    },
+    {
+      "album": {
         "name": "Altstaedt, Nicolas - French Cello Sonatas",
         "url": "https://open.spotify.com/album/53JzBLhG5laCLndqWOC2at"
       },
@@ -5332,7 +5354,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 636000,
-      "name": "Spiegel im Spiegel - Version for Violin and Piano",
+      "name": "Spiegel im Spiegel (Version for Violin & Piano) - Version for Violin and Piano",
       "url": "https://open.spotify.com/track/4wudbbceOZKjRlhTtbHvAs"
     },
     {

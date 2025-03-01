@@ -1,13 +1,61 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Sam Fender",
-  "num_followers": 833738,
+  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
+  "num_followers": 833749,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIeAAAAACdvqv03emuagU/ZhcOWfFJ",
+  "snapshot_id": "Z8FDAAAAAADOQoLSlnAV9W/gd57WxS/C",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
+    },
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Sinister Grift",
+        "url": "https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 211126,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
+    },
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Lead Up",
+        "url": "https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 318949,
+      "name": "Lead Up",
+      "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
+    },
     {
       "added_at": "2025-02-21 05:00:40",
       "album": {
@@ -61,6 +109,38 @@
       "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
     },
     {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/4Gyhp0b6LoWP89ZqYJApAi"
+      },
+      "artists": [
+        {
+          "name": "Pretty Jane",
+          "url": "https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/1r6E88xX2qVfyD8I1rNsix"
+    },
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Felicity",
+        "url": "https://open.spotify.com/album/3qzIT1RVYObfgrhC1YKyU0"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Felicity",
+      "url": "https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH"
+    },
+    {
       "added_at": "2025-02-14 05:00:48",
       "album": {
         "name": "Automatic",
@@ -93,6 +173,22 @@
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     },
     {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "The Moon Is In The Wrong Place (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31bGqyJu3AtpzlFzNoE1aM"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 184010,
+      "name": "I\u2019m A Fool",
+      "url": "https://open.spotify.com/track/4cWO14OwuDqi2Bq9ox3TJH"
+    },
+    {
       "added_at": "2025-02-21 05:00:40",
       "album": {
         "name": "More More More",
@@ -123,6 +219,46 @@
       "duration_ms": 246793,
       "name": "Gumshoe (Dracula From Arkansas)",
       "url": "https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi"
+    },
+    {
+      "added_at": "2025-02-28 05:00:48",
+      "album": {
+        "name": "Let Me Go (feat. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/52CoE2Gs06mid6NMkGDzLY"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/7nGN1Wu9kCaKUUdqBcY9NZ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:48",
+      "album": {
+        "name": "Dollar Store (feat. Waxahatchee)",
+        "url": "https://open.spotify.com/album/3jD1Dxg9pwGak8QZhNN7zR"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 204101,
+      "name": "Dollar Store (feat. Waxahatchee)",
+      "url": "https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -271,26 +407,6 @@
       "duration_ms": 184933,
       "name": "Mega Circuit",
       "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
-    },
-    {
-      "added_at": "2025-02-14 05:00:48",
-      "album": {
-        "name": "Dollar Store (feat. Waxahatchee)",
-        "url": "https://open.spotify.com/album/3jD1Dxg9pwGak8QZhNN7zR"
-      },
-      "artists": [
-        {
-          "name": "Ben Kweller",
-          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 204101,
-      "name": "Dollar Store (feat. Waxahatchee)",
-      "url": "https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo"
     },
     {
       "added_at": "2025-02-14 05:00:48",

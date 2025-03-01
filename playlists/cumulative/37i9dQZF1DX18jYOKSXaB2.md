@@ -4,7 +4,7 @@
 
 > Best served with party jollof
 
-167 songs - 8 hr 30 min
+168 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [I'll Be There](https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [I'll Be There](https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS) | 3:21 | 2025-01-31 |  |
 | [I'm In Love](https://open.spotify.com/track/2KCwCQXuB5fwbPIAypOcSz) | [Martins Hero](https://open.spotify.com/artist/2LK4plhUGGZuuRTEcWzemM) | [I'm In Love](https://open.spotify.com/album/5KPvOmg8ZOeFUyNwnaS9Vv) | 3:27 | 2024-02-09 | 2024-03-01 |
 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 | 2022-02-11 |  |
-| [Ifeoma](https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD) | [Shugavybz](https://open.spotify.com/artist/55o2TzDIJFZ3AtYK9N53tm), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Ifeoma](https://open.spotify.com/album/712c1s1yOhmn5ImbCMyU1M) | 1:55 | 2024-11-15 |  |
+| [Ifeoma](https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD) | [Shugavybz](https://open.spotify.com/artist/55o2TzDIJFZ3AtYK9N53tm), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Ifeoma](https://open.spotify.com/album/712c1s1yOhmn5ImbCMyU1M) | 1:55 | 2024-11-15 | 2025-03-01 |
 | [IN THE GARDEN \(feat\. Morravey\)](https://open.spotify.com/track/21hZ5a5marKn0MWxkZ0vYR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:45 | 2023-03-30 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2022-02-11 | 2022-10-22 |
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 |  |
@@ -145,6 +145,7 @@
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2024-04-19 |  |
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 | 2024-04-19 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2024-08-02 |
+| [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-02-28 |  |
 | [Selfish](https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Selfish](https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI) | 4:04 | 2022-02-11 | 2022-09-02 |
 | [Sere](https://open.spotify.com/track/7IDrQtd8JrnExDCPSq0W90) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Sere](https://open.spotify.com/album/32hcgwyvVbizVzvyIGLfTT) | 3:05 | 2022-02-11 |  |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-02-11 | 2024-07-19 |

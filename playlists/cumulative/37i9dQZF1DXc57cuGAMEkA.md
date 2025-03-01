@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック  LISA, 藤井 風, timelesz, Awich, d4vd, JVKE and more! cover: LISA
 
-8,648 songs - 20 day 3 hr 37 min
+8,650 songs - 20 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4166,6 +4166,7 @@
 | [Love Game](https://open.spotify.com/track/1sPMAxEKbcbfu61aQePk65) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Love Game](https://open.spotify.com/album/1XczLnnF5yEml9Ih1xdokY) | 1:52 | 2025-01-09 | 2025-01-17 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-07 |
 | [LOVE HURTS \(with Lil Uzi Vert\)](https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:34 | 2024-08-29 | 2024-09-06 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-07-27 |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 | 2024-02-09 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
@@ -5029,6 +5030,7 @@
 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG) | 4:33 | 2024-04-12 | 2024-04-19 |
 | [Oh Why](https://open.spotify.com/track/6CeG3pbRAjcv78ca1ONW7K) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Oh Why](https://open.spotify.com/album/5voNr92YRmiItz5FnU3fAW) | 3:06 | 2024-07-04 | 2024-07-12 |
 | [OH!](https://open.spotify.com/track/0inYnQKUEtJf3b9FIScJzk) | [Tsuyoshi Nagabuchi](https://open.spotify.com/artist/5hHNaYRpbcz1qo09jeVcg8) | [OH!](https://open.spotify.com/album/2raRMs0fp9kJiWI8Uz3qrI) | 5:58 | 2023-06-15 | 2023-06-23 |
+| [oh, baby say my h](https://open.spotify.com/track/0PiE1tDf3ODdJTJqiRWSTL) | [yeil](https://open.spotify.com/artist/1F9Qcww8eVjON47LH0AyYj), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [oh, baby say my h](https://open.spotify.com/album/2jTjrakzbC8G3AagsKkfLY) | 3:16 | 2025-02-27 |  |
 | [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 | 2024-03-21 | 2024-03-29 |
 | [OHAYO!](https://open.spotify.com/track/6XAinjzt62WMyBT8aUb9pj) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [OHAYO!](https://open.spotify.com/album/74RiebqS3I4AVbWL42NDv0) | 2:21 | 2024-07-04 | 2024-07-12 |
 | [ohhh!](https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [ohhh!](https://open.spotify.com/album/3D4Y8HjCtnKoSBeEhcXshA) | 3:40 | 2023-06-08 | 2023-06-16 |

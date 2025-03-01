@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: Eruca Sativa
+> Más vivo que nunca, más nuestro que siempre\. Foto: Fito Paez.
 
-357 songs - 22 hr 17 min
+360 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 | 2022-06-24 |  |
 | [La Era Del Dragón](https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Era Del Dragón](https://open.spotify.com/album/6XHIbN2hCilPmLura52crR) | 3:40 | 2024-05-24 | 2024-08-03 |
 | [La Gente](https://open.spotify.com/track/7eHD7EhL4dVcoPSYF7y8Ra) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [La Gente](https://open.spotify.com/album/1SSPHLOjXMvtdghdC3fVof) | 2:22 | 2024-02-23 |  |
+| [La Güera Salomé](https://open.spotify.com/track/3h48tHwebA7poh2s87Ng2D) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [El Chavez](https://open.spotify.com/artist/78At4Kngmy7acsoeNPRHZN) | [La Güera Salomé](https://open.spotify.com/album/7ffcpgsTJw7ZV8FJaow0lK) | 2:59 | 2025-02-28 |  |
 | [La ilusión que me condena](https://open.spotify.com/track/3T4vk3awY1RataAdlFrKew) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Tete Iglesias](https://open.spotify.com/artist/5un8NCvDWXOp3SVDApxeQY), [Bochi Bozzalla](https://open.spotify.com/artist/2DF67zLVfJntjKXdiGmnbr), [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [La ilusión que me condena](https://open.spotify.com/album/3q0JNT0J2YlA3FVRYiIHuI) | 4:46 | 2024-06-14 | 2025-02-08 |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-24 | 2023-09-27 |
 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 | 2022-07-08 | 2023-12-09 |
@@ -223,6 +224,7 @@
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 | 2023-04-22 |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 | 2023-04-15 |
 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 |  |
+| [Me Haces Falta](https://open.spotify.com/track/2eg8DL6nVFm2OsH3OnFnEp) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [La Promesa](https://open.spotify.com/album/6K5qYOXXc4zHesFqF7NMxg) | 3:08 | 2025-02-28 |  |
 | [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 | 2024-11-07 |  |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-06-03 |
@@ -311,6 +313,7 @@
 | [Such A Witch](https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Such A Witch](https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr) | 4:02 | 2024-08-02 | 2024-09-21 |
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-06-24 | 2023-09-23 |
 | [Suerte](https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Suerte](https://open.spotify.com/album/4CT2Ci1lR8I4bjnd4nZyUB) | 3:03 | 2022-06-24 | 2022-07-09 |
+| [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 | 2025-02-28 |  |
 | [Superman](https://open.spotify.com/track/2bjZVdbKirAuoARSGjb6Iy) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W) | [Superman](https://open.spotify.com/album/5Rhcjg2AVjkAHV6VPD2xux) | 3:39 | 2024-05-31 | 2024-06-26 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-09-03 |
 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 | 2024-09-21 |

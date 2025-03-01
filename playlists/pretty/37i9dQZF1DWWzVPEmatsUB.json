@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 638610,
+  "num_followers": 638589,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N5gAAAABiCnsO8MWe7ohSh7v0zY6B",
+  "snapshot_id": "Z8FC7gAAAADcl7euLlVCWgJJfzIZpjXy",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:30",
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
+    },
     {
       "added_at": "2025-02-14 05:00:22",
       "album": {
@@ -1111,22 +1127,6 @@
       "duration_ms": 192960,
       "name": "Ice Man",
       "url": "https://open.spotify.com/track/42KkrT9sBd21DHog1JvzVr"
-    },
-    {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
-        "name": "Ana\u00efs Mitchell (Deluxe)",
-        "url": "https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Any Way You Come - Bonus Track",
-      "url": "https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8"
     },
     {
       "added_at": "2024-09-20 14:04:29",

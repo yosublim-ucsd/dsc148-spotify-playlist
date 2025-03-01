@@ -4,7 +4,7 @@
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-277 songs - 17 hr 22 min
+278 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Howlin at the Moon](https://open.spotify.com/track/6KkTEaHcD5rXG4cVjWjbWn) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:11 | 2019-06-27 |  |
 | [Hurt So Bad](https://open.spotify.com/track/0vR9THRZdAsBehAAeGSBjo) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 3:49 | 2021-12-20 |  |
 | [Hurt So Bad](https://open.spotify.com/track/2DtovHHQIq1nvMoELE2uO7) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Neon Cross](https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ) | 3:49 | 2021-12-20 | 2024-04-19 |
+| [I Ain't Livin'](https://open.spotify.com/track/6IZWen7yu38Tb0O73JBsgp) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [I Ain't Livin'](https://open.spotify.com/album/4VAGELmzkO9a7MWgt28vYe) | 2:56 | 2025-02-28 |  |
 | [I Hurt Too](https://open.spotify.com/track/6I12kd6HCDGwi9VnoPBfc2) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Apple Tree](https://open.spotify.com/album/1xrzzbxD5m2VAcYu70hszz) | 4:28 | 2019-08-08 |  |
 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 | 2019-06-27 |  |
 | [I'd Die Without You](https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/2092uBCLDw7Off2zl7Es2j) | 4:10 | 2019-06-27 | 2023-12-24 |

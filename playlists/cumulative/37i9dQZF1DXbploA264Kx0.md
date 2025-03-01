@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Whyte \(壞特\)
 
-379 songs - 23 hr 13 min
+382 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,12 +326,15 @@
 | [心托明月](https://open.spotify.com/track/7p3bb9bTrcJ8WVOQK67pXW) | [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D) | [心](https://open.spotify.com/album/0VdmAQ7JTd0cO0AlQtgX6v) | 3:26 | 2024-06-13 | 2024-07-01 |
 | [忘記了](https://open.spotify.com/track/7lfWPICAk6NkyZCtFeS7LO) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [把水開著](https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3) | 3:36 | 2024-06-13 | 2024-07-01 |
 | [想了妳６次](https://open.spotify.com/track/3bUqboGbgoKR2JMnojkpgf) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Be a Lover](https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq) | 3:42 | 2024-06-13 | 2024-07-01 |
+| [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 | 2025-02-28 |  |
 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 | 2024-02-29 | 2024-03-15 |
 | [我們到底算什麼](https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:47 | 2024-06-13 | 2024-07-01 |
 | [我的愛](https://open.spotify.com/track/6fZ5Eicl2csYqSfSE1ypl9) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [可憐沒人愛](https://open.spotify.com/album/0yX1C4tLbR3lsxMQJqEjik) | 6:24 | 2025-02-27 |  |
 | [我要殺光浪漫殺死詩](https://open.spotify.com/track/3vp9eQblhoda9oRdCSQksA) | [當代電影大師](https://open.spotify.com/artist/1Zho9gJQQCYaLYKkmWp337) | [告訴我他們都在本來的什麼地方](https://open.spotify.com/album/4JpD4xIat67yApR0VZ5uT8) | 3:27 | 2025-02-27 |  |
 | [拜托](https://open.spotify.com/track/75yUqEe6Au2zncEUfBm25i) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [拜托](https://open.spotify.com/album/0lVGuWFA8H2YzUwxfjhV6S) | 3:08 | 2024-06-13 | 2024-07-01 |
+| [捲菸](https://open.spotify.com/track/7ks6KrwN2DKhEm06X85qEK) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Sound Check](https://open.spotify.com/album/6z6TXKJEJpUYGyQW7uSaAc) | 3:52 | 2025-02-28 |  |
 | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/track/1xqgYyRZUMZEpghRaVpFk3) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Gentle Bones \(Deluxe\)](https://open.spotify.com/album/0yFSAxrubtnkdds990E3kk) | 3:15 | 2024-01-25 | 2024-10-25 |
+| [擋一根](https://open.spotify.com/track/6439IQyiZV5I7aOo8UREgm) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [電火王](https://open.spotify.com/album/2M55kmmq0xR32RKDtBIeHT) | 3:56 | 2025-02-28 |  |
 | [擱淺的人](https://open.spotify.com/track/3sHfuqSaGCN4FFoTc2xaaX) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [擱淺的人](https://open.spotify.com/album/7e0VLBF6RTrqdC8Pt4ODUP) | 4:31 | 2024-02-29 | 2024-03-15 |
 | [敦化南路](https://open.spotify.com/track/3VMlI9cU27pmhchnP2Uajr) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰: The Revisit Version](https://open.spotify.com/album/4ZivdHbzFrI7y411aRSyl5) | 3:49 | 2024-03-15 | 2025-02-28 |
 | [星牛Space Cowboy](https://open.spotify.com/track/2v1XKZScj9M1NsmMZnCQZt) | [DJ SON666](https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2) | [IMAGINATE](https://open.spotify.com/album/65h9AtfR0gAf9qHAv5orbB) | 2:15 | 2024-11-28 | 2025-01-03 |

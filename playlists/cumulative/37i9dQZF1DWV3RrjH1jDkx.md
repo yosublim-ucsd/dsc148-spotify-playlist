@@ -4,7 +4,7 @@
 
 > Ny musikk 🎵
 
-4,537 songs - 9 day 18 hr 43 min
+4,541 songs - 9 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2501,6 +2501,7 @@
 | [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-05-31 | 2024-06-07 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-07 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-28 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
 | [Love Is Eternity](https://open.spotify.com/track/4iXTpwsitXpEeS9nojYVGb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Love Is Eternity](https://open.spotify.com/album/50GZ0ASPkFLzIW7gtivOre) | 3:33 | 2024-08-29 | 2024-09-06 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-07 | 2024-11-15 |
@@ -2547,6 +2548,7 @@
 | [Lucy](https://open.spotify.com/track/2q6U8BTvvPQAvOsNbgDGI2) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:11 | 2024-09-19 | 2024-09-27 |
 | [Luftballong](https://open.spotify.com/track/2L4No9lzEOYDe07dWvkBwa) | [Bananalama](https://open.spotify.com/artist/5Gj2XzwqEbsUPl7VvtCmi1) | [Luftballong](https://open.spotify.com/album/1TVm3OhYIsHH5zL3jy11P9) | 2:45 | 2024-07-11 | 2024-07-19 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2024-12-06 |
+| [Lukk opp døra \(BuzzRiot\)](https://open.spotify.com/track/3tjb1RAQ0Y1fYTKoJuL9XX) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Lukk opp døra \(BuzzRiot\)](https://open.spotify.com/album/4CVOIthlr4oVaXWGfaV16e) | 2:58 | 2025-02-28 |  |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-26 | 2024-05-03 |
 | [Lullaby For Grown\-Ups](https://open.spotify.com/track/3kgeHOMUhVD8ApT6drLTwL) | [Secret Garden](https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0), [Espen Grjotheim](https://open.spotify.com/artist/38bNNL6h42SWZtdCFEk8Eb) | [Songs In The Circle Of Time](https://open.spotify.com/album/2uKgP3rb7l2oRrY7xgpiwd) | 4:35 | 2024-09-19 | 2024-09-27 |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-08-30 |
@@ -2796,6 +2798,7 @@
 | [Naman](https://open.spotify.com/track/30Uhp3YYaBfi7jKWOAsd3S) | [Shervan](https://open.spotify.com/artist/2Jq5NL8XxLlpZwv2raIa15) | [Naman](https://open.spotify.com/album/0uQdzucAoHxVF3Z8Y0UMaQ) | 2:24 | 2025-02-13 | 2025-02-21 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-02-14 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-05-24 |
+| [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 | 2025-02-28 |  |
 | [Nasty \- Match My Chic Remix](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 | 2024-07-04 | 2024-07-12 |
 | [Natalie](https://open.spotify.com/track/1HczbnV2hEtOz8FvMI3rW6) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Natalie](https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz) | 2:59 | 2024-07-18 | 2024-07-27 |
 | [nathalie](https://open.spotify.com/track/6AgvVg29MZ6LIw6DiLOZ4H) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [nathalie](https://open.spotify.com/album/5TFSOfVQXJmnYtXphF4mNs) | 2:41 | 2025-02-20 | 2025-02-28 |
@@ -4174,6 +4177,7 @@
 | [Tää on slut](https://open.spotify.com/track/437yd9PAiY5FZigIMbmjVt) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Tää on slut](https://open.spotify.com/album/7AckybLWgn5PyrEyBlDCnG) | 2:22 | 2024-12-05 | 2024-12-13 |
 | [Tårarnas spår](https://open.spotify.com/track/0dv6TC8smTa5csq9AuKyrS) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Tårarnas spår](https://open.spotify.com/album/6sEhC24N8lkbBWfWIul6Ap) | 4:16 | 2024-08-01 | 2024-08-09 |
 | [Tøffe gutter gråter ikke](https://open.spotify.com/track/6vgOhN09tXzM3cTPy47UOO) | [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Tøffe gutter gråter ikke](https://open.spotify.com/album/6MpH5lk77YENlEVwzOKLCI) | 2:47 | 2025-01-23 | 2025-01-31 |
+| [U AINT SHIT](https://open.spotify.com/track/3STc9osSkifsDV1LtWnTBu) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [U AINT SHIT](https://open.spotify.com/album/0ESHxMvkww69acfqDk8Weo) | 1:52 | 2025-02-28 |  |
 | [Uansett hvem du er](https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Uansett hvem du er](https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6) | 2:56 | 2024-08-29 | 2024-09-06 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 | 2024-06-01 |
 | [Ugly Cry](https://open.spotify.com/track/0laEAr4GUvINBLFQnguMmb) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Ugly Cry](https://open.spotify.com/album/4oSR3YcFYVtp0wladUo93t) | 2:24 | 2024-08-22 | 2024-08-30 |

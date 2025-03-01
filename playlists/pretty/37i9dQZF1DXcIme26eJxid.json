@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 112997,
+  "num_followers": 113013,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Fatteliku (Live in Athens 1987)",
+        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "duration_ms": 643022,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
         "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Fatteliku (Live in Athens 1987)",
-        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
-        }
-      ],
-      "duration_ms": 643022,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     }
   ],
   "unique_name": "Classic Afropop",

@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214271,
+      "name": "El liston de tu pelo",
+      "url": "https://open.spotify.com/track/21TGLfwekrxywrcfwZaEpS"
+    },
+    {
+      "album": {
         "name": "El Llanto de los Luceros / El Llanto de los Sapos",
         "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
       },
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166321,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/6EGBtAnzmEgJt2On3b26zr"
+    },
+    {
+      "album": {
         "name": "Sigue La Locura",
         "url": "https://open.spotify.com/album/573yc9bCGY42x2Uwr16taQ"
       },
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 223920,
       "name": "La Cola Less",
       "url": "https://open.spotify.com/track/7hB8T1ppoI1tAAF7MEGaHn"
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172806,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176106,
       "name": "Quiero Ser Yo (Ese Hombre)",
       "url": "https://open.spotify.com/track/43Bq2xsSHNoatTpYVpPq9n"
@@ -2376,6 +2412,24 @@
       "duration_ms": 278931,
       "name": "Si Te Hubieras Quedado",
       "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "album": {

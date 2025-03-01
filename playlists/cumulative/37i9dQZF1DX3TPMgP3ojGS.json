@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 157554,
       "name": "Aono & Akine",
       "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
@@ -17445,6 +17445,28 @@
     },
     {
       "album": {
+        "name": "Folios of Light (Music by Contemporary Japanese Composers)",
+        "url": "https://open.spotify.com/album/1QahXtx1tlS7u93nHamC13"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Stanford Cheung",
+          "url": "https://open.spotify.com/artist/3cQqz3AnuxmCT6Onwa4zsp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268819,
+      "name": "Merry Christmas, Mr. Lawrence",
+      "url": "https://open.spotify.com/track/5wrxIep0VCAdo1tFsneW1A"
+    },
+    {
+      "album": {
         "name": "Merveilleuse",
         "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
       },
@@ -22836,6 +22858,24 @@
       "duration_ms": 98126,
       "name": "Rippling",
       "url": "https://open.spotify.com/track/5y47UBTEB5JMZokl7KWYM1"
+    },
+    {
+      "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "album": {
@@ -30762,7 +30802,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 139411,
       "name": "Waitings",
       "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"

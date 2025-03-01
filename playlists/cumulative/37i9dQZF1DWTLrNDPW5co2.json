@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217509,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 153808,
       "name": "Moved 2 LA",
       "url": "https://open.spotify.com/track/1rGEWjkvYitclorCMdraGf"
@@ -5076,7 +5076,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180773,
       "name": "Records",
       "url": "https://open.spotify.com/track/0uLev2G8kxK1PH8Fsb9BHl"
@@ -5280,6 +5280,24 @@
       "duration_ms": 236164,
       "name": "Sage comme une image - Good as Gold",
       "url": "https://open.spotify.com/track/2RdqkCm1yEj0V3J7BEYSzT"
+    },
+    {
+      "album": {
+        "name": "SALVATION",
+        "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP"
     },
     {
       "album": {
@@ -5524,6 +5542,24 @@
       "duration_ms": 148554,
       "name": "SIGILOSA",
       "url": "https://open.spotify.com/track/3kLC4iR5WQ1rpZ3rk0B0DS"
+    },
+    {
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/3O6VSdQElvi8Eq1iYbvFMS"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176625,
+      "name": "SINNER",
+      "url": "https://open.spotify.com/track/7Iiw9C8gu4NdbBKUNDkeKD"
     },
     {
       "album": {
@@ -5892,7 +5928,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 130666,
       "name": "take it offff",
       "url": "https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz"
@@ -6337,6 +6373,24 @@
     },
     {
       "album": {
+        "name": "Versed",
+        "url": "https://open.spotify.com/album/7cAy1u88EPwXvx0kJlz7uY"
+      },
+      "artists": [
+        {
+          "name": "Maryze",
+          "url": "https://open.spotify.com/artist/7nquZ60n4QcMV0ycQaXpEv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Versed",
+      "url": "https://open.spotify.com/track/3jOzUB89nlk4gasLz0zYYA"
+    },
+    {
+      "album": {
         "name": "Villano Antillano - Bzrp 51 (Catz 'n Dogz Lazer Mix)",
         "url": "https://open.spotify.com/album/0u5supaRlZQPRx8yWNYGuD"
       },
@@ -6472,6 +6526,36 @@
       "duration_ms": 213973,
       "name": "WICKED GYAL",
       "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
+    },
+    {
+      "album": {
+        "name": "Wifey Riddim",
+        "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148054,
+      "name": "Wifey Riddim",
+      "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
     },
     {
       "album": {

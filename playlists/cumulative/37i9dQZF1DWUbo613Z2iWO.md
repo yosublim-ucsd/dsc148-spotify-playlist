@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Giift
+> R&B of the moment by the artists of the future\. Cover: THEY.
 
-1,176 songs - 2 day 11 hr 51 min
+1,181 songs - 2 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Can't Swim](https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Can't Swim](https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS) | 3:31 | 2022-08-05 | 2022-09-03 |
 | [CANDY](https://open.spotify.com/track/3ve0jZkY2ZrFY4ycBCKKFt) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Drugs n' Lullabies](https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8) | 2:14 | 2024-07-12 | 2024-08-10 |
 | [CaNdY LiEs](https://open.spotify.com/track/0PiC0y8AxORbmVTxufAPdb) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Rendezvous \- EP](https://open.spotify.com/album/6dCmUQ1L9sbPhIoup8ACyo) | 2:29 | 2022-09-09 | 2022-09-17 |
+| [Capsize](https://open.spotify.com/track/3iTr3JYzY6gk3yFY074ZWw) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Capsize](https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX) | 2:50 | 2025-02-28 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-11-27 | 2022-12-03 |
 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 | 2025-02-14 |  |
 | [Cards on the Table](https://open.spotify.com/track/0jrlIwilGCpnDAEk7Hnphb) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Cards on the Table](https://open.spotify.com/album/5o17yAqGyRS6hbQymzBaeZ) | 2:24 | 2024-08-09 | 2024-10-19 |
@@ -237,6 +238,7 @@
 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 | 2022-07-15 | 2023-07-08 |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
 | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 | 2024-12-14 |
+| [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 | 2025-02-28 |  |
 | [CRYBABY](https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [CRYBABY](https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V) | 3:59 | 2024-07-12 | 2024-08-10 |
 | [CULTURE](https://open.spotify.com/track/2uhU539AYa4pnq7oNU2AT8) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [it takes a village](https://open.spotify.com/album/06dEIh43cQW1uEbSWaso7S) | 3:28 | 2022-04-29 | 2022-07-02 |
 | [cum again?](https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [cum again?](https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN) | 3:05 | 2024-08-16 | 2024-11-23 |
@@ -650,6 +652,7 @@
 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 | 2024-06-22 |
 | [LYIN](https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [LYIN](https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok) | 4:19 | 2024-10-18 |  |
 | [Lying \(feat\. Dylan Sinclair\)](https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 4:41 | 2024-11-15 | 2025-01-18 |
+| [LYTM \- Remix](https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [LYTM \(Remix\)](https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk) | 2:40 | 2025-02-28 |  |
 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-06-30 | 2024-01-11 |
 | [Mad At Me](https://open.spotify.com/track/2wQmcZpQyG5VnUaScPlcTB) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Mad At Me](https://open.spotify.com/album/62Nn5iDRbJrvyKsSaWcPOA) | 2:54 | 2024-08-16 | 2024-11-16 |
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-05 | 2023-07-08 |
@@ -755,6 +758,7 @@
 | [One Call Away](https://open.spotify.com/track/4bMWzo5cvc3j5BdSAyxlBK) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [INTO THE RED ZONE](https://open.spotify.com/album/2beUWRoxQCUKdwe9r44Mv2) | 3:00 | 2022-08-05 | 2022-09-03 |
 | [One In A Million \- Live](https://open.spotify.com/track/1xbJT44mf6kUFusziW0rAK) | [NAIVE](https://open.spotify.com/artist/0o6wQ3uS3FZMBMAcF0OcSF), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Live from Ursula Ave](https://open.spotify.com/album/6UhFc73MzbfvRLe77H9vzO) | 2:21 | 2024-01-19 | 2024-06-08 |
 | [One More Night](https://open.spotify.com/track/6SyKCp77HGNRinaWxVkTVA) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Topaz Jones](https://open.spotify.com/artist/2ZAz3sxhrUWAeyGcz140gB) | [One More Night](https://open.spotify.com/album/76q71iu26OY0FhR5ea54Mb) | 3:52 | 2022-02-04 | 2022-03-18 |
+| [ONE MORE TIME \(TRY\)](https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp) | [ONE MORE TIME \(TRY\)](https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq) | 2:48 | 2025-02-28 |  |
 | [ONE THING](https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:52 | 2023-10-27 | 2024-01-11 |
 | [One Time](https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [One Time](https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU) | 2:54 | 2025-01-31 |  |
 | [Only For Your Eyes](https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Only For Your Eyes](https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT) | 2:20 | 2024-08-16 |  |
@@ -887,6 +891,7 @@
 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-11-11 | 2023-01-21 |
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-13 |
 | [Rotation](https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [LOVE.JONES](https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO) | 3:35 | 2025-02-14 |  |
+| [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 | 2025-02-28 |  |
 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 | 2024-08-02 | 2024-11-09 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-20 | 2023-10-21 |
 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 | 2023-02-10 | 2023-06-10 |

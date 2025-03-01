@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,539 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,677 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 72 | [Pure](https://open.spotify.com/track/4XgcpHJAulT6gSTPFODnB7) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Pure](https://open.spotify.com/album/0OoijCMFMoorw6EBRkULoJ) | 3:56 |
 | 73 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 |
 | 74 | [Fresko](https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Fresko](https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia) | 3:21 |
-| 75 | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1) | 4:12 |
-| 76 | [Jacaranda](https://open.spotify.com/track/0k5kd8IQULAW4hJBwndWs5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Jacaranda](https://open.spotify.com/album/1COowOCt7cVvoduGgX5cuu) | 3:04 |
+| 75 | [Jacaranda](https://open.spotify.com/track/0k5kd8IQULAW4hJBwndWs5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Jacaranda](https://open.spotify.com/album/1COowOCt7cVvoduGgX5cuu) | 3:04 |
+| 76 | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1) | 4:12 |
 | 77 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 | 78 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
 | 79 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |

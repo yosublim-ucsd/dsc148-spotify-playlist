@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Drinkin' Problem (Live From Red Rocks)",
+        "url": "https://open.spotify.com/album/0jEWne1bCq6uPwlAE8YeAl"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277493,
+      "name": "Drinkin' Problem - Live From Red Rocks",
+      "url": "https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG"
+    },
+    {
+      "album": {
         "name": "Live From The Palomino",
         "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
       },
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206120,
       "name": "Fishin' In The Dark - Live At The Red Deer Fine Arts Center, Canada/1991",
       "url": "https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 175493,
       "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
       "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
@@ -1500,6 +1518,24 @@
       "duration_ms": 178373,
       "name": "Here You Come Again (Live)",
       "url": "https://open.spotify.com/track/4oOr8nwiZhNZ3c8pKMyQnN"
+    },
+    {
+      "album": {
+        "name": "Live from the Damn Near Normal Tour",
+        "url": "https://open.spotify.com/album/2oa6sd6X59IMadOEMqQTUp"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272714,
+      "name": "High Road - Live from Dickies Arena, Fort Worth, TX",
+      "url": "https://open.spotify.com/track/2U7K2UZcc8WkvsOWfRJYRD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-117 songs - 7 hr 38 min
+120 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 | 2023-05-26 |  |
 | [Freak Out](https://open.spotify.com/track/4A7KmLT5PbXil3ntchAsvF) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Bambie](https://open.spotify.com/artist/6dziONGk8cc7ZFza0Am9vU) | [Freak Out](https://open.spotify.com/album/6AOsBT1D5gNyzeYzZcNLtt) | 3:19 | 2023-05-26 |  |
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2023-05-26 |  |
+| [Fresh Blood](https://open.spotify.com/track/68fTlDCqNZkW0nr7ToytOE) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS So Good: Essential EELS Vol\. 2 \(2007\-2020\)](https://open.spotify.com/album/4symEKHxXLNmhte2LJVE3u) | 4:26 | 2025-02-28 |  |
 | [Fuck Tha Police \- Remastered 2006](https://open.spotify.com/track/0aE3DOqNJrCgCI1y2KGzrg) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [90s Rap Hip Hop](https://open.spotify.com/album/3v5FGFLiMiTYRxSRdH3KyH) | 5:14 | 2023-05-26 |  |
 | [Gepetto](https://open.spotify.com/track/1GB1oyt7Ar8GWa76B4dV1h) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:23 | 2023-05-26 |  |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2023-05-26 |  |
@@ -63,6 +64,7 @@
 | [Let Me Find Out](https://open.spotify.com/track/3ZPD6vXy62YG52HmDIeUU5) | [POS NEG](https://open.spotify.com/artist/5Pe9GOUbCxYWFnEtfO2ieE) | [The Best of Vintage Hip\-Hop: The Lost Tapes Series, Vol\. 1](https://open.spotify.com/album/6hhBxQilVMXXvohaCYH6O6) | 3:15 | 2023-05-26 |  |
 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 | 2023-05-26 |  |
 | [Like A Man](https://open.spotify.com/track/3RhKlpAiolULqWCZmAbYbK) | [Brie Stoner](https://open.spotify.com/artist/6rImFoofSYYORzQ597O5k4) | [Like A Man](https://open.spotify.com/album/1EfttQxBihK3qJNDuze5XD) | 4:23 | 2025-02-14 |  |
+| [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2025-02-28 |  |
 | [Little Queenie](https://open.spotify.com/track/2d9Xw1OiRL8ca2K4A03aD3) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Vol\. Three: The Hand That Did the Deed](https://open.spotify.com/album/76RlOpOj4GHhvJ9EY7NFSA) | 2:50 | 2023-05-26 |  |
 | [Love Comes Close](https://open.spotify.com/track/5GHjhiMYYSCfCGHHfoNVhV) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Love Comes Close \(Deluxe Edition\)](https://open.spotify.com/album/2XNJcFlzfBOvL8SzihQ2E3) | 4:25 | 2023-05-26 |  |
 | [Maid in China](https://open.spotify.com/track/5z7do5vuWxNGaUUEfjNvOk) | [The Father Figures](https://open.spotify.com/artist/5YhXGdEwTDvxwDd7gAhVqX) | [All About Everything](https://open.spotify.com/album/2Tfr5H2Mrv3e6zLACaZtnH) | 3:05 | 2023-05-26 |  |
@@ -112,6 +114,7 @@
 | [The Killing Moon](https://open.spotify.com/track/3qonkCQ0O3xc0vAYcdJKtg) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Bande à Part](https://open.spotify.com/album/091WxYOuLgWkTEu7Jxsup4) | 3:39 | 2023-05-26 |  |
 | [The Music Of The Night](https://open.spotify.com/track/4lyPFIEm0pcLtBgtsNDNhU) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Michael Crawford](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) | [Highlights From The Phantom Of The Opera](https://open.spotify.com/album/0MAILdDpjU31mPtauV7X85) | 5:17 | 2023-05-26 |  |
 | [The Music Of The Night](https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Michael Crawford](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 5:41 | 2023-05-26 |  |
+| [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 | 2025-02-28 |  |
 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 | 2023-05-26 |  |
 | [These Are Days](https://open.spotify.com/track/786h4kDeZiX5nYvOwA3wtE) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [Our Time in Eden](https://open.spotify.com/album/0jtmYtkmyrMDpo7M2FTzZ2) | 3:39 | 2023-05-26 |  |
 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 | 2023-05-26 |  |

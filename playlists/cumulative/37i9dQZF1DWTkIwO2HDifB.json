@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Observando Essa Salada e os funks mais \ud83d\udd11 do Brasil. Foto: MC Cebezinho",
+  "description": "Descer e os funks mais \ud83d\udd11 do Brasil. Foto: Kew, DJ LK da Esc\u00f3cia",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -5343,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9dio Versalico",
+        "url": "https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7"
+      },
+      "artists": [
+        {
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103344,
+      "name": "M\u00e9dio Versalico",
+      "url": "https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD"
+    },
+    {
+      "album": {
         "name": "M\u00f3 Fita",
         "url": "https://open.spotify.com/album/7ws4sJauck3uVokJ7T2JEr"
       },
@@ -5444,7 +5466,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 164307,
       "name": "Nem Ligo Pro Amor",
       "url": "https://open.spotify.com/track/5rIv8Ya5G1bLQoXwIKTn80"
@@ -6339,6 +6361,32 @@
     },
     {
       "album": {
+        "name": "Pirocada Quente",
+        "url": "https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Pirocada Quente",
+      "url": "https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG"
+    },
+    {
+      "album": {
         "name": "Pix ou Presente?",
         "url": "https://open.spotify.com/album/04nS3hn3gAMKWsJ2881DWU"
       },
@@ -6422,6 +6470,28 @@
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "album": {
+        "name": "Por A\u00ed",
+        "url": "https://open.spotify.com/album/7ANfcSyiLSmUTL4g8YD5Ax"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "DJ GM",
+          "url": "https://open.spotify.com/artist/6PFvorRYJAn9vmC99smprt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/3Z3dDVm5mj3BInLNNS4NVJ"
     },
     {
       "album": {
@@ -6960,7 +7030,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 117576,
       "name": "QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q"
@@ -9140,7 +9210,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 196000,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"

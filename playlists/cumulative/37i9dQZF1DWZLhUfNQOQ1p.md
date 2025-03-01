@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-416 songs - 1 day 4 hr 0 min
+417 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Calla](https://open.spotify.com/track/55U8TrpDMrrLUsAIETCVQ4) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Clap! Clap!](https://open.spotify.com/artist/1kvoVygySqbDgyY22qirrv) | [Pantea](https://open.spotify.com/album/7tjjFuEY18RaR8b5BgLxNa) | 4:11 | 2023-09-29 | 2023-10-31 |
 | [Calling You \- Bagdad Cafe/Soundtrack Version](https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To) | [Jevetta Steele](https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR) | [Bagdad Cafe](https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK) | 5:22 | 2024-05-19 | 2024-06-03 |
 | [Calmly](https://open.spotify.com/track/1ROmNAVxMVmTDwXIQcnWIZ) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Sail](https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed) | 4:14 | 2021-08-05 | 2022-06-01 |
-| [Calypso Of House \- Don Carlos Recostruction](https://open.spotify.com/track/7dC5xRVUUKPmmxL1KplpoY) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq), [Key Tronics Ensemble](https://open.spotify.com/artist/7J74hbgBLnAvkGGIinCNXl) | [Calypso Of House \(Don Carlos Recostruction\)](https://open.spotify.com/album/0meVo58RKNY3ofSApU5hIB) | 6:09 | 2024-10-10 |  |
+| [Calypso Of House \- Don Carlos Recostruction](https://open.spotify.com/track/7dC5xRVUUKPmmxL1KplpoY) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq), [Key Tronics Ensemble](https://open.spotify.com/artist/7J74hbgBLnAvkGGIinCNXl) | [Calypso Of House \(Don Carlos Recostruction\)](https://open.spotify.com/album/0meVo58RKNY3ofSApU5hIB) | 6:09 | 2024-10-10 | 2025-03-01 |
 | [Can You Feel Me](https://open.spotify.com/track/35H95rUd08Fwm0DeDifwZM) | [Love Beans](https://open.spotify.com/artist/252cgVmlHfU9jkUArZ8gDm) | [Can You Feel Me](https://open.spotify.com/album/1uHej97mZJH7VVqluMqbRn) | 3:16 | 2021-08-05 | 2022-05-23 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-05-30 | 2023-09-16 |
 | [Candle Flame](https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:54 | 2023-09-01 | 2024-04-19 |
@@ -162,6 +162,7 @@
 | [Hurt Somebody](https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Hurt Somebody](https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq) | 2:59 | 2021-08-05 | 2022-07-29 |
 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 | 2024-07-08 |  |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-17 |  |
+| [I Don't See It That Way](https://open.spotify.com/track/5CGv6xlHJMXoFBrb2xb9FU) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [I Don't See It That Way](https://open.spotify.com/album/4x7pzsMZWguwMmcnUsjl9g) | 2:41 | 2025-02-28 |  |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2023-05-30 | 2023-11-05 |
 | [I Go \- Edit](https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 3:44 | 2023-11-24 | 2024-04-19 |
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |

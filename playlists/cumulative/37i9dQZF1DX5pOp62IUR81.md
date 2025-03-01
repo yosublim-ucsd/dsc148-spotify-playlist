@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-208 songs - 8 hr 55 min
+209 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Iron Man \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/track/6aptHccREaN8qfxJBQFrCx) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Iron Man \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/4GbxSvZN0SkeulVJY3XBf9) | 0:56 | 2024-09-05 | 2025-01-31 |
 | [Iron Man 3](https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:23 | 2024-01-05 |  |
 | [It Is Time](https://open.spotify.com/track/4bJXN7i3AtEA8C8JnXtS7u) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 2:17 | 2024-01-05 |  |
+| [Jeet Hai Hamari \- From "What If...?: Season 3"](https://open.spotify.com/track/6SNNdNs5SGyFF2jX2Pr1Lc) | [GAAYATRI](https://open.spotify.com/artist/3VaCKO3u7bekl0FhJBFE7E), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jeet Hai Hamari \(From "What If...?: Season 3"\)](https://open.spotify.com/album/3j0exGo4lFFT53h9DDsigU) | 4:43 | 2025-02-28 |  |
 | [Kaboom](https://open.spotify.com/track/6iGKLc3npqmbmWJzyIOESo) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 7\) \[Original Soundtrack\]](https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS) | 0:40 | 2024-01-05 |  |
 | [Killmonger](https://open.spotify.com/track/0w7yUSxpQV3a3HqlprOQUs) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:55 | 2024-01-05 |  |
 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 | 2024-01-05 |  |

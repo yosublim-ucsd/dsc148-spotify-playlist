@@ -27961,6 +27961,32 @@
     },
     {
       "album": {
+        "name": "Paarithoshaka Title Track (From \"Paarithoshaka\")",
+        "url": "https://open.spotify.com/album/3Hqu1iNSiwQKBLQIhh7Rit"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Chandan Heggade",
+          "url": "https://open.spotify.com/artist/13AxRyP5m9OsOBMY9nN0xz"
+        },
+        {
+          "name": "Ravi Theja",
+          "url": "https://open.spotify.com/artist/0Arc1t8MwDbLON8WFRcmL3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Paarithoshaka Title Track (From \"Paarithoshaka\")",
+      "url": "https://open.spotify.com/track/7yCzBwe9FV3E5MrYWupXuY"
+    },
+    {
+      "album": {
         "name": "Yuvarathnaa (Kannada) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ"
       },
@@ -30468,7 +30494,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195375,
       "name": "Royal Title Track",
       "url": "https://open.spotify.com/track/4riuEezAHoDiZ40gmDe7M1"
@@ -33038,7 +33064,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 61541,
       "name": "Summanomme Attu Bidabaradeke",
       "url": "https://open.spotify.com/track/0QwTnjfZPE5fM80QZgEJBE"

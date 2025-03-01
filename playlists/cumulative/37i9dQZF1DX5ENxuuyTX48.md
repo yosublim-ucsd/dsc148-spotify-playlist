@@ -4,7 +4,7 @@
 
 > wru? OTW!
 
-1,430 songs - 3 day 14 hr 2 min
+1,431 songs - 3 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 | 2023-03-24 | 2023-05-05 |
 | [Adam](https://open.spotify.com/track/4KwrQl3sQkkp5y0Wjoy7SY) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [25 Rasul](https://open.spotify.com/album/4SzU250wIW1mWoWp7qMU3p) | 2:46 | 2023-03-24 | 2023-05-05 |
 | [AdaMu](https://open.spotify.com/track/0R4zwEg3Y0gjOI5FfwlPq7) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Ada Mu \(Single\)](https://open.spotify.com/album/2IHVGGuZNz6a9pvweLPCBR) | 3:16 | 2023-03-24 | 2023-05-05 |
-| [AdaMu](https://open.spotify.com/track/0riZFEMGbitaVGhz0G6oD6) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [AdaMu \- Single](https://open.spotify.com/album/2A4QjaFxAGTWdnaBmdIpT2) | 3:18 | 2025-02-28 |  |
+| [AdaMu](https://open.spotify.com/track/0riZFEMGbitaVGhz0G6oD6) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [AdaMu \- Single](https://open.spotify.com/album/2A4QjaFxAGTWdnaBmdIpT2) | 3:18 | 2025-02-28 | 2025-03-01 |
 | [Ade 2024](https://open.spotify.com/track/6PVtqu8Lrjckx3sASMpMij) | [Project Pop](https://open.spotify.com/artist/2D3ztMHoKJOJs3HgQJPXf6), [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK), [Nagita Slavina](https://open.spotify.com/artist/63PbdDwARA6MC2VixhGkD0) | [PROJECT POP 2856](https://open.spotify.com/album/3j8X0tnyGb892c9RyOveK9) | 3:53 | 2024-06-28 | 2024-07-13 |
 | [Adegan Pembuka](https://open.spotify.com/track/3xjAxg8U7O5qzuoaTNjzCR) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Adegan Pembuka](https://open.spotify.com/album/0lEmPmFryqrBXkAfY846JI) | 3:38 | 2024-06-14 | 2024-06-22 |
 | [Adiwira](https://open.spotify.com/track/77Rclu7W7JH0sUdaaFNfN7) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Adiwira](https://open.spotify.com/album/7wi8NeAyOByese2502QHTO) | 3:13 | 2024-10-03 | 2025-01-11 |
@@ -1435,6 +1435,7 @@
 | [You Make Me Feel](https://open.spotify.com/track/06jSAhKCHJJtRt0lzvMxKQ) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [You Make Me Feel](https://open.spotify.com/album/0sjMCJ99RMaMZIxwR3qcPa) | 2:14 | 2023-12-01 | 2023-12-09 |
 | [You Up?](https://open.spotify.com/track/21CbczKNP8Yywnjf5NntrX) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [You Up?](https://open.spotify.com/album/1rsupM2ZVDh0hT8kXlbVvY) | 2:51 | 2023-12-14 | 2023-12-22 |
 | [YOUNG](https://open.spotify.com/track/3tEjUYWG6bw4AQ4BHuKDBx) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [YOUNG](https://open.spotify.com/album/1vAh1Z6JVTjVGWQNjIF95A) | 3:28 | 2024-08-09 | 2024-08-16 |
+| [Zamzam \(Vocal Version\)](https://open.spotify.com/track/4HjyFt0LKG9CvFvxJK6ab5) | [Hafiz Hamidun](https://open.spotify.com/artist/6DgMaXR0c070BQWs9VyuNB) | [Zamzam \(Vocal Version\)](https://open.spotify.com/album/2ej3MVO5Ly3A0lJuGUOQax) | 4:40 | 2025-02-28 |  |
 | [اورڠ كامڤوڠ](https://open.spotify.com/track/4OmRN51CejWxXMKewtprtM) | [Let Zapin](https://open.spotify.com/artist/7r0zo9kLQqY15seZ8mbvJh), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Jati Diri](https://open.spotify.com/album/4Bz433aZuBpQJsePr9QvTZ) | 3:24 | 2025-02-06 | 2025-02-14 |
 | [⁠Hey](https://open.spotify.com/track/3cpP0hFFHuaNdHtIv1nNuD) | [The Krankers](https://open.spotify.com/artist/2ztGhiyALcRM1tKRUJrIYi) | [Hey](https://open.spotify.com/album/4ZFDBQaasJP5H5lnYSEVte) | 3:48 | 2024-07-19 | 2024-07-27 |
 | [⁠Sayang/Cinta](https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [TEMAN EP](https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G) | 3:48 | 2024-08-09 | 2024-08-16 |

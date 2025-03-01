@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-980 songs - 2 day 7 hr 57 min
+981 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Just Smile](https://open.spotify.com/track/5PLChOnTLu2oNErIPd5CzW) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R), [HAUBI](https://open.spotify.com/artist/7lRCndss9u3tg2zPQJaBR8) | [Just Smile](https://open.spotify.com/album/2axxwA4f2fjNBgJbgfvtQY) | 3:20 | 2022-04-22 | 2022-07-26 |
 | [Kkondae Latte](https://open.spotify.com/track/2Ff3LQRkRuCSdyOy80dfwh) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3dPfuzpbPmsxGJf6DS6l6p) | 3:09 | 2022-04-07 | 2022-07-27 |
 | [Kkondae Latte](https://open.spotify.com/track/37cMBBGLgg0mRiqs01wcwP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern OST Part 1](https://open.spotify.com/album/2QHH1GCZwF4jbCLsKQe9Yn) | 3:09 | 2023-05-10 | 2023-11-14 |
+| [KyungAh](https://open.spotify.com/track/6zRDe84eEjxzgQI4JpIqwK) | [Sim Su Ho](https://open.spotify.com/artist/16Q15DdJC7nu2VTSYtBuqR), [Moon Tae Jun](https://open.spotify.com/artist/2HLTuzSKcLotietgZJI44b), [KIMHONGNAM](https://open.spotify.com/artist/75apiwYKKC4hBOKhCDMrnZ), [FunkyLocals](https://open.spotify.com/artist/3l1w3rbQJk3G9lJ3ypxX6t) | [Music Source of Mr\. Trot3 Team Battle by Genre Best PART2](https://open.spotify.com/album/4ZglJuelhgO9sqoL2G87gN) | 3:08 | 2025-02-20 |  |
 | [Lady in Casbah](https://open.spotify.com/track/4ilcFfXmKVLnvqT9Afk45b) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:09 | 2022-04-07 | 2022-07-20 |
 | [Lady voyeur](https://open.spotify.com/track/44t1uGQgpGrprZzFCgVIs9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:20 | 2022-04-07 | 2022-04-21 |
 | [Lalala](https://open.spotify.com/track/4cQwFAPCTfANutB5cweoi5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Jeong Myeong Kyu](https://open.spotify.com/artist/4MT304jerDdVCtOutaqajA) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 4:33 | 2022-04-07 | 2022-07-23 |
@@ -591,7 +592,7 @@
 | [Que sera sera](https://open.spotify.com/track/47wE9PmSFJroSjGkHbBOv3) | [우연이](https://open.spotify.com/artist/7HCDRFTIn7vzVqcYR7nA4w) | [Que sera sera](https://open.spotify.com/album/3DqawFPgHWenPyrS2qb7uM) | 3:38 | 2022-05-03 | 2022-07-26 |
 | [Rain and you](https://open.spotify.com/track/1yBWusGuoFqwZkBLrDEOtM) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:40 | 2022-04-22 | 2022-07-27 |
 | [Rain of Tears](https://open.spotify.com/track/0pAYKhRUnmQvW2K54QDtc8) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 3:49 | 2022-04-22 | 2022-06-18 |
-| [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 | 2022-04-22 |  |
+| [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 | 2022-04-22 | 2025-03-01 |
 | [Read and Ignored \(Prod\. Young Tak\)](https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Read and Ignored](https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp) | 2:48 | 2022-04-21 | 2024-11-01 |
 | [Ready Q](https://open.spotify.com/track/0Xa8go7scwXDZSvh2hzYZh) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Drama](https://open.spotify.com/album/1BWohAbbI9PTNQxpF7D1m9) | 3:19 | 2022-05-03 | 2022-07-13 |
 | [Real dandy](https://open.spotify.com/track/6vxDBzXSRekbK48PanHyF7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 3:35 | 2022-04-22 | 2022-07-04 |

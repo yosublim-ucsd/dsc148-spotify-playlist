@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Luvcat \ud83c\udf51",
-  "num_followers": 29667,
+  "num_followers": 29670,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 160114,
       "name": "friends",
       "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "crush (tom verlaine)",
-        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 182498,
-      "name": "crush (tom verlaine)",
-      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5S7ckddyRxZPKcFwOMlKLS"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 243660,
       "name": "Boys",
       "url": "https://open.spotify.com/track/7CWA14UlnWudaqC3KxX8WU"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "crush (tom verlaine)",
+        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "crush (tom verlaine)",
+      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -571,38 +571,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "June Baby",
-        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "June Baby",
-      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "pretty world",
-        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 221470,
-      "name": "pretty world",
-      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Romanticism",
         "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "June Baby",
+        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "June Baby",
+      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 184216,
       "name": "Feral",
       "url": "https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "pretty world",
+        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 221470,
+      "name": "pretty world",
+      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Don't Miss It.",
-        "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
-      },
-      "artists": [
-        {
-          "name": "milk.",
-          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
-        }
-      ],
-      "duration_ms": 190272,
-      "name": "Don't Miss It.",
-      "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "everything about her",
         "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 171033,
       "name": "everything about her",
       "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Don't Miss It.",
+        "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
+      },
+      "artists": [
+        {
+          "name": "milk.",
+          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+        }
+      ],
+      "duration_ms": 190272,
+      "name": "Don't Miss It.",
+      "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "you say that i'm crazy",
-        "url": "https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "you say that i'm crazy",
-      "url": "https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 209543,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "you say that i'm crazy",
+        "url": "https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "you say that i'm crazy",
+      "url": "https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "If I Was Abducted By Aliens",
-        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
-      },
-      "artists": [
-        {
-          "name": "Dirty Nice",
-          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "If I Was Abducted By Aliens",
-      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+      },
+      "artists": [
+        {
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "She Likes a Boy",
-        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Hardcore Workout Queen",
         "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 221967,
       "name": "So Dope",
       "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Hotel Bar",
-        "url": "https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx"
+        "name": "Stay For Good",
+        "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
       },
       "artists": [
         {
-          "name": "Delights",
-          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
+          "name": "Siobh\u00e1n Winifred",
+          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Hotel Bar",
-      "url": "https://open.spotify.com/track/0iypvl1PX8N6xMq3KoUVuf"
+      "duration_ms": 205442,
+      "name": "Stay For Good",
+      "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Stay For Good",
-        "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
+        "name": "Hotel Bar",
+        "url": "https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx"
       },
       "artists": [
         {
-          "name": "Siobh\u00e1n Winifred",
-          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+          "name": "Delights",
+          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
         }
       ],
-      "duration_ms": 205442,
-      "name": "Stay For Good",
-      "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
+      "duration_ms": 179080,
+      "name": "Hotel Bar",
+      "url": "https://open.spotify.com/track/0iypvl1PX8N6xMq3KoUVuf"
     },
     {
       "added_at": "2025-02-14 01:16:57",

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Tiffy Vera. Artwork by Rewina Beshue.",
-  "num_followers": 193238,
+  "num_followers": 193290,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z791gwAAAABFe9Gkjt2qVneJmWDz5S5B",
+  "snapshot_id": "Z8G4UAAAAAAgpiUcsCWz0zvH3HPLaZH0",
   "tracks": [
     {
       "added_at": "2025-02-19 18:46:11",
@@ -77,6 +77,42 @@
       "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
     },
     {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "duration_ms": 213569,
+      "name": "Dark Waters",
+      "url": "https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4JgzgZy7gXScx6hdm34zsL"
+      },
+      "artists": [
+        {
+          "name": "AIKON",
+          "url": "https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        }
+      ],
+      "duration_ms": 347541,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/2ed7sJQBrVhxtQmA0RJTgw"
+    },
+    {
       "added_at": "2025-01-21 20:16:13",
       "album": {
         "name": "Where Have You Been",
@@ -107,6 +143,22 @@
       "duration_ms": 192876,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/65rib6eB7RZpaMhv1T0oaw"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/5xv8wuO5iQ1HmIcJSKsjGH"
+      },
+      "artists": [
+        {
+          "name": "Ruthlss",
+          "url": "https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
     },
     {
       "added_at": "2025-02-19 18:46:11",
@@ -159,6 +211,22 @@
       "duration_ms": 196421,
       "name": "Pesad\u00e3o",
       "url": "https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/2A1uUPlvOfvQ2yEHqVHdSk"
+      },
+      "artists": [
+        {
+          "name": "92 Civic",
+          "url": "https://open.spotify.com/artist/6o1J1hwQlWYEaSQY7ATKUr"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/5PwVTdbqThNEkJQqhsKb47"
     },
     {
       "added_at": "2025-02-26 20:11:47",
@@ -247,6 +315,22 @@
       "duration_ms": 209523,
       "name": "Flex My Ice",
       "url": "https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Don't leave me",
+        "url": "https://open.spotify.com/album/5LdHmVFSBOS1z22VYN5xQU"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Don't leave me",
+      "url": "https://open.spotify.com/track/42mEqBpbEMRHhaZfK9SNDF"
     },
     {
       "added_at": "2025-02-19 18:46:11",
@@ -365,6 +449,22 @@
       "url": "https://open.spotify.com/track/1RCvppFOQsZbFd1yP7Vtxw"
     },
     {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Area Code",
+        "url": "https://open.spotify.com/album/7hGqVXkVdPWw3F3UUxqkm0"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "duration_ms": 183241,
+      "name": "Area Code",
+      "url": "https://open.spotify.com/track/3FamxINd3vQwACUgdf9fDh"
+    },
+    {
       "added_at": "2025-02-19 18:46:11",
       "album": {
         "name": "Magic Button",
@@ -415,6 +515,22 @@
       "duration_ms": 149920,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/2WsHUKU3LyKvCPW1le2gZm"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/7LHDihoKUnYjNz2ekeGCNb"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Night Flow",
+      "url": "https://open.spotify.com/track/0eWl2ceaBL0G5xTxU1Qjai"
     },
     {
       "added_at": "2025-02-19 18:46:11",
@@ -655,6 +771,22 @@
       "duration_ms": 254409,
       "name": "Like This",
       "url": "https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV"
+    },
+    {
+      "added_at": "2025-02-28 13:21:20",
+      "album": {
+        "name": "Feel The Sun",
+        "url": "https://open.spotify.com/album/4VVRqGpOv6oAzbJQja0QII"
+      },
+      "artists": [
+        {
+          "name": "Julia Linkogel",
+          "url": "https://open.spotify.com/artist/38rI1IBVAY3puy9ld9rhVC"
+        }
+      ],
+      "duration_ms": 375272,
+      "name": "Feel The Sun",
+      "url": "https://open.spotify.com/track/1i98a00HqOjQGJ3FyF0pJg"
     },
     {
       "added_at": "2025-02-12 19:20:57",
@@ -1473,22 +1605,6 @@
       "url": "https://open.spotify.com/track/3uQtNuFkvqWVf9WZqnLRlt"
     },
     {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Back 2 Me",
-        "url": "https://open.spotify.com/album/4QqArgktPDxSrbvB8Th3x3"
-      },
-      "artists": [
-        {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Back 2 Me",
-      "url": "https://open.spotify.com/track/0a4LK4MxVUF3zFMu9Bj3SZ"
-    },
-    {
       "added_at": "2025-01-15 05:00:03",
       "album": {
         "name": "MELBOURNE'S DEAD!!",
@@ -1519,26 +1635,6 @@
       "duration_ms": 212516,
       "name": "BDSM (BLISS, DREAMS, SOUL, MEMORIES)",
       "url": "https://open.spotify.com/track/4rcmIIdM55mOPvJ43VMuWV"
-    },
-    {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0ImZZPtmPlCcka1v9e9dFv"
-      },
-      "artists": [
-        {
-          "name": "Eyezic",
-          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
-        },
-        {
-          "name": "Low Mileage",
-          "url": "https://open.spotify.com/artist/0dLhJRQpTrk32TbujPeN8u"
-        }
-      ],
-      "duration_ms": 134160,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -1575,22 +1671,6 @@
     {
       "added_at": "2025-01-17 05:00:52",
       "album": {
-        "name": "Ululations",
-        "url": "https://open.spotify.com/album/3vPQPu9YcWJq758g339rQq"
-      },
-      "artists": [
-        {
-          "name": "Junior Simba",
-          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
-        }
-      ],
-      "duration_ms": 187543,
-      "name": "Ululations",
-      "url": "https://open.spotify.com/track/2odXp60K1fqdveno4qMHx0"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
         "name": "Shadow Wurk",
         "url": "https://open.spotify.com/album/1d9lIIpYOVP9mukCMYlriF"
       },
@@ -1623,90 +1703,6 @@
       "duration_ms": 171576,
       "name": "Give U (All The Love)",
       "url": "https://open.spotify.com/track/10g3i4raFjBaSGTqhqvuoz"
-    },
-    {
-      "added_at": "2025-01-22 17:33:58",
-      "album": {
-        "name": "Glowing",
-        "url": "https://open.spotify.com/album/2Ie3t8vj0ZodExyK3RXJUC"
-      },
-      "artists": [
-        {
-          "name": "BRIGSY",
-          "url": "https://open.spotify.com/artist/0GPTDWah2ZOX9DRpMXsav6"
-        },
-        {
-          "name": "Tiana Hudson",
-          "url": "https://open.spotify.com/artist/4F6iutq3YYCLCg5gQxT7vd"
-        }
-      ],
-      "duration_ms": 188514,
-      "name": "Glowing",
-      "url": "https://open.spotify.com/track/6HzCwrDbYd0OLblHrgPfT6"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "U Give Me",
-        "url": "https://open.spotify.com/album/1ocJ3y5Wf6hD3ln00pKnBr"
-      },
-      "artists": [
-        {
-          "name": "92 Civic",
-          "url": "https://open.spotify.com/artist/6o1J1hwQlWYEaSQY7ATKUr"
-        }
-      ],
-      "duration_ms": 168340,
-      "name": "U Give Me",
-      "url": "https://open.spotify.com/track/5A8ErbnWcEA3vzaWBy8k0A"
-    },
-    {
-      "added_at": "2025-02-14 05:00:40",
-      "album": {
-        "name": "how2feel",
-        "url": "https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc"
-      },
-      "artists": [
-        {
-          "name": "how2fly",
-          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
-        }
-      ],
-      "duration_ms": 172394,
-      "name": "how2feel",
-      "url": "https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "FIVE : THIRTY",
-        "url": "https://open.spotify.com/album/73ojFmOSNbGQRJALCYoRLd"
-      },
-      "artists": [
-        {
-          "name": "THE MASKING TAPES",
-          "url": "https://open.spotify.com/artist/518Sg0LsDEGZg9pSN4CS1z"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "FIVE : THIRTY",
-      "url": "https://open.spotify.com/track/2xaukHDrqvp2pkKArhGCJF"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/3ZW9k2oZC55TiwpPCHJNGf"
-      },
-      "artists": [
-        {
-          "name": "HUMAN404",
-          "url": "https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883"
-        }
-      ],
-      "duration_ms": 198410,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/408hDUjqOKI0YCvnZJ6k4p"
     },
     {
       "added_at": "2025-01-15 05:00:03",

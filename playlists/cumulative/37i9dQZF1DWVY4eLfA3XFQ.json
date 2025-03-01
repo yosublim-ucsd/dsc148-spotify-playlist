@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Airwolf Paradise \ud83d\udd2b 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Mau P \ud83d\udc8a 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
@@ -5638,7 +5638,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162684,
       "name": "Can't Stop (feat. GINA VOCA)",
       "url": "https://open.spotify.com/track/5MiKJCGJL2gaMR4AaVG9YT"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 246343,
       "name": "Coins",
       "url": "https://open.spotify.com/track/3WcWmhHyMM04VYU6o8xKle"
@@ -8600,7 +8600,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 196652,
       "name": "Disco Tetris - Riordan Remix",
       "url": "https://open.spotify.com/track/0aWhTCjzK2gqXQNPODbmPi"
@@ -12746,7 +12746,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 165942,
       "name": "Freak - GREG (BR) Remix",
       "url": "https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo"
@@ -14684,7 +14684,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160000,
       "name": "H.O.U.S.E.",
       "url": "https://open.spotify.com/track/5SbB70CvX0V8TrACuUbMsz"
@@ -15298,7 +15298,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 180923,
       "name": "High",
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
@@ -20022,7 +20022,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 146250,
       "name": "LET'S GO - HILLS Remix",
       "url": "https://open.spotify.com/track/3LI3bvwQwIaGzoIErvFLax"
@@ -20070,7 +20070,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
@@ -26425,6 +26425,28 @@
     },
     {
       "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "P!NK",
+      "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
+    },
+    {
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -29112,7 +29134,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193171,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY"
@@ -29544,7 +29566,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 198426,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3jRF15pliXwl1WN7GaEuRC"
@@ -31182,7 +31204,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178153,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5Oyb5GjMDGGiU4mZP8QCen"
@@ -33244,7 +33266,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 173280,
       "name": "Steel Drum",
       "url": "https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK"
@@ -33922,7 +33944,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137343,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0"
@@ -35681,6 +35703,24 @@
     },
     {
       "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "album": {
         "name": "The Life",
         "url": "https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk"
       },
@@ -36698,7 +36738,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 202380,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
@@ -39880,7 +39920,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 155076,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"

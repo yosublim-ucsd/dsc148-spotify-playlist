@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,818 likes - 265 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,017 likes - 265 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 264 | [Slow Dance](https://open.spotify.com/track/55khu0OQgoX1E0aVsrYQMU) | [Spade Brooks](https://open.spotify.com/artist/2GCSNNNTph8mnMlU40Q9ne) | [Night Shift](https://open.spotify.com/album/49uzwqjrLr6gS8KrNiBM4Y) | 1:44 |
 | 265 | [Popsicle](https://open.spotify.com/track/3YkTd9wRFuVLBn2yWm9jDm) | [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Popsicle](https://open.spotify.com/album/3megiTdeoMiHET8bxY2g5A) | 2:02 |
 
-Snapshot ID: `Z5PEpwAAAAC7VrB5lYi13koP223sulhp`
+Snapshot ID: `Z5PEpwAAAAAeTUmDdfajOm8ltiUj93/b`

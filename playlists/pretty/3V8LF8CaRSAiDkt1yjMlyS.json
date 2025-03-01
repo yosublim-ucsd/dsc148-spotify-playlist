@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 41370,
+  "num_followers": 41446,
   "original_name": "When depression hits hard",
   "owner": {
     "name": "ada",
     "url": "https://open.spotify.com/user/adadoro"
   },
-  "snapshot_id": "AAAA+raqWIFeXbBu73koUXxHYOKTtfz8",
+  "snapshot_id": "AAAA/YgJLSVC9Zfx5nUkCGZkvBo/sAYF",
   "tracks": [
     {
       "added_at": "2023-01-13 09:23:19",
@@ -1003,6 +1003,22 @@
       "duration_ms": 167906,
       "name": "Lonely Day",
       "url": "https://open.spotify.com/track/4xBHZ2Mr0gCdFYXrPZuYXO"
+    },
+    {
+      "added_at": "2025-03-01 00:38:53",
+      "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/2ao2jycwcYnca4WFalD2N9"
+      },
+      "artists": [
+        {
+          "name": "Menout",
+          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
+        }
+      ],
+      "duration_ms": 179759,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/304rzAZLd1kifiANwSGvs3"
     },
     {
       "added_at": "2023-05-09 21:07:02",

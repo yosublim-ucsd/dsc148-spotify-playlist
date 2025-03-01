@@ -316,7 +316,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 275200,
-      "name": "As I Walked Out (Arr. for String Quartet by the Danish String Quartet)",
+      "name": "As I Walked Out (Arr. Danish String Quartet)",
       "url": "https://open.spotify.com/track/1FrRCwzFOly8bzEbKsDSik"
     },
     {
@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Good Luck Babe (Arr. Piano)",
+        "url": "https://open.spotify.com/album/02y320oVpRUt9WzIccRA8e"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173994,
+      "name": "Good Luck Babe (Arr. Piano)",
+      "url": "https://open.spotify.com/track/0Fk0a4DUU2XWR5elOv6FV3"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2024",
         "url": "https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk"
       },
@@ -2993,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Numb (Piano & Strings Version)",
+        "url": "https://open.spotify.com/album/1zQis5knuuZfrRRJWUXzx3"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Numb - Piano & Strings Version",
+      "url": "https://open.spotify.com/track/4GVKZ4MY8a0JMhnJjf58fZ"
+    },
+    {
+      "album": {
         "name": "Numb (Piano Version)",
         "url": "https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT"
       },
@@ -3102,6 +3138,24 @@
       "duration_ms": 259250,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
+    },
+    {
+      "album": {
+        "name": "Perfect (Piano Version)",
+        "url": "https://open.spotify.com/album/2mAzDkToDZeWfAyxs7vWES"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218816,
+      "name": "Perfect - Piano Version",
+      "url": "https://open.spotify.com/track/3e1ZTC3nop5f0khsAzEPnv"
     },
     {
       "album": {

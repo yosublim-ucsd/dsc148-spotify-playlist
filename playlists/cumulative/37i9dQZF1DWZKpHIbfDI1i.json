@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alfredo Olivas en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Danna y Santa Fe Klan en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
+    {
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212418,
+      "name": "\"Vivo\"",
+      "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
+    },
     {
       "album": {
         "name": "Las Mujeres Ya No Lloran",
@@ -78,6 +96,32 @@
       "duration_ms": 195633,
       "name": "120",
       "url": "https://open.spotify.com/track/4HPitra6miZtf6CigyeUjI"
+    },
+    {
+      "album": {
+        "name": "1PERREO",
+        "url": "https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv"
+      },
+      "artists": [
+        {
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "1PERREO",
+      "url": "https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K"
     },
     {
       "album": {
@@ -4432,6 +4476,28 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/2xBN6xw2H3qpQher92vNKu"
+      },
+      "artists": [
+        {
+          "name": "Milkman",
+          "url": "https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140117,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/2JbFDUvqIzgcRfLXHS6mV2"
     },
     {
       "album": {
@@ -10557,6 +10623,28 @@
     },
     {
       "album": {
+        "name": "Hueles a Pecado",
+        "url": "https://open.spotify.com/album/3zgk6jvnX7KnIyRbMOvxEH"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Hueles a Pecado",
+      "url": "https://open.spotify.com/track/20lEGFuAh7xSZ5N9H5HCDY"
+    },
+    {
+      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/7CF6hkX3leaeUMnuG7bSQd"
       },
@@ -14690,7 +14778,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 192001,
       "name": "Miau (feat. Uzielito Mix)",
       "url": "https://open.spotify.com/track/0spIfr7PKo381CocT4XnYN"
@@ -14748,7 +14836,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160736,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
@@ -16894,7 +16982,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204631,
       "name": "Novio #2 (feat. Junior H)",
       "url": "https://open.spotify.com/track/5VbJcHkLvL9VnSgOYD5ppk"
@@ -19323,6 +19411,32 @@
     },
     {
       "album": {
+        "name": "P\u00e9gate Al Baile",
+        "url": "https://open.spotify.com/album/3FQszsxLM6Lw3VDWfYXI0a"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193917,
+      "name": "P\u00e9gate Al Baile",
+      "url": "https://open.spotify.com/track/3QUmcCemLrsOqYEYCbSBPp"
+    },
+    {
+      "album": {
         "name": "Que Digan Lo Que Digan",
         "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
       },
@@ -19882,7 +19996,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 179905,
       "name": "R.P.M.",
       "url": "https://open.spotify.com/track/6W0cpyqrmnYWK1KWwZZmbd"
@@ -22106,6 +22220,24 @@
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167955,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
     },
     {
       "album": {
@@ -24590,7 +24722,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178666,
       "name": "Ushua\u00efa",
       "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
@@ -25200,7 +25332,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 234947,
       "name": "XQTECE?",
       "url": "https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN"

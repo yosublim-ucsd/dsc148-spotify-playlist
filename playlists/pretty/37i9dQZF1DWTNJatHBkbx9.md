@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Darkua
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,165 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 17 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 |
 | 18 | [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 |
 | 19 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 |
-| 20 | [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:19 |
+| 20 | [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 |
 | 21 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 |
 | 22 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
 | 23 | [Blind Love Is Beautiful](https://open.spotify.com/track/0kWPgBlWEwEx8u7IAYQhMz) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [TONI PERREL](https://open.spotify.com/artist/0vrlukgRhvRzjm1rICY1zU) | [Blind Love Is Beautiful](https://open.spotify.com/album/4QlCPPiYhzYrTMrUMRpmzi) | 2:49 |

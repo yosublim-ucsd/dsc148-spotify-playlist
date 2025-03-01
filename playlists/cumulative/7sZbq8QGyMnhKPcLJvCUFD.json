@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/5xzXnoktqyaYyQklrt8hWx"
+      },
+      "artists": [
+        {
+          "name": "Badlokk",
+          "url": "https://open.spotify.com/artist/6rhZ1hW4USY5HGsfjLI922"
+        },
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351627,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/3TsuUbRhAyARSU3YFA5tiE"
+    },
+    {
+      "album": {
         "name": "Burned",
         "url": "https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz"
       },
@@ -11700,6 +11722,24 @@
       "duration_ms": 251379,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV"
+    },
+    {
+      "album": {
+        "name": "Stutterfly",
+        "url": "https://open.spotify.com/album/0FH0qU4BYEeL2VorGlJBJ6"
+      },
+      "artists": [
+        {
+          "name": "Spektrem",
+          "url": "https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253658,
+      "name": "Stutterfly",
+      "url": "https://open.spotify.com/track/1o0yHeedgdJc5gnFqja4di"
     },
     {
       "album": {

@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "cold weather",
+        "url": "https://open.spotify.com/album/61H8k9HpkA0WYHbJ4M6NRv"
+      },
+      "artists": [
+        {
+          "name": "inertia.",
+          "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
+        },
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "cold weather",
+      "url": "https://open.spotify.com/track/1S7EqdygajSoxDgufkgk9L"
+    },
+    {
+      "album": {
         "name": "fragments",
         "url": "https://open.spotify.com/album/5YWHvUnBJ4DYL0GhPvdTDD"
       },
@@ -710,6 +732,24 @@
       "duration_ms": 189829,
       "name": "Dark & blue",
       "url": "https://open.spotify.com/track/1ExCXsHQca6ZTrHDxLuYIL"
+    },
+    {
+      "album": {
+        "name": "deep forest",
+        "url": "https://open.spotify.com/album/2lWZuL1oXM9gfp4Mw0PQfH"
+      },
+      "artists": [
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131447,
+      "name": "deep forest",
+      "url": "https://open.spotify.com/track/5TRpcfSUxrqtKv2LNLQhrP"
     },
     {
       "album": {
@@ -880,7 +920,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145035,
       "name": "don't cry",
       "url": "https://open.spotify.com/track/390pDDdZhxnt4ND9t0th86"
@@ -1232,7 +1272,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125085,
       "name": "erased",
       "url": "https://open.spotify.com/track/6G9BrX4DAlIcVj61VSJgFS"
@@ -1294,7 +1334,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 134117,
       "name": "everything in memory will be erased",
       "url": "https://open.spotify.com/track/0xFyqmaHX6IEE8PZ40Q4Ms"
@@ -1766,7 +1806,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183664,
       "name": "green to blue",
       "url": "https://open.spotify.com/track/0dklsYpLfomHpNcKNCZOSP"
@@ -2230,6 +2270,32 @@
       "duration_ms": 189490,
       "name": "last frost",
       "url": "https://open.spotify.com/track/59EPkdAps7DberOyksoTFy"
+    },
+    {
+      "album": {
+        "name": "lead me back",
+        "url": "https://open.spotify.com/album/0Z60QB6dSX1KLyYpkbpUbv"
+      },
+      "artists": [
+        {
+          "name": "chylies",
+          "url": "https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj"
+        },
+        {
+          "name": "Is\u00f8lately",
+          "url": "https://open.spotify.com/artist/0BW0fv4MWdXL3dpgh4f0X0"
+        },
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164774,
+      "name": "lead me back",
+      "url": "https://open.spotify.com/track/7iTmYN97QT3v7oSsWKpCbw"
     },
     {
       "album": {
@@ -3086,7 +3152,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 100869,
       "name": "peaceful silence",
       "url": "https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq"
@@ -3166,6 +3232,24 @@
       "duration_ms": 126000,
       "name": "recalling memories that never existed",
       "url": "https://open.spotify.com/track/4Hc2TTFkRGXqZjBXKh4QL7"
+    },
+    {
+      "album": {
+        "name": "Recover",
+        "url": "https://open.spotify.com/album/3v0kiW3uEpH8RWegumOcMH"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Recover",
+      "url": "https://open.spotify.com/track/5F1XYXWwDEJ5qRNACpuof1"
     },
     {
       "album": {
@@ -4366,6 +4450,28 @@
       "duration_ms": 199384,
       "name": "whispa - slowed",
       "url": "https://open.spotify.com/track/1IzDFO9iFkTtiL4wN6B03R"
+    },
+    {
+      "album": {
+        "name": "winter apathy",
+        "url": "https://open.spotify.com/album/5aprqn4ma9ZlK2BpUrAc9v"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85970,
+      "name": "winter apathy",
+      "url": "https://open.spotify.com/track/21l3UY40uSJcFPTkwDxuhM"
     },
     {
       "album": {

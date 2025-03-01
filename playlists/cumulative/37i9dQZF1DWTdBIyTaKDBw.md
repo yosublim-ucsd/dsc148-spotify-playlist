@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-331 songs - 18 hr 41 min
+332 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 | 2022-05-03 | 2024-07-03 |
 | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/track/2QvAqO6f2sbjGnLaAdlaNI) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/album/6roGryreinaVwywhgupU4w) | 4:31 | 2022-05-03 | 2022-07-05 |
 | [A villain is born](https://open.spotify.com/track/342FlGcgU1lx4T9KqnzprJ) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Gaijin III Rise of Jiro](https://open.spotify.com/album/68W1fqGzQdkUU0uqkQ1ehR) | 2:58 | 2024-07-02 |  |
+| [Affection](https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/52qF0r4f9WihHYUDcINmmC) | 1:57 | 2024-07-02 |  |
 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 | 2022-07-22 | 2024-06-22 |
 | [After The Rain 비가 그치고 나면](https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [After The Rain 비가 그치고 나면](https://open.spotify.com/album/3KcaS52WFgBYfGenr0eAZ2) | 4:14 | 2022-05-03 | 2022-07-29 |
 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 | 2024-07-02 |  |
@@ -301,7 +302,7 @@
 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 | 2022-05-03 | 2024-07-03 |
 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 | 2022-05-03 | 2024-07-03 |
 | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK) | 3:14 | 2023-03-28 | 2024-07-03 |
-| [West Of Zhuhai](https://open.spotify.com/track/0EHnWVLwBy6d3ouhPHmwNa) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:20 | 2024-07-02 |  |
+| [West Of Zhuhai](https://open.spotify.com/track/0EHnWVLwBy6d3ouhPHmwNa) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:20 | 2024-07-02 | 2025-03-01 |
 | [When I see you](https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [When I see you](https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2) | 4:56 | 2023-01-10 | 2023-02-22 |
 | [When You Come To My Heart](https://open.spotify.com/track/11Qfz94iFMV0CJ8yapbYZN) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Vol.8\] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'](https://open.spotify.com/album/5l820EUqNJRBTvpsJlTp1n) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [Whispers of Eden](https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Mirage of the Mind](https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva) | 2:19 | 2024-07-02 |  |

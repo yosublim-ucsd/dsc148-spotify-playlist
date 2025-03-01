@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Area Code",
+        "url": "https://open.spotify.com/album/7hGqVXkVdPWw3F3UUxqkm0"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183241,
+      "name": "Area Code",
+      "url": "https://open.spotify.com/track/3FamxINd3vQwACUgdf9fDh"
+    },
+    {
+      "album": {
         "name": "Ares",
         "url": "https://open.spotify.com/album/3Mp1HPZU0VoS6V4PxKHFAy"
       },
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 238153,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/0a4LK4MxVUF3zFMu9Bj3SZ"
@@ -10467,6 +10485,24 @@
     },
     {
       "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Dark Waters",
+      "url": "https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT"
+    },
+    {
+      "album": {
         "name": "Ciao Gatto",
         "url": "https://open.spotify.com/album/2tOkItTdhKKJW0P2ZALOol"
       },
@@ -12224,6 +12260,24 @@
       "duration_ms": 196363,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
+    },
+    {
+      "album": {
+        "name": "Don't leave me",
+        "url": "https://open.spotify.com/album/5LdHmVFSBOS1z22VYN5xQU"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Don't leave me",
+      "url": "https://open.spotify.com/track/42mEqBpbEMRHhaZfK9SNDF"
     },
     {
       "album": {
@@ -15473,6 +15527,24 @@
     },
     {
       "album": {
+        "name": "Feel The Sun",
+        "url": "https://open.spotify.com/album/4VVRqGpOv6oAzbJQja0QII"
+      },
+      "artists": [
+        {
+          "name": "Julia Linkogel",
+          "url": "https://open.spotify.com/artist/38rI1IBVAY3puy9ld9rhVC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375272,
+      "name": "Feel The Sun",
+      "url": "https://open.spotify.com/track/1i98a00HqOjQGJ3FyF0pJg"
+    },
+    {
+      "album": {
         "name": "Feel This Way (Cup & String Remixes)",
         "url": "https://open.spotify.com/album/53UU0wIHWgoKUKsUbxwauW"
       },
@@ -15932,7 +16004,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 187200,
       "name": "FIVE : THIRTY",
       "url": "https://open.spotify.com/track/2xaukHDrqvp2pkKArhGCJF"
@@ -17152,7 +17224,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198410,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/408hDUjqOKI0YCvnZJ6k4p"
@@ -18480,7 +18552,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188514,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/6HzCwrDbYd0OLblHrgPfT6"
@@ -19724,7 +19796,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 134160,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
@@ -21220,7 +21292,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172394,
       "name": "how2feel",
       "url": "https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf"
@@ -25764,6 +25836,28 @@
     {
       "album": {
         "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4JgzgZy7gXScx6hdm34zsL"
+      },
+      "artists": [
+        {
+          "name": "AIKON",
+          "url": "https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347541,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/2ed7sJQBrVhxtQmA0RJTgw"
+    },
+    {
+      "album": {
+        "name": "Like Dat",
         "url": "https://open.spotify.com/album/0DTFWyYgGLNM898i3Sart3"
       },
       "artists": [
@@ -28707,6 +28801,24 @@
     },
     {
       "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/2A1uUPlvOfvQ2yEHqVHdSk"
+      },
+      "artists": [
+        {
+          "name": "92 Civic",
+          "url": "https://open.spotify.com/artist/6o1J1hwQlWYEaSQY7ATKUr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/5PwVTdbqThNEkJQqhsKb47"
+    },
+    {
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
       },
@@ -30909,6 +31021,24 @@
     },
     {
       "album": {
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/7LHDihoKUnYjNz2ekeGCNb"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Night Flow",
+      "url": "https://open.spotify.com/track/0eWl2ceaBL0G5xTxU1Qjai"
+    },
+    {
+      "album": {
         "name": "Night Leaving",
         "url": "https://open.spotify.com/album/6k2yChQPsKLqQnrbu7jsam"
       },
@@ -31328,6 +31458,24 @@
       "duration_ms": 292102,
       "name": "North East Abode",
       "url": "https://open.spotify.com/track/55MjPOd5XdbXt6z7Ra7Gcc"
+    },
+    {
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/5xv8wuO5iQ1HmIcJSKsjGH"
+      },
+      "artists": [
+        {
+          "name": "Ruthlss",
+          "url": "https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
     },
     {
       "album": {
@@ -46282,7 +46430,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168340,
       "name": "U Give Me",
       "url": "https://open.spotify.com/track/5A8ErbnWcEA3vzaWBy8k0A"
@@ -46550,7 +46698,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 187543,
       "name": "Ululations",
       "url": "https://open.spotify.com/track/2odXp60K1fqdveno4qMHx0"

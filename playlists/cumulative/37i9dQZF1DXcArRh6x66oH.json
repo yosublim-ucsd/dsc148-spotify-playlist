@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Highway One",
+        "url": "https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194775,
+      "name": "Highway One",
+      "url": "https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00"
       },
@@ -4632,6 +4650,24 @@
       "duration_ms": 191386,
       "name": "River Run",
       "url": "https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA"
+    },
+    {
+      "album": {
+        "name": "Songs From The Holler",
+        "url": "https://open.spotify.com/album/43uEBtVgq9LStAuhfme33c"
+      },
+      "artists": [
+        {
+          "name": "Colton Bowlin",
+          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205300,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/2STQ5fSQcIm3S2lBSYa0db"
     },
     {
       "album": {

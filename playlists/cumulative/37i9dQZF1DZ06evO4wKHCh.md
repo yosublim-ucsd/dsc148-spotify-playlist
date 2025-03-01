@@ -4,7 +4,7 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 9 min
+30 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 | 2024-09-22 |  |
 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2024-01-10 |  |
 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 | 2024-01-10 |  |
+| [Crazy Stupid Love](https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Crazy Stupid Love](https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY) | 2:36 | 2025-03-01 |  |
 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 | 2024-01-10 |  |
 | [Distracted](https://open.spotify.com/track/3cajPGP49WC0dxOsRmS1WY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Distracted](https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT) | 2:40 | 2024-12-11 |  |
 | [Distracted](https://open.spotify.com/track/5YOzLTrk5Xzmg4rhYTmWiq) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [LEXIM](https://open.spotify.com/artist/6d3Ln06qXCe5Mt85yEFxE6) | [Distracted](https://open.spotify.com/album/762HvFjPyK8ck5uJ79lHHq) | 2:40 | 2024-01-10 | 2024-12-10 |

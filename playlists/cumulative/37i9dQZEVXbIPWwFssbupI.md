@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,197 songs - 4 day 20 hr 15 min
+2,198 songs - 4 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1111,7 +1111,7 @@
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-28 | 2024-05-25 |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 | 2023-07-29 |
-| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 | 2025-02-13 |
+| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 |  |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-12 | 2024-09-04 |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-16 | 2024-11-29 |
@@ -1381,6 +1381,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-30 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
 | [Mony \(feat\. Michkavie\)](https://open.spotify.com/track/7n2iLVGvqGR0FLcfacwi2M) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Michkavie](https://open.spotify.com/artist/40ZNISM0oo8WY2LpFNNYUR) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:38 | 2024-11-16 | 2024-11-24 |
+| [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-02-28 |  |
 | [Mood](https://open.spotify.com/track/2KnZ3KmkarHJM6F1t6vdk2) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:53 | 2021-12-05 | 2022-01-07 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(feat\. iann dior\)](https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM) | 2:20 | 2021-03-27\* | 2021-03-27 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2021-03-29 | 2021-04-24 |
@@ -1544,7 +1545,7 @@
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Parasite](https://open.spotify.com/track/7DZZrxgHYPT0HsyiyEhTM7) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:44 | 2021-11-14 | 2021-11-19 |
 | [Paris](https://open.spotify.com/track/0ApBt9e7LSkrHhJ2SZbHk2) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:16 | 2021-11-07 | 2021-11-14 |
-| [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-05-31 |  |
+| [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-05-31 | 2025-03-01 |
 | [Partenaire Particulier](https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd) | [Partenaire Particulier](https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe) | [Le son des années 80](https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol) | 4:06 | 2023-01-01 | 2024-01-04 |
 | [Parti de rien \(feat\. Tayc\)](https://open.spotify.com/track/2OLDHbZNyVjslwlx7afzJq) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 4:16 | 2023-02-11 | 2023-02-13 |
 | [Paré](https://open.spotify.com/track/4Lv2ux8hCX7Besyr7ieXIc) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:08 | 2021-03-27 | 2021-03-29 |
@@ -1800,7 +1801,7 @@
 | [Seven Nation Army](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Seven Nation Army](https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV) | 2:53 | 2021-06-18 | 2021-07-18 |
 | [SEVICE](https://open.spotify.com/track/7Drnn6MGX6CvXbw8iJyESM) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:29 | 2024-11-30 | 2024-12-02 |
 | [Sex \(Interlude\)](https://open.spotify.com/track/78XZ8m1aqtiFXyHTV4aRRb) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Voulez\-vous coucher avec moi](https://open.spotify.com/album/0U9XYTYWK68OPNuO9UJwjM) | 1:50 | 2022-03-01 | 2022-03-12 |
-| [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-08 |  |
+| [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-08 | 2025-03-01 |
 | [SEYA](https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn) | 3:08 | 2024-01-28 | 2024-02-18 |
 | [SEYA](https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3zIRFFMBelYsHN0ksstyWU) | 3:08 | 2023-11-03 | 2024-01-28 |
 | [Señorita](https://open.spotify.com/track/0pRLi4RAWK1ZglN3UmwvnU) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/3IIykrRD1Kqw521QJC0USe) | 3:23 | 2021-06-23 | 2021-06-26 |

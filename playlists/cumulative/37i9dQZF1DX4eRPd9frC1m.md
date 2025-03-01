@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-393 songs - 21 hr 23 min
+394 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Twin Fang](https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Twin Fang](https://open.spotify.com/album/7fJ6TIkikeYwJLmK7Acuqc) | 3:18 | 2024-07-12 | 2024-09-10 |
 | [Two Glocks](https://open.spotify.com/track/5mLIHqYIRgdcXxvFdjCH6q) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Two Glocks](https://open.spotify.com/album/5FB0h5ATYjvJ8idpSD1Lpb) | 2:48 | 2021-11-19 | 2022-01-08 |
 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 | 2021-11-19 | 2022-01-08 |
+| [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 | 2025-02-28 |  |
 | [Uncaged](https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [Uncaged](https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07) | 2:30 | 2024-08-16 |  |
 | [Underside](https://open.spotify.com/track/3uYVpgs8C0PFVV8DD4QCX6) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Hypogeal](https://open.spotify.com/album/7ze94wo3XfJSPTKDM5nchQ) | 2:09 | 2021-11-19 | 2022-01-08 |
 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 | 2021-11-19 | 2023-07-15 |
@@ -391,7 +392,7 @@
 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 |  |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-06-09 |  |
 | [Who Run Dis](https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Who Run Dis](https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q) | 3:40 | 2022-05-06 | 2022-07-24 |
-| [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 | 2025-01-31 |  |
+| [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 | 2025-01-31 | 2025-03-01 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-30 |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-11-19 | 2022-01-08 |
 | [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 | 2024-06-17 | 2024-08-30 |

@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 227931,
       "name": "Amor Inocente",
       "url": "https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV"
@@ -374,6 +374,32 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "album": {
+        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
+        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206107,
+      "name": "BAD BITCH - En Vivo - Buenos Aires",
+      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
     },
     {
       "album": {
@@ -540,7 +566,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 227822,
       "name": "Cari\u00f1oso Calificativo",
       "url": "https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU"
@@ -558,7 +584,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182937,
       "name": "Cenizas de Funk",
       "url": "https://open.spotify.com/track/3RxKMPtvN2STYXRENTOJw3"
@@ -2245,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Saber quien sos?",
+        "url": "https://open.spotify.com/album/5gBvaRp4Pk4pRUXWG6omo0"
+      },
+      "artists": [
+        {
+          "name": "LWLO",
+          "url": "https://open.spotify.com/artist/5NzzlW9prBfOWiP3lzC9yp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Saber quien sos?",
+      "url": "https://open.spotify.com/track/0TghwdMX95ZUeDDD5OgBHi"
+    },
+    {
+      "album": {
         "name": "San Francisco Nights",
         "url": "https://open.spotify.com/album/2woY6QuO4JtwfMmSs0mKPh"
       },
@@ -2462,6 +2506,24 @@
       "duration_ms": 213267,
       "name": "Sr. A",
       "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1Tx0nvD2lCBrjgWvBJ2IXB"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229113,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/6QRzoZsudSIAA0vwZSrqe7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Haftanın en iyi yeni çıkışları\. Kapak: Mavi Gri
 
-207 songs - 10 hr 16 min
+208 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [GÖRME BENİ](https://open.spotify.com/track/3qZSsr9bUeQjJo9ywtGyxw) | [Arda Dündar](https://open.spotify.com/artist/0UGjN1eEhgcLwVU3hCP97Y) | [GÖRME BENİ](https://open.spotify.com/album/6KSQO5V3jSamGMmm8bWJh6) | 2:26 | 2025-02-27 |  |
 | [GÖZLERİ](https://open.spotify.com/track/4Iy5bQ74QbsOJUffYBuI6L) | [ENES 61](https://open.spotify.com/artist/6FQDmXxmVt0XPePZGk2uPQ) | [GÖZLERİ](https://open.spotify.com/album/4sOPrt5OD5JeBH2LwVa8it) | 2:00 | 2025-02-27 |  |
 | [Güllere Sor Beni](https://open.spotify.com/track/3XydKHJFeM4cksSO8W5TLm) | [Dilan Çıtak](https://open.spotify.com/artist/5xRCXmsCeEaZlWpAd2I8IY) | [Güllere Sor Beni](https://open.spotify.com/album/2vxzjV4N65aMBHppPUQFOZ) | 2:33 | 2025-02-27 |  |
-| [Halumi](https://open.spotify.com/track/3OfJNXHFurLv6ooTfNV34E) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD), [Özgür](https://open.spotify.com/artist/1tGoHbmZRw0aY1DzkdYfBn) | [Halumi](https://open.spotify.com/album/1CrcVdpR9pEkq1kCgf0wGm) | 4:12 | 2025-02-27 |  |
+| [Halumi](https://open.spotify.com/track/3OfJNXHFurLv6ooTfNV34E) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD), [Özgür](https://open.spotify.com/artist/0Jcj2hmaTp6HPLgybYHeAA) | [Halumi](https://open.spotify.com/album/1CrcVdpR9pEkq1kCgf0wGm) | 4:12 | 2025-02-27 |  |
 | [Hane\-i Can](https://open.spotify.com/track/0YyvagfLIC98FFyGasvrYd) | [Grup Ses](https://open.spotify.com/artist/4nm6o6rwq2nFht5aXrxSoM), [Gökalp K](https://open.spotify.com/artist/64DP57x5JI2AixM98YYvy9), [Ethnique Punch](https://open.spotify.com/artist/4eSAzGCtD0jcxNuNK4OkDn) | [Grup Ses / Gökalp K](https://open.spotify.com/album/2WJruXbn4beUGTd8l83egP) | 2:15 | 2025-02-27 |  |
 | [Hastayım Sana](https://open.spotify.com/track/0g9g18QLyz89Gjz9evSh6B) | [ikikardesh](https://open.spotify.com/artist/59Rfk6ZH0SsZm7GrUc43N1), [Ravil](https://open.spotify.com/artist/7CSxpRPJFjtFCIhuiIWKDK) | [Hastayım Sana](https://open.spotify.com/album/5j0wwmH8tVq64IRp9fV16P) | 2:34 | 2025-02-27 |  |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-02-28 |
@@ -124,6 +124,7 @@
 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 | 2025-02-27 |  |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-27 |  |
 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 | 2025-02-20 | 2025-02-28 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-20 | 2025-02-28 |
 | [Mahalle](https://open.spotify.com/track/34uTXrSnzYXDWioByUuwEQ) | [Luca VI11](https://open.spotify.com/artist/6ZrYfZxDxOjjO9gSNfNMUb) | [Mahalle](https://open.spotify.com/album/0mqoVa7sl0H5btLy1wDN8S) | 2:14 | 2025-02-27 |  |
 | [Manifesto](https://open.spotify.com/track/2vfWhl5oPeAjMI5JESDNXE) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Manifesto](https://open.spotify.com/album/3zppMe7LDeYDf9wER7yiLz) | 2:57 | 2025-02-27 |  |

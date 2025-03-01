@@ -4135,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Etereo",
+        "url": "https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158755,
+      "name": "Etereo",
+      "url": "https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ"
+    },
+    {
+      "album": {
         "name": "Eternal Bloom",
         "url": "https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1"
       },

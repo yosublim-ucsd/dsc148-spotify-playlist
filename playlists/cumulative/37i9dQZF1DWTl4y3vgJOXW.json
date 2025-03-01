@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Luka Don\u010di\u0107 and Kyrie Irving",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Steph Curry",
   "name": "Locked In",
   "tracks": [
     {
@@ -1092,6 +1092,24 @@
       "duration_ms": 247693,
       "name": "Ante Up (feat. Busta Rhymes, Teflon & Remi Martin) - Remix",
       "url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc"
+    },
+    {
+      "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127308,
+      "name": "Apex",
+      "url": "https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh"
     },
     {
       "album": {
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183037,
       "name": "Monsters Inc. (feat. Future)",
       "url": "https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3"

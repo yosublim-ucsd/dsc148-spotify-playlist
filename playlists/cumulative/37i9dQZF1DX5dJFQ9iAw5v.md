@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-116 songs - 9 hr 55 min
+117 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,9 +109,10 @@
 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 | 2022-08-12 |  |
 | [Tatami](https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Matías Méndez](https://open.spotify.com/artist/4Z4xMf2xHuZ6iXpw6Wkhxg), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [El Sapo Argentino de Boca Ancha](https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX) | 6:59 | 2022-08-12 | 2024-04-19 |
 | [Terrestre](https://open.spotify.com/track/0kXyRmTQDrs2oK6uFFWagR) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [ESCALECTRIC](https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x) | 5:44 | 2023-12-08 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu), [Jan Smigmator](https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo) | [The Way You Look Tonight](https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4) | 3:07 | 2025-02-28 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 | 2022-08-12 |  |
 | [Tico Tico No Fubà](https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:49 | 2022-08-12 |  |
-| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 |  |
+| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 | 2025-03-01 |
 | [Todavía Quedan Cosas \- Remastered 2022](https://open.spotify.com/track/3QSEcqzwzoidLP7Q9600RC) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Rosario \(Remastered 2022\)](https://open.spotify.com/album/5CeWD0ca25q5bzcBfdp8D7) | 5:18 | 2022-08-12 |  |
 | [Tour de Force](https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:43 | 2023-12-08 |  |
 | [Trapos Colgantes](https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl) | [Lentes](https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy) | 9:04 | 2023-12-08 | 2024-11-20 |

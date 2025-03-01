@@ -929,6 +929,32 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3cIjSNMTG8gk1UzRCBXnNV"
+      },
+      "artists": [
+        {
+          "name": "Autone",
+          "url": "https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue"
+        },
+        {
+          "name": "James Alexandr",
+          "url": "https://open.spotify.com/artist/7dBNlsD2vMoHenuE5Wuguc"
+        },
+        {
+          "name": "PENELOPE",
+          "url": "https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0xwI8bk8UBQHh6QemR76kR"
+    },
+    {
+      "album": {
         "name": "Big Talk",
         "url": "https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp"
       },
@@ -2080,6 +2106,32 @@
       "duration_ms": 186240,
       "name": "Education",
       "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
+    },
+    {
+      "album": {
+        "name": "El Tikital (Day Mix)",
+        "url": "https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Morena",
+          "url": "https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM"
+        },
+        {
+          "name": "Jay Rah",
+          "url": "https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "El Tikital - Day Mix",
+      "url": "https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y"
     },
     {
       "album": {
@@ -7492,6 +7544,28 @@
       "duration_ms": 113493,
       "name": "Torture Me (feat. Skrillex)",
       "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
+    },
+    {
+      "album": {
+        "name": "Try Try Try (feat. Martay M'Kenzy)",
+        "url": "https://open.spotify.com/album/6qHoPyFEpxGY31QGj1kmHZ"
+      },
+      "artists": [
+        {
+          "name": "Freejak",
+          "url": "https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11"
+        },
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149574,
+      "name": "Try Try Try",
+      "url": "https://open.spotify.com/track/5UcXIF9BHOS8DP2mmFZ801"
     },
     {
       "album": {

@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232026,
       "name": "Cut Me Up Jenny",
       "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
@@ -1264,6 +1264,24 @@
       "duration_ms": 227506,
       "name": "What's It Feel Like To Be A Ghost?",
       "url": "https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Where My Mouth Is",
+      "url": "https://open.spotify.com/track/3ZHmXp5h6Ez92GT4ezaqeh"
     },
     {
       "album": {

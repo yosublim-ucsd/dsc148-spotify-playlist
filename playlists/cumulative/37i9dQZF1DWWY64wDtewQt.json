@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE FUNK",
+        "url": "https://open.spotify.com/album/3lBDDIwmkYQiPwbCdbokle"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81290,
+      "name": "BOUNCE FUNK",
+      "url": "https://open.spotify.com/track/0TimfLIiUYUoDg0pwkoAMS"
+    },
+    {
+      "album": {
         "name": "BRAINSHOT",
         "url": "https://open.spotify.com/album/2lL1KqNM1RvtLKdS6W3ieg"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 117637,
       "name": "DEMONS IN MY SOUL",
       "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
@@ -5612,6 +5630,28 @@
       "duration_ms": 114909,
       "name": "FULL SEND",
       "url": "https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA"
+    },
+    {
+      "album": {
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
       "album": {
@@ -8906,7 +8946,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 250860,
       "name": "MONTAGEM - MELODIA ENVOLVENTE 4",
       "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
@@ -9538,7 +9578,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 151632,
       "name": "Montagem Injuriosum Retines - Slowed",
       "url": "https://open.spotify.com/track/1T09ARjY1LkuSJVJTk100T"
@@ -9832,6 +9872,28 @@
       "duration_ms": 207692,
       "name": "MTG - REBOLA NO MEU C4RALHO",
       "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
+    },
+    {
+      "album": {
+        "name": "MTG - RITMO ZELDA",
+        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
+      },
+      "artists": [
+        {
+          "name": "JXM",
+          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107111,
+      "name": "MTG - RITMO ZELDA - Super Slowed",
+      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
       "album": {
@@ -10888,6 +10950,24 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "album": {
@@ -14707,6 +14787,28 @@
     },
     {
       "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+    },
+    {
+      "album": {
         "name": "TRANSPARENCY",
         "url": "https://open.spotify.com/album/7yFU4ETiB48jITB3gDxMRm"
       },
@@ -15528,7 +15630,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142940,
       "name": "WAKE UP!",
       "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"

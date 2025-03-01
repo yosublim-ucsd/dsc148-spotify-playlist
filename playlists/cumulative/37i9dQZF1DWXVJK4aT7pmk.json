@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 212720,
       "name": "Attach",
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 274570,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210681,
       "name": "Distance Love",
       "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
@@ -1085,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "THE REVOLUTION",
+        "url": "https://open.spotify.com/album/1QkGi708j70paXVgKdef65"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150913,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/1cj4y0FUFStkfdEUPyDxfx"
+    },
+    {
+      "album": {
         "name": "Chobar",
         "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
       },
@@ -1170,7 +1192,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -1367,6 +1389,28 @@
     },
     {
       "album": {
+        "name": "THE REVOLUTION",
+        "url": "https://open.spotify.com/album/1QkGi708j70paXVgKdef65"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Kde Kde",
+      "url": "https://open.spotify.com/track/3FLxVYoevmvNasUhcmGBlY"
+    },
+    {
+      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
       },
@@ -1422,7 +1466,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 226933,
       "name": "King Shit",
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
@@ -1444,7 +1488,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
@@ -1521,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Life for Hip-Hop",
+      "url": "https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ"
+    },
+    {
+      "album": {
         "name": "Lock",
         "url": "https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ"
       },
@@ -1540,6 +1606,24 @@
       "duration_ms": 175200,
       "name": "Lock",
       "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
+    },
+    {
+      "album": {
+        "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+        "url": "https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+      "url": "https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO"
     },
     {
       "album": {
@@ -1620,7 +1704,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199114,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF"
@@ -2070,6 +2154,54 @@
       "duration_ms": 189882,
       "name": "Peaches (feat. Anne-Marie)",
       "url": "https://open.spotify.com/track/6oEAcSY98NPIgD9UumQwIg"
+    },
+    {
+      "album": {
+        "name": "THE REVOLUTION",
+        "url": "https://open.spotify.com/album/1QkGi708j70paXVgKdef65"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119740,
+      "name": "Petrol",
+      "url": "https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0"
+    },
+    {
+      "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA"
     },
     {
       "album": {
@@ -2819,6 +2951,32 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
+    },
+    {
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
       },
@@ -2922,6 +3080,28 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225806,
+      "name": "Young G.O.A.T",
+      "url": "https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P"
     },
     {
       "album": {

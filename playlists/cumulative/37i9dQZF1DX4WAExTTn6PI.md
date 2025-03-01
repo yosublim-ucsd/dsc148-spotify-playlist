@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
+> Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-237 songs - 14 hr 30 min
+238 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Allison De Groot](https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY), [Tatiana Hargreaves](https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK) | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/album/5RQXF0BYzEgrxtXmbSuhP5) | 5:51 | 2024-09-06 |  |
 | [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 | 2024-03-09 |
 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 | 2022-01-28 | 2024-04-19 |
-| [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 |  |
+| [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 | 2025-03-01 |
 | [I C U](https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [I C U](https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW) | 3:39 | 2023-05-26 |  |
 | [I Remember Carolina](https://open.spotify.com/track/3NweAkFEsegJXcIR8AfZUN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/17z8sPbkBdJy9ih9spZNFT) | 4:54 | 2023-09-15 |  |
 | [I Remember Carolina](https://open.spotify.com/track/6MhVZANIUROF3ZiKYBh6eN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:54 | 2023-09-15 | 2024-04-19 |
@@ -157,7 +157,7 @@
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2022-01-28 |  |
 | [Old Kanawha](https://open.spotify.com/track/5AKOojMtH8VWV1hlAk3mg1) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Old Kanawha](https://open.spotify.com/album/2L6tOFIueh5O5VB0Vxbvh5) | 4:25 | 2023-06-02 |  |
 | [On My Way](https://open.spotify.com/track/066EK5seeF2Q2t7AGQbWy2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0VRthYeVxSlu8bbfpIbJVa) | 4:27 | 2023-04-07 | 2024-04-19 |
-| [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 | 2022-02-04 |  |
+| [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 | 2022-02-04 | 2025-03-01 |
 | [One Little Feeling](https://open.spotify.com/track/1ysYW8z0yPkhRlITrAHcsj) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [One Little Feeling](https://open.spotify.com/album/2Lrv7yl3r4gnVgEixUKv7n) | 3:33 | 2022-01-28 | 2023-07-01 |
 | [Outsider](https://open.spotify.com/track/4aHarT4TxQBK1nkP4xSCMe) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Outsider](https://open.spotify.com/album/4Qo4N56MAtVRkk2imTjrxX) | 2:58 | 2022-01-28 | 2022-07-29 |
 | [Outsider](https://open.spotify.com/track/6egThRcviPp9csxYAvGmYH) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Marsden & Richardson](https://open.spotify.com/album/3pouUib2dFAGk3pIiOYRbY) | 2:58 | 2022-01-28 | 2022-11-04 |
@@ -193,6 +193,7 @@
 | [Someday Song](https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Someday Song](https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl) | 3:16 | 2024-06-19 |  |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 | 2024-05-03 |
 | [Somewhere Between Texas and Tennessee](https://open.spotify.com/track/1eookKB7fhMF6bjqhUaJyz) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Somewhere Between Texas and Tennessee](https://open.spotify.com/album/21xANAhYWWHNn6hZdiivOB) | 3:33 | 2024-06-28 |  |
+| [Southside of Forever](https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [SKIN](https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO) | 3:34 | 2025-02-28 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-01 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 | 2024-03-02 |
@@ -217,7 +218,7 @@
 | [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 | 2023-04-09 |
 | [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 | 2022-10-14 | 2022-11-13 |
 | [This Far South](https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 3:15 | 2023-07-14 |  |
-| [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
+| [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 | 2025-03-01 |
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 | 2024-11-23 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |
 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 | 2023-06-10 |

@@ -1,13 +1,33 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180371,
+  "num_followers": 180367,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kOsAAAAAC197XH9/mJmdu20sCPSC/r",
+  "snapshot_id": "Z8FC8AAAAAA9vboE//PE9xgaSv0HkJlo",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:32",
+      "album": {
+        "name": "Jeet Hai Hamari (From \"What If...?: Season 3\")",
+        "url": "https://open.spotify.com/album/3j0exGo4lFFT53h9DDsigU"
+      },
+      "artists": [
+        {
+          "name": "GAAYATRI",
+          "url": "https://open.spotify.com/artist/3VaCKO3u7bekl0FhJBFE7E"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "duration_ms": 283023,
+      "name": "Jeet Hai Hamari - From \"What If...?: Season 3\"",
+      "url": "https://open.spotify.com/track/6SNNdNs5SGyFF2jX2Pr1Lc"
+    },
     {
       "added_at": "2025-02-21 23:39:28",
       "album": {

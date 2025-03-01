@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/2ao2jycwcYnca4WFalD2N9"
+      },
+      "artists": [
+        {
+          "name": "Menout",
+          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179759,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/304rzAZLd1kifiANwSGvs3"
+    },
+    {
+      "album": {
         "name": "Shade Of Red",
         "url": "https://open.spotify.com/album/0v99GEO9DmCfty9T6awIIb"
       },

@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171510,
       "name": "CHOOD",
       "url": "https://open.spotify.com/track/2dYay9hiO8ztwHESrx8l8z"
@@ -1648,6 +1648,24 @@
       "duration_ms": 238077,
       "name": "Jayiche Theeru",
       "url": "https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu"
+    },
+    {
+      "album": {
+        "name": "Jeevitham",
+        "url": "https://open.spotify.com/album/5T796IG6C8hMVKvI6nJ5Sh"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Bain",
+          "url": "https://open.spotify.com/artist/18Ou288FklrqqGeLyiXb17"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144571,
+      "name": "Jeevitham",
+      "url": "https://open.spotify.com/track/7MWnFDh0ILN4kLPIIzJpyB"
     },
     {
       "album": {
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 273230,
       "name": "Kotha Raja",
       "url": "https://open.spotify.com/track/10Ve2mQ4hTWtgqR6MbmJyf"

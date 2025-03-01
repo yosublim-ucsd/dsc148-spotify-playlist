@@ -4,7 +4,7 @@
 
 > Celebramos las voces extraordinarias del siglo XX, con Raphael en portada.
 
-115 songs - 6 hr 56 min
+116 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 | 2022-01-28 |  |
 | [Amor de Mis Amores](https://open.spotify.com/track/2An6Q2LgLVgHcuXPNSoqCs) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [El Clan del Bolero, Vol\. 13](https://open.spotify.com/album/1N50eRUmDmdrM617AXkTJv) | 3:04 | 2022-01-28 | 2022-11-13 |
 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 | 2022-01-28 |  |
+| [Amor para los Dos](https://open.spotify.com/track/7EhmjxBypxIKRAlR4EuJ9q) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor para los Dos](https://open.spotify.com/album/20wLVbLASTEbE0JB46jK1P) | 3:56 | 2025-02-28 |  |
 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/7340uVVBkBhEeecM1RJNqj) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 1:50 | 2022-01-28 |  |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2022-01-28 |  |
 | [Bésame Mucho](https://open.spotify.com/track/2neFW5nfgUrRxonX7oW8Fr) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Pedro Vargas En El Carnegie Hall](https://open.spotify.com/album/5jvBrYHrtUggTCPNMdtvnt) | 2:49 | 2022-01-28 |  |

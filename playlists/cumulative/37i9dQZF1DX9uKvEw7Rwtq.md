@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-150 songs - 12 hr 40 min
+152 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 | 2022-05-27 | 2024-04-19 |
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2022-03-25 |  |
 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 | 2022-03-25 |  |
-| [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 | 2022-03-18 |  |
+| [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 | 2022-03-18 | 2025-03-01 |
 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 | 2022-05-27 | 2024-04-19 |
 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 | 2022-03-18 |  |
 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 | 2022-03-18 |  |
@@ -80,6 +80,7 @@
 | [Leaking Light](https://open.spotify.com/track/3lrOAT65wFVEc0XApazcJq) | [Lachlan R\. Dale](https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9) | [Leaking Light](https://open.spotify.com/album/4cqfOx0iyHRYJiJR7hYt28) | 2:54 | 2022-03-18 | 2022-07-29 |
 | [Leaving Home](https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Leaving Home](https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB) | 5:32 | 2025-01-31 |  |
 | [Les Amourettes](https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Pearldiving](https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6) | 2:32 | 2022-03-18 |  |
+| [Lifelike](https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt), [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Lifelike](https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL) | 4:38 | 2025-02-28 |  |
 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 | 2022-03-18 |  |
 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 | 2022-03-18 |  |
 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM) | 4:42 | 2023-01-24 | 2024-04-19 |
@@ -98,7 +99,7 @@
 | [No Clearings, No Wide Open Fields](https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W) | [Floor Overhead](https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9) | [No Clearings, No Wide Open Fields](https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4) | 6:07 | 2022-03-18 |  |
 | [Nothing It Can](https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g) | 4:47 | 2023-01-24 | 2024-04-19 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2023-01-24 | 2023-03-03 |
-| [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 | 2022-04-01 |  |
+| [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 | 2022-04-01 | 2025-03-01 |
 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 | 2022-03-18 |  |
 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 | 2022-03-25 |  |
 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 | 2022-03-25 |  |
@@ -106,6 +107,7 @@
 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 | 2022-05-27 | 2024-04-19 |
 | [Out of It](https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 6:45 | 2022-03-18 |  |
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2022-03-25 |  |
+| [Path to Springs](https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Old Joy](https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1) | 1:41 | 2025-02-28 |  |
 | [Pavan II](https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe) | 8:01 | 2023-09-29 | 2024-04-19 |
 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 | 2022-03-18 | 2024-05-25 |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-25 |  |

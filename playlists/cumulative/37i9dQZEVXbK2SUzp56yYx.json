@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
+      "album": {
         "name": "A-What",
         "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
       },
@@ -2666,7 +2688,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 199166,
       "name": "Christ",
       "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
@@ -4896,7 +4918,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 107216,
       "name": "Funk Da Montanha - Super Slowed",
       "url": "https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2"
@@ -5770,6 +5792,24 @@
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz"
+    },
+    {
+      "album": {
+        "name": "Kunstprodukt",
+        "url": "https://open.spotify.com/album/603jWfAFPn4s2TDaeyAXL1"
+      },
+      "artists": [
+        {
+          "name": "Miss Construction",
+          "url": "https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311773,
+      "name": "Hass Und Liebe",
+      "url": "https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux"
     },
     {
       "album": {
@@ -10224,7 +10264,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 218508,
       "name": "Nothing Breaks Like a Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
@@ -10264,7 +10304,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
@@ -10404,7 +10444,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 90550,
       "name": "Ochame Kinou/Fukkireta (Jerk)",
       "url": "https://open.spotify.com/track/08K4pdYolqfPqMJ642pLjj"
@@ -14718,7 +14758,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 82000,
       "name": "Want To Love - Just Raw",
       "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO"
@@ -19754,7 +19794,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 293035,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
@@ -20062,7 +20102,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190000,
       "name": "\u041c\u043d\u0435 \u0441\u0442\u044b\u0434\u043d\u043e \u0436\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/1geEunKfdAxM9Y9UmDmQdu"
@@ -25058,7 +25098,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/3H9tgkoa0hqwUWVe4mbU12"
@@ -26036,7 +26076,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "\u0401\u041a",
       "url": "https://open.spotify.com/track/2x68wTxFO6ZURfIi3j8Exz"

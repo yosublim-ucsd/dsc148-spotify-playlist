@@ -9503,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "RPI\u00d1ATA",
+        "url": "https://open.spotify.com/album/2IHPnFXqGl8esdY2We9lM3"
+      },
+      "artists": [
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "RPI\u00d1ATA",
+      "url": "https://open.spotify.com/track/0rOK8UFEzSA7bd88Y7yYzS"
+    },
+    {
+      "album": {
         "name": "Ruleta",
         "url": "https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0"
       },

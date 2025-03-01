@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Winona Riders
+> rock alternativo argentino\. <br/>📷 ill quentin.
 
-244 songs - 13 hr 54 min
+245 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
 | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
+| [IDEAS MALAS +](https://open.spotify.com/track/6bpePYpOPcMLSrQwAMdXWq) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [IDEAS MALAS +](https://open.spotify.com/album/7A1BOdLD6yyGnaJCu3uaBM) | 3:45 | 2025-02-28 |  |
 | [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-21 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 |  |
 | [Imaginación](https://open.spotify.com/track/3VJSyskDmUm115nQaDhlHr) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 3:21 | 2024-09-27 |  |

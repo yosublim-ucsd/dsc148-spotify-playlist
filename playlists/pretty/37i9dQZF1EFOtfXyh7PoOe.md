@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826 likes - 134 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 827 likes - 134 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 117 | [18](https://open.spotify.com/track/4QZeKxBpLwZjqS0CYSShc6) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:20 |
 | 118 | [The Night](https://open.spotify.com/track/6QratohlB0DxrxJZqbCXm1) | [STRINGS](https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs) | [The Night](https://open.spotify.com/album/09Dh008JIjlMSaRJIHxMPB) | 2:41 |
 | 119 | [alone at the party](https://open.spotify.com/track/0YO7moiEboCUBDFf0hefSk) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:08 |
-| 120 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
-| 121 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 |
+| 120 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 |
+| 121 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
 | 122 | [Abis](https://open.spotify.com/track/1e5mY88sxeyor4BlNAmHaF) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [MAZZA MEZE](https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul) | 3:13 |
 | 123 | [Boring!](https://open.spotify.com/track/4gNq9nu09xtyJ0wzlBbbTN) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Boring!](https://open.spotify.com/album/3l08XOvlLr4osGTSXX8xeQ) | 2:38 |
 | 124 | [B Side](https://open.spotify.com/track/2XvH31W7YcpuucT8Whpysk) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [B Side](https://open.spotify.com/album/3CzHO9MqBDnDPBBBtUfdYE) | 3:06 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 133 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 | 134 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 
-Snapshot ID: `AbqvsgAAAABbf0dVT+OMYy23O/G0r/KT`
+Snapshot ID: `Abq1UgAAAADzsh/WcYzmnnFlcJkB6ru0`

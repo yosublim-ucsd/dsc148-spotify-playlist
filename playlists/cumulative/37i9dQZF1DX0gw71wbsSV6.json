@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "taro",
+        "url": "https://open.spotify.com/album/39Q2MonulMGW0v6JGIiM0C"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30ed",
+          "url": "https://open.spotify.com/artist/2GpcRTzYjIDHraZaTcFGgt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269357,
+      "name": "burn",
+      "url": "https://open.spotify.com/track/1Z54BGp8zlty1aWIRnaUKD"
+    },
+    {
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 216626,
       "name": "Byebye \u63b0\u63b0\u6b4c",
       "url": "https://open.spotify.com/track/6DRS16Q6LYDdxnkh90oaTI"
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 253000,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152915,
       "name": "Machibito",
       "url": "https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 167885,
       "name": "Moon Dance",
       "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
@@ -3345,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/04svSDPq1MAbgjHPzm09Hm"
+      },
+      "artists": [
+        {
+          "name": "Tamuraryo",
+          "url": "https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/1se24buU27xNkOp1WoUE5M"
+    },
+    {
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
@@ -4819,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
       },
@@ -4988,7 +5042,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
@@ -5202,6 +5256,28 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
+    },
+    {
+      "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
       "album": {
@@ -5621,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30b1\u30d9\u306aSONG",
+        "url": "https://open.spotify.com/album/5jxmHovs4u3HrFJMPvFrCF"
+      },
+      "artists": [
+        {
+          "name": "STRANGE REITARO",
+          "url": "https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "\u30b9\u30b1\u30d9\u306aSONG",
+      "url": "https://open.spotify.com/track/0ywToM99QFUyhk8sn5TpOg"
+    },
+    {
+      "album": {
         "name": "\u79d8\u5bc6",
         "url": "https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1"
       },
@@ -5776,7 +5870,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194591,
       "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
       "url": "https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT"

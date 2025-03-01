@@ -1175,6 +1175,32 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
+        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Dos Mlk",
+          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "Quarta de cinzas",
+      "url": "https://open.spotify.com/track/4tJklWo2MaSlxSQQlwX1Ec"
+    },
+    {
+      "album": {
         "name": "Quem que t\u00e1 vindo no porte?",
         "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
       },

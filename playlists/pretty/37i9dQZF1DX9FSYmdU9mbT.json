@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1384594,
+  "num_followers": 1384992,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 218266,
       "name": "Apenas Mais uma de Amor",
       "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Que Tal Um Samba? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 170448,
-      "name": "Samba do Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 213093,
       "name": "Entre a Serpente e a Estrela - Ao Vivo",
       "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "S\u00e1bado em Copacabana",
-        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "S\u00e1bado em Copacabana",
-      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "S\u00e1bado em Copacabana",
+        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "S\u00e1bado em Copacabana",
+      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
-        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 192062,
-      "name": "Paisagem da Janela - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Caravanas Ao Vivo",
         "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 184119,
       "name": "Sabi\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
+        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 192062,
+      "name": "Paisagem da Janela - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
-        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
+        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "Meus Caros Amigos",
+        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
+      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Em Casa Com os Gil",
         "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
@@ -1411,6 +1431,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "For\u00e7a Bruta (1970)",
+        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Oba, L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
       },
@@ -1427,22 +1463,6 @@
       "duration_ms": 229013,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
-        "name": "For\u00e7a Bruta (1970)",
-        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Oba, L\u00e1 Vem Ela",
-      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
-        "url": "https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        }
-      ],
-      "duration_ms": 205135,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Elis Regina Em Falso Brilhante",
         "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
       },
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Meus Caros Amigos",
-        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
         }
       ],
-      "duration_ms": 166573,
-      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
-      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+      "duration_ms": 205135,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf"
     },
     {
       "added_at": "2025-01-31 13:44:06",

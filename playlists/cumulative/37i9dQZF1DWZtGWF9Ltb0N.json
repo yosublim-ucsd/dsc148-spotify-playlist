@@ -5483,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/7p0slgVPavMXW7yfWG0skN"
+      },
+      "artists": [
+        {
+          "name": "d\u00eatre",
+          "url": "https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3XkWiyUluINElMbFLFrZDS"
+    },
+    {
+      "album": {
         "name": "Hellion",
         "url": "https://open.spotify.com/album/6Ussww5ilWhJPxgbGNMElb"
       },
@@ -7171,6 +7189,28 @@
     },
     {
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
+    },
+    {
+      "album": {
         "name": "Lightspeed (feat. d\u00eatre)",
         "url": "https://open.spotify.com/album/0IuffqK8EOxmYQfAlis7QF"
       },
@@ -7360,7 +7400,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213000,
       "name": "Locked In",
       "url": "https://open.spotify.com/track/2Sk9IWoxmGwvI6eeXEUCNz"
@@ -7664,7 +7704,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 164624,
       "name": "Man Like",
       "url": "https://open.spotify.com/track/6qcLuPPQTPWhuinRK2BPkA"
@@ -10986,10 +11026,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 276000,
       "name": "Shaolin",
       "url": "https://open.spotify.com/track/2lFtQc1PhJw5w8az7tvWA7"
+    },
+    {
+      "album": {
+        "name": "Shaolin (Remixes)",
+        "url": "https://open.spotify.com/album/7eDNR8heCN9CukJY7AtrgY"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Shaolin - VIP",
+      "url": "https://open.spotify.com/track/00U8YSKQB2kUbQ8UXRUj1E"
     },
     {
       "album": {

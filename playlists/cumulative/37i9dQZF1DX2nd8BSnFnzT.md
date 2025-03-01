@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-517 songs - 1 day 4 hr 51 min
+519 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-05-13 | 2023-01-28 |
 | [Antes do Café da Manhã](https://open.spotify.com/track/3GKIFtFwTy0HZZjRXyuzjT) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Antes do Café da Manhã](https://open.spotify.com/album/6PfgLe8cF6aNgMmvGubrqV) | 4:04 | 2023-02-24 | 2023-10-21 |
 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 | 2022-04-15 | 2022-08-06 |
+| [Antes do Sol Expandir](https://open.spotify.com/track/1blFj3NOSkDuo4fn5Q9biK) | [Velhos Aspargos](https://open.spotify.com/artist/7wvHpAB3jtKp1dvquafebq) | [Antes do Sol Expandir](https://open.spotify.com/album/0GzzwwjXtHyqhKa8uHZzuS) | 3:40 | 2025-02-28 |  |
 | [ANTICORPOS](https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [ANTICORPOS](https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M) | 2:33 | 2023-07-28 |  |
 | [Aos Poucos](https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Aos Poucos](https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI) | 3:37 | 2022-11-25 | 2023-04-09 |
 | [Apocalipse Só](https://open.spotify.com/track/3QLs0Z5L9aXhbXAXLn5RUB) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Olho Furta\-Cor](https://open.spotify.com/album/29dpVqKyiV7IHzaBdU2ZhK) | 3:31 | 2022-09-02 | 2022-09-24 |
@@ -116,7 +117,7 @@
 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 | 2022-10-28 | 2024-02-10 |
 | [Curandeiro](https://open.spotify.com/track/3VCx8gNuP1tG4G9UNBTD8w) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Dazaranha 30 Anos](https://open.spotify.com/album/7ooA9s3AbPyL2LhnqMBOaM) | 3:08 | 2022-09-30 | 2022-11-12 |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
-| [Da Vida](https://open.spotify.com/track/3QvFljDpGAm0dG8gWtEauH) | [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Da Vida](https://open.spotify.com/album/3jHUZgdp1fUyo5Jh0Mjdax) | 3:24 | 2025-02-14 |  |
+| [Da Vida](https://open.spotify.com/track/3QvFljDpGAm0dG8gWtEauH) | [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Da Vida](https://open.spotify.com/album/3jHUZgdp1fUyo5Jh0Mjdax) | 3:24 | 2025-02-14 | 2025-03-01 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
 | [De Volta Ao Novo \- Live in Rio](https://open.spotify.com/track/6yzDcTf1DnuevYmKksYTMe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- EP Versões & Remixes](https://open.spotify.com/album/4SFk6ZJ9AWPVv6inO5jOpu) | 3:26 | 2024-06-14 |  |
 | [Deixar Viver](https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK) | [Daniel Siebert](https://open.spotify.com/artist/1FXr5LmmIsKw0CvMP9OgR4), [Marilice Caldart](https://open.spotify.com/artist/1880UjmsktmnsggwPbpC4Y) | [Deixar Viver](https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO) | 4:22 | 2022-01-14 | 2022-12-17 |
@@ -237,6 +238,7 @@
 | [Linhas Tortas](https://open.spotify.com/track/1qjYklU5mEi4HEsTZ76hJ5) | [Rima Livre](https://open.spotify.com/artist/7n46rJt7U9xXm5bZ9siy6h), [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Linhas Tortas](https://open.spotify.com/album/19R6WFL5S185IDKDVFBBqh) | 3:03 | 2022-01-14 | 2022-09-24 |
 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 | 2022-06-10 | 2022-09-18 |
 | [Livre](https://open.spotify.com/track/2fKFoftNXdH6FWoYjEacx0) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Livre](https://open.spotify.com/album/0MtqyLCGMLmj5tNQaNniWo) | 3:08 | 2024-03-15 | 2024-05-11 |
+| [Livre \- Ao Vivo](https://open.spotify.com/track/572YfgMpcF2gIvMVswqZlB) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Livre \(Ao Vivo\)](https://open.spotify.com/album/6Gfl3q8I2HZcwn2fHFsRPC) | 3:12 | 2025-02-28 |  |
 | [Loko Loko](https://open.spotify.com/track/0RfgvHqnKmK24eGTc94pWy) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Loko Loko](https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY) | 2:55 | 2022-01-14 | 2023-01-28 |
 | [Lokomotiva](https://open.spotify.com/track/05DhuwsPHee1zlLGW503px) | [Guardiano](https://open.spotify.com/artist/6WSMjme2NEP1NtPiq1Vbrq) | [Lokomotiva](https://open.spotify.com/album/6HGbCFNeH3fcX7Vrse9vXG) | 3:27 | 2022-01-14 | 2022-09-24 |
 | [Longe Daqui](https://open.spotify.com/track/6ORUiT6jhNRVPH3jUCGZnL) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Longe Daqui](https://open.spotify.com/album/5tBucvS2pdQTKKGEQikSkK) | 2:30 | 2024-08-30 |  |
@@ -389,7 +391,7 @@
 | [PRECISO DELA](https://open.spotify.com/track/61xqF9J7cidCByb0Li6OZF) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [PRECISO DELA](https://open.spotify.com/album/51U8maeYa6UPqkoIievl5W) | 2:23 | 2024-05-10 |  |
 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 | 2022-09-23 | 2024-06-01 |
 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2eS2ehUejP0cvXId8hRPNN) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Barão 40 \(Sucessos\)](https://open.spotify.com/album/1hY5slKrrcJ3WsQ6IF3rCm) | 5:16 | 2022-09-09 | 2023-02-18 |
-| [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 |  |
+| [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 | 2025-03-01 |
 | [Prova](https://open.spotify.com/track/5VLsC6rl5IYGs0ZnEk1Cv8) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Prova](https://open.spotify.com/album/6RmjVpt4iAIBOh8apPlENU) | 2:32 | 2022-09-02 | 2022-10-29 |
 | [PROVÉRBIOS](https://open.spotify.com/track/3GngykYM9zXXxcGnRiPVMG) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PROVÉRBIOS](https://open.spotify.com/album/4saG213AiMINBA9x87HViB) | 3:45 | 2024-04-26 |  |
 | [PURGATÓRIO](https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:37 | 2023-11-17 | 2024-06-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 503482,
+  "num_followers": 503586,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAABxhukv7OJvNZ/i9JZphz74",
+  "snapshot_id": "Z7+rAAAAAADfNuVWA37trVKEyUFHGbzF",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+      "duration_ms": 251533,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Gunslinger",
-      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounding The Seventh Trumpet",
-        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Warmness On The Soul",
-      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 295213,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Warmness On The Soul",
+      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
     },
     {
       "added_at": null,

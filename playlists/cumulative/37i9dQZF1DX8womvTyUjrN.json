@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: GALE & ROBI",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Ivana",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1380,10 +1380,32 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184329,
       "name": "Aunque Duela",
       "url": "https://open.spotify.com/track/4Mbcv1tq6gHPrpwrDB0llX"
+    },
+    {
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177389,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
     },
     {
       "album": {
@@ -2164,6 +2186,24 @@
       "duration_ms": 196200,
       "name": "Brownie Sugar - Remix",
       "url": "https://open.spotify.com/track/6sMFbyS8GYEmFPs1INtHUV"
+    },
+    {
+      "album": {
+        "name": "BRUTAL",
+        "url": "https://open.spotify.com/album/5ezpjFttuIxLBWH0d96WDO"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "BRUTAL",
+      "url": "https://open.spotify.com/track/40XSX1H40ShPUTw0eCAznp"
     },
     {
       "album": {
@@ -3224,7 +3264,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147431,
       "name": "CONFI\u00c9SALO",
       "url": "https://open.spotify.com/track/0HVUYEYzU9pJ1ssuiBR5Dk"
@@ -3569,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244356,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
+    },
+    {
+      "album": {
         "name": "Cuadriculado",
         "url": "https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX"
       },
@@ -3602,6 +3660,24 @@
       "duration_ms": 181395,
       "name": "Cuando Sube el Sol",
       "url": "https://open.spotify.com/track/6kehs9Uc57B6w76X9fx5sN"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Dejan De Querer",
+        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
     },
     {
       "album": {
@@ -5521,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Estacionamiento",
+        "url": "https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235609,
+      "name": "Estacionamiento",
+      "url": "https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt"
+    },
+    {
+      "album": {
         "name": "Este Cuento",
         "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
       },
@@ -5622,7 +5716,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152870,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu"
@@ -8987,6 +9081,28 @@
     },
     {
       "album": {
+        "name": "Me Hubiese Gustado",
+        "url": "https://open.spotify.com/album/56NCtrU0zlBMi7tmMuGPoE"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Me Hubiese Gustado",
+      "url": "https://open.spotify.com/track/6peKOFOZ8OEbFSZyRZJu4e"
+    },
+    {
+      "album": {
         "name": "me late",
         "url": "https://open.spotify.com/album/6Bynn9N2B48mpY70TEV4lU"
       },
@@ -12298,7 +12414,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 185715,
       "name": "Primero De Enero",
       "url": "https://open.spotify.com/track/6BYqyN2XaVnghYqY5qwJcy"
@@ -12716,7 +12832,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 256323,
       "name": "QUIERO TODA MI VIDA DE VUELTA",
       "url": "https://open.spotify.com/track/4uTP7thtTSQrNotminsgu9"
@@ -16466,7 +16582,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182739,
       "name": "Yo Pienso Todo el Tiempo",
       "url": "https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq"

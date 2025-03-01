@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Ronia",
-  "num_followers": 217509,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Sabrina Sterling",
+  "num_followers": 217512,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYwAAAAChxdlXLyDiwOwFgsg+2OHf",
+  "snapshot_id": "Z8IWHwAAAAAdG5T7cCBTYro4F4P3J8A7",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "Lonely In Love",
+        "url": "https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Lonely In Love",
+      "url": "https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM"
+    },
+    {
+      "added_at": "2025-02-28 20:01:35",
+      "album": {
+        "name": "Before and After",
+        "url": "https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "Before and After",
+      "url": "https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC"
+    },
     {
       "added_at": "2025-02-21 05:00:19",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 229079,
       "name": "Silver Heart",
       "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
+    },
+    {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "I'm A TV",
+        "url": "https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS"
+      },
+      "artists": [
+        {
+          "name": "Mae Martin",
+          "url": "https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf"
     },
     {
       "added_at": "2025-02-21 05:00:19",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG"
     },
     {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "committed to a bit",
+        "url": "https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "joke's on me",
+      "url": "https://open.spotify.com/track/3NqWqrlLhDVUdy9andNGYM"
+    },
+    {
       "added_at": "2025-02-14 05:00:22",
       "album": {
         "name": "We Hug Now",
@@ -55,6 +119,22 @@
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "The Acoustic EP",
+        "url": "https://open.spotify.com/album/7tXg4oX8JAZOq4tpsIOMX1"
+      },
+      "artists": [
+        {
+          "name": "Bex",
+          "url": "https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl"
+        }
+      ],
+      "duration_ms": 126847,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7j75k3rTwwz9WG8OLybvhw"
     },
     {
       "added_at": "2025-02-21 05:00:19",
@@ -89,6 +169,22 @@
       "url": "https://open.spotify.com/track/2D8dZJ7dXFawWNUmnca8TO"
     },
     {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "if i'm honest for once",
+        "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "generations in the making",
+      "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+    },
+    {
       "added_at": "2025-02-07 05:00:28",
       "album": {
         "name": "Not Everything Ends",
@@ -103,6 +199,22 @@
       "duration_ms": 219000,
       "name": "Not Everything Ends",
       "url": "https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R"
+    },
+    {
+      "added_at": "2025-02-28 05:00:34",
+      "album": {
+        "name": "Average American Woman",
+        "url": "https://open.spotify.com/album/1zMZpg939xZFcaEqUjjtDP"
+      },
+      "artists": [
+        {
+          "name": "Lily Mae Harrington",
+          "url": "https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "AVERAGE AMERICAN WOMAN",
+      "url": "https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO"
     },
     {
       "added_at": "2025-02-17 21:29:51",
@@ -171,22 +283,6 @@
       "duration_ms": 197538,
       "name": "Always Hurts",
       "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5"
-      },
-      "artists": [
-        {
-          "name": "Bex",
-          "url": "https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -353,22 +449,6 @@
       "url": "https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G"
     },
     {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
-        "name": "You and your eyes",
-        "url": "https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 156942,
-      "name": "You and your eyes",
-      "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
-    },
-    {
       "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Running Wild",
@@ -383,22 +463,6 @@
       "duration_ms": 207546,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd"
-    },
-    {
-      "added_at": "2025-02-07 05:00:28",
-      "album": {
-        "name": "Killed For Sport",
-        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 254954,
-      "name": "Killed For Sport",
-      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
     },
     {
       "added_at": "2025-01-03 05:00:26",
@@ -549,22 +613,6 @@
       "url": "https://open.spotify.com/track/2YuymJLdWWcSTlfDhWEzca"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "to be held",
-        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 234742,
-      "name": "to be held",
-      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
-    },
-    {
       "added_at": "2024-11-26 05:43:20",
       "album": {
         "name": "every song is about you",
@@ -627,22 +675,6 @@
       "duration_ms": 176800,
       "name": "27",
       "url": "https://open.spotify.com/track/2l3OyTgyhnMcRkvYeMzqkf"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Different Planets",
-        "url": "https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 190123,
-      "name": "Different Planets",
-      "url": "https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -997,22 +1029,6 @@
       "url": "https://open.spotify.com/track/6joM1SZtTJjWFGw0iE9gvz"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2"
-      },
-      "artists": [
-        {
-          "name": "Jana Diab",
-          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
-        }
-      ],
-      "duration_ms": 125004,
-      "name": "Season One",
-      "url": "https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Shadows",
@@ -1027,22 +1043,6 @@
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Weeping Willow",
-        "url": "https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "We Were Girls",
-      "url": "https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx"
     },
     {
       "added_at": "2024-08-30 04:00:00",

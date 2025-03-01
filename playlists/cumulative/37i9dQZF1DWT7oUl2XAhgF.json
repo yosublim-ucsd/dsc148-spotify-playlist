@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Cruel, Cruel World",
+        "url": "https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154940,
+      "name": "Cruel, Cruel World",
+      "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
+    },
+    {
+      "album": {
         "name": "Cruisin' To The Parque",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
@@ -5170,7 +5188,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 207786,
       "name": "Mr. Weatherman",
       "url": "https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR"

@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 214120,
       "name": "Dile a Tu Amiga",
       "url": "https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "La Encontr\u00e9",
+        "url": "https://open.spotify.com/album/4fCRAPp6w5e8PwjkyMppTJ"
+      },
+      "artists": [
+        {
+          "name": "Vallejo Music",
+          "url": "https://open.spotify.com/artist/5UeVyAUyyC0ZFvN9cdzfnj"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "La Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6mIJuOxHpvciCIr6ISVkKO"
+    },
+    {
+      "album": {
         "name": "El Se\u00f1orazo (En Vivo)",
         "url": "https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2"
       },
@@ -2766,6 +2788,32 @@
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
+    },
+    {
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "album": {

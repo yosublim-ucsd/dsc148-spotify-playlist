@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST DANS LA BOUNCE",
+        "url": "https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "LA MELO EST DANS LA BOUNCE",
+      "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
         "name": "LA RUE",
         "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
       },
@@ -2972,6 +2994,32 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
+    },
+    {
+      "album": {
+        "name": "No stress",
+        "url": "https://open.spotify.com/album/0NR9FSagCbEPnkwIBVTnNd"
+      },
+      "artists": [
+        {
+          "name": "DVM",
+          "url": "https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr"
+        },
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/7jPBHQ9vRgMxjRcREZKKGI"
     },
     {
       "album": {
@@ -3796,7 +3844,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145680,
       "name": "Saison 2",
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
@@ -4336,7 +4384,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 108948,
       "name": "TRISTE & C\u00c9L\u00c8BRE",
       "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"

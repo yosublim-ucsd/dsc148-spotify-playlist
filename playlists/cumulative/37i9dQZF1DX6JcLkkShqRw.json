@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con mhtresuno.",
+  "description": "Flow sudamericano con Rvfv & YSY A.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -5002,6 +5002,28 @@
     {
       "album": {
         "name": "Caleta",
+        "url": "https://open.spotify.com/album/0FqGR5ov47PxDXQ7ub5JrY"
+      },
+      "artists": [
+        {
+          "name": "Dylan El Menor",
+          "url": "https://open.spotify.com/artist/1BWbgLRhKszezkRFvKV529"
+        },
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132616,
+      "name": "Caleta",
+      "url": "https://open.spotify.com/track/0RtaFqeJjAZZR2UVAi4YFW"
+    },
+    {
+      "album": {
+        "name": "Caleta",
         "url": "https://open.spotify.com/album/3VrVqcy5F8QGOalY2zhx74"
       },
       "artists": [
@@ -8951,6 +8973,24 @@
     },
     {
       "album": {
+        "name": "DIAVLO",
+        "url": "https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "DIAVLO",
+      "url": "https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j"
+    },
+    {
+      "album": {
         "name": "Diddy",
         "url": "https://open.spotify.com/album/2jtypTsU7bzN3Rb9RxBZtN"
       },
@@ -8966,7 +9006,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 120805,
       "name": "Diddy",
       "url": "https://open.spotify.com/track/1WnmemyxhNoX6bxPSpKMjm"
@@ -13479,6 +13519,36 @@
     },
     {
       "album": {
+        "name": "Habanero",
+        "url": "https://open.spotify.com/album/5U7cr80Rlky6jrorRWSpf5"
+      },
+      "artists": [
+        {
+          "name": "Skorps",
+          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+        },
+        {
+          "name": "Kokkiftm",
+          "url": "https://open.spotify.com/artist/6eTCJDyI47IR4SSB2ilr3Q"
+        },
+        {
+          "name": "TRATTO DE LA CALLE",
+          "url": "https://open.spotify.com/artist/1fJmhlwwsRZfAgkahD5I73"
+        },
+        {
+          "name": "kidd Lion",
+          "url": "https://open.spotify.com/artist/4LYH1yCWiOaYFeSsRaE2qz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126795,
+      "name": "Habanero",
+      "url": "https://open.spotify.com/track/3v2cCt1fwSQmBLvudQSJxl"
+    },
+    {
+      "album": {
         "name": "Hace Rato",
         "url": "https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n"
       },
@@ -16607,6 +16677,28 @@
     },
     {
       "album": {
+        "name": "LEAL",
+        "url": "https://open.spotify.com/album/7y28LXJNi2uZZ6YRQvqPJD"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "LEAL",
+      "url": "https://open.spotify.com/track/6dltsLkzqC5bBQfhx9XXoZ"
+    },
+    {
+      "album": {
         "name": "LED",
         "url": "https://open.spotify.com/album/7rxYG9GVNrTEW8mM7t9TzQ"
       },
@@ -16670,7 +16762,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 128585,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/12OXmGuD9iSu3uvyDvhciX"
@@ -20992,7 +21084,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152629,
       "name": "MUITO FOGO",
       "url": "https://open.spotify.com/track/7hzctgZPIy1EGldzRaVLyf"
@@ -24432,7 +24524,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 222857,
       "name": "PAR DE MESES",
       "url": "https://open.spotify.com/track/6xLPjMYZZeapOQKMjhMrZo"

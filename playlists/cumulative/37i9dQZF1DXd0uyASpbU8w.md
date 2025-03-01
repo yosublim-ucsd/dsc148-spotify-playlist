@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=5LsJnu0ASPWYZnspFmk40A">K.Keed</a>
 
-5,549 songs - 16 day 3 hr 52 min
+5,551 songs - 16 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1118,7 +1118,7 @@
 | [Digane](https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Digane](https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v) | 2:42 | 2024-05-09 | 2024-05-17 |
 | [DIK TRIL](https://open.spotify.com/track/02ETixX3ckSKGXMEt7HXTE) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN) | [DIK TRIL](https://open.spotify.com/album/1ICYk2e4y5EJvNCdrud6ph) | 2:42 | 2024-01-25 | 2024-02-02 |
 | [Dikoima](https://open.spotify.com/track/04NAVZAU9ZX6wJ6J0mqsbN) | [Backeer](https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w), [Elline](https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Dikoima](https://open.spotify.com/album/2fcko6YV4mvi3DNa4ENuGC) | 6:03 | 2023-12-21 | 2024-01-05 |
-| [Dilemma](https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Bite the Bullet](https://open.spotify.com/album/3euOg7fkkA8Ix4P0R75BOQ) | 2:57 | 2025-02-27 |  |
+| [Dilemma](https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Bite the Bullet](https://open.spotify.com/album/3euOg7fkkA8Ix4P0R75BOQ) | 3:41 | 2025-02-27 |  |
 | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 | 2024-06-27 | 2024-07-05 |
 | [Dimensions](https://open.spotify.com/track/1BHcOPUTFF6OeUc0Bj784I) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Dimensions](https://open.spotify.com/album/5KwQZwPafRzJ0KPbqsOaxq) | 7:09 | 2023-12-22 | 2024-01-05 |
 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 | 2024-02-23 | 2024-03-01 |
@@ -1938,6 +1938,7 @@
 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-03-01 | 2024-03-09 |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-07 | 2023-07-14 |
 | [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 | 2024-09-27 |
+| [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 | 2025-02-28 |  |
 | [Holy Father](https://open.spotify.com/track/3b3EBj7XhtJ5YhMpr7eXL4) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX) | [Holy Father](https://open.spotify.com/album/3oEoSA8yhoE8VZopXjceyr) | 4:00 | 2024-03-08 | 2024-03-16 |
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-09 | 2023-11-18 |
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-18 | 2024-07-27 |
@@ -4355,6 +4356,7 @@
 | [SORRY](https://open.spotify.com/track/249nDomzEsjuTWctoXTIh9) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SORRY](https://open.spotify.com/album/04S3xXi32TjpU055NPassK) | 2:09 | 2024-03-21 | 2024-03-29 |
 | [Sorry Brother](https://open.spotify.com/track/29yYOZxh2mUPGGtH5avw76) | [Sakawa Boys](https://open.spotify.com/artist/1dCoEJk5CrVUyXKKtq3kbN) | [Sorry Brother](https://open.spotify.com/album/5kwy95FCBuZi3KMvfUWgCJ) | 4:24 | 2024-05-03 | 2024-05-10 |
 | [Sorry For The Drama](https://open.spotify.com/track/5WhP5twAAdHUo3CxKcwMa2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Sorry For The Drama](https://open.spotify.com/album/5BzuEBSDMfwBhUobVPyQCh) | 3:11 | 2023-10-06 | 2023-10-13 |
+| [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/3utZjSush8o5K2GPKUsFew) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Sorry Not Sorry](https://open.spotify.com/album/6CFGM373PRTxlSxhgPhgaB) | 4:47 | 2024-08-02 | 2024-08-09 |
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-01-17 | 2025-01-24 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-08-31 | 2023-09-09 |

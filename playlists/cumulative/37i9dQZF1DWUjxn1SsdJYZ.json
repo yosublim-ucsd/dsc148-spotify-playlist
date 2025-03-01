@@ -22303,6 +22303,24 @@
     },
     {
       "album": {
+        "name": "ZIZOU",
+        "url": "https://open.spotify.com/album/0mMCfD08eXsuBvHFfyGeCy"
+      },
+      "artists": [
+        {
+          "name": "RAAJ",
+          "url": "https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128695,
+      "name": "ZIZOU",
+      "url": "https://open.spotify.com/track/7xKhz7mg2TwIkbIL8OBdQO"
+    },
+    {
+      "album": {
         "name": "ZOO",
         "url": "https://open.spotify.com/album/3HdToTf2aOy02Onz7g6hVF"
       },

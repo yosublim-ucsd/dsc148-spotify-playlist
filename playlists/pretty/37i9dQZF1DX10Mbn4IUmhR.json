@@ -1,12 +1,12 @@
 {
-  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=Nglwd_NgS3e0QLpK6iT40A\">Benson Boone</a> ",
-  "num_followers": 2660,
+  "description": "All the South African and global Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=Nglwd_NgS3e0QLpK6iT40A\">Benson Boone</a> ",
+  "num_followers": 2688,
   "original_name": "i <3 pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8DgdgAAAABqF2Yw2FNJJ0HLX48XdVDD",
+  "snapshot_id": "Z8F4ZAAAAAD7MD7Y85Nz0/d1UR8UF8x+",
   "tracks": [
     {
       "added_at": "2025-02-27 22:00:22",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/478m5v6CKeJFQELorrDnQ7"
     },
     {
+      "added_at": "2025-02-28 08:47:10",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
       "added_at": "2025-02-27 22:00:22",
       "album": {
         "name": "Kiss Me Hard",
@@ -139,22 +155,6 @@
       "duration_ms": 172549,
       "name": "Kiss Me Hard",
       "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
-    },
-    {
-      "added_at": "2025-02-27 22:00:22",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2025-02-27 22:00:22",
@@ -255,6 +255,22 @@
       "duration_ms": 125464,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/3OMB6N9U4DP4ek2KToyQ7r"
+    },
+    {
+      "added_at": "2025-02-28 08:47:10",
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": "2025-02-27 22:00:22",
@@ -419,26 +435,6 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
-    },
-    {
-      "added_at": "2025-02-27 22:00:22",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 156222,
-      "name": "I know love (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
     },
     {
       "added_at": "2025-02-27 22:00:22",
@@ -903,22 +899,6 @@
     {
       "added_at": "2025-02-27 22:00:22",
       "album": {
-        "name": "Rose Gold",
-        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Suited",
-      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
-    },
-    {
-      "added_at": "2025-02-27 22:00:22",
-      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh"
       },
@@ -931,6 +911,22 @@
       "duration_ms": 219360,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj"
+    },
+    {
+      "added_at": "2025-02-27 22:00:22",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 229412,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J"
     },
     {
       "added_at": "2025-02-27 22:00:22",
@@ -999,18 +995,18 @@
     {
       "added_at": "2025-02-27 22:00:22",
       "album": {
-        "name": "last dance",
-        "url": "https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 187993,
-      "name": "last dance",
-      "url": "https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "added_at": "2025-02-27 22:00:22",
@@ -1095,22 +1091,6 @@
     {
       "added_at": "2025-02-27 22:00:22",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2025-02-27 22:00:22",
-      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
       },
@@ -1127,18 +1107,34 @@
     {
       "added_at": "2025-02-27 22:00:22",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 229412,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-02-27 22:00:22",
+      "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Suited",
+      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
     },
     {
       "added_at": "2025-02-27 22:00:22",

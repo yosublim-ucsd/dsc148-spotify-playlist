@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Animale",
+        "url": "https://open.spotify.com/album/3U1JbZ3ZN5SwfBD1lqETBv"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Animale",
+      "url": "https://open.spotify.com/track/0ve0fcNBQVGQO43Ti88MZs"
+    },
+    {
+      "album": {
         "name": "From a Vein",
         "url": "https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu"
       },

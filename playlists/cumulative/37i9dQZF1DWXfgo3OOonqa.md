@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,780 songs - 3 day 5 hr 1 min
+1,781 songs - 3 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,6 +1369,7 @@
 | [Scener](https://open.spotify.com/track/2mfGWs6c63zWiO36xx4raA) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE) | [Scener](https://open.spotify.com/album/3XNMEjpA19Sn0WpSdd6pIt) | 2:10 | 2022-02-17 | 2022-03-11 |
 | [Schack](https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Schack](https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ) | 2:29 | 2022-11-17 | 2023-02-10 |
 | [Schack](https://open.spotify.com/track/7AixXilko7j5AToF0fQ0aQ) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6), [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Schack](https://open.spotify.com/album/1OOALqKKHDvdiPXVckvbXb) | 3:34 | 2023-05-04 | 2023-05-19 |
+| [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/track/6zd7EGess2mwXiS70RSRRR) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SCHWEIZ \(CALM DOWN\)](https://open.spotify.com/album/1pBr99gwaeeLzfmcdqDY8W) | 2:08 | 2025-02-28 |  |
 | [Se & Lär](https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Se & Lär](https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv) | 2:23 | 2023-10-27 | 2024-03-01 |
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-04 | 2022-04-22 |
 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 | 2025-02-20 |  |

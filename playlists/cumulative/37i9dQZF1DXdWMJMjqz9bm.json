@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "2Much 2Fast (feat. Landon Cube)",
+        "url": "https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        },
+        {
+          "name": "Landon Cube",
+          "url": "https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157114,
+      "name": "2Much 2Fast (feat. Landon Cube)",
+      "url": "https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4"
+    },
+    {
+      "album": {
         "name": "3 Feet Tall",
         "url": "https://open.spotify.com/album/06ASZgUX18vrOFKMXOtHzs"
       },

@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "El marinero baila",
+        "url": "https://open.spotify.com/album/02Zn3oUtIgnZfh0DxEIDhw"
+      },
+      "artists": [
+        {
+          "name": "Toy Cantando",
+          "url": "https://open.spotify.com/artist/1OXm1s4r7Ow6XgyNMWm0ZW"
+        },
+        {
+          "name": "El Mu\u00f1eco Pin Pon",
+          "url": "https://open.spotify.com/artist/0sK4g1qJzYvO52htXv7WOH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "El marinero baila",
+      "url": "https://open.spotify.com/track/7EIXbn8udBO7qTAj3tQSOP"
+    },
+    {
+      "album": {
         "name": "Canti Rondas, Vol. 1",
         "url": "https://open.spotify.com/album/3QymSZnB3YLCsJyfHyjOCO"
       },
@@ -560,10 +582,52 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182338,
       "name": "La Bruja Loca - Los Nuevos Canticuentos",
       "url": "https://open.spotify.com/track/6Pe7Dj1oP1zBrxGyNV2ccR"
+    },
+    {
+      "album": {
+        "name": "La Canci\u00f3n Del Cero (Los Nuevos Canticuentos)",
+        "url": "https://open.spotify.com/album/7GvFXVUtBRsAbfoL02hNDd"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        },
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        },
+        {
+          "name": "Coro De R\u00edogrande",
+          "url": "https://open.spotify.com/artist/2bw5NcOaV5CDY2R2Hh8iHA"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Luisa Fernanda W",
+          "url": "https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU"
+        },
+        {
+          "name": "Juanita Caicedo",
+          "url": "https://open.spotify.com/artist/5p8iEkCmBFBEa3dX1Ym2Rv"
+        },
+        {
+          "name": "Ricardo Torres y su Mariachi",
+          "url": "https://open.spotify.com/artist/4yxZEnM63i6byT48Ti6Bu1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148923,
+      "name": "La Canci\u00f3n Del Cero - Los Nuevos Canticuentos",
+      "url": "https://open.spotify.com/track/7sjgZDKfi7MZu0JgwUCdxd"
     },
     {
       "album": {
@@ -892,7 +956,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163852,
       "name": "Llueve",
       "url": "https://open.spotify.com/track/0GYH3Rk2bPkKfFMIoPamN3"

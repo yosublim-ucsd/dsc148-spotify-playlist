@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Abandone A Sua Cruz",
+        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245464,
+      "name": "N\u00e3o Abandone A Sua Cruz",
+      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
+    },
+    {
+      "album": {
         "name": "N\u00e3o \u00e9 Fake News (Ao Vivo)",
         "url": "https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9"
       },
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236692,
       "name": "Tem Milagre Vindo A\u00ed",
       "url": "https://open.spotify.com/track/61SLxYHFHwlwiEZp5rI0iU"

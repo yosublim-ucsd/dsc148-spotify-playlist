@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,762 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,861 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 48 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 |
 | 49 | [Estou Pronto](https://open.spotify.com/track/1K1FiMlJcF8MLatTtb5I6q) | [Goribeatzz](https://open.spotify.com/artist/49HDbqanAupBgdzDaHPGk9), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Estou Pronto](https://open.spotify.com/album/1u3wi9Erf344qelp0Df6MS) | 2:42 |
 
-Snapshot ID: `Z75ZgAAAAACh206NlkEHO9oG9Wi6ajVC`
+Snapshot ID: `Z7+rAAAAAAB7T54bAuASK13PDk06WVHb`

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=DUTpxbScSdma0rEXXrW3Nw">Hugo Pooe</a>
 
-1,049 songs - 2 day 11 hr 37 min
+1,050 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@
 | [Magic in you](https://open.spotify.com/track/46T0G1ko3VSHSMv5UcqFFL) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Magic in you](https://open.spotify.com/album/4kbiIlmmzbdJd6MtwQhDRM) | 3:01 | 2023-10-06 | 2023-12-22 |
 | [maipfi](https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [maipfi](https://open.spotify.com/album/5OPMKtE4DAxDdwXPM1JUh1) | 4:30 | 2023-09-07 | 2023-12-01 |
 | [Make You Mine](https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Make You Mine](https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi) | 3:44 | 2024-11-14 | 2025-02-07 |
-| [Mango Tree](https://open.spotify.com/track/3DDClXYGxv4175ndygfmO2) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Mango Tree](https://open.spotify.com/album/2abGxZn2UK3QEWHX2dvFIi) | 2:47 | 2025-01-30 |  |
+| [Mango Tree](https://open.spotify.com/track/3DDClXYGxv4175ndygfmO2) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Warm Again EP](https://open.spotify.com/album/2abGxZn2UK3QEWHX2dvFIi) | 2:47 | 2025-01-30 |  |
 | [Manic Pixie Dream](https://open.spotify.com/track/64SrkyDiOaleVgq6SF5WLy) | [The Meister](https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH), [Louie Van Wolf](https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2), [LyndaWrighter](https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW) | [Mended Dreams](https://open.spotify.com/album/2qFn1tpZeMBN2JX8RM1l2j) | 3:19 | 2021-07-22 | 2022-11-11 |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-16 |  |
 | [Marmalade](https://open.spotify.com/track/4GcIVVpHpvZV87A1nvzwXv) | [Sasha Taylor](https://open.spotify.com/artist/0Zp3FfkS4BykhoWODSYQyP) | [Marmalade](https://open.spotify.com/album/4a2zjp7FPiGrKlJXF4Vyj1) | 4:00 | 2024-07-26 | 2024-08-30 |
@@ -890,6 +890,7 @@
 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 | 2024-02-15 | 2024-07-05 |
 | [The Girl Next Door](https://open.spotify.com/track/0SmbxaUGQ39XPF1fDP2uBD) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [hopeless&romantic](https://open.spotify.com/album/17zYP01z2IOiCF4nXJRjCd) | 2:49 | 2023-09-07 | 2023-11-25 |
 | [The Joke's On You](https://open.spotify.com/track/3E9ZYwjljhnAqGrnQ9lzDQ) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [The Joke's On You](https://open.spotify.com/album/3gE0IWhHREP8dIAlY7xpaK) | 2:50 | 2022-12-15 | 2023-02-10 |
+| [The Knife In Me](https://open.spotify.com/track/7egTvzYXK70VDTnVksHw3w) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 2:04 | 2025-02-27 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-01-12 | 2023-01-20 |
 | [The Light](https://open.spotify.com/track/78Vy0jfoNxtvNiRMmhX62x) | [JonnyGuy](https://open.spotify.com/artist/0nldWhpr6z2Szhqsx8Iu8H) | [The Light](https://open.spotify.com/album/4ahM2CHEsCLxAXpLQvdFiQ) | 4:47 | 2024-02-29 | 2024-03-30 |
 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 | 2024-02-15 | 2024-04-23 |

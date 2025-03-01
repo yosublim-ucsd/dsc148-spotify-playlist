@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172800,
       "name": "Brown Noise Bliss",
       "url": "https://open.spotify.com/track/5kIF95v6YpJ9E0zw8RjFkD"
@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Cozy Chesnut Dreams",
+        "url": "https://open.spotify.com/album/5vUw31uxjtckjCMqrCQ09p"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "Cozy Chesnut Dreams",
+      "url": "https://open.spotify.com/track/3eL5FsGnbgNY7ygd5JKuHm"
+    },
+    {
+      "album": {
         "name": "Constitutional Noise",
         "url": "https://open.spotify.com/album/76TTatc2WoLSC70jFPl4K7"
       },
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 229000,
       "name": "If there were Brown Noise",
       "url": "https://open.spotify.com/track/6OUFOk4dOOkd4iz0gSzEaR"
@@ -3764,6 +3782,24 @@
       "duration_ms": 147864,
       "name": "Lush Brown Noise",
       "url": "https://open.spotify.com/track/5qbc7tczapYOQejaoAMztQ"
+    },
+    {
+      "album": {
+        "name": "Luxe Brown Noise",
+        "url": "https://open.spotify.com/album/3TBnUhL78F9bMAHnEf93QP"
+      },
+      "artists": [
+        {
+          "name": "Linus Xio",
+          "url": "https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393845,
+      "name": "Luxe Brown Noise",
+      "url": "https://open.spotify.com/track/55PN68Zou0tRu2Flp3NhW4"
     },
     {
       "album": {
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163923,
       "name": "Rested brown noise",
       "url": "https://open.spotify.com/track/28Eji4hXXLvLuMzCRFUP3V"
@@ -4574,6 +4610,24 @@
       "duration_ms": 166000,
       "name": "Soft Noise",
       "url": "https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H"
+    },
+    {
+      "album": {
+        "name": "Soothing Blanket of Brown Noise",
+        "url": "https://open.spotify.com/album/7pZ14KvOcfuk4Yi1Rsw6xz"
+      },
+      "artists": [
+        {
+          "name": "Freq Molecule",
+          "url": "https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327343,
+      "name": "Soothing Blanket of Brown Noise",
+      "url": "https://open.spotify.com/track/1AX1IB9cLclzB89lLi6NXJ"
     },
     {
       "album": {

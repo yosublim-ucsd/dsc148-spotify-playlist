@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip hop. Cover:  Trae The Truth",
+  "description": "Inspirational hip hop. Cover: Fridayy",
   "name": "High Lights",
   "tracks": [
     {
@@ -268,6 +268,28 @@
       "duration_ms": 136295,
       "name": "AIRWAVES (feat. Nelo) - Bonus Track",
       "url": "https://open.spotify.com/track/6HcjfTeIoXWwzcI8eQkfmy"
+    },
+    {
+      "album": {
+        "name": "ALERT",
+        "url": "https://open.spotify.com/album/5S8apcg3hbln0Pgt0Ssq5S"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/4dqyBZSCNBCVMoyhmWX9n1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146094,
+      "name": "ALERT",
+      "url": "https://open.spotify.com/track/5TEHc0XCXLrD4avIxeUFMy"
     },
     {
       "album": {
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145217,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/1gIqqNWgQMdjzOsBedM2Ph"
@@ -1800,6 +1822,36 @@
       "duration_ms": 138600,
       "name": "Church House Trap House",
       "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
+    },
+    {
+      "album": {
+        "name": "At the Church Steps",
+        "url": "https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Dr. Benjamin Chavis",
+          "url": "https://open.spotify.com/artist/6E1izl0CDc8qpBEzek6D9K"
+        },
+        {
+          "name": "Denise Weeks",
+          "url": "https://open.spotify.com/artist/4Nl1w7lKAA03aRPgV3Q9JG"
+        },
+        {
+          "name": "Rell",
+          "url": "https://open.spotify.com/artist/0EOoSsmM3oV2aoGL3Od3E3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272484,
+      "name": "Church Steps",
+      "url": "https://open.spotify.com/track/3basGRJuYg4z3AFZRM4617"
     },
     {
       "album": {
@@ -4634,7 +4686,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 260708,
       "name": "Jesus Called My Name",
       "url": "https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4"
@@ -7135,6 +7187,28 @@
     },
     {
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Proud Of Me (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb"
+    },
+    {
+      "album": {
         "name": "Proverbs & Beats",
         "url": "https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl"
       },
@@ -7172,7 +7246,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217515,
       "name": "Pull The Trigger",
       "url": "https://open.spotify.com/track/7tjUniE32n551Jr9Ok5Pxq"
@@ -7868,7 +7942,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 222375,
       "name": "SIX THIRTY",
       "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
@@ -8696,7 +8770,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 175582,
       "name": "That's What Happens",
       "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
@@ -9469,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X"
+    },
+    {
+      "album": {
         "name": "STTAG",
         "url": "https://open.spotify.com/album/2TqAdjVXOwHOj9EIO4HCpG"
       },
@@ -9616,7 +9708,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 153199,
       "name": "We Live",
       "url": "https://open.spotify.com/track/2yqrIdVi0bXjwxNjMYhiZR"
@@ -9966,6 +10058,24 @@
       "duration_ms": 171694,
       "name": "Wodie",
       "url": "https://open.spotify.com/track/1IBGr5TmgoSeo8ufM3pSRb"
+    },
+    {
+      "album": {
+        "name": "Woke Up This Morning",
+        "url": "https://open.spotify.com/album/1s3ijlyu1aRrxHy8ELBZyb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Woke Up This Morning",
+      "url": "https://open.spotify.com/track/0T22HzueBkYKi1whnS1YiN"
     },
     {
       "album": {

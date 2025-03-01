@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-676 songs - 1 day 6 hr 51 min
+677 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-06-11 |
 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 | 2023-06-23 | 2024-06-01 |
 | [2hrs](https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [2hrs](https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6) | 1:04 | 2023-04-04 | 2023-07-08 |
+| [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj) | 2:37 | 2025-02-28 |  |
 | [3 Feet Tall](https://open.spotify.com/track/3B1G2NmxLSvSygfcGmBkq4) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [3 Feet Tall](https://open.spotify.com/album/06ASZgUX18vrOFKMXOtHzs) | 2:21 | 2023-01-20 | 2023-04-09 |
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-12 | 2023-02-04 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-04-04 | 2022-07-07 |

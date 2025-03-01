@@ -4,7 +4,7 @@
 
 > 🇸🇪FORMEN DEN ER FIN!!🇳🇴
 
-1,327 songs - 2 day 7 hr 17 min
+1,328 songs - 2 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bang My Head](https://open.spotify.com/track/0oy5dGexQGsefvS2hLWWBS) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [Bang My Head](https://open.spotify.com/album/3YrmYFwhdNxUeomv1Nvq1T) | 2:29 | 2022-10-06 | 2022-12-16 |
 | [BANGAR ALDRIG EN SHOT](https://open.spotify.com/track/7jd4zVij4ymYbFOknEf1mU) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [BANGAR ALDRIG EN SHOT](https://open.spotify.com/album/6Xr9wwtdKOrqo67RJdiEwZ) | 2:06 | 2024-02-22 | 2024-03-29 |
 | [BANKA BANKA](https://open.spotify.com/track/48ThTgiCCug6yQK6XGtmsH) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [BANKA BANKA](https://open.spotify.com/album/6QPjeFce4XLkTHevZWdpXe) | 2:33 | 2023-01-26 | 2024-04-12 |
+| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-28 |  |
 | [Bara Bounce](https://open.spotify.com/track/7qWkqFNGrbLYBaUXcIwM8d) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [ODZ Från WISH](https://open.spotify.com/album/62kxcLHqzp5GZEjHN0qldf) | 2:15 | 2023-02-02 | 2023-02-10 |
 | [Bara brudar](https://open.spotify.com/track/7AYv5Mn95cZm0JtGdQWRtm) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Bara brudar](https://open.spotify.com/album/6OIv1sgz6XPGqMyYsCl5p1) | 2:49 | 2023-11-09 | 2024-08-23 |
 | [BARA EN VANLIG MAN](https://open.spotify.com/track/7L0BcMnlPp2C4xYQSb6I8X) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BARA EN VANLIG MAN](https://open.spotify.com/album/15Ncoc6HK9UPbODUDGZxWY) | 2:01 | 2022-10-13 | 2023-02-17 |

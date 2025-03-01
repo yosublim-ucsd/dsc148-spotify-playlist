@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 394476,
+  "num_followers": 394799,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 355879,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
         "name": "When I Push (Edit)",
         "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
         "name": "Sanctum EP",
         "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 351992,
       "name": "Sanctum (feat. Marion Di Napoli)",
       "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "I Need It More",
-        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "I Need It More",
-      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "I Need It More",
+        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 158167,
+      "name": "I Need It More",
+      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -915,8 +915,8 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
+        "name": "Offbeat",
+        "url": "https://open.spotify.com/album/1fCXa4ozWDMabkrxEnQJqh"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 205652,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
+      "duration_ms": 192517,
+      "name": "Offbeat",
+      "url": "https://open.spotify.com/track/4rGkLTgvTSnxAPy2wv3YRW"
     }
   ],
   "unique_name": "Techno Workout",

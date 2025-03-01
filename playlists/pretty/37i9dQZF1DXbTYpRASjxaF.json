@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132654,
+  "num_followers": 132649,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,38 @@
     {
       "added_at": "2025-02-21 17:28:28",
       "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+        "name": "Para Todas do Job",
+        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
         }
       ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+      "duration_ms": 255157,
+      "name": "Seu Job",
+      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "added_at": "2025-02-21 17:28:28",
@@ -391,38 +411,18 @@
     {
       "added_at": "2025-02-21 17:28:28",
       "album": {
-        "name": "Para Todas do Job",
-        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 255157,
-      "name": "Seu Job",
-      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "added_at": "2025-02-21 17:28:28",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-02-21 17:28:28",
       "album": {
-        "name": "Remessa Estrangeira (Remix)",
-        "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
-      },
-      "artists": [
-        {
-          "name": "2HEAVY BEATS",
-          "url": "https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ"
-        },
-        {
-          "name": "Magr\u00e3o AllFavela",
-          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
-        }
-      ],
-      "duration_ms": 117125,
-      "name": "Remessa Estrangeira - Remix",
-      "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
-    },
-    {
-      "added_at": "2025-02-21 17:28:28",
-      "album": {
         "name": "Pegada de Chefona",
         "url": "https://open.spotify.com/album/0OgRUDDTyPnYZTNwFpbgHH"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 176465,
       "name": "Pegada de Chefona",
       "url": "https://open.spotify.com/track/2nHK8p9xOZCx9k28X0C1wQ"
+    },
+    {
+      "added_at": "2025-02-21 17:28:28",
+      "album": {
+        "name": "Remessa Estrangeira (Remix)",
+        "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
+      },
+      "artists": [
+        {
+          "name": "2HEAVY BEATS",
+          "url": "https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        }
+      ],
+      "duration_ms": 117125,
+      "name": "Remessa Estrangeira - Remix",
+      "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
     },
     {
       "added_at": "2025-02-21 17:28:28",

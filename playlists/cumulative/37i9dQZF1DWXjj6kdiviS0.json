@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "Bach: Keyboard Concerto No. 2, BWV 1053: III. Allegro",
+        "url": "https://open.spotify.com/album/0SGRDksekzThbHOgR5npBt"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346520,
+      "name": "Bach, JS : Keyboard Concerto No. 2 in E Major, BWV 1053: III. Allegro",
+      "url": "https://open.spotify.com/track/0onMrYkuyF6Sd8tRu8QoYq"
+    },
+    {
+      "album": {
         "name": "Mozart: Une petite musique de nuit - Pachelbel: Canon",
         "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
       },
@@ -1469,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "Notebook for Anna Magdalena Bach (1725): No. 26, Aria, BWV 988",
+        "url": "https://open.spotify.com/album/5pp9FTgtKxxU7BcdiqXUmQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alessandro Simonetto",
+          "url": "https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312534,
+      "name": "Notebook for Anna Magdalena Bach (1725): No. 26, Aria, BWV 988",
+      "url": "https://open.spotify.com/track/6GjsE609S09KEr2SbGl2DG"
+    },
+    {
+      "album": {
         "name": "Mozart: Eine Kleine Nachtmusik etc.",
         "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
       },
@@ -2344,6 +2392,32 @@
       "duration_ms": 150973,
       "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5mRrklQD0rvuN6sV10HfPn"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Violin Concerto in E Major, BWV 1042: I. Allegro",
+        "url": "https://open.spotify.com/album/4OLw76sQDGAOmne4NsLbVw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        },
+        {
+          "name": "Canada's National Arts Centre Orchestra",
+          "url": "https://open.spotify.com/artist/3BnZ8fq9flJ8gtxqxKAuYR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429373,
+      "name": "Violin Concerto in E Major, BWV 1042: I. Allegro",
+      "url": "https://open.spotify.com/track/1piHLi9r0ospPnosYlEP0N"
     },
     {
       "album": {

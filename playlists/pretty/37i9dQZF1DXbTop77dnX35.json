@@ -1,12 +1,12 @@
 {
   "description": "New Music from Young Jonn  and more ",
-  "num_followers": 105527,
+  "num_followers": 106065,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8D84AAAAAC0j3daxciXk1BL7w3biMCU",
+  "snapshot_id": "Z8F6XgAAAAC5wcVs0fsT81qD9Vp+Eo3T",
   "tracks": [
     {
       "added_at": "2025-02-28 00:01:36",
@@ -327,7 +327,7 @@
     {
       "added_at": "2025-02-28 00:01:36",
       "album": {
-        "name": "Blacky",
+        "name": "Blackie",
         "url": "https://open.spotify.com/album/6WfJTzcu7y103o87JRkJnv"
       },
       "artists": [
@@ -337,7 +337,7 @@
         }
       ],
       "duration_ms": 149760,
-      "name": "Blacky",
+      "name": "Blackie",
       "url": "https://open.spotify.com/track/2ZKt2debe2bUYp48qmVrTv"
     },
     {
@@ -435,6 +435,22 @@
       "duration_ms": 152244,
       "name": "Muah",
       "url": "https://open.spotify.com/track/3DO8juSLsRXlXr2FF4keMm"
+    },
+    {
+      "added_at": "2025-02-28 08:57:02",
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": "2025-02-28 00:01:36",
@@ -688,7 +704,7 @@
           "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
         }
       ],
-      "duration_ms": 177230,
+      "duration_ms": 221624,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5"
     },

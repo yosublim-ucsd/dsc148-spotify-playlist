@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205560,
       "name": "Any Way You Come - Bonus Track",
       "url": "https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8"
@@ -4198,6 +4198,24 @@
       "duration_ms": 193533,
       "name": "matthew",
       "url": "https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ"
+    },
+    {
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "album": {

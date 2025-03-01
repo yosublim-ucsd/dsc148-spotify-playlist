@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158738,
+  "num_followers": 158735,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,30 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/0WZo4kqjKYAEcw4hhaSqMK"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Dos Mlk",
+          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
+        }
+      ],
+      "duration_ms": 159789,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/5AWJorXABGBY0WhrhpkmJe"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 208485,
       "name": "4 da Manh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/0WZo4kqjKYAEcw4hhaSqMK"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Dos Mlk",
-          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
-        }
-      ],
-      "duration_ms": 159789,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/5AWJorXABGBY0WhrhpkmJe"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        }
+      ],
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "N\u00e3o Quero Mais Nada",
         "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 213587,
       "name": "N\u00e3o Quero Mais Nada",
       "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        }
-      ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1123,6 +1123,34 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "added_at": "2025-02-24 17:30:43",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/6rXsW9OocwyJBVdbZwwZQD"
       },
@@ -1151,30 +1179,22 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
       "artists": [
         {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
         },
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juan Branco",
-          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2025-02-24 17:30:43",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1271,18 +1271,30 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Minha Mina \u00e9 Braba",
-        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
+        "name": "Jeito Bom #2",
+        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
       "artists": [
         {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
+        },
+        {
+          "name": "Caio Big",
+          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Minha Mina \u00e9 Braba",
-      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
+      "duration_ms": 209378,
+      "name": "Jeito Bom #2",
+      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
     },
     {
       "added_at": "2025-02-24 17:30:43",
@@ -1311,30 +1323,18 @@
     {
       "added_at": "2025-02-24 17:30:43",
       "album": {
-        "name": "Jeito Bom #2",
-        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
       },
       "artists": [
         {
-          "name": "RM no Beat",
-          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
-        },
-        {
-          "name": "Caio Big",
-          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
-        },
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        },
-        {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
         }
       ],
-      "duration_ms": 209378,
-      "name": "Jeito Bom #2",
-      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
     }
   ],
   "unique_name": "Resenha na Praia",

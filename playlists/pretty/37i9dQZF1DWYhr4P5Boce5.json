@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 207026,
+  "num_followers": 207041,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Love&Adoration",
-        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Love&Adoration",
-      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Your Love Won't Give Up",
         "url": "https://open.spotify.com/album/77MWkhxbUxCa4oWNLFXP1J"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 175241,
       "name": "Your Love Won't Give Up",
       "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Love&Adoration",
+        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Love&Adoration",
+      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Red Mercedes",
-        "url": "https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 157895,
-      "name": "Red Mercedes",
-      "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
-      },
-      "artists": [
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 133159,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Breathe Life",
         "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
+        "name": "Red Mercedes",
+        "url": "https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 157895,
+      "name": "Red Mercedes",
+      "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "duration_ms": 133159,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
-      },
-      "artists": [
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 203120,
       "name": "You Are My Love",
       "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "PDA",
-        "url": "https://open.spotify.com/album/6RECpj3dbX0paWYWpW8dlk"
-      },
-      "artists": [
-        {
-          "name": "Nuelzo",
-          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
-        },
-        {
-          "name": "Still Blessed Music",
-          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "PDA",
-      "url": "https://open.spotify.com/track/5wNCTtInFKgz5s5dSb2Osz"
-    },
-    {
-      "added_at": "2025-02-14 09:50:05",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -1643,18 +1623,22 @@
     {
       "added_at": "2025-02-14 09:50:05",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/6RECpj3dbX0paWYWpW8dlk"
       },
       "artists": [
         {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+      "duration_ms": 112000,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/5wNCTtInFKgz5s5dSb2Osz"
     },
     {
       "added_at": "2025-02-14 09:50:05",
@@ -1671,6 +1655,22 @@
       "duration_ms": 157990,
       "name": "fall (when we fell in love)",
       "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2025-02-14 09:50:05",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2025-02-14 09:50:05",

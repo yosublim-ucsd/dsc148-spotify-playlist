@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210267,
+      "name": "Borracha",
+      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+    },
+    {
+      "album": {
         "name": "Seguimos De Frente",
         "url": "https://open.spotify.com/album/298s7O5GLcAOfxhfhljn0q"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 174375,
       "name": "Calmadito",
       "url": "https://open.spotify.com/track/0abfAkrsQE4alD6cJpT161"
@@ -2043,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "El Amor No Existe",
+        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138839,
+      "name": "El Amor No Existe",
+      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
+    },
+    {
+      "album": {
         "name": "Cumplea\u00f1eros Tour Puros Compas (En Vivo)",
         "url": "https://open.spotify.com/album/75JFDsKluTKKS8b1QiqAqq"
       },
@@ -2349,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+    },
+    {
+      "album": {
         "name": "El Fendi",
         "url": "https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE"
       },
@@ -2368,6 +2422,28 @@
       "duration_ms": 195750,
       "name": "El Fendi",
       "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/6oDhTZU2iifDYg6RYTKTKA"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "El Festejado",
+      "url": "https://open.spotify.com/track/5YfCnHZf1fvCIFO7mNZV72"
     },
     {
       "album": {
@@ -2680,7 +2756,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
@@ -3368,7 +3444,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 167979,
       "name": "Hace un A\u00f1o",
       "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
@@ -4340,7 +4416,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221883,
       "name": "Malabares",
       "url": "https://open.spotify.com/track/1neubhunsokl2tnLWgoY48"
@@ -4746,6 +4822,24 @@
       "duration_ms": 214258,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI"
+    },
+    {
+      "album": {
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "album": {
@@ -6188,7 +6282,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213562,
       "name": "Que Hay Que Hacer",
       "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
@@ -7401,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161935,
+      "name": "Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5QFIuK2B6MKBdwpXEos7ly"
+    },
+    {
+      "album": {
         "name": "Te Perd\u00ed",
         "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
       },
@@ -7840,7 +7952,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197265,
       "name": "Tutorial Para Olvidar",
       "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"

@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14365,
+  "num_followers": 14364,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKPJn8XTd+YeMER4K1yLBCKfFDbQb9",
+  "snapshot_id": "AAAKP1Aw3rZUvArSoDUTkeDtIapnz92j",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -2115,6 +2115,74 @@
       "duration_ms": 195942,
       "name": "About To Lose It",
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
+      "added_at": "2025-02-28 11:54:22",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3cIjSNMTG8gk1UzRCBXnNV"
+      },
+      "artists": [
+        {
+          "name": "Autone",
+          "url": "https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue"
+        },
+        {
+          "name": "James Alexandr",
+          "url": "https://open.spotify.com/artist/7dBNlsD2vMoHenuE5Wuguc"
+        },
+        {
+          "name": "PENELOPE",
+          "url": "https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0xwI8bk8UBQHh6QemR76kR"
+    },
+    {
+      "added_at": "2025-02-28 12:00:54",
+      "album": {
+        "name": "Try Try Try (feat. Martay M'Kenzy)",
+        "url": "https://open.spotify.com/album/6qHoPyFEpxGY31QGj1kmHZ"
+      },
+      "artists": [
+        {
+          "name": "Freejak",
+          "url": "https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11"
+        },
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
+        }
+      ],
+      "duration_ms": 149574,
+      "name": "Try Try Try",
+      "url": "https://open.spotify.com/track/5UcXIF9BHOS8DP2mmFZ801"
+    },
+    {
+      "added_at": "2025-02-28 14:46:24",
+      "album": {
+        "name": "El Tikital (Day Mix)",
+        "url": "https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Morena",
+          "url": "https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM"
+        },
+        {
+          "name": "Jay Rah",
+          "url": "https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "El Tikital - Day Mix",
+      "url": "https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y"
     }
   ],
   "unique_name": "Ultra Club Hits",

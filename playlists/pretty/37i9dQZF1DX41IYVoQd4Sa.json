@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc :  \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 31505,
+  "num_followers": 31508,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "Hate You Instead",
-        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "Hate You Instead",
-      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
         "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
+        "name": "Hate You Instead",
+        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "Hate You Instead",
+      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "Doing So Much Better",
-        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Doing So Much Better",
-      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
         "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 153600,
       "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
       "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
+        "name": "Doing So Much Better",
+        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Doing So Much Better",
+      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4",
-        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
-      },
-      "artists": [
-        {
-          "name": "Liron Amram",
-          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "\u05e0\u05e9\u05de\u05d4",
-      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
         "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
+      },
+      "artists": [
+        {
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2025-02-27 22:00:20",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-02-27 22:00:20",
       "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4",
+        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
+      },
+      "artists": [
+        {
+          "name": "Liron Amram",
+          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "\u05e0\u05e9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
+    },
+    {
+      "added_at": "2025-02-27 22:00:20",
+      "album": {
         "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
         "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 257663,
       "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
-    },
-    {
-      "added_at": "2025-02-27 22:00:20",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2025-02-27 22:00:20",

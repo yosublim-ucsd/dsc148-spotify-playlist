@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\.  Cover: Marsha Milan
 
-14,630 songs - 33 day 10 hr 15 min
+14,633 songs - 33 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1270,6 +1270,7 @@
 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 | 2022-07-21 | 2022-07-29 |
 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 | 2023-08-10 | 2023-08-18 |
 | [Better Be With Me](https://open.spotify.com/track/3x0GvmvlYtUEs2b6sHsyEV) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr) | [Better Be With Me](https://open.spotify.com/album/3iZTQg1wLv7tAXLUNNWcpf) | 2:00 | 2024-09-19 | 2024-09-27 |
+| [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-02-27 |  |
 | [Better By Myself](https://open.spotify.com/track/6UuUeDJ118UlygyO27unep) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 2:51 | 2024-10-17 | 2024-10-25 |
 | [Better Days](https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Better Days](https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX) | 2:53 | 2024-09-19 | 2024-09-27 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2024-07-12 |
@@ -6450,7 +6451,7 @@
 | [Kalyna](https://open.spotify.com/track/4l2cybnuXksxxKzCCSDPfV) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [Kalyna](https://open.spotify.com/album/6CSrVf4Pqc4t7XQGyC3RAt) | 3:06 | 2022-03-17 | 2022-03-25 |
 | [Kamehameha](https://open.spotify.com/track/0CVmXeT4XO6O1tZWYG78Od) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Kamehameha](https://open.spotify.com/album/4xYgACa3hPO6NGmbKszBvW) | 3:39 | 2023-09-21 | 2023-09-29 |
 | [Kamikaze Comic](https://open.spotify.com/track/5ICK1BSMnDkYulOijLCJzi) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Kamikaze Comic](https://open.spotify.com/album/1IyAn07bOZdtlXqy1HzPSb) | 3:09 | 2024-10-03 | 2024-10-11 |
-| [Kamone](https://open.spotify.com/track/3NiMfS8Qx6xiabyqVPDMml) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [Kamone](https://open.spotify.com/album/0azGe9w1FNSfPvpyh6L0ye) | 3:24 | 2025-02-27 |  |
+| [kamone](https://open.spotify.com/track/3NiMfS8Qx6xiabyqVPDMml) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [kamone](https://open.spotify.com/album/0azGe9w1FNSfPvpyh6L0ye) | 3:24 | 2025-02-27 |  |
 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 | 2023-04-20 | 2023-04-28 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-04 |
 | [KANJO](https://open.spotify.com/track/5K15YOdrxwXxnvTG2ESoqg) | [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [KANJO](https://open.spotify.com/album/3ZYcVX9dQEQqJtbaLjABcq) | 2:59 | 2024-08-01 | 2024-08-09 |
@@ -7231,6 +7232,7 @@
 | [Love I Need](https://open.spotify.com/track/3HZQ8LfKlO6yL9WFUltpDM) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Love I Need](https://open.spotify.com/album/6E1VdzlwG13cctmM64eVAM) | 3:26 | 2022-02-03 | 2022-02-11 |
 | [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-18 | 2024-04-26 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-07 | 2022-04-15 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-03 | 2022-03-11 |
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-09-16 | 2022-09-23 |
 | [Love Insurrection \- Edit](https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 3:32 | 2024-07-18 | 2024-07-27 |
@@ -10577,6 +10579,7 @@
 | [silence](https://open.spotify.com/track/6enNRlLvl1HKnfPq8PM58M) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [silence](https://open.spotify.com/album/3Q8wQYhmg8NaCm6xd3u2dp) | 3:55 | 2023-05-25 | 2023-06-02 |
 | [SILENCE](https://open.spotify.com/track/5aGNKLxM6Q7hyBsuq74Roy) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 2:34 | 2025-02-13 | 2025-02-21 |
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-05-04 | 2023-05-12 |
+| [Silent Angel](https://open.spotify.com/track/149HyhgmTTcUbcLpZfouli) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [Silent Angel](https://open.spotify.com/album/3H9mX9AEeegmiKy97dwU2g) | 5:01 | 2025-02-27 |  |
 | [Silent Night](https://open.spotify.com/track/4TwKTu6EOJFvAlDAzQRWrd) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/1Nxzeq5f7m7kpCP8PtWFPm) | 1:42 | 2023-11-30 | 2023-12-08 |
 | [Silent Night In Shinjuku](https://open.spotify.com/track/4gGz96p4EL4b0tXqiTFgrk) | [Echo of Your Soul](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [Silent Night In Shinjuku](https://open.spotify.com/album/0BNy07aDoFMF4hdGjNRF5m) | 3:47 | 2024-12-19 | 2024-12-27 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-26 | 2023-02-03 |

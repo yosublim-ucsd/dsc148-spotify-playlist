@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153610,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
+    },
+    {
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -276,6 +298,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "AYQUETONTA",
+        "url": "https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "AYQUETONTA",
+      "url": "https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0"
     },
     {
       "album": {
@@ -554,6 +594,24 @@
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "album": {
+        "name": "Sr. Ahuevo",
+        "url": "https://open.spotify.com/album/7LGNl9hAHJnRyzBMrBHvFa"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269096,
+      "name": "Dandy",
+      "url": "https://open.spotify.com/track/3dLdGbVSPTo5Ge63eed4C1"
     },
     {
       "album": {
@@ -1228,7 +1286,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195470,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
@@ -1798,7 +1856,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 192880,
       "name": "Mi Fiesta",
       "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
@@ -2452,7 +2510,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205687,
       "name": "Pueblo Salvaje",
       "url": "https://open.spotify.com/track/2YkBIlrhKqmKhxNZJLNTti"
@@ -2810,7 +2868,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 252520,
       "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
       "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
@@ -3204,6 +3262,24 @@
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "album": {
+        "name": "tirados",
+        "url": "https://open.spotify.com/album/4dOujit25Ge8WgONNqfa0v"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "tirados",
+      "url": "https://open.spotify.com/track/78KH1q8fgnt5EexkepoijI"
     },
     {
       "album": {

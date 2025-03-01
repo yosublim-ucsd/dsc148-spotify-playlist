@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Jeet Hai Hamari (From \"What If...?: Season 3\")",
+        "url": "https://open.spotify.com/album/3j0exGo4lFFT53h9DDsigU"
+      },
+      "artists": [
+        {
+          "name": "GAAYATRI",
+          "url": "https://open.spotify.com/artist/3VaCKO3u7bekl0FhJBFE7E"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283023,
+      "name": "Jeet Hai Hamari - From \"What If...?: Season 3\"",
+      "url": "https://open.spotify.com/track/6SNNdNs5SGyFF2jX2Pr1Lc"
+    },
+    {
+      "album": {
         "name": "What If...? (Episode 7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS"
       },

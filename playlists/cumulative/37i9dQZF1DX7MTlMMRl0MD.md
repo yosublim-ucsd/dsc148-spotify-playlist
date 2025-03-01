@@ -2,7 +2,7 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
+> Tu lista favorita de Bachata ❤️ Cover: Xavi & Manuel Turizo
 
 410 songs - 1 day 0 hr 51 min
 

@@ -1,13 +1,57 @@
 {
   "description": "<a href=\"spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ\">Nina Las Vegas'</a> favourite tracks. Updated regularly. Curated by Nina Las Vegas. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 22254,
+  "num_followers": 22256,
   "original_name": "Nina Las Vegas' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7SEUgAAAADEQl8Vqa4KShcbTb+h/wtp",
+  "snapshot_id": "Z8FL5AAAAADSAz/Q5MJ0zjFPi9DmofOm",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Wifey Riddim",
+        "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 148054,
+      "name": "Wifey Riddim",
+      "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
+    },
     {
       "added_at": "2025-02-18 13:00:02",
       "album": {
@@ -93,10 +137,10 @@
       "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
     },
     {
-      "added_at": "2025-02-18 13:00:02",
+      "added_at": "2025-02-28 05:38:44",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C"
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt"
       },
       "artists": [
         {
@@ -104,37 +148,13 @@
           "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
         },
         {
-          "name": "J.O.S.H.U.A",
-          "url": "https://open.spotify.com/artist/5KfmpiHjpiuioMiGZrG5UI"
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
         }
       ],
-      "duration_ms": 256655,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/5AIAY2scRETOQ0aJ8zv1Lt"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "girl EDM (remixes)",
-        "url": "https://open.spotify.com/album/0pyH2RJY7SosjJ3v89lpDb"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Izzy Camina",
-          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
-        },
-        {
-          "name": "Bamster",
-          "url": "https://open.spotify.com/artist/4Ww46Z3SO4SJGXs4eMkwZQ"
-        }
-      ],
-      "duration_ms": 129358,
-      "name": "Ninacamina - Bamster Remix",
-      "url": "https://open.spotify.com/track/1peMPVwFvB4Zbe5RSX6imq"
+      "duration_ms": 212177,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/07DapAVEtfc5KvHVpORuUn"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -215,6 +235,42 @@
       "duration_ms": 276571,
       "name": "Kingdom Is Rising",
       "url": "https://open.spotify.com/track/65vhZh8G8AQdplZw7yPRYa"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Pesad\u00e3o",
+        "url": "https://open.spotify.com/album/54aqaVNIfHMguULs5Cdt4i"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        },
+        {
+          "name": "Shuga",
+          "url": "https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Pesad\u00e3o",
+      "url": "https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -343,6 +399,22 @@
       "duration_ms": 138975,
       "name": "RIGHT TURN ON RED",
       "url": "https://open.spotify.com/track/0w3QggJrL5NujLy4wAkQno"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Switch sides",
+        "url": "https://open.spotify.com/album/6puMVXMD4KEtCYYg0WgtSd"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 166570,
+      "name": "Switch sides",
+      "url": "https://open.spotify.com/track/12hdoRD1q006pKl8ZtZeQt"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -497,6 +569,38 @@
       "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
     },
     {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Glut / Tempest",
+        "url": "https://open.spotify.com/album/2AaP4dcsKOamDUmJx92Fe2"
+      },
+      "artists": [
+        {
+          "name": "Ramadanman",
+          "url": "https://open.spotify.com/artist/5RahUdA5cpDqZr1EBegGnY"
+        }
+      ],
+      "duration_ms": 294349,
+      "name": "Glut",
+      "url": "https://open.spotify.com/track/1iH3H6Ul2GbMLDsYoqunnU"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "Call Me No Slave",
+        "url": "https://open.spotify.com/album/664NtGmRCr9T9NfDl4g5xO"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        }
+      ],
+      "duration_ms": 310088,
+      "name": "Bax & Breadfruit",
+      "url": "https://open.spotify.com/track/4S9uwKyhyt3pQIQmOJrWml"
+    },
+    {
       "added_at": "2025-02-18 13:00:02",
       "album": {
         "name": "Thunderheist",
@@ -511,6 +615,22 @@
       "duration_ms": 233920,
       "name": "Jerk It",
       "url": "https://open.spotify.com/track/0krEZnlOTFefuX2cC8Texl"
+    },
+    {
+      "added_at": "2025-02-28 05:38:44",
+      "album": {
+        "name": "iO.",
+        "url": "https://open.spotify.com/album/2L7f5LhpY3gFKBIZRDaKly"
+      },
+      "artists": [
+        {
+          "name": "JUPiTA",
+          "url": "https://open.spotify.com/artist/6FzRUaQAw1wDZe3qhVmhht"
+        }
+      ],
+      "duration_ms": 247142,
+      "name": "SHY SOL",
+      "url": "https://open.spotify.com/track/4wkjQB79jPEx7eJ5Gm6RbG"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -563,22 +683,6 @@
       "duration_ms": 199849,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/0cI2dEe3fnHZSUpKsSAcH1"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Girl Feels Good",
-      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -799,26 +903,6 @@
     {
       "added_at": "2025-02-18 13:00:02",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 138160,
-      "name": "Do I (Remix)",
-      "url": "https://open.spotify.com/track/5bzGTHcgxBVPuRNW5Yx1SX"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
         "name": "Pulse Echo EP",
         "url": "https://open.spotify.com/album/65s546D9JTDUOLzgJ4o8BN"
       },
@@ -891,26 +975,6 @@
       "duration_ms": 175215,
       "name": "aggressive",
       "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "All My People (Extended)",
-        "url": "https://open.spotify.com/album/4yzCfabVRy4MvUKmP4Dy5m"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "Sweely",
-          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
-        }
-      ],
-      "duration_ms": 325846,
-      "name": "All My People - Extended",
-      "url": "https://open.spotify.com/track/6WKK6PDpdqxQYGtq8u9k1x"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -1099,38 +1163,6 @@
     {
       "added_at": "2025-02-18 13:00:02",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "2BADGYALZ",
-        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 101500,
-      "name": "2BADGYALZ",
-      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
         "name": "Circus EP",
         "url": "https://open.spotify.com/album/3wTkxNg013MgGTx2xhx1zK"
       },
@@ -1159,30 +1191,6 @@
       "duration_ms": 314827,
       "name": "WONDA",
       "url": "https://open.spotify.com/track/63xsmOQMciuw32v9VrtKbu"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "Bonkers",
-        "url": "https://open.spotify.com/album/1N5efapcoWk8SYgxxQ53H1"
-      },
-      "artists": [
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Buckley",
-          "url": "https://open.spotify.com/artist/5O6cj7GnJssS8cvpFf3rsr"
-        }
-      ],
-      "duration_ms": 230354,
-      "name": "Bonkers - Buckley Remix",
-      "url": "https://open.spotify.com/track/3PfVzxwXw5i5cVCOuPhl5J"
     },
     {
       "added_at": "2025-02-18 13:00:02",
@@ -1235,26 +1243,6 @@
       "duration_ms": 209866,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/69kzyQ9A2dvjP2du4rKUYg"
-    },
-    {
-      "added_at": "2025-02-18 13:00:02",
-      "album": {
-        "name": "The Days (Rudimental Remix)",
-        "url": "https://open.spotify.com/album/50o5ubs0Y2lBPMQiG7RxII"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "The Days - Rudimental Remix",
-      "url": "https://open.spotify.com/track/2LrwQcjuavA44Es0mQtT2o"
     },
     {
       "added_at": "2025-02-18 13:00:02",

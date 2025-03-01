@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez?si=Zz19hc39QaO9Ux9niVs8yA>Wole Awolola</a>",
-  "num_followers": 12523,
+  "num_followers": 12528,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-10-18 00:01:00",
+      "added_at": "2025-02-21 00:01:28",
       "album": {
-        "name": "At\u025b\u025bne (Overturned)",
-        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck"
       },
       "artists": [
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 278493,
-      "name": "At\u025b\u025bne - Overturned",
-      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
+      "duration_ms": 297094,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -437,20 +437,20 @@
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
     },
     {
-      "added_at": "2025-02-21 00:01:28",
+      "added_at": "2024-10-18 00:01:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck"
+        "name": "At\u025b\u025bne (Overturned)",
+        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 297094,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk"
+      "duration_ms": 278493,
+      "name": "At\u025b\u025bne - Overturned",
+      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -617,24 +617,20 @@
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
+      "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Oba Awon Oba",
-        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
+        "name": "El-Roi",
+        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 733135,
-      "name": "Oba Awon Oba",
-      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+      "duration_ms": 224070,
+      "name": "El-Roi",
+      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -657,20 +653,24 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
+      "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "El-Roi",
-        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 224070,
-      "name": "El-Roi",
-      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Mum Does the Washing EP",
-        "url": "https://open.spotify.com/album/3EGVHi8RO2XZzfpI6SmM9C"
-      },
-      "artists": [
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        },
-        {
-          "name": "The Social Singing Choir",
-          "url": "https://open.spotify.com/artist/357xJ6cz2aICpIdrRt5LsD"
-        }
-      ],
-      "duration_ms": 218370,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/4jKE8iBxRkU7clFMh8B3wv"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -803,6 +783,26 @@
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Mum Does the Washing EP",
+        "url": "https://open.spotify.com/album/3EGVHi8RO2XZzfpI6SmM9C"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        },
+        {
+          "name": "The Social Singing Choir",
+          "url": "https://open.spotify.com/artist/357xJ6cz2aICpIdrRt5LsD"
+        }
+      ],
+      "duration_ms": 218370,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/4jKE8iBxRkU7clFMh8B3wv"
     },
     {
       "added_at": "2024-12-20 00:01:07",
@@ -905,6 +905,30 @@
       "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
     },
     {
+      "added_at": "2025-02-14 00:01:10",
+      "album": {
+        "name": "The Way You Love Me",
+        "url": "https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ"
+      },
+      "artists": [
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "Victoria Olorunsola",
+          "url": "https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8"
+        }
+      ],
+      "duration_ms": 365688,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Angel",
@@ -959,30 +983,6 @@
       "duration_ms": 329038,
       "name": "Ever Present Help",
       "url": "https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa"
-    },
-    {
-      "added_at": "2025-02-14 00:01:10",
-      "album": {
-        "name": "The Way You Love Me",
-        "url": "https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ"
-      },
-      "artists": [
-        {
-          "name": "Hi-Bred",
-          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
-        },
-        {
-          "name": "Manus Akpanke",
-          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
-        },
-        {
-          "name": "Victoria Olorunsola",
-          "url": "https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8"
-        }
-      ],
-      "duration_ms": 365688,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC"
     }
   ],
   "unique_name": "Redeemed",

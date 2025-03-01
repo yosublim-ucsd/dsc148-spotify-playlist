@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Oldschool Love",
+        "url": "https://open.spotify.com/album/10c6iETu0ndVfdhSQjePUr"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Another Goodbye",
+      "url": "https://open.spotify.com/track/61KNyzpL7sR3Cq1F5lSOYy"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/0z4EQCJXUF6RgBkHW7oe8q"
       },

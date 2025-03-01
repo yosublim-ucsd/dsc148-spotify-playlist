@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Nerve
 
-1,095 songs - 2 day 2 hr 51 min
+1,096 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,6 +1101,7 @@
 | [Zig Zag](https://open.spotify.com/track/2GGw0wjN69VPv3vG7HlB7L) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS), [David Dallas](https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP), [Matt Miller](https://open.spotify.com/artist/5Hf1S0hNXMXRQPwKPDAhPg) | [Zig Zag](https://open.spotify.com/album/47OVuVAQGAh99TsC3idaSA) | 5:36 | 2024-08-01 | 2024-12-20 |
 | [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 | 2022-06-24 |
 | [ZIP!](https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK) | [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp) | [ZIP!](https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF) | 3:23 | 2022-08-04 | 2022-10-28 |
+| [ZIZOU](https://open.spotify.com/track/7xKhz7mg2TwIkbIL8OBdQO) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc) | [ZIZOU](https://open.spotify.com/album/0mMCfD08eXsuBvHFfyGeCy) | 2:08 | 2025-02-27 |  |
 | [ZOO](https://open.spotify.com/track/69SxBTkncnh6QvB04uCRdW) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [ZOO](https://open.spotify.com/album/3HdToTf2aOy02Onz7g6hVF) | 2:10 | 2025-01-23 | 2025-02-28 |
 | [ËGO DEATH](https://open.spotify.com/track/6zDUa7wgmL66D559pS8Fgz) | [Legend](https://open.spotify.com/artist/0QPs4yr2Za9ekUQqcbPYJW), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [PSYCHËDËLIC](https://open.spotify.com/album/5zZOFvn7XR3vghsKg7Pj0Y) | 2:33 | 2023-03-02 | 2023-04-21 |
 

@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-168 songs - 10 hr 53 min
+170 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dhum Dhum](https://open.spotify.com/track/1sbN1MjimsFa2H5OarO9v7) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Dhum Dhum](https://open.spotify.com/album/2PYMBUyUHqjcOAmtzVjuef) | 2:13 | 2023-12-01 |  |
 | [Dil Toro](https://open.spotify.com/track/7GSubbXMS1qDpgREc0CTay) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF) | [Dil Toro](https://open.spotify.com/album/1TORhlWJHG8n56TNZ7rqGK) | 2:40 | 2023-10-27 | 2023-12-09 |
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-08-18 |  |
+| [Dlala iDhol](https://open.spotify.com/track/3Sfnlko5zWFLk0c1tlhFBG) | [DJ HABIBEATS](https://open.spotify.com/artist/6TuJEVeUBF7uFjMWiMX0st), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [AKU](https://open.spotify.com/artist/5GTMVApm4eVMVUOgC8RcqU) | [Dlala iDhol](https://open.spotify.com/album/7Fi9dklycWbjTYJV7o5v2v) | 4:21 | 2025-02-28 |  |
 | [Dola re Dola](https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Dola re Dola](https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le) | 2:05 | 2024-02-13 |  |
 | [Doya](https://open.spotify.com/track/3nX9vs2V0CqAsqEkp5Vhb2) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Doya](https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl) | 3:24 | 2023-08-18 |  |
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-09 |  |
@@ -83,6 +84,7 @@
 | [Lovers' Eyes \(Mohe Pi Ki Najariya\)](https://open.spotify.com/track/2qp8o5yorN2asDn5dzHrBA) | [Damian Lazarus & The Ancient Moons](https://open.spotify.com/artist/6eWDcQUkr1JSLQLn5j6dsc), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [Lovers' Eyes \(Mohe Pi Ki Najariya\)](https://open.spotify.com/album/2NCe5GUQ8q8zG66E3kqnBo) | 7:24 | 2023-08-18 | 2023-11-02 |
 | [Maghron La \- MEMBA Remix](https://open.spotify.com/track/5ejdfhq9BHWvcQz6yBrxMS) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Maghron La \(MEMBA Remix\)](https://open.spotify.com/album/1uyxGSu8dZa0nBtzJeMHoL) | 3:41 | 2024-06-13 |  |
 | [Majboor](https://open.spotify.com/track/3khRHFULh5efPYYZXA2WVN) | [SIDD](https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU) | [Majboor](https://open.spotify.com/album/0IXHw1HdF5kDWUFLS2IMMH) | 4:05 | 2023-08-18 |  |
+| [Majnu](https://open.spotify.com/track/7wdiJaU05bn8IWZbgf2dXi) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2) | [Majnu](https://open.spotify.com/album/5PcA43bBiBxWwA5FAeBx3h) | 4:30 | 2025-02-28 |  |
 | [Manhattan Sapphire](https://open.spotify.com/track/5E7xjbHEpceuz9Ty9T8RhV) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Cinematronics](https://open.spotify.com/album/3NceIVrPMO2TScygYXcqE7) | 3:56 | 2023-08-18 | 2024-04-20 |
 | [Masala Riddim](https://open.spotify.com/track/1KlRHauzCYhLQbNi3z9RWa) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Masala Riddims](https://open.spotify.com/album/4zDlZJIdFd2jjQnOLAgsjf) | 2:26 | 2023-08-18 |  |
 | [Mehmaan](https://open.spotify.com/track/18Eu9puOprFj4acahSyF1d) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF), [Raitila Rajasthan](https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:50 | 2024-03-22 |  |

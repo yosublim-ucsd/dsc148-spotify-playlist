@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 87086,
+  "num_followers": 87105,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Vroom Vroom EP",
         "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 171808,
-      "name": "Kismet",
-      "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "food house",
         "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 247917,
       "name": "mos thoser",
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Kismet",
+      "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+        "name": "Be Your USA",
+        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "Finn Keane",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        },
+        {
+          "name": "Iiris",
+          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
         }
       ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+      "duration_ms": 173000,
+      "name": "Be Your USA",
+      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Be Your USA",
-        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
       },
       "artists": [
         {
-          "name": "Finn Keane",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        },
-        {
-          "name": "Iiris",
-          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Be Your USA",
-      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Whatuworried4?",
         "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155506,
       "name": "Whatuworried4?",
       "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 127634,
       "name": "clueless",
       "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "hot_babe_93",
-        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "search result",
         "url": "https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 213770,
       "name": "popular",
       "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "hot_babe_93",
+        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
     },
     {
       "added_at": "2024-10-09 21:55:22",

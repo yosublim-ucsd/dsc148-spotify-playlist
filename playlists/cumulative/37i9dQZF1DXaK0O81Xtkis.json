@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: ROLE MODEL",
+  "description": "a little indie, a little pop.  Cover: Moody Joody",
   "name": "soda",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 187790,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3cujAh2dkSNiQvUXtFUJXi"
@@ -1036,6 +1036,24 @@
       "duration_ms": 221693,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "album": {
+        "name": "Almost, So Close, Maybe",
+        "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167404,
+      "name": "Almost, So Close, Maybe",
+      "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
     },
     {
       "album": {
@@ -2343,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "album": {
         "name": "Blind (feat. Keiynan Lonsdale)",
         "url": "https://open.spotify.com/album/2lzrgCaMxKjwNqfHkGsc8x"
       },
@@ -3378,7 +3418,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 189000,
       "name": "Carpet Burn",
       "url": "https://open.spotify.com/track/4w8s45oHwAFUl1wUpe1wGY"
@@ -3490,7 +3530,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156093,
       "name": "caught in the middle",
       "url": "https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH"
@@ -3768,6 +3808,24 @@
       "duration_ms": 162645,
       "name": "chuck taylors",
       "url": "https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6"
+    },
+    {
+      "album": {
+        "name": "Church and State",
+        "url": "https://open.spotify.com/album/2X4YFDmoarpwznphcY7mfk"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Church and State",
+      "url": "https://open.spotify.com/track/0wfT5cdXCw2jRsrOfAMf44"
     },
     {
       "album": {
@@ -5251,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
+      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
@@ -5545,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Dog",
+        "url": "https://open.spotify.com/album/3hgcOIKEyNobZgWQx37S4R"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/1zFHYaaONgPobW6xRGfHO6"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
       },
@@ -5635,6 +5729,32 @@
     },
     {
       "album": {
+        "name": "Don't Take The Night",
+        "url": "https://open.spotify.com/album/04Ss9muqWdaSGvYBCWvEoA"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229193,
+      "name": "Don't Take The Night",
+      "url": "https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA"
+    },
+    {
+      "album": {
         "name": "don't wanna be your friend",
         "url": "https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr"
       },
@@ -5686,6 +5806,24 @@
       "duration_ms": 164441,
       "name": "Don\u2019t You Dare",
       "url": "https://open.spotify.com/track/15OXdwbUlsHhyaEfqSxlZJ"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2r1cYTPuOuLvnrjohl3oCm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158019,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1pfTGBVU8eX4UVeneRsha0"
     },
     {
       "album": {
@@ -7063,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/5OxTFiOg5nhW9vNORBRnH4"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179909,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/31sd4RTKme8KedlimbNmy1"
+    },
+    {
+      "album": {
         "name": "Forgot About You",
         "url": "https://open.spotify.com/album/64f35H4RwwAQ2h03NNSRHj"
       },
@@ -7374,6 +7530,24 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
+        "name": "The Panic Years",
+        "url": "https://open.spotify.com/album/0M3xqVe90FoHmnvTOrn02W"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150933,
+      "name": "Getting Clear",
+      "url": "https://open.spotify.com/track/2bZQiLRMHEbwZXAi1VkJWP"
     },
     {
       "album": {
@@ -9887,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "I Keep On Messing It Up",
+        "url": "https://open.spotify.com/album/03kfZ6iKeJfyJkYPAvt8py"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163060,
+      "name": "I Keep On Messing It Up",
+      "url": "https://open.spotify.com/track/3dGU74UBKhHkeCAO8kyyPK"
+    },
+    {
+      "album": {
         "name": "I Like That",
         "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
       },
@@ -11776,6 +11968,24 @@
       "duration_ms": 190033,
       "name": "Last Time We Never Meet Again",
       "url": "https://open.spotify.com/track/4mKQ5jwuUvusHUVoLsOIHA"
+    },
+    {
+      "album": {
+        "name": "Late Night Ice Cream",
+        "url": "https://open.spotify.com/album/75Xbk4IiWmWAZJkKAdcucL"
+      },
+      "artists": [
+        {
+          "name": "CARYS",
+          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183143,
+      "name": "Late Night Ice Cream",
+      "url": "https://open.spotify.com/track/57Mz642YGYABud8wit0FzT"
     },
     {
       "album": {
@@ -17284,7 +17494,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 130043,
       "name": "Seth Cohen",
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
@@ -18190,6 +18400,24 @@
       "duration_ms": 179333,
       "name": "sophisticated",
       "url": "https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG"
+    },
+    {
+      "album": {
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "album": {
@@ -19573,6 +19801,24 @@
     },
     {
       "album": {
+        "name": "Talk Me Down",
+        "url": "https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172854,
+      "name": "Talk Me Down",
+      "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
+    },
+    {
+      "album": {
         "name": "Talk to You",
         "url": "https://open.spotify.com/album/0vOzCiEnmb6tFYeDCPfHDb"
       },
@@ -19758,6 +20004,24 @@
       "duration_ms": 121687,
       "name": "that's how it goes",
       "url": "https://open.spotify.com/track/5Agb6psLvZTVv1QxfZR73X"
+    },
+    {
+      "album": {
+        "name": "That's Life, Baby!",
+        "url": "https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172879,
+      "name": "That's Life, Baby!",
+      "url": "https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c"
     },
     {
       "album": {

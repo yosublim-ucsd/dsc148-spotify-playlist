@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "ATTITUDE",
+        "url": "https://open.spotify.com/album/3OzfQT3HXKSMWWZYRwp4bN"
+      },
+      "artists": [
+        {
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
+        },
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176015,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/6SX2HQYSAtdHL4z9ooKgfg"
+    },
+    {
+      "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf"
       },
@@ -4026,6 +4048,28 @@
       "duration_ms": 137931,
       "name": "Original\u00e9",
       "url": "https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ"
+    },
+    {
+      "album": {
+        "name": "FLYVENDE P\u00c5 LIFE",
+        "url": "https://open.spotify.com/album/7hFuhZ4tD7nT31f09m0jkj"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB"
+        },
+        {
+          "name": "Abcitoo",
+          "url": "https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "OSLO",
+      "url": "https://open.spotify.com/track/11fNOD56GEBFAydSoDNTzi"
     },
     {
       "album": {

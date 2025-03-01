@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-259 songs - 13 hr 16 min
+260 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Fuera de Lugar](https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9) | [Botijo](https://open.spotify.com/artist/3z2FFbYE0YeU7FddwT3iBu) | [Fuera de Lugar](https://open.spotify.com/album/7DXcd7kx5qZ5Ig7G3YW5XG) | 3:41 | 2024-07-19 | 2024-09-14 |
 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 | 2024-02-08 | 2024-03-13 |
 | [Generación Enferma](https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Generación Enferma](https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb) | 2:46 | 2024-07-12 | 2024-10-04 |
+| [Gente de Bien](https://open.spotify.com/track/10UptxiVMR6usebUtTsLbS) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Gente de Bien](https://open.spotify.com/album/33sSPx1izCb8SVgK3fQhmA) | 2:08 | 2025-02-27 |  |
 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 | 2024-02-08 | 2024-04-19 |
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
 | [Grano pus](https://open.spotify.com/track/6UVWLQVawmVr9Eq2vyp6tZ) | [Tomate mature](https://open.spotify.com/artist/06He1OH8vET1FciGCjJlBo) | [Grano pus](https://open.spotify.com/album/1mEJFI0oi7RNNIl5b2jUZY) | 2:33 | 2025-01-20 | 2025-02-14 |
@@ -215,7 +216,7 @@
 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 | 2024-04-04 |  |
 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 | 2023-12-08 | 2024-01-19 |
 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 | 2023-12-08 | 2024-09-14 |
-| [Resistiré](https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF) | 3:47 | 2024-06-20 |  |
+| [Resistiré](https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF) | 3:47 | 2024-06-20 | 2025-03-01 |
 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 | 2023-12-08 | 2024-04-19 |
 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 | 2024-11-21 |  |
 | [Sabor a Plomo](https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0) | [Belial](https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28) | [Sabor a Plomo](https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh) | 3:19 | 2024-09-13 | 2025-01-04 |

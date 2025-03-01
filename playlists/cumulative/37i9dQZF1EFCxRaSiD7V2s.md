@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-343 songs - 17 hr 53 min
+344 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Problematic Fave](https://open.spotify.com/track/7EuV5uuPeTjFMIRt2h3ez5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Joanna Robinson](https://open.spotify.com/artist/0JNSTXiDN0flYXAHdlFLF1), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:16 | 2021-12-27 |  |
 | [Prophecy Girl](https://open.spotify.com/track/51B16CRlR4CA2DKcDcT84X) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:06 | 2021-12-27 |  |
 | [Real Me](https://open.spotify.com/track/1hb06BYx5Uks5TBDe5VWqR) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Gaby Dunn](https://open.spotify.com/artist/1lbR00rHJ0TVEIkMY4ZIRE) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:08 | 2021-12-27 |  |
-| [Red Light](https://open.spotify.com/track/07jUow1BuO6Iv7iPh5Rw55) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M) | [Red Light](https://open.spotify.com/album/7l4gOyQINg8zoHWhlbVSOy) | 4:45 | 2021-12-27 |  |
+| [Red Light](https://open.spotify.com/track/07jUow1BuO6Iv7iPh5Rw55) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M) | [Red Light](https://open.spotify.com/album/7l4gOyQINg8zoHWhlbVSOy) | 4:45 | 2021-12-27 | 2025-03-01 |
+| [Red Light \- Single Version](https://open.spotify.com/track/0TELwC3SC1E3zCYH6cDpAA) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M) | [Red Light](https://open.spotify.com/album/0eUpHPT6p4yF67xHqhwlsk) | 4:45 | 2025-02-28 |  |
 | [Reptile Boy](https://open.spotify.com/track/6ZPvZ0xq3Tg9YGikHaD1Cq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:16 | 2021-12-27 |  |
 | [Restless](https://open.spotify.com/track/25BLzHxHeMOXRAktMFPuL2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:55 | 2021-12-27 |  |
 | [Revelations](https://open.spotify.com/track/6LYVAE6LfsAG0NLXFxl6DR) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:40 | 2021-12-27 |  |

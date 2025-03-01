@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 250786,
       "name": "Como te voy a olvidar",
       "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 159900,
       "name": "El WhatsApp - Remix",
       "url": "https://open.spotify.com/track/0MDlIAcp1uuaf77uBUmnjh"
@@ -3309,6 +3309,28 @@
     },
     {
       "album": {
+        "name": "Llego el Verano",
+        "url": "https://open.spotify.com/album/0JlCZjXB8rlXnbO9EEwmpc"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "El Menorcito",
+          "url": "https://open.spotify.com/artist/6Iprh29CKL9W8jXWXthxM7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112915,
+      "name": "Llego el Verano",
+      "url": "https://open.spotify.com/track/0so7ejHtVsoxIFX6E91wp1"
+    },
+    {
+      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -3500,6 +3522,32 @@
       "duration_ms": 150218,
       "name": "Mari y Juana",
       "url": "https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT"
+    },
+    {
+      "album": {
+        "name": "Mashup de Barrio",
+        "url": "https://open.spotify.com/album/77YDQqFKOLwdrhm4dpDlrn"
+      },
+      "artists": [
+        {
+          "name": "Hacelo Kumbia",
+          "url": "https://open.spotify.com/artist/2ovB7PjAPMTfJKkcBlWV2g"
+        },
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        },
+        {
+          "name": "Lucas Bunnker",
+          "url": "https://open.spotify.com/artist/1AIGPpwjs3zZXT7cJIYEOM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189416,
+      "name": "Mashup de Barrio",
+      "url": "https://open.spotify.com/track/4LJoAL77J5B5VKfSnl26yw"
     },
     {
       "album": {
@@ -5028,7 +5076,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
@@ -5438,6 +5486,24 @@
       "duration_ms": 191680,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
+    },
+    {
+      "album": {
+        "name": "Suena mi bajo cumbiero",
+        "url": "https://open.spotify.com/album/6SHIKw1XRRlRpYO3eipXlC"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234315,
+      "name": "Suena mi bajo cumbiero",
+      "url": "https://open.spotify.com/track/1GyYBfenfRo0DTgY4dDyGU"
     },
     {
       "album": {

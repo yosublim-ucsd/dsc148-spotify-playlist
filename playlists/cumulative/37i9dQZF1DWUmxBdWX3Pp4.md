@@ -4,7 +4,7 @@
 
 > Éxitos del trap latino con Arcangel.
 
-512 songs - 1 day 4 hr 45 min
+513 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Ropita Europea](https://open.spotify.com/track/1Mm8wiKEBryswVSnI6bEkb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Ropita Europea](https://open.spotify.com/album/5IakfukxkOh2OlVEAN4OUM) | 2:49 | 2025-01-24 |  |
 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 | 2022-04-15 | 2022-06-04 |
 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 | 2022-03-04 | 2022-06-04 |
+| [RPIÑATA](https://open.spotify.com/track/0rOK8UFEzSA7bd88Y7yYzS) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [RPIÑATA](https://open.spotify.com/album/2IHPnFXqGl8esdY2We9lM3) | 2:45 | 2025-02-28 |  |
 | [Ruleta](https://open.spotify.com/track/3Vv3mvIbY45MFMowOz4odr) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Ruleta](https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0) | 2:21 | 2024-12-13 |  |
 | [Samuleto](https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:13 | 2023-06-16 | 2023-10-14 |
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2021-12-06 | 2022-04-16 |

@@ -15533,6 +15533,24 @@
     },
     {
       "album": {
+        "name": "Normale",
+        "url": "https://open.spotify.com/album/0w63BJvHhaTWDP8Chgzjo7"
+      },
+      "artists": [
+        {
+          "name": "Cosmetic",
+          "url": "https://open.spotify.com/artist/4C6fXZ7soCX4ycsXguZ1zE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101058,
+      "name": "Normale",
+      "url": "https://open.spotify.com/track/6up7k5hPKAKLl064FPdd57"
+    },
+    {
+      "album": {
         "name": "NORMALI",
         "url": "https://open.spotify.com/album/0jJQ1UaAoFggNHt8T3NYCj"
       },

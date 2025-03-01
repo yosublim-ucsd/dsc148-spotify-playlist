@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-149 songs - 8 hr 1 min
+150 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 | 2023-08-18 |  |
 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 | 2023-03-17 |  |
 | [Can't Take My Hometown](https://open.spotify.com/track/0ebCxstXoGh2gQ81SaRCku) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Pour Decisions](https://open.spotify.com/album/58ChYckljCDpVg5HEHecaM) | 4:35 | 2023-07-14 | 2024-09-21 |
+| [Candle](https://open.spotify.com/track/4rkxahIIMkM9Fr13vbAcTm) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Candle](https://open.spotify.com/album/0Gyq0My9Ft0vWtyiPUQRez) | 2:51 | 2025-02-28 |  |
 | [Cheatham County](https://open.spotify.com/track/29ad3oJC56R3hFO9XKSDgb) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Cheatham County](https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4) | 2:47 | 2023-03-17 |  |
 | [Chop An Axe](https://open.spotify.com/track/2pxzoKcBWd7rqrL63dnyqS) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/6FKwrKJ0Um0vgctjndxLNF) | 2:33 | 2023-04-21 | 2024-04-19 |
 | [Chop An Axe](https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/7xF5E4uHp1lOUXJFdTcBrb) | 2:33 | 2023-03-17 |  |

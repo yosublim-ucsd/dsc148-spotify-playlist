@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Melly",
   "name": "Palco POP",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 167076,
       "name": "7AM",
       "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
@@ -2102,6 +2102,24 @@
       "duration_ms": 204444,
       "name": "Balan\u00e7a Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
+    },
+    {
+      "album": {
+        "name": "Balan\u00e7o do Mar",
+        "url": "https://open.spotify.com/album/2ogfJELPATIaEM4F4Z70rQ"
+      },
+      "artists": [
+        {
+          "name": "Tavin",
+          "url": "https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135849,
+      "name": "Balan\u00e7o do Mar",
+      "url": "https://open.spotify.com/track/5xK43opUTLT5eZeDvfYD51"
     },
     {
       "album": {
@@ -4981,6 +4999,32 @@
     },
     {
       "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144372,
+      "name": "Derreter & Suar - Remix",
+      "url": "https://open.spotify.com/track/7lK6SVY3JPTWvDj7G1C5DP"
+    },
+    {
+      "album": {
         "name": "Desce Novinha",
         "url": "https://open.spotify.com/album/7GLm0XGPioTe7CdTRUKOED"
       },
@@ -6580,6 +6624,24 @@
       "duration_ms": 130677,
       "name": "FAMOZIN",
       "url": "https://open.spotify.com/track/0zFDNAzOo2bRp16A5enPC5"
+    },
+    {
+      "album": {
+        "name": "Fanfic de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fanfic de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
     },
     {
       "album": {
@@ -8344,7 +8406,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 202549,
       "name": "INFAME",
       "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
@@ -9807,6 +9869,24 @@
     },
     {
       "album": {
+        "name": "Manifesta\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162321,
+      "name": "Manifesta\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF"
+    },
+    {
+      "album": {
         "name": "Mant\u00e9m",
         "url": "https://open.spotify.com/album/2e15uAU6zg3r8zAUlFKv0G"
       },
@@ -10313,6 +10393,32 @@
     },
     {
       "album": {
+        "name": "Me Pede",
+        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156090,
+      "name": "Me Pede",
+      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
+    },
+    {
+      "album": {
         "name": "Me Tira de Loka",
         "url": "https://open.spotify.com/album/6Q42zlCZzZ9nyhjXcrlfL9"
       },
@@ -10412,10 +10518,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213999,
       "name": "Melhor N\u00e3o",
       "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "album": {
+        "name": "Melhor Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6J2FSHWn2I4GAazjurgxYV"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179594,
+      "name": "Melhor Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/059VjhItSXQXp4mRMHrvBi"
     },
     {
       "album": {
@@ -11402,7 +11526,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 234820,
       "name": "NECTAR",
       "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
@@ -12426,7 +12550,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 124887,
       "name": "Oi Xod\u00f3zinho",
       "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
@@ -13116,7 +13240,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170916,
       "name": "PELADA",
       "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
@@ -13288,7 +13412,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 186122,
       "name": "Perigosa",
       "url": "https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS"
@@ -15312,7 +15436,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 178909,
       "name": "Raro Veneno",
       "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
@@ -15364,6 +15488,28 @@
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/2e5eqvR4bgZoPEuJzS2w02"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148692,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM"
     },
     {
       "album": {
@@ -15846,7 +15992,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
@@ -16122,7 +16268,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165487,
       "name": "Se eu usasse sapato",
       "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
@@ -16844,7 +16990,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142153,
       "name": "Solteiro",
       "url": "https://open.spotify.com/track/15Bd3CJap4qGbB0VRGBEs7"
@@ -17350,7 +17496,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 234730,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z"
@@ -17408,6 +17554,32 @@
       "duration_ms": 171536,
       "name": "S\u00f3 Minha",
       "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
+        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137738,
+      "name": "S\u00f3zin",
+      "url": "https://open.spotify.com/track/0QRnYbGiAwdpe9jfA6YF6o"
     },
     {
       "album": {

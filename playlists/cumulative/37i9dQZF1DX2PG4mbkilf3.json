@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Chxrry22 from Scarborough, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Avenoir from Edmonton, AB.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1556,6 +1556,24 @@
       "duration_ms": 153403,
       "name": "ARENA Y MAR",
       "url": "https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO"
+    },
+    {
+      "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
     },
     {
       "album": {
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 196875,
       "name": "Can't Be Friends",
       "url": "https://open.spotify.com/track/1YBauyKmojnaEzspqSedxc"
@@ -4551,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "She.",
+        "url": "https://open.spotify.com/album/7ea6ovpmCWabkOLO9zVpTQ"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Cry About",
+      "url": "https://open.spotify.com/track/3uWuireg1jl0m6EaTGu3G8"
+    },
+    {
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/5kLXDsZRTG2vDhEcQ0uHWu"
       },
@@ -4804,6 +4840,24 @@
       "duration_ms": 191699,
       "name": "Deeper Than",
       "url": "https://open.spotify.com/track/1bYZBYoByapdkzprIjpbzH"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/54jqmoel8ftetKxgVqOm4Y"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6tqYJAGb9kNd4gArjNwkze"
     },
     {
       "album": {
@@ -6846,7 +6900,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156000,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
@@ -8022,7 +8076,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204615,
       "name": "Gold Filigree",
       "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
@@ -10610,7 +10664,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190467,
       "name": "JAI'S SONG (FALLING) - PT. 2",
       "url": "https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3"
@@ -11893,6 +11947,24 @@
     },
     {
       "album": {
+        "name": "\u4e00",
+        "url": "https://open.spotify.com/album/1JhvivCnXEpWf5f2Xq7hO5"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212965,
+      "name": "Like Nobody Does",
+      "url": "https://open.spotify.com/track/6TRmk0QPUR6AvgWhjWZKUD"
+    },
+    {
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/3M9hNGeopiVi6Dzww2GBlX"
       },
@@ -11940,7 +12012,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183697,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn"
@@ -12609,6 +12681,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2xiJUf2K19Z26khLMFa5JR"
+      },
+      "artists": [
+        {
+          "name": "AHSIA",
+          "url": "https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/194JshMuASLguks1zrdioo"
+    },
+    {
+      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
@@ -12708,6 +12798,24 @@
       "duration_ms": 281099,
       "name": "Lying (feat. Dylan Sinclair)",
       "url": "https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY"
+    },
+    {
+      "album": {
+        "name": "M A T R I A R C H",
+        "url": "https://open.spotify.com/album/2Pe2h7AO2EcbUWMPuV3LpY"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "M A T R I A R C H",
+      "url": "https://open.spotify.com/track/7DIjKCtWAIaFtVNqw94P4q"
     },
     {
       "album": {
@@ -15315,6 +15423,24 @@
     },
     {
       "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149483,
+      "name": "One Gripe",
+      "url": "https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA"
+    },
+    {
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
       },
@@ -15334,6 +15460,28 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME (TRY)",
+        "url": "https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168663,
+      "name": "ONE MORE TIME (TRY)",
+      "url": "https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw"
     },
     {
       "album": {
@@ -16638,7 +16786,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 154212,
       "name": "Poppin Out (Mistakes)",
       "url": "https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL"
@@ -16716,7 +16864,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -17787,6 +17935,24 @@
     },
     {
       "album": {
+        "name": "Suite 96 (Side A)",
+        "url": "https://open.spotify.com/album/5qC3HhQcxno1tkVDe9ttyg"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "ROOM SERVICE",
+      "url": "https://open.spotify.com/track/7wedmrpvuQP7k15akC0cNk"
+    },
+    {
+      "album": {
         "name": "Rounds",
         "url": "https://open.spotify.com/album/5xn4T5fEYlezz3foZQ7NZT"
       },
@@ -18584,7 +18750,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190270,
       "name": "she want prada",
       "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
@@ -23074,7 +23240,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 115920,
       "name": "Uuugly",
       "url": "https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs"

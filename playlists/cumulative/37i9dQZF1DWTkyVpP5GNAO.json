@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: \nIngrid Rosario",
-  "name": "Alabanza y Gloria",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: Barak",
+  "name": "Alabanzas y Gloria",
   "tracks": [
     {
       "album": {
@@ -64,6 +64,28 @@
       "duration_ms": 474183,
       "name": "A Casa",
       "url": "https://open.spotify.com/track/6sQa7qnVaqw734q8xcGSVz"
+    },
+    {
+      "album": {
+        "name": "Al Estar Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2ctVrNinE7Ix0EC5i3Z7j6"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3BSxwiVD3Pw2Vw8edigkHE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252765,
+      "name": "Al Estar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk"
     },
     {
       "album": {
@@ -173,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Cristo El Rey (Deluxe)",
+        "url": "https://open.spotify.com/album/29e020Sao0PS3LTcRXTiGo"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387992,
+      "name": "AMIGO (Deluxe)",
+      "url": "https://open.spotify.com/track/5xfk9XpiLmO3gObKrEj2Jf"
+    },
+    {
+      "album": {
         "name": "Amor Inagotable (En Vivo)",
         "url": "https://open.spotify.com/album/2EizibPXLaMOyxeOMRwHPh"
       },
@@ -209,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Habita",
+        "url": "https://open.spotify.com/album/2bnlTzTwl1xdPV263gBohI"
+      },
+      "artists": [
+        {
+          "name": "Dahaira",
+          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508555,
+      "name": "Aqu\u00ed Habita",
+      "url": "https://open.spotify.com/track/7Jj9m2skG6PQhSXGtoaEIQ"
+    },
+    {
+      "album": {
         "name": "Autor de Vida (Autor da Vida)",
         "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
       },
@@ -224,6 +286,24 @@
       "duration_ms": 296578,
       "name": "Autor de Vida (Autor da Vida)",
       "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
+    },
+    {
+      "album": {
+        "name": "Bendice Alma M\u00eda",
+        "url": "https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284855,
+      "name": "Bendice Alma M\u00eda",
+      "url": "https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW"
     },
     {
       "album": {
@@ -755,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Dios Fuerte",
+        "url": "https://open.spotify.com/album/7ksMtOqkJt5urr5XejIDOH"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460374,
+      "name": "Dios Fuerte",
+      "url": "https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB"
+    },
+    {
+      "album": {
         "name": "Despierta Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
       },
@@ -1206,7 +1304,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221086,
       "name": "Gracias Dios (I Thank God)",
       "url": "https://open.spotify.com/track/6y5X5hmwqGg9CEFXqoxBYs"
@@ -1490,7 +1588,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 305981,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG"
@@ -1599,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "La Gloria de Dios",
+        "url": "https://open.spotify.com/album/45PuiNYqTXdVOZgrwnU5JA"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310312,
+      "name": "La Gloria de Dios",
+      "url": "https://open.spotify.com/track/0FdSlQwlCWyQkf3NmO5TIa"
+    },
+    {
+      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1628,7 +1744,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 406184,
       "name": "La Tierra Canta",
       "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
@@ -1708,6 +1824,32 @@
       "duration_ms": 377306,
       "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
       "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
+    },
+    {
+      "album": {
+        "name": "Lo Llenas Todo (Live)",
+        "url": "https://open.spotify.com/album/4egbP162nIoz9nNoV9ouO9"
+      },
+      "artists": [
+        {
+          "name": "ALISON",
+          "url": "https://open.spotify.com/artist/5hcLUzxAKz36q0NYnfspOj"
+        },
+        {
+          "name": "Hope W Music",
+          "url": "https://open.spotify.com/artist/0EmliyVpOhBPUadxwy5n2u"
+        },
+        {
+          "name": "Junior Ponciano",
+          "url": "https://open.spotify.com/artist/49mfCrdzaHxwtjkMQCq2m2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627076,
+      "name": "Lo Llenas Todo - Live",
+      "url": "https://open.spotify.com/track/5R7Oaj3keucFeCu0cyZSRE"
     },
     {
       "album": {
@@ -2700,7 +2842,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 366081,
       "name": "Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1"
@@ -2923,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "R\u00cdO (Ezequiel 47)",
+        "url": "https://open.spotify.com/album/1t2i5krMF3OM4A79NzqKWH"
+      },
+      "artists": [
+        {
+          "name": "Lorens Salcedo",
+          "url": "https://open.spotify.com/artist/0jE7MuW4BnzjciUx3nTJYH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 960095,
+      "name": "R\u00cdO (Ezequiel 47)",
+      "url": "https://open.spotify.com/track/47pytCnm4f1v9Z7pGDNktg"
+    },
+    {
+      "album": {
         "name": "Se\u00f1or, Te Necesito",
         "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
       },
@@ -2938,7 +3098,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204167,
       "name": "Se\u00f1or, Te Necesito",
       "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
@@ -3247,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/2fIMmCVZnk42txWxSXAzmQ"
+      },
+      "artists": [
+        {
+          "name": "Humill\u00e9",
+          "url": "https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22"
+        },
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353224,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/3dgOIMtXGVUDsgVo0evmuY"
+    },
+    {
+      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
@@ -3280,7 +3462,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 659554,
       "name": "Tu Sangre",
       "url": "https://open.spotify.com/track/2L8Us5UApjGOm5jutj6gcR"
@@ -3443,6 +3625,28 @@
     },
     {
       "album": {
+        "name": "Vencido (Live)",
+        "url": "https://open.spotify.com/album/2kh9Yrv0RwSEpiRYxKbgjV"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499186,
+      "name": "Vencido - Live",
+      "url": "https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A"
+    },
+    {
+      "album": {
         "name": "vibraciones",
         "url": "https://open.spotify.com/album/0B9yE3RrtvowCLX10rRf7Y"
       },
@@ -3484,6 +3688,24 @@
       "duration_ms": 312536,
       "name": "Vibraciones",
       "url": "https://open.spotify.com/track/7H40dIIXn7X9LBAgiFfMzy"
+    },
+    {
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/7rGPSgS15y17PGCiecnrFF"
+      },
+      "artists": [
+        {
+          "name": "Anna Blasco",
+          "url": "https://open.spotify.com/artist/67ANV54MfHMt2nccdtkMHr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204300,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/7vJZxMZnfd3LRu6F8eNYbl"
     },
     {
       "album": {

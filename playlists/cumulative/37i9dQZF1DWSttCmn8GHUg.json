@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "American Soundtrack",
+        "url": "https://open.spotify.com/album/7FSgt7AaPhKtFnrob9ZG5d"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204548,
+      "name": "American Soundtrack",
+      "url": "https://open.spotify.com/track/7fRQkoHa6U07mN0Cp8N6qT"
+    },
+    {
+      "album": {
         "name": "American Spirit",
         "url": "https://open.spotify.com/album/0LsvUfzHnLTeuyK4OmhvRv"
       },

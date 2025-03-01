@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-241 songs - 20 hr 56 min
+243 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 | 2022-09-09 |  |
 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 | 2022-10-15 | 2023-01-14 |
 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 | 2022-09-09 | 2023-03-18 |
-| [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8) | 5:37 | 2024-08-30 |  |
+| [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8) | 5:37 | 2024-08-30 | 2025-03-01 |
 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 | 2023-07-21 |  |
 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 | 2022-10-07 | 2025-01-28 |
 | [A Voz do Doce Espírito \- Ao Vivo](https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [A Voz do Doce Espírito \(Ao Vivo\)](https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj) | 5:51 | 2023-03-17 | 2023-08-19 |
@@ -96,6 +96,7 @@
 | [Eu Tenho uma Promessa](https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa](https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc) | 4:31 | 2024-04-19 | 2024-09-07 |
 | [Eu Vou na Frente](https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp) | [Nithael Alves](https://open.spotify.com/artist/7bJNPAbxZjdvFLQqdG0mOd) | [Eu Vou na Frente](https://open.spotify.com/album/2CxfBwzBDXCpgpfYZEtG1Z) | 4:39 | 2023-10-20 | 2023-11-04 |
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
+| [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 | 2025-02-28 |  |
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 | 2024-11-16 |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
@@ -119,7 +120,7 @@
 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 | 2023-02-25 | 2023-06-24 |
 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 | 2022-09-09 | 2023-02-25 |
 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 | 2022-10-28 | 2023-10-07 |
-| [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6) | 4:12 | 2024-11-08 |  |
+| [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6) | 4:12 | 2024-11-08 | 2025-03-01 |
 | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 | 2025-01-27 |  |
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-03-03 |  |
 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 | 2023-01-13 | 2023-03-04 |
@@ -248,6 +249,7 @@
 | [Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu) | [Momento Solene](https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Momento Solene \- Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD) | 8:30 | 2024-09-06 |  |
 | [É Adorar](https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [É Adorar](https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC) | 3:57 | 2024-04-19 |  |
 | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/4wzDrgn77tZpUKZYUTntix) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [É Assim Que Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/2gKrbdR2ccF6Xi5a5zxlDH) | 3:45 | 2024-06-14 | 2024-06-29 |
+| [É Inexplicável](https://open.spotify.com/track/3ZWNYxH4GbS1OVjc9JWVrJ) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [É Inexplicável](https://open.spotify.com/album/1DUQzNxJDtC1hsgDjlu6dI) | 4:03 | 2025-02-28 |  |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

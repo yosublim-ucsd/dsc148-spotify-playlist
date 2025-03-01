@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future of music around the world. Cover: Rachel Chinouriri.",
+  "description": "Meet the future of music around the world. Cover: <strong>Rachel Chinouriri<strong>.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -3766,6 +3766,24 @@
       "duration_ms": 174933,
       "name": "Black Mamba",
       "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
+    },
+    {
+      "album": {
+        "name": "Black Suits and Misery",
+        "url": "https://open.spotify.com/album/0kCGeyraZje2AGZsulPzhR"
+      },
+      "artists": [
+        {
+          "name": "Malou Lovis",
+          "url": "https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206253,
+      "name": "Black Suits and Misery",
+      "url": "https://open.spotify.com/track/0YPbeJ64ljT1vlXWKA4gac"
     },
     {
       "album": {
@@ -26554,7 +26572,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
@@ -27928,7 +27946,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166448,
       "name": "tg1",
       "url": "https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4"
@@ -31748,7 +31766,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 166720,
       "name": "You\u2019ll End Up Hating Me",
       "url": "https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe"

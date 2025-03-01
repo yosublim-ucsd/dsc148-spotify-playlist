@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
+  "description": "Holdin' it down for the westside. Cover: Ty Dolla $ign, Mustard and YG",
   "name": "Westside",
   "tracks": [
     {
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 167729,
       "name": "Call My Phone",
       "url": "https://open.spotify.com/track/2vS9K1g2Im8H2DdSGIeHqX"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137142,
       "name": "Can't Get Right",
       "url": "https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3"
@@ -3600,6 +3600,24 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "album": {
+        "name": "CEMETERY lanterns",
+        "url": "https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "CEMETERY lanterns",
+      "url": "https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca"
     },
     {
       "album": {
@@ -4636,6 +4654,28 @@
       "duration_ms": 167441,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/7jL3F2KBwtlSG7QU2Xemiq"
+    },
+    {
+      "album": {
+        "name": "I Love You Again",
+        "url": "https://open.spotify.com/album/0VaQ1RXsmUHqIFzftegVbQ"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185822,
+      "name": "Cross The Waters (feat. Hit-Boy)",
+      "url": "https://open.spotify.com/track/3i2PVghBZ1GSP1j8V2eDqD"
     },
     {
       "album": {
@@ -5808,7 +5848,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 134579,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
@@ -8891,6 +8931,28 @@
     },
     {
       "album": {
+        "name": "Got What You Need",
+        "url": "https://open.spotify.com/album/6b9rSAD9Tq3D23MqX3XZ9q"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Got What You Need",
+      "url": "https://open.spotify.com/track/1MeU6WrYSJ3JbPoThE1riL"
+    },
+    {
+      "album": {
         "name": "Gotta Know",
         "url": "https://open.spotify.com/album/4esAYsn0N8nMNWbBXJfdV4"
       },
@@ -10463,6 +10525,36 @@
     },
     {
       "album": {
+        "name": "I Might Be (feat. Michael Prince)",
+        "url": "https://open.spotify.com/album/1zr37zJFBR9r0uYDa7YDfz"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        },
+        {
+          "name": "Michael Prince",
+          "url": "https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208752,
+      "name": "I Might Be (feat. Michael Prince)",
+      "url": "https://open.spotify.com/track/7M4kPlrBBAafltT5tY3DLf"
+    },
+    {
+      "album": {
         "name": "I Need Bands",
         "url": "https://open.spotify.com/album/4Cu7Dpsdv8JUgiegEQ9Bg7"
       },
@@ -10868,7 +10960,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160541,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/78NcK0Pfcuj8rWud3gkrPE"
@@ -11466,7 +11558,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142036,
       "name": "Keep it Spoety",
       "url": "https://open.spotify.com/track/6MlPpglYdb7EpKJMlk5Vhu"
@@ -16370,7 +16462,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 209361,
       "name": "Party On The Westside",
       "url": "https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm"
@@ -18312,6 +18404,28 @@
       "duration_ms": 170661,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy"
+    },
+    {
+      "album": {
+        "name": "DodyWorld: NightShift",
+        "url": "https://open.spotify.com/album/10lfpAeTvfpnRhH4R17opD"
+      },
+      "artists": [
+        {
+          "name": "Dody6",
+          "url": "https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX"
+        },
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102582,
+      "name": "Savage Mode",
+      "url": "https://open.spotify.com/track/2ZWAS6hbvRRPUi6SG5808R"
     },
     {
       "album": {
@@ -22778,6 +22892,24 @@
       "duration_ms": 188119,
       "name": "Vulture",
       "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
+    },
+    {
+      "album": {
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/2DLlXM4UcCSXOKCFiS7W0S"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/3ww9maVBJqKbkkVFFq76jN"
     },
     {
       "album": {

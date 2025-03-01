@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/41jnOFEJPZi4tFATf8jKeo"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141959,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/2EnvnTDfN0U6zeCG2irqlt"
+    },
+    {
+      "album": {
         "name": "Agilis",
         "url": "https://open.spotify.com/album/21TIrpEbhEE7a6673fIURK"
       },
@@ -7926,7 +7944,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 124723,
       "name": "Feeling for the next",
       "url": "https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw"
@@ -12834,7 +12852,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3EhufxpACjzbdaoYokI2Gt"
@@ -12906,7 +12924,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163750,
       "name": "June",
       "url": "https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC"
@@ -13446,7 +13464,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 128213,
       "name": "La Luz De La Primavera",
       "url": "https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG"
@@ -18163,6 +18181,24 @@
     },
     {
       "album": {
+        "name": "Noctop\u00e9die",
+        "url": "https://open.spotify.com/album/54SEM0MZnVR62x21EaXI56"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132002,
+      "name": "Noctop\u00e9die",
+      "url": "https://open.spotify.com/track/5kWQQV4u4H3gk4NVUoI50g"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp"
       },
@@ -18610,7 +18646,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 130625,
       "name": "Of Great Expectations",
       "url": "https://open.spotify.com/track/0lflet894Al4KabyulUOkr"
@@ -19924,7 +19960,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152850,
       "name": "Particle rise",
       "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
@@ -21465,6 +21501,24 @@
     },
     {
       "album": {
+        "name": "Redeemed",
+        "url": "https://open.spotify.com/album/1KdV18QxC3aL8KTsAK0WnF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137212,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7fdMJJcxFzXLheBdIP0IR3"
+    },
+    {
+      "album": {
         "name": "Reed Straw",
         "url": "https://open.spotify.com/album/7l7eL57jH34b8T0qd1PAQm"
       },
@@ -22290,6 +22344,24 @@
       "duration_ms": 82872,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi"
+    },
+    {
+      "album": {
+        "name": "River of Feelings",
+        "url": "https://open.spotify.com/album/32guvr9znl0AT4JwoAGUQv"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131861,
+      "name": "River of Feelings",
+      "url": "https://open.spotify.com/track/1rYrp0suU6xvA2d0bJE2u7"
     },
     {
       "album": {
@@ -23900,7 +23972,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 132374,
       "name": "Silver Tales",
       "url": "https://open.spotify.com/track/68Hx34QumbsgcqECS1PP43"
@@ -25056,7 +25128,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
@@ -29190,7 +29262,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 143867,
       "name": "Utsjoki",
       "url": "https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH"

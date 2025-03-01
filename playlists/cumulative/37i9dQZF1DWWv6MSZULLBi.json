@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Helena Deland",
+  "description": "A laid-back trip in the folk scene. Cover: Michael Marcagi",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183740,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/0zKTxeJNEsUoNY9aoNe4DS"
@@ -2926,6 +2926,24 @@
       "duration_ms": 259168,
       "name": "Charioteer",
       "url": "https://open.spotify.com/track/2xY3s8F9xrCuSufGjODYok"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "album": {
@@ -5973,6 +5991,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240629,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+    },
+    {
+      "album": {
         "name": "Flowers In My Hair",
         "url": "https://open.spotify.com/album/5AbppIu4oDE0Ql7WDYrCwS"
       },
@@ -6068,6 +6108,24 @@
       "duration_ms": 236000,
       "name": "Flowers on the Fire Escape",
       "url": "https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0"
+    },
+    {
+      "album": {
+        "name": "Flyover State",
+        "url": "https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195766,
+      "name": "Flyover State",
+      "url": "https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1"
     },
     {
       "album": {
@@ -6234,6 +6292,28 @@
       "duration_ms": 269875,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/0Fjwnpu6a0rjivIEaih04Z"
+    },
+    {
+      "album": {
+        "name": "Four Strong Winds",
+        "url": "https://open.spotify.com/album/7qmQjm6Saz2Ha4c9geziHl"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237088,
+      "name": "Four Strong Winds",
+      "url": "https://open.spotify.com/track/1OfBdmEGmQsM1HNhJtCrPP"
     },
     {
       "album": {
@@ -8498,7 +8578,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 179355,
       "name": "If Family Meant Nothing",
       "url": "https://open.spotify.com/track/7flMb52cZPmrc6yXIiohBq"
@@ -9556,7 +9636,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190890,
       "name": "Keep Me Honest",
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
@@ -12770,7 +12850,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 207166,
       "name": "Only The Strong Survive",
       "url": "https://open.spotify.com/track/46ckwKvHOQjsovLIiAo75y"
@@ -13022,7 +13102,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 140327,
       "name": "Pain Is Cold Water - Live From Fenway Park",
       "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
@@ -13344,6 +13424,24 @@
       "duration_ms": 282440,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fq4SiCvhv8NrLnxeNa8l9"
+    },
+    {
+      "album": {
+        "name": "Phone Song",
+        "url": "https://open.spotify.com/album/3L5g1s2uEFZgPRjrVIMHIG"
+      },
+      "artists": [
+        {
+          "name": "Marie Dresselhuis",
+          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158971,
+      "name": "Phone Song",
+      "url": "https://open.spotify.com/track/7bEg4bve75HE9Zz0JoNbLE"
     },
     {
       "album": {
@@ -14164,6 +14262,24 @@
       "duration_ms": 183785,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn"
+    },
+    {
+      "album": {
+        "name": "River Run",
+        "url": "https://open.spotify.com/album/4FtNLZxjpHhPc508JGIGqw"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202901,
+      "name": "River Run",
+      "url": "https://open.spotify.com/track/7M2DwUqiGbtNgqKMSUOb2m"
     },
     {
       "album": {
@@ -16765,6 +16881,24 @@
     },
     {
       "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/5V3RqrWIJ5NByBvZAwOaDO"
+      },
+      "artists": [
+        {
+          "name": "Sam Drysdale",
+          "url": "https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207562,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/3EwdutRwI1EhwZn5RrRxHT"
+    },
+    {
+      "album": {
         "name": "The Ballad of Betty and Barney Hill",
         "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
       },
@@ -16906,7 +17040,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 146368,
       "name": "The Gates of Malpasso",
       "url": "https://open.spotify.com/track/1eiVfoJTvk3jKBALLWu245"
@@ -19526,7 +19660,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 247826,
       "name": "wishing for you",
       "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"

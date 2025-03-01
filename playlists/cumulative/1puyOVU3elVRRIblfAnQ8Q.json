@@ -1849,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats Vol. 6",
         "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
       },
@@ -3444,6 +3466,24 @@
       "duration_ms": 164000,
       "name": "Shouldn't Have Called",
       "url": "https://open.spotify.com/track/4bq8wTJGt8UuGbh7wpsr5d"
+    },
+    {
+      "album": {
+        "name": "Skanner Power",
+        "url": "https://open.spotify.com/album/49OPXPQyGa10OEdDNjG3Aj"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225428,
+      "name": "Skanner Power",
+      "url": "https://open.spotify.com/track/6bKZHCVJ4ebuMAw8ynFNgo"
     },
     {
       "album": {

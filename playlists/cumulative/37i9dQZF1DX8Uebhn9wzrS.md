@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,248 songs - 3 day 13 hr 42 min
+2,249 songs - 3 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Blue Sea 青海](https://open.spotify.com/track/35OwBONfwjJhCxW9qFmchn) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Blue Sea 青海](https://open.spotify.com/album/55TGNY8X961qgEkWzSvwI0) | 1:59 | 2022-09-02 | 2024-07-13 |
 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 | 2022-09-02 | 2023-04-21 |
 | [Blue Sky](https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K) | [WO Hoos](https://open.spotify.com/artist/2nGaqTZqJmnUMVxWJpsatL) | [Blue Sky](https://open.spotify.com/album/2AhfQhDu2hdIqgrD7LlHCx) | 2:07 | 2023-01-13 | 2024-05-19 |
+| [blue valentine](https://open.spotify.com/track/2YsQabOHFEVABlTJ0BLaSU) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo) | [blue valentine](https://open.spotify.com/album/6z6XNp6gYizrFIGTylKvq4) | 2:10 | 2025-02-28 |  |
 | [Blueprints](https://open.spotify.com/track/5onlsO6h9mMeCjpBcwoOuO) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Mood Modifier](https://open.spotify.com/album/0KDTtTTW2RgZaBdlyPb4P8) | 2:19 | 2023-08-17 |  |
 | [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-27 | 2024-04-19 |
 | [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-07-13 | 2023-10-22 |
@@ -792,7 +793,7 @@
 | [glue](https://open.spotify.com/track/7aql9zPNz3dPHEYpIVMhlz) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [glue](https://open.spotify.com/album/4W12zjKWwHiKG6L6Q3mowJ) | 2:12 | 2024-04-12 | 2024-06-20 |
 | [Glum Look](https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [Glum Look](https://open.spotify.com/album/3D3AYyKxxfxagXU3BiY4aZ) | 1:57 | 2024-11-15 |  |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2022-04-15 | 2022-10-14 |
-| [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 | 2025-02-13 |
+| [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 |  |
 | [Go to sleep](https://open.spotify.com/track/5BjcGj8GGtrnk0E0IGFqvD) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Go to sleep](https://open.spotify.com/album/2KPWKG9c1ZMKVWeGy45oJ5) | 2:24 | 2024-10-11 | 2024-11-16 |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 | 2022-08-19 | 2022-12-17 |
@@ -967,7 +968,7 @@
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 | 2022-11-12 |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 | 2022-09-02 |
 | [it will be fine](https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [it will be fine](https://open.spotify.com/album/0D1UbvmcsT5pSZ8thasK7h) | 2:04 | 2023-03-08 | 2025-01-09 |
-| [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2023-02-21 |  |
+| [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2023-02-21 | 2025-03-01 |
 | [Itinerant](https://open.spotify.com/track/6cmlL15AlkdyWQIzlhTFyM) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Itinerant](https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y) | 2:42 | 2024-07-26 | 2024-08-16 |
 | [It´s Friday](https://open.spotify.com/track/1sEZ64HxkbIrYv0C7lgYwO) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [It´s Friday](https://open.spotify.com/album/4mn4QtFqRIEIjJMEwcFdLX) | 1:46 | 2022-12-02 | 2023-03-09 |
 | [Jade's Secret Kiss](https://open.spotify.com/track/6lDRRT21hm8qFOJTbjIW5d) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH) | [Jade's Secret Kiss](https://open.spotify.com/album/5XkhIIVGYtMyFaVA3ZNX6i) | 3:14 | 2022-05-13 | 2022-11-12 |
@@ -1051,7 +1052,7 @@
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2023-11-17 |  |
 | [Lazy Streets](https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Lazy Streets](https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP) | 2:00 | 2024-02-23 |  |
 | [Le Soleil Du Matin](https://open.spotify.com/track/0FsQnvDntr4iofNmVDfM2t) | [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G), [coldstream](https://open.spotify.com/artist/2kKDHpNAcYU48MFWzHVvVk) | [Le Soleil Du Matin](https://open.spotify.com/album/6HxmSa7aSLdRzfsC1xkTYj) | 1:47 | 2022-05-13 | 2022-11-12 |
-| [Leaps Of Faith](https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Leaps Of Faith](https://open.spotify.com/album/2tdVnz8aJLwRWcIp15rTY6) | 2:18 | 2023-06-06 |  |
+| [Leaps Of Faith](https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Leaps Of Faith](https://open.spotify.com/album/2tdVnz8aJLwRWcIp15rTY6) | 2:18 | 2023-06-06 | 2025-03-01 |
 | [Learn to Fly](https://open.spotify.com/track/6DBFl7ZsbOS0XPv0oq0JN9) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe) | [Learn to Fly](https://open.spotify.com/album/2T8SnWxuznwi6d42wQCmRG) | 2:12 | 2022-12-09 | 2023-09-16 |
 | [Leaves](https://open.spotify.com/track/6bzHmsvCu9StoVrmdmDYlW) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Leaves](https://open.spotify.com/album/3QcTgZizX89kySvI2578Mf) | 1:58 | 2022-10-28 | 2023-03-09 |
 | [Leaves Fallin'](https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Leaves Fallin'](https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M) | 2:18 | 2024-10-04 | 2024-11-09 |

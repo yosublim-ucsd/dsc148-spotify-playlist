@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/5xzXnoktqyaYyQklrt8hWx"
+      },
+      "artists": [
+        {
+          "name": "Badlokk",
+          "url": "https://open.spotify.com/artist/6rhZ1hW4USY5HGsfjLI922"
+        },
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351627,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/3TsuUbRhAyARSU3YFA5tiE"
+    },
+    {
+      "album": {
         "name": "Burn 'Em",
         "url": "https://open.spotify.com/album/6h5fGnFmyrb4om654ERUzk"
       },

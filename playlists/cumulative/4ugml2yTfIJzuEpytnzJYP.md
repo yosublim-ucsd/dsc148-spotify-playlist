@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-270 songs - 17 hr 0 min
+271 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Altar](https://open.spotify.com/track/1THGCI9ee9w0MfUDYf3Aw2) | [Throe](https://open.spotify.com/artist/3XixASPOXlyY4OcBTmEsrR) | [Altar](https://open.spotify.com/album/3x0dFa7nAkPHDXtt9wyr6w) | 4:12 | 2022-10-15 | 2023-05-31 |
 | [Always](https://open.spotify.com/track/1OAYXRKMitVKpuhMf8klHc) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [Goddess EP \(For Ellie\)](https://open.spotify.com/album/1OVk3K4kxpnMbk85wUm7b1) | 3:58 | 2022-01-22 | 2022-04-16 |
 | [An Ever Evolving Journey That Dances with Drums and Odd Dreams](https://open.spotify.com/track/0DbwKYNlxXyfEODBRFbTEQ) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [An Ever Evolving Journey That Dances with Drums and Odd Dreams](https://open.spotify.com/album/1FgAqBQFWptZOY8j6kbroG) | 3:15 | 2024-04-12 | 2025-02-15 |
+| [Animale](https://open.spotify.com/track/0ve0fcNBQVGQO43Ti88MZs) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Animale](https://open.spotify.com/album/3U1JbZ3ZN5SwfBD1lqETBv) | 3:33 | 2025-02-28 |  |
 | [Arachne](https://open.spotify.com/track/7A5jeuHXoI3ZGbIcZZ8Irm) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:30 | 2022-08-18 | 2022-09-17 |
 | [Arrive](https://open.spotify.com/track/47jS8CPFO50j9ilBmHqFWF) | [5AM](https://open.spotify.com/artist/0H89JZEyV5pJUv1SNuah8U), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Arrive](https://open.spotify.com/album/3BN2q8j2jBH3w2gKa3GjLz) | 5:15 | 2023-10-14 | 2024-01-14 |
 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 | 2021-11-10 | 2022-02-28 |

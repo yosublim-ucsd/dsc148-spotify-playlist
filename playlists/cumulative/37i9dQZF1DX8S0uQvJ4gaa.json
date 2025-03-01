@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Chase Matthew",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Charles Wesley Godwin",
   "name": "New Boots",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183186,
       "name": "After Me?",
       "url": "https://open.spotify.com/track/7fTZ1peoDmIZtpdnVe8m5G"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
@@ -5532,6 +5532,24 @@
       "duration_ms": 204411,
       "name": "California Sober (Feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
+    },
+    {
+      "album": {
+        "name": "Call It A Vice",
+        "url": "https://open.spotify.com/album/01JJWneDbi91ZYRgHv56Ft"
+      },
+      "artists": [
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "Call It A Vice",
+      "url": "https://open.spotify.com/track/2JHy00ej7nsZIXA8KL3ywl"
     },
     {
       "album": {
@@ -16184,6 +16202,24 @@
     {
       "album": {
         "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/0D2d7QRUHi0mRvDT2QhVeO"
       },
       "artists": [
@@ -17920,7 +17956,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 214470,
       "name": "How's The Weather?",
       "url": "https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa"
@@ -18895,6 +18931,24 @@
     },
     {
       "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/2bZA4YU0fIB2XZ1NBXfnxR"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "I Know What I Want",
+      "url": "https://open.spotify.com/track/1AeyYl4UjqM5xMzZAZYIm0"
+    },
+    {
+      "album": {
         "name": "The Loneliest Girl In The World",
         "url": "https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96"
       },
@@ -19792,7 +19846,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194720,
       "name": "I've Been Drinking (feat. Hannah McFarland)",
       "url": "https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD"
@@ -21474,7 +21528,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176450,
       "name": "Know You Like That",
       "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
@@ -27290,7 +27344,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 211183,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62"
@@ -27760,6 +27814,24 @@
       "duration_ms": 244286,
       "name": "Oh Susannah",
       "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
+    },
+    {
+      "album": {
+        "name": "OIL MONEY",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
     },
     {
       "album": {
@@ -29525,6 +29597,24 @@
     },
     {
       "album": {
+        "name": "Pourin' In Nashville",
+        "url": "https://open.spotify.com/album/5BZMvNaFEOP8QKCpKvIIE5"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Pourin' In Nashville",
+      "url": "https://open.spotify.com/track/6fDnZ9LlfgEhbdPKzDXd1K"
+    },
+    {
+      "album": {
         "name": "Still That Kid",
         "url": "https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv"
       },
@@ -31166,7 +31256,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195000,
       "name": "Ruin My Night",
       "url": "https://open.spotify.com/track/0s7lHTfWuvq5FLUkCGj7mj"
@@ -33892,7 +33982,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180773,
       "name": "SOMETHING TO CHASE",
       "url": "https://open.spotify.com/track/4bD3GAjb8q7Rv9xDcgVMyP"
@@ -34376,6 +34466,28 @@
       "duration_ms": 146778,
       "name": "Sounds Like Something I'd Do",
       "url": "https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd"
+    },
+    {
+      "album": {
+        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
     },
     {
       "album": {
@@ -36132,6 +36244,24 @@
       "duration_ms": 198957,
       "name": "Talk Country To Me",
       "url": "https://open.spotify.com/track/7G6eKG1M7byqRihCVuRnKl"
+    },
+    {
+      "album": {
+        "name": "Talk With Me",
+        "url": "https://open.spotify.com/album/7k6FBmrJzoUkCAw1gN2855"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196567,
+      "name": "Talk With Me",
+      "url": "https://open.spotify.com/track/15yl5Tuk1QhV8ScQ8chspI"
     },
     {
       "album": {

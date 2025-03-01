@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-205 songs - 12 hr 16 min
+206 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2025-02-03 |  |
 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 | 2023-02-23 | 2024-06-28 |
 | [Rainbow](https://open.spotify.com/track/2oD1II7gCnddoq5uj9KNhJ) | [Lukas Batteau](https://open.spotify.com/artist/4wNihh6y03PHRnn0dN8fx8) | [While I Was Sleeping](https://open.spotify.com/album/0CFLU2Md6nF2Rn1LMu8bQA) | 4:15 | 2024-04-18 | 2024-04-22 |
-| [Ready To Go Now](https://open.spotify.com/track/6pWLI7M2ecHX9nOxFQoMU3) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Autopilot](https://open.spotify.com/album/1WsYkqjd4EkVejkTcpS3Fw) | 3:27 | 2025-02-20 |  |
+| [Ready To Go Now](https://open.spotify.com/track/6pWLI7M2ecHX9nOxFQoMU3) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Autopilot](https://open.spotify.com/album/1WsYkqjd4EkVejkTcpS3Fw) | 3:27 | 2025-02-20 | 2025-03-01 |
 | [Red White & Blue](https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Red White & Blue](https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj) | 2:47 | 2024-08-29 |  |
 | [Relapse Night](https://open.spotify.com/track/6GJ9KHRxs0zhzvVKfXisFy) | [Jasper Mook](https://open.spotify.com/artist/2T853vs5kgD6rkaRBEiuL0), [Daniëlle Mook](https://open.spotify.com/artist/4vuKwfQFrjLlBKRUCulB2F) | [Relapse Night](https://open.spotify.com/album/5CmHVVEgwNYnB6MfOTPYtI) | 2:55 | 2024-09-12 | 2025-01-17 |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-11-14 |  |
@@ -175,6 +175,7 @@
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2024-09-13 |
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 | 2024-01-09 |
+| [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 | 2025-02-27 |  |
 | [The Kids Are All Grown \- Blackbird Version](https://open.spotify.com/track/04R0IH9gPAMwpyNWrRYPg4) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Kids Are All Grown \(Blackbird Version\)](https://open.spotify.com/album/3hdDyWKULmmDVjpgxAZVp1) | 4:35 | 2023-09-07 | 2023-12-04 |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2023-02-23 | 2023-06-23 |
 | [The Longest Journey](https://open.spotify.com/track/6OjJ5LKp4HX7IvQ5alO34f) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/0kttObNMrwBQFyDGBKiuSW) | 3:48 | 2023-08-31 | 2023-09-02 |

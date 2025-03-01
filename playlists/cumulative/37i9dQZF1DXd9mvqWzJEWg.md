@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=2yQaL1uoRmi\_k6FWFEsnyg">DJ Tira</a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=rBufI7v1QgSOIThE1xhDIw">DJ Tira</a>
 
 344 songs - 1 day 6 hr 38 min
 

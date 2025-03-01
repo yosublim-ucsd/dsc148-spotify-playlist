@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Dios Fuerte",
+        "url": "https://open.spotify.com/album/7ksMtOqkJt5urr5XejIDOH"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460374,
+      "name": "Dios Fuerte",
+      "url": "https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB"
+    },
+    {
+      "album": {
         "name": "Despierta Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/78ag6I5Yk5pRYbnbOzQxJY"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 175440,
       "name": "Mas Grande Es El",
       "url": "https://open.spotify.com/track/69OUxNWpLdN8fB7y7gfmGP"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 226673,
       "name": "Mas que ayer",
       "url": "https://open.spotify.com/track/3h2K5oUOeNYfSxd1Rpjcxe"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 275696,
       "name": "Mi Amado Dios",
       "url": "https://open.spotify.com/track/0TRNxsVPOQqMRouzH2i0Db"
@@ -1065,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Por Ti Vivo",
+        "url": "https://open.spotify.com/album/1i149SOzOao1m4qZauUrtv"
+      },
+      "artists": [
+        {
+          "name": "Fory The King",
+          "url": "https://open.spotify.com/artist/4VPOAYBMbzhN6qIQzIGGPH"
+        },
+        {
+          "name": "Defra",
+          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188928,
+      "name": "Por Ti Vivo",
+      "url": "https://open.spotify.com/track/6PyNHGK10QnXSeW7zFFbAD"
+    },
+    {
+      "album": {
         "name": "Cambio",
         "url": "https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM"
       },
@@ -1152,6 +1192,28 @@
       "duration_ms": 313506,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72"
+    },
+    {
+      "album": {
+        "name": "REFUGIO",
+        "url": "https://open.spotify.com/album/7pwbyqhkS69ZB6pDdSFixu"
+      },
+      "artists": [
+        {
+          "name": "PLATANOS",
+          "url": "https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB"
+        },
+        {
+          "name": "Anderson Rock",
+          "url": "https://open.spotify.com/artist/3ynEqPsmMhLEEEdBJ1iHKL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161423,
+      "name": "REFUGIO",
+      "url": "https://open.spotify.com/track/13w7K9XrzSNWFFzhVrWE9Z"
     },
     {
       "album": {
@@ -1571,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "Unico Digno",
+        "url": "https://open.spotify.com/album/5BLfPLnSxwnRO8wfrJWzdc"
+      },
+      "artists": [
+        {
+          "name": "Mayo Music",
+          "url": "https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU"
+        },
+        {
+          "name": "Mary Pagan",
+          "url": "https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545039,
+      "name": "Unico Digno",
+      "url": "https://open.spotify.com/track/1uY5vSCLPH5h6ZHFDLBvmB"
+    },
+    {
+      "album": {
         "name": "Conquistador",
         "url": "https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz"
       },
@@ -1694,7 +1778,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 402591,
       "name": "Yo tambi\u00e9n",
       "url": "https://open.spotify.com/track/5pIEpXY1Fw2Gk94mmTbOaV"

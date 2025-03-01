@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: G\-DRAGON
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,972 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,992 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [ZOOM](https://open.spotify.com/track/0qIs4x4LRxGPaA1lP4IS18) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/3sBVNx0uoo6vAzlosi8RhM) | 2:48 |
 | 80 | [Home](https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Home](https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv) | 3:04 |
 
-Snapshot ID: `Z76LdgAAAAC7ZRNB6/HEi1mNRzOSTpH7`
+Snapshot ID: `Z76LdgAAAADK0CNJgNgmxg8C8zDqExRm`

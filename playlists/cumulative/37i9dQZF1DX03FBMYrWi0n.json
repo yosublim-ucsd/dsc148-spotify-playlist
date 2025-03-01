@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184993,
       "name": "Ad\u00e9la\u00efde",
       "url": "https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Mariano (Jamais je ne t\u2019oublierai)",
+        "url": "https://open.spotify.com/album/7JzqEoQJivzko3A14Q0yua"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254748,
+      "name": "Mariano (Jamais je ne t\u2019oublierai)",
+      "url": "https://open.spotify.com/track/2bZyKgrqmL9id66rCrVjf6"
+    },
+    {
+      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
@@ -3804,7 +3822,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"

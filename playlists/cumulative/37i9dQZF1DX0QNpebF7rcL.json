@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 248081,
       "name": "Blues All Around",
       "url": "https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf"
@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Devil's In The Delta",
+        "url": "https://open.spotify.com/album/31dmiaaeZ5GPjGK4APLX7A"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        },
+        {
+          "name": "Micah Willis",
+          "url": "https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268760,
+      "name": "Devil's In The Delta",
+      "url": "https://open.spotify.com/track/38J3KpKcaeIr9MHRrNqpE9"
+    },
+    {
+      "album": {
         "name": "Devilment",
         "url": "https://open.spotify.com/album/4RZvioIMcfXHdl3WBlp81r"
       },
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232944,
       "name": "Four Day Creep",
       "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
@@ -4427,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Look Out Highway",
+        "url": "https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Look Out Highway",
+      "url": "https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls"
+    },
+    {
+      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/7a159bQme0ps4IGS1bfBPg"
       },
@@ -5937,6 +5977,24 @@
     },
     {
       "album": {
+        "name": "Shake This Ground",
+        "url": "https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Shake This Ground",
+      "url": "https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb"
+    },
+    {
+      "album": {
         "name": "662",
         "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
       },
@@ -6176,7 +6234,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 351533,
       "name": "So Sad (The World's in a Tangle)",
       "url": "https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1"
@@ -6486,7 +6544,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 244613,
       "name": "Storm Warning",
       "url": "https://open.spotify.com/track/6NqRsrnO1t4AyaS5LnWgak"

@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI"
+      },
+      "artists": [
+        {
+          "name": "Luis Ornelas",
+          "url": "https://open.spotify.com/artist/4fV5UOyZ7VTY9y04Jt79gI"
+        },
+        {
+          "name": "Luis Ornelas y su Grupo",
+          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117950,
+      "name": "Cumbia buena",
+      "url": "https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn"
+    },
+    {
+      "album": {
         "name": "La Terrible Pulenta",
         "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
       },
@@ -996,6 +1018,24 @@
       "duration_ms": 208040,
       "name": "Deber\u00eda Odiarte",
       "url": "https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N"
+    },
+    {
+      "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Dejame Quererte",
+      "url": "https://open.spotify.com/track/0bhXLKsxJS295w4Z0LMW7Q"
     },
     {
       "album": {
@@ -1206,7 +1246,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198173,
       "name": "El Men\u00fa",
       "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
@@ -2012,7 +2052,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 154846,
       "name": "Maracuy\u00e1 Con Mango",
       "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
@@ -2391,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161959,
+      "name": "Mi Unico Amor",
+      "url": "https://open.spotify.com/track/5xOLqQamew1yeZInzZsh8T"
+    },
+    {
+      "album": {
         "name": "Mil Amores",
         "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
       },
@@ -2402,7 +2460,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181308,
       "name": "Mil Amores",
       "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
@@ -3779,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226602,
+      "name": "Tu Vives Equivocada",
+      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
+    },
+    {
+      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -3888,7 +3964,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 270826,
       "name": "Una Copita M\u00e1s",
       "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"

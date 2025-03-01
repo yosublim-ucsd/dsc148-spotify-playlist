@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4co38pNGce2RafeZCclxM1"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Don't Cry For Me Argentina - From \"Evita\"",
+      "url": "https://open.spotify.com/track/070WOieG9BDQ5m9mEExtta"
+    },
+    {
+      "album": {
         "name": "Hits of Stage and Screen",
         "url": "https://open.spotify.com/album/4iRIzlWvgSsQiQt8Sn8vcI"
       },
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 216840,
       "name": "Don't Cry For Me Argentina - From \"Evita\"",
       "url": "https://open.spotify.com/track/3BpFPcbSRco7iAg38xo8lR"
@@ -9430,6 +9448,24 @@
     {
       "album": {
         "name": "Phantasia",
+        "url": "https://open.spotify.com/album/7lsFY7QV9L1XuNZaeL6GjT"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308013,
+      "name": "Phantasia",
+      "url": "https://open.spotify.com/track/7B91A4gCmqNYZrS7AUcb5X"
+    },
+    {
+      "album": {
+        "name": "Phantasia",
         "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
       },
       "artists": [
@@ -9440,7 +9476,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 308013,
       "name": "Phantasia",
       "url": "https://open.spotify.com/track/7dK30tAxClkptwjUXccSB2"
@@ -11701,6 +11737,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4co38pNGce2RafeZCclxM1"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Take That Look Off Your Face",
+      "url": "https://open.spotify.com/track/7wXFRFghLnQrq7gsdPp9DP"
+    },
+    {
+      "album": {
         "name": "Hits of Stage and Screen",
         "url": "https://open.spotify.com/album/4iRIzlWvgSsQiQt8Sn8vcI"
       },
@@ -11712,7 +11766,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 239573,
       "name": "Take That Look Off Your Face",
       "url": "https://open.spotify.com/track/3RlKMJNWVshGvPROTyBZZ0"

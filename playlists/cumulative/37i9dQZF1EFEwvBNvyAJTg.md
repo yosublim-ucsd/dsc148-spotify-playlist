@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 12 hr 12 min
+226 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 | 2024-06-13 |  |
 | [Crazy Girls](https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301) | [TOOPOOR](https://open.spotify.com/artist/2G9tNsytSp4gYKZxONzFw2) | [Crazy Girls](https://open.spotify.com/album/154oJT2twqCFdna5UI2MyE) | 3:14 | 2024-06-13 |  |
 | [Cry Alone](https://open.spotify.com/track/4kQazx3VMaDKUG1IIaC94i) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 2:47 | 2024-06-13 |  |
-| [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 | 2024-06-13 |  |
+| [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 | 2024-06-13 | 2025-03-01 |
+| [Curve](https://open.spotify.com/track/6FoeJWd7LcHVDXWZ8FQEiz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Curve](https://open.spotify.com/album/7qGzvrmoGzcLBHB2aN0PqO) | 3:44 | 2025-02-28 |  |
 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 | 2024-06-13 |  |
 | [Deep](https://open.spotify.com/track/0HEcwBPQfxpHMtXR4qO55K) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Deep](https://open.spotify.com/album/6qIAIFQ4soNtbIzw8bLlWc) | 3:26 | 2024-06-13 |  |
 | [Delete It \- Edit](https://open.spotify.com/track/7JbxK2WFeH0WGpV2c1nDTb) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Delete It \(Edit\)](https://open.spotify.com/album/6uG2d0AEFABsFwU1fSfCEi) | 2:26 | 2024-06-13 |  |
@@ -81,7 +82,8 @@
 | [Girlfriend](https://open.spotify.com/track/2wDFRxShiM7iKxB2G4F8GJ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Girlfriend](https://open.spotify.com/album/6j6y9DzzjiNEx6H4OZYEM0) | 3:13 | 2025-01-09 |  |
 | [GO MODE](https://open.spotify.com/track/2D0MoJ4EdhuV9PjP7M3Rkc) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:36 | 2024-06-13 |  |
 | [Goddess](https://open.spotify.com/track/7cwxv3nrySXbOoXr9Xl2F3) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:10 | 2025-01-09 |  |
-| [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 | 2024-06-13 |  |
+| [Golden](https://open.spotify.com/track/0bYAjmHs31OEFgRPatLkjj) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Golden](https://open.spotify.com/album/18POkJhbdmVfZBQwZVohLH) | 3:46 | 2025-02-28 |  |
+| [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 | 2024-06-13 | 2025-03-01 |
 | [Gulible](https://open.spotify.com/track/2KLTc4Rz7YBc9sc6vJLTSl) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 | 2024-06-13 | 2025-02-28 |
 | [Handy](https://open.spotify.com/track/4ZJGobiy4ayWSdKfoqMRlX) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 2:56 | 2025-01-09 |  |
 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 | 2024-06-13 |  |
@@ -127,7 +129,8 @@
 | [Lonely](https://open.spotify.com/track/0u0UwHTBElRtS8QImH1oR4) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:40 | 2024-06-13 |  |
 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 | 2024-06-13 |  |
 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 | 2024-06-13 |  |
-| [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 | 2024-06-13 |  |
+| [Love Just Ain't Enough](https://open.spotify.com/track/4hyH2d2ndbRbzfeib3kgkt) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1G8HU37cpz1hrz9TR4qMc1) | 3:36 | 2025-02-28 |  |
+| [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 | 2024-06-13 | 2025-03-01 |
 | [Love Made Me Do It](https://open.spotify.com/track/3yFQhSmhgVf4thycUwRmXE) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Love Made Me Do It](https://open.spotify.com/album/1B7hNM5LicxuEfmaVxz96s) | 3:26 | 2024-06-13 |  |
 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 | 2024-06-13 |  |
 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 | 2024-06-13 |  |

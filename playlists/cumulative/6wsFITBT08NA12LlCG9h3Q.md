@@ -4,7 +4,7 @@
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-49 songs - 3 hr 21 min
+50 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Kiss Me](https://open.spotify.com/track/2aZ5oYPdDbLNRIUghXM9EV) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [How To Lose A Guy In 10 Days: Music From The Motion Picture](https://open.spotify.com/album/2v5ISZSv7ULCeQUT7x8G5B) | 3:19 | 2022-05-18 |  |
 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 | 2022-05-18 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2022-05-18 |  |
-| [Lithium \- Live In Melbourne, Australia For Triple J/1992](https://open.spotify.com/track/6g6QsvjCNdc9jCTKC9mlAr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Lithium / Breed \(Live\)](https://open.spotify.com/album/431UlB4LLO6ctKniV74i5g) | 4:47 | 2022-05-18 |  |
+| [Lithium](https://open.spotify.com/track/5vHLwhxxlGzmClMcxRRFPr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 4:17 | 2025-02-28 |  |
+| [Lithium \- Live In Melbourne, Australia For Triple J/1992](https://open.spotify.com/track/6g6QsvjCNdc9jCTKC9mlAr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Lithium / Breed \(Live\)](https://open.spotify.com/album/431UlB4LLO6ctKniV74i5g) | 4:47 | 2022-05-18 | 2025-03-01 |
 | [Loser](https://open.spotify.com/track/7qoVUgY4fKUMPQ0dEOr27X) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [90s Mixtape](https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL) | 3:55 | 2022-05-18 |  |
 | [Losing My Religion](https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time](https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe) | 4:28 | 2022-05-18 |  |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2022-05-18 |  |

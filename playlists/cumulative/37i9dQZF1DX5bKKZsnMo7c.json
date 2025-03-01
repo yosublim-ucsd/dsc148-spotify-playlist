@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: MARINA",
+  "description": "Feeling dramatic? All eyes on you. Cover: Paris Paloma",
   "name": "Limelight",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 225609,
       "name": "Alabama Stone",
       "url": "https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs"
@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "dumbledore",
+        "url": "https://open.spotify.com/album/0S1J7M4BMRucoNN3Lln6BX"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195944,
+      "name": "dumbledore - DARK ARTS VERSION",
+      "url": "https://open.spotify.com/track/7xevbUxTQStXDZNG6ydsua"
+    },
+    {
+      "album": {
         "name": "Eco Anxiety (Emo Animosity)",
         "url": "https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN"
       },
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199363,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ"
@@ -2746,6 +2764,32 @@
       "duration_ms": 167138,
       "name": "Gambling Addiction",
       "url": "https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3xZyHao6awAXFokGdaDkHg"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/7ibJDtfxEEHuEzdUyIKDzB"
     },
     {
       "album": {

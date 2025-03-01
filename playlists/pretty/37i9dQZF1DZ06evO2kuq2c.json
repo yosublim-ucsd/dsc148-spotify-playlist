@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 77464,
+  "num_followers": 77518,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAACOk86fr+9hx2UQW5OGtsPl",
+  "snapshot_id": "Z7+rAAAAAAAsrOuWl/0/S90df9Ls9+an",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,26 @@
       "duration_ms": 220000,
       "name": "Everything Ends",
       "url": "https://open.spotify.com/track/2x6R10R0MJ5BeDdqpkpaHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Dead",
+        "url": "https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Brain Dead",
+      "url": "https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  Cover: Mike Posner",
-  "num_followers": 43520,
+  "num_followers": 43534,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7u5UgAAAAA8+kn8x8JP0cgGwayKtbE9",
+  "snapshot_id": "Z8FC8QAAAAD1f3aL0OCNGYxEdFXd1030",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:16",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
+      "added_at": "2025-02-28 05:00:33",
+      "album": {
+        "name": "Stand Together",
+        "url": "https://open.spotify.com/album/5kWZUjqYYyE0nBQTo39Ohy"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Love In Control",
+      "url": "https://open.spotify.com/track/7KAHR6ZMUiqBHyCKB8NN1u"
+    },
+    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "Belong Together",
@@ -159,6 +175,26 @@
       "duration_ms": 180146,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m"
+    },
+    {
+      "added_at": "2025-02-28 05:00:33",
+      "album": {
+        "name": "NOTHING ELSE (feat. Thomas Rhett)",
+        "url": "https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "NOTHING ELSE (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459"
     },
     {
       "added_at": "2025-02-24 00:12:02",
@@ -1019,26 +1055,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        },
-        {
-          "name": "Jome",
-          "url": "https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/7LNAzNyUgpZklrVCVwg70i"
     },
     {
       "added_at": "2024-10-11 13:41:50",

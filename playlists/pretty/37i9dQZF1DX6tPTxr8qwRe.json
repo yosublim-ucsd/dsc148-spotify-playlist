@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Cloudy June",
-  "num_followers": 426133,
+  "description": "Dark, hard hitting pop. Cover: Nxdia",
+  "num_followers": 426127,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIZgAAAAAXNFdmy51urqG9DdVEzJzN",
+  "snapshot_id": "Z8FDCwAAAACG+cr/aqOyh3PfZ6tcfXh/",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:24",
+      "album": {
+        "name": "Boy Clothes",
+        "url": "https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Boy Clothes",
+      "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
+    },
     {
       "added_at": "2025-02-21 05:00:22",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
     },
     {
+      "added_at": "2025-02-28 05:00:59",
+      "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
+    },
+    {
       "added_at": "2025-01-10 05:00:16",
       "album": {
         "name": "HELL ON ME",
@@ -39,6 +71,22 @@
       "duration_ms": 178411,
       "name": "HELL ON ME",
       "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
+    },
+    {
+      "added_at": "2025-02-28 05:00:59",
+      "album": {
+        "name": "hate it",
+        "url": "https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "hate it",
+      "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
     },
     {
       "added_at": "2025-02-07 05:00:24",
@@ -123,22 +171,6 @@
       "duration_ms": 180258,
       "name": "Oh!",
       "url": "https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:24",
-      "album": {
-        "name": "Boy Clothes",
-        "url": "https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Boy Clothes",
-      "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
     },
     {
       "added_at": "2025-01-10 05:00:16",
@@ -655,22 +687,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/43eqbwd98zzZSfHCmozF0H"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/26ctBDtriThZ18O2hZ66pS"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Silly Crush",
         "url": "https://open.spotify.com/album/1pYage8VPhO07sUXkdkzqN"
       },
@@ -763,38 +779,6 @@
       "duration_ms": 162212,
       "name": "Catatonic",
       "url": "https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Play With Fire",
-        "url": "https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl"
-      },
-      "artists": [
-        {
-          "name": "Felicia Lu",
-          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
-        }
-      ],
-      "duration_ms": 163889,
-      "name": "Play With Fire",
-      "url": "https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Healing Out of Spite",
-        "url": "https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 209189,
-      "name": "I Gotta Be Cool",
-      "url": "https://open.spotify.com/track/7ux2e8AFpQ7aM5YDjyNCwi"
     },
     {
       "added_at": "2024-10-18 04:00:00",

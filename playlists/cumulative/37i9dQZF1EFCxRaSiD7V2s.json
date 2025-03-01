@@ -4616,10 +4616,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 285900,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/07jUow1BuO6Iv7iPh5Rw55"
+    },
+    {
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/0eUpHPT6p4yF67xHqhwlsk"
+      },
+      "artists": [
+        {
+          "name": "Dan Wilson",
+          "url": "https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285900,
+      "name": "Red Light - Single Version",
+      "url": "https://open.spotify.com/track/0TELwC3SC1E3zCYH6cDpAA"
     },
     {
       "album": {

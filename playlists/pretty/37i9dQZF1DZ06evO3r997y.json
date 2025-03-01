@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAACw9Y2iwQlx6vSTSpzbOQ1l",
+  "snapshot_id": "Z7+rAAAAAAA0+4piwy6K1QUxdJOoWcg3",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "Kimi no Tonaride",
-      "url": "https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "Kimi no Tonaride",
+      "url": "https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 251773,
-      "name": "V!vace",
-      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -448,25 +448,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
+      "duration_ms": 251773,
+      "name": "V!vace",
+      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 231866,
+      "name": "DEAD or CALL MY NAME",
+      "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 231866,
-      "name": "DEAD or CALL MY NAME",
-      "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-        "url": "https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl"
+        "name": "\u307f\u3061\u304f\u3055",
+        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295320,
-      "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
+      "duration_ms": 277986,
+      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307f\u3061\u304f\u3055",
-        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
+        "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+        "url": "https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 277986,
-      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
+      "duration_ms": 295320,
+      "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 258252,
       "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akari Kito 1st Live Tour \"Colorful Closet\" Stream Selection",
+        "url": "https://open.spotify.com/album/2mUd07vO5fluRbzbey70kw"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 92120,
+      "name": "Opening Live at Nagoyashikoukaidou 2020/10/3",
+      "url": "https://open.spotify.com/track/0Qt7w8kDyLveYA9tdHQUWO"
     },
     {
       "added_at": null,

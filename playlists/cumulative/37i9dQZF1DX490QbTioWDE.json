@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Yami Safdie & Q\u00b4 Lokura.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K\u00b4onga & L-Gante.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -2130,10 +2130,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 121551,
       "name": "Dejame Intentar",
       "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/4uwnMRL1jwJZrQbGoPHXAe"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163558,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/23Uz2ciZdbZGaHxjrrgRJU"
     },
     {
       "album": {
@@ -2572,7 +2594,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 135287,
       "name": "El No Va a Venir",
       "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
@@ -2620,6 +2642,28 @@
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
+    },
+    {
+      "album": {
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191177,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     },
     {
       "album": {
@@ -2859,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "Me Dicen Borracho",
+        "url": "https://open.spotify.com/album/4RfCSBoRNBicYuoXT2bher"
+      },
+      "artists": [
+        {
+          "name": "Algarab\u00eda",
+          "url": "https://open.spotify.com/artist/64aQuroWfgnTEBQwcyjScT"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214104,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5tsqP4CbbH8A8Uk5AEQaKC"
+    },
+    {
+      "album": {
         "name": "Pa' Que Sigan Bailando",
         "url": "https://open.spotify.com/album/2wD1zIR4RN2YxcVFVVYodt"
       },
@@ -2906,7 +2972,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166026,
       "name": "Espectador",
       "url": "https://open.spotify.com/track/3xU6NvH4E8UGVFn3DFvcbx"
@@ -2924,7 +2990,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
@@ -3400,7 +3466,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 158848,
       "name": "Hola",
       "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
@@ -4558,7 +4624,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 263986,
       "name": "Luis",
       "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
@@ -4688,6 +4754,28 @@
       "duration_ms": 258821,
       "name": "Manos de Tijera - En Vivo",
       "url": "https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo"
+    },
+    {
+      "album": {
+        "name": "Mas (En Vivo)",
+        "url": "https://open.spotify.com/album/6eJyWRipq8cEaqNw7ii792"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294059,
+      "name": "Mas - En Vivo",
+      "url": "https://open.spotify.com/track/0wU5tuD4dCHGAidE2mq3IT"
     },
     {
       "album": {
@@ -4972,6 +5060,46 @@
       "duration_ms": 208709,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2"
+    },
+    {
+      "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/3LcXds4N8DsBM50xVzuHiO"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/4PxCHYlkU5Za7BcnEAHsLC"
+    },
+    {
+      "album": {
+        "name": "Me Quedar\u00e9 Solterito",
+        "url": "https://open.spotify.com/album/3RtxuIxdfjI8LZLCggzi0A"
+      },
+      "artists": [
+        {
+          "name": "Los Ferrari",
+          "url": "https://open.spotify.com/artist/2qLoaugsCpfAOolvFfe06b"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161237,
+      "name": "Me Quedar\u00e9 Solterito",
+      "url": "https://open.spotify.com/track/0DY5Ff0BszikYqPFB4VRju"
     },
     {
       "album": {
@@ -5663,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Nana Triste (En Vivo)",
+        "url": "https://open.spotify.com/album/6xL5c6dXKEtcV9Ct8ffe4H"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183656,
+      "name": "Nana Triste - En Vivo",
+      "url": "https://open.spotify.com/track/0chWsPq4wnBsIgpz3QpjKZ"
+    },
+    {
+      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/0ROgkeNPJR83YVhPxv4Hjh"
       },
@@ -5990,6 +6136,28 @@
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
+    },
+    {
+      "album": {
+        "name": "No Se Vivir Si No Es Contigo",
+        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202149,
+      "name": "No Se Vivir Si No Es Contigo",
+      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
     },
     {
       "album": {
@@ -6520,7 +6688,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 341999,
       "name": "Pa / Qu\u00e9 Agon\u00eda (En Vivo)",
       "url": "https://open.spotify.com/track/6z2pclRaetjSJ3SzwoH2Dy"
@@ -6912,7 +7080,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168648,
       "name": "Por Qu\u00e9 Ser\u00e1",
       "url": "https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p"
@@ -8894,7 +9062,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165499,
       "name": "Todavia voy bien - En Vivo",
       "url": "https://open.spotify.com/track/0WLdVvEvYTyoMu429NUHpS"
@@ -9582,10 +9750,36 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "album": {
+        "name": "Magui Olave / El Show De La Monada Musical #5",
+        "url": "https://open.spotify.com/album/2lmK6H6S0VyFj0HvPpOu69"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        },
+        {
+          "name": "El Show De La Monada",
+          "url": "https://open.spotify.com/artist/2EJWHHDrYDTb1xyB098FaH"
+        },
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153462,
+      "name": "Uwaie",
+      "url": "https://open.spotify.com/track/629I9IsT8BpM1gZor9lmLZ"
     },
     {
       "album": {
@@ -9618,7 +9812,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171200,
       "name": "Vengo De Enga\u00f1arte",
       "url": "https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48"
@@ -9748,7 +9942,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 281300,
       "name": "VOLVI\u00d3 LA LOCA",
       "url": "https://open.spotify.com/track/3gFX9qkdmHo6FjsesyXjzA"
@@ -9868,6 +10062,24 @@
       "duration_ms": 199082,
       "name": "Ya lo sab\u00eda",
       "url": "https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT"
+    },
+    {
+      "album": {
+        "name": "Ya no hay forma de pedir perd\u00f3n",
+        "url": "https://open.spotify.com/album/1WBMn7xmEcRl9l6msQ5VVw"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195429,
+      "name": "Ya no hay forma de pedir perd\u00f3n",
+      "url": "https://open.spotify.com/track/5qlxGqiNIEbe4lxXcH38tg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Durand Bernarr",
+  "description": "The soulful tunes to ease you into your day. Cover: Terrace Martin",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -706,10 +706,6 @@
         {
           "name": "Amanda Adams",
           "url": "https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7"
-        },
-        {
-          "name": "R&B ONLY",
-          "url": "https://open.spotify.com/artist/48zrLqRRtFQ7jAeWNs1j7F"
         }
       ],
       "date_added": "2025-02-14",
@@ -2484,6 +2480,24 @@
       "duration_ms": 250427,
       "name": "Craters",
       "url": "https://open.spotify.com/track/5ZTzr69s2cphU4FNMeO6q8"
+    },
+    {
+      "album": {
+        "name": "Cruel, Cruel World",
+        "url": "https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154940,
+      "name": "Cruel, Cruel World",
+      "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
     },
     {
       "album": {
@@ -4627,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+    },
+    {
+      "album": {
         "name": "Needle Paw",
         "url": "https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u"
       },
@@ -4656,7 +4688,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
@@ -5019,6 +5051,32 @@
     },
     {
       "album": {
+        "name": "Hope & Love",
+        "url": "https://open.spotify.com/album/51tnMbvrCU8Wnjt0TAxCfk"
+      },
+      "artists": [
+        {
+          "name": "The Pocket Queen",
+          "url": "https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w"
+        },
+        {
+          "name": "The Royal Flush",
+          "url": "https://open.spotify.com/artist/40WNjE5OE1DuK5JvSlsrAb"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307760,
+      "name": "Hope & Love",
+      "url": "https://open.spotify.com/track/0sv8Os7FyqzVDNVrxcgRuq"
+    },
+    {
+      "album": {
         "name": "Hopes and Dreams (Abbey Road After Hours Session)",
         "url": "https://open.spotify.com/album/1HTDlnGtmEPI6CDTZWhkR3"
       },
@@ -5030,7 +5088,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 306325,
       "name": "Hopes and Dreams - Abbey Road After Hours Sessions",
       "url": "https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B"
@@ -6066,7 +6124,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221000,
       "name": "Just Might Get It",
       "url": "https://open.spotify.com/track/4PDs5cYSvolI9INGUy8pHn"
@@ -7002,6 +7060,28 @@
       "duration_ms": 204055,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
+    },
+    {
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232225,
+      "name": "Loveblind",
+      "url": "https://open.spotify.com/track/7IVJ5XhKVsLK9h9K0tQ6WX"
     },
     {
       "album": {
@@ -10539,6 +10619,28 @@
     },
     {
       "album": {
+        "name": "So Beautiful",
+        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227649,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
+    },
+    {
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/34lwRHpFW4m8x0bxfSoiBO"
       },
@@ -11874,7 +11976,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162653,
       "name": "Thinking Less",
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
@@ -12484,7 +12586,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"

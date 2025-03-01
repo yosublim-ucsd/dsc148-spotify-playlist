@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Esta\u00e7\u00f5es Primavera - Vit\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6l5DCfe748TpFEm9Ly48wD"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Fiel a Mim (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7j8eVpLPPL6NG3BBwAZobo"
+    },
+    {
+      "album": {
         "name": "Filho Volta (Ao Vivo)",
         "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
@@ -1172,7 +1194,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 292571,
       "name": "Rompendo",
       "url": "https://open.spotify.com/track/6sB7p8BHhA2MqTU7hZFxvT"

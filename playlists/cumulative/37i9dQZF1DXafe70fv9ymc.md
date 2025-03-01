@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXafe70fv9ymc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafe70fv9ymc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafe70fv9ymc)
 
-### [shiversss](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
+### [afrobeats after dark ](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
 
-> you give me shiverssss
+> sexy afrobeats
 
-118 songs - 6 hr 3 min
+120 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-16 |  |
 | [KEEPS](https://open.spotify.com/track/6YtJ7qXFloHoIKS0GpFzIh) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 2:56 | 2024-02-09 | 2024-04-19 |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 | 2024-06-01 |
+| [Lost](https://open.spotify.com/track/3zRzwveWZimcIXck96oqcr) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Lost](https://open.spotify.com/album/2bKhMLrApxroMa3x8ry236) | 2:55 | 2025-02-28 |  |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |
 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 | 2024-02-09 |  |
 | [Love Lust](https://open.spotify.com/track/6AnyjdZUzKczUqOpWCvt30) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:14 | 2024-03-29 | 2024-08-31 |
@@ -75,6 +76,7 @@
 | [Nobody Gotta Know](https://open.spotify.com/track/1uqlrp7UizucM2Lk1Ndcn7) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [Nobody Gotta Know](https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57) | 2:11 | 2024-02-09 | 2024-05-17 |
 | [NYMPHOMANIA](https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:33 | 2024-06-21 | 2024-10-13 |
 | [ON MY BODY](https://open.spotify.com/track/1BJaSV1JfaaUf6SX2VwiaW) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh), [Vylet Stone](https://open.spotify.com/artist/2w8ShurPxmdxPuxSyG4eJT) | [ON MY BODY](https://open.spotify.com/album/3uDjTASTUv7h3RxhtiGKwQ) | 3:07 | 2024-10-12 |  |
+| [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2025-02-28 |  |
 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 | 2024-08-02 |  |
 | [OUTTA MY HEAD](https://open.spotify.com/track/1Cqz8B8mNo2ZACTbMwnHTt) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [OUTTA MY HEAD](https://open.spotify.com/album/2KoRFKvQOePwjRIc9esZmT) | 3:12 | 2024-03-08 |  |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-04 |  |

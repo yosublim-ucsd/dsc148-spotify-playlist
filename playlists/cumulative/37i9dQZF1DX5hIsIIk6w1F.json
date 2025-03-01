@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Harry Nach",
+  "description": "Este Flow tiene otro Flow. Foto: Kidd Voodoo & Katteyes.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181894,
       "name": "A Lo Gangsta",
       "url": "https://open.spotify.com/track/6ySbFqnjIp4ulshpTr3HiZ"
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152723,
       "name": "COMO AMIGOS",
       "url": "https://open.spotify.com/track/3N8m586wqpQP1luX4akH0E"
@@ -5971,6 +5971,28 @@
     },
     {
       "album": {
+        "name": "Eske Mami",
+        "url": "https://open.spotify.com/album/3qJGOrRFvegd097IhOS62f"
+      },
+      "artists": [
+        {
+          "name": "Bryciell",
+          "url": "https://open.spotify.com/artist/6pn3gskO5RhVViYRW1i3bj"
+        },
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "Eske Mami",
+      "url": "https://open.spotify.com/track/1u6rSTCXk5v0hdv7UevG5j"
+    },
+    {
+      "album": {
         "name": "I Am Lucky Brown",
         "url": "https://open.spotify.com/album/43DZYFza9OEvX5pofO1zq2"
       },
@@ -8246,7 +8268,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 148950,
       "name": "Kemaropa",
       "url": "https://open.spotify.com/track/02PxKgpv2PcS8Af92r5yA8"
@@ -8674,6 +8696,28 @@
       "duration_ms": 142506,
       "name": "La Ocasi\u00f3n Perfecta",
       "url": "https://open.spotify.com/track/5QiriIcjbjRSOcH1D0q0y2"
+    },
+    {
+      "album": {
+        "name": "La PaSAMos BaKaN",
+        "url": "https://open.spotify.com/album/28hoQfOut8IfnTl9lSucif"
+      },
+      "artists": [
+        {
+          "name": "EL MURCIELAGO",
+          "url": "https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217285,
+      "name": "La PaSAMos BaKaN",
+      "url": "https://open.spotify.com/track/5kCueTQHLfThUvaP818W5n"
     },
     {
       "album": {
@@ -12190,7 +12234,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183317,
       "name": "Mot\u00edvate",
       "url": "https://open.spotify.com/track/4qAYPhHDD9g9gKTsNud8tl"
@@ -17055,6 +17099,44 @@
     },
     {
       "album": {
+        "name": "shorty (feat. Gino Mella, King Savagge & Remers)",
+        "url": "https://open.spotify.com/album/49X71H5E7la7TC6Xp1bKrN"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389111,
+      "name": "shorty (feat. Gino Mella, King Savagge & Remers)",
+      "url": "https://open.spotify.com/track/2EuUGHZ1y79n8etZnEC6WG"
+    },
+    {
+      "album": {
         "name": "Si Fuera X Mi",
         "url": "https://open.spotify.com/album/5MZsy1KB4dAN5OSEvv0keX"
       },
@@ -18885,6 +18967,28 @@
     },
     {
       "album": {
+        "name": "Tiene",
+        "url": "https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tiene",
+      "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
+    },
+    {
+      "album": {
         "name": "Tiguere",
         "url": "https://open.spotify.com/album/4mwtMVfjbfxXyxOTtUAsgg"
       },
@@ -19050,6 +19154,28 @@
       "duration_ms": 155000,
       "name": "TOTA",
       "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
+    },
+    {
+      "album": {
+        "name": "TOTA SENTIMENTAL",
+        "url": "https://open.spotify.com/album/5DvzqQNZ6t3KBvz8zDkjZl"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "TOTA SENTIMENTAL",
+      "url": "https://open.spotify.com/track/2UVszVnz3RZ30pCwoeVzuo"
     },
     {
       "album": {
@@ -19636,7 +19762,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 157000,
       "name": "TUTTIFRUTTI",
       "url": "https://open.spotify.com/track/0i7EUy2qdtpKapeJjXgqSJ"
@@ -20409,6 +20535,28 @@
     },
     {
       "album": {
+        "name": "Virtual I Me Atrevo",
+        "url": "https://open.spotify.com/album/3IEWya3vWUE2dZREYau3mo"
+      },
+      "artists": [
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        },
+        {
+          "name": "Nyruz",
+          "url": "https://open.spotify.com/artist/6E4isOyUjuu3DeCsEYKwSi"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Virtual I Me Atrevo",
+      "url": "https://open.spotify.com/track/7cnbh7H5VmyEnnBMae7yjo"
+    },
+    {
+      "album": {
         "name": "Vista Al Mar",
         "url": "https://open.spotify.com/album/1h0qocgL6W70MKxwI8wXx0"
       },
@@ -20714,7 +20862,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198260,
       "name": "x hombres como t\u00fa",
       "url": "https://open.spotify.com/track/7o1aMeVuIKY3WdhwlOqec0"
@@ -21076,6 +21224,24 @@
       "duration_ms": 205000,
       "name": "\u00bfQu\u00e9 Pasar\u00eda?",
       "url": "https://open.spotify.com/track/3UELjiVOtYjBXOPtb09DiO"
+    },
+    {
+      "album": {
+        "name": "\u00c9LITE",
+        "url": "https://open.spotify.com/album/7xutb4C0MWLlUNMWXrSHY4"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "\u00c9LITE",
+      "url": "https://open.spotify.com/track/5Za4Ocbq6E0qAYOYiKEV9R"
     },
     {
       "album": {

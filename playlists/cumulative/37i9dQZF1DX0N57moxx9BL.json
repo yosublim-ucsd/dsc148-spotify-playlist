@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Manafest ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Peyton Parrish",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 214633,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/2Qs5QhWKIA0rIwTluk1eC6"
+    },
+    {
+      "album": {
+        "name": "All My Life (Supreme Edition)",
+        "url": "https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "All My Life - Live",
+      "url": "https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj"
     },
     {
       "album": {
@@ -416,6 +434,24 @@
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
+    },
+    {
+      "album": {
+        "name": "Black Roses White Doves",
+        "url": "https://open.spotify.com/album/6ZbtYlMOYqRGkwxVar9f8V"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209643,
+      "name": "Black Roses White Doves",
+      "url": "https://open.spotify.com/track/29QhQbPMhgjPrqDznx1pP1"
     },
     {
       "album": {
@@ -1092,7 +1128,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 246286,
       "name": "Drive",
       "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
@@ -1215,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "False Teacher",
+        "url": "https://open.spotify.com/album/3PRPXE54dzg139VheNYLXN"
+      },
+      "artists": [
+        {
+          "name": "REFORMED",
+          "url": "https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260499,
+      "name": "False Teacher",
+      "url": "https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy"
+    },
+    {
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1288,6 +1342,24 @@
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH"
+    },
+    {
+      "album": {
+        "name": "Fear My Roar",
+        "url": "https://open.spotify.com/album/4awFu7J2kLCLuHhPa9XhWW"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Fear My Roar",
+      "url": "https://open.spotify.com/track/4KiyRhocRt1fL2O5ayYHOP"
     },
     {
       "album": {
@@ -1868,7 +1940,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
@@ -2104,7 +2176,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
@@ -2140,7 +2212,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 211360,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB"
@@ -2295,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2PySo2wK6JkC2qWAJZN2d7"
+      },
+      "artists": [
+        {
+          "name": "Late Night Savior",
+          "url": "https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205777,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/4hmT4Dmrj45kUTcPdeqvfm"
+    },
+    {
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
@@ -2382,6 +2472,24 @@
       "duration_ms": 164815,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
+    },
+    {
+      "album": {
+        "name": "only Idol",
+        "url": "https://open.spotify.com/album/1AMMkAWHCz5JAyLFB3VSi2"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "only Idol",
+      "url": "https://open.spotify.com/track/10wmU2qw1y71eZr67HewqF"
     },
     {
       "album": {
@@ -2728,7 +2836,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 262254,
       "name": "Run - Twenty Version",
       "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
@@ -3072,7 +3180,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
@@ -3304,6 +3412,32 @@
       "duration_ms": 201851,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+    },
+    {
+      "album": {
+        "name": "The Darkness Before The Dawn",
+        "url": "https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "The Memory",
+      "url": "https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL"
     },
     {
       "album": {
@@ -3968,7 +4102,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 214815,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy"

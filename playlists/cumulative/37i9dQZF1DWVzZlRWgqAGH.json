@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Melanie Fiona",
+  "description": "Music for your soul. Cover: Yves Jarvis",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 208329,
       "name": "All Cylinders",
       "url": "https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv"
@@ -1904,6 +1904,24 @@
       "duration_ms": 162133,
       "name": "Armor",
       "url": "https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N"
+    },
+    {
+      "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
     },
     {
       "album": {
@@ -7654,7 +7672,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 250316,
       "name": "D\u00d8N'T WANNA FALL",
       "url": "https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA"
@@ -11423,6 +11441,28 @@
     },
     {
       "album": {
+        "name": "Guide Over Us",
+        "url": "https://open.spotify.com/album/4fIZdtwOg8bnT0fsYjyfUF"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257028,
+      "name": "Guide Over Us",
+      "url": "https://open.spotify.com/track/3JqpaQxu2PmxdiwaSQhUhp"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasures",
         "url": "https://open.spotify.com/album/1IVwoyObWNl60Zk2NLQ7QK"
       },
@@ -13520,6 +13560,28 @@
       "duration_ms": 130588,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2FygRDP2PuxcvWGGyf3nao"
+    },
+    {
+      "album": {
+        "name": "In Punta Di Piedi (feat. Le Feste Antonacci)",
+        "url": "https://open.spotify.com/album/3u4ctLYqhmGxkWSs3dznYc"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        },
+        {
+          "name": "Le Feste Antonacci",
+          "url": "https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "In Punta Di Piedi (feat. Le Feste Antonacci)",
+      "url": "https://open.spotify.com/track/18aTK79qHTbaI4wDARTnsg"
     },
     {
       "album": {
@@ -17758,7 +17820,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163813,
       "name": "My Heart is Drowning",
       "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
@@ -18250,7 +18312,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 127594,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
@@ -18662,6 +18724,28 @@
       "duration_ms": 177429,
       "name": "Not Easy Love (feat. Demae)",
       "url": "https://open.spotify.com/track/33Of2CworbU1G1G08eMtdA"
+    },
+    {
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "album": {
@@ -19156,6 +19240,24 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149483,
+      "name": "One Gripe",
+      "url": "https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA"
     },
     {
       "album": {
@@ -20974,6 +21076,28 @@
       "duration_ms": 315126,
       "name": "Provide",
       "url": "https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB"
+    },
+    {
+      "album": {
+        "name": "provider",
+        "url": "https://open.spotify.com/album/5E9APxztEgmH6P41utPbZQ"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "provider",
+      "url": "https://open.spotify.com/track/0PLMrohYSDcMnwpEQ8IQcF"
     },
     {
       "album": {
@@ -22992,7 +23116,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 214235,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
@@ -23174,7 +23298,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176603,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9"
@@ -23354,6 +23478,32 @@
       "duration_ms": 199627,
       "name": "Slow Down with Me",
       "url": "https://open.spotify.com/track/5bwjoW267cwWROe6ZOtyRP"
+    },
+    {
+      "album": {
+        "name": "Slow It Down (with Cruza & Isaiah Falls)",
+        "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Kay",
+          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146594,
+      "name": "Slow It Down (with Cruza & Isaiah Falls)",
+      "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
     },
     {
       "album": {
@@ -25540,7 +25690,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165160,
       "name": "Sweeter Than",
       "url": "https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf"
@@ -26088,7 +26238,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 220000,
       "name": "The Cure (For The People)",
       "url": "https://open.spotify.com/track/4qdk0oP1iSsZyo0T8fUx9q"
@@ -26356,7 +26506,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149647,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/61ZyeQbHcAHyQk7q9CvWGg"
@@ -26935,6 +27085,28 @@
     },
     {
       "album": {
+        "name": "Til A Mawnin (feat. Sting)",
+        "url": "https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207878,
+      "name": "Til A Mawnin (feat. Sting)",
+      "url": "https://open.spotify.com/track/6A5NpmHIyU2WJ2nwgEhJrv"
+    },
+    {
+      "album": {
         "name": "Time No More / Get Lost",
         "url": "https://open.spotify.com/album/6nDdvXEmPzjcMq9byeZmWl"
       },
@@ -27250,6 +27422,24 @@
       "duration_ms": 298666,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/0MfBK6khABMHCzIh5JkqJq"
+    },
+    {
+      "album": {
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-219 songs - 12 hr 7 min
+223 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK) | 3:38 | 2022-07-22 | 2024-04-19 |
 | [Laura \(Piano Vision\)](https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Laura \(Piano Vision\)](https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT) | 1:51 | 2022-07-08 | 2023-01-04 |
 | [LEO “The Fierce”](https://open.spotify.com/track/4aHYB3DwRl5ladGeGjoFJ9) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [180°](https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs) | 4:38 | 2024-08-23 |  |
+| [Like Stars In The Sky \- Sleep Rework](https://open.spotify.com/track/7HUCEBu3fo5F9v8oYaJyl4) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Like The Stars In The Sky \(Sleep Rework\)](https://open.spotify.com/album/00yIp3AqgVa9eDMtXijQog) | 3:01 | 2025-02-28 |  |
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-12-10 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-10 |  |
 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 | 2022-01-21 | 2023-03-15 |
@@ -105,6 +106,7 @@
 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-10-28 | 2022-11-13 |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-07-22 | 2023-03-15 |
+| [Looking inward](https://open.spotify.com/track/3GQefSRiUJlIKt1Hyp74jU) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Looking inward](https://open.spotify.com/album/26l3xOifBI6BexuP3boM47) | 3:21 | 2025-02-28 |  |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2021-12-10 |  |
 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 | 2022-10-24 |  |
 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-12-10 | 2023-01-04 |
@@ -140,6 +142,7 @@
 | [nostalgia](https://open.spotify.com/track/22YHMfh0wfdnA8yum2Z3fV) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [nostalgia](https://open.spotify.com/track/2Mu8WX2LlDIGl8Ea2C6lF8) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/0OyO7mdSxWDcK1nLg9jkwY) | 3:11 | 2021-12-10 |  |
 | [Nuvole](https://open.spotify.com/track/7bxhomQAoW2NrwYzZtizGu) | [Fabio di Biase](https://open.spotify.com/artist/3ySI3lfDI3FG6om6IH3SCy) | [Nuvole](https://open.spotify.com/album/2ZDoqQeAsYADGiH3B7YYJa) | 4:38 | 2021-12-10 |  |
+| [Oak Savanna](https://open.spotify.com/track/7CkCz3faTetu3yHtoMgl0D) | [Jef Martens](https://open.spotify.com/artist/2TdPVIB0o6UlXQMNhXzy4O), [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Oak Savanna](https://open.spotify.com/album/483Q9I5hJzlwgQCujQLBBL) | 2:14 | 2025-02-28 |  |
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 | 2023-01-04 |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [Oil on Wood](https://open.spotify.com/track/1Lh7HHShT4nchZts6JPyW2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:39 | 2025-02-19 |  |
@@ -177,6 +180,7 @@
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-12 |  |
 | [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 | 2024-10-11 |  |
 | [S.A.D.](https://open.spotify.com/track/7u8V66KV1rXJtJSR9gCQ0L) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [S.A.D\. Storm and Drugs](https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM) | 3:21 | 2021-12-10 | 2023-01-04 |
+| [Sail](https://open.spotify.com/track/4P3Au1VnaZbGPLfuJXCzig) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Sail](https://open.spotify.com/album/3MOYvYVIne4Tw5Jj7Fzwmv) | 2:13 | 2025-02-28 |  |
 | [saman](https://open.spotify.com/track/5Gum48Pt0QSd9rAkFejduF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Peaceful Piano 2022](https://open.spotify.com/album/6cqlCqunHip9bIHuA5ir3N) | 2:11 | 2022-10-28 | 2022-11-14 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-07-22 | 2024-04-19 |
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 |  |

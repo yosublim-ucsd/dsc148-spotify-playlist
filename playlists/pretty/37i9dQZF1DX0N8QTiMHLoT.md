@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,607 likes - 90 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,635 likes - 90 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [New Beastly](https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t) | 4:11 |
-| 2 | [Glitching](https://open.spotify.com/track/7phWro6OJHsAY9erko1ZlS) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Glitching](https://open.spotify.com/album/4kQHFaXA7KTii3Dy4aTmXI) | 2:09 |
+| 1 | [Slapageddon](https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Slapageddon](https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq) | 2:16 |
+| 2 | [New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [New Beastly](https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t) | 4:11 |
 | 3 | [Bringing It Down to the Bass](https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy), [Alex Foster](https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV) | [Bringing It Down to the Bass](https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir) | 5:34 |
 | 4 | [Silly Putty](https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [Silly Putty](https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF) | 4:31 |
 | 5 | [Funk Fusion](https://open.spotify.com/track/0qpya6yn4lYcTik9y2plkh) | [Slap Is Dead](https://open.spotify.com/artist/0djoepZSsGEsiTooG20j88), [Pi Effe Productions](https://open.spotify.com/artist/3DePPnNE0POSSBwl2vqrSR), [Yuta Kondo](https://open.spotify.com/artist/09Zbt5LbOCiwF8dUsISbrw) | [Funk Fusion](https://open.spotify.com/album/6cSZ2PhbuG5Hj2EzHOmSrl) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 89 | [Aeon](https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H) | [We Are All You \(Extended Edition\)](https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr) | 2:22 |
 | 90 | [Twilight \- Radio Edit](https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Twilight](https://open.spotify.com/album/5o1AgueoytBvJOnvd62Gi3) | 4:24 |
 
-Snapshot ID: `Z7gIYQAAAADRR1lyWFxE2poERtTJ3uG2`
+Snapshot ID: `Z8FC/QAAAAAGls2yqj3NAh8NLOZV5TfZ`

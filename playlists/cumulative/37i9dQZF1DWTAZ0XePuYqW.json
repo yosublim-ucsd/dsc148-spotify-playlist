@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Shay Lia",
+  "description": "That's that big energy. Cover: Amanda Reifer",
   "name": "Bounce",
   "tracks": [
     {
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
@@ -2886,6 +2886,24 @@
       "duration_ms": 227533,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
+    },
+    {
+      "album": {
+        "name": "Feel Me (Rare Mix)",
+        "url": "https://open.spotify.com/album/1aiQJ5rIS8Q8wiTpEfRDz3"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130354,
+      "name": "Feel Me (Rare Mix)",
+      "url": "https://open.spotify.com/track/1tzHk1XRirUDBM6FSObTN8"
     },
     {
       "album": {
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 186692,
       "name": "Housekeeping Knows (feat. Latto)",
       "url": "https://open.spotify.com/track/1b8Uy52q8fZUBTlRkoXoT5"
@@ -4692,7 +4710,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181141,
       "name": "King Steps",
       "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
@@ -7275,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "RUDUMB?",
+        "url": "https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4"
+      },
+      "artists": [
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117094,
+      "name": "RUDUMB?",
+      "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
+    },
+    {
+      "album": {
         "name": "Rum & Calypso",
         "url": "https://open.spotify.com/album/5CFkpmJntTG33Nl2ozpSZK"
       },
@@ -7400,6 +7436,28 @@
       "duration_ms": 96000,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4poJASsAQ5WAi8565dHLOV"
+    },
+    {
+      "album": {
+        "name": "Samba Surprise",
+        "url": "https://open.spotify.com/album/32LT19tACxN2zoMbdAqbzK"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Samba Surprise",
+      "url": "https://open.spotify.com/track/4k2pfOaO2JyxQd2RjpC7hh"
     },
     {
       "album": {
@@ -8782,7 +8840,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188766,
       "name": "Tough - Channel Tres Remix",
       "url": "https://open.spotify.com/track/3oBkOHVnI63U8e1ZiLnJ7r"
@@ -9496,6 +9554,36 @@
       "duration_ms": 213973,
       "name": "WICKED GYAL",
       "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
+    },
+    {
+      "album": {
+        "name": "Club Shy Room 2",
+        "url": "https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148054,
+      "name": "Wifey Riddim",
+      "url": "https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB"
     },
     {
       "album": {

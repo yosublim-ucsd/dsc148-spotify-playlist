@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Majo Aguilar",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Vivir Quintana",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
@@ -3177,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "LA BUCHONA",
+        "url": "https://open.spotify.com/album/2wtzUgmOA3lWcplBXdrWhf"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        },
+        {
+          "name": "Sombrero Nacho",
+          "url": "https://open.spotify.com/artist/68SRkWrTWYP4OU2S5v8Pr1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "LA BUCHONA",
+      "url": "https://open.spotify.com/track/163154twthW34ynHg7zMKj"
+    },
+    {
+      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -4874,10 +4896,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180680,
       "name": "Muy Buena o Est\u00fapida",
       "url": "https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Libre Que En Casa",
+        "url": "https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161117,
+      "name": "M\u00e1s Libre Que En Casa",
+      "url": "https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj"
     },
     {
       "album": {
@@ -6624,6 +6664,24 @@
       "duration_ms": 224395,
       "name": "Qu\u00e9 Maldici\u00f3n - Remix",
       "url": "https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Mas Quieres De Mi",
+        "url": "https://open.spotify.com/album/41jn4pEplc3K6gezsMIXD9"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160237,
+      "name": "Qu\u00e9 Mas Quieres De Mi",
+      "url": "https://open.spotify.com/track/2TAlisUJAXw6l1x91iJUfG"
     },
     {
       "album": {
@@ -8704,7 +8762,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"

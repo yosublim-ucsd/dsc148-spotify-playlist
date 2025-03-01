@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover:  Disturbed",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Sleep Theory",
   "name": "VOLUME",
   "tracks": [
     {
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 241731,
       "name": "Atom Bomb - Electric Version",
       "url": "https://open.spotify.com/track/56nKZmxlTozcmrYvuKWooS"
@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 212113,
       "name": "Dance, Kid, Dance",
       "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
@@ -5446,6 +5446,24 @@
       "duration_ms": 177789,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
+    },
+    {
+      "album": {
+        "name": "dark things",
+        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280776,
+      "name": "dark things",
+      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
     },
     {
       "album": {
@@ -9131,6 +9149,32 @@
     },
     {
       "album": {
+        "name": "Gods Of Rock N Roll",
+        "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
+      },
+      "artists": [
+        {
+          "name": "Billy Morrison",
+          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316160,
+      "name": "Gods Of Rock N Roll",
+      "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -9924,7 +9968,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 208293,
       "name": "Hearse For Two (feat. Lilith Czar)",
       "url": "https://open.spotify.com/track/0Z831ytcQOgMDimNBObLCI"
@@ -10362,6 +10406,28 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "album": {
+        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
     },
     {
       "album": {
@@ -20653,6 +20719,24 @@
     },
     {
       "album": {
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226904,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe"
+    },
+    {
+      "album": {
         "name": "Still Sinking",
         "url": "https://open.spotify.com/album/72oYVXUkqSWHpfcHeM4CES"
       },
@@ -22428,7 +22512,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
@@ -23306,6 +23390,24 @@
       "duration_ms": 227753,
       "name": "Three Chords",
       "url": "https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk"
+    },
+    {
+      "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220190,
+      "name": "Three Six Five",
+      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
     },
     {
       "album": {
@@ -26356,7 +26458,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169455,
       "name": "You're Gonna Get It",
       "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"

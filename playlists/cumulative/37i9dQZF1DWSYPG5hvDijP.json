@@ -2238,10 +2238,36 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183226,
       "name": "Bhayankar",
       "url": "https://open.spotify.com/track/7AnR1q9hzBon0iTM9EqpCm"
+    },
+    {
+      "album": {
+        "name": "Bheed",
+        "url": "https://open.spotify.com/album/2r31nHaptAGCP7zIpYtztp"
+      },
+      "artists": [
+        {
+          "name": "Kalakaar AR",
+          "url": "https://open.spotify.com/artist/6qHcAljoxXVb02uB1p3O2h"
+        },
+        {
+          "name": "Kulprit",
+          "url": "https://open.spotify.com/artist/5gwObtb1kWuObhOh7bBrfn"
+        },
+        {
+          "name": "DEO Music",
+          "url": "https://open.spotify.com/artist/6S3BJiQifSNRq2OTfUtdV6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179950,
+      "name": "Bheed",
+      "url": "https://open.spotify.com/track/5I2QTe9azrcd6ZCNpKiYKx"
     },
     {
       "album": {
@@ -3850,7 +3876,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195790,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0JVDfuJ10zfvTkucvStcBj"
@@ -4165,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Dear Aditya",
+        "url": "https://open.spotify.com/album/1iK0ltlEUBYot5LHDK2cTB"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217819,
+      "name": "Dear Aditya",
+      "url": "https://open.spotify.com/track/2DFpDzrY1aDKVbMeJVAs9l"
+    },
+    {
+      "album": {
         "name": "Dehleez Pe",
         "url": "https://open.spotify.com/album/7FqQ2ILwsBixOI6zxpJrDW"
       },
@@ -4198,6 +4246,24 @@
       "duration_ms": 173333,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2CHQ8qhsE2N1bXsZn1nnqA"
+    },
+    {
+      "album": {
+        "name": "Desi Dil",
+        "url": "https://open.spotify.com/album/7h7C25MWYTZlCwlKakUkSv"
+      },
+      "artists": [
+        {
+          "name": "Rahul U",
+          "url": "https://open.spotify.com/artist/5BrVcsZNGTh62EBgi8vFrA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158339,
+      "name": "Desi Dil",
+      "url": "https://open.spotify.com/track/7m00JPc7wqckFI9K6tfCJO"
     },
     {
       "album": {
@@ -4320,7 +4386,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 122785,
       "name": "Dheele Kapde - Intro",
       "url": "https://open.spotify.com/track/2gt2VV0WDg0YRBCjRTNF3M"
@@ -5430,7 +5496,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 229486,
       "name": "Flight Time",
       "url": "https://open.spotify.com/track/6Fl228524UEdoB52jtaYmh"
@@ -5782,7 +5848,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 211500,
       "name": "Gang",
       "url": "https://open.spotify.com/track/29g7VK5GCfUtISgWgbnUgf"
@@ -6770,6 +6836,36 @@
       "duration_ms": 162000,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/2jxxRREyuklEKRYm4uw2cC"
+    },
+    {
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/6F8TZVk79pJ3aDI7NGv3H0"
+      },
+      "artists": [
+        {
+          "name": "Rajjo",
+          "url": "https://open.spotify.com/artist/471mtZxCDJB3DY7AdgzEoo"
+        },
+        {
+          "name": "Palashhh",
+          "url": "https://open.spotify.com/artist/2DTH5Nb75o5ngKMzyERYzk"
+        },
+        {
+          "name": "AGRXM",
+          "url": "https://open.spotify.com/artist/3XOgmtXAln5vLywOih49y6"
+        },
+        {
+          "name": "VeDubs",
+          "url": "https://open.spotify.com/artist/6A0rA2fropXu04DpCEthM7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198299,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/61Ai0waeTznZefBkQTQHwp"
     },
     {
       "album": {
@@ -8187,6 +8283,24 @@
     },
     {
       "album": {
+        "name": "Kalyug",
+        "url": "https://open.spotify.com/album/28pYTqqSYPCoX0sl2OhjzX"
+      },
+      "artists": [
+        {
+          "name": "Kavira",
+          "url": "https://open.spotify.com/artist/55dZoBgHhr0ADAVN55kjRY"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Kalyug",
+      "url": "https://open.spotify.com/track/6wD9fixXMxhv4n8L01Fmro"
+    },
+    {
+      "album": {
         "name": "Paapi",
         "url": "https://open.spotify.com/album/0qXrOfDOnrlbOpuw8OM1uE"
       },
@@ -8302,6 +8416,24 @@
       "duration_ms": 150000,
       "name": "Kaun",
       "url": "https://open.spotify.com/track/4EygwqJklAVvSa3C73NLvi"
+    },
+    {
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/1MyIGKUXBNN46IRxuD48eX"
+      },
+      "artists": [
+        {
+          "name": "Ace aka Mumbai",
+          "url": "https://open.spotify.com/artist/4RmQ7RmhDf5tDx8xZe2ldm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193286,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/0EXW4DvscpY8ThK6iixAJe"
     },
     {
       "album": {
@@ -10418,7 +10550,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149189,
       "name": "Money Money Money",
       "url": "https://open.spotify.com/track/4KLSkgkiQR1Grcto438407"
@@ -11596,6 +11728,24 @@
       "duration_ms": 92331,
       "name": "Nonsense (feat. RaySon4 7)",
       "url": "https://open.spotify.com/track/5k1UsYeuxDEjmXlbT1RVRR"
+    },
+    {
+      "album": {
+        "name": "NOTORIOUS",
+        "url": "https://open.spotify.com/album/0N0cY57RdHKc1RLIoItwNr"
+      },
+      "artists": [
+        {
+          "name": "Mirak",
+          "url": "https://open.spotify.com/artist/0sWjFQRenBeAbkctoC2fOy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154950,
+      "name": "NOTORIOUS",
+      "url": "https://open.spotify.com/track/2GLPPimGOvjBYKiP8TYprv"
     },
     {
       "album": {
@@ -12811,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "Rokda",
+        "url": "https://open.spotify.com/album/0OWpEMWGM1wqQ4mSjQtaqm"
+      },
+      "artists": [
+        {
+          "name": "Veerah",
+          "url": "https://open.spotify.com/artist/3EZ3YMwBRqxMPXqCjpMe9Z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180554,
+      "name": "Rokda",
+      "url": "https://open.spotify.com/track/4mS6GGlQW8PuskcVlrSNlC"
+    },
+    {
+      "album": {
         "name": "Rudali",
         "url": "https://open.spotify.com/album/6qrGSiZRziEDlAQq0PZFKh"
       },
@@ -13897,6 +14065,24 @@
     },
     {
       "album": {
+        "name": "Sur-Aag",
+        "url": "https://open.spotify.com/album/1U9N7gG0Thsc7ESCF0rsdn"
+      },
+      "artists": [
+        {
+          "name": "V- Town Chronicles",
+          "url": "https://open.spotify.com/artist/6DQHgRm2Gu4uQaIXun696w"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Sur-Aag",
+      "url": "https://open.spotify.com/track/5WAAIJjb5Z5kVVOf9ZLQAr"
+    },
+    {
+      "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
       },
@@ -14000,7 +14186,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199459,
       "name": "Tagda Crew",
       "url": "https://open.spotify.com/track/2JhICPIvBAy5hFWEbdV08W"
@@ -14124,7 +14310,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142439,
       "name": "Tantrums",
       "url": "https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf"
@@ -15834,7 +16020,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 224098,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1kDZXLsCFrOA2v1uEhaphj"

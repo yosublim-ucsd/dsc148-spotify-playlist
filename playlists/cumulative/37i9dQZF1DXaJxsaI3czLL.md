@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-471 songs - 1 day 9 hr 10 min
+473 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 | 2023-01-22 | 2023-02-17 |
 | [3月のこと](https://open.spotify.com/track/4VDq2t1ThSoR1UsBbKuhrC) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [MONSTER](https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO) | 5:17 | 2023-03-11 |  |
 | [613](https://open.spotify.com/track/4yI3O5NnsIpYXRdSpfdele) | [rara.](https://open.spotify.com/artist/0HJvHz6J8vzGbcmr0DSz52) | [あしたのきらめき](https://open.spotify.com/album/5kSgQxsGJFzfmASKMIERbi) | 3:29 | 2023-11-28 | 2023-12-13 |
-| [6月の窓](https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [oar](https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR) | 5:04 | 2023-06-20 |  |
+| [6月の窓](https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [oar](https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR) | 5:04 | 2023-06-20 | 2025-03-01 |
 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 | 2022-10-20 |  |
 | [ai no uta](https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx) | 4:32 | 2023-12-12 | 2024-01-31 |
 | [All My Love \- English Ver.](https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2022-10-20 | 2023-08-16 |
@@ -170,6 +170,7 @@
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-14 | 2023-03-23 |
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2022-10-20 | 2025-02-28 |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-22 | 2023-04-06 |
+| [New Dawn](https://open.spotify.com/track/1se24buU27xNkOp1WoUE5M) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [New Dawn](https://open.spotify.com/album/04svSDPq1MAbgjHPzm09Hm) | 3:26 | 2025-02-28 |  |
 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 | 2023-01-26 |  |
 | [Nightfall](https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Beat Installments](https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1) | 3:06 | 2023-01-26 | 2023-02-08 |
 | [Nights](https://open.spotify.com/track/25iGEuF3yz9m3LMU6deCJb) | [MLV LUNG](https://open.spotify.com/artist/7Fg0IzAh17pdIgOt6nSCWK) | [WAVES](https://open.spotify.com/album/6VPWyt3IzjcyEHW9M9xrhP) | 2:30 | 2023-08-29 | 2023-09-06 |
@@ -340,7 +341,7 @@
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-01-31 |  |
 | [ハイライト](https://open.spotify.com/track/0yV5Kj9SlPVm11zrqiidD1) | [Sochic](https://open.spotify.com/artist/2VEjYpWgjBzWOdkTfekn3r) | [ハイライト](https://open.spotify.com/album/7nFu797bNZcV8k71cGyJ1z) | 5:11 | 2023-05-09 | 2023-05-24 |
 | [バイクを飛ばして](https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:40 | 2023-12-14 | 2024-02-14 |
-| [パルテノン銀座通り](https://open.spotify.com/track/1HBtk46DSim9sYOZWh9KcE) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kitrist II](https://open.spotify.com/album/3EEjdR7XxfXrMp8qCntNL0) | 6:47 | 2024-03-05 |  |
+| [パルテノン銀座通り](https://open.spotify.com/track/1HBtk46DSim9sYOZWh9KcE) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kitrist II](https://open.spotify.com/album/3EEjdR7XxfXrMp8qCntNL0) | 6:47 | 2024-03-05 | 2025-03-01 |
 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 | 2022-10-20 |  |
 | [フォークロア](https://open.spotify.com/track/0ZMapOzboFhxbJLX3TTYHl) | [岡山健二](https://open.spotify.com/artist/6sDaLBf6pQLQoL26A4ZjAB) | [DRAGON HEAD SHAKE](https://open.spotify.com/album/0RJcs09H53ijGdppi497wf) | 2:57 | 2024-01-09 | 2024-01-31 |
 | [マホロボシヤ](https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 5:44 | 2022-10-20 | 2023-07-06 |
@@ -435,6 +436,7 @@
 | [瑠璃色の地球 \- 「この地球の日々たちへ」バージョン](https://open.spotify.com/track/5nWMV6Tq8x5uTS7QKIr0qG) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [東京](https://open.spotify.com/album/47uKJb5DLk9EEBeZbK7HMw) | 4:11 | 2022-11-10 | 2022-11-13 |
 | [瑠璃色の地球\(「この地球の日々たちへ」バージョン\)](https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Aoi Works II](https://open.spotify.com/album/64FUZjyuDC5S9siqurAmcs) | 4:09 | 2022-11-01 | 2023-04-19 |
 | [発音](https://open.spotify.com/track/6U66dbVxhCKt1B7qbzkDDd) | [Haruko Oishi](https://open.spotify.com/artist/7d2QeclNKv9vuSvvHuXKQE) | [脈光](https://open.spotify.com/album/4K1kDRnYCIoPJItc6qmKzB) | 4:03 | 2023-02-22 | 2023-03-15 |
+| [真っ白 \- From THE FIRST TAKE](https://open.spotify.com/track/7szL8FiMGXmdM3aEb6dzar) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [真っ白 \- From THE FIRST TAKE](https://open.spotify.com/album/11FS8GWfiHcYuGQyI9DTB8) | 6:24 | 2025-02-28 |  |
 | [真夜中のメロディ](https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [真夜中のメロディ](https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh) | 4:26 | 2023-10-10 |  |
 | [眠りのうた \- Single Edit](https://open.spotify.com/track/7llpo3I1SzOOvEtWI9FT9H) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [宇宙のママ](https://open.spotify.com/album/4LGJ1RtYWvFXqOFmPlMktN) | 5:02 | 2023-02-16 | 2023-03-10 |
 | [眠れない夜に](https://open.spotify.com/track/1eBeSpdQRvARloHq0fTVzK) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [眠れない夜に](https://open.spotify.com/album/5ra5TqcJsRzIgoGvtcAMvw) | 3:28 | 2023-03-30 |  |

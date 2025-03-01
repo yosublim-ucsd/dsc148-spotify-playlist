@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-106 songs - 7 hr 41 min
+107 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Funky Boy](https://open.spotify.com/track/4kVQoPK2CdsWYhlLhIl9oi) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 5:53 | 2021-05-06 |  |
 | [Funky D](https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 5:44 | 2021-05-06 |  |
 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 | 2021-05-06 |  |
-| [Glitching](https://open.spotify.com/track/7phWro6OJHsAY9erko1ZlS) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Glitching](https://open.spotify.com/album/4kQHFaXA7KTii3Dy4aTmXI) | 2:09 | 2025-02-21 |  |
+| [Glitching](https://open.spotify.com/track/7phWro6OJHsAY9erko1ZlS) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Glitching](https://open.spotify.com/album/4kQHFaXA7KTii3Dy4aTmXI) | 2:09 | 2025-02-21 | 2025-03-01 |
 | [Groovin' High](https://open.spotify.com/track/3Ct7wdx4Ht0c7ck0OeY5ub) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [High Standards](https://open.spotify.com/album/5083omtlVeamn9onZu8vCM) | 6:20 | 2021-05-06 |  |
 | [Hear Now!](https://open.spotify.com/track/55LlEq0OSbtAIo7R8b9M7R) | [Gerald Veasley](https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE) | [Your Move](https://open.spotify.com/album/49e2mbwoStTzui5hZAEHO6) | 5:04 | 2021-05-06 |  |
 | [Helios](https://open.spotify.com/track/21SSZPV09UAaOJ97r1TfC6) | [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Soliloquy](https://open.spotify.com/album/1xetZMHqk2AOXrxtW5rD9j) | 4:22 | 2021-05-06 |  |
@@ -85,6 +85,7 @@
 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 | 2021-05-06 |  |
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 |  |
 | [Silly Putty](https://open.spotify.com/track/6lmJXCIzXrTrV2VKX6AckU) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [Silly Putty](https://open.spotify.com/album/3H3ccGDt74f1vAYQffYzoF) | 4:31 | 2024-06-28 |  |
+| [Slapageddon](https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Slapageddon](https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq) | 2:16 | 2025-02-28 |  |
 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 | 2021-05-06 |  |
 | [Space Age](https://open.spotify.com/track/6FHuDw2gCmWknjP5qFPPw6) | [Ollie Collins](https://open.spotify.com/artist/5FHOxRGbA8n5jkFhfsVfin) | [A New Direction](https://open.spotify.com/album/3pPILiJIUk6yVdSmMWqYJP) | 3:48 | 2021-05-06 |  |
 | [Straight Up](https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [A Ray of Hope](https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1) | 4:39 | 2021-05-06 | 2024-04-19 |

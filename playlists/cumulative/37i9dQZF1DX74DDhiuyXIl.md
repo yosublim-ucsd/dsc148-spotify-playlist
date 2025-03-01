@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-583 songs - 1 day 17 hr 16 min
+584 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [P.S.我爱你](https://open.spotify.com/track/0CLG2NAwfcf5suKQCLEfY6) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [P.S.我爱你](https://open.spotify.com/album/2JtLs9KxB5UDl7jSmg7nJc) | 3:49 | 2024-05-16 | 2024-05-24 |
 | [P.S.我爱你](https://open.spotify.com/track/6ZQ9qpCZicyLZciOKXb4be) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [P.S.我爱你](https://open.spotify.com/album/0FZ2dIwuo2dgaTS8TlLFIr) | 4:12 | 2024-02-19 | 2024-02-28 |
 | [Passing Through](https://open.spotify.com/track/0byLWD6kVSZmXw9IFtLyW0) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Drifter](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:13 | 2022-06-13 | 2022-07-20 |
+| [Silent Angel](https://open.spotify.com/track/149HyhgmTTcUbcLpZfouli) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [Silent Angel](https://open.spotify.com/album/3H9mX9AEeegmiKy97dwU2g) | 5:01 | 2025-02-27 |  |
 | [So Far Away](https://open.spotify.com/track/0TdHOyWGsuZIStaVJIBuTI) | [劉芯妤](https://open.spotify.com/artist/0HMLasq8hfthRFt6DGRA47) | [So Far Away](https://open.spotify.com/album/6vchSuJqaags07dhfrdpSP) | 4:02 | 2024-01-15 | 2024-01-23 |
 | [Somebody Else](https://open.spotify.com/track/1AzOQmikzj7kAuPobEbpQd) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Somebody Else](https://open.spotify.com/album/5LaEOiUvmv5sTX4lEPIxD6) | 2:58 | 2023-08-28 | 2023-10-16 |
 | [The Wind \(ヤキモチ\)](https://open.spotify.com/track/1SCWdnVZia7xL07c3NPgY3) | [La Jiao](https://open.spotify.com/artist/3yZMiB20tCWB68QWMz9q2k) | [The Wind \(ヤキモチ\)](https://open.spotify.com/album/19qSjegwcP8NYsQnX623bp) | 5:25 | 2022-06-06 | 2022-07-28 |
@@ -296,7 +297,7 @@
 | [想啊,想著你](https://open.spotify.com/track/19Rl0IayqFowdGavS3k56E) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [想啊,想著你\-影視旗艦大戲《她們創業的那些鳥事》片尾曲](https://open.spotify.com/album/031LPYqzaLIvDeUam8kN0c) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [想太多](https://open.spotify.com/track/70X5NZdfkX4pEd2fBE1ywD) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [re:start](https://open.spotify.com/album/58QNgpJYrrvvuYVYQqAR44) | 3:49 | 2024-10-31 | 2024-11-08 |
 | [想念你想我](https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想念你想我](https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0) | 4:00 | 2024-11-14 |  |
-| [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 | 2025-02-20 | 2025-02-28 |
+| [想悄悄住進你的靈魂 \(電視劇《難哄》插曲\)](https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [想悄悄住進你的靈魂](https://open.spotify.com/album/7AceFgFxvjH64hBcGZsB6d) | 4:01 | 2025-02-20 |  |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2022-06-06 |  |
 | [意外 \(電視劇《你是我的城池營壘》片尾曲\)](https://open.spotify.com/track/5Kj5fxNuOADrnT5J4UlhYq) | [葉炫清](https://open.spotify.com/artist/5I6ITatEFXwGXzBcz9MXho), [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [意外 \(電視劇《你是我的城池營壘》片尾曲\)](https://open.spotify.com/album/3ZXgIcaW6snar84gaOtnkA) | 4:16 | 2022-06-06 | 2022-07-24 |
 | [愛上你等於愛上寂寞](https://open.spotify.com/track/1g2l9OvadMo1MJvjFlBZ57) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不如在歌裡遇見](https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5) | 4:09 | 2023-01-10 | 2023-06-20 |
@@ -315,7 +316,7 @@
 | [慶記](https://open.spotify.com/track/0bAoDkEvih3pF4ZnOLfgZg) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [慶記](https://open.spotify.com/album/6Vaa3sSeIZ3GTtAhUacmze) | 4:21 | 2024-12-20 | 2025-01-29 |
 | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx) | [陳建瑋](https://open.spotify.com/artist/6efddg2D2BhHmcYoV4pTqS), [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/album/39nGdvUtKAVHdJZdjsY0EC) | 4:48 | 2024-06-27 | 2024-07-29 |
 | [我不是白馬王子 \(feat\. 高爾宣 & 李杰明\)](https://open.spotify.com/track/3v9017g56OYJzBmBtSxzSi) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [高爾宣](https://open.spotify.com/artist/7rrL3cuBnPUQyGIMCfyzpD), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 3:35 | 2022-08-15 | 2022-08-31 |
-| [我不會](https://open.spotify.com/track/115wlsvvbtdKBDqGNwsrhI) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [我不會](https://open.spotify.com/album/4rS9ZJCANCLFcMDbl6jnYy) | 3:36 | 2024-11-21 |  |
+| [我不會](https://open.spotify.com/track/115wlsvvbtdKBDqGNwsrhI) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [我不會](https://open.spotify.com/album/4rS9ZJCANCLFcMDbl6jnYy) | 3:36 | 2024-11-21 | 2025-03-01 |
 | [我不能不能喜歡你 \(影集《童話故事下集》插曲\)](https://open.spotify.com/track/7sqA93cjcNDer3y2ThjuLy) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [我不能不能喜歡你](https://open.spotify.com/album/4NWWpSqA42Y7axqD9Ha5Ed) | 4:30 | 2025-02-27 |  |
 | [我不該哭 feat\. 告五人](https://open.spotify.com/track/1Px1DdlnMxUHKfTXZNaiBr) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我不該哭](https://open.spotify.com/album/6ukRpd0nZY8qsLijk0ROJR) | 4:44 | 2024-05-09 | 2024-10-19 |
 | [我不配擁有你](https://open.spotify.com/track/7tIfDpo4l2S97iNLtTbE15) | [王士榛](https://open.spotify.com/artist/7f7WNsb6RjoEVn6lJpMCWD) | [我不配擁有你](https://open.spotify.com/album/5MovnTTl89bfb39yL67mrh) | 3:48 | 2022-12-19 | 2022-12-27 |

@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Model/Actriz",
-  "num_followers": 285412,
+  "num_followers": 285473,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "A Distant Life",
         "url": "https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 160080,
       "name": "A Distant Life",
       "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Conditions III",
         "url": "https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 298687,
       "name": "Pool Scene",
       "url": "https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "purepurepure",
-        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
-      },
-      "artists": [
-        {
-          "name": "Her New Knife",
-          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "purepurepure",
-      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "hear a whisper",
         "url": "https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 219906,
       "name": "hear a whisper",
       "url": "https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 144599,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/24KYf336u77wpwBUDxAWh5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 120053,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6ix0BdjxI5QfqYMd2IhCL8"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "I Wanna Be On Your Mind",
-        "url": "https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa"
-      },
-      "artists": [
-        {
-          "name": "2nd Grade",
-          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "I Wanna Be On Your Mind",
-      "url": "https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Birthday Song",
         "url": "https://open.spotify.com/album/7ipV6YkeGj8xl8dufnslLZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 211786,
       "name": "Birthday Song",
       "url": "https://open.spotify.com/track/4447tbia1NdEojI4JsxCRX"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "I Wanna Be On Your Mind",
+        "url": "https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa"
+      },
+      "artists": [
+        {
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "I Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
         "name": "High Value Male",
         "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Sprinter Brain",
-        "url": "https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Sprinter Brain",
-      "url": "https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Default Parody",
         "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 207760,
       "name": "Default Parody",
       "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Sprinter Brain",
+        "url": "https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Sprinter Brain",
+      "url": "https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y"
-      },
-      "artists": [
-        {
-          "name": "No Windows",
-          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Cockpit",
         "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Stare At The Sun",
-        "url": "https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Cosmic Leash",
         "url": "https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 281719,
       "name": "Cosmic Leash",
       "url": "https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP"
     },
     {
       "added_at": "2025-02-25 23:07:42",

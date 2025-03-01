@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 7768,
+  "num_followers": 7804,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Alucin",
+        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "Alucin",
+      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
       },
@@ -723,34 +751,6 @@
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Alucin",
-        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 197114,
-      "name": "Alucin",
-      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG - ELASTIC HEART",
-        "url": "https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hits",
-          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
-        }
-      ],
-      "duration_ms": 80009,
-      "name": "MTG - ELASTIC HEART",
-      "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Ella Ya Me Olvido (Radio Edit)",
         "url": "https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 249628,
       "name": "Ella Ya Me Olvido - Radio Edit",
       "url": "https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG - ELASTIC HEART",
+        "url": "https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hits",
+          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
+        }
+      ],
+      "duration_ms": 80009,
+      "name": "MTG - ELASTIC HEART",
+      "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2091,6 +2091,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG T\u00f4 Nem A\u00ed",
+        "url": "https://open.spotify.com/album/00ZhKaRmHMp3pMCPFK0Z6l"
+      },
+      "artists": [
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        },
+        {
+          "name": "Luka",
+          "url": "https://open.spotify.com/artist/4zsL84VX58gwFW07dWQGer"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "MTG T\u00f4 Nem Ai",
+      "url": "https://open.spotify.com/track/6GIofgAZPjLMxBDQ6RGqmV"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Infarto",
         "url": "https://open.spotify.com/album/1Whvjbd1ElCTFMC2VYV6r4"
       },
@@ -2115,30 +2139,6 @@
       "duration_ms": 166217,
       "name": "MTG Infarto",
       "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG T\u00f4 Nem A\u00ed",
-        "url": "https://open.spotify.com/album/00ZhKaRmHMp3pMCPFK0Z6l"
-      },
-      "artists": [
-        {
-          "name": "Lukkas",
-          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
-        },
-        {
-          "name": "Luka",
-          "url": "https://open.spotify.com/artist/4zsL84VX58gwFW07dWQGer"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "MTG T\u00f4 Nem Ai",
-      "url": "https://open.spotify.com/track/6GIofgAZPjLMxBDQ6RGqmV"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2347,30 +2347,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "TENHO MEDO - VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
-      },
-      "artists": [
-        {
-          "name": "DJPEJOTA",
-          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
-        },
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Drop Records",
-          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "TENHO MEDO - VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx"
       },
@@ -2399,6 +2375,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "TENHO MEDO - VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
+      },
+      "artists": [
+        {
+          "name": "DJPEJOTA",
+          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Drop Records",
+          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "TENHO MEDO - VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "WHAT IS LOVE (MTG)",
-        "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
+        "name": "Vallenato Parrandero",
+        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
       },
       "artists": [
         {
-          "name": "DJ YAPPER",
-          "url": "https://open.spotify.com/artist/4EdRMnSFTAlFTZyYDLycQy"
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
         }
       ],
-      "duration_ms": 135432,
-      "name": "WHAT IS LOVE - MTG",
-      "url": "https://open.spotify.com/track/4hia0R5RRnE5XRByvfeEqr"
+      "duration_ms": 179141,
+      "name": "Vallenato Parrandero",
+      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vallenato Parrandero",
-        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
+        "name": "WHAT IS LOVE (MTG)",
+        "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
       },
       "artists": [
         {
-          "name": "Daniel Parranda",
-          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
+          "name": "DJ YAPPER",
+          "url": "https://open.spotify.com/artist/4EdRMnSFTAlFTZyYDLycQy"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Vallenato Parrandero",
-      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
+      "duration_ms": 135432,
+      "name": "WHAT IS LOVE - MTG",
+      "url": "https://open.spotify.com/track/4hia0R5RRnE5XRByvfeEqr"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Aluc\u00edn",
+        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Aluc\u00edn",
+      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -2531,22 +2547,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Aluc\u00edn",
-        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Aluc\u00edn",
-      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2795,6 +2795,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Me Elevas",
         "url": "https://open.spotify.com/album/76ogfN9beRUKKnz0e30mtf"
       },
@@ -2831,22 +2847,6 @@
       "duration_ms": 302832,
       "name": "Que Todo",
       "url": "https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2955,26 +2955,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 177807,
-      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -2991,6 +2971,26 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 177807,
+      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3191,26 +3191,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Perdiendo El Control",
-        "url": "https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Marco Acevedo",
-          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
-        }
-      ],
-      "duration_ms": 184685,
-      "name": "Perdiendo El Control",
-      "url": "https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -3235,6 +3215,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Perdiendo El Control",
+        "url": "https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
+        }
+      ],
+      "duration_ms": 184685,
+      "name": "Perdiendo El Control",
+      "url": "https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Modo St1ngy",
         "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
       },
@@ -3251,22 +3251,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "NO MIENTEN (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8"
+        "name": "Trackhouse",
+        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 154687,
-      "name": "NO MIENTEN - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK"
+      "duration_ms": 135348,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
     }
   ],
   "unique_name": "los prohibidos",

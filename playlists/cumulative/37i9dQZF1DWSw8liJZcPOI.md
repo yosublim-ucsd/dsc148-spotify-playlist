@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-599 songs - 1 day 16 hr 59 min
+600 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Love](https://open.spotify.com/track/4Tni0eZOEBwZ7Dd1Q4izKL) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Mirage](https://open.spotify.com/album/6cDsArOrAhLmf6zDWEdRjQ) | 6:18 | 2020-10-20\* | 2022-04-20 |
 | [Lunar](https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunar](https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr) | 3:09 | 2024-12-24 |  |
 | [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-14 |  |
-| [Lóa \- Bing & Ruth Rework](https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Absent Minded Reworks](https://open.spotify.com/album/4PUlR86gpB0q6IaCq4A5rY) | 3:30 | 2020-11-13 |  |
+| [Lóa \- Bing & Ruth Rework](https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Absent Minded Reworks](https://open.spotify.com/album/4PUlR86gpB0q6IaCq4A5rY) | 3:30 | 2020-11-13 | 2025-03-01 |
 | [Lørdag](https://open.spotify.com/track/0Z5pSKgPVk3UFIZnYxajzX) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Lørdag](https://open.spotify.com/album/3tZ1iqJfrths705Vlb782o) | 1:52 | 2020-12-11 | 2022-04-18 |
 | [Mahler Remix 4 \- Live](https://open.spotify.com/track/31ittJiCPkK2D8cXwZ2XSi) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mahler Remix](https://open.spotify.com/album/2DVV5Yk0sfWbnF1KAUI5gd) | 10:38 | 2021-02-06 | 2021-02-12 |
 | [Mauer Blues](https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [By the Deep Sea](https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82) | 4:01 | 2021-02-23 | 2021-03-14 |
@@ -510,6 +510,7 @@
 | [The Last Farm 1](https://open.spotify.com/track/3bv1vY5juCPQKPo0KyK0Pg) | [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [The Last Farm \(Original Score\)](https://open.spotify.com/album/2KKshk8idnRmiNmESigDsA) | 1:41 | 2020-12-04 | 2020-12-11 |
 | [The Last Farm 5](https://open.spotify.com/track/2HlYuR1qGyWDvhfnsJOnpz) | [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [The Last Farm \(Original Score\)](https://open.spotify.com/album/2KKshk8idnRmiNmESigDsA) | 2:46 | 2020-12-04 | 2020-12-11 |
 | [The Light I](https://open.spotify.com/track/19xrX5l38HhIyImUfFKAfZ) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [The Light I](https://open.spotify.com/album/2WB2NrI0CXJnjjUkCl4YxC) | 4:30 | 2022-03-14 |  |
+| [The Monolith](https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar \(Traveler’s Log\)](https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j) | 4:32 | 2025-02-28 |  |
 | [The Myth](https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Myth](https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt) | 3:41 | 2021-02-12 | 2024-11-21 |
 | [The Nomad](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [The Nomad](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 2:57 | 2021-02-23 | 2022-04-17 |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-05-13 |  |

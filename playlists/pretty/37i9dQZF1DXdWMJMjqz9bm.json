@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: iann dior",
-  "num_followers": 218838,
+  "num_followers": 218840,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7y9HwAAAAArD3EidfSSOfdyGl8jLY8M",
+  "snapshot_id": "Z8FC8QAAAAAn6EyHRpDBXqjgMla4/G9G",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -231,6 +231,26 @@
       "duration_ms": 127674,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0hPcUhIAiauzL0kLsGcNUt"
+    },
+    {
+      "added_at": "2025-02-28 05:00:33",
+      "album": {
+        "name": "2Much 2Fast (feat. Landon Cube)",
+        "url": "https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        },
+        {
+          "name": "Landon Cube",
+          "url": "https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD"
+        }
+      ],
+      "duration_ms": 157114,
+      "name": "2Much 2Fast (feat. Landon Cube)",
+      "url": "https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4"
     },
     {
       "added_at": "2024-05-31 16:56:00",

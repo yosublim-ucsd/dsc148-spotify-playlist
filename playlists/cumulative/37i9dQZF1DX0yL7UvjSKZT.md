@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-496 songs - 1 day 6 hr 41 min
+499 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Forever, You & I](https://open.spotify.com/track/3fkRPK9CvfZAqmbwSLSxh4) | [Victoria Bailey](https://open.spotify.com/artist/3C3tthEpjOj8aOY66kx3Fx) | [Snake Trails](https://open.spotify.com/album/082Kc4ODfaLCjsF0E2WGmk) | 3:30 | 2023-08-18 | 2024-08-31 |
 | [Fox Hunt](https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Fox Hunt](https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq) | 3:16 | 2023-10-20 | 2024-05-11 |
 | [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 | 2022-07-08 |  |
+| [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/track/6Yo9Ro78exOz0zfju18jxm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d) | [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/album/3kg7JnKVAEBzhcNfujDaeu) | 3:27 | 2025-02-28 |  |
 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 | 2022-01-14 | 2024-05-11 |
 | [Full Moons \(Leap Year Session\)](https://open.spotify.com/track/4esmXORCmAYgOpdHJvJDM8) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Full Moons \(Leap Year Session\)](https://open.spotify.com/album/1iI4uR09Thpmx67W4z0lo7) | 4:19 | 2024-03-22 | 2025-02-15 |
 | [Fédon](https://open.spotify.com/track/4AQvuoHUEIde5FVM3iqwpK) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Fédon](https://open.spotify.com/album/5rbv19FUmbvYZ9ANnIh8wl) | 3:44 | 2024-05-10 |  |
@@ -311,6 +312,7 @@
 | [Pink and Blue](https://open.spotify.com/track/263SGPJWIAoTr4zSXNaasZ) | [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x), [The Gatherers](https://open.spotify.com/artist/134PLBpnApdihCnvNKyXhd) | [Shanti's Shadow](https://open.spotify.com/album/6COhRbw1IMj5wmGIhSXf92) | 3:51 | 2022-07-22 | 2022-10-01 |
 | [Pink and Blue](https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X) | [Phoebe Hunt & The Gatherers](https://open.spotify.com/artist/5n1AeCdes4kBP15JgHwhmn) | [Shanti's Shadow](https://open.spotify.com/album/0cqIEu0zILQLbtU0MI9chW) | 3:51 | 2021-10-01 | 2022-07-29 |
 | [Planetarium](https://open.spotify.com/track/4Ks73actcqVURztJs04h9s) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6) | [Planetarium](https://open.spotify.com/album/0WyTRxxqNKpoPr4HnP5ElV) | 3:54 | 2024-04-26 |  |
+| [Poison Well](https://open.spotify.com/track/1ho0kCHtzFiq6zjUy1jLDm) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [Spirits](https://open.spotify.com/album/6C6wQd3tAI15rGQD35Rlwj) | 3:43 | 2025-02-28 |  |
 | [Pond Creek Bottom](https://open.spotify.com/track/7lu5TVgVsmtr5haGZbgFWT) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [The Magnolia Sessions](https://open.spotify.com/album/2tzFlo0jANl3paolzd9ww7) | 1:19 | 2024-12-13 |  |
 | [Prelude: An Elemental Search](https://open.spotify.com/track/1wvveTJkxKP9ZpweilllGk) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [The Crown of Elements](https://open.spotify.com/album/0iEkjMOPEvgCSgf0fb4jKQ) | 2:08 | 2023-07-21 | 2024-05-11 |
 | [Pretty Polly \- Bluegrass](https://open.spotify.com/track/7GNIQFh5cE3zGSAg4Sulgh) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:33 | 2021-10-01 | 2022-01-22 |
@@ -360,6 +362,7 @@
 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 | 2023-05-15 | 2024-02-24 |
 | [Sleeptalking](https://open.spotify.com/track/1cM6J7w8USlRVBz2qsAd47) | [Peter Groppe](https://open.spotify.com/artist/6acVRuS3iyAQH9LXDrsRL5), [Annie Elise](https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq) | [Sleeptalking](https://open.spotify.com/album/347KmzgyYTujDnrWn9PsnR) | 2:58 | 2023-08-11 | 2024-08-31 |
 | [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 | 2023-08-11 |  |
+| [Small Town Scandal \(Bluegrass Version\)](https://open.spotify.com/track/48TliGToigYGdZiqKSrcMF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 4:00 | 2025-02-28 |  |
 | [Small Towns \(Are Smaller for Girls\)](https://open.spotify.com/track/5kOTn1SJ6cYZflxDX3ujaU) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 3:05 | 2024-04-12 |  |
 | [Smoke](https://open.spotify.com/track/5phyocQUvFInRtHBHZLl8F) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [Smoke](https://open.spotify.com/album/5LK9FIIcTQ7mcNq9HoeSzL) | 3:02 | 2024-08-16 |  |
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2023-05-15 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,992 likes - 93 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,030 likes - 93 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 92 | [Quite Simple](https://open.spotify.com/track/5ff5xyh4tpB1IBKBBSZ9Jc) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Quite Simple](https://open.spotify.com/album/6L9NCzWoGx50YJounZFLY3) | 3:10 |
 | 93 | [Room](https://open.spotify.com/track/7K7v830MV4FznCGUY2xPsL) | [Sleeper's Bell](https://open.spotify.com/artist/4UzwKcLphNBwmK52Y5MC1c) | [Room](https://open.spotify.com/album/4HXixzCKu5s7EjOm8hDfkn) | 3:17 |
 
-Snapshot ID: `Z79IpAAAAABPOYmVW7LTZpTlVyPtv+zV`
+Snapshot ID: `Z79IpAAAAADtUhEafVNHOzoP4dwfnT3z`

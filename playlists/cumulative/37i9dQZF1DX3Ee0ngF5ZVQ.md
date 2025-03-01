@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-687 songs - 1 day 16 hr 54 min
+688 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 | 2021-12-17 | 2023-09-02 |
 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 | 2021-12-17 | 2022-03-19 |
 | [Whiskey Talkin'](https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Whiskey Talkin'](https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7) | 3:33 | 2024-07-26 | 2024-09-24 |
-| [Whiskey to Work](https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Never Not Love You](https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD) | 3:24 | 2024-09-27 |  |
+| [Whiskey to Work](https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Never Not Love You](https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD) | 3:24 | 2024-09-27 | 2025-03-01 |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 | 2021-12-17 | 2022-07-22 |
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 | 2025-01-12 |
@@ -695,5 +695,6 @@
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Alpine](https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Your Alpine](https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv) | 4:39 | 2023-10-06 | 2023-12-16 |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 | 2025-01-06 |
+| [Your Kinda Guy](https://open.spotify.com/track/1kHcWTgsMNwduZzS8K8RTt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Your Kinda Guy](https://open.spotify.com/album/2u0yPFMd8n3qlIupYUPNun) | 3:17 | 2025-02-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

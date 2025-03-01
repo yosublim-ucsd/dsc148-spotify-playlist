@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 207312,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 318640,
       "name": "Bam Lahiri",
       "url": "https://open.spotify.com/track/1GOz6dymml329j8Z5s8Gl0"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 300373,
       "name": "Bholenath - A Love Story",
       "url": "https://open.spotify.com/track/7tmofPELD2LKovM6wU1axP"
@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP"
@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 359955,
       "name": "Har Har Shambhu Shiv Mahadeva",
       "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
@@ -8074,7 +8074,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 268463,
       "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
       "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
@@ -8761,6 +8761,36 @@
     },
     {
       "album": {
+        "name": "Ishq Mein (From \"Nadaaniyan\")",
+        "url": "https://open.spotify.com/album/0SgOQOj9jYXXQxDoRuDsM9"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "Ishq Mein (From \"Nadaaniyan\")",
+      "url": "https://open.spotify.com/track/4jigZPtP8wuNy2vnQw7dUn"
+    },
+    {
+      "album": {
         "name": "The Dirty Picture",
         "url": "https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO"
       },
@@ -8776,7 +8806,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 325257,
       "name": "Ishq Sufiyana (Male)",
       "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
@@ -8976,7 +9006,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 212108,
       "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
       "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
@@ -11354,7 +11384,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236355,
       "name": "Laagi Lagan Shankara",
       "url": "https://open.spotify.com/track/31ERGnSwXXxMqyOdeblMF7"
@@ -13720,7 +13750,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 411689,
       "name": "Mera Bhola Hai Bhandari",
       "url": "https://open.spotify.com/track/5g8FuYMyAkFu4cmiVeVULC"
@@ -14022,7 +14052,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -14946,7 +14976,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 324168,
       "name": "Namami Shamishan",
       "url": "https://open.spotify.com/track/3pQOhRPdlf1g3o0tek8akx"
@@ -14982,7 +15012,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 322250,
       "name": "Namo Namo",
       "url": "https://open.spotify.com/track/6DwBCjospi1c9WsRVfoCwN"
@@ -15450,7 +15480,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 251818,
       "name": "O Saathi",
       "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
@@ -16196,7 +16226,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 439340,
       "name": "Parvati Boli Shankar Se",
       "url": "https://open.spotify.com/track/2pBtf4a7ltkD9hAoCXBrjg"
@@ -16458,7 +16488,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
@@ -18904,7 +18934,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 305528,
       "name": "Shiv Kailasho Ke Vasi",
       "url": "https://open.spotify.com/track/3ye3eYGqAB8WJJPrcnjHrF"
@@ -18940,7 +18970,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 333322,
       "name": "Shiv Sama Rahe",
       "url": "https://open.spotify.com/track/2AQkuUb8lKvepVtu0wmE0L"
@@ -18958,7 +18988,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 553227,
       "name": "Shiv Tandav Stotram",
       "url": "https://open.spotify.com/track/5klXT8EMMeQtlOkhpcXJmn"
@@ -20274,7 +20304,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 236436,
       "name": "Tera Ban Jaunga (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/4OcvkkpF3xmyCGGY5IBlgi"
@@ -20700,7 +20730,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -21488,7 +21518,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/1798CxIpbFCXGKbfWarbTL"
@@ -21518,7 +21548,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
@@ -21800,7 +21830,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 261974,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di"
@@ -22238,7 +22268,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"

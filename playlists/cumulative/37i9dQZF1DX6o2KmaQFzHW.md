@@ -4,7 +4,7 @@
 
 > Clásicos de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino
 
-244 songs - 14 hr 16 min
+247 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:40 | 2021-07-23 |  |
 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/7bDlnoDZMnOZeS9caKawpd) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Entre a Mi Pago Sin Golpear](https://open.spotify.com/album/7vegLBadnGhNvgpBrBOOVX) | 3:48 | 2021-07-23 | 2024-11-14 |
 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 | 2021-07-23 | 2024-11-14 |
+| [Cuando Vuelvo a Cafayate](https://open.spotify.com/track/6Ne3zaRORMjnOvNbEM2zTQ) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Cuando Vuelvo a Cafayate](https://open.spotify.com/album/0L2DBosTYBEPghLd81l7gD) | 2:58 | 2025-02-28 |  |
 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 | 2022-02-21 | 2024-04-19 |
 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Coleccion Aniversario](https://open.spotify.com/album/4FYJKa0ohgXoDoWVerH45P) | 2:58 | 2021-07-23 | 2024-11-26 |
 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/0bSDRwi6Cc8Qqp7RMM9vC6) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [La Historia](https://open.spotify.com/album/3Vl530kXcucjG8KLFPANtR) | 3:10 | 2021-07-23 |  |
@@ -138,6 +139,7 @@
 | [La Ley y La Trampa](https://open.spotify.com/track/22Lq8kVbpIUJeaqwaWMbc6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley y La Trampa](https://open.spotify.com/album/3zYO2TBoDkiRim2Lpmz0mJ) | 2:53 | 2022-02-21 | 2022-11-13 |
 | [La Litoreña \(En Vivo\) \(with Chaqueño Palavecino\)](https://open.spotify.com/track/0kl5ilkKlz7TKZ77n8KmIl) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Soledad 20 Años \(En Vivo\)](https://open.spotify.com/album/1PzyGjHTnlMZnfqrP9M4z0) | 3:10 | 2021-07-23 | 2024-11-26 |
 | [La Lopez Pereyra](https://open.spotify.com/track/7DwLCYC4Vd9YUDjRsEgVw5) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [En Europa](https://open.spotify.com/album/1m2xRZVDfjrtI9hE4Rtply) | 4:02 | 2022-02-21 | 2022-11-12 |
+| [LA LUNA \- En Vivo Estadio Delmi](https://open.spotify.com/track/479OJeeg9SHxiVxEW4WaN9) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [LA LUNA \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/1nxsK5uDGMfrQHIURyx0Qn) | 6:05 | 2025-02-28 |  |
 | [La López Pereira](https://open.spotify.com/track/2DeqxMwUvnrzmSznRnCICh) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Folklore argentino](https://open.spotify.com/album/0JeMoZFYDaXQbLRALuByvr) | 4:04 | 2021-07-23 |  |
 | [La Malvada](https://open.spotify.com/track/1slQGKMnJZdwYwDsVSWtb3) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Malvada](https://open.spotify.com/album/1gwhRoMByDMJhRKYMvjG0P) | 2:56 | 2021-07-23 | 2024-11-26 |
 | [La Nochera](https://open.spotify.com/track/3cMzShrqtSRaEbdTP8nWl9) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:40 | 2024-05-03 | 2024-11-14 |
@@ -212,6 +214,7 @@
 | [Si Se Calla El Cantor](https://open.spotify.com/track/2P7OgqbN6vtwsAvJnXh7q5) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [La Historia](https://open.spotify.com/album/3Vl530kXcucjG8KLFPANtR) | 3:21 | 2021-07-23 | 2024-11-26 |
 | [Si Se Calla el Cantor \- En Vivo](https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Sole y Horacio juntos por Única Vez \(Grabado en Vivo en el Luna Park\)](https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc) | 3:22 | 2021-07-23 | 2024-11-26 |
 | [Sol Nocturno](https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Sol Nocturno, Pt\. 1](https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR) | 3:53 | 2021-07-23 | 2022-07-29 |
+| [Soledad de Espinelero \- Edición 2025](https://open.spotify.com/track/2c1jDkMqkgj4F6aWXA8oh9) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [La San Llamarada](https://open.spotify.com/album/0TJESlEtz8Y01PhNZC8rYS) | 3:14 | 2025-02-28 |  |
 | [Sombra Enamorada](https://open.spotify.com/track/3Ea7tLiwF8LlgoUDvjhwWH) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 3:14 | 2021-07-23 | 2024-11-26 |
 | [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/track/3zMTlNMDjiTc4I9SWf2ZHI) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy) | 4:18 | 2023-06-22 | 2024-11-14 |
 | [Soy Un Inconsciente](https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 3:01 | 2021-07-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 553524,
+  "num_followers": 554137,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAACpYY9f/t8InfnoSqClnDYi",
+  "snapshot_id": "Z7+rAAAAAADltY5fwwLZBv4t+hmqj4K5",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan's Greatest Hits",
         "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 233533,
       "name": "Positively 4th Street",
       "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 234626,
       "name": "Maggie's Farm",
       "url": "https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Corrina, Corrina",
+      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bob Dylan's Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tomorrow Is a Long Time - Live at Town Hall, New York, NY - April 1963",
+      "url": "https://open.spotify.com/track/33sjOTo0KW2w7D9jaUA2pg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Basement Tapes",
         "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 162880,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Dylan's Greatest Hits Volume II",
-        "url": "https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tomorrow Is a Long Time - Live at Town Hall, New York, NY - April 1963",
-      "url": "https://open.spotify.com/track/33sjOTo0KW2w7D9jaUA2pg"
     }
   ],
   "unique_name": "This Is Bob Dylan",

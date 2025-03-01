@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198533,
       "name": "A White Horse Covered In Blood",
       "url": "https://open.spotify.com/track/2BZ3Xf6yu0KWGtdzoMuWsR"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 204869,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 157741,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/7uAWPqXthO4pO2Exc8V90t"
@@ -2560,6 +2560,28 @@
       "duration_ms": 190338,
       "name": "Boys Who Play with Matches",
       "url": "https://open.spotify.com/track/330zqNmKMaTosoPnS2qtgZ"
+    },
+    {
+      "album": {
+        "name": "Brain Dead",
+        "url": "https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Brain Dead",
+      "url": "https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5"
     },
     {
       "album": {
@@ -4005,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "dark things",
+        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280776,
+      "name": "dark things",
+      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
+    },
+    {
+      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -5153,6 +5193,36 @@
     },
     {
       "album": {
+        "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
+        "url": "https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Aaron Gilhuis",
+          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
+        },
+        {
+          "name": "Queen of the Ring",
+          "url": "https://open.spotify.com/artist/6pxTs68Zd9L3OHjCBCMhMR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
+      "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
+    },
+    {
+      "album": {
         "name": "Dying To Believe",
         "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
       },
@@ -5200,7 +5270,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 277201,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
@@ -7010,7 +7080,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 244397,
       "name": "Glass Shatters - New Mix",
       "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
@@ -8248,6 +8318,28 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "album": {
+        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
     },
     {
       "album": {
@@ -9660,7 +9752,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221795,
       "name": "JIM BOB",
       "url": "https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK"
@@ -11730,7 +11822,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 200477,
       "name": "Midnight Friends",
       "url": "https://open.spotify.com/track/3IrF2AfAZbmKH6YZq2Mafg"
@@ -16830,7 +16922,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 180625,
       "name": "SOWHAT1999",
       "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
@@ -17076,6 +17168,24 @@
       "duration_ms": 258372,
       "name": "Sticky Situations",
       "url": "https://open.spotify.com/track/2SsVueoqdq0RmvqO98SSee"
+    },
+    {
+      "album": {
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226904,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe"
     },
     {
       "album": {
@@ -18882,7 +18992,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171034,
       "name": "The Void",
       "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
@@ -21566,6 +21676,32 @@
       "duration_ms": 268235,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
+    },
+    {
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "PLVTINUM",
+          "url": "https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn"
+        },
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189494,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7IF328weNbUocWsxzosLsB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Slayter & Cris Mj, Bad Bunny, Anitta, FloyyMenor and more. \ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Myke Towers, Junior H & The Rudeboyz, Bad Bunny, Anitta, and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210775,
       "name": "Costumbre",
       "url": "https://open.spotify.com/track/1AZKU58igbwYwrLTav5m6u"
@@ -3000,6 +3000,24 @@
       "duration_ms": 228933,
       "name": "Dile (Homenaje)",
       "url": "https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/31Msggk5KAwDs5xCLflufg"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dile a \u00c9L",
+      "url": "https://open.spotify.com/track/6cIqskfnJeXgfltCuas8lx"
     },
     {
       "album": {
@@ -6544,6 +6562,32 @@
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "album": {
+        "name": "MAL DE AMORES",
+        "url": "https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "MAL DE AMORES",
+      "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
     },
     {
       "album": {
@@ -11026,7 +11070,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172173,
       "name": "Sin Gps",
       "url": "https://open.spotify.com/track/3pIPpQpw4ytCo8LOy4pozN"
@@ -13090,6 +13134,24 @@
       "duration_ms": 146406,
       "name": "Zoom Zoom",
       "url": "https://open.spotify.com/track/2Bf7izPNpcTVNL41bdyFic"
+    },
+    {
+      "album": {
+        "name": "\u00c9LITE",
+        "url": "https://open.spotify.com/album/7xutb4C0MWLlUNMWXrSHY4"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "\u00c9LITE",
+      "url": "https://open.spotify.com/track/5Za4Ocbq6E0qAYOYiKEV9R"
     },
     {
       "album": {

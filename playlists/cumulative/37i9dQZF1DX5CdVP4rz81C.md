@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Joya Marleen
+> Discover your favorite new chill pop songs\. Cover: d4vd & Kali Uchis
 
-1,759 songs - 3 day 20 hr 58 min
+1,760 songs - 3 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Crash](https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Crash](https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ) | 3:14 | 2022-04-01 | 2022-05-14 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-09-11 | 2021-11-13 |
 | [crash](https://open.spotify.com/track/3KeRiLJg8l0xQx7gU59EYt) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [crash](https://open.spotify.com/album/7oHkAzKI2ImQrUnd71HSoo) | 2:13 | 2023-02-17 | 2023-04-09 |
+| [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 |  |
 | [Crickets](https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 2:51 | 2023-05-09 | 2023-05-27 |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2021-03-26 | 2021-05-08 |
 | [Cruise Control](https://open.spotify.com/track/0sq2fTCBTXQ90xGzKdVsjp) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/6JBfgkMITz2i7qnDISsPXT) | 2:39 | 2021-01-23 | 2021-02-12 |
@@ -1700,7 +1701,7 @@
 | [When I´m Still Getting Over You \(feat\. Paige\)](https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [When I´m Still Getting Over You \(feat\. Paige\)](https://open.spotify.com/album/22DgDTv6KXY6rpEyFbzcPR) | 2:53 | 2022-02-04 | 2022-05-14 |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-09 | 2022-05-28 |
 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 | 2021-05-22 | 2021-08-07 |
-| [When The Love Is Gone](https://open.spotify.com/track/5xD7B3SkaisxolPwBN3Ez6) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [When The Love Is Gone](https://open.spotify.com/album/677wnRC7GJyzKYOYNEYJW3) | 2:40 | 2024-05-17 |  |
+| [When The Love Is Gone](https://open.spotify.com/track/5xD7B3SkaisxolPwBN3Ez6) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [When The Love Is Gone](https://open.spotify.com/album/677wnRC7GJyzKYOYNEYJW3) | 2:40 | 2024-05-17 | 2025-03-01 |
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2020-12-11 | 2021-03-14 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 | 2022-02-09 |
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-14 | 2023-08-26 |

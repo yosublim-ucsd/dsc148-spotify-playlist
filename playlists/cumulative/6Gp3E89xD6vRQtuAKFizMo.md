@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-407 songs - 19 hr 37 min
+409 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Drive Away Slow](https://open.spotify.com/track/793RMDpPvxf3f1MFI9Dhbn) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Drive Away Slow](https://open.spotify.com/album/59EFiO8WfiZr4f1urFi4rv) | 3:22 | 2025-01-17 |  |
 | [DROP](https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [DROP](https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F) | 2:49 | 2022-05-06 | 2022-10-01 |
 | [DROP 'EM](https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [DROP 'EM](https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky) | 2:42 | 2023-02-17 |  |
+| [Drop It Low](https://open.spotify.com/track/1OO5UsqmBs0zJ6gNiFtBrs) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Drop It Low](https://open.spotify.com/album/5tTRD6Y50fDdgOtmlwt5xp) | 2:17 | 2025-02-28 |  |
 | [Eclipse](https://open.spotify.com/track/2fGRhdxBQeJ1BKfOGp4bOU) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Eclipse](https://open.spotify.com/album/6pI4baZes1gQ3p6VETX9Z5) | 3:31 | 2023-04-21 |  |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2022-08-27 |
 | [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 | 2022-12-20 |
@@ -399,6 +400,7 @@
 | [Warp 1.9 \(feat\. Steve Aoki\) \- Westend & Cherry Tooth Remix](https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Warp 1.9 \(feat\. Steve Aoki\) \[Westend & Cherry Tooth Remix\]](https://open.spotify.com/album/7qCVuPyIdosx8QkFxuINON) | 2:47 | 2024-06-14 |  |
 | [Waste Time](https://open.spotify.com/track/3esfV6Z7oYSaxRvGQKvKr3) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Waste Time](https://open.spotify.com/album/1EgKGOmyAxHtk7ZQE0CKeD) | 2:25 | 2025-02-14 |  |
 | [Wat U Want](https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Wat U Want](https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi) | 2:24 | 2023-03-02 | 2023-05-21 |
+| [Watch Me](https://open.spotify.com/track/2EhEhgPbTatJFlmKIcTbA0) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Watch Me](https://open.spotify.com/album/6RRZb7gBUFhXJYBywCZhm2) | 1:50 | 2025-02-28 |  |
 | [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ) | 3:22 | 2024-02-23 |  |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 | 2023-04-09 |
 | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks) | 2:54 | 2022-08-19 | 2023-04-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 257282,
+  "num_followers": 257374,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -595,34 +595,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Hip Hop Revolucion Vol2",
-        "url": "https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        },
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "M. Contreras",
-          "url": "https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK"
-        }
-      ],
-      "duration_ms": 304346,
-      "name": "El Dia De Mi Suerte",
-      "url": "https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "No Podr\u00eda Estar Mejor",
         "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
       },
@@ -655,6 +627,34 @@
       "duration_ms": 260947,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6nq4eEHLFFvTA2Q1LuHdJK"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Hip Hop Revolucion Vol2",
+        "url": "https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+        },
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "M. Contreras",
+          "url": "https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK"
+        }
+      ],
+      "duration_ms": 304346,
+      "name": "El Dia De Mi Suerte",
+      "url": "https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o"
     },
     {
       "added_at": "2024-07-12 18:14:48",

@@ -2889,6 +2889,32 @@
     },
     {
       "album": {
+        "name": "Shore: The Fly (From \"The Fly\")",
+        "url": "https://open.spotify.com/album/4rJ2hRr0hytssrCzQo5Edj"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Orchestre Philharmonique de Radio France",
+          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
+        },
+        {
+          "name": "Ludwig Wicki",
+          "url": "https://open.spotify.com/artist/2MclOoZqoxERDUziTaStUc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113899,
+      "name": "The Fly - From \"The Fly\"",
+      "url": "https://open.spotify.com/track/7Bb9jNYQf7deYkduUtIq3C"
+    },
+    {
+      "album": {
         "name": "Bicentennial Man - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA"
       },

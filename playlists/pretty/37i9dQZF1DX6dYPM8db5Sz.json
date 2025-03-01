@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=DUTpxbScSdma0rEXXrW3Nw\">Hugo Pooe</a>",
-  "num_followers": 12483,
+  "num_followers": 12484,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
       "duration_ms": 263000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/00LGzFI1sjScDrOFHwWMHx"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 124649,
+      "name": "The Knife In Me",
+      "url": "https://open.spotify.com/track/7egTvzYXK70VDTnVksHw3w"
     },
     {
       "added_at": "2025-02-27 22:00:21",
@@ -679,7 +695,7 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Mango Tree",
+        "name": "Warm Again EP",
         "url": "https://open.spotify.com/album/2abGxZn2UK3QEWHX2dvFIi"
       },
       "artists": [

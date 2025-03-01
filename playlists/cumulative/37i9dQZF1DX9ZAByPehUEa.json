@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Fixed For Love EP",
+        "url": "https://open.spotify.com/album/28LJwGpxWA1NzQpFJtZFhD"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Fixed For Love",
+      "url": "https://open.spotify.com/track/30nXHVX2cSLZhAr8rcmXn6"
+    },
+    {
+      "album": {
         "name": "Fly Day Chinatown",
         "url": "https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak"
       },
@@ -3614,6 +3632,32 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "album": {
+        "name": "Inferno (No. 3)",
+        "url": "https://open.spotify.com/album/1GE4jSnmPJ4Bm3p0Hb5wvt"
+      },
+      "artists": [
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Emmet Read",
+          "url": "https://open.spotify.com/artist/3WvT8BJtMr4CILO0P6nXLD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361500,
+      "name": "Heartbreaker (feat. Emmet Read)",
+      "url": "https://open.spotify.com/track/3DUm3cOPLW7ZjjCqzWLsQ9"
     },
     {
       "album": {
@@ -4487,6 +4531,28 @@
     },
     {
       "album": {
+        "name": "I'm In Love With U (Steve 'Miggedy' Maestro Remixes)",
+        "url": "https://open.spotify.com/album/4homWNPsVADkwWNdneBxga"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Steve 'Miggedy' Maestro",
+          "url": "https://open.spotify.com/artist/7Fr0Knjfywv5NpNJwt0w9j"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385161,
+      "name": "I'm In Love With U - Miggedy Full Dizko Slap",
+      "url": "https://open.spotify.com/track/2fSuFjTNlSSUHzdiolr3BK"
+    },
+    {
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG"
       },
@@ -4554,7 +4620,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180480,
       "name": "I've Got The Music In Me",
       "url": "https://open.spotify.com/track/1xjNMYhO4d2ksWrgFaM1X2"
@@ -6012,7 +6078,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206600,
       "name": "Loving You So Bad",
       "url": "https://open.spotify.com/track/0dOgI06dl4clN7SNUJgvqF"
@@ -8456,7 +8522,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 248573,
       "name": "Secretariat (feat. Shaun J. Wright & Kon)",
       "url": "https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh"

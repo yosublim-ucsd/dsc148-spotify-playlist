@@ -1253,7 +1253,25 @@
     },
     {
       "album": {
-        "name": "Love On Love ft. D-Nice",
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
+    },
+    {
+      "album": {
+        "name": "Love On Love",
         "url": "https://open.spotify.com/album/3gpfJeWxuLhh5ydkB07hy9"
       },
       "artists": [
@@ -1270,7 +1288,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184000,
-      "name": "Love On Love ft. D-Nice",
+      "name": "Love On Love",
       "url": "https://open.spotify.com/track/42koUQJh10KPS7t9LswobV"
     },
     {

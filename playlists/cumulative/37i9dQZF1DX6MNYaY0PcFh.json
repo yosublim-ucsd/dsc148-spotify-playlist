@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149538,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7wetBN8fYQGEQyozI7fZMM"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160440,
       "name": "luv stuck",
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
@@ -3954,10 +3954,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 161715,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+    },
+    {
+      "album": {
+        "name": "Take No Chat",
+        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Take No Chat",
+      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
     },
     {
       "album": {

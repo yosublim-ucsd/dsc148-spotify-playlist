@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-162 songs - 6 hr 43 min
+163 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-05-09 |  |
 | [Solandis](https://open.spotify.com/track/3fxdFU7UuXbmos8FTVydU0) | [Maria Melua](https://open.spotify.com/artist/0ltDh2ebSVsK4Xd9wjM1L2) | [Solandis](https://open.spotify.com/album/7i2iTmTnMDyFBFBX8wEvrH) | 1:55 | 2023-05-09 |  |
 | [Solumn](https://open.spotify.com/track/6NTynu96oI1nXRWHm10Agr) | [Franz Ville](https://open.spotify.com/artist/6hQXyaaHszf1oLCq4KYRhn) | [Solumn](https://open.spotify.com/album/208hv2rYgpKJjxh9wrMPXz) | 2:27 | 2024-09-24 |  |
+| [Somewhere](https://open.spotify.com/track/6jR3xidOqwlv86dmqTtvte) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Somewhere](https://open.spotify.com/album/2Hr2y7y5blJuP0afa4hBix) | 1:58 | 2025-02-28 |  |
 | [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 |  |
 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 | 2025-02-18 |  |
 | [Sophie's Dream](https://open.spotify.com/track/0NuArIxWB7jwUpukJX48cb) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Stars over Salzburg](https://open.spotify.com/album/1OuTfuGjS8KZaoX8geI1gx) | 2:21 | 2023-05-09 | 2025-02-19 |

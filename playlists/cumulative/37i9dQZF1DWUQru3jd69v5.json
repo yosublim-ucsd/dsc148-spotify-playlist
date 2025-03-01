@@ -18219,6 +18219,24 @@
     },
     {
       "album": {
+        "name": "mary",
+        "url": "https://open.spotify.com/album/1UVsyffUBSgF2GfbXT33aT"
+      },
+      "artists": [
+        {
+          "name": "Kapri",
+          "url": "https://open.spotify.com/artist/1B4R8XKme2Ax87Fp2aoL14"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123271,
+      "name": "mary",
+      "url": "https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV"
+    },
+    {
+      "album": {
         "name": "MARYMARY",
         "url": "https://open.spotify.com/album/3EprkkwftNaHwjMyVSh7cu"
       },

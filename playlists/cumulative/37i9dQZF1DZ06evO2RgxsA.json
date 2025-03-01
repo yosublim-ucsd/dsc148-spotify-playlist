@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "She's Nubs",
+      "url": "https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP"
+    },
+    {
+      "album": {
         "name": "Maximum Rocknroll",
         "url": "https://open.spotify.com/album/5iGh6l7JnaIfw7x1Tz4mnj"
       },

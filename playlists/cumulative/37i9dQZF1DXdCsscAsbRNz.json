@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160666,
       "name": "A new day",
       "url": "https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 143624,
       "name": "A quiet dawn",
       "url": "https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC"
@@ -200,6 +200,24 @@
       "duration_ms": 151500,
       "name": "Aether Whisper",
       "url": "https://open.spotify.com/track/1iMGEvfZOmurGHSaMkMGlc"
+    },
+    {
+      "album": {
+        "name": "Aether Window",
+        "url": "https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma"
+      },
+      "artists": [
+        {
+          "name": "Quiet Robot",
+          "url": "https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Aether Window",
+      "url": "https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6"
     },
     {
       "album": {
@@ -308,6 +326,24 @@
       "duration_ms": 164130,
       "name": "Alone and Together",
       "url": "https://open.spotify.com/track/1rdFI1lGwGZucoxDRqHW9U"
+    },
+    {
+      "album": {
+        "name": "Along the Way",
+        "url": "https://open.spotify.com/album/0xauq0fJIvU1zLt4V9c4bD"
+      },
+      "artists": [
+        {
+          "name": "Koma",
+          "url": "https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167605,
+      "name": "Along the Way",
+      "url": "https://open.spotify.com/track/6vNFvvF0dg4LVW6LeUmcbN"
     },
     {
       "album": {
@@ -560,6 +596,24 @@
       "duration_ms": 147000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/0z8UPcYk8cjz7rfLy1GhlB"
+    },
+    {
+      "album": {
+        "name": "Assuage",
+        "url": "https://open.spotify.com/album/04olfxW6uK1QNcyXCZuTb8"
+      },
+      "artists": [
+        {
+          "name": "Refugium",
+          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161166,
+      "name": "Assuage",
+      "url": "https://open.spotify.com/track/2uomD0LPoY0a1IDKz1qnHC"
     },
     {
       "album": {
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 209322,
       "name": "Broken and Beautiful",
       "url": "https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE"
@@ -1143,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk"
       },
@@ -1244,7 +1316,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 159632,
       "name": "Cloudy Mountains",
       "url": "https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl"
@@ -1658,7 +1730,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183686,
       "name": "Diversity",
       "url": "https://open.spotify.com/track/6yUBEKkhH5z29iiszOQBSa"
@@ -1698,6 +1770,24 @@
       "duration_ms": 289804,
       "name": "Divine",
       "url": "https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl"
+    },
+    {
+      "album": {
+        "name": "Divinity",
+        "url": "https://open.spotify.com/album/01r2Bj3gFjGAkHcmi4OueG"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Divinity",
+      "url": "https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA"
     },
     {
       "album": {
@@ -1748,7 +1838,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202750,
       "name": "Doze",
       "url": "https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL"
@@ -1986,6 +2076,24 @@
       "duration_ms": 260560,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu"
+    },
+    {
+      "album": {
+        "name": "Echoes in Amber",
+        "url": "https://open.spotify.com/album/2eGyAMH1bOSYe91IXHlSZh"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182356,
+      "name": "Echoes in Amber",
+      "url": "https://open.spotify.com/track/4yFDGjJO85MSuRnCxjYPLa"
     },
     {
       "album": {
@@ -2969,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "hidden in the heather",
+        "url": "https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "hidden in the heather",
+      "url": "https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ"
+    },
+    {
+      "album": {
         "name": "First Moon",
         "url": "https://open.spotify.com/album/6JtmRHcEyJsI52yIiX0eTf"
       },
@@ -2984,6 +3110,24 @@
       "duration_ms": 194375,
       "name": "Hidden Path",
       "url": "https://open.spotify.com/track/2lCPESbQg9A5FVGqJsADxi"
+    },
+    {
+      "album": {
+        "name": "hold still",
+        "url": "https://open.spotify.com/album/3b0IndcDRliBr51GsLjyXz"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "hold still",
+      "url": "https://open.spotify.com/track/4EnFLRuVKjAfEQVGllEEAd"
     },
     {
       "album": {
@@ -3142,7 +3286,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 192000,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/6xhwbnVSG3DeLM6oZau2Mr"
@@ -3772,7 +3916,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182167,
       "name": "Looking Outside",
       "url": "https://open.spotify.com/track/3U2he6501wx8MSdGtGobri"
@@ -3844,7 +3988,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197374,
       "name": "Lucerne",
       "url": "https://open.spotify.com/track/023i4Phiw266d2OaRbudOg"
@@ -3902,6 +4046,24 @@
       "duration_ms": 162461,
       "name": "Lunaflow",
       "url": "https://open.spotify.com/track/6pq3zdXcm747Qg9bpELjAK"
+    },
+    {
+      "album": {
+        "name": "Lustrous Dawn",
+        "url": "https://open.spotify.com/album/4KaGKoIoQ4i5eejXXQtl2e"
+      },
+      "artists": [
+        {
+          "name": "Insomnian",
+          "url": "https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "Lustrous Dawn",
+      "url": "https://open.spotify.com/track/7jUEK8wzePgyrghvfJFnOM"
     },
     {
       "album": {
@@ -4064,6 +4226,24 @@
       "duration_ms": 163772,
       "name": "Midsummer Sun",
       "url": "https://open.spotify.com/track/6xxMpIFpWFlrCba55NU0e1"
+    },
+    {
+      "album": {
+        "name": "mirror images",
+        "url": "https://open.spotify.com/album/18gDCNkHnThkfbcbdOe2AN"
+      },
+      "artists": [
+        {
+          "name": "austice",
+          "url": "https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "mirror images",
+      "url": "https://open.spotify.com/track/3D6TwG3n2BLhg2fZkD0w7i"
     },
     {
       "album": {
@@ -4240,7 +4420,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137874,
       "name": "Moving through mist",
       "url": "https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG"
@@ -4510,7 +4690,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 151750,
       "name": "Nepenthe",
       "url": "https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT"
@@ -4546,7 +4726,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163800,
       "name": "New Star",
       "url": "https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC"
@@ -4762,7 +4942,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205800,
       "name": "Oceanbird Song",
       "url": "https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH"
@@ -4942,7 +5122,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 144000,
       "name": "pattern",
       "url": "https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA"
@@ -5212,7 +5392,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166636,
       "name": "Pretty Flower",
       "url": "https://open.spotify.com/track/7eIMlUAfuTjZaxXyWXfaV9"
@@ -5626,7 +5806,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 130250,
       "name": "Sarek",
       "url": "https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M"
@@ -6400,7 +6580,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 179221,
       "name": "Starlight Song",
       "url": "https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu"
@@ -6710,7 +6890,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 154421,
       "name": "Sweet Gesture",
       "url": "https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ"
@@ -6728,7 +6908,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 251268,
       "name": "Terai-Duar",
       "url": "https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS"
@@ -7214,7 +7394,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183510,
       "name": "Together",
       "url": "https://open.spotify.com/track/0wp8xz7yFPqvZK5b4bNbQy"
@@ -7322,7 +7502,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176931,
       "name": "True Projection",
       "url": "https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b"
@@ -7362,6 +7542,42 @@
       "duration_ms": 188731,
       "name": "Two",
       "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
+    },
+    {
+      "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/5YPf1unzz4ZPZEAbtqNllj"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/4OLtOauMzcjI5CwuUmj6Tv"
+    },
+    {
+      "album": {
+        "name": "Undercurrent Glow",
+        "url": "https://open.spotify.com/album/2E0uq6q17lYee5yrClQ6Jl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Aitken",
+          "url": "https://open.spotify.com/artist/4iNaAt0nGzKP7TkyoCLmz1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Undercurrent Glow",
+      "url": "https://open.spotify.com/track/6V74U7aWXWfg02YPlXA0cF"
     },
     {
       "album": {
@@ -7628,7 +7844,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 175874,
       "name": "Wafting Waters",
       "url": "https://open.spotify.com/track/7wnieVijyua873Tmj163CZ"
@@ -7700,7 +7916,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 200000,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj"
@@ -7718,7 +7934,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 200945,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2Qmg0oyUxivJVhVxbXEZcO"
@@ -7934,7 +8150,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184196,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm"
@@ -7977,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/1El1FeO6copIuw3wHOk1vZ"
+      },
+      "artists": [
+        {
+          "name": "Draumur",
+          "url": "https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Woods",
+      "url": "https://open.spotify.com/track/0NzfkMppPtYvZ9WP5BcyT8"
+    },
+    {
+      "album": {
         "name": "Zenlume",
         "url": "https://open.spotify.com/album/0tRkzjZbdKzi3gItqw3Lzk"
       },
@@ -7992,6 +8226,24 @@
       "duration_ms": 165600,
       "name": "Zenlume",
       "url": "https://open.spotify.com/track/6hHtrP0WMbClC6O4ayu630"
+    },
+    {
+      "album": {
+        "name": "Zero point gravity",
+        "url": "https://open.spotify.com/album/1jrMCcVHiU0TFCL6tKrHtW"
+      },
+      "artists": [
+        {
+          "name": "Mediteight Dimensional",
+          "url": "https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Zero point gravity",
+      "url": "https://open.spotify.com/track/12NLwmhDDPgADnH3PwP4wo"
     },
     {
       "album": {

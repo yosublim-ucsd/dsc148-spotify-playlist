@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Ravyn Lenae",
-  "num_followers": 35295,
+  "num_followers": 35306,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIZAAAAABVI0bX2FZjwiXeA6wyJUpJ",
+  "snapshot_id": "Z8FC+wAAAADrelZVU4p8O7Of85F/wV9D",
   "tracks": [
     {
       "added_at": "2025-01-27 22:50:44",
@@ -23,6 +23,58 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "RUDUMB?",
+        "url": "https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4"
+      },
+      "artists": [
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "duration_ms": 117094,
+      "name": "RUDUMB?",
+      "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
       "added_at": "2025-02-14 05:00:39",
@@ -93,6 +145,22 @@
       "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
     },
     {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "Stand Together",
+        "url": "https://open.spotify.com/album/5kWZUjqYYyE0nBQTo39Ohy"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Love In Control",
+      "url": "https://open.spotify.com/track/7KAHR6ZMUiqBHyCKB8NN1u"
+    },
+    {
       "added_at": "2025-02-21 05:00:20",
       "album": {
         "name": "ON THE MONEY",
@@ -139,6 +207,22 @@
       "duration_ms": 140198,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/3aye54qH7pxFkwa445SAxp"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/7biE7CPGmci5vr9a2HkdEV"
+      },
+      "artists": [
+        {
+          "name": "Micah Dailey-White",
+          "url": "https://open.spotify.com/artist/0SSLcKlt82IAYAFVKljEZc"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4q5G0sklxMUcZ3qPyG4laD"
     },
     {
       "added_at": "2025-01-31 05:00:30",
@@ -635,22 +719,6 @@
     {
       "added_at": "2025-01-27 22:50:44",
       "album": {
-        "name": "There Goes My Baby",
-        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV"
       },
@@ -775,74 +843,6 @@
       "duration_ms": 180332,
       "name": "Just My Luck",
       "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "JAGUAR II : Deluxe",
-        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 149195,
-      "name": "1900's",
-      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "Little Red Car",
-        "url": "https://open.spotify.com/album/1ZdroWalq1Na6S8kNq5YUX"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Little Red Car",
-      "url": "https://open.spotify.com/track/4EV0TdemWsnCfsokT6zfZA"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "OFA (Oxlade From Africa)",
-        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "ASUNASA - HOLD YOUR WAIST",
-      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "again sometime?",
-        "url": "https://open.spotify.com/album/473k5PVlVC3sMsiGoFwf5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "I'm Not People",
-      "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
     }
   ],
   "unique_name": "Pop Frequency",

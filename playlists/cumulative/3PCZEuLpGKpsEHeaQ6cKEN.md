@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,303 songs - 2 day 21 hr 37 min
+1,304 songs - 2 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Angel](https://open.spotify.com/track/7lPc9AA8HjgEM0D5Et03Nu) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Angel](https://open.spotify.com/album/5k1xcawFrEgQWIANMi4b7C) | 2:41 | 2024-10-04 |  |
 | [Angels](https://open.spotify.com/track/43tqB1PqZ7WbaUiVZog1mI) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Angels](https://open.spotify.com/album/03OwRUUY0aRLZOC3Ad8RZI) | 3:28 | 2024-11-21 |  |
 | [Another Dimension](https://open.spotify.com/track/6bu9yE3D2FUamqfXpd8VPD) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Brittles](https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr), [Ghost MC](https://open.spotify.com/artist/7j76GJFqlZOeVe7Sgdlmab) | [Another Dimension](https://open.spotify.com/album/5F8ZSBIcPgssjylamnByil) | 2:55 | 2024-03-28 | 2024-10-11 |
+| [Another Goodbye](https://open.spotify.com/track/61KNyzpL7sR3Cq1F5lSOYy) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Oldschool Love](https://open.spotify.com/album/10c6iETu0ndVfdhSQjePUr) | 2:52 | 2025-02-28 |  |
 | [Another Life](https://open.spotify.com/track/5sG9HrCPfeCxDMEKgAx30t) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Another Life](https://open.spotify.com/album/0z4EQCJXUF6RgBkHW7oe8q) | 3:07 | 2025-01-31 |  |
 | [Another Night](https://open.spotify.com/track/1KD25zo2re5wKcMjyMMrJW) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Rob Mayth](https://open.spotify.com/artist/618ZpOIfe3ELAa36M3GMz7) | [Another Night](https://open.spotify.com/album/7BKtdirerHSNQOF2T6fkcy) | 2:32 | 2023-03-31 | 2023-07-29 |
 | [Another Way](https://open.spotify.com/track/7hUltQfedtpeRle8F7u6TX) | [Newik](https://open.spotify.com/artist/3pZMKMD0modIdNOqhJjpy5) | [Another Way](https://open.spotify.com/album/4gOynyODgKfJNihfqFpdUv) | 2:51 | 2022-09-15 | 2022-10-07 |

@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/album/5rxtBTtwKhso4luWXRjj8t"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Dave Moffatt",
+          "url": "https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207136,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/4VFM638fhpRTmkyJ69fSWE"
+    },
+    {
+      "album": {
         "name": "Don't Speak (Acoustic)",
         "url": "https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy"
       },
@@ -3443,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Saint-Tropez",
+        "url": "https://open.spotify.com/album/49qwmRE50uI5255uoQk91Y"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187419,
+      "name": "Saint-Tropez",
+      "url": "https://open.spotify.com/track/0nSmOh6YkXuGl3foA78AUi"
+    },
+    {
+      "album": {
         "name": "Save the Best for Last (Acoustic)",
         "url": "https://open.spotify.com/album/2ZLa6AUy1jNRGSdipoYdl3"
       },
@@ -3472,7 +3512,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125512,
       "name": "Say My Name - Acoustic",
       "url": "https://open.spotify.com/track/39vsqGcS9eHZYwfuvjLcKY"
@@ -4584,7 +4624,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 123791,
       "name": "When a Man Loves a Woman - Acoustic",
       "url": "https://open.spotify.com/track/2PN98rN23SlUeFWEsuzj9u"
@@ -4646,6 +4686,28 @@
       "duration_ms": 222000,
       "name": "Wings - Acoustic",
       "url": "https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK"
+    },
+    {
+      "album": {
+        "name": "With a Little Help from My Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/34UXdWmWwbiiKiWPSm9DbG"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Jay",
+          "url": "https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr"
+        },
+        {
+          "name": "Amba Tremain",
+          "url": "https://open.spotify.com/artist/1FRQT3P88o4JVDPbqm4nBd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "With a Little Help from My Friends - Acoustic",
+      "url": "https://open.spotify.com/track/1AZCVMOIw5SNah2RvXpBHm"
     },
     {
       "album": {
@@ -4798,6 +4860,24 @@
       "duration_ms": 234090,
       "name": "You Belong With Me - Acoustic",
       "url": "https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy"
+    },
+    {
+      "album": {
+        "name": "You Can't Hurry Love (Acoustic)",
+        "url": "https://open.spotify.com/album/6khGn2IUNSQrEMzU3zllRl"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156552,
+      "name": "You Can't Hurry Love - Acoustic",
+      "url": "https://open.spotify.com/track/0hno6GT4MufXRv8rgP0qMI"
     },
     {
       "album": {

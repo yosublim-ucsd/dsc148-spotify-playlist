@@ -1,13 +1,45 @@
 {
-  "description": "where folk flowers bloom. cover: Sydney Rose",
-  "num_followers": 132117,
+  "description": "i\u2019ll never tell a soul about our secret life \u2764\ufe0f\u200d\ud83e\ude79",
+  "num_followers": 132225,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8CHPQAAAACFGEPDCazwigVlr6RrJ7qk",
+  "snapshot_id": "Z8FDBgAAAABtWtZHWk0ixiPLYA3e9BjL",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
+    },
+    {
+      "added_at": "2025-02-13 23:22:28",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
     {
       "added_at": "2025-02-18 14:03:49",
       "album": {
@@ -27,18 +59,82 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+      "duration_ms": 286120,
+      "name": "Sweet Heat Lightning",
+      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
+    },
+    {
+      "added_at": "2025-02-25 18:51:14",
+      "album": {
+        "name": "Witchazel",
+        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
+    },
+    {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "if i'm honest for once",
+        "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "generations in the making",
+      "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+    },
+    {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "Peach Sky",
+        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "Peach Sky",
+      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
+    },
+    {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "confession",
+        "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 84578,
+      "name": "confession",
+      "url": "https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -75,38 +171,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "Sweet Heat Lightning",
-      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
-    },
-    {
-      "added_at": "2025-02-25 18:51:14",
-      "album": {
-        "name": "Witchazel",
-        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
-      },
-      "artists": [
-        {
-          "name": "Matt Berry",
-          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -123,6 +187,22 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "Good Love Die",
+        "url": "https://open.spotify.com/album/3G0ExGf9uPg10OOL2VBHUD"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Good Love Die",
+      "url": "https://open.spotify.com/track/1U0nCqVolsvRmTianW7H8w"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -189,6 +269,26 @@
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
     },
     {
+      "added_at": "2025-02-28 05:00:54",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 240629,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+    },
+    {
       "added_at": "2025-02-14 16:17:49",
       "album": {
         "name": "Silent Earth",
@@ -219,22 +319,6 @@
       "duration_ms": 165768,
       "name": "Wait It Out",
       "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -415,6 +499,22 @@
       "duration_ms": 191913,
       "name": "HEAVYWEIGHT (feat. Madi Diaz)",
       "url": "https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ"
+    },
+    {
+      "added_at": "2025-02-13 23:22:28",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -1595,22 +1695,6 @@
       "duration_ms": 206543,
       "name": "Fly",
       "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Ever-Shifting, Continual Blossoming",
-        "url": "https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 170586,
-      "name": "Whiskey Angel",
-      "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
     },
     {
       "added_at": "2025-02-13 23:22:28",

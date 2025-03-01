@@ -1,13 +1,69 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Yung Lean",
-  "num_followers": 1338472,
+  "description": "Genre-less. Quality first always. Cover: Yves Jarvis",
+  "num_followers": 1338477,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z74a6wAAAADZZuvZbzr3q1u3GltkjmKO",
+  "snapshot_id": "Z8FDCAAAAABFd2vY72eTUIFseT1aa+eX",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 149483,
+      "name": "One Gripe",
+      "url": "https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "Hell suite, Pt. II",
+        "url": "https://open.spotify.com/album/1HxBc72oKXrhIo1O61oDC6"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Hell suite, Pt. II",
+      "url": "https://open.spotify.com/track/1rQz1sbJCB2m2M6BUiQqB7"
+    },
     {
       "added_at": "2025-02-21 05:00:34",
       "album": {
@@ -23,6 +79,38 @@
       "duration_ms": 209732,
       "name": "Valentine's Day Freestyle '25",
       "url": "https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0YOtmwCGGlRm9jFAJjFFud"
+      },
+      "artists": [
+        {
+          "name": "Steven Julien",
+          "url": "https://open.spotify.com/artist/37pVxtkN0BLmY6QOliGkJK"
+        },
+        {
+          "name": "Froby Juan",
+          "url": "https://open.spotify.com/artist/2ydlZEvWDVq7fbOskR8aua"
+        },
+        {
+          "name": "Kristian Hamilton",
+          "url": "https://open.spotify.com/artist/5N5Sh4gVdtIQU9uhwHUlN5"
+        },
+        {
+          "name": "Benedek",
+          "url": "https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t"
+        },
+        {
+          "name": "Jarren",
+          "url": "https://open.spotify.com/artist/2KpTJqMLi6peQraKYndqO5"
+        }
+      ],
+      "duration_ms": 208267,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/2E3IP6kef82nHjF4YQFqp0"
     },
     {
       "added_at": "2025-02-21 05:00:34",
@@ -63,22 +151,6 @@
     {
       "added_at": "2025-02-21 05:00:34",
       "album": {
-        "name": "Forever Yung",
-        "url": "https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 200370,
-      "name": "Forever Yung",
-      "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
-    },
-    {
-      "added_at": "2025-02-21 05:00:34",
-      "album": {
         "name": "Everything Is Peaceful Love",
         "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
       },
@@ -91,6 +163,26 @@
       "duration_ms": 210054,
       "name": "Everything Is Peaceful Love",
       "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/7kTyARRYRxiDbiXyeGySY8"
+      },
+      "artists": [
+        {
+          "name": "Teether",
+          "url": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+        },
+        {
+          "name": "Kuya Neil",
+          "url": "https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY"
+        }
+      ],
+      "duration_ms": 161110,
+      "name": "BLUSH",
+      "url": "https://open.spotify.com/track/1geMWaKL48bPJXRpCn4C6J"
     },
     {
       "added_at": "2025-02-21 05:00:34",
@@ -107,6 +199,70 @@
       "duration_ms": 302064,
       "name": "Dowatchalike",
       "url": "https://open.spotify.com/track/6F6695VxHTBkSqPsHPAPqw"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/5POt13dKdKciF9gNm7OwMe"
+      },
+      "artists": [
+        {
+          "name": "Yetsuby",
+          "url": "https://open.spotify.com/artist/3iTRvuekVM4DQ7t2bWSv1l"
+        }
+      ],
+      "duration_ms": 250312,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/7MgHLgxnqVeu8bNAPX1KzA"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/0VGz6ni8TtIsZolCU3bsVm"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 274012,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/7JJT5XgtT9Fq7aLQ7MbAD7"
+    },
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Fun Times",
+      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
+    },
+    {
+      "added_at": "2025-02-21 05:00:34",
+      "album": {
+        "name": "Forever Yung",
+        "url": "https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 200370,
+      "name": "Forever Yung",
+      "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
     },
     {
       "added_at": "2025-02-21 05:00:34",

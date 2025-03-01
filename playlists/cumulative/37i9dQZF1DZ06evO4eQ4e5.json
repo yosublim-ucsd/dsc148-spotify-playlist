@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Caricias del Cielo",
+        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "Esta vez",
+      "url": "https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH"
+    },
+    {
+      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 251666,
       "name": "Esta vez",
       "url": "https://open.spotify.com/track/620p6E4gMgvGEJJq3NZRUq"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 289560,
       "name": "La Memoria Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/21RRlWWp4eBfo0Avxxmaso"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236866,
       "name": "Qu\u00e9 Sabe Nadie - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf"

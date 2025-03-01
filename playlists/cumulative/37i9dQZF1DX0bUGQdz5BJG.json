@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Rvshvd",
+  "description": "Music City must-hears. Cover: Redferrin",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193294,
       "name": "A Hundred",
       "url": "https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN"
@@ -1290,6 +1290,24 @@
       "duration_ms": 174160,
       "name": "Ain't Like Me",
       "url": "https://open.spotify.com/track/5KTh8rAnac5XrZ9pm2KXZq"
+    },
+    {
+      "album": {
+        "name": "Ain't Me",
+        "url": "https://open.spotify.com/album/5Yo9FMmTVlWZlKkT5agk95"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171477,
+      "name": "Ain't Me",
+      "url": "https://open.spotify.com/track/2PUPm7FdhVxh8ftHVfDzWy"
     },
     {
       "album": {
@@ -3099,6 +3117,28 @@
     },
     {
       "album": {
+        "name": "Back to the Bar",
+        "url": "https://open.spotify.com/album/7c70thc7QAWh7gzAgvt5OQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        },
+        {
+          "name": "Mike Demero",
+          "url": "https://open.spotify.com/artist/6rC45dneYNC1ulqOz12cyK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150338,
+      "name": "Back to the Bar",
+      "url": "https://open.spotify.com/track/3J14F1YcrYZ24AhKE6DixW"
+    },
+    {
+      "album": {
         "name": "Back To Then",
         "url": "https://open.spotify.com/album/5UqXEunlJ8tRCBYG1t8TS7"
       },
@@ -4459,6 +4499,28 @@
     },
     {
       "album": {
+        "name": "Better Than You",
+        "url": "https://open.spotify.com/album/4CLWDDdzapdrFbeHndpDhs"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        },
+        {
+          "name": "Annie Bosko",
+          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "Better Than You",
+      "url": "https://open.spotify.com/track/4s00FjlhSavgbNiRtpXhRj"
+    },
+    {
+      "album": {
         "name": "PUZZLED",
         "url": "https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo"
       },
@@ -5751,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/6K2C3HililA0G57qGYfTMF"
+      },
+      "artists": [
+        {
+          "name": "Brandt Carmichael",
+          "url": "https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230048,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/4eo27h1YYVzgA8ETpLDx5y"
+    },
+    {
+      "album": {
         "name": "Breakin' My Heart",
         "url": "https://open.spotify.com/album/7LRj6DrZJJ3En1oqJ9wGVg"
       },
@@ -6194,7 +6274,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205400,
       "name": "Bull Rider",
       "url": "https://open.spotify.com/track/2gdjdd9VdRRKvHKMQf690H"
@@ -7446,7 +7526,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 191015,
       "name": "Chemical Reaction",
       "url": "https://open.spotify.com/track/7urjXrA9nhsdx0zfBFfzFN"
@@ -9167,6 +9247,24 @@
     },
     {
       "album": {
+        "name": "Let Your Horses Run - The Album",
+        "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Cowboys & Dreamers",
+      "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
+    },
+    {
+      "album": {
         "name": "Cowboys and Sunsets",
         "url": "https://open.spotify.com/album/0llHWzjE5DAIWnqVLHNqUA"
       },
@@ -10610,7 +10708,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 242839,
       "name": "Dirt Roads of Red",
       "url": "https://open.spotify.com/track/0RblYORayEA2HREL6hu7or"
@@ -14358,7 +14456,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217634,
       "name": "Forever For A While",
       "url": "https://open.spotify.com/track/23KiHbF8HAFQjlbAeXGp5o"
@@ -14586,6 +14684,24 @@
       "duration_ms": 163222,
       "name": "From Where I'm Standing",
       "url": "https://open.spotify.com/track/0T9MHZrk0HADSHeFZr4TAY"
+    },
+    {
+      "album": {
+        "name": "Front Porch Lights",
+        "url": "https://open.spotify.com/album/5vruYBfmNb4kRY7Dgm7s51"
+      },
+      "artists": [
+        {
+          "name": "Braedon Barnhill",
+          "url": "https://open.spotify.com/artist/6havQH2xpTlwoGLDDTgd49"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178779,
+      "name": "Front Porch Lights",
+      "url": "https://open.spotify.com/track/12UIz2sSzQfCSMj7ZPQyTG"
     },
     {
       "album": {
@@ -14838,7 +14954,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181280,
       "name": "Get The Hell Out Of This Town",
       "url": "https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg"
@@ -15982,7 +16098,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170661,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/4HiEmRMvgPzFZodQJnQY3o"
@@ -19676,7 +19792,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193502,
       "name": "Home",
       "url": "https://open.spotify.com/track/4FH6kWPkqbMEsGee2Kp9EG"
@@ -20228,7 +20344,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201577,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/4IycbTrlsCtGczSqWQ0M0Y"
@@ -20892,6 +21008,24 @@
       "duration_ms": 181148,
       "name": "I Ain't A Cowgirl",
       "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "album": {
+        "name": "Kasey Tyndall",
+        "url": "https://open.spotify.com/album/48CpphXzrAhyf0mBPWLk05"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "I Ain't Askin'",
+      "url": "https://open.spotify.com/track/3Lft2PGlHnSy9p4tQziXq7"
     },
     {
       "album": {
@@ -24251,6 +24385,24 @@
     },
     {
       "album": {
+        "name": "Keepin' Country Alive",
+        "url": "https://open.spotify.com/album/6Jhllmas4hqBhBFYfub89K"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219060,
+      "name": "Keepin' Country Alive",
+      "url": "https://open.spotify.com/track/00LDRoO96UTDyTCHiVS7hV"
+    },
+    {
+      "album": {
         "name": "Keepin' The Lights On",
         "url": "https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk"
       },
@@ -25134,6 +25286,24 @@
       "duration_ms": 200435,
       "name": "Leavin' Season",
       "url": "https://open.spotify.com/track/1al2a1XCAXYNPQNmrpm5cH"
+    },
+    {
+      "album": {
+        "name": "Leaving Hollywood",
+        "url": "https://open.spotify.com/album/1kf3ARg84X5ms5nMb0uXe8"
+      },
+      "artists": [
+        {
+          "name": "Something Out West",
+          "url": "https://open.spotify.com/artist/51MblZPxMsoc0TWRJpfUrD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217486,
+      "name": "Leaving Hollywood",
+      "url": "https://open.spotify.com/track/3boLG1prkvVgNZURGxcvgC"
     },
     {
       "album": {
@@ -26226,7 +26396,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 220173,
       "name": "Little Bit At A Time",
       "url": "https://open.spotify.com/track/30coIlYBNR9Ot198MV70fQ"
@@ -26590,7 +26760,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 246857,
       "name": "Lonely Dirt Road",
       "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
@@ -26688,6 +26858,24 @@
       "duration_ms": 187942,
       "name": "Lonely Might",
       "url": "https://open.spotify.com/track/6DEvEWlLRaWntMvxRpBIB3"
+    },
+    {
+      "album": {
+        "name": "Lonely Mountain Town",
+        "url": "https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230590,
+      "name": "Lonely Mountain Town",
+      "url": "https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA"
     },
     {
       "album": {
@@ -27736,7 +27924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194543,
       "name": "Luckier",
       "url": "https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0"
@@ -28010,7 +28198,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190226,
       "name": "made it out of mexico - acoustic",
       "url": "https://open.spotify.com/track/7CfoX1h6SG6AH6KVSc895Y"
@@ -28478,7 +28666,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 219010,
       "name": "Makes Us Work",
       "url": "https://open.spotify.com/track/6WomsbhgdHp2YA2fEeESxY"
@@ -30040,7 +30228,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 152635,
       "name": "Mornin' Montana",
       "url": "https://open.spotify.com/track/1L0e0X82JghOMxe2RKvgr0"
@@ -30202,7 +30390,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 178267,
       "name": "Mrs. Lonely",
       "url": "https://open.spotify.com/track/78SHlkg9GEnHWE23w4n5NU"
@@ -31202,6 +31390,24 @@
       "duration_ms": 177283,
       "name": "New Bartender",
       "url": "https://open.spotify.com/track/5uY8LuoMPdC0JVJ4Q1FDXa"
+    },
+    {
+      "album": {
+        "name": "New Boots",
+        "url": "https://open.spotify.com/album/0dh39Yzrq81Q2c3mUFYFgt"
+      },
+      "artists": [
+        {
+          "name": "Just Jayne",
+          "url": "https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207749,
+      "name": "New Boots",
+      "url": "https://open.spotify.com/track/7ELcdFCF75kita62kxUCBr"
     },
     {
       "album": {
@@ -32395,6 +32601,24 @@
     },
     {
       "album": {
+        "name": "Off Your Boots",
+        "url": "https://open.spotify.com/album/7hDuiuphp3PDyaatdTVNCL"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173374,
+      "name": "Off Your Boots",
+      "url": "https://open.spotify.com/track/1xoa9lKqgELtFSkmHSyvKK"
+    },
+    {
+      "album": {
         "name": "OK Cowboy",
         "url": "https://open.spotify.com/album/0n9B105tgMqX1zG6qtvCoZ"
       },
@@ -33440,7 +33664,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180895,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1puLOV6sF1MQxZHHrG7Zbt"
@@ -34068,6 +34292,24 @@
       "duration_ms": 191079,
       "name": "People Talk",
       "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
+    },
+    {
+      "album": {
+        "name": "Perfect Time",
+        "url": "https://open.spotify.com/album/1oTbNOC08bSAq9xTdHX5EZ"
+      },
+      "artists": [
+        {
+          "name": "James Dupre",
+          "url": "https://open.spotify.com/artist/7HkeQvAuAKwFIYUQM7wPEP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245007,
+      "name": "Perfect Time",
+      "url": "https://open.spotify.com/track/74IOKV82zcRRwHZIUSDVGJ"
     },
     {
       "album": {
@@ -35097,6 +35339,24 @@
     },
     {
       "album": {
+        "name": "Quicker Way To Jesus",
+        "url": "https://open.spotify.com/album/3l8FJGxg34Q1Ep7aLdBhdJ"
+      },
+      "artists": [
+        {
+          "name": "Louie TheSinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Quicker Way To Jesus",
+      "url": "https://open.spotify.com/track/2LOhfKUbSD2nm85S00CzPx"
+    },
+    {
+      "album": {
         "name": "Quiet In This House",
         "url": "https://open.spotify.com/album/12j5u5VnFtKcTQlzYWMjKm"
       },
@@ -35966,7 +36226,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 191571,
       "name": "Religion and Politics",
       "url": "https://open.spotify.com/track/0an93wG6ltDZNDdtupLNJR"
@@ -37026,7 +37286,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 200400,
       "name": "Same Blue Eyes",
       "url": "https://open.spotify.com/track/3Au0Ovnvi03SwyqJjRhuaR"
@@ -38887,6 +39147,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky Sundays",
+        "url": "https://open.spotify.com/album/4oNLarZsNtOuzvXhRI4qxu"
+      },
+      "artists": [
+        {
+          "name": "JD Clayton",
+          "url": "https://open.spotify.com/artist/70ro2NOrdi2XlFSLumYMTs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264153,
+      "name": "Slow & Steady",
+      "url": "https://open.spotify.com/track/69hGV8t6L3vwr2chSnWPe8"
+    },
+    {
+      "album": {
         "name": "Slow Dance",
         "url": "https://open.spotify.com/album/6Y8oQR64UXyay5QD08bICj"
       },
@@ -39305,6 +39583,24 @@
     },
     {
       "album": {
+        "name": "Snowed In",
+        "url": "https://open.spotify.com/album/3MucfwMY8a68l9kUX78M5S"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167125,
+      "name": "Snowed In",
+      "url": "https://open.spotify.com/track/5yHp48XkOZd6K9FZDMl32r"
+    },
+    {
+      "album": {
         "name": "So Can I",
         "url": "https://open.spotify.com/album/6HtD2d4J1qhJ1jInl0A9Os"
       },
@@ -39468,6 +39764,24 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+    },
+    {
+      "album": {
+        "name": "Some City, Somewhere",
+        "url": "https://open.spotify.com/album/45srjUrsR6tBcPyD8CUrtM"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Some City, Somewhere",
+      "url": "https://open.spotify.com/track/4awgqCKV3zaVqP0MCcFgfB"
     },
     {
       "album": {
@@ -40052,7 +40366,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 214553,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/3xAmrTIwaWPMve9xI1D2Sh"
@@ -46573,6 +46887,24 @@
     },
     {
       "album": {
+        "name": "Unlucky Strikes",
+        "url": "https://open.spotify.com/album/6exAy764VDpCnCKpXmVrXK"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195352,
+      "name": "Unlucky Strikes",
+      "url": "https://open.spotify.com/track/03THJlGnDOrcTLAwKIPvqq"
+    },
+    {
+      "album": {
         "name": "Up for Anything",
         "url": "https://open.spotify.com/album/7AJ3hmhd1cpn4ra44tc2Tf"
       },
@@ -47486,7 +47818,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 177745,
       "name": "We Were There",
       "url": "https://open.spotify.com/track/2T8ToN72mgPOGMArZf3Hes"
@@ -49113,6 +49445,24 @@
     },
     {
       "album": {
+        "name": "Whiskey Me",
+        "url": "https://open.spotify.com/album/7MtrCtB6FHJhvuNAx6wBwm"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152958,
+      "name": "Whiskey Me",
+      "url": "https://open.spotify.com/track/01t4jtfI9UTsX5EQmhdmnH"
+    },
+    {
+      "album": {
         "name": "Whiskey On It",
         "url": "https://open.spotify.com/album/75uLNENdy6zkKu4Sv92PCb"
       },
@@ -50307,6 +50657,24 @@
     },
     {
       "album": {
+        "name": "Women Want Me, Fish Fear Me",
+        "url": "https://open.spotify.com/album/57dZGw3YFnSMXBtdsFuM6c"
+      },
+      "artists": [
+        {
+          "name": "Cole Goodwin",
+          "url": "https://open.spotify.com/artist/1BJuLsavR5ekNDC4FhjTmF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178108,
+      "name": "Women Want Me, Fish Fear Me",
+      "url": "https://open.spotify.com/track/7z7cnx68pQu6s2c6qwTsgV"
+    },
+    {
+      "album": {
         "name": "Won't Be Long",
         "url": "https://open.spotify.com/album/2B4Lyflq8rxDQamu3nVuYf"
       },
@@ -50592,7 +50960,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 171657,
       "name": "Worth The Double",
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"

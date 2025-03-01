@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/41jnOFEJPZi4tFATf8jKeo"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141959,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/2EnvnTDfN0U6zeCG2irqlt"
+    },
+    {
+      "album": {
         "name": "Airborne",
         "url": "https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC"
       },

@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-157 songs - 9 hr 17 min
+158 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Eu Vim da Bahia](https://open.spotify.com/track/2rBViBV2IvjhQqPH6xExki) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:06 | 2023-04-28 | 2024-04-19 |
 | [Eu Vim da Bahia](https://open.spotify.com/track/5rtErCsrldx5onK3t8TfQe) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:06 | 2024-01-19 |  |
 | [Eu Vivo a Sorrir](https://open.spotify.com/track/4AugFl3WRWhFEhbOrQWdkC) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [O Micróbio do Samba \(Jewel Case Version\)](https://open.spotify.com/album/0ybpx0wxg13NQfJkDFVad4) | 4:40 | 2023-07-28 | 2023-08-05 |
+| [Exagerado](https://open.spotify.com/track/2aPDZWJgpzRjntDwwvXQFd) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Evelyn Castro](https://open.spotify.com/artist/0WiXJNnWKqfx4xaEDmXNNG) | [Gina Canta Cazuza](https://open.spotify.com/album/3v7Ci6DTaoUH3pTN8Qz6k3) | 2:59 | 2025-02-28 |  |
 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 | 2023-07-28 |  |
 | [Expressão do Teu Olhar](https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa) | [Candeia](https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 3:34 | 2023-04-28 |  |
 | [Feitio De Oração/Para Me Livrar Do Mal/Estrela Da Manhã](https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [O Pai Da Alegria](https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T) | 4:12 | 2024-11-22 |  |
@@ -85,7 +86,7 @@
 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 | 2023-07-28 |  |
 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 | 2023-04-28 |  |
 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 | 2023-04-28 |  |
-| [Meu Limão, Meu Limoeiro \- Ao Vivo](https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Vou Deixar Cair...](https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O) | 3:08 | 2024-01-19 |  |
+| [Meu Limão, Meu Limoeiro \- Ao Vivo](https://open.spotify.com/track/3d2h01M8tYcW2wb1tmwfeE) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Vou Deixar Cair...](https://open.spotify.com/album/0aavZCoqc71B8TtcR1687O) | 3:08 | 2024-01-19 | 2025-03-01 |
 | [Meu Limão, Meu Limoeiro \- Ao Vivo](https://open.spotify.com/track/02ZCquDL46Dy8eAgAvmIXI) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Show Em Simonal](https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU) | 3:09 | 2023-07-28 | 2024-04-19 |
 | [Meu Lugar](https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 4:52 | 2023-04-28 |  |
 | [Na Linha do Mar](https://open.spotify.com/track/42aSI7u7ppT7euMshF3qUM) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Cantoras do Brasil \(Coleção Canal Brasil\)](https://open.spotify.com/album/6ZVb6XSNhEM3bEHOGOUxKQ) | 3:12 | 2024-01-19 |  |

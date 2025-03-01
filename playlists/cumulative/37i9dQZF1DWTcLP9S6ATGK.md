@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Ungu
 
-386 songs - 1 day 1 hr 16 min
+387 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Episode Bahagia](https://open.spotify.com/track/1NNCFYPVLb1rmaz7gYwS9t) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Episode Bahagia](https://open.spotify.com/album/1lvZCcOq8jodYVmFnyXa6k) | 4:38 | 2024-06-27 | 2024-07-12 |
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-07-25 | 2024-09-27 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 | 2024-07-12 |
+| [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 | 2025-02-28 |  |
 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 | 2024-07-25 | 2024-09-27 |
 | [Gelap Yang Terang](https://open.spotify.com/track/7fYP9QIs8W9nGIofho4U4D) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Gelap Yang Terang](https://open.spotify.com/album/6mlkjSMKOl1q2F20fmkOPy) | 3:48 | 2025-02-20 |  |
 | [Gelora Api Cinta](https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc) | [Dian Piesesha](https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY) | [Cinta dan Waktu](https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP) | 4:30 | 2024-11-22 |  |

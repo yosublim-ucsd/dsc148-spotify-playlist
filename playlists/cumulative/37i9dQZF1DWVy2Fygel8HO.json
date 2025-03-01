@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2Hr2y7y5blJuP0afa4hBix"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118603,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/6jR3xidOqwlv86dmqTtvte"
+    },
+    {
+      "album": {
         "name": "Sommeil du matin",
         "url": "https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5"
       },

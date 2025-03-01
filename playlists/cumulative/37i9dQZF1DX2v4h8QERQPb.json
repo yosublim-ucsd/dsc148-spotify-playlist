@@ -281,6 +281,32 @@
     },
     {
       "album": {
+        "name": "ACDC",
+        "url": "https://open.spotify.com/album/5GgJMELI6lm7Oj18VRRe4i"
+      },
+      "artists": [
+        {
+          "name": "Dyan",
+          "url": "https://open.spotify.com/artist/3hpawnHbN5R65xVPnhJPFY"
+        },
+        {
+          "name": "Coco Palmer",
+          "url": "https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY"
+        },
+        {
+          "name": "MACO",
+          "url": "https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143877,
+      "name": "ACDC",
+      "url": "https://open.spotify.com/track/2jJcyBC0I8xsu4t3vpAlgx"
+    },
+    {
+      "album": {
         "name": "ACTITUD",
         "url": "https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL"
       },
@@ -1436,7 +1462,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 161370,
       "name": "Chilling & High",
       "url": "https://open.spotify.com/track/5bVRrYnBhNbpgcx9RomnAV"
@@ -1866,7 +1892,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 295227,
       "name": "DE DONDE VENGO",
       "url": "https://open.spotify.com/track/21e5n2yDgIDysLCfBBJuQE"
@@ -2122,6 +2148,28 @@
       "duration_ms": 271646,
       "name": "DHARMA",
       "url": "https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV"
+    },
+    {
+      "album": {
+        "name": "Dichos",
+        "url": "https://open.spotify.com/album/1FnfX2CotOw5zxfmM2xTwz"
+      },
+      "artists": [
+        {
+          "name": "CACUCA",
+          "url": "https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107712,
+      "name": "Dichos",
+      "url": "https://open.spotify.com/track/5mWgrvAr7MJUGYeMmjXrJA"
     },
     {
       "album": {
@@ -3367,6 +3415,40 @@
     },
     {
       "album": {
+        "name": "Humilde Pero Cotizado (feat. Fili Wey & Dimelo Ismael)",
+        "url": "https://open.spotify.com/album/1jdFkyLyFLiLaaDIsfkKia"
+      },
+      "artists": [
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "Diamante Ayala",
+          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
+        },
+        {
+          "name": "Nattanael",
+          "url": "https://open.spotify.com/artist/2lXbybPKnWM62D10ckOdco"
+        },
+        {
+          "name": "Fili Wey",
+          "url": "https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo"
+        },
+        {
+          "name": "Dimelo Ismael",
+          "url": "https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Humilde Pero Cotizado (feat. Fili Wey & Dimelo Ismael)",
+      "url": "https://open.spotify.com/track/0UWWGuJfxceRlIeiMZyk8S"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -3870,7 +3952,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184058,
       "name": "LEGENDARIO",
       "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
@@ -5157,6 +5239,28 @@
     },
     {
       "album": {
+        "name": "PAULINA",
+        "url": "https://open.spotify.com/album/4KKa84CWt4o4XK4Cg5ui9V"
+      },
+      "artists": [
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "R Flakkkk",
+          "url": "https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "PAULINA",
+      "url": "https://open.spotify.com/track/0nxvB50oTssriM7Cq9D8vk"
+    },
+    {
+      "album": {
         "name": "Peatonal de Sombras",
         "url": "https://open.spotify.com/album/09AbzqLcZRYYzb8nYE35Cp"
       },
@@ -6350,7 +6454,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 275718,
       "name": "Sucio",
       "url": "https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r"

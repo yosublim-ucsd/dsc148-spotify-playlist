@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 456218,
       "name": "Amor Perfeito / Domingo / Cohab City / Vem Pr\u00e1 C\u00e1 / Beijo Geladinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7t4wn6GMjzddeSj8kt2beO"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 271278,
       "name": "Boa Sorte/ A Carta / Telegrama",
       "url": "https://open.spotify.com/track/2OkQnALHGU2Rfipr1YaAMN"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 231558,
       "name": "Climatizar / Ensaboado - Ao Vivo",
       "url": "https://open.spotify.com/track/5C4ZMkIL8yWa0eGpwUbbBq"
@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Pagode do BS 2, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Eli5rjnvn8kLJwhGu2fIY"
+      },
+      "artists": [
+        {
+          "name": "Binho Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309934,
+      "name": "De Onde Eu Venho / Que Situa\u00e7\u00e3o / Papo Furado - Ao Vivo",
+      "url": "https://open.spotify.com/track/0E6TdjaDuXjG5gvuce9fMa"
+    },
+    {
+      "album": {
         "name": "Sub\u00farbio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 326561,
       "name": "Deixa Alagar / S\u00f3 Depois / J\u00e1 Virou Rotina - Ao Vivo",
       "url": "https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ"
@@ -1092,6 +1110,28 @@
       "duration_ms": 298602,
       "name": "Em Busca da Minha Sorte / Vai Valer - Ao Vivo",
       "url": "https://open.spotify.com/track/4uGdM1nTvm0dMyWgNMmqij"
+    },
+    {
+      "album": {
+        "name": "Encontro / Eu Te Amo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67XOPkmRWRLit6AnqHTSoC"
+      },
+      "artists": [
+        {
+          "name": "Doce Encontro",
+          "url": "https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206551,
+      "name": "Encontro / Eu Te Amo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3QlaEMBgXJcq7lqjjRMmcm"
     },
     {
       "album": {
@@ -1306,7 +1346,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 336122,
       "name": "Fala / Fulminante / Dependente - Ao Vivo",
       "url": "https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2"
@@ -1657,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "Pagode de Amor, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Cg25TG0A9eZRwnUMtEusz"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519365,
+      "name": "Gra\u00e7a / Mais Forte Que Eu / Dist\u00e2ncia / Carona do Amor / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/4F96aHMnrMNb8OnEgH0WJN"
+    },
+    {
+      "album": {
         "name": "Hist\u00f3ria Combinada / Porta pra Felicidade / Voc\u00ea Gosta / Disfarce",
         "url": "https://open.spotify.com/album/3DrFbYQbeMtY00gjOqf0d9"
       },
@@ -1676,6 +1738,24 @@
       "duration_ms": 381200,
       "name": "Hist\u00f3ria Combinada / Porta pra Felicidade / Voc\u00ea Gosta / Disfarce",
       "url": "https://open.spotify.com/track/0JSbEU7lOraAIZJulFM4mE"
+    },
+    {
+      "album": {
+        "name": "L\u00e1 Em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Hu7uCd3w8Y4eSb6PM8DiT"
+      },
+      "artists": [
+        {
+          "name": "Delcio Luiz",
+          "url": "https://open.spotify.com/artist/6HAIIkjqIjLqsJvuUfmX4a"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299446,
+      "name": "Idem / Pira / Brilho de Cristal - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HvUwoFOY6BvRy7I7HfXI8"
     },
     {
       "album": {
@@ -1928,7 +2008,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221411,
       "name": "Mais Forte Que Eu / C\u00e2mera Lenta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3NNUym2r3hlsq6GpmWy3xm"
@@ -2488,7 +2568,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 561644,
       "name": "Olha o Que o Amor Me Faz / Eu Te Uso e Sumo / Melhor Eu Ir / Mega Star / Sinais / Um S\u00f3 Sentimento / O Amor \u00c9 Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/4xvnPlz8dLjsTayOCcj7U9"
@@ -2550,6 +2630,48 @@
       "duration_ms": 339839,
       "name": "Pagode do Beleleu(Nada Pra Fazer-Ao Seu Lado-At\u00e9 Me Afogar)",
       "url": "https://open.spotify.com/track/03YkxpabCruIRpTi0TeXTX"
+    },
+    {
+      "album": {
+        "name": "Pagode do Pr\u00edncipe no S\u00edtio, Bloco 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0UySSbia7S31KUX0YQ8uly"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00edncipe",
+          "url": "https://open.spotify.com/artist/2OCUMvnRrx5qIbjSwl8Tph"
+        },
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        },
+        {
+          "name": "Bom Gosto",
+          "url": "https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Binho Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Rosyl",
+          "url": "https://open.spotify.com/artist/4TOKpHdernuXoPSgEKLnGD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165486,
+      "name": "Papel de Homem / Tr\u00eas Homens em Um - Ao Vivo",
+      "url": "https://open.spotify.com/track/7IPbsbnebaEQxVHPTnutsd"
     },
     {
       "album": {
@@ -2764,7 +2886,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 397397,
       "name": "Por Favor (O Que Fazer) / \u00c9 Natural / At\u00e9 Que Enfim - Ao Vivo",
       "url": "https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK"
@@ -4296,6 +4418,28 @@
       "duration_ms": 447071,
       "name": "Volta Pra Casa / Em Suas M\u00e3os / Disfar\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3x4b2xOaKzeMxTozL4LU52"
+    },
+    {
+      "album": {
+        "name": "Na Voz Dos Criadores (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/0AKbz9xchyrskqP9mCF1yP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Envolv\u00eancia",
+          "url": "https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0"
+        },
+        {
+          "name": "Carlos Caetano",
+          "url": "https://open.spotify.com/artist/3DBnS0xQ40xPGQNm2aW0EZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273407,
+      "name": "\u00c1gua De Chuva / Jogo De Sedu\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0YmJNT6PGQPaNnnNaXwFrT"
     },
     {
       "album": {

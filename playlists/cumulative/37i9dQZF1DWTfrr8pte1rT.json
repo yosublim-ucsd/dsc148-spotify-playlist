@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Circlepit",
+        "url": "https://open.spotify.com/album/2UyXCdcO8vH2B7tWC0zbcJ"
+      },
+      "artists": [
+        {
+          "name": "Waxteeth",
+          "url": "https://open.spotify.com/artist/5O8JcrrpH0m0bKVquLKJAM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Circlepit",
+      "url": "https://open.spotify.com/track/3faxKIi1bRhjiQ5HzYK7bH"
+    },
+    {
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/2JxpatA9qcbA6d2znDuk2s"
       },
@@ -5255,6 +5273,28 @@
     },
     {
       "album": {
+        "name": "Kore",
+        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156863,
+      "name": "Kore",
+      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
+    },
+    {
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7b2nLYGQPmgp1IqonK9AOF"
       },
@@ -5492,7 +5532,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
@@ -6714,7 +6754,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"

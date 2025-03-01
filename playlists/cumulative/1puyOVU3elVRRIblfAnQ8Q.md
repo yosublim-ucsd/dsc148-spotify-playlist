@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-209 songs - 12 hr 7 min
+211 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hit & Run](https://open.spotify.com/track/44xdaJQkol3BllYFXG1PJ7) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Hit & Run](https://open.spotify.com/album/7M7lEHEyBHXco4yksLeQpF) | 3:44 | 2023-05-18 | 2024-01-27 |
 | [Hold It](https://open.spotify.com/track/54UMFq6MJbmXK6hQSJgTdE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 4:05 | 2023-04-28 | 2023-11-09 |
 | [Hold Me Close](https://open.spotify.com/track/1qKvS15FUKaE8zd77a9G1w) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [BRUER](https://open.spotify.com/artist/45TGBidKQqFyOZus89YBHI) | [Into The HEYZ, Part II](https://open.spotify.com/album/74FRnKKNgrZJ6dCsESoAqO) | 4:23 | 2023-11-08 | 2024-01-27 |
+| [Hush](https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Hush](https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y) | 3:15 | 2025-02-28 |  |
 | [I Spit Da Fire](https://open.spotify.com/track/1SxfJn8iaotM1t6Dhx6XTY) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:18 | 2024-08-23 |  |
 | [I'm In Deep](https://open.spotify.com/track/7CpzpC08POgY3reKx8pZns) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Into The HEYZ, Part I](https://open.spotify.com/album/4Pmq8bZNhxmBYBdGzMhjg4) | 3:37 | 2023-04-28 | 2023-11-09 |
 | [Ignite](https://open.spotify.com/track/0m4WKfdi0ReBUdPvga3lAi) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Ignite](https://open.spotify.com/album/4RIa6apCj1UUuFYxLohgN1) | 4:07 | 2023-07-14 | 2023-11-09 |
@@ -179,6 +180,7 @@
 | [SELF TALKING](https://open.spotify.com/track/3BvLYexVIFs3PFAAQhQXZl) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5) | [EVERYDAY](https://open.spotify.com/album/4IvfzUJSdvZY5GBrrQfmEr) | 3:57 | 2024-05-24 | 2024-08-24 |
 | [Ship Destroyer](https://open.spotify.com/track/6RM7SutzlkkUA5YF9dkQw7) | [Integrate](https://open.spotify.com/artist/1gZ1X3ws59AXefp76wEFvc) | [Ship Destroyer](https://open.spotify.com/album/5SC2xDSha4yhuJ98HHBwr1) | 3:10 | 2023-06-23 | 2023-11-09 |
 | [Shouldn't Have Called](https://open.spotify.com/track/4bq8wTJGt8UuGbh7wpsr5d) | [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:44 | 2024-08-23 |  |
+| [Skanner Power](https://open.spotify.com/track/6bKZHCVJ4ebuMAw8ynFNgo) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Skanner Power](https://open.spotify.com/album/49OPXPQyGa10OEdDNjG3Aj) | 3:45 | 2025-02-28 |  |
 | [Skeleton Synth](https://open.spotify.com/track/2G8QGu9SM4OZgIgK3Tf3PO) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Pechanga](https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf) | 2:09 | 2023-06-21 | 2023-11-09 |
 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 | 2024-02-27 | 2024-08-24 |
 | [Space Gear](https://open.spotify.com/track/0yyMs8sbdFeu3KjpUYnX0g) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Survivors EP](https://open.spotify.com/album/6uLt2izQ3oo51xlIN7LGR5) | 2:17 | 2023-08-11 | 2023-11-09 |

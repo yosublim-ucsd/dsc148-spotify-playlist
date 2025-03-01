@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,953 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,963 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 58 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 59 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 |
 | 60 | [El Sueno de Frida](https://open.spotify.com/track/6oa3KgZJ83kb3qfjlExQKz) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 3:44 |
-| 61 | [La LLorona \(A Guitarra y Voz Desde Casa\)](https://open.spotify.com/track/2O3GGAQw18PISYdsx4aaBk) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [La LLorona \(A Guitarra y Voz Desde Casa\)](https://open.spotify.com/album/5CF4J7iog69SXr4H5vbESM) | 3:13 |
+| 61 | [La LLorona \- A Guitarra y Voz Desde Casa](https://open.spotify.com/track/2O3GGAQw18PISYdsx4aaBk) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [La LLorona \(A Guitarra y Voz Desde Casa\)](https://open.spotify.com/album/5CF4J7iog69SXr4H5vbESM) | 3:13 |
 | 62 | [Voy al Mar](https://open.spotify.com/track/7hbTfsMaPKPZp3uzmDusRG) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN) | 4:18 |
 | 63 | [Aguanieve](https://open.spotify.com/track/0UxWsiffUoloR5OwAtNwjw) | [Leonardo Prieto](https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc) | [Aguanieve](https://open.spotify.com/album/1bJ4D0bCiX8U5FE0D3H0gy) | 7:53 |
 | 64 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 |

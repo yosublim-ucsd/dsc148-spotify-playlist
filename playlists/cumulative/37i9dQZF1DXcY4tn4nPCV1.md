@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-470 songs - 19 hr 59 min
+473 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Coming Closer](https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:53 | 2022-11-18 | 2023-07-19 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-10 | 2024-03-05 |
 | [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |
+| [Con Brio](https://open.spotify.com/track/7nhMqSjHvWR1FZE4bGIIbI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Con Brio](https://open.spotify.com/album/0qkTYxC8DcexB49k41ysWn) | 2:45 | 2025-02-28 |  |
 | [Conscious](https://open.spotify.com/track/0NpvwAPp3lxlBxy72gXAuK) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Conscious](https://open.spotify.com/album/3wp7uBll4dmd2U8Qd7LuLD) | 2:56 | 2023-06-20 |  |
 | [Consilium](https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Consilium](https://open.spotify.com/album/7pS00vJKlwX2kFPlTx51kJ) | 2:16 | 2023-06-20 | 2024-03-20 |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-04 | 2024-04-10 |
@@ -206,7 +207,7 @@
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-04 | 2024-03-05 |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2022-04-04 | 2024-04-04 |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-04-04 | 2024-04-04 |
-| [Lately](https://open.spotify.com/track/25mt07e9d0YnLilZWErWwI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Lately](https://open.spotify.com/album/6B4RhwHWJGl0fefqdjVs7q) | 2:41 | 2024-03-04 |  |
+| [Lately](https://open.spotify.com/track/25mt07e9d0YnLilZWErWwI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Lately](https://open.spotify.com/album/6B4RhwHWJGl0fefqdjVs7q) | 2:41 | 2024-03-04 | 2025-03-01 |
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-04-04 | 2024-04-10 |
 | [Les belles couleurs des arbres](https://open.spotify.com/track/1M7D11GymZZfC50WwTzrAc) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Les belles couleurs des arbres](https://open.spotify.com/album/5oQLdILYb1Zs8xKnHmZp3I) | 2:25 | 2022-04-04 | 2024-09-03 |
 | [Les Cascades](https://open.spotify.com/track/1KAetxnXN7RQyelFodIlQB) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Les Cascades](https://open.spotify.com/album/7EQwck6JXpN4cDgd8cGz0e) | 3:57 | 2022-04-04 | 2024-10-16 |
@@ -314,6 +315,7 @@
 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 | 2024-04-09 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-04-04 | 2024-03-26 |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2022-04-04 | 2023-07-19 |
+| [Redeemed](https://open.spotify.com/track/7fdMJJcxFzXLheBdIP0IR3) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Redeemed](https://open.spotify.com/album/1KdV18QxC3aL8KTsAK0WnF) | 2:17 | 2025-02-28 |  |
 | [Remain](https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Remain](https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho) | 2:05 | 2023-11-20 |  |
 | [Remember](https://open.spotify.com/track/26k4YsPsJyAGh2nzGC5JcR) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Remember](https://open.spotify.com/album/64ws1m4oMSkrVhaedDgzNV) | 2:13 | 2025-01-21 |  |
 | [Remember those quiet evenings](https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Remember those quiet evenings](https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl) | 2:36 | 2024-05-01 |  |
@@ -454,6 +456,7 @@
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-04 | 2024-04-04 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2022-04-04 | 2024-04-04 |
 | [Voyage à l'Ouest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-04-04 | 2024-09-25 |
+| [Walk by My Side](https://open.spotify.com/track/6rfjpcefVgYadMrX7urUh1) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Walk by My Side](https://open.spotify.com/album/7LY6sfSf1O2onVl6xp6eQC) | 2:19 | 2025-02-28 |  |
 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 | 2022-04-04 | 2023-06-21 |
 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 | 2022-09-20 | 2022-10-20 |
 | [Wandering Life](https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z) | [Wandering Life](https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U) | 1:38 | 2022-09-20 | 2022-10-21 |

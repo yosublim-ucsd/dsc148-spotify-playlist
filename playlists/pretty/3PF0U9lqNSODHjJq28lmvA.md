@@ -4,23 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,476 likes - 14 songs - 51 min 59 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,478 likes - 15 songs - 58 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Legacy](https://open.spotify.com/track/5E9s6jcD6jKcRZydDqVsa9) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Legacy](https://open.spotify.com/album/7hX7EbbkXh2g8nHLivz9X1) | 3:12 |
-| 2 | [money](https://open.spotify.com/track/0AppPazwBVjzu7UUZTbZbP) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [money](https://open.spotify.com/album/7oA0QKVTCBLRsON7pyzv3F) | 2:16 |
-| 3 | [If We Never Say Goodbye](https://open.spotify.com/track/268Hfy4cm4jO03Dyz4p1U3) | [Escape The Day](https://open.spotify.com/artist/0nnwM2DCigrExUZ0SQzoiC) | [If We Never Say Goodbye](https://open.spotify.com/album/4xhmAFHuo7mhjnPQKGpdRe) | 3:31 |
-| 4 | [Dog Tale](https://open.spotify.com/track/686U1rEeHoJDWyikYXRcoQ) | [Tugboat Captain](https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb) | [Dog Tale](https://open.spotify.com/album/3l8WhDqN0ehzfU0Fl78vty) | 4:24 |
-| 5 | [That's Who I'll Be](https://open.spotify.com/track/3b5c7WBGPyiGMPqPkZHzdk) | [Ben Driggs](https://open.spotify.com/artist/13BZj8porJktaU5Jff4Mof), [Eliza Smith\-Driggs](https://open.spotify.com/artist/55G9as8zfPRKREjVNtIIXR) | [The 2024 Collection](https://open.spotify.com/album/6Zf14B8E3JvfGXa7gLYNu1) | 4:25 |
-| 6 | [Studieschuld](https://open.spotify.com/track/4TK8SIfYMSJX7hffRcLXUU) | [Onkruid](https://open.spotify.com/artist/74Yus6IHfa3tWZzXXAYtS2) | [Dit Jaar Blijf Ik Thuis](https://open.spotify.com/album/06cX9QTzc7a8hFSPHWxOSK) | 2:37 |
-| 7 | [Stjärnor \- Bjørn Nessjø\-Mix](https://open.spotify.com/track/5xOeyqJYi5UJGFEgOFsxjg) | [Pär Edwardson](https://open.spotify.com/artist/0BkFo4xOvDmXxVixDfFlXB), [IBEN](https://open.spotify.com/artist/0seN7WXzghoajlalyU5Dzi) | [Stjärnor \(Bjørn Nessjø\-Mix\)](https://open.spotify.com/album/6PhZe8jDBQD0qC7d9MvZou) | 3:30 |
-| 8 | [Night Vision](https://open.spotify.com/track/22VjfeEM5vZqLmJfVWx5pC) | [SÁwol](https://open.spotify.com/artist/1FNB9k4jwdxHepnUSiUO5e) | [Thresholds of the Unseen, Book I: The Abyss](https://open.spotify.com/album/0u7FU4FHg2wEk59u0wuDtX) | 4:46 |
-| 9 | [Casually](https://open.spotify.com/track/6E43jNX3wSr5HdSkFfNbS4) | [Xoundr](https://open.spotify.com/artist/4ZNfeVkqWe44Dy9EvYBGJ8) | [Casually](https://open.spotify.com/album/2UkTQXMJCTKjdMGfWFxDBb) | 4:12 |
-| 10 | [her days / her nights](https://open.spotify.com/track/6Pj5Fpp2CYEDx6da4N1jLF) | [RINA](https://open.spotify.com/artist/2DlPTiEs2unIs0Wv7yxovJ) | [her days / her nights](https://open.spotify.com/album/3EAQ2qyl7yft5ts5D1vnkz) | 3:04 |
-| 11 | [My Lagoon](https://open.spotify.com/track/0SVgTpysPbLDZmirvLPFp3) | [Savage Gypsy](https://open.spotify.com/artist/2j4F8sRP5pXqvdGZ7LGdze) | [My Lagoon](https://open.spotify.com/album/0d3MrfsvBFEoKnWQdFrz7Z) | 4:01 |
-| 12 | [Above The Clouds](https://open.spotify.com/track/7a9yxEvzGRMfFTSrEmVu1x) | [Ba Balance](https://open.spotify.com/artist/7t6X7DnT5Iq9b6Y4Z2uBqB), [Krudtmejer](https://open.spotify.com/artist/2pDF2xi7hoyLwUAOwUTXlP) | [Above The Clouds](https://open.spotify.com/album/2RxijXcC2pccM8ekyuzguo) | 2:45 |
-| 13 | [A Nation Was Born](https://open.spotify.com/track/6O9xAu8E5YbMLUYq0J2AaT) | [Ironfall](https://open.spotify.com/artist/4AffXKSCyl7jnhtvlNuK1p) | [Ironfall 1](https://open.spotify.com/album/1jLa5P54cUWLozlh8nN2Lp) | 3:39 |
-| 14 | [Hamba](https://open.spotify.com/track/4m1FJYJGyo0KmbL6fBUlQF) | [Sohl](https://open.spotify.com/artist/4NX2v0e6BRuGGgPJhuP4nc) | [Hamba](https://open.spotify.com/album/42mmKmaRA0fDYR5Os78wKE) | 5:28 |
+| 1 | [House of Diane](https://open.spotify.com/track/2IlKTsUbgeo3dNspO2wPLS) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [House of Diane](https://open.spotify.com/album/6Dl8o9uCY9d0DHcO7cEsmf) | 4:22 |
+| 2 | [Uyisimanga \- Live from Moags](https://open.spotify.com/track/6jshhZlt72C8y4AFdYkjc5) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [The Atmosphere of Glory, Season 3 \(Live from Moags\)](https://open.spotify.com/album/3f1sGWEXfD0Oz15m0pieMW) | 4:58 |
+| 3 | [How Does It Feel](https://open.spotify.com/track/67pBtCFIlV0yPrkuLJ4FzK) | [Elliot Minor](https://open.spotify.com/artist/2KvBmoT8NJfNCXZXw7Trh4) | [How Does It Feel](https://open.spotify.com/album/1EY2KYPJQ70Y6o8HrXZyUH) | 4:13 |
+| 4 | [Schlagernacht](https://open.spotify.com/track/46O69Ql07PInGxoMzegQcR) | [Vocabular](https://open.spotify.com/artist/7exwAcZwm33ymfwgbJSVcE) | [Schlagernacht](https://open.spotify.com/album/3vaxy6liW7GCIA262qJgeg) | 3:30 |
+| 5 | [Puzzles](https://open.spotify.com/track/5gsFsiwv8sHIKgu0WLEagg) | [Truck Bed](https://open.spotify.com/artist/3Q7l3Z3y9DDUda4pf38jhb) | [Restless Hearts \(Empty Streets\)](https://open.spotify.com/album/4Db5fXInx7eo83mY7IpPFu) | 2:33 |
+| 6 | [Hallitus palamaan](https://open.spotify.com/track/7a6K0cIXVBy8fVoVqI38Bv) | [Slack Bird](https://open.spotify.com/artist/6Q1W7ZOpz6rfdm8QkEdH4p) | [Hallitus palamaan](https://open.spotify.com/album/21zdkfevxJccsQ7rt9d4zm) | 4:03 |
+| 7 | [KOM](https://open.spotify.com/track/5IQgLMOQkdjgHvNYhGm0bX) | [Mikäel](https://open.spotify.com/artist/531Lk2RKOoToHcmoPdeLLd) | [KOM](https://open.spotify.com/album/2IWoJMo1W1nl6vegSP8eVM) | 3:47 |
+| 8 | [Golden](https://open.spotify.com/track/6PTfg74OfdIMQkToJwMuXG) | [SEMINA](https://open.spotify.com/artist/3PZUOcbjuz9FyKlRH60pgr) | [To the moon and back](https://open.spotify.com/album/5emU2ic3YSqLj56K4jTRjC) | 3:25 |
+| 9 | [February](https://open.spotify.com/track/3jwa48ZbVYlrSqyBYd4lqI) | [Jeff Jeffcoat](https://open.spotify.com/artist/4spzUWbhsNpwRPXs9wPnNv) | [February](https://open.spotify.com/album/11pDOATCSHlanWbMCg91VG) | 4:12 |
+| 10 | [Voluntary Enslavement Of The Mind](https://open.spotify.com/track/58toJHPMsQslUWvkoUFyGb) | [Vanity Insanity](https://open.spotify.com/artist/2QtVSpVJxs93OoYJaym10S) | [Voluntary Enslavement Of The Mind](https://open.spotify.com/album/7DZ3bprVMDfRy6T7mEmeaA) | 6:01 |
+| 11 | [Voor Elkaar](https://open.spotify.com/track/7fJN7vlqMZKPlawFUov8Gn) | [Ismo](https://open.spotify.com/artist/6MUovvt7JESFiCwLhlBski), [Madina](https://open.spotify.com/artist/0y4l7r6TBlGR78AVAXdMuI) | [Voor Elkaar](https://open.spotify.com/album/1cP9tisKI6lDbehgbYkx2j) | 2:22 |
+| 12 | [Off The Gas](https://open.spotify.com/track/4B5O6S4EAbbBl7rqo2lzoT) | [Eddie Logix](https://open.spotify.com/artist/587pLuIBv6UD2jRLfIrmyQ) | [8th Street Edits, Vol\. 1](https://open.spotify.com/album/38BKs1dUgaf4kqsltn4QTJ) | 4:58 |
+| 13 | [Dou Dou Darling](https://open.spotify.com/track/49c0fAwpwakawK8ijceVYy) | [Banjela](https://open.spotify.com/artist/3WnGrJxBH5R3xMgXmbGNAU) | [Dou Dou Darling](https://open.spotify.com/album/2af2rBzKr6Gn7hmNMprN9b) | 3:57 |
+| 14 | [Kriebels](https://open.spotify.com/track/5fCt7huFGp7qHGcXbLK0wg) | [Ellen van der Veer](https://open.spotify.com/artist/31kn0H6NBGXzy5wSnjiuij), [Kinderkoor de Bromvlieg](https://open.spotify.com/artist/3rHJP8hC0SeiAQlD66YOQX) | [Kriebels](https://open.spotify.com/album/1FI8y3fEa9wVdKevC8oSyC) | 3:18 |
+| 15 | [Keep me away](https://open.spotify.com/track/1EjIwNJyqDZpUVHIMnUQz5) | [Clas Lundqvist](https://open.spotify.com/artist/2GjMMnHAk6D71mEkgh8nj6) | [Keep me away](https://open.spotify.com/album/5GQV1UxyeCsA3ESFxfyE6D) | 3:08 |
 
-Snapshot ID: `AAAEDERRpCvhrBTWwXg2KVVSZJwevVdV`
+Snapshot ID: `AAAEEN4WdHOubPRkqTGEjYrllfDzJ+Ji`

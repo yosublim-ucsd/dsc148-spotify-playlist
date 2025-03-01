@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=2yQaL1uoRmi\_k6FWFEsnyg">DJ Tira</a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=rBufI7v1QgSOIThE1xhDIw">DJ Tira</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,574 likes - 60 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,678 likes - 60 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [Groove all night](https://open.spotify.com/track/1yQJD82SB4bRhLiCsmq8yz) | [DjTroyEL](https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC) | [Groove all night](https://open.spotify.com/album/0VOTd4FvzsLOnvEhrQC8hz) | 6:59 |
 | 60 | [Ishuu](https://open.spotify.com/track/6nQaptKzSqN0TqaUjy2ymZ) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [19k Appreciation](https://open.spotify.com/album/1uFWn0g33Eat54LKqHTRXT) | 5:16 |
 
-Snapshot ID: `Z8DgdgAAAADBWZSmNFB/PF1uwtgohThW`
+Snapshot ID: `Z8E5IgAAAABm/OdbofwZlFT3MoZXFvVm`

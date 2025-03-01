@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: jaschu
 
-1,086 songs - 2 day 3 hr 29 min
+1,087 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [CEO](https://open.spotify.com/track/6FrpQXdyndAHT64KlhwHPD) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [CEO](https://open.spotify.com/album/6G56bPOgaCCMw6KklzTtgV) | 2:19 | 2023-12-08 | 2024-02-02 |
 | [Chaos](https://open.spotify.com/track/1VdjzSNjVZtU4KYYipxpcK) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Chaos](https://open.spotify.com/album/3TvW1Tkol1epmVsPbcBr0B) | 3:03 | 2023-02-13 | 2023-02-15 |
 | [charlie chaplin](https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [charlie chaplin](https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O) | 2:54 | 2024-08-22 | 2024-11-15 |
+| [Christiania](https://open.spotify.com/track/2YpZkINrTUm02UhUC0GJjq) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Christiania](https://open.spotify.com/album/0lXFzJSm0nzl6GWt2u1h17) | 3:35 | 2025-02-28 |  |
 | [Coffee](https://open.spotify.com/track/4KYSMT1E0CxFCbwEyWnCk6) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Coffee](https://open.spotify.com/album/5Cr6d0PQdd5N7XbzkRc5Jm) | 3:09 | 2023-04-13 | 2023-05-12 |
 | [Cold Brew \(Kaffee Warm 4\)](https://open.spotify.com/track/7yGxLsh0X7FLYpExiDFzeX) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [DREI](https://open.spotify.com/album/0OLeSL3f9par2MJDePcZeG) | 3:56 | 2023-02-13 | 2023-02-15 |
 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 | 2024-04-04 | 2024-06-01 |
@@ -653,7 +654,7 @@
 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 | 2023-08-10 | 2023-10-20 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 | 2024-06-21 |
 | [monogame liebe](https://open.spotify.com/track/4ZVhSSeY27owXp3cpZCm7r) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [monogame liebe](https://open.spotify.com/album/70pAG7npnWIwOD6COFkcxk) | 2:15 | 2024-04-25 | 2024-07-05 |
-| [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 | 2024-12-05 |  |
+| [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 | 2024-12-05 | 2025-03-01 |
 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 | 2024-12-05 |  |
 | [Morgentau](https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardäre & Verlierer](https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy) | 2:43 | 2023-12-14 | 2024-02-14 |
 | [Moshpit](https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Moshpit](https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ) | 2:34 | 2023-10-12 | 2023-11-17 |

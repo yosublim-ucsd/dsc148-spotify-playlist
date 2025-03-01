@@ -4,7 +4,7 @@
 
 > roots run deep
 
-360 songs - 21 hr 36 min
+362 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Hello Whiskey](https://open.spotify.com/track/482qnAUubbTntyywad6oru) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Hello Whiskey](https://open.spotify.com/album/1tp9l3w0s4YgffZFAmJNSK) | 4:22 | 2025-01-10 | 2025-02-08 |
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 | 2023-10-01 |
 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 | 2025-02-07 |  |
+| [Highway One](https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Highway One](https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz) | 3:14 | 2025-02-28 |  |
 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 | 2023-04-21 |  |
 | [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 | 2023-07-14 |  |
 | [Homewrecker](https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Homewrecker](https://open.spotify.com/album/2XDU3i198ll8mGU5zGpqgE) | 3:15 | 2024-09-13 | 2024-12-07 |
@@ -257,6 +258,7 @@
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-13 | 2025-01-11 |
 | [River Run](https://open.spotify.com/track/4cns2rtLADG9gaNlItD8mR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:11 | 2023-05-22 | 2023-07-01 |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-03-24 | 2023-06-01 |
+| [Riverbank](https://open.spotify.com/track/2STQ5fSQcIm3S2lBSYa0db) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Songs From The Holler](https://open.spotify.com/album/43uEBtVgq9LStAuhfme33c) | 3:25 | 2025-02-28 |  |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-24 | 2023-12-09 |
 | [Rollin' Stone](https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone](https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB) | 2:31 | 2024-10-25 |  |
 | [Run Away High](https://open.spotify.com/track/58XuhoLGFJCqpD5EOPif3f) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Run Away High](https://open.spotify.com/album/06mk4vdbCFKD3K3sIEpEd6) | 3:21 | 2023-11-21 | 2023-12-09 |

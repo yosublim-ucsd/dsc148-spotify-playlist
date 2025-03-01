@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 229146,
       "name": "Changing",
       "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
@@ -406,6 +406,24 @@
       "duration_ms": 121360,
       "name": "cindy lou who",
       "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
+    },
+    {
+      "album": {
+        "name": "confession",
+        "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84578,
+      "name": "confession",
+      "url": "https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn"
     },
     {
       "album": {
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198544,
       "name": "Dreamt of You",
       "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210438,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/1sY4WwCZYh3nkLnojWRk8h"

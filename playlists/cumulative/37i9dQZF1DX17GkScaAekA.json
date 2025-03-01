@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Rachmaninoff: 10 Preludes, Op. 23: No. 5 in G Minor. Alla marcia",
+        "url": "https://open.spotify.com/album/3J919bkzMdYLMyx6UBqYs9"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "10 Preludes, Op. 23: No. 5 in G Minor. Alla marcia",
+      "url": "https://open.spotify.com/track/5Rr36ZvGCXvWTF7bdL40KA"
+    },
+    {
+      "album": {
         "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
         "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
       },
@@ -1882,6 +1904,32 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
+    },
+    {
+      "album": {
+        "name": "Hough: Piano Concerto, Sonatina & Partita",
+        "url": "https://open.spotify.com/album/6aj6j7obrqKiSJJF9GB51l"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Piano Concerto \"The World of Yesterday\": II. Waltz Variations \u2013",
+      "url": "https://open.spotify.com/track/3yHmzhR9R6b3dUQeVkNCkn"
     },
     {
       "album": {

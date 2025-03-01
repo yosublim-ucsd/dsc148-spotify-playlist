@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150175,
+      "name": "BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
+    },
+    {
+      "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
@@ -2478,6 +2496,32 @@
       "duration_ms": 203517,
       "name": "INVESTIDO",
       "url": "https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI"
+    },
+    {
+      "album": {
+        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
+        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83054,
+      "name": "Jala Jala - En Vivo - Buenos Aires",
+      "url": "https://open.spotify.com/track/4BajwAgueWD8oweE4uyCAW"
     },
     {
       "album": {

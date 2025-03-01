@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Free As Hell",
+        "url": "https://open.spotify.com/album/660q3cUSBXyj3Ib3jxfRqx"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148988,
+      "name": "Free As Hell",
+      "url": "https://open.spotify.com/track/06uJf6Re1meuruxWc4UT6p"
+    },
+    {
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
       },

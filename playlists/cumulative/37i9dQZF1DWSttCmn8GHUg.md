@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-151 songs - 9 hr 5 min
+152 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [American Saturday Night](https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:34 | 2021-11-12 |  |
 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 | 2021-11-12 |  |
 | [American Soul](https://open.spotify.com/track/4X0nXejpxNJbMaGe1rmHpl) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 4:15 | 2021-11-12 | 2023-08-21 |
+| [American Soundtrack](https://open.spotify.com/track/7fRQkoHa6U07mN0Cp8N6qT) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [American Soundtrack](https://open.spotify.com/album/7FSgt7AaPhKtFnrob9ZG5d) | 3:24 | 2025-02-28 |  |
 | [American Spirit](https://open.spotify.com/track/7IavhGuLKMXs5bl4bgIJKM) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [American Spirit](https://open.spotify.com/album/0LsvUfzHnLTeuyK4OmhvRv) | 2:59 | 2022-07-01 |  |
 | [Arlington](https://open.spotify.com/track/1IdQeHmLig1Flat8nHkGo4) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Songs About Me](https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA) | 4:07 | 2021-11-12 |  |
 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 | 2021-11-12 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Rachel Chinouriri.
+> Meet the future of music around the world\. Cover: <strong>Rachel Chinouriri<strong>.
 
-1,876 songs - 4 day 5 hr 25 min
+1,877 songs - 4 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE](https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW) | 3:08 | 2024-04-05 | 2024-06-09 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-02-03 | 2022-09-16 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-02-03 | 2022-03-02 |
+| [Black Suits and Misery](https://open.spotify.com/track/0YPbeJ64ljT1vlXWKA4gac) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Black Suits and Misery](https://open.spotify.com/album/0kCGeyraZje2AGZsulPzhR) | 3:26 | 2025-02-21 |  |
 | [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 | 2024-09-20 |
 | [Blame Me](https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Blame Me](https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ) | 2:43 | 2024-06-28 | 2025-01-11 |
 | [blanket](https://open.spotify.com/track/1HtOV8CG71MY8kjqbaTrEm) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [blanket](https://open.spotify.com/album/77rv24srv70kCBADI5nB1d) | 3:03 | 2022-02-03 | 2022-08-02 |
@@ -1409,7 +1410,7 @@
 | [Speechless](https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4) | 3:22 | 2024-03-17 | 2024-04-06 |
 | [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 | 2023-01-27 | 2023-02-18 |
 | [SportsCenter](https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SportsCenter](https://open.spotify.com/album/6JDj9XoiUTI8PfbvAX8K2W) | 2:23 | 2024-10-11 |  |
-| [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-31 |  |
+| [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-31 | 2025-03-01 |
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Starlight](https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Starlight](https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI) | 2:57 | 2024-05-10 | 2024-09-15 |
 | [STARR](https://open.spotify.com/track/1ZmqkrsjURvut3aRvYiWHh) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [STARR](https://open.spotify.com/album/0dIOphG17KSYr4xIUZy4bs) | 3:00 | 2022-03-24 | 2022-03-31 |
@@ -1480,7 +1481,7 @@
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-05-30 | 2023-11-24 |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2023-05-30 | 2023-10-02 |
 | [Terug Naar Toen](https://open.spotify.com/track/67V5WHm5O3yHmgYVk7AJDz) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Terug Naar Toen](https://open.spotify.com/album/73J7iiixwLvv14L6YQioy8) | 2:46 | 2022-11-11 | 2022-12-15 |
-| [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-21 |  |
+| [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-21 | 2025-03-01 |
 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 | 2022-03-24 | 2022-04-07 |
 | [Thank God](https://open.spotify.com/track/3rX4Wd80m9PSvse363wwKz) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Thank God](https://open.spotify.com/album/2LHxOC7FonGRNhDEWaWxvI) | 2:46 | 2024-05-10 | 2024-09-24 |
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-05-30 | 2023-08-19 |
@@ -1682,7 +1683,7 @@
 | [your house, my house](https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [your house, my house](https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM) | 3:14 | 2024-05-24 | 2024-06-17 |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-03-24 | 2023-04-18 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
-| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 | 2025-02-28 |
+| [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 |  |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-24 | 2024-12-01 |
 | [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 | 2024-12-22 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 | 2024-08-03 |

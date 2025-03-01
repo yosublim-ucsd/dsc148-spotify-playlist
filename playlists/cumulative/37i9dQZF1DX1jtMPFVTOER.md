@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-598 songs - 1 day 11 hr 44 min
+599 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 | 2021-11-12 | 2022-05-14 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 | 2023-10-07 |
 | [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 | 2023-08-04 | 2023-09-30 |
-| [I Hate U](https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:48 | 2024-02-09 |  |
+| [I Hate U](https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Her Thoughts](https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD) | 2:48 | 2024-02-09 | 2025-03-01 |
 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-06-17 |
 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 | 2022-09-23 | 2023-07-29 |
 | [I See You](https://open.spotify.com/track/4wZ2AxvXflNwkxfU5jLlVt) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Paul Randolph](https://open.spotify.com/artist/2YrHDeEEoToOzrGjIhETYD), [Bread & Souls](https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4) | [A Family Gathering Chapter 3](https://open.spotify.com/album/4yb06NKYlpsn828xBYCGnA) | 5:37 | 2024-04-26 |  |
@@ -371,6 +371,7 @@
 | [No Regrets](https://open.spotify.com/track/22EVXdUTZEN5N9AFHoSYPb) | [Kieron Boothe](https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W) | [No Regrets](https://open.spotify.com/album/1nG5HOKAHkjfKat3fvNOek) | 2:59 | 2022-09-16 | 2022-11-20 |
 | [No Regrets](https://open.spotify.com/track/3ePOS6PeCV88LL41odKhza) | [Kieron Boothe](https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W) | [No Regrets](https://open.spotify.com/album/4b6j2CHE5kT8WDLUa6ZStt) | 2:59 | 2022-11-18 | 2023-03-04 |
 | [No Self Control \- The Breakglass Version](https://open.spotify.com/track/5sB5IzZu7dsI1GAX2c6QHR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9), [Ivy Boxall](https://open.spotify.com/artist/04NnyiPqVcXFLXsUfIDf7H) | [No Self Control \(The Breakglass Series: Part 3\)](https://open.spotify.com/album/6KSessSv718noSZBtjBCa3) | 5:52 | 2024-08-16 |  |
+| [Not Sharing](https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Albion Files](https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL) | 4:13 | 2025-02-28 |  |
 | [Not Today](https://open.spotify.com/track/7hAOd7jt3xglB5styzR0GD) | [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Process](https://open.spotify.com/album/5Wj92R0pQY8wgncGuEAD2h) | 3:09 | 2021-11-12 | 2022-02-19 |
 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Nothing Can Tear Us Apart](https://open.spotify.com/album/41CHRf8V6yv9x53IQbN4Fp) | 3:55 | 2021-11-12 | 2022-02-19 |
 | [Nothing Much](https://open.spotify.com/track/3e8p14OhUmrHbugk5aSg8f) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Nothing Much](https://open.spotify.com/album/2WGQ4kDAjeqZze2a2LzFTz) | 4:46 | 2024-09-20 |  |

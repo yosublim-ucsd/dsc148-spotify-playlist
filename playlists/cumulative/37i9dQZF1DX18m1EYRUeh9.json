@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Rooskin",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Eddie Chacon",
   "name": "Rarities",
   "tracks": [
     {
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Bully Ball",
+        "url": "https://open.spotify.com/album/2iGvU2T9OmiGCCgSN1xWsE"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203187,
+      "name": "Bully Ball",
+      "url": "https://open.spotify.com/track/02AKdVGHQGvijvYMNtZBHo"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0U00obZGekyfRZPBhy1jKM"
       },
@@ -852,6 +870,24 @@
       "duration_ms": 335130,
       "name": "Cascades",
       "url": "https://open.spotify.com/track/5KL2TfaqLYbwguDHnEPJYJ"
+    },
+    {
+      "album": {
+        "name": "Casuarina",
+        "url": "https://open.spotify.com/album/1VEMjQboGpwaDv8cYTTUJo"
+      },
+      "artists": [
+        {
+          "name": "Intermood",
+          "url": "https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296314,
+      "name": "Casuarina",
+      "url": "https://open.spotify.com/track/5obhUXoEbs1DQLDqztw3RE"
     },
     {
       "album": {
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125867,
       "name": "Coyote, You're My Star",
       "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
@@ -1505,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Earth 1",
+        "url": "https://open.spotify.com/album/67UigEhmaSwMMvlQrYzP5g"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670653,
+      "name": "Earth 1",
+      "url": "https://open.spotify.com/track/4QBhvOVXt0100YabWvJnpf"
+    },
+    {
+      "album": {
         "name": "Earthly Times (billy woods rework)",
         "url": "https://open.spotify.com/album/5HsBVXVIgCoQ2AnliVyUPE"
       },
@@ -1880,7 +1934,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 143453,
       "name": "Fever : Huron John",
       "url": "https://open.spotify.com/track/3VI5TXQGla9yNivhkYaByV"
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
@@ -1992,7 +2046,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197095,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
@@ -2021,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Good Sun",
+        "url": "https://open.spotify.com/album/1X12PncrTEco3qnObtzpvx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244104,
+      "name": "Good Sun",
+      "url": "https://open.spotify.com/track/5MEOB4iiBH6iSNL0dOfQ31"
+    },
+    {
+      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -2036,7 +2108,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 192800,
       "name": "Greatest Gift (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
@@ -2058,7 +2130,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 118250,
       "name": "Grow - DARGZ Remix",
       "url": "https://open.spotify.com/track/75qfOdXghbaqEpSXK91jg5"
@@ -2116,6 +2188,32 @@
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
+    },
+    {
+      "album": {
+        "name": "Hey Girl (s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
     },
     {
       "album": {
@@ -2400,6 +2498,28 @@
       "duration_ms": 740010,
       "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
       "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
+    },
+    {
+      "album": {
+        "name": "I Wanna Tell Somebody",
+        "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358186,
+      "name": "I Wanna Tell Somebody",
+      "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
     },
     {
       "album": {
@@ -2778,7 +2898,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 267800,
       "name": "Left Alone",
       "url": "https://open.spotify.com/track/2CpvQxnyIJGAMLONxm3nVz"
@@ -2854,7 +2974,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
@@ -3100,7 +3220,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 337183,
       "name": "Mogwa",
       "url": "https://open.spotify.com/track/7z2FgMzUWblzmAfVTwDD7r"
@@ -3140,7 +3260,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 349224,
       "name": "Musica",
       "url": "https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ"
@@ -3216,7 +3336,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163000,
       "name": "Never Fight The Way You Feel",
       "url": "https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl"
@@ -3344,7 +3464,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194440,
       "name": "No Confusion",
       "url": "https://open.spotify.com/track/1t6DCfkVYL4nWTIy3hEx2m"
@@ -3446,7 +3566,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 164019,
       "name": "Nothing on Me",
       "url": "https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx"
@@ -3511,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Omorfo Mou",
+        "url": "https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "Omorfo Mou",
+      "url": "https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq"
+    },
+    {
+      "album": {
         "name": "Remixes and Dubs",
         "url": "https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS"
       },
@@ -3548,7 +3686,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
@@ -3645,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189905,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "album": {
         "name": "Palmwine Riddim",
         "url": "https://open.spotify.com/album/4bZ9chhQU2vfLjEqtA5EPw"
       },
@@ -3714,7 +3870,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221409,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
@@ -4160,7 +4316,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh"
@@ -4419,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "LOWER",
+        "url": "https://open.spotify.com/album/01UBvt33eTksshPiwljpBn"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250097,
+      "name": "SLOW DANCE IN A GAY BAR",
+      "url": "https://open.spotify.com/track/1uoZmd98uJKi9qGNIHiiPP"
+    },
+    {
+      "album": {
         "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
         "url": "https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9"
       },
@@ -4544,7 +4718,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
@@ -4732,7 +4906,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 284862,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU"
@@ -4772,7 +4946,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 260760,
       "name": "Sun Always",
       "url": "https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4"
@@ -4874,6 +5048,24 @@
       "duration_ms": 384000,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/0kjPELR27yGGQlTQn9leFi"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139946,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"
     },
     {
       "album": {
@@ -5052,7 +5244,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 133500,
       "name": "The Variety Show I",
       "url": "https://open.spotify.com/track/2oxVJd2ioFce3dGYpeNUb1"
@@ -5146,7 +5338,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 244754,
       "name": "Thoughtless Feeling",
       "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk"
@@ -5448,6 +5640,28 @@
       "duration_ms": 151932,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
+    },
+    {
+      "album": {
+        "name": "Verrans Corner",
+        "url": "https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Leith Sye Towers",
+          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202415,
+      "name": "Verrans Corner",
+      "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44196,
+  "num_followers": 44195,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ4QFFffuAdpEhdYVJFzk+fz8lWvs/",
+  "snapshot_id": "AAAZ41ODJM5OeQiebiPlwxMsA82nH2rs",
   "tracks": [
+    {
+      "added_at": "2025-02-28 14:44:19",
+      "album": {
+        "name": "Drop It Low",
+        "url": "https://open.spotify.com/album/5tTRD6Y50fDdgOtmlwt5xp"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 137076,
+      "name": "Drop It Low",
+      "url": "https://open.spotify.com/track/1OO5UsqmBs0zJ6gNiFtBrs"
+    },
+    {
+      "added_at": "2025-02-28 14:45:24",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6RRZb7gBUFhXJYBywCZhm2"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/2EhEhgPbTatJFlmKIcTbA0"
+    },
     {
       "added_at": "2025-02-21 15:26:04",
       "album": {

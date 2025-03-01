@@ -22122,7 +22122,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
@@ -27667,6 +27667,24 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171537,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -30888,7 +30906,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201750,
       "name": "Parler tout bas",
       "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
@@ -36020,7 +36038,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 151168,
       "name": "Sexy Woman",
       "url": "https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi"

@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Disturbed.
 
-184 songs - 12 hr 1 min
+185 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 | 2025-02-06 |  |
 | [Starlings](https://open.spotify.com/track/2CaIiGzVCTmvD6iljwBAzu) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Starlings](https://open.spotify.com/album/7uM3uGyL7gQG9nQ0Plf2TL) | 3:12 | 2024-09-11 | 2024-09-20 |
 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 | 2025-02-06 |  |
+| [Still Dancing](https://open.spotify.com/track/1zSvEI7l5cRpsHkMn2MpBe) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Still Dancing](https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC) | 3:46 | 2025-02-28 |  |
 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2024-09-11 | 2024-09-13 |
 | [Stuck](https://open.spotify.com/track/3ZOI8IEuw2Kz5PH1hT1ZuJ) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Stuck](https://open.spotify.com/album/1k2fVPuFHLADAOsE61YbuD) | 3:06 | 2024-09-11 | 2024-10-04 |
 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 | 2024-09-26 |  |

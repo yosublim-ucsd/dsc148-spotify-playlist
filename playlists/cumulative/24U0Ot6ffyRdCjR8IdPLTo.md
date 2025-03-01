@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-367 songs - 20 hr 11 min
+370 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [7 Minutes In Heaven](https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [7 Minutes In Heaven](https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa) | 3:36 | 2023-08-15 | 2024-07-27 |
 | [99 and counting](https://open.spotify.com/track/1njBCJqiWrgMr8p6iFplVN) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [99 and counting](https://open.spotify.com/album/18CxNkOBD4IfYtoEZ6kPZE) | 2:32 | 2024-10-09 | 2025-02-18 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-07-26 |  |
+| [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 | 2025-02-28 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-08-28 | 2024-12-14 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-19 |  |
 | [AGNOSTIC](https://open.spotify.com/track/08A0a0aUSZ7KMPvkOiK9iX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW / AGNOSTIC](https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi) | 3:51 | 2023-10-21 | 2024-12-14 |
@@ -78,6 +79,7 @@
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-12-06 | 2023-08-16 |
 | [Defense of Love](https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love](https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB) | 2:25 | 2024-08-16 | 2024-09-07 |
 | [Defense of Love \- Acoustic](https://open.spotify.com/track/1NxJKfnHThLdKBEEyI6Z6k) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love \- Acoustic](https://open.spotify.com/album/3a6yUJgGmALj2mjt7dvRzh) | 2:26 | 2024-09-06 | 2024-10-19 |
+| [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 | 2025-02-28 |  |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-28 | 2024-12-14 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-15 | 2024-10-19 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2023-08-15 | 2023-08-29 |
@@ -135,6 +137,7 @@
 | [Grace](https://open.spotify.com/track/5KEgyKlPVrdD2GXIJsWtSq) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Grace](https://open.spotify.com/album/4ZwIy5IK6CDm5hWlNk2SBg) | 2:42 | 2021-12-06 | 2023-08-16 |
 | [Green](https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t) | [Abraham Marder](https://open.spotify.com/artist/1mWBfXz6jucW65OnB7ZJsz) | [Green \(An Original Song from the Motion Picture “Sound of Metal”\)](https://open.spotify.com/album/3fpm5s5FAe2FnAbHTuTXt5) | 4:27 | 2021-12-06 | 2023-08-16 |
 | [Happy To Be Sad](https://open.spotify.com/track/7H1v4mORwHtxbnxQJOa19F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Losing My Accent](https://open.spotify.com/album/2w9auyPckdEUdZ9Y57WE1I) | 2:36 | 2024-08-16 | 2025-02-18 |
+| [Have to Know](https://open.spotify.com/track/3xcAR1HuL1QHSWfK0K9WQe) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Have to Know](https://open.spotify.com/album/3d8eXK1rH361BG4aPrjkd5) | 2:16 | 2025-02-28 |  |
 | [He's A Dancer](https://open.spotify.com/track/69pQSH5FpjuFxc4aQA79ZP) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [He's A Dancer](https://open.spotify.com/album/3isWg6MHl3rbQIFqhYqysX) | 2:22 | 2024-10-11 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-09-08 | 2023-10-14 |
 | [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-08-28 | 2025-02-18 |

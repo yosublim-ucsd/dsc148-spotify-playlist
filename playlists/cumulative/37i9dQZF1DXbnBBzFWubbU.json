@@ -779,6 +779,32 @@
     },
     {
       "album": {
+        "name": "Dlala iDhol",
+        "url": "https://open.spotify.com/album/7Fi9dklycWbjTYJV7o5v2v"
+      },
+      "artists": [
+        {
+          "name": "DJ HABIBEATS",
+          "url": "https://open.spotify.com/artist/6TuJEVeUBF7uFjMWiMX0st"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "AKU",
+          "url": "https://open.spotify.com/artist/5GTMVApm4eVMVUOgC8RcqU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261428,
+      "name": "Dlala iDhol",
+      "url": "https://open.spotify.com/track/3Sfnlko5zWFLk0c1tlhFBG"
+    },
+    {
+      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -1624,6 +1650,36 @@
       "duration_ms": 245538,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/3khRHFULh5efPYYZXA2WVN"
+    },
+    {
+      "album": {
+        "name": "Majnu",
+        "url": "https://open.spotify.com/album/5PcA43bBiBxWwA5FAeBx3h"
+      },
+      "artists": [
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        },
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        },
+        {
+          "name": "PDNY",
+          "url": "https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd"
+        },
+        {
+          "name": "Indo Warehouse",
+          "url": "https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Majnu",
+      "url": "https://open.spotify.com/track/7wdiJaU05bn8IWZbgf2dXi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-598 songs - 1 day 11 hr 51 min
+599 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,8 @@
 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 | 2024-01-29 |  |
 | [Secrets](https://open.spotify.com/track/4qCgKKXa3CF6CzEDLW6vTt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:30 | 2024-01-29 |  |
 | [Sem Explicacao](https://open.spotify.com/track/00wBx311oIwxJOHVvnybUt) | [Lucas Nathan](https://open.spotify.com/artist/6GBgcZEko9Nn4WJ3NSyVMb) | [Pra Beber 100 Moderacao](https://open.spotify.com/album/4gdu51udpSof8dbMWdQMKm) | 2:56 | 2025-01-09 |  |
-| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2024-01-29 |  |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2024-01-29 | 2025-03-01 |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 | 2025-02-28 |  |
 | [Set It Off](https://open.spotify.com/track/2YFyIIfD3SCkvUpWXG5QO5) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [Identified](https://open.spotify.com/album/5bySjyp3QNndELWvaCvRLX) | 3:03 | 2024-01-29 |  |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-01-29 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/1KLluweT6mgGIatIcTPw10) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Shape Of My Heart \(Official HD Video\)](https://open.spotify.com/album/3y4NyRgTTjGeh7RZzcuXMH) | 3:48 | 2024-01-30 | 2024-02-01 |

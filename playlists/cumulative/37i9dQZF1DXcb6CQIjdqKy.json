@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: CeCe Winans",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: The Belonging Co.",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Eden (Live)",
+        "url": "https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507541,
+      "name": "All Fall Down - Live",
+      "url": "https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4"
+    },
+    {
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
       },
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188714,
       "name": "American Gospel",
       "url": "https://open.spotify.com/track/70ZJchbrhFgSO4q8JVSHwr"
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 238571,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
@@ -2298,6 +2320,24 @@
       "duration_ms": 278949,
       "name": "By Your Spirit",
       "url": "https://open.spotify.com/track/3ovxoxGOrctXFXhDECSNBL"
+    },
+    {
+      "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/4vaSuASnMqTwnG8wIAfAPg"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186230,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/6DF7bbGc7yDdOjUhCULMud"
     },
     {
       "album": {
@@ -5076,7 +5116,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 251261,
       "name": "God Can Use A Broken Man",
       "url": "https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z"
@@ -7900,6 +7940,24 @@
       "duration_ms": 429454,
       "name": "I Know A Name",
       "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
+    },
+    {
+      "album": {
+        "name": "I Looked Up / One More Day",
+        "url": "https://open.spotify.com/album/7C1mE3lJt6uOE3c9xbs2DE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306840,
+      "name": "I Looked Up",
+      "url": "https://open.spotify.com/track/757tLL7msK1H246ABCdSaV"
     },
     {
       "album": {
@@ -11272,7 +11330,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183829,
       "name": "MIRACLE WORKER",
       "url": "https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm"
@@ -12439,6 +12497,28 @@
     },
     {
       "album": {
+        "name": "NOTHING ELSE (feat. Thomas Rhett)",
+        "url": "https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "NOTHING ELSE (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459"
+    },
+    {
+      "album": {
         "name": "BOATS",
         "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
       },
@@ -12606,7 +12686,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 685340,
       "name": "Omemma - Live",
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
@@ -14324,7 +14404,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137851,
       "name": "RIPE",
       "url": "https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr"
@@ -15166,6 +15246,28 @@
       "duration_ms": 255233,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0"
+    },
+    {
+      "album": {
+        "name": "So Much More (Live)",
+        "url": "https://open.spotify.com/album/0A3W9PWXZRiohthISHRmGf"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384542,
+      "name": "So Much More (Live)",
+      "url": "https://open.spotify.com/track/2amP8TnRkOy9VKD02DTWzd"
     },
     {
       "album": {
@@ -17219,6 +17321,32 @@
     },
     {
       "album": {
+        "name": "The Darkness Before The Dawn",
+        "url": "https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "The Memory",
+      "url": "https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL"
+    },
+    {
+      "album": {
         "name": "The Moment (Live)",
         "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
@@ -17824,7 +17952,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 254445,
       "name": "Though I Walk",
       "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"

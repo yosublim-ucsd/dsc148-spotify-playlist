@@ -2,7 +2,7 @@
 
 ### [Women of Indie](https://open.spotify.com/playlist/37i9dQZF1DX91UQmVbQYyN)
 
-> Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
+> Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Oklou
 
 538 songs - 1 day 8 hr 38 min
 

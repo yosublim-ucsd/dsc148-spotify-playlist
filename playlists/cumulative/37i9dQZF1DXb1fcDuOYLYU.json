@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "These are the talented women of Latin music. Cover: Shakira",
+  "description": "These are the talented women of Latin music. Cover: RaiNao",
   "name": "Women of Latin",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 163998,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
@@ -3570,6 +3570,24 @@
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
+    },
+    {
+      "album": {
+        "name": "CAPIC\u00da (Aniversario)",
+        "url": "https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143404,
+      "name": "logout de ri\u00edto con la gata",
+      "url": "https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF"
     },
     {
       "album": {

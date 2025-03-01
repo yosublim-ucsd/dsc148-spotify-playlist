@@ -4,7 +4,7 @@
 
 > det brummer <a href="spotify:artist:79ky6ZBdwtfcMNf2LqRzvP">@wicky</a> 😮‍💨
 
-293 songs - 12 hr 40 min
+295 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [ANTISOCIAL](https://open.spotify.com/track/5tAFJmTuNNrCnNbjWM2KAR) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [ANTISOCIAL](https://open.spotify.com/album/32akYgu4MkrCHLkOEi0XAv) | 2:35 | 2025-02-06 |  |
 | [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 | 2024-07-11 | 2024-09-13 |
+| [ATTITUDE](https://open.spotify.com/track/6SX2HQYSAtdHL4z9ooKgfg) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [ATTITUDE](https://open.spotify.com/album/3OzfQT3HXKSMWWZYRwp4bN) | 2:56 | 2025-02-28 |  |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 | 2024-01-19 |
 | [Bad Bitch](https://open.spotify.com/track/1B2gmZjTfSGNDUYdQeGV8w) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Bad Bitch](https://open.spotify.com/album/3M1nQVoHKBEM8uVlEHn6ON) | 2:29 | 2024-09-05 | 2024-09-13 |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
@@ -210,6 +211,7 @@
 | [Når Det Nok](https://open.spotify.com/track/1a5rv4iJLXTIXmY4wPOyrR) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Når Det Nok](https://open.spotify.com/album/6qElWts5XQIjlwBIjiaTkL) | 2:04 | 2024-06-27 | 2024-09-13 |
 | [OCHO](https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/6qNTf2SSU5LesB8d8w63if) | 2:54 | 2024-04-25 | 2025-01-10 |
 | [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 | 2024-10-10 |  |
+| [OSLO](https://open.spotify.com/track/11fNOD56GEBFAydSoDNTzi) | [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [FLYVENDE PÅ LIFE](https://open.spotify.com/album/7hFuhZ4tD7nT31f09m0jkj) | 2:23 | 2025-02-28 |  |
 | [OT](https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [OT](https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ) | 2:50 | 2024-03-28 | 2025-01-10 |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/album/3pirHD0zqwlGkb0QS4UsIU) | 2:53 | 2024-02-15 | 2024-05-14 |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:53 | 2024-03-21 | 2024-04-19 |

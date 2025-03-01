@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-374 songs - 22 hr 9 min
+376 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 | 2021-12-03 | 2022-05-07 |
 | [Come Home](https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Come Home](https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9) | 3:50 | 2022-05-27 | 2023-06-10 |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2021-12-03 | 2022-02-12 |
+| [Constellations \(Drove Remix\)](https://open.spotify.com/track/5WduuIo5JFrFTWswE25I9y) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Constellations \(Drove Remix\)](https://open.spotify.com/album/5DwxUFz1FHD7cXpuOXksls) | 3:10 | 2025-02-28 |  |
 | [Corners](https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [The Long Way Home](https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk) | 5:05 | 2021-12-03 |  |
 | [Cross Your Mind](https://open.spotify.com/track/03F7FL0pcmVT4W8V8pERCH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR) | [Cross Your Mind](https://open.spotify.com/album/3WTRKUecyrM9ydt9ihGWoH) | 3:00 | 2021-12-03 | 2022-05-07 |
 | [Crying Over You \(feat\. Dakota\)](https://open.spotify.com/track/5J1mULz4oo960vW3xPCiP2) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Crying Over You \(feat\. Dakota\)](https://open.spotify.com/album/6wDyDqTl5BovCjgOs0Ucc3) | 3:02 | 2024-12-13 |  |
@@ -111,6 +112,7 @@
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 |  |
 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 | 2024-04-26 |  |
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 | 2023-06-10 |
+| [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 | 2025-02-28 |  |
 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-03-01 |  |
 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-19 |  |
 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 | 2022-10-28 |  |

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Cloudy June
+> Dark, hard hitting pop\. Cover: Nxdia
 
-853 songs - 1 day 15 hr 22 min
+855 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [HAPPY EVER AFTER](https://open.spotify.com/track/2tKw9pdaR2paQyfDYLGrWo) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [HAPPY EVER AFTER](https://open.spotify.com/album/0NUinuyKeYqHOAHbWxkWRZ) | 3:14 | 2023-03-17 | 2023-04-22 |
 | [HAPPY SEXY SKINNY PILL!!](https://open.spotify.com/track/6JP9UMpKfvLGPJ2GAjQ9Pm) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [HAPPY SEXY SKINNY PILL!!](https://open.spotify.com/album/6EGkjpLUKfgOSAyt6kl3Pv) | 3:11 | 2024-10-04 | 2025-01-25 |
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2024-01-13 |
+| [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-28 |  |
 | [Hate Me](https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 | 2023-02-17 | 2023-08-19 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-03-18 |
 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 | 2024-03-15 | 2024-06-29 |
@@ -381,7 +382,7 @@
 | [I Am Me](https://open.spotify.com/track/6QlM4xHmnopildYh5eWG0G) | [ADONA](https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ) | [I Am Me](https://open.spotify.com/album/19QCJAAEzmk77x4sdF01VP) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 | 2024-03-01 | 2024-06-15 |
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-03 | 2023-02-04 |
-| [I Gotta Be Cool](https://open.spotify.com/track/7ux2e8AFpQ7aM5YDjyNCwi) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a) | 3:29 | 2024-10-18 |  |
+| [I Gotta Be Cool](https://open.spotify.com/track/7ux2e8AFpQ7aM5YDjyNCwi) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a) | 3:29 | 2024-10-18 | 2025-03-01 |
 | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 | 2024-10-18 | 2025-02-08 |
 | [i hope you know what you're doing](https://open.spotify.com/track/5PMIK7eIb9doUGKWOuHZjq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [i hope you know what you're doing](https://open.spotify.com/album/3m4h6292GAxkgXnbRSZjob) | 2:39 | 2022-09-09 | 2022-10-29 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-05-06 |
@@ -547,7 +548,7 @@
 | [not ur baby](https://open.spotify.com/track/5xP6KmGWbPdz5ICUT7apYt) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [not ur baby](https://open.spotify.com/album/0dja5BzekkrBNOa9xfAETW) | 2:49 | 2023-11-17 | 2024-02-17 |
 | [Nothing To Me](https://open.spotify.com/track/4Cl0IAqrNUW5mRtehI8kmi) | [Jamisen](https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H) | [Nothing To Me](https://open.spotify.com/album/4BFZfzQgyvP5HRU8xqpCVs) | 2:50 | 2023-02-03 | 2023-05-06 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-21 | 2023-01-14 |
-| [Obsessed](https://open.spotify.com/track/26ctBDtriThZ18O2hZ66pS) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Obsessed](https://open.spotify.com/album/43eqbwd98zzZSfHCmozF0H) | 2:32 | 2024-10-25 |  |
+| [Obsessed](https://open.spotify.com/track/26ctBDtriThZ18O2hZ66pS) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Obsessed](https://open.spotify.com/album/43eqbwd98zzZSfHCmozF0H) | 2:32 | 2024-10-25 | 2025-03-01 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 | 2024-10-19 |
 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 | 2024-03-01 | 2024-08-31 |
 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 | 2024-01-19 | 2024-02-24 |
@@ -581,7 +582,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-10-08 |
 | [pity party](https://open.spotify.com/track/0kqjckF0hPdPdFEnz9Maci) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [pity party](https://open.spotify.com/album/6c3OaBVwUQ8YkXH3ZOvV7Y) | 3:15 | 2024-07-26 | 2024-08-31 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-15 | 2023-12-09 |
-| [Play With Fire](https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Play With Fire](https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl) | 2:43 | 2024-10-25 |  |
+| [Play With Fire](https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Play With Fire](https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl) | 2:43 | 2024-10-25 | 2025-03-01 |
 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 | 2024-06-28 | 2024-09-07 |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-26 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-09 |
@@ -640,6 +641,7 @@
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-03 | 2023-09-23 |
 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 | 2024-09-20 | 2025-01-21 |
 | [Sad Ghost](https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sad Ghost](https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH) | 3:07 | 2022-10-21 | 2023-04-01 |
+| [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-28 |  |
 | [SAINT](https://open.spotify.com/track/3L3EW1iUnEZN7Ejs4FuXYz) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [SAINT](https://open.spotify.com/album/1r41TREkXcOeKfFbDhwUsU) | 3:15 | 2023-09-29 | 2024-01-13 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 | 2022-03-18 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 | 2022-02-26 |

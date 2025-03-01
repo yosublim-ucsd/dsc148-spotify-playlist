@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127308,
+      "name": "Apex",
+      "url": "https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh"
+    },
+    {
+      "album": {
         "name": "The Pinkprint (Tenth Anniversary Edition)",
         "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 108943,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/5E3IRkG7F6jgFin8hLiOd9"
@@ -3869,6 +3887,28 @@
     },
     {
       "album": {
+        "name": "Bottles N Bitches",
+        "url": "https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131908,
+      "name": "Bottles N Bitches",
+      "url": "https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU"
+    },
+    {
+      "album": {
         "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
         "url": "https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb"
       },
@@ -4660,6 +4700,32 @@
       "duration_ms": 177084,
       "name": "cake",
       "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
+    },
+    {
+      "album": {
+        "name": "Thank U, New York (Deluxe)",
+        "url": "https://open.spotify.com/album/65bpOpvxM4OWVTEYEWQ7Nl"
+      },
+      "artists": [
+        {
+          "name": "27Delly",
+          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+        },
+        {
+          "name": "Jaasu",
+          "url": "https://open.spotify.com/artist/3Yu4x0xYvBtdk5ZzwqdykZ"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/2b5AQ3wsfAmmYid7lkAtTX"
     },
     {
       "album": {
@@ -5828,7 +5894,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 123428,
       "name": "COUNT MY BANDZ",
       "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
@@ -8563,6 +8629,28 @@
     },
     {
       "album": {
+        "name": "Zombie Love Kensington Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104852,
+      "name": "Fashion Model (feat. Jorjiana)",
+      "url": "https://open.spotify.com/track/2pWJtqIsNdFCQusGHW0mVJ"
+    },
+    {
+      "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
       },
@@ -8714,6 +8802,24 @@
       "duration_ms": 185379,
       "name": "Fed Up (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/3IOD3A5l42qEXQFoGZ1RH0"
+    },
+    {
+      "album": {
+        "name": "Feel Me (Rare Mix)",
+        "url": "https://open.spotify.com/album/1aiQJ5rIS8Q8wiTpEfRDz3"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130354,
+      "name": "Feel Me (Rare Mix)",
+      "url": "https://open.spotify.com/track/1tzHk1XRirUDBM6FSObTN8"
     },
     {
       "album": {
@@ -9378,7 +9484,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 276454,
       "name": "Force My Hand",
       "url": "https://open.spotify.com/track/0npKzbJ435cSBuB2JTMgqD"
@@ -9492,6 +9598,24 @@
       "duration_ms": 183931,
       "name": "Free Agency",
       "url": "https://open.spotify.com/track/7tJOSbWE58Tk9dF3S0YsYz"
+    },
+    {
+      "album": {
+        "name": "Free Car",
+        "url": "https://open.spotify.com/album/3nhXOAe2Y7VRIxfIyEQEe5"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211753,
+      "name": "Free Car",
+      "url": "https://open.spotify.com/track/7GAz71zpIG76OkdoAihlHQ"
     },
     {
       "album": {
@@ -9838,7 +9962,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
@@ -10252,6 +10376,28 @@
       "duration_ms": 203142,
       "name": "Get Deady (feat. 41)",
       "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
+    },
+    {
+      "album": {
+        "name": "Get Jiggy",
+        "url": "https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Get Jiggy",
+      "url": "https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY"
     },
     {
       "album": {
@@ -11594,7 +11740,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217731,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
@@ -13222,7 +13368,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206946,
       "name": "Isley Money",
       "url": "https://open.spotify.com/track/52IhqMGqUaGxsiRYfLFbU2"
@@ -16039,6 +16185,28 @@
     },
     {
       "album": {
+        "name": "At the Church Steps",
+        "url": "https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Ron E",
+          "url": "https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178472,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/1t7C4tmbmFXRu6bPsiWMqS"
+    },
+    {
+      "album": {
         "name": "Make Up Your Mind",
         "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
       },
@@ -16212,7 +16380,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125851,
       "name": "MARiO COINS",
       "url": "https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ"
@@ -18862,7 +19030,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -20005,6 +20173,24 @@
     },
     {
       "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/3Ypp1ZUKsRnkLRzbAyfe2k"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147993,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/1WLXweaReiGbFB5WWqwjAn"
+    },
+    {
+      "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
       },
@@ -21127,6 +21313,28 @@
     },
     {
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Proud Of Me (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb"
+    },
+    {
+      "album": {
         "name": "Road to CASABLANCO.",
         "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
       },
@@ -22212,6 +22420,28 @@
       "duration_ms": 142214,
       "name": "RICH HUSTLE (with Jim Jones)",
       "url": "https://open.spotify.com/track/2hFiYxiRV9pxM4BVATrKeX"
+    },
+    {
+      "album": {
+        "name": "BRAVADO INTiMO...",
+        "url": "https://open.spotify.com/album/4Bl379gkcW9UuFR1wXvPmX"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245268,
+      "name": "RiCH MAN DREAMS (i) (ft. Ab-Soul)",
+      "url": "https://open.spotify.com/track/4VNnkcfcnYeyvr3td0Gpjk"
     },
     {
       "album": {
@@ -24466,7 +24696,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 216585,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/2MXjCVgXp2EQKONatP3wGK"
@@ -26830,7 +27060,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 110896,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/1iRfgBWkQSufXiEv57WQhD"
@@ -26968,7 +27198,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125173,
       "name": "Tomorrow Will Be Better",
       "url": "https://open.spotify.com/track/3lGjhba2obegIC8Xc8VMK7"
@@ -28850,6 +29080,28 @@
       "duration_ms": 156000,
       "name": "What You On (feat. AC Zoe & B-Lovee)",
       "url": "https://open.spotify.com/track/3MbHZa5wuipqRsYsigpDwt"
+    },
+    {
+      "album": {
+        "name": "At the Church Steps",
+        "url": "https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/0UAMCiReTElBhwpQPS5efO"
     },
     {
       "album": {

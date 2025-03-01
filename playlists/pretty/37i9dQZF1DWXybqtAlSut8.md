@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,402 likes - 81 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,441 likes - 81 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 80 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 |
 | 81 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 
-Snapshot ID: `Z72T8AAAAACJbvVFLws4BS46tSPT9+Rp`
+Snapshot ID: `Z72T8AAAAADBScKnyRF3hvytoPDNXBw0`

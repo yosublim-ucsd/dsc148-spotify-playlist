@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-314 songs - 16 hr 39 min
+316 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 | 2024-11-17 | 2025-02-06 |
 | [Galaxy](https://open.spotify.com/track/7H1riDF2BhjeUP0Gvfvt1L) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Galaxy](https://open.spotify.com/album/5mOYMAiHKtV9HOP2K9JMv9) | 3:43 | 2023-06-27 |  |
 | [gen3mlp](https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF) | [lulamoon](https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G) | [opal](https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg) | 3:16 | 2025-01-25 |  |
+| [Get It Right](https://open.spotify.com/track/6Lsd7ToPdoGNsM9tH3OuxA) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Get It Right](https://open.spotify.com/album/5bkR7yXP74XrQv9k9MMtcy) | 1:52 | 2025-02-28 |  |
 | [GIVE ME STRENGTH](https://open.spotify.com/track/2V7IWA1q0Snstqgr1S58mw) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [GIVE ME STRENGTH](https://open.spotify.com/album/5Rqz15zcTGF5is39GOaZJm) | 4:20 | 2024-08-17 |  |
 | [give up \- Bonus Track](https://open.spotify.com/track/6WTexBsSst0whdc35bBEIW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [FAIRY](https://open.spotify.com/album/3el8ORbUoeVju2nQVCpnv4) | 1:47 | 2025-01-25 |  |
 | [GLACIER](https://open.spotify.com/track/14GW6MwrKfarr746iDdmfY) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL) | [GLACIER](https://open.spotify.com/album/7CKBGq9tpN1od7hqs2n8oC) | 3:07 | 2024-08-15 |  |
@@ -182,6 +183,7 @@
 | [Move Into The Light](https://open.spotify.com/track/7bbxdxLgGRrfaReqjfr2ts) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Move Into The Light](https://open.spotify.com/album/01P6ougy0DG5kYtE7fSuaa) | 4:28 | 2024-06-22 |  |
 | [Mt Gael](https://open.spotify.com/track/0VF8Dzogq3YQ8ZMGmRbB9k) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 5:14 | 2023-12-15 |  |
 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 | 2023-06-14 |  |
+| [my love](https://open.spotify.com/track/1g2cDX0MK9QuVlKQeR2YWq) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [my love](https://open.spotify.com/album/2BOhD08DhC2tnQDLgX5FQU) | 3:48 | 2025-02-28 |  |
 | [my world](https://open.spotify.com/track/0S0Sc5ynDo0RC2mJRhUOXG) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [my world](https://open.spotify.com/album/0BDh7Z4ckWU3FK7q94Ovyk) | 3:41 | 2024-05-28 |  |
 | [N.B.F.](https://open.spotify.com/track/6l3DJKWBAf4HtKLRuimEm2) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Who Said That](https://open.spotify.com/album/3SPgSAt8hTqInA7pLKid4h) | 3:14 | 2025-01-25 |  |
 | [nap by the summit](https://open.spotify.com/track/3PsJTcsUEw1Vi5mVgIKoOw) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [dis](https://open.spotify.com/artist/5q0eSYbfVtgJ5V8YqOHPrD) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 1:58 | 2024-08-15 |  |

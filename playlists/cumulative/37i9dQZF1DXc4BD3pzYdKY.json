@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 197154,
       "name": "4am",
       "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 158367,
       "name": "BAGS",
       "url": "https://open.spotify.com/track/7oalP61oJ8ATbQwuarGm1p"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 173419,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/2XHHvlufkH8h5osYYiuYLM"
@@ -4566,6 +4566,28 @@
       "duration_ms": 112250,
       "name": "CLOSURE",
       "url": "https://open.spotify.com/track/4Uxe13LHaaqzRLglIccaSW"
+    },
+    {
+      "album": {
+        "name": "WEST INDIES",
+        "url": "https://open.spotify.com/album/3jW2NrpsqiBgxGwlGqWZ10"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182572,
+      "name": "CLUB",
+      "url": "https://open.spotify.com/track/51GIfzJNfXTH9usrHHNiPC"
     },
     {
       "album": {
@@ -6880,6 +6902,28 @@
       "duration_ms": 187811,
       "name": "Finally Smile",
       "url": "https://open.spotify.com/track/1m2PB0gt2YsrTM04bNj4P3"
+    },
+    {
+      "album": {
+        "name": "fine by me!",
+        "url": "https://open.spotify.com/album/7tIyn1fOcbhYtydCvWwDLb"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105142,
+      "name": "fine by me!",
+      "url": "https://open.spotify.com/track/7KgRrlrhTVIO6rlEUCDDzh"
     },
     {
       "album": {
@@ -10222,7 +10266,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 134769,
       "name": "I Need Faith",
       "url": "https://open.spotify.com/track/3A5vkgvvNimHf3UdEadHJD"
@@ -11280,6 +11324,24 @@
       "duration_ms": 129696,
       "name": "josiah.",
       "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
+    },
+    {
+      "album": {
+        "name": "Joy In Chaos",
+        "url": "https://open.spotify.com/album/3WRJgByarkX8rP1mZ0fuIq"
+      },
+      "artists": [
+        {
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125915,
+      "name": "Joy In Chaos",
+      "url": "https://open.spotify.com/track/3pHJFnVrlqbn1li6mLEnQg"
     },
     {
       "album": {
@@ -22668,7 +22730,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 241040,
       "name": "Until I\u2019m Gone",
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
@@ -22936,6 +22998,24 @@
       "duration_ms": 132972,
       "name": "Voice",
       "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
+    },
+    {
+      "album": {
+        "name": "WAIT",
+        "url": "https://open.spotify.com/album/7CefosjL5JM7ZlMbmOQ6Ce"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/7LK9vvJFIDtDxAKawKTQV9"
     },
     {
       "album": {
@@ -23902,6 +23982,28 @@
       "duration_ms": 125948,
       "name": "WHITE ELEPHANT",
       "url": "https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas"
+    },
+    {
+      "album": {
+        "name": "Who Is Y'all",
+        "url": "https://open.spotify.com/album/6OsltyWcbH0oJtEIBFZMat"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130871,
+      "name": "Who Is Y'all",
+      "url": "https://open.spotify.com/track/2NGC89nTaUOuMB3u6nZT2H"
     },
     {
       "album": {

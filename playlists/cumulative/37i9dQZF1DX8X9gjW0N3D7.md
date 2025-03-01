@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Lou\-Adriane Cassidy
 
-141 songs - 7 hr 35 min
+142 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 | 2024-06-28 |  |
 | [Béatrice](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh), [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh), [Moran](https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm) | [Béatrice](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 | 2025-01-17 |  |
 | [C'est comme ça](https://open.spotify.com/track/3rDAYokpKb7ImopqqFP41N) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:37 | 2024-06-28 | 2024-07-27 |
+| [C'est fou](https://open.spotify.com/track/3Bo4ypaffja0u05JaMnJRD) | [Ima](https://open.spotify.com/artist/1yTWSP7tR6gp2vkstO7VI7) | [C'est fou](https://open.spotify.com/album/4w2xWFs5uSvafEZlJbst3r) | 2:53 | 2025-02-28 |  |
 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 | 2024-06-28 |  |
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2024-06-28 | 2024-09-28 |
 | [Caroline](https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Caroline](https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p) | 2:42 | 2025-02-07 |  |
@@ -91,7 +92,7 @@
 | [Limousine](https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Limousine](https://open.spotify.com/album/1LK10U5eEFMAaqbxX22ied) | 3:07 | 2025-01-10 |  |
 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 | 2024-08-17 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-01-25 |
-| [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 |  |
+| [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 | 2025-03-01 |
 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 | 2024-06-28 | 2024-07-27 |
 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 | 2024-06-28 |  |
 | [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 | 2024-10-25 |  |

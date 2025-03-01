@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-286 songs - 16 hr 31 min
+288 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blanco & Negro](https://open.spotify.com/track/2va2BhevjFmDTDU8QmgJxF) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:16 | 2023-04-28 | 2023-05-20 |
 | [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-07-19 | 2023-04-29 |
 | [Bondi](https://open.spotify.com/track/2DxwhvccoBibFxHHHJ8jVd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Cuentito](https://open.spotify.com/album/7AvIdnQjY3mjZ8NexvRruR) | 3:29 | 2022-07-19 | 2023-05-20 |
+| [BUENÍSIMO](https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [BUENÍSIMO](https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB) | 2:30 | 2025-02-28 |  |
 | [BUITRES](https://open.spotify.com/track/2cIf0QMDPd9aimLylQqCZ8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:09 | 2023-05-19 |  |
 | [Burbuja Loca](https://open.spotify.com/track/1CXKwOnD3ijncZIgV9DaWg) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Burbuja Loca](https://open.spotify.com/album/2ggx4yXZYKVp21lz16hO33) | 2:56 | 2022-06-29 | 2022-07-20 |
 | [CACHETAZO](https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [MARTTEIN](https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv) | 1:59 | 2024-10-04 |  |
@@ -138,6 +139,7 @@
 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 | 2022-06-29 | 2023-05-20 |
 | [Incandescente](https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Incandescente](https://open.spotify.com/album/63TDtsFF8Rh3K3uNbsOLmd) | 5:35 | 2022-06-29 | 2022-10-15 |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 |  |
+| [Jala Jala \- En Vivo \- Buenos Aires](https://open.spotify.com/track/4BajwAgueWD8oweE4uyCAW) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA \(En Vivo \- Buenos Aires\)](https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69) | 1:23 | 2025-02-28 |  |
 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 | 2024-10-04 |  |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-08-26 | 2023-05-20 |
 | [LA ARAÑA](https://open.spotify.com/track/1HU9uePnzE4RdomNtxICSC) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3itKjyJB7SPbkyhhlB9YJX) | 3:28 | 2022-07-19 | 2022-07-29 |

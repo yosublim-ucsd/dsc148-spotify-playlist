@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: MARINA
+> Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-434 songs - 23 hr 32 min
+436 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-01-27 |
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
-| [Alabama Stone](https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Alabama Stone](https://open.spotify.com/album/21EwKvVlMvjG5tsgJrzdvu) | 3:45 | 2024-12-06 |  |
+| [Alabama Stone](https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Alabama Stone](https://open.spotify.com/album/21EwKvVlMvjG5tsgJrzdvu) | 3:45 | 2024-12-06 | 2025-03-01 |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 | 2024-08-10 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 | 2024-06-29 |
 | [Alive](https://open.spotify.com/track/1DtQMNuEieMUYm2g4SoD8M) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Alive](https://open.spotify.com/album/1LUxUwfGmcVMmT2K5Tn4ed) | 2:48 | 2024-05-03 | 2024-05-15 |
@@ -122,6 +122,7 @@
 | [Drama](https://open.spotify.com/track/2JMPgo58zfWTdK7G69xK9R) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Drama](https://open.spotify.com/album/40h6x6z8gWqDVRkV7I8w5r) | 2:25 | 2024-08-09 | 2024-09-07 |
 | [Drown Me!](https://open.spotify.com/track/0HqpmGvujuyXod8f9LDvZo) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5l3wkGjjglxU4Z9fSE5YA6) | 2:52 | 2022-08-05 | 2022-10-05 |
 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 | 2022-05-17 | 2022-08-06 |
+| [dumbledore \- DARK ARTS VERSION](https://open.spotify.com/track/7xevbUxTQStXDZNG6ydsua) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [dumbledore](https://open.spotify.com/album/0S1J7M4BMRucoNN3Lln6BX) | 3:15 | 2025-02-28 |  |
 | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN) | 2:37 | 2022-06-24 | 2022-07-08 |
 | [Eleanor Rigby](https://open.spotify.com/track/6o4KmRRIZVzII1yA6IK9Cq) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6) | 4:40 | 2022-05-17 | 2022-07-16 |
 | [Election Day](https://open.spotify.com/track/1bd8bPTpgERdmcsNwMbx8w) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW), [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 1:57 | 2022-08-05 | 2022-09-15 |
@@ -146,7 +147,7 @@
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-05-17 | 2022-06-02 |
 | [Flower](https://open.spotify.com/track/665GayQvSikGzkwQl32TVy) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Flower](https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2) | 3:10 | 2023-08-22 | 2024-01-27 |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-02-02 | 2023-05-20 |
-| [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 |  |
+| [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-03-01 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-03 | 2022-06-11 |
 | [Freeze Your Brain](https://open.spotify.com/track/0QCM97jGFzXZCxsWm3sgQ5) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:53 | 2025-01-10 |  |
 | [Friends to Lovers](https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Friends to Lovers](https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e) | 2:23 | 2022-06-24 | 2022-07-12 |
@@ -156,6 +157,7 @@
 | [Full Speed Ahead](https://open.spotify.com/track/27otPRH67DpOsyNtSiM54v) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Armando Julián](https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj), [Steven Dookie](https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa), [EPIC Ensemble](https://open.spotify.com/artist/35Xs1OZ4WgpeqUTkjkX7lf) | [EPIC: The Troy Saga \(Original Concept Album\)](https://open.spotify.com/album/2j94jmFiOvCwS8Oj6br91A) | 3:00 | 2024-02-19 | 2024-06-08 |
 | [Funny Bunny](https://open.spotify.com/track/41iwYZWC9wiyOqeEigSywk) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5) | [Primordial Archive](https://open.spotify.com/album/0En2jb4HUcJM57qWctnLNR) | 2:17 | 2023-12-29 | 2024-02-14 |
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 | 2022-07-25 |
+| [Garden](https://open.spotify.com/track/7ibJDtfxEEHuEzdUyIKDzB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Garden](https://open.spotify.com/album/3xZyHao6awAXFokGdaDkHg) | 3:27 | 2025-02-28 |  |
 | [Genesis](https://open.spotify.com/track/49nE8KUUvy7LGJG1kKqheT) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [Genesis](https://open.spotify.com/album/4yojiZOEenXhf4nPO8EPLq) | 2:28 | 2022-09-02 | 2022-12-10 |
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-24 | 2023-03-08 |

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-467 songs - 1 day 2 hr 14 min
+468 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 | 2023-06-09 | 2024-02-24 |
 | [Howling](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Howling](https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG) | 3:07 | 2020-12-26 |  |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-10-04 |  |
+| [I Can Feel Your Love](https://open.spotify.com/track/45HQ2uow1flBrzw3uDIwlM) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [Emma Wells](https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx) | [I Can Feel Your Love](https://open.spotify.com/album/3cBuDutAXydPeChsT1RQaX) | 3:20 | 2025-02-28 |  |
 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 | 2023-12-08 |  |
 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-28 | 2023-12-14 |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-10-30 |  |
@@ -469,7 +470,7 @@
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-12 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/1sZbECWOoO8s87SC2gUanm) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Deep Joy](https://open.spotify.com/album/7szw19RC6wXNQXrPTGdFUW) | 2:29 | 2021-08-21 | 2021-09-04 |
 | [You Got Me](https://open.spotify.com/track/6n1ILqlcKA0ZCBt246Oeox) | [Yoru](https://open.spotify.com/artist/3I3wprdeNltqVwBiUsXazy) | [You Got Me](https://open.spotify.com/album/0tsQoNKyXTnzHFrJr9XE2C) | 3:40 | 2020-09-13\* | 2021-09-18 |
-| [You Know](https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj) | [Benji \(UK\)](https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [You Know](https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C) | 3:37 | 2024-11-08 |  |
+| [You Know](https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj) | [Benji \(UK\)](https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [You Know](https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C) | 3:37 | 2024-11-08 | 2025-03-01 |
 | [You Were Right](https://open.spotify.com/track/1JLz1mQiVFcXq40rd5d7ww) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 3:59 | 2021-04-30 | 2021-10-02 |
 | [You're so High](https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Illusions](https://open.spotify.com/album/5fF4GeXKiNGjgFkxoxlyHa) | 5:25 | 2020-09-13\* | 2022-07-30 |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2021-03-14 | 2021-04-24 |

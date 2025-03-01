@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/0Gyq0My9Ft0vWtyiPUQRez"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171868,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/4rkxahIIMkM9Fr13vbAcTm"
+    },
+    {
+      "album": {
         "name": "Cheatham County",
         "url": "https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4"
       },

@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. rusowsky",
-  "num_followers": 215437,
+  "num_followers": 215464,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "FAMILY MART",
-        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        }
-      ],
-      "duration_ms": 118936,
-      "name": "FAMILY MART",
-      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "XOBXO",
         "url": "https://open.spotify.com/album/4A00oi9TwsdeJdHchuId0S"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 166518,
       "name": "XOBXO",
       "url": "https://open.spotify.com/track/1hLQvd6uhBybEGGRWa4Iml"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "FAMILY MART",
+        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "duration_ms": 118936,
+      "name": "FAMILY MART",
+      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "JESSE PINKMAN",
-        "url": "https://open.spotify.com/album/1Z4cBCzplYnqKreUQqjQSz"
-      },
-      "artists": [
-        {
-          "name": "LoLo",
-          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
-        }
-      ],
-      "duration_ms": 140691,
-      "name": "JESSE PINKMAN",
-      "url": "https://open.spotify.com/track/3to3iKoowtTg6t44vABdsp"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "Nunca Volver\u00e1",
         "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "JESSE PINKMAN",
+        "url": "https://open.spotify.com/album/1Z4cBCzplYnqKreUQqjQSz"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        }
+      ],
+      "duration_ms": 140691,
+      "name": "JESSE PINKMAN",
+      "url": "https://open.spotify.com/track/3to3iKoowtTg6t44vABdsp"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        }
-      ],
-      "duration_ms": 150175,
-      "name": "BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "0444",
         "url": "https://open.spotify.com/album/7GByXWVuaIqsG7tJRHrFsV"
       },
@@ -1091,22 +1075,34 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "/\\/\\olly \\/\\/orld",
-        "url": "https://open.spotify.com/album/3oJnYxUhBvXrzqN4ekyxge"
+        "name": "BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "duration_ms": 150175,
+      "name": "BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "^^7^ 24",
+        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
       },
       "artists": [
         {
           "name": "Mda",
           "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Yung Naik",
-          "url": "https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP"
         }
       ],
-      "duration_ms": 107067,
-      "name": "QUE /\\/\\AL",
-      "url": "https://open.spotify.com/track/1VTsKdvNcArIf35R2josmg"
+      "duration_ms": 194884,
+      "name": "Revel\u00aaciones (M\u00aarcos intro)",
+      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1183,22 +1179,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "A DIOS LE PIDO",
-        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
-      },
-      "artists": [
-        {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 136811,
-      "name": "A DIOS LE PIDO",
-      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "LiKE A",
         "url": "https://open.spotify.com/album/3A6nBAmn3tMZsaP71TFXr8"
       },
@@ -1215,6 +1195,22 @@
       "duration_ms": 109870,
       "name": "LiKE A",
       "url": "https://open.spotify.com/track/3HLpdUbdkuApzseADV9oX5"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "A DIOS LE PIDO",
+        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "duration_ms": 136811,
+      "name": "A DIOS LE PIDO",
+      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "^^7^ 24",
-        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
+        "name": "/\\/\\olly \\/\\/orld",
+        "url": "https://open.spotify.com/album/3oJnYxUhBvXrzqN4ekyxge"
       },
       "artists": [
         {
           "name": "Mda",
           "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Yung Naik",
+          "url": "https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Revel\u00aaciones (M\u00aarcos intro)",
-      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
+      "duration_ms": 107067,
+      "name": "QUE /\\/\\AL",
+      "url": "https://open.spotify.com/track/1VTsKdvNcArIf35R2josmg"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "Vaciador_remixes",
-        "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
-      },
-      "artists": [
-        {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
-        },
-        {
-          "name": "DJ Final Boss",
-          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
-        },
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "KLF_remix x [DJ Final Boss, LVL1]",
-      "url": "https://open.spotify.com/track/0s1CXdq9bgLeRbjDjAtUXy"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "dulce o truco",
         "url": "https://open.spotify.com/album/6kILKM5lildeYFJb58Bgb1"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 235294,
       "name": "(re) play",
       "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "Vaciador_remixes",
+        "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        },
+        {
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
+        },
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "KLF_remix x [DJ Final Boss, LVL1]",
+      "url": "https://open.spotify.com/track/0s1CXdq9bgLeRbjDjAtUXy"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1439,26 +1439,18 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "no es amor",
-        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
       "artists": [
         {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "La Finesse",
-          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
         }
       ],
-      "duration_ms": 194517,
-      "name": "no es amor",
-      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1499,18 +1491,26 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+        "name": "no es amor",
+        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
       },
       "artists": [
         {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+      "duration_ms": 194517,
+      "name": "no es amor",
+      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+      },
+      "artists": [
+        {
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
         "name": "Mewtwo",
         "url": "https://open.spotify.com/album/0RCVFsmwGNPPVxZNjATriQ"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 132938,
       "name": "Mewtwo",
       "url": "https://open.spotify.com/track/67KfwbStkmIXhUF4Zbw6aS"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
-      },
-      "artists": [
-        {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "GUSTARLE A TU ABUELA",
         "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 132903,
       "name": "GUSTARLE A TU ABUELA",
       "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2025-02-20 23:00:38",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "Indoor",
-        "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
-      },
-      "artists": [
-        {
-          "name": "Di\u00e1cono",
-          "url": "https://open.spotify.com/artist/6tsYWyXqbe8TXwVrj4qKWR"
-        },
-        {
-          "name": "Tony Cobb",
-          "url": "https://open.spotify.com/artist/1h1ZJo2XR9jcThf9Z1CdOJ"
-        }
-      ],
-      "duration_ms": 136634,
-      "name": "Indoor",
-      "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
-    },
-    {
-      "added_at": "2025-02-20 23:00:38",
-      "album": {
         "name": "Te Hice una Cancion! (Remix)",
         "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
       },
@@ -1903,18 +1883,38 @@
     {
       "added_at": "2025-02-20 23:00:38",
       "album": {
-        "name": "Cansao de to",
-        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
+        "name": "Indoor",
+        "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
       "artists": [
         {
-          "name": "M. Nieto",
-          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
+          "name": "Di\u00e1cono",
+          "url": "https://open.spotify.com/artist/6tsYWyXqbe8TXwVrj4qKWR"
+        },
+        {
+          "name": "Tony Cobb",
+          "url": "https://open.spotify.com/artist/1h1ZJo2XR9jcThf9Z1CdOJ"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Cansao de to",
-      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
+      "duration_ms": 136634,
+      "name": "Indoor",
+      "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
+    },
+    {
+      "added_at": "2025-02-20 23:00:38",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
+      },
+      "artists": [
+        {
+          "name": "Leisy",
+          "url": "https://open.spotify.com/artist/37yn5m1od6yo2HeQe19fmE"
+        }
+      ],
+      "duration_ms": 116742,
+      "name": "PRST1",
+      "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
     }
   ],
   "unique_name": "helium",

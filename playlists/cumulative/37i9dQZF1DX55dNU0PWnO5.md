@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-427 songs - 1 day 1 hr 43 min
+428 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [CRNGGLS.MMBL](https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Zach Connolly](https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO) | [CRNGGLS.MMBL](https://open.spotify.com/album/5MhXEMFIHl9n9so6jTQr17) | 2:16 | 2023-04-14 | 2023-05-13 |
 | [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 | 2023-09-29 | 2024-09-07 |
 | [Cryogen](https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Jonathan Berroa](https://open.spotify.com/artist/034NSOjlm8ldyogY85O7v0), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb), [Jean\-loup Siaut](https://open.spotify.com/artist/7kQ6pzESf0Nv5XELxoHyjn) | [Cryogen](https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9) | 3:22 | 2022-03-25 | 2023-08-19 |
-| [Crystal Clouds](https://open.spotify.com/track/32Iny8TkYR3Anz4jmc4qK8) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:09 | 2022-01-14 |  |
+| [Crystal Clouds](https://open.spotify.com/track/32Iny8TkYR3Anz4jmc4qK8) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:09 | 2022-01-14 | 2025-03-01 |
 | [CYPReSSES](https://open.spotify.com/track/17vwQOObhFSyQ4oGSqlisH) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [CYPReSSES](https://open.spotify.com/album/2ieCq7tU69L7NkfCRKa3jC) | 3:18 | 2021-04-02 | 2022-07-29 |
 | [Daily Stroll](https://open.spotify.com/track/2G5EwHX39hSGhQkTCubRR1) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Howard](https://open.spotify.com/artist/4oXjAccvs9FQnAbP0OZvKC) | [Daily Stroll](https://open.spotify.com/album/3ZIxKuIOCNAltIR9BhRjMB) | 2:09 | 2021-09-10 | 2022-07-29 |
 | [Dance Desire](https://open.spotify.com/track/1kDLuI1oC6XSvaNpAqFGkv) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 3:54 | 2021-03-26 |  |
@@ -133,6 +133,7 @@
 | [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 | 2024-10-11 |  |
 | [Elegua](https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Elegua](https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA) | 2:28 | 2022-07-05 |  |
 | [Elias](https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC) | [pyxis](https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5) | [Gradients Part One](https://open.spotify.com/album/2Cyt2GG3bGywzFbgOt2y7k) | 4:56 | 2022-07-29 |  |
+| [Enchantment](https://open.spotify.com/track/4XypIbYvnG6IpK2CWJRLy1) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Enchantment](https://open.spotify.com/album/1awwSmSOly9gaWqbzG9tfK) | 4:05 | 2025-02-28 |  |
 | [Endless Thoughts](https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK) | [Endless Thoughts](https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb) | 3:57 | 2022-11-18 |  |
 | [ENTRACTE](https://open.spotify.com/track/0IpxDJ7BDaxPPpKeAi4qSv) | [Adavity](https://open.spotify.com/artist/7Jm9YJi9PVizGnyZefPbnm), [Camille Duboisset](https://open.spotify.com/artist/6Oskmwind5cp2CFslM6iUQ) | [ENTRACTE](https://open.spotify.com/album/0FcdXLZUlCV950vNyREfiQ) | 3:08 | 2022-04-15 |  |
 | [Envy](https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Envy](https://open.spotify.com/album/07Ehnt6vUeLzcL6tjAMs67) | 2:57 | 2023-09-08 | 2023-12-02 |

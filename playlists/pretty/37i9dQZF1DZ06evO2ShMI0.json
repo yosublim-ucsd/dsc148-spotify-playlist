@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 197578,
+  "num_followers": 197621,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAABHCP8eVyIlMPsrNVd3vBAy",
+  "snapshot_id": "Z7+rAAAAAABeeYRhBK5WqXOePFKGm9cZ",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "El Dia Es Claro",
-      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 355293,
       "name": "Lamento Boliviano - En Vivo",
       "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "El Dia Es Claro",
+      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planetario",
+        "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Tibio Corazon",
+      "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00fastico Retrovisor",
         "url": "https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 247920,
       "name": "El Instante Pas\u00f3",
       "url": "https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planetario",
-        "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Tibio Corazon",
-      "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
     },
     {
       "added_at": null,

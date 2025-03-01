@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,708 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,711 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Echo](https://open.spotify.com/track/7aQfuGKbdDyTK1JCYzK4NJ) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Echo](https://open.spotify.com/album/45E0UFc4udoOaeNiPN4eOB) | 3:18 |
 | 50 | [The Weather](https://open.spotify.com/track/4F0siYDiX7A9cJzX6QJZqV) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [The Weather](https://open.spotify.com/album/0VVuPDEqypfW11GDYwLKWz) | 3:14 |
 
-Snapshot ID: `Z8DujAAAAAAt0I6td/rCNa2+cVs0hbBy`
+Snapshot ID: `Z8DujAAAAADw4EpQsZ5YAu0pMElAYxL2`

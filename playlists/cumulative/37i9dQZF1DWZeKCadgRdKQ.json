@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/3qa4lXrx6gJyhtcvoXLSOC"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/0Z6rJpDXDZoLKoVcE0ubdj"
+    },
+    {
+      "album": {
         "name": "apple of my eye",
         "url": "https://open.spotify.com/album/2DCZOJBOiKA7VZDNyXuwl0"
       },
@@ -1143,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/77kNCdmb7dd0Nm7auAWrXF"
+      },
+      "artists": [
+        {
+          "name": "Pallendum",
+          "url": "https://open.spotify.com/artist/4z7Kq8oX9JFwQuJrrvVqpZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125272,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0NhNKKIvh1fRuyUN5iK39e"
+    },
+    {
+      "album": {
         "name": "Beyond the Horizon",
         "url": "https://open.spotify.com/album/1O9EJgkynNkGesK9E4XPXn"
       },
@@ -1406,10 +1442,28 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 221540,
       "name": "Blurred",
       "url": "https://open.spotify.com/track/4V2aHT8tVR7FM9vMMN0GG1"
+    },
+    {
+      "album": {
+        "name": "Blurred out",
+        "url": "https://open.spotify.com/album/352LVxpOIgt04lApWyHum1"
+      },
+      "artists": [
+        {
+          "name": "Deep Club",
+          "url": "https://open.spotify.com/artist/0oVZk6gliDbT4nxhOA3tuJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143646,
+      "name": "Blurred out",
+      "url": "https://open.spotify.com/track/0mM9sGDlY9AKmksTqZVm7v"
     },
     {
       "album": {
@@ -2609,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/1a5sbWpRuWvIKJdCoblgvV"
+      },
+      "artists": [
+        {
+          "name": "Theo Ember",
+          "url": "https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144354,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/5hKhlMFQtrntz30Osay5BA"
+    },
+    {
+      "album": {
         "name": "Consistency",
         "url": "https://open.spotify.com/album/3j25ulDHGAZEhgYebIqfdL"
       },
@@ -3099,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/5Iy31GrLevTAdBzULDvi3c"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Fredig",
+          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150417,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/4SdfvnH0muFlUQpBtwQ3WM"
+    },
+    {
+      "album": {
         "name": "Dig Deeper",
         "url": "https://open.spotify.com/album/2Z9QI0F8PmKk42xrUgd75H"
       },
@@ -3164,7 +3254,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 131518,
       "name": "Distance",
       "url": "https://open.spotify.com/track/0fOzbcpxqSgX5KhLwfdGyi"
@@ -3459,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/33IACGqrKQKz2vGTmcuYAn"
+      },
+      "artists": [
+        {
+          "name": "Magnus Hartman",
+          "url": "https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148136,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/2FWsxzejovIykc5XSuBU76"
+    },
+    {
+      "album": {
         "name": "Earthly",
         "url": "https://open.spotify.com/album/17nHjd2zoRMuar9b7ktzhb"
       },
@@ -3690,6 +3798,24 @@
       "duration_ms": 165482,
       "name": "emotions",
       "url": "https://open.spotify.com/track/44DaoGCx5GuHqQI1ZflPs8"
+    },
+    {
+      "album": {
+        "name": "Endless Horizon",
+        "url": "https://open.spotify.com/album/3HTHMnaAB0oVxjKhWpsx1v"
+      },
+      "artists": [
+        {
+          "name": "Chill Architect",
+          "url": "https://open.spotify.com/artist/3GuQNGIDN9FOQvb0heKvvr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104516,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/4kidaDWbd8h5u9qNLriFcH"
     },
     {
       "album": {
@@ -3942,6 +4068,24 @@
       "duration_ms": 310106,
       "name": "Ether",
       "url": "https://open.spotify.com/track/49fKIKnEXvfCEy2HWwKwVG"
+    },
+    {
+      "album": {
+        "name": "Etherea",
+        "url": "https://open.spotify.com/album/3BkxwKuNs5yZ23c8KTNXqy"
+      },
+      "artists": [
+        {
+          "name": "Lumen Atlas",
+          "url": "https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118421,
+      "name": "Etherea",
+      "url": "https://open.spotify.com/track/0DGp9OO9aUgYtBrmpSTewL"
     },
     {
       "album": {
@@ -4482,6 +4626,24 @@
       "duration_ms": 143750,
       "name": "first snowdrops",
       "url": "https://open.spotify.com/track/2nFeufV7d4MFFLlppEKzwP"
+    },
+    {
+      "album": {
+        "name": "Float in Time",
+        "url": "https://open.spotify.com/album/2CafEDyKC0I2DXuZT08wD0"
+      },
+      "artists": [
+        {
+          "name": "amaron",
+          "url": "https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136184,
+      "name": "Float in Time",
+      "url": "https://open.spotify.com/track/6K6reTcwKbULf7UWeB1Rzy"
     },
     {
       "album": {
@@ -5220,6 +5382,24 @@
       "duration_ms": 257391,
       "name": "Gratification",
       "url": "https://open.spotify.com/track/2XVmWYEwZCdasybflM4Q2l"
+    },
+    {
+      "album": {
+        "name": "Gravity and Grace",
+        "url": "https://open.spotify.com/album/0Bgr0IZqedecG43n4BQ2EI"
+      },
+      "artists": [
+        {
+          "name": "Seijaku",
+          "url": "https://open.spotify.com/artist/31A7W2UBGyTjbMEEgIMfTV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140652,
+      "name": "Gravity and Grace",
+      "url": "https://open.spotify.com/track/5sfzpc7JlhKGebj4mApJEL"
     },
     {
       "album": {
@@ -6520,6 +6700,24 @@
       "duration_ms": 188804,
       "name": "Keeping it together",
       "url": "https://open.spotify.com/track/7kM1ugB4jojCdoZWWDNrkt"
+    },
+    {
+      "album": {
+        "name": "Kindred Cloud",
+        "url": "https://open.spotify.com/album/3qP4suZZ6QmTxORczXe2e9"
+      },
+      "artists": [
+        {
+          "name": "\u00c1luinn",
+          "url": "https://open.spotify.com/artist/50yugGZM2qgXcIO7gHBYvF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202905,
+      "name": "Kindred Cloud",
+      "url": "https://open.spotify.com/track/5OyPm6eLU5uINXjDGGpwAV"
     },
     {
       "album": {
@@ -7877,6 +8075,24 @@
     },
     {
       "album": {
+        "name": "Mindstorm",
+        "url": "https://open.spotify.com/album/2bg40Vvn3HG1cNEIM7ltDT"
+      },
+      "artists": [
+        {
+          "name": "Hillside Dreams",
+          "url": "https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "Mindstorm",
+      "url": "https://open.spotify.com/track/3sOeK9kVrzEvHphUcHTHc2"
+    },
+    {
+      "album": {
         "name": "miniature things",
         "url": "https://open.spotify.com/album/4mo3YbEl9iNR1rTZtkqQxu"
       },
@@ -8608,7 +8824,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205794,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/07niZTYNkvPcw61OX0YSR6"
@@ -8684,6 +8900,24 @@
       "duration_ms": 103177,
       "name": "Nuraxi",
       "url": "https://open.spotify.com/track/0jgfH1TWoXIC0Qk5x0Uerw"
+    },
+    {
+      "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/3askvVem1DpNcsaYWgSgnD"
+      },
+      "artists": [
+        {
+          "name": "FoaM",
+          "url": "https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135020,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/0bp0C4xlsqk4CFERL4eWCc"
     },
     {
       "album": {
@@ -11013,6 +11247,42 @@
     },
     {
       "album": {
+        "name": "Sky Nine",
+        "url": "https://open.spotify.com/album/28cyzneiHbQcotEP0TCs6A"
+      },
+      "artists": [
+        {
+          "name": "Chris Haugen",
+          "url": "https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137020,
+      "name": "Sky Nine",
+      "url": "https://open.spotify.com/track/09fB32ddZmtFfRQOrVhC8v"
+    },
+    {
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/1Gk8zFV8H6oOvb6YPPWfBb"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178510,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/2UXV16ANGj3HJHyMPQ926G"
+    },
+    {
+      "album": {
         "name": "Skyscrapers",
         "url": "https://open.spotify.com/album/13o6d2wTpDxuXIPB9LyOPQ"
       },
@@ -11834,7 +12104,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156753,
       "name": "Summer Vibes",
       "url": "https://open.spotify.com/track/3nBn6Ox2yVzTuAmi2rbo9H"
@@ -12072,6 +12342,24 @@
       "duration_ms": 144126,
       "name": "Telescoop",
       "url": "https://open.spotify.com/track/5XEmK48pRAavxfYcBLKECl"
+    },
+    {
+      "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/7FaVIwJ3Cco5gvdFk4IdZc"
+      },
+      "artists": [
+        {
+          "name": "The Aiko",
+          "url": "https://open.spotify.com/artist/2qI0IMelpQDuqwVCmluMQ3"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126909,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/2U9oMk1CsE22E9Ep1HwuwK"
     },
     {
       "album": {
@@ -13181,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/3UFaCLotI4Jr8IjUms79KM"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6DVIE4GsAHQTNzTYGxv0Cg"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o"
       },
@@ -13959,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "Walking on Air",
+        "url": "https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz"
+      },
+      "artists": [
+        {
+          "name": "Au\u00f0ura",
+          "url": "https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126740,
+      "name": "Walking on Air",
+      "url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK"
+    },
+    {
+      "album": {
         "name": "La Ventana Abierta",
         "url": "https://open.spotify.com/album/50BZwgCWSGHYYyTmiuDX1J"
       },
@@ -14280,6 +14604,24 @@
       "duration_ms": 262000,
       "name": "When They Come",
       "url": "https://open.spotify.com/track/100jBpD7nuiMriR7ErXQ9S"
+    },
+    {
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/1yUnKOj5M9QorEllx6IdCv"
+      },
+      "artists": [
+        {
+          "name": "Dear Amore",
+          "url": "https://open.spotify.com/artist/3Vr54uV3Ygsd1rlmNZAhd8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159827,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/4Qotbuocf21YrtD8wMGcj6"
     },
     {
       "album": {

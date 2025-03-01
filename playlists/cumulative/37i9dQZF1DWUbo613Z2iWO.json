@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Giift",
+  "description": "R&B of the moment by the artists of the future. Cover: THEY.",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -3171,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Capsize",
+        "url": "https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "Capsize",
+      "url": "https://open.spotify.com/track/3iTr3JYzY6gk3yFY074ZWw"
+    },
+    {
+      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
@@ -4344,6 +4362,24 @@
       "duration_ms": 193817,
       "name": "Crocodile Tears (feat. Chase Shakur)",
       "url": "https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg"
+    },
+    {
+      "album": {
+        "name": "Cruel, Cruel World",
+        "url": "https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154940,
+      "name": "Cruel, Cruel World",
+      "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
     },
     {
       "album": {
@@ -12221,6 +12257,28 @@
     },
     {
       "album": {
+        "name": "LYTM (Remix)",
+        "url": "https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160997,
+      "name": "LYTM - Remix",
+      "url": "https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2"
+    },
+    {
+      "album": {
         "name": "Mad At Fire",
         "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
       },
@@ -14312,6 +14370,28 @@
       "duration_ms": 232712,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6SyKCp77HGNRinaWxVkTVA"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME (TRY)",
+        "url": "https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168663,
+      "name": "ONE MORE TIME (TRY)",
+      "url": "https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw"
     },
     {
       "album": {
@@ -16828,6 +16908,24 @@
       "duration_ms": 215320,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
+    },
+    {
+      "album": {
+        "name": "RUDUMB?",
+        "url": "https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4"
+      },
+      "artists": [
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117094,
+      "name": "RUDUMB?",
+      "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
     },
     {
       "album": {

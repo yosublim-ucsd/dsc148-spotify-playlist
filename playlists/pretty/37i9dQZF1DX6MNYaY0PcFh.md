@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,019 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,065 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 50 | [Fine Art](https://open.spotify.com/track/6X1tnPU11ApdBxtQuMrFUm) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Fine Art](https://open.spotify.com/album/3wvaHeDBouI4ko9TX5fEQ9) | 3:06 |
 | 51 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
 | 52 | [Flavours](https://open.spotify.com/track/27MYwjVjpnxVxxXf1yCNSK) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Flavours](https://open.spotify.com/album/54p36vpGUNGGzrTW4ts3bg) | 3:36 |
-| 53 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
-| 54 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
+| 53 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
+| 54 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
 | 55 | [Firestarter](https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Firestarter](https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h) | 3:04 |
-| 56 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 |
-| 57 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
-| 58 | [Jumpy](https://open.spotify.com/track/38oBS5Q4p1IFuF52JHEfEq) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Faithy](https://open.spotify.com/artist/0FUhoyIVALjzSBk8RAGNjM) | [Jumpy / Underwater](https://open.spotify.com/album/5WibryS4JWejrBSNuULs7X) | 3:09 |
-| 59 | [How It Is](https://open.spotify.com/track/7wetBN8fYQGEQyozI7fZMM) | [Lavito](https://open.spotify.com/artist/2f1ROIxC1XQB9beDbRhMzB), [Charlie Aylesbury](https://open.spotify.com/artist/1GR1GcuHbCWPMjN3cesPMp) | [How It Is](https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o) | 2:29 |
-| 60 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
+| 56 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
+| 57 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 |
+| 58 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
+| 59 | [Jumpy](https://open.spotify.com/track/38oBS5Q4p1IFuF52JHEfEq) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Faithy](https://open.spotify.com/artist/0FUhoyIVALjzSBk8RAGNjM) | [Jumpy / Underwater](https://open.spotify.com/album/5WibryS4JWejrBSNuULs7X) | 3:09 |
+| 60 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
 
 Snapshot ID: `Z7fCEwAAAAAXdAW7r73PA/Icf0YPsBO7`

@@ -2805,6 +2805,32 @@
     },
     {
       "album": {
+        "name": "Friends, Lovers, Ex-Lovers: Whatever",
+        "url": "https://open.spotify.com/album/3kg7JnKVAEBzhcNfujDaeu"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "Friends, Lovers, Ex-Lovers: Whatever",
+      "url": "https://open.spotify.com/track/6Yo9Ro78exOz0zfju18jxm"
+    },
+    {
+      "album": {
         "name": "From The Dust",
         "url": "https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE"
       },
@@ -5851,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/6C6wQd3tAI15rGQD35Rlwj"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223571,
+      "name": "Poison Well",
+      "url": "https://open.spotify.com/track/1ho0kCHtzFiq6zjUy1jLDm"
+    },
+    {
+      "album": {
         "name": "The Magnolia Sessions",
         "url": "https://open.spotify.com/album/2tzFlo0jANl3paolzd9ww7"
       },
@@ -6766,6 +6810,24 @@
       "duration_ms": 209724,
       "name": "Sleepy Time",
       "url": "https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S"
+    },
+    {
+      "album": {
+        "name": "Queen of Hearts (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Small Town Scandal (Bluegrass Version)",
+      "url": "https://open.spotify.com/track/48TliGToigYGdZiqKSrcMF"
     },
     {
       "album": {

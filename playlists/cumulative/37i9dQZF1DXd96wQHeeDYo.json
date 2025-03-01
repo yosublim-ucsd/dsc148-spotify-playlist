@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 121916,
       "name": "Esquivar",
       "url": "https://open.spotify.com/track/1pkHgduFZmRhHBbROcyrpb"
@@ -2430,6 +2430,32 @@
       "duration_ms": 153858,
       "name": "Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5N62WNRix4vRFUo3douHwX"
+    },
+    {
+      "album": {
+        "name": "Mi Amiga",
+        "url": "https://open.spotify.com/album/5Ensfajga3p9UVJzdKaHrF"
+      },
+      "artists": [
+        {
+          "name": "Prisy Pcoreta",
+          "url": "https://open.spotify.com/artist/1K7muR7t7FX1p7iHH1z3fL"
+        },
+        {
+          "name": "GusToso",
+          "url": "https://open.spotify.com/artist/4lPpqaqr64HpR54kP3hVRl"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144806,
+      "name": "Mi Amiga",
+      "url": "https://open.spotify.com/track/4qXU7TfH0e7tJoWnKc7L2a"
     },
     {
       "album": {
@@ -3800,7 +3826,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202093,
       "name": "Top",
       "url": "https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF"
@@ -4170,6 +4196,28 @@
       "duration_ms": 183960,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1e2wgHOAxNRZzIAtcTB27v"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6jpydp959kgMOeHCJPQNVq"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/6B1UqIeWynQIFXBLsRcz7S"
     },
     {
       "album": {

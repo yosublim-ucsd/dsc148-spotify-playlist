@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,286 songs - 2 day 18 hr 19 min
+1,287 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-06-04 |
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 | 2023-03-18 |
 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 | 2021-09-25 | 2022-01-08 |
+| [Nick of Time](https://open.spotify.com/track/0ZuR9ulA5MibXlRivZPGdQ) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics \(Deluxe\)](https://open.spotify.com/album/2AFSm661jlrISXACZ6wBMR) | 2:43 | 2025-02-28 |  |
 | [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-08 | 2025-02-01 |
 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 | 2020-10-29\* | 2021-01-21 |
 | [No Excuses](https://open.spotify.com/track/2K5j1aGJAIrPmyQTGn9C8Q) | [Taylor Waters](https://open.spotify.com/artist/4NAFc6jrwULBe2e70H35hv) | [No Excuses](https://open.spotify.com/album/0FAmQKR7N48JI3PewLo5tT) | 2:51 | 2021-05-15 | 2021-09-11 |
@@ -897,7 +898,7 @@
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2021-04-10 | 2021-05-22 |
 | [Puppy Love](https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:27 | 2023-09-28 | 2024-03-16 |
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-07-31 | 2021-10-16 |
-| [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 | 2024-08-16 |  |
+| [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 | 2024-08-16 | 2025-03-01 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-04-24 | 2021-06-12 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-29\* | 2021-02-12 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 | 2024-07-19 |

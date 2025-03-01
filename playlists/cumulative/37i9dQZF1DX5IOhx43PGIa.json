@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182255,
       "name": "9 LIVES",
       "url": "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201000,
       "name": "all over u",
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
@@ -1278,6 +1278,40 @@
       "duration_ms": 176132,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/4WCEBiPW3xoC0T4wYMXW9U"
+    },
+    {
+      "album": {
+        "name": "ASIAN STATE OF MIND",
+        "url": "https://open.spotify.com/album/1yI8yr0okERnFdggVKJWrn"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        },
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333765,
+      "name": "ASIAN STATE OF MIND",
+      "url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S"
     },
     {
       "album": {
@@ -1997,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/2bMhn1miGNinoPHZP33tmj"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/1PebqTQikPJyfPQRPE7HHp"
+    },
+    {
+      "album": {
         "name": "Bla Bli Blu",
         "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
       },
@@ -2450,7 +2502,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
@@ -3584,7 +3636,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169013,
       "name": "coraline",
       "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
@@ -3722,6 +3774,24 @@
       "duration_ms": 183800,
       "name": "Coyotes",
       "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
+    },
+    {
+      "album": {
+        "name": "Crazy Stupid Love",
+        "url": "https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Crazy Stupid Love",
+      "url": "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns"
     },
     {
       "album": {
@@ -5603,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+    },
+    {
+      "album": {
         "name": "F.R.A.",
         "url": "https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW"
       },
@@ -5618,6 +5710,24 @@
       "duration_ms": 134253,
       "name": "F.R.A.",
       "url": "https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp"
+    },
+    {
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161196,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt"
     },
     {
       "album": {
@@ -5644,6 +5754,24 @@
       "duration_ms": 144923,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/0nyVkDUGF76hjC9vhTqyJY"
+    },
+    {
+      "album": {
+        "name": "Fairy",
+        "url": "https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201147,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc"
     },
     {
       "album": {
@@ -6200,7 +6328,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160044,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
@@ -6458,6 +6586,28 @@
       "duration_ms": 170201,
       "name": "fw me (dirty)",
       "url": "https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "FXCK UP THE WORLD (feat. Future)",
+      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
     },
     {
       "album": {
@@ -7575,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "HELL ON ME",
+        "url": "https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178411,
+      "name": "HELL ON ME",
+      "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
+    },
+    {
+      "album": {
         "name": "HELLA BOY CRAZY",
         "url": "https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26"
       },
@@ -8256,7 +8424,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 176102,
       "name": "Hush My Heart",
       "url": "https://open.spotify.com/track/3G1YuvBfSeFBQwE5DEnoaD"
@@ -8440,7 +8608,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202905,
       "name": "i don't rly care bout u!",
       "url": "https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt"
@@ -9405,6 +9573,24 @@
     },
     {
       "album": {
+        "name": "i'll be happy when",
+        "url": "https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "i\u2019ll be happy when",
+      "url": "https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc"
+    },
+    {
+      "album": {
         "name": "I\u2019m (Back To Love)",
         "url": "https://open.spotify.com/album/6osGdMY77iw5ZbFDiV2Bz6"
       },
@@ -9684,6 +9870,24 @@
       "duration_ms": 207785,
       "name": "Kiss Me Like You're So In Love",
       "url": "https://open.spotify.com/track/0BcsYXyRxgfjtyxkDKTJKG"
+    },
+    {
+      "album": {
+        "name": "Kissing Isn't Compromise",
+        "url": "https://open.spotify.com/album/1rs6LvqyY55KxQzYj7NmV4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Mehta",
+          "url": "https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173916,
+      "name": "Kissing Isn't Compromise",
+      "url": "https://open.spotify.com/track/01eO6llBJknqVI4j9Jc3Ax"
     },
     {
       "album": {
@@ -11624,7 +11828,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 136421,
       "name": "Millie's Mom",
       "url": "https://open.spotify.com/track/6hQrbzXfWp9pwDcQfcEmTf"
@@ -11678,7 +11882,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170720,
       "name": "Mine",
       "url": "https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1"
@@ -12386,7 +12590,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 224888,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq"
@@ -12480,6 +12684,24 @@
       "duration_ms": 186251,
       "name": "not/lost",
       "url": "https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8"
+    },
+    {
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/3oA8nvPoNme2PLz7pHvfpr"
+      },
+      "artists": [
+        {
+          "name": "ASHWARYA",
+          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122660,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/1Yz8xzdwt7G1ycQcsmkjiL"
     },
     {
       "album": {
@@ -16427,6 +16649,28 @@
     },
     {
       "album": {
+        "name": "Sup",
+        "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        },
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220152,
+      "name": "Sup",
+      "url": "https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C"
+    },
+    {
+      "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
@@ -17076,7 +17320,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
@@ -19140,7 +19384,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"

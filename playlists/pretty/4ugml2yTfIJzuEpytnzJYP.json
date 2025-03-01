@@ -6,8 +6,24 @@
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "AAAJUP7xTTOPkjk9oBo1lCV0yyjWYT+C",
+  "snapshot_id": "AAAJUtCV77oC+dW0IUhLw7GFTDjioUly",
   "tracks": [
+    {
+      "added_at": "2025-02-28 06:20:03",
+      "album": {
+        "name": "Animale",
+        "url": "https://open.spotify.com/album/3U1JbZ3ZN5SwfBD1lqETBv"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Animale",
+      "url": "https://open.spotify.com/track/0ve0fcNBQVGQO43Ti88MZs"
+    },
     {
       "added_at": "2025-02-14 06:15:44",
       "album": {

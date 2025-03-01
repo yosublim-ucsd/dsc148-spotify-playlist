@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-405 songs - 1 day 0 hr 28 min
+406 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Angels In Science Fiction](https://open.spotify.com/track/2FyG8Tx0DOZtssYdabRCLu) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/6t1L6t6AQqyS4ZUJtnkhBt) | 3:46 | 2023-09-01 |  |
 | [Angels In Science Fiction](https://open.spotify.com/track/6EDt6D43K1OewCZsGDZDku) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:46 | 2023-04-21 | 2024-04-19 |
 | [Any Way You Come \(Bonus Track\)](https://open.spotify.com/track/6Fv2S3jT43CCgOGRApyqp8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/571TqZzVFeMTC35iuh3od0) | 3:25 | 2023-09-01 | 2024-04-19 |
-| [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 |  |
+| [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 | 2025-03-01 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 |  |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |
 | [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 | 2023-03-10 | 2023-07-09 |
@@ -230,6 +230,7 @@
 | [Make It Work](https://open.spotify.com/track/6z2Yyi7djrqPL2OalDW8ha) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Make It Work](https://open.spotify.com/album/7JHovvwDzAaSFc2vDw5DTG) | 3:07 | 2023-08-25 |  |
 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 | 2021-01-22 | 2022-07-29 |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 |  |
+| [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 | 2025-02-28 |  |
 | [Maybe I Do](https://open.spotify.com/track/33Yo16lC0glS0lYgRTxpLD) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Maybe I Do](https://open.spotify.com/album/1Nouwpgvi7Oi1PMxNFIB2W) | 3:28 | 2020-10-17 | 2022-04-19 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 | 2023-04-01 |
 | [Meltdown](https://open.spotify.com/track/3ka3EiIf8D2kffzcQkdwdp) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Meltdown](https://open.spotify.com/album/0cb33rdz5GzgW9R8zj6CAo) | 2:52 | 2022-08-12 |  |

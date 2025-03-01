@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: aleksiah",
-  "num_followers": 129685,
+  "num_followers": 129712,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8BiJQAAAAAuQ+KoZys0WHIC6mBEEjRn",
+  "snapshot_id": "Z8BiJQAAAAC7wo1CupHBOVi6FIueS1LO",
   "tracks": [
     {
       "added_at": "2025-02-27 13:01:25",
@@ -55,6 +55,22 @@
       "duration_ms": 195486,
       "name": "Peripheral Lover",
       "url": "https://open.spotify.com/track/4HbD58hUbzkczpKCHvlZGr"
+    },
+    {
+      "added_at": "2025-02-27 13:01:25",
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": "2025-02-27 13:01:25",

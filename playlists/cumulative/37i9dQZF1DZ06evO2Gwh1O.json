@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Constant Illuminations",
+      "url": "https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG"
+    },
+    {
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },

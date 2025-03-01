@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 170700,
+  "num_followers": 170732,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Every One Minute",
-        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 210276,
-      "name": "Every One Minute",
-      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 225680,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "Every One Minute",
+        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 210276,
+      "name": "Every One Minute",
+      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
       "artists": [
         {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
         }
       ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+        "name": "HOME TOWN \uff5eCover Songs\uff5e",
+        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+      "duration_ms": 304266,
+      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "HOME TOWN \uff5eCover Songs\uff5e",
-        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 304266,
-      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1423,22 +1439,6 @@
       "duration_ms": 252706,
       "name": "\u6563\u308b\u6563\u308b\u6e80\u3061\u308b",
       "url": "https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "noidleap",
-        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 203863,
-      "name": "Noidleap",
-      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "enough",
+        "url": "https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 282036,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "Rainy Day",
         "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "enough",
-        "url": "https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI"
+        "name": "RELOADING CITY",
+        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
         }
       ],
-      "duration_ms": 282036,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M"
+      "duration_ms": 264360,
+      "name": "\u30a2\u30dd\u30ed",
+      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "RELOADING CITY",
-        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "\u30a2\u30dd\u30ed",
-      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 305760,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u604b\u6a19",
-        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
+        "name": "\u8003\u3048\u4e2d",
+        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 212418,
-      "name": "\u604b\u6a19",
-      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
+      "duration_ms": 242373,
+      "name": "\u8003\u3048\u4e2d",
+      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1639,34 +1655,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u8003\u3048\u4e2d",
-        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
+        "name": "\u604b\u6a19",
+        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
       },
       "artists": [
         {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
         }
       ],
-      "duration_ms": 242373,
-      "name": "\u8003\u3048\u4e2d",
-      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
+      "duration_ms": 212418,
+      "name": "\u604b\u6a19",
+      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1703,22 +1703,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u5206\u96e2\u6d3e\u306e\u590f",
-        "url": "https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2"
+        "name": "\u771f\u591c\u4e2d\u306e\u30b8\u30e7\u30fc\u30af (feat. Natsu Summer)",
+        "url": "https://open.spotify.com/album/1XXvF6LdZHlwRxk4XPqiTH"
       },
       "artists": [
         {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
         }
       ],
-      "duration_ms": 279093,
-      "name": "Lonely One",
-      "url": "https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf"
+      "duration_ms": 294947,
+      "name": "\u771f\u591c\u4e2d\u306e\u30b8\u30e7\u30fc\u30af (feat. Natsu Summer)",
+      "url": "https://open.spotify.com/track/3vfjbn4TTW4DZGKbw8r1rz"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

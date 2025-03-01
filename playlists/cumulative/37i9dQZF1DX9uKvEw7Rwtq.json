@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 343800,
       "name": "Green Arrow",
       "url": "https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA"
@@ -1353,6 +1353,28 @@
     },
     {
       "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+    },
+    {
+      "album": {
         "name": "Looking at the World Through a Window",
         "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
@@ -1692,7 +1714,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK"
@@ -1826,6 +1848,24 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
+    },
+    {
+      "album": {
+        "name": "Old Joy",
+        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101337,
+      "name": "Path to Springs",
+      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
     },
     {
       "album": {

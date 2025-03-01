@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Braye
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Cruel Santino
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,450 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,478 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 2 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 |
 | 3 | [Summer](https://open.spotify.com/track/3PPqIW224FnGVkETbcrZU2) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 3:42 |
 | 4 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
-| 5 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
-| 6 | [Gates of Heaven](https://open.spotify.com/track/3CM2LE1CI0fLKrnmXTviYw) | [Subaru Live Radio](https://open.spotify.com/artist/0qb8N71Uumnti0NYwRCXv4), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Ravington](https://open.spotify.com/artist/5toMJY8OHE9np3f4Hh0wCy), [T6lu](https://open.spotify.com/artist/0NuyKVdlT2wpg1Dsd7pa8s) | [Subaru Live Radio](https://open.spotify.com/album/3OyVFo9DMVVT2J1w4HwWnx) | 2:05 |
-| 7 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 |
-| 8 | [BACK IN OFFICE](https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Nigerian Boyfriend](https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU) | 2:27 |
+| 5 | [Gates of Heaven](https://open.spotify.com/track/3CM2LE1CI0fLKrnmXTviYw) | [Subaru Live Radio](https://open.spotify.com/artist/0qb8N71Uumnti0NYwRCXv4), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Ravington](https://open.spotify.com/artist/5toMJY8OHE9np3f4Hh0wCy), [T6lu](https://open.spotify.com/artist/0NuyKVdlT2wpg1Dsd7pa8s) | [Subaru Live Radio](https://open.spotify.com/album/3OyVFo9DMVVT2J1w4HwWnx) | 2:05 |
+| 6 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 |
+| 7 | [BACK IN OFFICE](https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Nigerian Boyfriend](https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU) | 2:27 |
+| 8 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
 | 9 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
 | 10 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 |
 | 11 | [myfavourite.mp3](https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [the gift](https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Say Please](https://open.spotify.com/track/5IRnCF3PPKFmIK641N6y40) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Say Please](https://open.spotify.com/album/5lQZd1mzyPBqpgEG8O789l) | 2:47 |
 | 80 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
 
-Snapshot ID: `Z8D84AAAAAD/bRwsEtOMExCekazWDHwS`
+Snapshot ID: `Z8Fs2AAAAACVSOQuEb4Nu8trfMUN9MtT`

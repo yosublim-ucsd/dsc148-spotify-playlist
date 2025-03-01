@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bleeding Through
 
-1,136 songs - 2 day 21 hr 59 min
+1,137 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-27 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |
 | [Immolation of Night](https://open.spotify.com/track/3OOeWlT6cQYNbdJ4qcBipL) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Immolation of Night](https://open.spotify.com/album/0DumP1DzkNR7b0uIASVDcy) | 3:50 | 2023-02-03 | 2023-03-18 |
+| [Impaired](https://open.spotify.com/track/4l5HTsdCHQU3Vjn69R644N) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Impaired](https://open.spotify.com/album/54tU4oLpZAhxVtRh2XQXXY) | 3:34 | 2025-02-21 |  |
 | [Impending Doom](https://open.spotify.com/track/7dOQP4Y2djQCDuNXGct5vl) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke), [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq), [John Henry](https://open.spotify.com/artist/6pJO5vWK0frFRhSmh9GLsq) | [Impending Doom](https://open.spotify.com/album/6qWJPjjNxJ6UZ7pen61yGJ) | 3:23 | 2023-11-27 | 2024-06-05 |
 | [IMPULSE](https://open.spotify.com/track/7LTOk9k8HowxRLNtATbsMJ) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [IMPULSE](https://open.spotify.com/album/6IoVKkqQUwIjbkQhDJSAF1) | 2:37 | 2022-07-13 | 2022-07-15 |
 | [In My Restless Dreams](https://open.spotify.com/track/7tIc67JrRCNochXI1fH22l) | [Advents](https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes), [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [In My Restless Dreams](https://open.spotify.com/album/7pWzD45IVsafPTJ29l1zV1) | 3:37 | 2024-10-18 | 2024-12-19 |
@@ -1114,7 +1115,7 @@
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2022-07-13 | 2022-07-22 |
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Whenever You're Ready](https://open.spotify.com/track/1D4e0sbGmBzi6AiBwkINRZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Whenever You're Ready](https://open.spotify.com/album/4cAwxejAnu55ULguqm9NeI) | 4:13 | 2024-03-08 | 2024-04-13 |
-| [Whenever You're Ready](https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/7C8apxgn0J0n0AMvPrfLxN) | 4:13 | 2024-04-12 |  |
+| [Whenever You're Ready](https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/7C8apxgn0J0n0AMvPrfLxN) | 4:13 | 2024-04-12 | 2025-03-01 |
 | [Whenever You're Ready](https://open.spotify.com/track/67IofcurxzjTsqgzhUatrZ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Half Living Things](https://open.spotify.com/album/1j7zqEn1vwEA5yfGnRdq9q) | 4:13 | 2024-04-12 | 2025-01-18 |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 |  |

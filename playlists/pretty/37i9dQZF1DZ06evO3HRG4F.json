@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5049,
+  "num_followers": 5050,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAADgN7+rjIN/7qXBBphXoW9O",
+  "snapshot_id": "Z7+rAAAAAACkrDy92ldcmJkQSoXVXtrz",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Seguimos Perdiendo",
+          "url": "https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Corazones Rotos",
-      "url": "https://open.spotify.com/track/6Zl0iCDdfhR5VWHiDFRycO"
+      "duration_ms": 184480,
+      "name": "La Rubia",
+      "url": "https://open.spotify.com/track/0MgAK8JWtBooPwMECwZOGh"
     },
     {
       "added_at": null,
@@ -151,6 +155,22 @@
       "duration_ms": 197066,
       "name": "Como las Hojas",
       "url": "https://open.spotify.com/track/29zaOzj0yjImJ8yltwD1KG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Corazones Rotos",
+      "url": "https://open.spotify.com/track/6Zl0iCDdfhR5VWHiDFRycO"
     },
     {
       "added_at": null,
@@ -180,25 +200,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 227520,
-      "name": "\u00d3jala Fuera un Cuento",
-      "url": "https://open.spotify.com/track/1WHoZMGtJoaOq6AKvhp6az"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Pinche Vatito",
-      "url": "https://open.spotify.com/track/0sH55NdPhIRuAAjB5GDen1"
+      "duration_ms": 221240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
     },
     {
       "added_at": null,
@@ -215,6 +219,22 @@
       "duration_ms": 306360,
       "name": "Pinche Pancho",
       "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Pinche Vatito",
+      "url": "https://open.spotify.com/track/0sH55NdPhIRuAAjB5GDen1"
     },
     {
       "added_at": null,
@@ -244,25 +264,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 221240,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Por No Tener a Quien Amar",
-      "url": "https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK"
+      "duration_ms": 227520,
+      "name": "\u00d3jala Fuera un Cuento",
+      "url": "https://open.spotify.com/track/1WHoZMGtJoaOq6AKvhp6az"
     },
     {
       "added_at": null,
@@ -283,6 +287,22 @@
       "duration_ms": 270600,
       "name": "El Vaquero Rocanrolero",
       "url": "https://open.spotify.com/track/5qIkSQH1NhKJlInZpmbsiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Por No Tener a Quien Amar",
+      "url": "https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK"
     },
     {
       "added_at": null,
@@ -452,9 +472,25 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 282946,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
+      "duration_ms": 287066,
+      "name": "Brillando en la Obscuridad",
+      "url": "https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinches Mariguanos",
+        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
     },
     {
       "added_at": null,
@@ -475,22 +511,6 @@
       "duration_ms": 242000,
       "name": "Cayendo",
       "url": "https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinches Mariguanos",
-        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Pinches Mariguanos",
-      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
     },
     {
       "added_at": null,
@@ -520,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 287066,
-      "name": "Brillando en la Obscuridad",
-      "url": "https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK"
+      "duration_ms": 282946,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 1",
-        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "D\u00e9jame Rocanrolearte",
-      "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente: Mi Legado",
         "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
       },
@@ -607,6 +607,26 @@
       "duration_ms": 317920,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "D\u00e9jame Rocanrolearte",
+      "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
     },
     {
       "added_at": null,
@@ -663,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pares y Duetos: Disco 2",
         "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
       },
@@ -679,38 +731,6 @@
       "duration_ms": 192333,
       "name": "Estoy Tan Solo",
       "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "La Rubia",
-      "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -747,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
       "artists": [
         {
@@ -756,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+      "duration_ms": 286106,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW"
     },
     {
       "added_at": null,
@@ -775,22 +795,6 @@
       "duration_ms": 289680,
       "name": "Yo Con Mi Desmadre",
       "url": "https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW"
     },
     {
       "added_at": null,
@@ -827,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
-        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
@@ -836,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 266506,
-      "name": "Intro + 4 de Febrero - En Vivo",
-      "url": "https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff"
+      "duration_ms": 203173,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0"
     }
   ],
   "unique_name": "This Is Charlie Monttana",

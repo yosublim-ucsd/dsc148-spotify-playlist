@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Svea S</a> har album ude ❤️‍🔥 <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">For Evigt I Går</a> ❤️‍🔥
 
-4,350 songs - 9 day 9 hr 2 min
+4,352 songs - 9 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [ALLEZ ALLEZ](https://open.spotify.com/track/3JeBXmSVxqaPwmdiiFfJbe) | [Hervé Toure](https://open.spotify.com/artist/4G1VOPk6DtYaxYzMDkguED) | [ALLEZ ALLEZ](https://open.spotify.com/album/2tdWptFpoBPPkC3GM4orXK) | 2:48 | 2025-02-06 | 2025-02-14 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 | 2024-10-03 | 2024-10-11 |
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-25 | 2024-08-02 |
+| [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-27 |  |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-09 | 2025-01-17 |
 | [Alone](https://open.spotify.com/track/0rmT5akgUvxI8rahkoyuiX) | [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Alone](https://open.spotify.com/album/43C3C7EC3hBOqcwyjtXe9E) | 2:28 | 2025-01-30 | 2025-02-07 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 | 2024-10-04 |
@@ -1940,7 +1941,7 @@
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-10-18 |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-22 | 2024-08-30 |
 | [I Remember](https://open.spotify.com/track/41ikdk78kZKlb2HvVoIoqt) | [Simon Ask](https://open.spotify.com/artist/0r0xmFtTaBfy5xL1Gn95jz) | [I Remember](https://open.spotify.com/album/7ql6b9aRW0NyuDMkN4AKiL) | 4:19 | 2024-08-16 | 2024-08-23 |
-| [I Saw You In Love](https://open.spotify.com/track/2VW5sMEkw1EVqgMvXXP1RE) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Drive Me Mad EP](https://open.spotify.com/album/7456fe7qPhbAUAXwuNGScB) | 3:42 | 2025-02-27 |  |
+| [I Saw You In Love](https://open.spotify.com/track/2VW5sMEkw1EVqgMvXXP1RE) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Drive Me Mad](https://open.spotify.com/album/7456fe7qPhbAUAXwuNGScB) | 3:42 | 2025-02-27 |  |
 | [I Sleep Better](https://open.spotify.com/track/5m7eUGnF4bbjsjfsa4EVZI) | [HALO](https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB), [Robster](https://open.spotify.com/artist/6DP7i1UW9sf6iZOCmpuBdF), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [I Sleep Better](https://open.spotify.com/album/2p8gcE58qcguCP9s2pcMiB) | 2:02 | 2025-01-02 | 2025-01-10 |
 | [I Still Know Better](https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [I Still Know Better](https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0) | 3:22 | 2024-06-06 | 2024-06-14 |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-09 | 2024-08-16 |
@@ -2407,6 +2408,7 @@
 | [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-05-30 | 2024-06-07 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-07 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
 | [Love In Vain](https://open.spotify.com/track/2bpKSgqqJoRfkfbVPUPjtg) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love In Vain](https://open.spotify.com/album/615e50AXTsaLGOaihI6T2q) | 2:42 | 2024-09-05 | 2024-09-13 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
 | [Love Is Eternity](https://open.spotify.com/track/4iXTpwsitXpEeS9nojYVGb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Love Is Eternity](https://open.spotify.com/album/50GZ0ASPkFLzIW7gtivOre) | 3:33 | 2024-08-29 | 2024-09-06 |

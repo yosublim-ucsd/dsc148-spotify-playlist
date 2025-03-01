@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Bispo entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,758 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,789 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 15 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 16 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 17 | [Estrada \(with Slow J & ProfJam\)](https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:57 |
-| 18 | [Homem Ao Mano Chaba](https://open.spotify.com/track/1VALFjEJL5pR2zTK0nEHJd) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Homem Ao Mano Chaba](https://open.spotify.com/album/4uOIz7VDuI0LXXt282o7iS) | 2:41 |
+| 18 | [Homenagem ao Mano Chaba](https://open.spotify.com/track/1VALFjEJL5pR2zTK0nEHJd) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Homenagem ao Mano Chaba](https://open.spotify.com/album/4uOIz7VDuI0LXXt282o7iS) | 2:41 |
 | 19 | [Estou ativo](https://open.spotify.com/track/2G7mDcMNOuGpU3rjVBrEg3) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Estou ativo](https://open.spotify.com/album/3gvFNpHt14oEHcPPb3Vj9z) | 2:17 |
 | 20 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 |
 | 21 | [Chiaroscuro](https://open.spotify.com/track/7iv2OVsWRiRS4O993GeF1P) | [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Chiaroscuro](https://open.spotify.com/album/4CbA7rzsXZsdTJJ5B56my2) | 3:22 |

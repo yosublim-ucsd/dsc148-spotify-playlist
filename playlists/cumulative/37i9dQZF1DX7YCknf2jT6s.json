@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Ezra Collective",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
+    },
+    {
+      "album": {
         "name": "Ali Dell'angelo",
         "url": "https://open.spotify.com/album/25yX3lf8kj7xn4pqgbrZPF"
       },
@@ -1796,6 +1814,24 @@
       "duration_ms": 262000,
       "name": "Angels And Demons At Play",
       "url": "https://open.spotify.com/track/1m43trU3cyPS6lQ9t72m6q"
+    },
+    {
+      "album": {
+        "name": "Angels Speak",
+        "url": "https://open.spotify.com/album/0VDwxs0VjERbqSlTsKZTdf"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235779,
+      "name": "Angels Speak",
+      "url": "https://open.spotify.com/track/3rpnDxCVthm3sJO6lYbBMC"
     },
     {
       "album": {
@@ -5112,7 +5148,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 255128,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40"
@@ -8756,7 +8792,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 247093,
       "name": "Dung Gate",
       "url": "https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4"
@@ -11124,7 +11160,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 1430290,
       "name": "Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
       "url": "https://open.spotify.com/track/4Q0VBHJoJy9qDN2RUb3lk7"
@@ -11322,7 +11358,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142570,
       "name": "Frica",
       "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
@@ -14858,7 +14894,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 104027,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF"
@@ -16268,7 +16304,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 341501,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
@@ -20097,6 +20133,24 @@
     },
     {
       "album": {
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223820,
+      "name": "Must Have Known",
+      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
+    },
+    {
+      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/4WgKmETU7WjYGFVf0aePEv"
       },
@@ -20941,6 +20995,32 @@
     },
     {
       "album": {
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/5wtL0wcw3OgOPVhkg3RRIm"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260829,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/2RYgRAodUdzca9V7xWL3Dw"
+    },
+    {
+      "album": {
         "name": "align with Nature's Intelligence",
         "url": "https://open.spotify.com/album/7KscLI0PccEmUo5GUm3DhO"
       },
@@ -21166,6 +21246,28 @@
       "duration_ms": 136776,
       "name": "Not My King",
       "url": "https://open.spotify.com/track/5rGMMibA5QXosSfJBW4MPo"
+    },
+    {
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "album": {
@@ -21866,6 +21968,24 @@
       "duration_ms": 257962,
       "name": "Olha Maria",
       "url": "https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy"
+    },
+    {
+      "album": {
+        "name": "ARBORESQUE",
+        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331047,
+      "name": "Olive Branch",
+      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
     },
     {
       "album": {
@@ -23942,7 +24062,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 292333,
       "name": "Prince Eugene",
       "url": "https://open.spotify.com/track/3WU50cuEjla6zCEeLxA5zl"
@@ -24618,6 +24738,24 @@
       "duration_ms": 207484,
       "name": "Ready To Ball",
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
+      "album": {
+        "name": "Real Love, Pt. 1",
+        "url": "https://open.spotify.com/album/3WDDVFxPaLTjG0S85TAXni"
+      },
+      "artists": [
+        {
+          "name": "Brandon Woody",
+          "url": "https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456493,
+      "name": "Real Love Pt. 1",
+      "url": "https://open.spotify.com/track/0UTbaPQVeUykUEYfLST93z"
     },
     {
       "album": {
@@ -28889,6 +29027,24 @@
     },
     {
       "album": {
+        "name": "Summer Storm",
+        "url": "https://open.spotify.com/album/7pWR39Dnv4LvhJkLF0TOm1"
+      },
+      "artists": [
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246527,
+      "name": "Summer Storm",
+      "url": "https://open.spotify.com/track/4MavE9rVfFnxO1sNDd238T"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I"
       },
@@ -28956,7 +29112,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 177208,
       "name": "Sun flex",
       "url": "https://open.spotify.com/track/3MEnOo2zXRX8nTq30smqno"
@@ -32355,6 +32511,24 @@
     },
     {
       "album": {
+        "name": "A Paradise In The Hold",
+        "url": "https://open.spotify.com/album/3UHpYF4WdoHZkCD4fSz6ig"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515249,
+      "name": "Though My Eyes Go To Sleep, My Heart Does Not Forget You",
+      "url": "https://open.spotify.com/track/1dnou2LA1vOfvmtnX4BLK3"
+    },
+    {
+      "album": {
         "name": "Three Over Steel",
         "url": "https://open.spotify.com/album/71LycHvB1Bi0sCQM1ka5z1"
       },
@@ -33866,7 +34040,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 288339,
       "name": "Up in the air",
       "url": "https://open.spotify.com/track/3Odge8ksOoRNodtSfQHCRh"

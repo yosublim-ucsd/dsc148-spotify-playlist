@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,806 songs - 3 day 8 hr 53 min
+1,808 songs - 3 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Anthem](https://open.spotify.com/track/4Jr7u74eojtjjxJUsTMOWX) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/4YOjURreqzf0lbn1HyJzle) | 3:19 | 2021-05-18 | 2021-05-19 |
 | [Anthem](https://open.spotify.com/track/2pQyIi1mMMRPDjFPkgtfSn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Pereehali](https://open.spotify.com/album/6PV6VSijaovsQ3eSVaIYsp) | 3:03 | 2021-03-19 | 2022-04-14 |
 | [Anticipation](https://open.spotify.com/track/3fFCNT0I1D5jTG27em7hAQ) | [Layla Frost](https://open.spotify.com/artist/3cu49Fsi3kJLjRbO5kmHTx) | [Layla Frost](https://open.spotify.com/album/2vpyn9Uhp6eEu0P2jpft7V) | 3:09 | 2021-12-18 | 2021-12-19 |
-| [Aono & Akine](https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Aono ＆ Akine \(From "Blue Orchestra" Original Soundtrack\)](https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x) | 2:37 | 2023-10-17 |  |
+| [Aono & Akine](https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Aono ＆ Akine \(From "Blue Orchestra" Original Soundtrack\)](https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x) | 2:37 | 2023-10-17 | 2025-03-01 |
 | [Aoyama Bochi](https://open.spotify.com/track/6aLLf5UU8GivpvjLxdOog1) | [Saeko Seki](https://open.spotify.com/artist/2g4F9tXkfjvy3BH3CTYBfe) | [Aoyama Bochi](https://open.spotify.com/album/0zhU9dYWdB6AzvShqe2uy2) | 2:03 | 2021-03-06\* | 2021-03-07 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-01-26 | 2022-04-01 |
 | [Approaching Storm](https://open.spotify.com/track/02vL85IGFIt1mhLWbdjgHU) | [Pam Caddis](https://open.spotify.com/artist/4NXMKJ8RnRhNjka9Uw3C4a) | [Approaching Storm](https://open.spotify.com/album/3gd7A70I0tacaMtQaJJrOQ) | 3:02 | 2022-03-29 | 2022-04-07 |
@@ -972,6 +972,7 @@
 | [Mending](https://open.spotify.com/track/21Ky8dYEzcp04NJNKyUt1L) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Mending](https://open.spotify.com/album/0V6QaIaGDI7fycgBzUENid) | 2:12 | 2021-03-18 | 2022-04-20 |
 | [Meraviglia](https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Meraviglia](https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa) | 1:51 | 2022-07-27 | 2022-12-24 |
 | [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 | 2023-04-25 | 2023-12-26 |
+| [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/track/5wrxIep0VCAdo1tFsneW1A) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Stanford Cheung](https://open.spotify.com/artist/3cQqz3AnuxmCT6Onwa4zsp) | [Folios of Light \(Music by Contemporary Japanese Composers\)](https://open.spotify.com/album/1QahXtx1tlS7u93nHamC13) | 4:28 | 2025-02-28 |  |
 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 | 2021-03-06\* | 2022-04-11 |
 | [Mesmerizing Eyes](https://open.spotify.com/track/2fnJ1pKdpXSP99iPaLgCfO) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [Mesmerizing Eyes](https://open.spotify.com/album/4jFsouxEeHdq364FjAHQ7d) | 2:10 | 2021-05-16 | 2021-05-17 |
 | [Metronome](https://open.spotify.com/track/5uGY5VV9lZonCaRKm1wwmO) | [Massimo Natali \[IT\]](https://open.spotify.com/artist/5ygNFOnjyFdEe46rdTeB8b) | [Nobody's Home](https://open.spotify.com/album/2JwnW6S4ErnUQG8xT7cB6i) | 2:58 | 2021-03-08 | 2021-05-05 |
@@ -1269,6 +1270,7 @@
 | [Rigel](https://open.spotify.com/track/2P0xfFLKKis0QdJV6CUoRN) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:43 | 2021-03-18 | 2022-04-17 |
 | [Riotous Land](https://open.spotify.com/track/7AmiLjTfbAHiDXZYjEQO7d) | [Vera Girondas](https://open.spotify.com/artist/6uj0sCbBQfNDDiUeadI9gM) | [Riotous Land](https://open.spotify.com/album/5tErwJhRPWx3lSaXLVnisX) | 2:17 | 2021-08-07 | 2021-10-11 |
 | [Rippling](https://open.spotify.com/track/5y47UBTEB5JMZokl7KWYM1) | [SIMO](https://open.spotify.com/artist/5RaLKI69vFuDjjfBPllJzI) | [Rippling](https://open.spotify.com/album/6LtPsvd3nzooMpJby7fYau) | 1:38 | 2021-05-11 | 2021-05-12 |
+| [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-02-28 |  |
 | [River On Dungarvan](https://open.spotify.com/track/18h7NjNM8y59Avyk4WyhHR) | [Ashlyn Wells](https://open.spotify.com/artist/3zYmhcuzxbyb5fHYDliCFn) | [River On Dungarvan](https://open.spotify.com/album/2qxVa6aUGLs4A6DQmEZybG) | 2:05 | 2022-06-22 | 2022-06-28 |
 | [River Running](https://open.spotify.com/track/2C9AXrdWbRl1qd7z5oLRgm) | [Grobert](https://open.spotify.com/artist/2FbDhnJuihpcGpzEbmk65A) | [Sanctuary](https://open.spotify.com/album/23GhGqvlieKhfCjM3egvd6) | 3:41 | 2021-03-08 | 2022-04-17 |
 | [Rivière De Larmes](https://open.spotify.com/track/6wlVBEGKPvOoXfGwOJh0H8) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Rivière De Larmes](https://open.spotify.com/album/195cjVIsH4r8veuhmMXVp5) | 2:58 | 2021-03-14 | 2021-05-05 |
@@ -1707,7 +1709,7 @@
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2022-07-27 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/5ZYjpm6P9HjgcdiKRykKpb) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 2:07 | 2021-05-16 | 2021-12-21 |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2021-04-29 | 2022-08-17 |
-| [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 | 2022-09-27 |  |
+| [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 | 2022-09-27 | 2025-03-01 |
 | [Wakatipu](https://open.spotify.com/track/4DrwaOTOPuOP5H0F6ASHd8) | [Walter Du Rietz](https://open.spotify.com/artist/0OrLresItymYqEWJlVb381) | [Wakatipu](https://open.spotify.com/album/7HDyFDkBzTknowoKmh0G0O) | 2:03 | 2021-05-12 | 2022-06-16 |
 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 | 2021-12-13 | 2022-12-24 |
 | [Walk Towards Silence](https://open.spotify.com/track/0cp2H7dP3uUJuHDDndOcfE) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 3:12 | 2021-05-06 | 2022-03-31 |

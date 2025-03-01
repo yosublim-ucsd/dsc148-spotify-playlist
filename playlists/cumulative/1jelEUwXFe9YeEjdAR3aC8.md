@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-709 songs - 1 day 15 hr 39 min
+714 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-20 | 2023-02-28 |
 | [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-31 | 2023-03-15 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2022-06-06 | 2022-11-11 |
+| [Amore](https://open.spotify.com/track/04NO5JILiZ79m8QdhqKvvq) | [CHIAMRO](https://open.spotify.com/artist/77sBjqP1vgO5lpmKUC5576), [Chiaraspureluv](https://open.spotify.com/artist/5e8vt3hrE78mvyxNpvHiUb), [Samrosauvage](https://open.spotify.com/artist/1KkRdQ4yPNxbROhxa1i3T9) | [Amore](https://open.spotify.com/album/6wTgR9AzUZKPhZrQTdciMW) | 2:05 | 2025-02-28 |  |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-07-24 | 2023-11-09 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-06-10 | 2023-02-23 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-06 | 2022-11-15 |
@@ -116,6 +117,7 @@
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-20 | 2023-05-01 |
 | [Chasing A Feeling](https://open.spotify.com/track/1sqVMoQANGKLdMi3qMdFSw) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 2:50 | 2022-06-13 | 2022-07-11 |
 | [Checkers](https://open.spotify.com/track/7kfsIAWpJNEToyrRIQNDFH) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Checkers](https://open.spotify.com/album/28o7FjJg1spDrelWZXPfex) | 3:12 | 2022-11-10 | 2022-11-15 |
+| [Chemistry](https://open.spotify.com/track/4IFX7fWlprVt3cOmTnTbsy) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/6M9sjDz0KFeroiVwpnTvJk) | 4:44 | 2025-02-28 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 | 2024-06-12 |
 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-11-08 | 2023-11-23 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-09 | 2023-10-18 |
@@ -507,6 +509,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-10 | 2022-12-06 |
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2023-11-08 |  |
 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 | 2022-08-01 | 2022-09-28 |
+| [Ruin Me](https://open.spotify.com/track/1az09lXNZuVpqGY8dQ6x0c) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Ruin Me](https://open.spotify.com/album/6DgakXIzSOFiqRtn2ZrKHJ) | 4:00 | 2025-02-28 |  |
 | [Running Free](https://open.spotify.com/track/7I6fsCX92N63RaVk0IjNmi) | [George VILLA](https://open.spotify.com/artist/67Wggp3SoXqwxLJ1LJLNQG) | [Addicted \(with Rhys Rich\)](https://open.spotify.com/album/1XcKmdNXQI6o34o16IrVe5) | 3:12 | 2023-05-18 | 2023-06-20 |
 | [Running Shoes](https://open.spotify.com/track/4dhSIvsDPCYm0ExPm0nogb) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Running Shoes](https://open.spotify.com/album/1b6QnpL2YsLq1PjzoTNkTa) | 2:37 | 2023-09-25 | 2023-10-03 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-06-06 | 2022-11-11 |
@@ -561,6 +564,7 @@
 | [St\. Beater Camry](https://open.spotify.com/track/3u7s57agRpvdm0JSkG3pny) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [ILYSM](https://open.spotify.com/album/34tf3KVea0r8Ee5jUE6HH9) | 5:14 | 2022-10-17 | 2022-10-25 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2025-02-05 |  |
 | [Starting Over](https://open.spotify.com/track/4VWVtPsN2r56U1rkYelNpp) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Starting Over](https://open.spotify.com/album/69f4TVwg3u4nHsXp1CHHba) | 3:37 | 2023-10-09 | 2023-10-18 |
+| [Static](https://open.spotify.com/track/1eNeyyoonWZPMABsVqg2ho) | [Sophia Warren](https://open.spotify.com/artist/6G0SkNnFons2kap8k4SMJl) | [Static](https://open.spotify.com/album/16Y7nflJ2nN7aSMPKlnuSP) | 3:15 | 2025-02-28 |  |
 | [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-14 | 2023-07-17 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-17 | 2022-12-13 |
 | [Steadfast \(feat\. Gordi\)](https://open.spotify.com/track/2SaTjNJVIXGs5ycPjBIb82) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Steadfast \(feat\. Gordi\)](https://open.spotify.com/album/6ujDONRjiKslOY9mdoadny) | 4:10 | 2023-08-07 | 2023-08-14 |
@@ -641,6 +645,7 @@
 | [Traveling Alone](https://open.spotify.com/track/3PCevhEUKqALzjB2hAI4zk) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:19 | 2023-09-18 | 2023-10-18 |
 | [True Romance](https://open.spotify.com/track/50ll4YzQ4V2qgpTVRg9rO1) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [True Romance](https://open.spotify.com/album/3qUEAj7CCanABU2VoHhy9K) | 3:56 | 2022-06-06 | 2022-10-04 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-02 | 2023-11-09 |
+| [Try Me](https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 2:50 | 2025-02-28 |  |
 | [Turn Me On](https://open.spotify.com/track/5YpVkRlJKvqb6cFgML4tF2) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Turn Me On](https://open.spotify.com/album/5TDOOKTEomL8yMepC5o9Ic) | 3:21 | 2023-07-03 | 2023-07-10 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-25 | 2024-04-13 |
 | [TV Static](https://open.spotify.com/track/5phVRBD7tgg1Wmo07EK6yP) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [ren](https://open.spotify.com/album/00bQKbykih8rErea4zixGD) | 2:41 | 2022-11-14 | 2022-11-22 |

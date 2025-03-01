@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=gOPGTxa9RcS2LOcUSdP-3Q\"> Ringo Madlingozi</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5?si=4s1vD4vSSNabUqRSwT6q1Q\"> Sbahle</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -3563,6 +3563,28 @@
     },
     {
       "album": {
+        "name": "Holu Lufuno",
+        "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        },
+        {
+          "name": "NOGA",
+          "url": "https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201959,
+      "name": "Holu Lufuno",
+      "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+    },
+    {
+      "album": {
         "name": "Glitch Vol. 2: The Future is Now",
         "url": "https://open.spotify.com/album/4L3QTRI4nyNhhBJkuSUY4c"
       },
@@ -4888,6 +4910,28 @@
       "duration_ms": 263004,
       "name": "Ithuba",
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
+    },
+    {
+      "album": {
+        "name": "Ithuba (feat. Zuko SA)",
+        "url": "https://open.spotify.com/album/7z7JqFnokSK3Ho47uNP18G"
+      },
+      "artists": [
+        {
+          "name": "047",
+          "url": "https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8"
+        },
+        {
+          "name": "Zuko SA",
+          "url": "https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288052,
+      "name": "Ithuba (feat. Zuko SA)",
+      "url": "https://open.spotify.com/track/2Yhth6rSLmO0VBzgGniUmw"
     },
     {
       "album": {
@@ -12626,6 +12670,32 @@
       "duration_ms": 253246,
       "name": "Uthando Lunye",
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
+    },
+    {
+      "album": {
+        "name": "Uthe Uyangithanda (feat. Mjolisi & Pretty Masompisi)",
+        "url": "https://open.spotify.com/album/23FDAiS5OfPy9kUugXgRlg"
+      },
+      "artists": [
+        {
+          "name": "Sbahle",
+          "url": "https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "Pretty Masompisi",
+          "url": "https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222190,
+      "name": "Uthe Uyangithanda (feat. Mjolisi & Pretty Masompisi)",
+      "url": "https://open.spotify.com/track/2d1akyadOHjOCHS6GopvyE"
     },
     {
       "album": {

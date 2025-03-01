@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0urI29Ctq5RxVGgZz2rhZK"
+      },
+      "artists": [
+        {
+          "name": "vaquero romantico",
+          "url": "https://open.spotify.com/artist/1tck9TByd10tIlAOI9ZF4V"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69840,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/0Otff9Ldkr2lHuOu5nDLFr"
+    },
+    {
+      "album": {
         "name": "Amor tumbado",
         "url": "https://open.spotify.com/album/4qufmSCq3zhm1KaWsOlK8m"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 170104,
       "name": "Blue Sand",
       "url": "https://open.spotify.com/track/5vhSxWXSYhmo7mABug9blW"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147272,
       "name": "cloud dance",
       "url": "https://open.spotify.com/track/7mVMtlLrzxVD8yuBRreH06"
@@ -2542,6 +2560,24 @@
       "duration_ms": 184000,
       "name": "Des Temp\u00eates",
       "url": "https://open.spotify.com/track/1mxB3zWrUls8sB127vKThi"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/6m8p9lmytYSJcypepL5Qrn"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152311,
+      "name": "Desiderium",
+      "url": "https://open.spotify.com/track/6IDtL0FHOWkBxfNtMigzBI"
     },
     {
       "album": {
@@ -3766,7 +3802,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 103675,
       "name": "footsteps",
       "url": "https://open.spotify.com/track/15pIyCA3MNSIOBghly77mP"
@@ -6451,6 +6487,24 @@
     },
     {
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2KSnaqzBhNwUbcJBASCKpM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Pascasio",
+          "url": "https://open.spotify.com/artist/0BgD01aXIxk9K2VuI3PUCW"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127777,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/1D0mZLmpcjOWJqKXw2u6Ob"
+    },
+    {
+      "album": {
         "name": "Merry-Go-Round of Life (From \"Howl\u00b4s Moving Castle\")",
         "url": "https://open.spotify.com/album/34FXmDV4FBd12htsvMBNB3"
       },
@@ -7682,7 +7736,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 125842,
       "name": "ornaments",
       "url": "https://open.spotify.com/track/3yd42pzQLdP8iODgDdmd68"
@@ -8743,6 +8797,32 @@
     },
     {
       "album": {
+        "name": "rosegold",
+        "url": "https://open.spotify.com/album/0YpamSibPR2iAcBtDn84Af"
+      },
+      "artists": [
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        },
+        {
+          "name": "Hua",
+          "url": "https://open.spotify.com/artist/47ko7Yhae1Iq104SWZSoJp"
+        },
+        {
+          "name": "hiraeth vibe",
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82248,
+      "name": "rosegold",
+      "url": "https://open.spotify.com/track/1sU3eRckcUcBNzUHFX34gK"
+    },
+    {
+      "album": {
         "name": "Roses are Fine",
         "url": "https://open.spotify.com/album/2D2FlBgxjEV4qojFN7MZCG"
       },
@@ -9750,7 +9830,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147883,
       "name": "soulmate (Piano Version)",
       "url": "https://open.spotify.com/track/5a0yuYVR9BHuRIW9lgXRPF"
@@ -10488,7 +10568,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 98837,
       "name": "The Greenland Sea",
       "url": "https://open.spotify.com/track/0ppBRXs8tnzwVKbcUG3L1T"
@@ -10990,10 +11070,28 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 141395,
       "name": "together",
       "url": "https://open.spotify.com/track/49HEyKAlJJy0pWUOBdriq5"
+    },
+    {
+      "album": {
+        "name": "Together in Watercolour",
+        "url": "https://open.spotify.com/album/5PeEhhoxVQxx8qHbzEFU8e"
+      },
+      "artists": [
+        {
+          "name": "Dermott Reilly",
+          "url": "https://open.spotify.com/artist/4m2y4IV1lkTrGLztYQH452"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Together in Watercolour",
+      "url": "https://open.spotify.com/track/5oFHhOU075ajg3o2W8yLn8"
     },
     {
       "album": {
@@ -11262,7 +11360,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 375893,
       "name": "Uhre Kirke - Take 5",
       "url": "https://open.spotify.com/track/5JTuOIoBRsTt2IsF0M7DCz"
@@ -11721,6 +11819,24 @@
     },
     {
       "album": {
+        "name": "We Will Be Better Alone",
+        "url": "https://open.spotify.com/album/1jbd7hvrv1IDbfkZKh6KXH"
+      },
+      "artists": [
+        {
+          "name": "Jakub Szybiak",
+          "url": "https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169103,
+      "name": "We Will Be Better Alone",
+      "url": "https://open.spotify.com/track/5WSxJ4HOg8wYUC8lBAZG4O"
+    },
+    {
+      "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/2gisOn5fvvmElje0126Q43"
       },
@@ -11794,6 +11910,24 @@
       "duration_ms": 159373,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"] (Piano Instrumental)",
       "url": "https://open.spotify.com/track/7DHBf64lC6WSLvdIFx0B9x"
+    },
+    {
+      "album": {
+        "name": "When My Sadness Met Yours",
+        "url": "https://open.spotify.com/album/3MsWjl43SmCFn0gvJDVMwP"
+      },
+      "artists": [
+        {
+          "name": "Nikolas Belalis",
+          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173131,
+      "name": "When My Sadness Met Yours",
+      "url": "https://open.spotify.com/track/4hkzz3ZFvKSdnMympzPwSO"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Motivaci\u00f3n, fe y esperanza para quienes tienen ganas de salir adelante. Ra\u00fal Beltr\u00e1n en portada.",
-  "name": "Corridos Metaf\u00edsicos",
+  "description": "De los malos tiempos aprend\u00ed que a la gente nunca la tienes feliz. Grupo Selectivo en portada.",
+  "name": "Corridos Motivadores",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183813,
       "name": "A Mis Enemigos",
       "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 138666,
       "name": "Busc\u00e1ndole A La Suerte",
       "url": "https://open.spotify.com/track/00dHIvc294v6xzdQjKE3GO"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 250318,
       "name": "Cada Quien - En Vivo",
       "url": "https://open.spotify.com/track/4dvgorvOEDBC96enV3sXoJ"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 146526,
       "name": "El Mentado - En Vivo",
       "url": "https://open.spotify.com/track/6z1u6HIVf240RNUeIArF2k"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 151184,
       "name": "El Triunfo y la Envidia",
       "url": "https://open.spotify.com/track/6qKk2J1xuJTOiwcmRZV3Hq"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 155600,
       "name": "Ni Diablo Ni Santo",
       "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
@@ -2673,6 +2673,46 @@
     },
     {
       "album": {
+        "name": "Puro Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4WwnvnzRPyi3wvbkhImH1W"
+      },
+      "artists": [
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156689,
+      "name": "Puro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/3oe4eDJrAO1Cect19dFnN0"
+    },
+    {
+      "album": {
+        "name": "UNPLUGGED 2.O",
+        "url": "https://open.spotify.com/album/0b8J3kyhtVvIsJrgqDJHM8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184089,
+      "name": "Quemar Cinta",
+      "url": "https://open.spotify.com/track/6hp3lAWZEbKWP4nIBqcQCR"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -2856,6 +2896,28 @@
       "duration_ms": 128933,
       "name": "Seraf\u00edn Zambada",
       "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
+    },
+    {
+      "album": {
+        "name": "UNPLUGGED 2.O",
+        "url": "https://open.spotify.com/album/0b8J3kyhtVvIsJrgqDJHM8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Luis Mendivil",
+          "url": "https://open.spotify.com/artist/75tuHgqz97sDHPCsQKugEx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138675,
+      "name": "Si Ahuevo",
+      "url": "https://open.spotify.com/track/5MI6rPscDSeFcMrVb8h3IO"
     },
     {
       "album": {
@@ -3344,7 +3406,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156792,
       "name": "Vida Ventajosa",
       "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
@@ -3388,7 +3450,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"

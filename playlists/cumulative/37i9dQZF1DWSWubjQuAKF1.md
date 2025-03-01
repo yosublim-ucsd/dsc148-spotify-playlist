@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kalina Kortas
 
-357 songs - 17 hr 7 min
+358 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
 | [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 | 2024-11-29 |
 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 | 2025-02-20 |  |
-| [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 | 2024-12-20 |  |
+| [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 | 2024-12-20 | 2025-03-01 |
 | [blokowiska](https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [blokowiska](https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy) | 3:28 | 2024-06-28 | 2024-08-02 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-23 | 2025-02-07 |
 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 | 2024-08-22 | 2025-01-24 |
@@ -185,6 +185,7 @@
 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 | 2025-01-23 |  |
 | [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 | 2025-02-21 |  |
 | [Mogę Latać](https://open.spotify.com/track/3hmBQsDBmCYgAYfW7gVbte) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Mogę Latać](https://open.spotify.com/album/2Y8m2NsU16PtcHzsGwbL56) | 2:11 | 2024-06-28 | 2024-08-31 |
+| [Mogę się pomylić](https://open.spotify.com/track/4Dd6xQTBczaS9cn8hN7Dio) | [M!ka](https://open.spotify.com/artist/1PU2QmArAkuOgEXXRJhYl0), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mogę się pomylić](https://open.spotify.com/album/4MOspn7lLcX6gCTNoLA2v3) | 2:48 | 2025-02-27 |  |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-02-20 |  |
 | [monika](https://open.spotify.com/track/4WxETZqfG7iGCIxI21G9pE) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [monika](https://open.spotify.com/album/41ksbu4TQ61rGzDsGp3vuh) | 2:51 | 2024-06-28 | 2024-08-02 |
 | [More than friends](https://open.spotify.com/track/1vZYCrvrO1hoxAbVN70hnw) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU) | [4 lata 4 stany \(Deluxe\)](https://open.spotify.com/album/33X4ETnGaaQvImfNAhsQ2x) | 3:02 | 2024-06-28 | 2024-08-23 |

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 44254,
+  "num_followers": 44273,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Versiones Originales Vol.2",
-        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
       "artists": [
         {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Locamente Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
+      "duration_ms": 132133,
+      "name": "Colores - Remastered",
+      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
+        "name": "Versiones Originales Vol.2",
+        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
         }
       ],
-      "duration_ms": 132133,
-      "name": "Colores - Remastered",
-      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
+      "duration_ms": 159760,
+      "name": "Locamente Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
     },
     {
       "added_at": "2024-04-25 04:43:45",

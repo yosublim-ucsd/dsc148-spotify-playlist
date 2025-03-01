@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-490 songs - 1 day 5 hr 33 min
+491 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 | 2024-10-18 |  |
 | [Crazy](https://open.spotify.com/track/1svVLna35B0S0gYRE41UhR) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Crazy](https://open.spotify.com/album/4EQJfPfdovN2uR0Iy3zU1H) | 2:49 | 2024-08-30 |  |
 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-06-02 | 2024-05-11 |
+| [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 | 2025-02-28 |  |
 | [Cruisin' to the Parque](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 | 2021-12-03 | 2023-02-25 |
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/1m38XyH8I9KSgnkhv4Axd1) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 | 2024-06-15 |
@@ -279,7 +280,7 @@
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2022-11-11 | 2023-08-19 |
 | [Motorbike](https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:08 | 2021-07-09 | 2022-08-01 |
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-01-28 | 2024-02-24 |
-| [Mr\. Weatherman](https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Mr\. Weatherman](https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd) | 3:27 | 2024-03-29 |  |
+| [Mr\. Weatherman](https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Mr\. Weatherman](https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd) | 3:27 | 2024-03-29 | 2025-03-01 |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-07-09 | 2023-01-28 |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2024-04-06 |
 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 |  |

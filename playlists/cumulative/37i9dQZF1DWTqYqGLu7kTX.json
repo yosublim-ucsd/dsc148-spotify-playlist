@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop!\nCover: Yo Yo Honey Singh",
+  "description": "Best of Punjabi Hip-Hop!\nCover: Sidhu Moose Wala",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204507,
       "name": "12 Bande",
       "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213333,
       "name": "Born to Shine",
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 208000,
       "name": "Brown Shortie (feat. Sonam Bajwa)",
       "url": "https://open.spotify.com/track/61gu4XQFyAfIUneEyW4EJu"
@@ -2877,6 +2877,28 @@
     },
     {
       "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Life for Hip-Hop",
+      "url": "https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ"
+    },
+    {
+      "album": {
         "name": "The Finest",
         "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
       },
@@ -2892,6 +2914,28 @@
       "duration_ms": 206986,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h"
+    },
+    {
+      "album": {
+        "name": "Lock",
+        "url": "https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Lock",
+      "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
     },
     {
       "album": {
@@ -3046,6 +3090,24 @@
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
+    },
+    {
+      "album": {
+        "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+        "url": "https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "MANIAC - Bonus Track [From \"GLORY\"]",
+      "url": "https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO"
     },
     {
       "album": {
@@ -3760,7 +3822,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD"
@@ -4024,6 +4086,28 @@
       "duration_ms": 139084,
       "name": "Pecha",
       "url": "https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn"
+    },
+    {
+      "album": {
+        "name": "THE REVOLUTION",
+        "url": "https://open.spotify.com/album/1QkGi708j70paXVgKdef65"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119740,
+      "name": "Petrol",
+      "url": "https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0"
     },
     {
       "album": {

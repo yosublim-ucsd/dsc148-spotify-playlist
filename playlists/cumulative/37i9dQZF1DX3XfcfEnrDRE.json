@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Strings And Heart",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Stephen Stanley",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 344938,
       "name": "Free?",
       "url": "https://open.spotify.com/track/40MYtIxcMkgex0xHvcZlMX"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 159780,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
@@ -1696,6 +1696,24 @@
       "duration_ms": 172248,
       "name": "He Is Good",
       "url": "https://open.spotify.com/track/1dl11ALhlMcCPxJekWvQYk"
+    },
+    {
+      "album": {
+        "name": "Head First (From \"Gabriel and the Guardians\")",
+        "url": "https://open.spotify.com/album/3h6AAXb8Nd5VyyJIC5ylIK"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178764,
+      "name": "Head First (From \"Gabriel and the Guardians\")",
+      "url": "https://open.spotify.com/track/6ByyNMdLP4pta9V5Jt1Pc2"
     },
     {
       "album": {
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202500,
       "name": "In the Rain",
       "url": "https://open.spotify.com/track/5qPBpx8x9EofaXhDn4amI6"
@@ -2342,6 +2360,24 @@
       "duration_ms": 274093,
       "name": "Jesus Lifted High",
       "url": "https://open.spotify.com/track/6EovwbkijbFecHOBDPQkHP"
+    },
+    {
+      "album": {
+        "name": "Some Things I've Been Learning About God: Disc 1",
+        "url": "https://open.spotify.com/album/2A18c9tYV1mmfcueLO1QlR"
+      },
+      "artists": [
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184816,
+      "name": "John the Baptist",
+      "url": "https://open.spotify.com/track/12udHOY0OAqaJ7C2bfwkps"
     },
     {
       "album": {
@@ -2787,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Maybe This, Maybe That (Studio Version)",
+        "url": "https://open.spotify.com/album/5UqAZdff7tvOCNaN9hywRG"
+      },
+      "artists": [
+        {
+          "name": "MVMNT Music",
+          "url": "https://open.spotify.com/artist/6hqd7tuxGE8xQkIH9GZY4z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160924,
+      "name": "Maybe This, Maybe That - Studio Version",
+      "url": "https://open.spotify.com/track/0PGRVZincMoY3wXz7hhte8"
+    },
+    {
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
@@ -3205,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/4IiWEtqE13R4nb9IStW8mD"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5SXanPIJf3sE9HkccYbgis"
+    },
+    {
+      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -3372,7 +3444,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 165026,
       "name": "Pushing My Way To The Top",
       "url": "https://open.spotify.com/track/6ZWHNpPwiLG3cwwnw58Qjw"
@@ -3612,7 +3684,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 144269,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/1pUoDaoRoSRa9pr4GCtV6K"
@@ -3688,6 +3760,24 @@
       "duration_ms": 135000,
       "name": "See Your Face",
       "url": "https://open.spotify.com/track/69997BDkLypCgNtUclMOUh"
+    },
+    {
+      "album": {
+        "name": "So kind and it's freaking me out.",
+        "url": "https://open.spotify.com/album/7EEB8LGcqTNnZDdrIWV0xU"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134202,
+      "name": "So kind and it's freaking me out.",
+      "url": "https://open.spotify.com/track/6yysFpzdAY1rRyoKkkmIZN"
     },
     {
       "album": {
@@ -4049,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "this far down",
+        "url": "https://open.spotify.com/album/5lvCwKtPRML320uIxqprbO"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174856,
+      "name": "this far down",
+      "url": "https://open.spotify.com/track/4szXXZcInQ5plM542rA830"
+    },
+    {
+      "album": {
         "name": "This Is Us",
         "url": "https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY"
       },
@@ -4352,7 +4460,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 167478,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/0KyzsOtAo72sPQOwhOXcPY"

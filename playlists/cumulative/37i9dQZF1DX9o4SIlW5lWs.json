@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "Acordarme de mi",
+        "url": "https://open.spotify.com/album/5GsUQ7Uuw6yYdRrbtFQ5Y3"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        },
+        {
+          "name": "Asi Nomas",
+          "url": "https://open.spotify.com/artist/4ns9fH7lXFZmYpDbQP7cfT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Acordarme de mi",
+      "url": "https://open.spotify.com/track/6vzoTg7v6OY2GtfW0BLbdw"
+    },
+    {
+      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169019,
       "name": "Amame",
       "url": "https://open.spotify.com/track/4wwaXUa6V2yyva3gUBeTTe"
@@ -534,7 +556,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 146923,
       "name": "Amame",
       "url": "https://open.spotify.com/track/4JQzLIPQVvXxhNHhe65rZp"
@@ -934,7 +956,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 266689,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/7FdNfqIn8z06rVsAnqASrx"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 174353,
       "name": "Como Quieres Que Yo",
       "url": "https://open.spotify.com/track/4QHS4G2UCZJR3VYJHWqeC6"
@@ -1352,6 +1374,24 @@
       "duration_ms": 236000,
       "name": "Como Te Lo Digo / Tonta - Live Session",
       "url": "https://open.spotify.com/track/4jHbPBldpwH1ex593Ffnsh"
+    },
+    {
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Como una Lluvia de Sexo",
+      "url": "https://open.spotify.com/track/0wphXvteV9uDtYb8QciMRg"
     },
     {
       "album": {
@@ -2129,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "La Guerra de los Colores",
+        "url": "https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114058,
+      "name": "Dejame Amarte",
+      "url": "https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF"
+    },
+    {
+      "album": {
         "name": "Cumbia Viva Session #3 Los Leales",
         "url": "https://open.spotify.com/album/3RmsowqQ8buXebAYRq4PKW"
       },
@@ -2706,7 +2764,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 260411,
       "name": "El Maestro - En Vivo",
       "url": "https://open.spotify.com/track/0lPf2bsPuQb3nJBKPZcA3q"
@@ -2822,6 +2880,24 @@
       "duration_ms": 239238,
       "name": "El Precio De Tu Enga\u00f1o",
       "url": "https://open.spotify.com/track/3JlEgwaSShOSUDABcM8Byg"
+    },
+    {
+      "album": {
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251157,
+      "name": "El Primer Beso",
+      "url": "https://open.spotify.com/track/60ns0lZhCosZjAgMsxABir"
     },
     {
       "album": {
@@ -3014,7 +3090,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 216942,
       "name": "En Que Brazos Estar\u00e1s",
       "url": "https://open.spotify.com/track/4EBrUwCaeGSopgDeI9fH1c"
@@ -3838,6 +3914,24 @@
     {
       "album": {
         "name": "Hoy",
+        "url": "https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187148,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF"
+    },
+    {
+      "album": {
+        "name": "Hoy",
         "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
       },
       "artists": [
@@ -4171,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Los 20 Mejores",
+        "url": "https://open.spotify.com/album/5AYp75uaXhw0WsRhQj74pr"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193746,
+      "name": "La Luna y el Sol",
+      "url": "https://open.spotify.com/track/5Gij8d5wbk9a4rX5ZkLApQ"
+    },
+    {
+      "album": {
         "name": "La Luna y T\u00fa",
         "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
       },
@@ -4208,7 +4320,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147816,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7"
@@ -4528,7 +4640,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -4550,7 +4662,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
@@ -4630,6 +4742,28 @@
       "duration_ms": 145204,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
+    },
+    {
+      "album": {
+        "name": "Session #15 Grupo Karicia",
+        "url": "https://open.spotify.com/album/7t451I9hdkOLmiYHJMokg0"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "Grupo Karicia",
+          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134541,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/20zSqkytb8WYeetp27jQhp"
     },
     {
       "album": {
@@ -4956,7 +5090,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 147857,
       "name": "Me Hizo Un Favor",
       "url": "https://open.spotify.com/track/6C7iyH1qFSNmMhCMNzyiJz"
@@ -4974,7 +5108,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 223503,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/0uGRMXNII2VicuGUHdeuS1"
@@ -5500,7 +5634,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 237516,
       "name": "My Immortal",
       "url": "https://open.spotify.com/track/1n3VJm6IZKXLoKGHTVCR1D"
@@ -6680,7 +6814,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 195834,
       "name": "POR QU\u00c9 NO LE DICES?",
       "url": "https://open.spotify.com/track/2IWwQ7EQxV0KR79xWSmaG8"
@@ -7072,7 +7206,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168510,
       "name": "Quien",
       "url": "https://open.spotify.com/track/6bhCQBkTEsQZewNPPbIi31"
@@ -7649,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "Hay Mas de Mi",
+        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Si Me Lo Pide Otra Vez",
+      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
+    },
+    {
+      "album": {
         "name": "Si Regresas",
         "url": "https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW"
       },
@@ -7886,7 +8038,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
@@ -8336,7 +8488,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 155023,
       "name": "Te Juro Que No Es Verdad",
       "url": "https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo"
@@ -8895,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "Tu primera vez",
+        "url": "https://open.spotify.com/album/75Zjr4JRxJfsTk6yV68TV4"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165598,
+      "name": "Tu Primera Vez",
+      "url": "https://open.spotify.com/track/6qpD9LFLX62kiiBxE2ntyJ"
+    },
+    {
+      "album": {
         "name": "Tuyo Siempre",
         "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
       },
@@ -9012,7 +9182,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169262,
       "name": "Un Mont\u00f3n de Estrellas",
       "url": "https://open.spotify.com/track/3initBCj2OvmlCOuUyoP5R"
@@ -9088,7 +9258,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 178588,
       "name": "Una Cartita",
       "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
@@ -9124,7 +9294,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206154,
       "name": "Una Mujer Como Tu",
       "url": "https://open.spotify.com/track/1TDLg7ObBngCtNlCU0FGOv"

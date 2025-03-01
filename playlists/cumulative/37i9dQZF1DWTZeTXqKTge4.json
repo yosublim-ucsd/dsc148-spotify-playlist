@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: High Klassified",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -8489,6 +8489,28 @@
     },
     {
       "album": {
+        "name": "LomeLaval",
+        "url": "https://open.spotify.com/album/21pJeD4qusaQ9YsBwfdKOW"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Ateyaba",
+          "url": "https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141163,
+      "name": "LomeLaval",
+      "url": "https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf"
+    },
+    {
+      "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
       },
@@ -9002,7 +9024,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170413,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/6u2UQSSpp6fO3LubYW3ef6"
@@ -9984,7 +10006,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170500,
       "name": "Next",
       "url": "https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7"
@@ -12068,6 +12090,28 @@
       "duration_ms": 158449,
       "name": "QCLTUR",
       "url": "https://open.spotify.com/track/2tAuhfCMezfM4mSx1j9bww"
+    },
+    {
+      "album": {
+        "name": "Qu'est-ce qui reste?",
+        "url": "https://open.spotify.com/album/7b34YmCfnXRTylLDNuGrfr"
+      },
+      "artists": [
+        {
+          "name": "Christophe Martin",
+          "url": "https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168706,
+      "name": "Qu'est-ce qui reste?",
+      "url": "https://open.spotify.com/track/7ynPOCT1FpQChhFk8aMpyU"
     },
     {
       "album": {

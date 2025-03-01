@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 161884,
       "name": "A Internet \u00c9 Toxica",
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -4964,7 +4964,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 641941,
       "name": "Let's Go 4",
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
@@ -6083,6 +6083,28 @@
     },
     {
       "album": {
+        "name": "MOTINHA 2.0 (Mete Marcha)",
+        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118081,
+      "name": "MOTINHA 2.0 (Mete Marcha)",
+      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+    },
+    {
+      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
@@ -6274,6 +6296,50 @@
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
+    },
+    {
+      "album": {
+        "name": "MTG PASSA PASSA PRA EU SARRAR",
+        "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "MTG PASSA PASSA PRA EU SARRAR",
+      "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
+    },
+    {
+      "album": {
+        "name": "MTG Perna Bamba X Piranhas do Helipa",
+        "url": "https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0"
+      },
+      "artists": [
+        {
+          "name": "Detagaz",
+          "url": "https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7"
+        },
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "MTG Perna Bamba X Piranhas do Helipa",
+      "url": "https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k"
     },
     {
       "album": {
@@ -7116,6 +7182,32 @@
       "duration_ms": 136615,
       "name": "O Poder Dessa Garota",
       "url": "https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud"
+    },
+    {
+      "album": {
+        "name": "Observando Essa Salada",
+        "url": "https://open.spotify.com/album/3B0iWBDRvetLROpcfN8aya"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181644,
+      "name": "Observando Essa Salada",
+      "url": "https://open.spotify.com/track/3WxetTBTlpfyknxJfPQ7eQ"
     },
     {
       "album": {
@@ -8856,7 +8948,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 262375,
       "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
       "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"
@@ -8896,6 +8988,36 @@
       "duration_ms": 188943,
       "name": "Senta Com Amor",
       "url": "https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP"
+    },
+    {
+      "album": {
+        "name": "SEQU\u00caNCIA STRIPTEASE",
+        "url": "https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Debby",
+          "url": "https://open.spotify.com/artist/1hMpRPX4OZEaJgBi6BsjHh"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144179,
+      "name": "SEQU\u00caNCIA STRIPTEASE",
+      "url": "https://open.spotify.com/track/7xeqjq45imp3qonWKqfyip"
     },
     {
       "album": {
@@ -9512,7 +9634,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
@@ -10138,7 +10260,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"

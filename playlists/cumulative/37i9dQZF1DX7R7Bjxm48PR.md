@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-164 songs - 7 hr 23 min
+165 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 | 2022-04-13 |  |
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2022-01-19 | 2024-11-14 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-19 |  |
+| [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 | 2025-02-28 |  |
 | [Hidden Dream](https://open.spotify.com/track/1xQvz7zAHGoWO9SHKoSGau) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:38 | 2022-07-27 |  |
 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 | 2022-11-14 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-01-19 |  |

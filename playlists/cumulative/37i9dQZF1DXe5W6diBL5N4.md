@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ZEROBASEONE\(제로베이스원\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-11,535 songs - 27 day 13 hr 26 min
+11,537 songs - 27 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [Better \(feat\. 1ho & Beomjun\)](https://open.spotify.com/track/4CDVFhz6pi5kqJRNUJ1Oyz) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Beom jun](https://open.spotify.com/artist/2LQ6Z84apD51nBvy0DddtM) | [Better](https://open.spotify.com/album/0J6toR72SLUXsTwg8uXXWu) | 3:02 | 2024-08-06 | 2024-09-20 |
 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/3TESxOg8FArtQHKt4hKEoZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-08-30 | 2022-09-07 |
 | [Better \(feat\. Coogie\)](https://open.spotify.com/track/3lYiwpZC4gIQ5ZyPaIFqXq) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Better](https://open.spotify.com/album/0BaUo1fbL9r9HoWI3WCJV5) | 2:58 | 2024-01-16 | 2024-03-09 |
+| [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-02-28 |  |
 | [Better Better](https://open.spotify.com/track/2NcEsvFbuTGqnuu9nRmXta) | [X\-PIERS](https://open.spotify.com/artist/1XbxFr1AokUIf6TNDEUCPz) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0FQ6KjK4C9wKobhQVZF1n7) | 3:08 | 2022-05-22 | 2022-06-10 |
 | [Better Days](https://open.spotify.com/track/5bPnxPOboUN0lB6v9LD4AF) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/32m1R6ON07WxFxba278ru8) | 3:41 | 2023-06-01 | 2023-06-12 |
 | [Better Days](https://open.spotify.com/track/5rUYtiBQcEMhRSJ89G9mWv) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [Heartbreaking Sorrow](https://open.spotify.com/album/7tZgiEx9aefGV4OzU4SuVf) | 3:41 | 2023-06-09 | 2023-08-10 |
@@ -9169,6 +9170,7 @@
 | [Tempt](https://open.spotify.com/track/3x0sTCtWb6dt4CwsGMAhEI) | [Leenzy](https://open.spotify.com/artist/2116oBbgoFStjoP9GDnRfI) | [DNA Lover \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4VTeY0kyLMNBIYifr0GtnL) | 2:56 | 2024-09-09 | 2024-10-10 |
 | [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 | 2023-08-10 | 2023-09-05 |
 | [Tender Love](https://open.spotify.com/track/3G3aXH1vyEwIcavhxwboMA) | [IRIS](https://open.spotify.com/artist/761D9wWKVyhssYlYhQryUV) | [Tender Love](https://open.spotify.com/album/4swCxeSpznOZD3GGhRUKX5) | 2:53 | 2022-11-28 | 2022-12-22 |
+| [Tenderly](https://open.spotify.com/track/3AJn0W6ClnfnedS3Yn2vhM) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [Tenderly](https://open.spotify.com/album/3jtAyz786J0WboNCwmnj0j) | 3:14 | 2025-02-28 |  |
 | [Tenessy](https://open.spotify.com/track/1yhzVxZNRo7xRAAShWpEtL) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [DTF](https://open.spotify.com/album/7obZqAqI5n3XjskNyW3DmE) | 2:01 | 2024-09-24 | 2024-10-10 |
 | [Tequila \(prod\. COZ\)](https://open.spotify.com/track/4nsDt7TyZlTe4ywV5eMsdI) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Tequila](https://open.spotify.com/album/4z2ZLMO0s62QStxTu9dtNt) | 3:26 | 2022-06-28 | 2022-07-05 |
 | [TESLA](https://open.spotify.com/track/4NbEPkbwPHJFNwnO466ngx) | [Thunder](https://open.spotify.com/artist/21pZ2vLoPfOxnwv5ihs7av) | [TESLA](https://open.spotify.com/album/1s8KNOt2Zb87822j3ibyow) | 2:15 | 2023-09-04 | 2023-09-19 |

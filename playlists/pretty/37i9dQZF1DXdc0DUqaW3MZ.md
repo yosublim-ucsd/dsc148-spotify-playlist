@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,689 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,735 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 65 | [Things You Didn't Know](https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Things You Didn't Know](https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh) | 2:51 |
 | 66 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
 | 67 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
-| 68 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
-| 69 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 68 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 69 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
 | 70 | [Can't Afford Me](https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi) | [Kuma Overdose](https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ), [SA$H£R](https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb) | [Can't Afford Me](https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw) | 3:38 |
 
 Snapshot ID: `Z7c/OgAAAAB2Lw3ZjIrSCcg7q30Nt1xO`

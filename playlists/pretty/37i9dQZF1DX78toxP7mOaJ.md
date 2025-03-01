@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Sam Akpro
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,770 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,810 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Jealous Type](https://open.spotify.com/track/4E7TTfyR1nQavGupnxeqcF) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Jealous Type](https://open.spotify.com/album/4O1DrDeQGMRjzhHdkdPRXE) | 3:22 |
 | 100 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |
 
-Snapshot ID: `Z76f2gAAAAD52A/Z8EAwRwdGqh/f0s1A`
+Snapshot ID: `Z76f2gAAAAD2qc0kK2nXJHkRDyld02e3`

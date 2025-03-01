@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202352,
       "name": "Anatomy",
       "url": "https://open.spotify.com/track/7dlcKSW68RssPtn4Ocvwoh"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/4Cz8N8hJ8hlEAwK2SJilKz"
@@ -1080,6 +1080,28 @@
       "duration_ms": 141000,
       "name": "APPLE PIE",
       "url": "https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG"
+    },
+    {
+      "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/0Ohrk1nqXmdEpoMoU0Vbkv"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        },
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156641,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez"
     },
     {
       "album": {
@@ -2910,7 +2932,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 212627,
       "name": "Cheers To Life",
       "url": "https://open.spotify.com/track/0gpBX7XUzVjBNUFyctifSt"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -5028,7 +5050,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
@@ -5152,6 +5174,24 @@
       "duration_ms": 262386,
       "name": "Fade - English Version",
       "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
+    },
+    {
+      "album": {
+        "name": "Fairy",
+        "url": "https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201147,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc"
     },
     {
       "album": {
@@ -8686,7 +8726,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 236858,
       "name": "ignore me",
       "url": "https://open.spotify.com/track/3LzBpyaUVydbwLz1GM1Nul"
@@ -9192,6 +9232,24 @@
       "duration_ms": 251440,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
+    },
+    {
+      "album": {
+        "name": "i'll be happy when",
+        "url": "https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "i\u2019ll be happy when",
+      "url": "https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc"
     },
     {
       "album": {
@@ -10421,6 +10479,28 @@
     },
     {
       "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "Lose My Focus",
+      "url": "https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY"
+    },
+    {
+      "album": {
         "name": "Losing Game",
         "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
@@ -11337,6 +11417,32 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/4ZWOZFRPUZOSo33Y1Vjpme"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        },
+        {
+          "name": "Umar Sirhan",
+          "url": "https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/3rIWdmJhTiE5LiUfFhPOiY"
+    },
+    {
+      "album": {
         "name": "midnight rendezvous",
         "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
       },
@@ -11814,7 +11920,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 168970,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/1pNPH4azbjxxfGvBiDq6W9"
@@ -13895,6 +14001,24 @@
     },
     {
       "album": {
+        "name": "pretty sure you're fine",
+        "url": "https://open.spotify.com/album/5BL3gZkADVjB3pHG1thulk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "pretty sure you're fine",
+      "url": "https://open.spotify.com/track/4F4XQKH4vVoPnwDmRPh6sJ"
+    },
+    {
+      "album": {
         "name": "Princess Bubblegum",
         "url": "https://open.spotify.com/album/2K2RHh8CxhHI9RgYXKVt7W"
       },
@@ -14604,7 +14728,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 177121,
       "name": "Same For Me",
       "url": "https://open.spotify.com/track/37WRCo2FUb3N1eZpGLnfpG"
@@ -14778,7 +14902,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160306,
       "name": "Say It To My Face (feat. \u00d8ZI)",
       "url": "https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8"
@@ -14948,6 +15072,28 @@
       "duration_ms": 120731,
       "name": "second chance",
       "url": "https://open.spotify.com/track/3bTu6qL8ZJIOlJcIK0GKcs"
+    },
+    {
+      "album": {
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204650,
+      "name": "Secrets (feat. eaJ)",
+      "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
     },
     {
       "album": {
@@ -16687,6 +16833,28 @@
     },
     {
       "album": {
+        "name": "Sup",
+        "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        },
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220152,
+      "name": "Sup",
+      "url": "https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C"
+    },
+    {
+      "album": {
         "name": "Super Hero",
         "url": "https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq"
       },
@@ -16800,7 +16968,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149702,
       "name": "SWEETEST/LOVE",
       "url": "https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM"
@@ -17712,6 +17880,24 @@
       "duration_ms": 252569,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/7c4uw1mBaMpoq6CJ1CShut"
+    },
+    {
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "album": {
@@ -20346,6 +20532,24 @@
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
+      "album": {
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170508,
+      "name": "Zero Pressure",
+      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     },
     {
       "album": {

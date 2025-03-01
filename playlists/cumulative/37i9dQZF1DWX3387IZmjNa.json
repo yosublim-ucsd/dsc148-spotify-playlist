@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Dej Loaf & Jacquees",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: PARTYNEXTDOOR & Drake",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 155166,
       "name": "BEAT IT SLOW MOTION",
       "url": "https://open.spotify.com/track/1S9ipMvOwD8IGen6O7nzA3"
@@ -7463,6 +7463,24 @@
     },
     {
       "album": {
+        "name": "Missing Ur Love",
+        "url": "https://open.spotify.com/album/5MYUL0TOj9khaMyhNLsMCK"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174359,
+      "name": "Missing Ur Love",
+      "url": "https://open.spotify.com/track/0aMgCW6bYnvzmwRpQsu0P9"
+    },
+    {
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -7970,7 +7988,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190435,
       "name": "New R.R. (feat. Mariah the Scientist & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/1ZJx74rc5Iq6ijWgLk92sh"
@@ -10015,6 +10033,28 @@
     },
     {
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Saving My Love (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1VzQrfygsLEi0Vle8FSea0"
+    },
+    {
+      "album": {
         "name": "Say Luv",
         "url": "https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet"
       },
@@ -10392,6 +10432,28 @@
       "duration_ms": 176588,
       "name": "Shordie (with Gunna)",
       "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
+    },
+    {
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/4vZKxlHkjfrJGm84ouvcoB"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158933,
+      "name": "Shotgun (feat. Wale)",
+      "url": "https://open.spotify.com/track/6qkUu4SEjUEiRTjiRbuLV5"
     },
     {
       "album": {
@@ -13104,7 +13166,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 210988,
       "name": "When You @ Me (Fuck That Nigga)",
       "url": "https://open.spotify.com/track/0JwD2KQcjHmvvK93HwNrji"

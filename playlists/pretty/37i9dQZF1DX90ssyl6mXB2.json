@@ -1,13 +1,29 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 152388,
+  "num_followers": 152414,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gTaQAAAADwBXrcGuWrjOW2+fHlC9eq",
+  "snapshot_id": "Z8FYlAAAAACo5YiqRPn4RWzUa9Gwyxw/",
   "tracks": [
+    {
+      "added_at": "2025-02-28 06:32:52",
+      "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
+    },
     {
       "added_at": "2025-02-21 05:47:21",
       "album": {

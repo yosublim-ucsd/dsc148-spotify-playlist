@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "CEMETERY lanterns",
+        "url": "https://open.spotify.com/album/1PcPbMslB0K8MH7tnUsOh9"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "CEMETERY lanterns",
+      "url": "https://open.spotify.com/track/3XwktrZ1wOJeOkeaq0NEez"
+    },
+    {
+      "album": {
         "name": "Chasing Pape",
         "url": "https://open.spotify.com/album/0zWdM3qffPKOJvwgDy5Ivk"
       },
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "clipfarming",
+        "url": "https://open.spotify.com/album/13uvMEV5o015dfnPaBS8in"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "clipfarming",
+      "url": "https://open.spotify.com/track/2ZVymTsa0EdNw0HA6DukqM"
+    },
+    {
+      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/5zQOHCZjMhgwfKWtSjVT0M"
       },
@@ -1894,6 +1930,28 @@
       "duration_ms": 138121,
       "name": "CRAZY H*ES",
       "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
+    },
+    {
+      "album": {
+        "name": "I Love You Again",
+        "url": "https://open.spotify.com/album/0VaQ1RXsmUHqIFzftegVbQ"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185822,
+      "name": "Cross The Waters (feat. Hit-Boy)",
+      "url": "https://open.spotify.com/track/3i2PVghBZ1GSP1j8V2eDqD"
     },
     {
       "album": {
@@ -2338,7 +2396,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137624,
       "name": "Don't You Love It?",
       "url": "https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ"
@@ -2430,7 +2488,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204782,
       "name": "Dreams In Colour (feat. Loski & Kirky)",
       "url": "https://open.spotify.com/track/7otcXuqCGdw7ZMYLJ0FIOK"
@@ -2863,6 +2921,50 @@
     },
     {
       "album": {
+        "name": "First Day Out The Hospital",
+        "url": "https://open.spotify.com/album/4x0jZj2QKco0YW14ujI1az"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121747,
+      "name": "First Day Out The Hospital",
+      "url": "https://open.spotify.com/track/4wKIwqK3LWxYyskPgzMNnQ"
+    },
+    {
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/1Iz1kcsj2utc7gkncZnDn2"
       },
@@ -3106,7 +3208,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199741,
       "name": "FREE SMURK OFNG",
       "url": "https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz"
@@ -3248,6 +3350,28 @@
       "duration_ms": 134240,
       "name": "Fun",
       "url": "https://open.spotify.com/track/3aaS6yVkS9JPZMu4aXNxnx"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "FXCK UP THE WORLD (feat. Future)",
+      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
     },
     {
       "album": {
@@ -3615,6 +3739,32 @@
     },
     {
       "album": {
+        "name": "Go Live",
+        "url": "https://open.spotify.com/album/19gO6JFbA8cK3hOn4qG3Ip"
+      },
+      "artists": [
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "Go Live",
+      "url": "https://open.spotify.com/track/0tMtzzfVfo8EcBgScLg9VN"
+    },
+    {
+      "album": {
         "name": "Go To Yo Head",
         "url": "https://open.spotify.com/album/5gqOpv8aPdbeQhq9SV6lwc"
       },
@@ -3928,7 +4078,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202032,
       "name": "HANDLING BUSINESS (with Tory Lanez)",
       "url": "https://open.spotify.com/track/6nTsvOXdvLSkyVM9yoKPIP"
@@ -5774,7 +5924,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 128000,
       "name": "MILITANT",
       "url": "https://open.spotify.com/track/2uUTuPVCQq8jmpPCmFGkGJ"
@@ -5858,7 +6008,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 126680,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r"
@@ -8063,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Who Decides REAL?",
+        "url": "https://open.spotify.com/album/6rb59v7whAQwO7BngI5VC0"
+      },
+      "artists": [
+        {
+          "name": "Dracodontjam",
+          "url": "https://open.spotify.com/artist/4BP9E2FQ7MF3sBfDkRqWut"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Sitting by Myself",
+      "url": "https://open.spotify.com/track/0WJ3Qpa3kW1f5KPvV0bYFB"
+    },
+    {
+      "album": {
         "name": "Pretty Red Bird",
         "url": "https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB"
       },
@@ -8595,6 +8763,24 @@
     },
     {
       "album": {
+        "name": "They Left Me With A Gun",
+        "url": "https://open.spotify.com/album/1NFdQaJCODmmkMnPfzHDXD"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157314,
+      "name": "Stripper Song",
+      "url": "https://open.spotify.com/track/07no3lBTGZKjl9HpxYiyFn"
+    },
+    {
+      "album": {
         "name": "Suckin Up",
         "url": "https://open.spotify.com/album/35HM7jBdmCS3i21AtpNgzR"
       },
@@ -8700,7 +8886,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184320,
       "name": "TANTRUM",
       "url": "https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE"
@@ -9092,7 +9278,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182857,
       "name": "Together",
       "url": "https://open.spotify.com/track/0Bkqcc5TesMaeXybJw09Bv"
@@ -9464,7 +9650,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 181439,
       "name": "Us In Here",
       "url": "https://open.spotify.com/track/6b7lZPKgK34GhzGBhlJgxh"

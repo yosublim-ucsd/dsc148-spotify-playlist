@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Bren Joy",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Bathe",
   "name": "Vanguard",
   "tracks": [
     {
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137019,
       "name": "BLOODONTHETIMBS",
       "url": "https://open.spotify.com/track/4cA30OBHJT83CkoZmdUQzv"
@@ -3944,6 +3944,24 @@
       "duration_ms": 450135,
       "name": "candy grapes (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4emJOvmhqWJAxpwB7c9JJw"
+    },
+    {
+      "album": {
+        "name": "Capsize",
+        "url": "https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "Capsize",
+      "url": "https://open.spotify.com/track/3iTr3JYzY6gk3yFY074ZWw"
     },
     {
       "album": {
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206955,
       "name": "Die For Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
@@ -8424,7 +8442,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170337,
       "name": "forever",
       "url": "https://open.spotify.com/track/6m3E9eZ9XUj9rTE21tytGf"
@@ -14807,6 +14825,24 @@
     },
     {
       "album": {
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+    },
+    {
+      "album": {
         "name": "Mile End - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE"
       },
@@ -15510,6 +15546,24 @@
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/02BwlHD6hUNn3kzySLfqMq"
+    },
+    {
+      "album": {
+        "name": "need your love",
+        "url": "https://open.spotify.com/album/3kWkmQuS1oBj0a8YwL4KP5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176488,
+      "name": "need your love",
+      "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
     },
     {
       "album": {

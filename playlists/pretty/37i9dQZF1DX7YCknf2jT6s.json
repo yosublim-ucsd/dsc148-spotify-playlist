@@ -1,13 +1,129 @@
 {
-  "description": "New jazz for open minds. Cover: Ezra Collective",
-  "num_followers": 947972,
+  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "num_followers": 948111,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIagAAAACDFXH3oE7f7D6AGP/kJNmL",
+  "snapshot_id": "Z8FC+AAAAACSC+k3qp/WNbXy0vsi7Nza",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Real Love, Pt. 1",
+        "url": "https://open.spotify.com/album/3WDDVFxPaLTjG0S85TAXni"
+      },
+      "artists": [
+        {
+          "name": "Brandon Woody",
+          "url": "https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t"
+        }
+      ],
+      "duration_ms": 456493,
+      "name": "Real Love Pt. 1",
+      "url": "https://open.spotify.com/track/0UTbaPQVeUykUEYfLST93z"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "Must Have Known",
+      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Angels Speak",
+        "url": "https://open.spotify.com/album/0VDwxs0VjERbqSlTsKZTdf"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Angels Speak",
+      "url": "https://open.spotify.com/track/3rpnDxCVthm3sJO6lYbBMC"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Summer Storm",
+        "url": "https://open.spotify.com/album/7pWR39Dnv4LvhJkLF0TOm1"
+      },
+      "artists": [
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Summer Storm",
+      "url": "https://open.spotify.com/track/4MavE9rVfFnxO1sNDd238T"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "A Paradise In The Hold",
+        "url": "https://open.spotify.com/album/3UHpYF4WdoHZkCD4fSz6ig"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "duration_ms": 515249,
+      "name": "Though My Eyes Go To Sleep, My Heart Does Not Forget You",
+      "url": "https://open.spotify.com/track/1dnou2LA1vOfvmtnX4BLK3"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
+    },
     {
       "added_at": "2025-02-21 05:00:26",
       "album": {
@@ -27,6 +143,22 @@
       "duration_ms": 242530,
       "name": "Body Language (feat. Sasha Keable)",
       "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "ARBORESQUE",
+        "url": "https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 331047,
+      "name": "Olive Branch",
+      "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -59,6 +191,30 @@
       "duration_ms": 183173,
       "name": "Ainda Preciso do Sol",
       "url": "https://open.spotify.com/track/7DMbXlzujgBSkMirL6MQGj"
+    },
+    {
+      "added_at": "2025-02-28 05:00:40",
+      "album": {
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/5wtL0wcw3OgOPVhkg3RRIm"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/2RYgRAodUdzca9V7xWL3Dw"
     },
     {
       "added_at": "2025-02-14 05:00:30",
@@ -665,46 +821,6 @@
       "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
     },
     {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 341501,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Up in the air",
-        "url": "https://open.spotify.com/album/6fDP0336w8wrZBHUhIwQ5J"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Ka'Cye Thompkins",
-          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Up in the air",
-      "url": "https://open.spotify.com/track/3Odge8ksOoRNodtSfQHCRh"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "for the kids...",
@@ -775,30 +891,6 @@
       "duration_ms": 215168,
       "name": "What Are You About?",
       "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Frica",
-        "url": "https://open.spotify.com/album/4HyLxdVq2zut2z0NKsgT75"
-      },
-      "artists": [
-        {
-          "name": "Gregory Uhlmann",
-          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        },
-        {
-          "name": "Sam Wilkes",
-          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
-        }
-      ],
-      "duration_ms": 142570,
-      "name": "Frica",
-      "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1045,42 +1137,6 @@
       "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"
     },
     {
-      "added_at": "2025-01-10 05:00:17",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/3aCjPLFXzW00JqCHwU92o6"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Dayna Stephens",
-          "url": "https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin"
-        }
-      ],
-      "duration_ms": 255128,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40"
-    },
-    {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/3LXKWerzEPTDudnUuRvdAP"
-      },
-      "artists": [
-        {
-          "name": "Yazz Ahmed",
-          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
-        }
-      ],
-      "duration_ms": 104027,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF"
-    },
-    {
       "added_at": "2025-01-17 05:00:30",
       "album": {
         "name": "Last Train From Overbrook",
@@ -1135,26 +1191,6 @@
       "duration_ms": 63832,
       "name": "Dare to Dream",
       "url": "https://open.spotify.com/track/1bh61fZoW3Hx58shn3W9dx"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Dung Gate",
-        "url": "https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "Hoodna Orchestra",
-          "url": "https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Dung Gate",
-      "url": "https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1669,38 +1705,6 @@
       "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
     },
     {
-      "added_at": "2024-11-25 14:00:27",
-      "album": {
-        "name": "Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
-        "url": "https://open.spotify.com/album/3Zb6VrGFCf6L8RG3gPufhz"
-      },
-      "artists": [
-        {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        },
-        {
-          "name": "ETA IVtet",
-          "url": "https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw"
-        },
-        {
-          "name": "Anna Butterss",
-          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
-        },
-        {
-          "name": "Jay Bellerose",
-          "url": "https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        }
-      ],
-      "duration_ms": 1430290,
-      "name": "Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
-      "url": "https://open.spotify.com/track/4Q0VBHJoJy9qDN2RUb3lk7"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Moving Day",
@@ -1735,22 +1739,6 @@
       "duration_ms": 250909,
       "name": "Family Garden",
       "url": "https://open.spotify.com/track/7asDxLXyR0F4qdhWgin1OK"
-    },
-    {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "Prince Eugene",
-        "url": "https://open.spotify.com/album/5XCc1gzDzxQLN9DPPyRUXq"
-      },
-      "artists": [
-        {
-          "name": "James Brandon Lewis",
-          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Prince Eugene",
-      "url": "https://open.spotify.com/track/3WU50cuEjla6zCEeLxA5zl"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -1791,30 +1779,6 @@
       "duration_ms": 266500,
       "name": "5th Symphony In Congo Square",
       "url": "https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Sun flex",
-        "url": "https://open.spotify.com/album/6d4GZromXEy8ep4yXRh8tV"
-      },
-      "artists": [
-        {
-          "name": "Enemy",
-          "url": "https://open.spotify.com/artist/6xPrrSxsfFovLWFUFDLGYt"
-        },
-        {
-          "name": "Kit Downes",
-          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Sun flex",
-      "url": "https://open.spotify.com/track/3MEnOo2zXRX8nTq30smqno"
     },
     {
       "added_at": "2024-06-07 04:00:00",

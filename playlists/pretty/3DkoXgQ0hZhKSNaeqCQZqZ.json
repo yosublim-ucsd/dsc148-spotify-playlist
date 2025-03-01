@@ -1,13 +1,45 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 507,
+  "num_followers": 509,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADRTcNmc5h4pQ7zvBozX+LDxUoRNxX",
+  "snapshot_id": "AAADR4Oj8gW76UH1aw95vUQA0OcJB/+X",
   "tracks": [
+    {
+      "added_at": "2025-02-28 23:20:11",
+      "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/5bkR7yXP74XrQv9k9MMtcy"
+      },
+      "artists": [
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "duration_ms": 112171,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/6Lsd7ToPdoGNsM9tH3OuxA"
+    },
+    {
+      "added_at": "2025-02-28 06:15:08",
+      "album": {
+        "name": "my love",
+        "url": "https://open.spotify.com/album/2BOhD08DhC2tnQDLgX5FQU"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "my love",
+      "url": "https://open.spotify.com/track/1g2cDX0MK9QuVlKQeR2YWq"
+    },
     {
       "added_at": "2025-02-23 23:07:35",
       "album": {

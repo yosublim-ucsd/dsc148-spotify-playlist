@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-828 songs - 1 day 11 hr 34 min
+829 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-01-29 |  |
 | [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Et løfte](https://open.spotify.com/track/4KB0FsNnaynCa0Zx8V6h9C) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et løfte](https://open.spotify.com/album/6zZJcLrm7pvfBWlIEmffH9) | 2:14 | 2023-04-24 |  |
+| [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 | 2025-02-28 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
 | [Ether](https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Marcos Boza](https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX) | [Ether](https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf) | 2:37 | 2022-08-29 | 2024-04-04 |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2021-12-13 | 2022-10-25 |

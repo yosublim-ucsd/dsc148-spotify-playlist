@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Selena Faider.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Marie Davidson.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Dark Waters",
+      "url": "https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT"
+    },
+    {
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8"
       },
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
@@ -3334,6 +3352,24 @@
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS"
+    },
+    {
+      "album": {
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253573,
+      "name": "Fun Times",
+      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
     },
     {
       "album": {
@@ -4538,6 +4574,28 @@
       "duration_ms": 230643,
       "name": "I Just Want To Love You",
       "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
+    },
+    {
+      "album": {
+        "name": "I Look Good",
+        "url": "https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164659,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z"
     },
     {
       "album": {
@@ -6391,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/5xv8wuO5iQ1HmIcJSKsjGH"
+      },
+      "artists": [
+        {
+          "name": "Ruthlss",
+          "url": "https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD"
+    },
+    {
+      "album": {
         "name": "Obsesio\u0301n Roma\u0301ntica",
         "url": "https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa"
       },
@@ -7752,7 +7828,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 222219,
       "name": "Slay The Beast",
       "url": "https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG"
@@ -7868,7 +7944,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194117,
       "name": "Spark (feat. yun\u00e8 pinku)",
       "url": "https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0"
@@ -8258,7 +8334,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 216159,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/6mpflDudYSUBzdR8KbqCaJ"

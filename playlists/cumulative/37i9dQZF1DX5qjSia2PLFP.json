@@ -5713,6 +5713,24 @@
     },
     {
       "album": {
+        "name": "Doot Doot (6 7)",
+        "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7)",
+      "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
+    },
+    {
+      "album": {
         "name": "DORK",
         "url": "https://open.spotify.com/album/2XJnNa3hPSD4va84sZKLg3"
       },
@@ -6668,6 +6686,24 @@
       "duration_ms": 129446,
       "name": "Fat Racks",
       "url": "https://open.spotify.com/track/3ruSyQ3c1XVpSOFx2OKoCl"
+    },
+    {
+      "album": {
+        "name": "father",
+        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105977,
+      "name": "father",
+      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
     },
     {
       "album": {
@@ -8683,6 +8719,24 @@
     },
     {
       "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+    },
+    {
+      "album": {
         "name": "Handz Up",
         "url": "https://open.spotify.com/album/5qWXDadboFIkEnnoGRgsZJ"
       },
@@ -8920,7 +8974,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145733,
       "name": "Her World (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/789pOMLJWqv4py4WSXbeTC"
@@ -9446,10 +9500,36 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 113985,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/0czglnBCqYSAkwV3287aVA"
+    },
+    {
+      "album": {
+        "name": "How To Bip",
+        "url": "https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Rockout Danny",
+          "url": "https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154777,
+      "name": "How To Bip",
+      "url": "https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo"
     },
     {
       "album": {
@@ -11988,7 +12068,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 133015,
       "name": "Make Up (Dont Look The Same)",
       "url": "https://open.spotify.com/track/4a0yVAkHM9HnIYIOJLalzp"
@@ -14578,7 +14658,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy"

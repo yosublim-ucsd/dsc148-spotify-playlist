@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Ac\u00e1 no importan el g\u00e9nero.\n\ud83d\udcf7 La Valenti y Clara Cava",
+  "description": "Ac\u00e1 no importan el g\u00e9nero.\n\ud83d\udcf7 Bandalos Chinos.",
   "name": "piola",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 237959,
       "name": "Arde",
       "url": "https://open.spotify.com/track/4p1jsL9Cx44gpmk6MvXog5"
@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Comando Juntar",
+        "url": "https://open.spotify.com/album/2KIINvnUtbd2vJjV4bDlyb"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Comando Juntar",
+      "url": "https://open.spotify.com/track/0OUzVgwTdNmSsC3QyDFijv"
+    },
+    {
+      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "DIAVLO",
+        "url": "https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "DIAVLO",
+      "url": "https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j"
+    },
+    {
+      "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
@@ -2548,7 +2584,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 259592,
       "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
       "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
@@ -2868,6 +2904,24 @@
       "duration_ms": 207294,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs"
+    },
+    {
+      "album": {
+        "name": "Barras Libres",
+        "url": "https://open.spotify.com/album/2AEkz1Mp5PYhS4qWdtvYsG"
+      },
+      "artists": [
+        {
+          "name": "Willy Bronca",
+          "url": "https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172454,
+      "name": "Gran Maestro",
+      "url": "https://open.spotify.com/track/0KSO2e3V2otGoY0qaIo6di"
     },
     {
       "album": {
@@ -4961,6 +5015,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
+    },
+    {
+      "album": {
         "name": "No Entiendo Si Es Amor",
         "url": "https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58"
       },
@@ -4990,7 +5062,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 201006,
       "name": "no fui yo",
       "url": "https://open.spotify.com/track/44xr3vpFH4eSujSoKXLOKd"
@@ -6232,7 +6304,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
@@ -6250,7 +6322,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 146724,
       "name": "Quieren Rock",
       "url": "https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT"
@@ -7319,6 +7391,28 @@
     },
     {
       "album": {
+        "name": "Traficando Rap",
+        "url": "https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164119,
+      "name": "Traficando Rap",
+      "url": "https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1"
+    },
+    {
+      "album": {
         "name": "Trakat\u00e1",
         "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
       },
@@ -8162,7 +8256,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 156610,
       "name": "XXL",
       "url": "https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz"

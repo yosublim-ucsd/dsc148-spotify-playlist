@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-641 songs - 1 day 13 hr 47 min
+643 songs - 1 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2022-11-25 | 2023-03-08 |
 | [Cosmo Thambi](https://open.spotify.com/track/2AWotg9hZ0VU8xiwVl5tYW) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Ram Ramasamy](https://open.spotify.com/artist/3MZkQPKZr3O7dzm4QP8thH), [4AM](https://open.spotify.com/artist/34rseJDXUUQFKBYJ5EwGA8) | [Cosmo Thambi](https://open.spotify.com/album/5q6ZKvPcqrywlljZXWSRH8) | 3:15 | 2023-08-02 | 2025-01-31 |
 | [Crack](https://open.spotify.com/track/5G84D0D1IpS1zJrmdOYyBx) | [NM Linges](https://open.spotify.com/artist/7F1xpPdr8TnUyGcUJsbDVT) | [Crack](https://open.spotify.com/album/3UM0gnmOYK7WzVtNUmLRsp) | 4:08 | 2022-08-25 | 2022-10-14 |
+| [Dabbu Dabbu](https://open.spotify.com/track/0lwCAr7ISc1LHNdCqnZC6p) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Dabbu Dabbu](https://open.spotify.com/album/3g5SeWC3MKugu7122cYD2d) | 2:57 | 2025-02-28 |  |
 | [Dei \- From "Think Specials"](https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo) | [Inbaraj Rajendran](https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ), [Anugraha Raphy](https://open.spotify.com/artist/2mOt2eAGBhSlwjiQNkVvvN) | [Dei \(From "Think Specials"\)](https://open.spotify.com/album/721Fc2J0RU2yPYUroSfKEG) | 3:44 | 2022-05-26 | 2022-07-15 |
 | [Devathai](https://open.spotify.com/track/4yostA1PrvFZpt5nlpVCp3) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Devathai](https://open.spotify.com/album/1nJWfx1wivsOd16Oy73c4F) | 3:22 | 2023-03-14 | 2023-07-15 |
 | [Dhamaa Thundu](https://open.spotify.com/track/1lUh6aLGOHS70yTY4Yvu5E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Dhamaa Thundu](https://open.spotify.com/album/7oCcYPS3NlEqh9xY3irW1G) | 1:04 | 2022-12-20 | 2023-02-07 |
@@ -140,6 +141,7 @@
 | [Ennai Kollathey](https://open.spotify.com/track/6dkle402E8KU8tSaW7XlTJ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Ennai Kollathey](https://open.spotify.com/album/534zW5I7ia21ulaxDDnNBe) | 2:54 | 2024-08-30 |  |
 | [Ennasai Kaadhaliye](https://open.spotify.com/track/6M9MebuHb3t1N0AgQcGy86) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Ennasai Kaadhaliye](https://open.spotify.com/album/3kVBl5qhASlKbXftyDTslf) | 4:11 | 2024-06-14 | 2024-08-13 |
 | [Ennodu Nee Illaye](https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Ennodu Nee Illaye](https://open.spotify.com/album/4QJCCKykaWGgmnlVk4qiHd) | 3:05 | 2022-12-02 | 2023-03-18 |
+| [Ethili Neeye](https://open.spotify.com/track/3okcBUyVoHK9XRiOtyh4dE) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [lil help](https://open.spotify.com/artist/0tmH5NAdScs6nl3rMCsfxv), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Ethili Neeye](https://open.spotify.com/album/4rRLJdyqfqaOO7xgvh2gjj) | 3:06 | 2025-02-28 |  |
 | [Ezhundu Po](https://open.spotify.com/track/5eWnc4VwFsZV7ITr1d86yz) | [A J Alimirzaq](https://open.spotify.com/artist/5PxF7BJYagnxw4u55WFmpZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Ezhundu Po](https://open.spotify.com/album/644H0OppWK9lIEHCxoqECd) | 2:06 | 2024-10-04 | 2024-11-05 |
 | [Falling in Love](https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:37 | 2024-04-29 |  |
 | [First Sight](https://open.spotify.com/track/7InJGm3bEnXD3qlKLSRzGr) | [Beatzup Tamizha](https://open.spotify.com/artist/04BjES31Lmbo8A2LXtCGZw), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [First Sight](https://open.spotify.com/album/3f3Wdtes0xiUZEiHyCS4IW) | 4:45 | 2024-12-11 | 2025-01-31 |

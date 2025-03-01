@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62815,
+  "num_followers": 62817,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8CCegAAAADNFHixNLJlBFRtV8pI/Xl/",
+  "snapshot_id": "Z8GWxQAAAAAQwZrQsLYBu4Umgc1CpdF6",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -119,6 +119,30 @@
       "duration_ms": 213396,
       "name": "Shiva Stotra 2.0 (From \"Bagheera\")",
       "url": "https://open.spotify.com/track/0nYP6TyAthaTVB08wZJsb8"
+    },
+    {
+      "added_at": "2025-02-28 10:58:13",
+      "album": {
+        "name": "Paarithoshaka Title Track (From \"Paarithoshaka\")",
+        "url": "https://open.spotify.com/album/3Hqu1iNSiwQKBLQIhh7Rit"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Chandan Heggade",
+          "url": "https://open.spotify.com/artist/13AxRyP5m9OsOBMY9nN0xz"
+        },
+        {
+          "name": "Ravi Theja",
+          "url": "https://open.spotify.com/artist/0Arc1t8MwDbLON8WFRcmL3"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Paarithoshaka Title Track (From \"Paarithoshaka\")",
+      "url": "https://open.spotify.com/track/7yCzBwe9FV3E5MrYWupXuY"
     },
     {
       "added_at": "2025-02-24 11:38:01",
@@ -365,26 +389,6 @@
       "url": "https://open.spotify.com/track/1v7r9ZrFqLxWOPseFbHTHd"
     },
     {
-      "added_at": "2025-02-21 12:04:41",
-      "album": {
-        "name": "Nodidavaru Enantare (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7BKp1leqpUARjs9wrkqCwq"
-      },
-      "artists": [
-        {
-          "name": "Naveen Shankar",
-          "url": "https://open.spotify.com/artist/7p4i6FpNqfXKXVLXPNfBMy"
-        },
-        {
-          "name": "Mayuresh A",
-          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
-        }
-      ],
-      "duration_ms": 61541,
-      "name": "Summanomme Attu Bidabaradeke",
-      "url": "https://open.spotify.com/track/0QwTnjfZPE5fM80QZgEJBE"
-    },
-    {
       "added_at": "2025-02-18 11:46:14",
       "album": {
         "name": "Singleagiddhe Nannu (From \"Kuchuku\")",
@@ -543,30 +547,6 @@
       "duration_ms": 259810,
       "name": "Alive (From \"Nodidavaru Enantare\")",
       "url": "https://open.spotify.com/track/5Uqi789L24pKEI4KkA1Yj0"
-    },
-    {
-      "added_at": "2025-01-31 09:26:31",
-      "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4Y7geVMUu7SPL1V1ZFVUnm"
-      },
-      "artists": [
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Hemanth Kumar",
-          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Royal Title Track",
-      "url": "https://open.spotify.com/track/4riuEezAHoDiZ40gmDe7M1"
     },
     {
       "added_at": "2025-02-11 05:35:42",

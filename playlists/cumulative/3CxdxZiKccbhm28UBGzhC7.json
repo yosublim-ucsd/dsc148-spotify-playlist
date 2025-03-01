@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163412,
+      "name": "Here's The Thing",
+      "url": "https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D"
+    },
+    {
+      "album": {
         "name": "Deep Down Happy",
         "url": "https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 315330,
+  "num_followers": 315342,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "So Humble The Afternoon",
         "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 322840,
       "name": "So Humble the Afternoon",
       "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Only One Man (with Melody's Echo Chamber)",
-        "url": "https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8"
-      },
-      "artists": [
-        {
-          "name": "Moodo\u00efd",
-          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
-        },
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Only One Man (with Melody's Echo Chamber)",
-      "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Only One Man (with Melody's Echo Chamber)",
+        "url": "https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8"
+      },
+      "artists": [
+        {
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Only One Man (with Melody's Echo Chamber)",
+      "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "obliterate me",
-        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 233201,
-      "name": "obliterate me",
-      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 389948,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "obliterate me",
+        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 233201,
+      "name": "obliterate me",
+      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Heaven Sent (Between Heavens B-Sides)",
         "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 199413,
       "name": "Nadine",
       "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -891,22 +891,6 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
-      },
-      "artists": [
-        {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
-        }
-      ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -987,6 +971,22 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Honeybee",
-        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "How Can I Love? (When I Can't Get Away from You)",
         "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Never Apart",
-        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
-      },
-      "artists": [
-        {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
-        }
-      ],
-      "duration_ms": 247649,
-      "name": "Never Apart",
-      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "The Heart",
         "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 277492,
       "name": "The Heart",
       "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Never Apart",
+        "url": "https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 247649,
+      "name": "Never Apart",
+      "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Standard Tuning",
-        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "duration_ms": 264279,
-      "name": "Standard Tuning",
-      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
+        "name": "Standard Tuning",
+        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 264279,
+      "name": "Standard Tuning",
+      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+      "duration_ms": 280181,
+      "name": "Homing",
+      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1339,22 +1355,6 @@
       "duration_ms": 190148,
       "name": "the lonely girl",
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 280181,
-      "name": "Homing",
-      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     }
   ],
   "unique_name": "Dreampop",

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Orthodox.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ecca Vandal.
 
-921 songs - 2 day 9 hr 47 min
+927 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 | 2022-07-29 | 2023-07-15 |
 | [BOUND BY AFFLICTION](https://open.spotify.com/track/38dFFlYYJHGOJMWKkpSVi5) | [FINAL RESTING PLACE](https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI) | [BOUND BY AFFLICTION](https://open.spotify.com/album/1pPM49Pp8c6C9YBkgTeVJ0) | 2:50 | 2025-02-07 |  |
 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 | 2025-02-07 |  |
+| [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 | 2025-02-28 |  |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-08-30 |  |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
@@ -167,6 +168,7 @@
 | [Crazed Killer](https://open.spotify.com/track/0AcEacMQ5DjNKK6Nynh9pl) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Crazed Killer](https://open.spotify.com/album/27PfQknaNIiFDWsKxYM93n) | 1:37 | 2025-02-14 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 |  |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 |  |
+| [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-02-28 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 |  |
@@ -326,6 +328,7 @@
 | [Give Them Death](https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Give Them Death](https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ) | 3:37 | 2024-07-19 |  |
 | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 | 2024-02-03 |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 | 2023-07-15 |
+| [God Complex](https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [God Complex](https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N) | 4:05 | 2025-02-28 |  |
 | [God Under Fingernails](https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [God Under Fingernails](https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId) | 2:55 | 2024-03-29 |  |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 | 2023-07-15 |
 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 | 2024-07-19 |  |
@@ -371,6 +374,7 @@
 | [Human Disdain](https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Human Disdain](https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi) | 2:58 | 2024-05-03 |  |
 | [Hypothermia](https://open.spotify.com/track/1lUDwFk4gC7dnJLklItVMH) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [Hypothermia](https://open.spotify.com/album/6Ou4V2zNK8pHrHagE100a8) | 3:40 | 2025-02-14 |  |
 | [Hysterics](https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Hysterics](https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt) | 2:10 | 2023-04-21 | 2024-02-03 |
+| [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 | 2025-02-28 |  |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 | 2023-07-15 |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 | 2023-07-15 |
 | [I Was a Teenage Nihilist](https://open.spotify.com/track/6VjuopTLuHqN8OPxKcab0o) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 1:32 | 2023-12-15 | 2024-02-03 |
@@ -574,6 +578,7 @@
 | [Pig Pen](https://open.spotify.com/track/4VM9hWSTtGEEqtksVMf2w8) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Pig Pen](https://open.spotify.com/album/5EeOGbGvN3O0wjUuoXU5lE) | 1:52 | 2022-11-04 | 2023-07-15 |
 | [Pigs, Shit & Trash](https://open.spotify.com/track/6cMLVHVMUgfzEI0Ic4uVOH) | [Weeping Icon](https://open.spotify.com/artist/7AQAl2GtBkKKtSYH9PoDX9) | [Pigs, Shit & Trash](https://open.spotify.com/album/2iCjmIHUYLIbZRQd9HenXo) | 3:37 | 2022-10-14 | 2023-07-15 |
 | [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 | 2023-07-15 |
+| [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-02-28 |  |
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 | 2024-02-03 |
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 | 2023-07-15 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-05 |  |
@@ -846,6 +851,7 @@
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 | 2023-07-15 |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 | 2023-07-15 |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 |  |
+| [Vale of Tears](https://open.spotify.com/track/3ETG30h6dYBQJrx7ofWuUA) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Vale of Tears](https://open.spotify.com/album/0Ji58POfsCobxnVoTISYBi) | 2:01 | 2025-02-28 |  |
 | [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 | 2024-02-03 |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 | 2023-07-15 |
 | [Venus in Flames](https://open.spotify.com/track/1plbSV6IKjmMmyAx9XMEod) | [DOOL](https://open.spotify.com/artist/101HSR6JTJqe3DBh6rb8kz) | [Venus in Flames](https://open.spotify.com/album/05YyAiDVKS3HntWHOpk81U) | 7:06 | 2024-03-01 |  |

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/4uaJo8uPzTiAXiwEkmRBr9"
+      },
+      "artists": [
+        {
+          "name": "Closest Cloud",
+          "url": "https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164467,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/0Cm5MlCWLBckpkdHWnDxrD"
+    },
+    {
+      "album": {
         "name": "after a while",
         "url": "https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6"
       },
@@ -3873,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/3E1Y5LCz0RSOHPLMNzzNSn"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168994,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5ROYHogixkAvDDRCT4K0bC"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0I5nixTUAakGkdaqkiNOwW"
       },
@@ -4504,6 +4540,24 @@
       "duration_ms": 194727,
       "name": "Honesty (remix)",
       "url": "https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp"
+    },
+    {
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/7maHpVQe1dHERRjmRnK4Fa"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloumy",
+          "url": "https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161169,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/3hzqjAhpuqSvoYUwn18WV6"
     },
     {
       "album": {
@@ -5516,7 +5570,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 135789,
       "name": "light box",
       "url": "https://open.spotify.com/track/5VFDfHbNOJbUGQMUTFoJ2D"
@@ -8125,6 +8179,24 @@
     },
     {
       "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/5PlVNnQsDRVKvBzk6Nbul5"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Reboot",
+      "url": "https://open.spotify.com/track/35Wlnt6eX5mHK5ZphndzeO"
+    },
+    {
+      "album": {
         "name": "Recession",
         "url": "https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT"
       },
@@ -9619,6 +9691,24 @@
     },
     {
       "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/68MdBMv34Nf1YR7oFgRufK"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/3SYVkFt9xCEivtpHlia9yT"
+    },
+    {
+      "album": {
         "name": "spring",
         "url": "https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX"
       },
@@ -10482,7 +10572,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 135529,
       "name": "The Sweetness",
       "url": "https://open.spotify.com/track/1845FL0Rp89SWsjxYKJgS6"
@@ -11420,6 +11510,24 @@
       "duration_ms": 146531,
       "name": "Watch Me Now",
       "url": "https://open.spotify.com/track/2RVhZ74hHRhXVJ7sEBrHcO"
+    },
+    {
+      "album": {
+        "name": "wave catcher",
+        "url": "https://open.spotify.com/album/1EGrmVwf78EZzVDczU862G"
+      },
+      "artists": [
+        {
+          "name": "citron love",
+          "url": "https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "wave catcher",
+      "url": "https://open.spotify.com/track/5yq3LAl26VCbshRVgwssA9"
     },
     {
       "album": {

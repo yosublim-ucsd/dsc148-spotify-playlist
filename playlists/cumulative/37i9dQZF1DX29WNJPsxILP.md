@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
+> Best of Hindi Hip\-Hop! Cover: Badshah
 
-226 songs - 11 hr 37 min
+227 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aamdani](https://open.spotify.com/track/7cUXdknIYp5WapBSweV4Xl) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:51 | 2023-11-17 | 2024-06-06 |
 | [Abey Yaar](https://open.spotify.com/track/5S2MwJBXp4JTC9r16btsJv) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Abey Yaar](https://open.spotify.com/album/0TL3cakInbP0w8mRY7mFr4) | 2:51 | 2023-03-10 | 2023-10-12 |
 | [ABEYY DON HU](https://open.spotify.com/track/7LRFECXdwOyHhVk26w4ORH) | [kaayo lk](https://open.spotify.com/artist/7ccWUSS2KCZOGMFkV7Qrll) | [ABEYY DON HU](https://open.spotify.com/album/5i73K5q6c89vKA7kDqMJiq) | 2:29 | 2025-01-06 | 2025-02-01 |
-| [AGONY](https://open.spotify.com/track/3LVc6NSg797cu24aF8dR3x) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 3:04 | 2025-01-31 |  |
+| [AGONY](https://open.spotify.com/track/3LVc6NSg797cu24aF8dR3x) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 3:04 | 2025-01-31 | 2025-03-01 |
 | [Ajnabi](https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:00 | 2025-01-17 |  |
 | [Alvida](https://open.spotify.com/track/0MzimbGlnX7GS2lRuD5eTT) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Alvida](https://open.spotify.com/album/22rvZcQ5cn6DPUYHdbzfgn) | 2:56 | 2025-02-14 |  |
 | [Angad](https://open.spotify.com/track/1jsI1eBSguo06e4ocINgVp) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Angad](https://open.spotify.com/album/1sPEgdT59qlNeHtkPkGcm2) | 2:48 | 2023-03-10 | 2023-11-07 |
@@ -59,6 +59,7 @@
 | [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-17 | 2024-12-06 |
 | [Dan Dana Dan](https://open.spotify.com/track/0kHTc09EST4a4fOJnXL6zl) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:20 | 2023-10-11 | 2024-04-10 |
 | [Das Matt Lena](https://open.spotify.com/track/4GOADgwjYJXFbAmTnSuwkO) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Nisha Bhatt](https://open.spotify.com/artist/1QzODDwIuW8yLOnpch343j), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Das Matt Lena](https://open.spotify.com/album/45O495a22u8N3UVOCH5zyU) | 2:40 | 2024-09-30 | 2024-12-12 |
+| [Dear Aditya](https://open.spotify.com/track/2DFpDzrY1aDKVbMeJVAs9l) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Dear Aditya](https://open.spotify.com/album/1iK0ltlEUBYot5LHDK2cTB) | 3:37 | 2025-02-28 |  |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-11-09 |
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-08 | 2025-01-22 |
 | [Dhak Dhak](https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Dhak Dhak](https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2) | 3:22 | 2024-12-20 |  |

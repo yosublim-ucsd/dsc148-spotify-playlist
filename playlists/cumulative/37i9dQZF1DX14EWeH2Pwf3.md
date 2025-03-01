@@ -4,7 +4,7 @@
 
 > C'è una street song in cover della playlist urban più grande in Italia 🔥
 
-715 songs - 1 day 11 hr 4 min
+716 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Da 0 a 100 \(feat\. Shiva\)](https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 3:17 | 2025-01-09 | 2025-02-04 |
 | [Da Solo](https://open.spotify.com/track/7FvU0v2HZGnW4Mf4YNCgI3) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Da Solo](https://open.spotify.com/album/3TNK4YfObvW4VpTdJRCpkV) | 3:30 | 2023-01-03 | 2023-01-27 |
 | [DAMME 'NA MANO](https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DAMME 'NA MANO](https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7) | 2:58 | 2025-02-12 |  |
-| [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-06 |  |
+| [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-06 | 2025-03-01 |
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 | 2024-03-15 |
 | [Dentro la mia testa](https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:41 | 2023-10-26 | 2023-12-16 |
 | [Desaparecidos \(feat\. Geolier\)](https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:12 | 2022-05-09 | 2022-05-14 |
@@ -382,6 +382,7 @@
 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 | 2022-05-09 | 2022-11-30 |
 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 | 2023-07-27 | 2023-08-25 |
 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 | 2023-12-07 | 2024-04-19 |
+| [Madama \(feat\. Simba La Rue\)](https://open.spotify.com/track/6jPnupVIj7ELwbGne3js7f) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [FREE ESCOMAR](https://open.spotify.com/album/6G7bvTi99ewi63wb4PrwwF) | 3:12 | 2025-02-28 |  |
 | [Madame \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3J0cZ53BkzP4yhtOh0y02o) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 2:42 | 2024-04-25 | 2024-09-13 |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-02-09 | 2023-03-03 |
 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 | 2024-02-22 |

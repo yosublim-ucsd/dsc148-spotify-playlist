@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Betrand Putra Onsu
 
-758 songs - 2 day 1 hr 11 min
+759 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Firasat Berbicara](https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Firasat Berbicara](https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK) | 3:51 | 2024-10-31 | 2025-01-10 |
 | [Flamboyanku](https://open.spotify.com/track/7bR0JE6Vo5GxHUUZDUlY1r) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Flamboyanku](https://open.spotify.com/album/3fvB2EsCywZHacStLmBVkm) | 5:11 | 2024-09-26 | 2024-11-15 |
 | [Forever Last](https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Forever Last](https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r) | 3:43 | 2024-03-07 | 2024-03-29 |
+| [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 | 2025-02-28 |  |
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-05-24 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 | 2024-11-22 |
 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 | 2024-04-18 | 2024-06-14 |

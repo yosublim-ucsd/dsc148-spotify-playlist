@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Ruben Blades",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Christian Alicea",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -864,6 +864,24 @@
       "duration_ms": 188078,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
+    },
+    {
+      "album": {
+        "name": "Como Te Hago Entender (Clean)",
+        "url": "https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208980,
+      "name": "Como Te Hago Entender",
+      "url": "https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8"
     },
     {
       "album": {
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Era para Siempre (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Era para Siempre - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
+    },
+    {
+      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -2220,6 +2256,24 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "album": {
+        "name": "Hello,What's Up",
+        "url": "https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Hello, What's Up",
+      "url": "https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK"
     },
     {
       "album": {
@@ -2616,7 +2670,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 160901,
       "name": "La Salsa No Engorda",
       "url": "https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ"
@@ -2786,7 +2840,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 235951,
       "name": "Llorar Bonito",
       "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
@@ -3095,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Mas Que Un Beso",
+        "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Mas Que Un Beso",
+      "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
+    },
+    {
+      "album": {
         "name": "Me Enamore de Ti, y Que?",
         "url": "https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg"
       },
@@ -3258,7 +3330,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 252986,
       "name": "Mi Propiedad Privada",
       "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
@@ -3458,7 +3530,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 223197,
       "name": "No Le Cuentes",
       "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
@@ -3480,7 +3552,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 268175,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
@@ -3960,7 +4032,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 304946,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"

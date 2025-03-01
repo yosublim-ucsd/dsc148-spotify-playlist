@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 20 min
+142 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 | 2024-01-29 |  |
 | [It's Not My Fault](https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [It's Not My Fault](https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU) | 4:22 | 2024-04-30 |  |
 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 | 2024-01-29 |  |
+| [Learn To Love Myself](https://open.spotify.com/track/0FQ9ML5Is7CRKHGoVDdrKi) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb) | 3:02 | 2025-02-28 |  |
 | [LEGGO](https://open.spotify.com/track/3GeDEcWeEkTewqtgk5RXTn) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:24 | 2024-01-29 |  |
 | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/track/51C4aVMVoqIFPSJFmS9ccf) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/album/6yKIoCB54wFFE0KRFaCp9d) | 2:34 | 2024-01-29 |  |
 | [Let It Go](https://open.spotify.com/track/3svOpX4WPGJk9ZQ34D3c9s) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Highs & Lows](https://open.spotify.com/album/3NPxIfnIdVZiKAOZxe6YVA) | 2:57 | 2024-01-29 |  |

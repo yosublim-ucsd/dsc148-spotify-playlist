@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 121419,
       "name": "BEYOND THE STARLIGHT - GAME VERSION",
       "url": "https://open.spotify.com/track/4BWob6lPJ2aN3U38p1zr4S"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 274066,
       "name": "Fantasia for the Girls - M@STER VERSION",
       "url": "https://open.spotify.com/track/71UNsZ2qukvPlJlVZ66Vyw"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 116853,
       "name": "Great Journey - GAME VERSION",
       "url": "https://open.spotify.com/track/52u9SBAZphjSzsCyDubIcs"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137862,
       "name": "Hardcore Toyworld - GAME VERSION",
       "url": "https://open.spotify.com/track/5U5cSxhgmO3aqJiQeS13XK"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 136487,
       "name": "Palette - GAME VERSION",
       "url": "https://open.spotify.com/track/5xDv5wFuEE1xtSEZ3e0rGd"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 127425,
       "name": "SUN\u2661FLOWER - GAME VERSION",
       "url": "https://open.spotify.com/track/6NdlYHdSAavwmzGoMoT3r0"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 128863,
       "name": "Tulip - GAME VERSION",
       "url": "https://open.spotify.com/track/3ipF8FrAntwKGf0wWDg55C"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 121630,
       "name": "\u2200NSWER - GAME VERSION",
       "url": "https://open.spotify.com/track/41URYzrg1ASI9S2QaqlUsG"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 252506,
       "name": "\u304a\u306d\u3060\u308a Shall We \u301c?",
       "url": "https://open.spotify.com/track/41JQj4esuC3YHwmXIjFrNo"
@@ -2643,6 +2643,40 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30fc\u30ea\u30e3\u30f3\u30b5\u30f3\u30ad\u30e5\u30fc (GAME VERSION)",
+        "url": "https://open.spotify.com/album/5LCXWw7zunIbjIXyEYVWUH"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u6709\u9999 (CV: \u4e0b\u5730\u7d2b\u91ce)",
+          "url": "https://open.spotify.com/artist/3R4edW1OhvP3HjwUtYm5FB"
+        },
+        {
+          "name": "\u4e09\u6751\u304b\u306a\u5b50 (CV: \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/7hOq8g7b9GR4Q7JSBTcTVa"
+        },
+        {
+          "name": "\u5927\u548c\u4e9c\u5b63 (CV: \u6751\u4e2d \u77e5)",
+          "url": "https://open.spotify.com/artist/4K3G2y8FE3nLU9YrYhOSAr"
+        },
+        {
+          "name": "\u524d\u5ddd\u307f\u304f (CV: \u9ad8\u68ee\u5948\u6d25\u7f8e)",
+          "url": "https://open.spotify.com/artist/7bqnF8SmpYjwOxUnoePXdc"
+        },
+        {
+          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139648,
+      "name": "\u30a4\u30fc\u30ea\u30e3\u30f3\u30b5\u30f3\u30ad\u30e5\u30fc - GAME VERSION",
+      "url": "https://open.spotify.com/track/6NJHBNR1V3e15vWNmkINOP"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! SERIES GAME VERSION SONG COLLECTION",
         "url": "https://open.spotify.com/album/1G8kutxesHCVw9Z4KoIS1b"
       },
@@ -2995,6 +3029,40 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30b9\u30c6\u30fc\u30b8 (GAME VERSION)",
+        "url": "https://open.spotify.com/album/4BQax7cImdviyhnAnmpI4L"
+      },
+      "artists": [
+        {
+          "name": "\u8af8\u661f\u304d\u3089\u308a (CV: \u677e\u5d5c \u9e97)",
+          "url": "https://open.spotify.com/artist/0M1k2X1yK6cO3WvdHKQ56Y"
+        },
+        {
+          "name": "\u5bae\u672c\u30d5\u30ec\u30c7\u30ea\u30ab (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/5BQ1Zi42wDM5xHySTMaEtK"
+        },
+        {
+          "name": "\u8352\u6728\u6bd4\u5948 (CV: \u7530\u8fba\u7559\u4f9d)",
+          "url": "https://open.spotify.com/artist/7KfM5bXDPXzq5qsyv5WLQ6"
+        },
+        {
+          "name": "\u7684\u5834\u68a8\u6c99 (CV: \u96c6\u8c9d\u306f\u306a)",
+          "url": "https://open.spotify.com/artist/2GBph9zyaUK9vUzsHcSe4O"
+        },
+        {
+          "name": "\u5357\u6761\u5149 (CV: \u795e\u8c37\u65e9\u77e2\u4f73)",
+          "url": "https://open.spotify.com/artist/0jwOSmN5Hw5tJvGmlhCoCU"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128128,
+      "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30b9\u30c6\u30fc\u30b8 - GAME VERSION",
+      "url": "https://open.spotify.com/track/3czdM4zj1uiFHWEZJIBzPP"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER SERIES GAME VERSION SONG COLLECTION Vol.1",
         "url": "https://open.spotify.com/album/0dX5bHw1IkAyS827s1XcY8"
       },
@@ -3300,7 +3368,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 127981,
       "name": "\u30ce\u30fc\u30c1\u30e9\u30b9\u30bd\u30ca\u30fc -Nautilus Sonar- - GAME VERSION",
       "url": "https://open.spotify.com/track/3Z5ilicSpeZs4Nh1MgHI2O"
@@ -3416,7 +3484,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 123038,
       "name": "\u30d1\u30b8\u30e3\u30de\u30b8\u30e3\u30de - GAME VERSION",
       "url": "https://open.spotify.com/track/5PeJuokwCC8dr0SbNQupGG"
@@ -3600,7 +3668,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 248813,
       "name": "\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0 - M@STER VERSION",
       "url": "https://open.spotify.com/track/21u4fOfgy0SI0URc7n7Xmd"
@@ -3896,7 +3964,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 220453,
       "name": "\u53ef\u611b\u304f\u3066\u3054\u3081\u3093",
       "url": "https://open.spotify.com/track/7apkSdDuLUzJlzwt7HDNH0"
@@ -4407,6 +4475,40 @@
     },
     {
       "album": {
+        "name": "\u71b1\u60c5\u30a8\u30ca\u30e2\u30e9\u30eb (GAME VERSION)",
+        "url": "https://open.spotify.com/album/2zLGAMyECb1Jvz04loWII6"
+      },
+      "artists": [
+        {
+          "name": "\u4f9d\u7530\u82b3\u4e43 (CV: \u9ad8\u7530\u6182\u5e0c)",
+          "url": "https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE"
+        },
+        {
+          "name": "\u6751\u4e0a\u5df4 (CV: \u82b1\u4e95\u7f8e\u6625)",
+          "url": "https://open.spotify.com/artist/1Ym4js5RcCE2JUcYBg4Vyk"
+        },
+        {
+          "name": "\u4f50\u85e4\u5fc3 (CV: \u82b1\u5b88\u3086\u307f\u308a)",
+          "url": "https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw"
+        },
+        {
+          "name": "\u5922\u898b\u308a\u3042\u3080 (CV: \u661f\u5e0c\u6210\u594f)",
+          "url": "https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N"
+        },
+        {
+          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136746,
+      "name": "\u71b1\u60c5\u30a8\u30ca\u30e2\u30e9\u30eb - GAME VERSION",
+      "url": "https://open.spotify.com/track/3VVZvjRobEmm85tHvHCaWd"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA MASTER 011\u301c020 GAME VERSION",
         "url": "https://open.spotify.com/album/2vIxFd8YywdFqH87quf9xt"
       },
@@ -4520,7 +4622,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 129011,
       "name": "\u79cb\u98a8\u306b\u624b\u3092\u632f\u3063\u3066 - GAME VERSION",
       "url": "https://open.spotify.com/track/4xzUQbjBlqH2ydDQwJ890W"
@@ -4572,7 +4674,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 130966,
       "name": "\u7d14\u60c5Midnight\u4f1d\u8aac - GAME VERSION",
       "url": "https://open.spotify.com/track/78ImqtZj7MVVpWN6x9778r"

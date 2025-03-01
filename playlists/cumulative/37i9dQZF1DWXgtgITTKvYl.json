@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Firebird (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/69BjCvnJigKPcwzlB4nHdx"
+      },
+      "artists": [
+        {
+          "name": "Dirt Poor Robins",
+          "url": "https://open.spotify.com/artist/16lGevDffmuRakKVvdJ983"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282786,
+      "name": "Behemoth (Don't Blame Us)",
+      "url": "https://open.spotify.com/track/6x2teFITmnZI6iOE5IX4rO"
+    },
+    {
+      "album": {
         "name": "The Long Goodbye",
         "url": "https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK"
       },
@@ -1119,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Echoes - Part 1 - Edit (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "url": "https://open.spotify.com/album/6RhYZ6GtyfKczfaGs8QAUj"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Echoes - Part 1 - Edit - Live at Pompeii - MCMLXXII - 2025 Mix",
+      "url": "https://open.spotify.com/track/4cneE6tz6nHEcX2ChM8ISO"
+    },
+    {
+      "album": {
         "name": "Remember That You Will Die",
         "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
       },
@@ -1286,6 +1322,28 @@
       "duration_ms": 247272,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/5FCpN8T0ibPP5aSIFfHRcp"
+    },
+    {
+      "album": {
+        "name": "Entropy Pulse",
+        "url": "https://open.spotify.com/album/118oLHevImyXntRfrq1dsv"
+      },
+      "artists": [
+        {
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+        },
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118375,
+      "name": "Entropy Pulse",
+      "url": "https://open.spotify.com/track/02ZBxJEcH8PUFpgDipovw2"
     },
     {
       "album": {
@@ -1520,7 +1578,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 291896,
       "name": "foundyou",
       "url": "https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz"
@@ -1679,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Live at the Factory in Deep Ellum",
+        "url": "https://open.spotify.com/album/5ego3KkRnlTNUJNbfsYSDQ"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266093,
+      "name": "Genesis (Live at the Factory in Deep Ellum)",
+      "url": "https://open.spotify.com/track/2N0rwlgJPmNoYhciIhtTkU"
+    },
+    {
+      "album": {
         "name": "Eraser",
         "url": "https://open.spotify.com/album/4ukZYmOiQ9Kz2jjK39tNo8"
       },
@@ -1708,7 +1784,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 129075,
       "name": "Glitching",
       "url": "https://open.spotify.com/track/7phWro6OJHsAY9erko1ZlS"
@@ -2290,7 +2366,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 447000,
       "name": "Is It Tomorrow or Just the End of Time?",
       "url": "https://open.spotify.com/track/4D36ReHXc6QIJdza0jvotO"
@@ -2442,6 +2518,36 @@
       "duration_ms": 270973,
       "name": "Knuckledragger",
       "url": "https://open.spotify.com/track/3ut1Ywcb4pyHF1X5gqr6cX"
+    },
+    {
+      "album": {
+        "name": "PFM CANTA DE ANDRE\u2019 ANNIVERSARY (Live)",
+        "url": "https://open.spotify.com/album/0vct6cVxRpmdf3Zt81G8CZ"
+      },
+      "artists": [
+        {
+          "name": "Premiata Forneria Marconi",
+          "url": "https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu"
+        },
+        {
+          "name": "Flavio Premoli",
+          "url": "https://open.spotify.com/artist/0OH2VdtwkLYjFA5vDsR1fV"
+        },
+        {
+          "name": "Michele Ascolese",
+          "url": "https://open.spotify.com/artist/6lytT2YTJDdkJak5xRf8X4"
+        },
+        {
+          "name": "Luca Zabbini",
+          "url": "https://open.spotify.com/artist/7rIb443J3zLJx9DYSkfiBZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87813,
+      "name": "La tentazione - Live",
+      "url": "https://open.spotify.com/track/0IGLtKd0YHN30FtDl6HHLt"
     },
     {
       "album": {
@@ -2702,6 +2808,24 @@
       "duration_ms": 218000,
       "name": "MelancHoly",
       "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+    },
+    {
+      "album": {
+        "name": "Melody Labyrinth",
+        "url": "https://open.spotify.com/album/7aP3Dq69qOyqouXncqyQQ5"
+      },
+      "artists": [
+        {
+          "name": "BIGMAMA",
+          "url": "https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193033,
+      "name": "Melody Labyrinth",
+      "url": "https://open.spotify.com/track/3sMAL47Yd18g3K5TNFjbYz"
     },
     {
       "album": {
@@ -3120,7 +3244,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 302203,
       "name": "Out Of Place",
       "url": "https://open.spotify.com/track/5evFhtEdAJfj7m8AswhLyE"
@@ -3975,6 +4099,28 @@
     },
     {
       "album": {
+        "name": "Slapageddon",
+        "url": "https://open.spotify.com/album/4nD2AKVdc8SQ9Fgg6ibZCq"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        },
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136539,
+      "name": "Slapageddon",
+      "url": "https://open.spotify.com/track/67silxixfmq4O2KBZTwrT2"
+    },
+    {
+      "album": {
         "name": "Snowman",
         "url": "https://open.spotify.com/album/5ieh61odYrWymguX8YM3GK"
       },
@@ -4247,6 +4393,28 @@
     },
     {
       "album": {
+        "name": "Freya Arctic Jam",
+        "url": "https://open.spotify.com/album/22aRQppnLVN2GY2UPlDl9h"
+      },
+      "artists": [
+        {
+          "name": "Djabe",
+          "url": "https://open.spotify.com/artist/246dgdCModBl8O3mZI5PNe"
+        },
+        {
+          "name": "Steve Hackett",
+          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406146,
+      "name": "Stone Age Tea",
+      "url": "https://open.spotify.com/track/0HPegp1poSfXVlBzwsI4aK"
+    },
+    {
+      "album": {
         "name": "Street Midnight Vibe",
         "url": "https://open.spotify.com/album/4I6OOYFlNUroBb3rAZxaPG"
       },
@@ -4302,6 +4470,24 @@
       "duration_ms": 293239,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+    },
+    {
+      "album": {
+        "name": "The Singularity: B-Sides & Demos",
+        "url": "https://open.spotify.com/album/4GcEOMPYYsGklDsyhxbLky"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222001,
+      "name": "Supermassive Spiral",
+      "url": "https://open.spotify.com/track/3Xq6QukmUEIkaZEsVbtOI8"
     },
     {
       "album": {
@@ -4756,7 +4942,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 271692,
       "name": "The Right Side Of This World",
       "url": "https://open.spotify.com/track/0NKC5QwCu5oC3z9mBDypjw"
@@ -5030,7 +5216,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 100173,
       "name": "Top Down Foot Down - Live",
       "url": "https://open.spotify.com/track/65XtVjvAjf27yluTmaRzrg"
@@ -5066,7 +5252,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 253280,
       "name": "Total Mass Retain - Steven Wilson Edit",
       "url": "https://open.spotify.com/track/4Xyd8c5iy4jqnAjlgPNbiT"
@@ -5294,7 +5480,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 334960,
       "name": "Welcome To Voltus",
       "url": "https://open.spotify.com/track/0kTITl59lp4vgZONiQbscP"
@@ -5500,7 +5686,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 193033,
       "name": "\u65cb\u5f8b\u8ff7\u5bae",
       "url": "https://open.spotify.com/track/1qVHRVk9Is0nQfO9RZhiLd"

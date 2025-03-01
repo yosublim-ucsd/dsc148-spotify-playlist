@@ -607,6 +607,32 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/6wTgR9AzUZKPhZrQTdciMW"
+      },
+      "artists": [
+        {
+          "name": "CHIAMRO",
+          "url": "https://open.spotify.com/artist/77sBjqP1vgO5lpmKUC5576"
+        },
+        {
+          "name": "Chiaraspureluv",
+          "url": "https://open.spotify.com/artist/5e8vt3hrE78mvyxNpvHiUb"
+        },
+        {
+          "name": "Samrosauvage",
+          "url": "https://open.spotify.com/artist/1KkRdQ4yPNxbROhxa1i3T9"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/04NO5JILiZ79m8QdhqKvvq"
+    },
+    {
+      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -2002,6 +2028,24 @@
       "duration_ms": 192320,
       "name": "Checkers",
       "url": "https://open.spotify.com/track/7kfsIAWpJNEToyrRIQNDFH"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6M9sjDz0KFeroiVwpnTvJk"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/4IFX7fWlprVt3cOmTnTbsy"
     },
     {
       "album": {
@@ -9267,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "Ruin Me",
+        "url": "https://open.spotify.com/album/6DgakXIzSOFiqRtn2ZrKHJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240355,
+      "name": "Ruin Me",
+      "url": "https://open.spotify.com/track/1az09lXNZuVpqGY8dQ6x0c"
+    },
+    {
+      "album": {
         "name": "Addicted (with Rhys Rich)",
         "url": "https://open.spotify.com/album/1XcKmdNXQI6o34o16IrVe5"
       },
@@ -10260,6 +10322,24 @@
       "duration_ms": 217754,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/4VWVtPsN2r56U1rkYelNpp"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/16Y7nflJ2nN7aSMPKlnuSP"
+      },
+      "artists": [
+        {
+          "name": "Sophia Warren",
+          "url": "https://open.spotify.com/artist/6G0SkNnFons2kap8k4SMJl"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/1eNeyyoonWZPMABsVqg2ho"
     },
     {
       "album": {
@@ -11744,6 +11824,24 @@
       "duration_ms": 178408,
       "name": "Trust Me Mate",
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
+    },
+    {
+      "album": {
+        "name": "I'm A TV",
+        "url": "https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS"
+      },
+      "artists": [
+        {
+          "name": "Mae Martin",
+          "url": "https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170390,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf"
     },
     {
       "album": {

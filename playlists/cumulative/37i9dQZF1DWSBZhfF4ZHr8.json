@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : GIMS",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : L\u00e9man",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
+    {
+      "album": {
+        "name": "100K \u00e0 l'heure",
+        "url": "https://open.spotify.com/album/6zcuD7hPUFftsrtanWEX0B"
+      },
+      "artists": [
+        {
+          "name": "Tibz",
+          "url": "https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "100K \u00e0 l'heure",
+      "url": "https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT"
+    },
     {
       "album": {
         "name": "30",
@@ -662,7 +680,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 188034,
       "name": "Demi-mot",
       "url": "https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp"
@@ -1309,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Je ne pense qu'\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/0V3ilf6unZikfsPUILrsrh"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155589,
+      "name": "Je ne pense qu'\u00e0 \u00e7a",
+      "url": "https://open.spotify.com/track/3C24V2ZTjHQNo7frG1hRiM"
+    },
+    {
+      "album": {
         "name": "Je pense \u00e0 vous",
         "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
       },
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 187586,
       "name": "J\u2019ai chang\u00e9",
       "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
@@ -1562,6 +1598,24 @@
       "duration_ms": 179906,
       "name": "La recette du bonheur",
       "url": "https://open.spotify.com/track/5hf42dz6c7bGrfaLjRxKc4"
+    },
+    {
+      "album": {
+        "name": "La Tornade",
+        "url": "https://open.spotify.com/album/3XNfouhNOYx1zZyY9HVSVk"
+      },
+      "artists": [
+        {
+          "name": "Alex Roussiaux",
+          "url": "https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "La Tornade",
+      "url": "https://open.spotify.com/track/5RvYL4uV6f4KJRCmzwKsqH"
     },
     {
       "album": {
@@ -2036,7 +2090,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 189786,
       "name": "M'envoler",
       "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
@@ -2076,7 +2130,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 199376,
       "name": "Ma faute",
       "url": "https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh"
@@ -2368,6 +2422,24 @@
       "duration_ms": 158520,
       "name": "Nouveau d\u00e9part",
       "url": "https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi"
+    },
+    {
+      "album": {
+        "name": "On dort",
+        "url": "https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi"
+      },
+      "artists": [
+        {
+          "name": "Philippine",
+          "url": "https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158506,
+      "name": "On dort",
+      "url": "https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y"
     },
     {
       "album": {

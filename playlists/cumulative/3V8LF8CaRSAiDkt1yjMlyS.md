@@ -4,7 +4,7 @@
 
 > 
 
-162 songs - 8 hr 46 min
+163 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2023-09-21 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-08-01 |  |
 | [September \- Instrumental](https://open.spotify.com/track/6pj9JkwBA6VzYdLXvaJkPh) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/04QJpsEnEyBN0WSBQZ89Gn) | 3:09 | 2023-09-25 |  |
+| [set me free](https://open.spotify.com/track/304rzAZLd1kifiANwSGvs3) | [Menout](https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r) | [set me free](https://open.spotify.com/album/2ao2jycwcYnca4WFalD2N9) | 2:59 | 2025-03-01 |  |
 | [Shade Of Red](https://open.spotify.com/track/0WnH95g4jmTEWGEzLpFdI0) | [Olivia Frances Brown](https://open.spotify.com/artist/1r9n2hYLiGGcVi3unaj7Yj) | [Shade Of Red](https://open.spotify.com/album/0v99GEO9DmCfty9T6awIIb) | 3:38 | 2025-02-28 |  |
 | [Shattered Stillness](https://open.spotify.com/track/7MGMBPO30CeR2KrRX94SO3) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Silent Rooms](https://open.spotify.com/album/7tuLWi8OBxW7nrYiKSl8oc) | 3:16 | 2024-12-25 |  |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2023-01-13 |  |

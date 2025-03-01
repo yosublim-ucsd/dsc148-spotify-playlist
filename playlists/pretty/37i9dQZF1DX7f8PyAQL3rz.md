@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > hari e memphis tão na casa, esqueça tudo 👉😌👈
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,164 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,204 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 55 | [Dinero \- Spotify Singles](https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Dinero \- Spotify Singles](https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8) | 3:03 |
 | 56 | [Donos da Cidade](https://open.spotify.com/track/3ZRIoT6aHi9HsLzWGO1Rs4) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Donos da Cidade](https://open.spotify.com/album/2SjqnWjj3LXG6PYoIWKQkA) | 2:25 |
 | 57 | [Noite De Crime](https://open.spotify.com/track/5jIYOSU4mq1A41lozsrAsa) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Mc Filhão](https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Dj Barnabé](https://open.spotify.com/artist/73dOdNnmjs8vu0qLCh0ssL) | [Noite De Crime](https://open.spotify.com/album/2NXGCVJXDRKH8MufdKBGRz) | 6:55 |
-| 58 | [Vou Nessa](https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Vou Nessa](https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq) | 3:46 |
-| 59 | [Maloqueira](https://open.spotify.com/track/5mXGCFZbwym53EApceVrM7) | [Renanzin77](https://open.spotify.com/artist/6djJkKvHDrPc2bGwmL52O7), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Maloqueira](https://open.spotify.com/album/5wAFWjG4oEGRSfA35tU7v3) | 2:21 |
+| 58 | [Maloqueira](https://open.spotify.com/track/5mXGCFZbwym53EApceVrM7) | [Renanzin77](https://open.spotify.com/artist/6djJkKvHDrPc2bGwmL52O7), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Maloqueira](https://open.spotify.com/album/5wAFWjG4oEGRSfA35tU7v3) | 2:21 |
+| 59 | [Vou Nessa](https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Vou Nessa](https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq) | 3:46 |
 | 60 | [Goodnight Menina 4](https://open.spotify.com/track/2rFi57mXQTm8Di4DJ8WPKi) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Goodnight Menina 4](https://open.spotify.com/album/6v0KM0h9wtgD7EcToXVvPl) | 2:54 |
 
 Snapshot ID: `Z8Em8QAAAADQfOaLv0FWthKoIW6cIM3g`

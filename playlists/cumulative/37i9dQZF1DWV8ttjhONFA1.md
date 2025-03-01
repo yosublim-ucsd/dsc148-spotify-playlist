@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Andry Bett
+> El nuevo sonido argentino lo encontrás acá\. Foto: BLAIR.
 
-345 songs - 18 hr 51 min
+347 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 | 2024-04-26 | 2024-09-14 |
 | [cindor](https://open.spotify.com/track/1wMU9GAJK9R7uJLnzqxF38) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Las Rueditas de la Bici](https://open.spotify.com/artist/6kKtxXcuw2gn5q03ymTebF) | [Las Rueditas de la Bici](https://open.spotify.com/album/1zYKHqNOYPIszkAKFrqi3f) | 2:16 | 2024-11-22 | 2025-02-15 |
 | [Colorá](https://open.spotify.com/track/3hL7qjD8Mdcrjc5t1BFcHE) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Colorá](https://open.spotify.com/album/19MnZqlVTv2v1ZXKFLGhFQ) | 3:17 | 2023-12-15 | 2024-02-24 |
+| [Comando Juntar](https://open.spotify.com/track/0OUzVgwTdNmSsC3QyDFijv) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Comando Juntar](https://open.spotify.com/album/2KIINvnUtbd2vJjV4bDlyb) | 3:48 | 2025-02-28 |  |
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-15 | 2024-09-07 |
 | [Conocerte más](https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [A veces está bien](https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR) | 2:50 | 2024-06-07 | 2024-07-06 |
 | [corazón dinamita](https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [corazón dinamita](https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf) | 3:01 | 2023-12-15 | 2024-01-20 |
@@ -142,7 +143,7 @@
 | [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-12-15 | 2024-04-06 |
 | [Esperanza](https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Esperanza/ Nunca te vayas](https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao) | 2:30 | 2024-08-12 | 2024-10-26 |
 | [esta noche](https://open.spotify.com/track/5CpIZowavsFFsGf7GeQAuh) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [esta noche](https://open.spotify.com/album/06ytKZCrkhW4xcc73EyqXX) | 2:59 | 2024-03-01 | 2024-04-06 |
-| [Extracto](https://open.spotify.com/track/6TJrQLM2IFVsfscsZUsRRg) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Extracto](https://open.spotify.com/album/6z08grMSoMiOxXPINCfGic) | 2:32 | 2025-02-14 |  |
+| [Extracto](https://open.spotify.com/track/6TJrQLM2IFVsfscsZUsRRg) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Extracto](https://open.spotify.com/album/6z08grMSoMiOxXPINCfGic) | 2:32 | 2025-02-14 | 2025-03-01 |
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2024-04-05 | 2024-10-05 |
 | [Extrañándote](https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [La Cura](https://open.spotify.com/album/5izhiFfPTXm6J1TwJAXT30) | 3:13 | 2024-07-12 | 2024-10-19 |
 | [Fabricante de Alegrías](https://open.spotify.com/track/16zlAwSS8hni66uHAEE8WN) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Marcelo López](https://open.spotify.com/artist/62vmUN3tpO93O4782Ac9um) | [Fabricante de Alegrías](https://open.spotify.com/album/1U2Tq2a9v2K44tmpri4H9a) | 2:16 | 2025-02-07 |  |
@@ -318,6 +319,7 @@
 | [TLDMPDFDS](https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [TLDMPDFDS](https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR) | 2:23 | 2023-12-15 | 2024-06-08 |
 | [TODO & nada](https://open.spotify.com/track/4y5iaAapB3yFa5fdY8ATXS) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [TODO & nada](https://open.spotify.com/album/2AGVhIhJXLdyMdARFzDIQs) | 2:17 | 2024-04-12 | 2024-07-13 |
 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 | 2024-04-20 |
+| [TODO LO QUE TENGO](https://open.spotify.com/track/7g9MkDG1sBk9zazzGOaqXF) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [TODO LO QUE TENGO](https://open.spotify.com/album/2Xn78gLJkbchsxPqnMrMsd) | 3:30 | 2025-02-28 |  |
 | [Todo Lo Que Tengo](https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Todo Lo Que Tengo](https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn) | 1:51 | 2024-01-05 | 2024-02-24 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-12-15 | 2024-09-21 |
 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 | 2024-05-10 | 2024-07-13 |
@@ -332,7 +334,7 @@
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 | 2024-08-17 |
 | [Un Mono y un Perro](https://open.spotify.com/track/5AN27c3dK79zM44TZhHI9I) | [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1) | [Un Mono y un Perro](https://open.spotify.com/album/3AWmgOcRQ2adHG4pY6b3eV) | 3:09 | 2024-05-24 | 2024-09-07 |
 | [Un Preámbulo](https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Un Preámbulo](https://open.spotify.com/album/4N4NgsGFXOaiAiQxk87lwZ) | 3:26 | 2023-12-15 | 2024-03-16 |
-| [Un Rato Más](https://open.spotify.com/track/5Sps2GFDVRR4AARMFT5Psx) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Un Rato Más](https://open.spotify.com/album/0Kg7boJK6PpHrg6N53s4aL) | 3:04 | 2025-02-21 |  |
+| [Un Rato Más](https://open.spotify.com/track/5Sps2GFDVRR4AARMFT5Psx) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Un Rato Más](https://open.spotify.com/album/0Kg7boJK6PpHrg6N53s4aL) | 3:04 | 2025-02-21 | 2025-03-01 |
 | [Un Ángel Para Tu Soledad](https://open.spotify.com/track/0paoacUiJg3KaJWI4UQeQm) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [Un Ángel Para Tu Soledad](https://open.spotify.com/album/5FrGWO6KCgBT6P0VCigAmo) | 3:34 | 2024-02-23 |  |
 | [Una Mira En Mi Cuello](https://open.spotify.com/track/5ZBJg95EaCiSq9WrTMEYLN) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Una Mira En Mi Cuello](https://open.spotify.com/album/4KPPqQr0dXD9zBkh4X0u99) | 2:38 | 2024-12-27 |  |
 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 | 2023-12-15 | 2024-05-18 |

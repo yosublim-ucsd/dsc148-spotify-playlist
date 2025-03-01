@@ -1,13 +1,33 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Joya Marleen",
-  "num_followers": 1324690,
+  "description": "Discover your favorite new chill pop songs. Cover: d4vd & Kali Uchis",
+  "num_followers": 1324638,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIdAAAAAAHgSUneyqTzkK9bS0EXJjl",
+  "snapshot_id": "Z8FDCAAAAAA+izbobebH/E0ZfAZL3rf2",
   "tracks": [
+    {
+      "added_at": "2025-02-28 05:00:56",
+      "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
     {
       "added_at": "2025-02-07 05:00:38",
       "album": {
@@ -1383,22 +1403,6 @@
       "duration_ms": 137986,
       "name": "Matches",
       "url": "https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "When The Love Is Gone",
-        "url": "https://open.spotify.com/album/677wnRC7GJyzKYOYNEYJW3"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "When The Love Is Gone",
-      "url": "https://open.spotify.com/track/5xD7B3SkaisxolPwBN3Ez6"
     },
     {
       "added_at": "2024-05-31 04:00:00",

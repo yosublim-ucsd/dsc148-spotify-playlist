@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ela Taubert en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Esteman y Daniela Spalla en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
@@ -416,6 +416,28 @@
       "duration_ms": 144260,
       "name": "ALMA</3",
       "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
+    },
+    {
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153610,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
     },
     {
       "album": {
@@ -684,6 +706,24 @@
       "duration_ms": 193336,
       "name": "Aviones De Papel",
       "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
+    },
+    {
+      "album": {
+        "name": "AYQUETONTA",
+        "url": "https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "AYQUETONTA",
+      "url": "https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0"
     },
     {
       "album": {
@@ -1448,7 +1488,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 145920,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/2flqLk9roDhIhJ4nNqUZ7I"
@@ -2945,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "Estacionamiento",
+        "url": "https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235609,
+      "name": "Estacionamiento",
+      "url": "https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt"
+    },
+    {
+      "album": {
         "name": "Exclusivos",
         "url": "https://open.spotify.com/album/0fh4TVwLVCFHpzlt777dpy"
       },
@@ -4390,7 +4448,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 190773,
       "name": "Maldito Reggaeton",
       "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
@@ -4452,6 +4510,28 @@
       "duration_ms": 192133,
       "name": "Mamita Linda",
       "url": "https://open.spotify.com/track/5A61GAR6FphQb4THLvE4Tl"
+    },
+    {
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
     },
     {
       "album": {
@@ -5205,6 +5285,28 @@
     },
     {
       "album": {
+        "name": "N.I.T.",
+        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209220,
+      "name": "N.I.T.",
+      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
+    },
+    {
+      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/6erfuMaeSuWxZtVj9Ijjpa"
       },
@@ -5404,7 +5506,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 142135,
       "name": "No Ha Sido F\u00e1cil",
       "url": "https://open.spotify.com/track/3hZqPIMJkGF7mnivtVSyFn"
@@ -5470,6 +5572,28 @@
       "duration_ms": 157007,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+    },
+    {
+      "album": {
+        "name": "No pudimos ser </3",
+        "url": "https://open.spotify.com/album/3wnMvuFOaI2BHv5NLy6WbF"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188490,
+      "name": "no pudimos ser </3",
+      "url": "https://open.spotify.com/track/2Yovk3o959wt0HT5xxbuNM"
     },
     {
       "album": {
@@ -6061,6 +6185,24 @@
     },
     {
       "album": {
+        "name": "Perder La Cabeza",
+        "url": "https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Perder La Cabeza",
+      "url": "https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK"
+    },
+    {
+      "album": {
         "name": "Pereza",
         "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
       },
@@ -6372,7 +6514,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 149186,
       "name": "Que se Joda",
       "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
@@ -6682,7 +6824,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 159999,
       "name": "SAMPLE",
       "url": "https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN"
@@ -7220,7 +7362,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206365,
       "name": "Solo Di S\u00ed",
       "url": "https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c"
@@ -7538,7 +7680,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
@@ -7650,7 +7792,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"

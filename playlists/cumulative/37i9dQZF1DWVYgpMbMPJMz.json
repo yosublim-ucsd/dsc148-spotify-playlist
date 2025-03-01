@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Passion",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Red Rocks Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 392791,
       "name": "A New Eden - Live",
       "url": "https://open.spotify.com/track/15YSfwwIosOjmc3yGad6pn"
@@ -390,6 +390,28 @@
       "duration_ms": 239857,
       "name": "All Creatures (Sing the Harmony) - Live",
       "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
+    },
+    {
+      "album": {
+        "name": "Eden (Live)",
+        "url": "https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507541,
+      "name": "All Fall Down - Live",
+      "url": "https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4"
     },
     {
       "album": {
@@ -7204,7 +7226,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 261422,
       "name": "It Is Finished - Live",
       "url": "https://open.spotify.com/track/6JLnmZ7kiCDt0mrcsEwnPj"
@@ -8835,6 +8857,24 @@
     },
     {
       "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414363,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP"
+    },
+    {
+      "album": {
         "name": "Mighty Name of Jesus & This Place (Live)",
         "url": "https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr"
       },
@@ -9206,6 +9246,24 @@
       "duration_ms": 324000,
       "name": "My Deliverer",
       "url": "https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO"
+    },
+    {
+      "album": {
+        "name": "Hear the Hallelujahs Roar (Live)",
+        "url": "https://open.spotify.com/album/6vgvTv3D8U3thglUmwdGAA"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "My Labour is Not in Vain - Live",
+      "url": "https://open.spotify.com/track/26K5nTbirgaTT9SaEBYjx3"
     },
     {
       "album": {
@@ -10288,6 +10346,28 @@
       "duration_ms": 624840,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"
+    },
+    {
+      "album": {
+        "name": "Only the Father Remains",
+        "url": "https://open.spotify.com/album/1yj7Q4IEkqv4kUxdtCa260"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267656,
+      "name": "Only the Father Remains",
+      "url": "https://open.spotify.com/track/3BgTM3gsJWA6nd1EELUdsp"
     },
     {
       "album": {
@@ -12155,6 +12235,28 @@
     },
     {
       "album": {
+        "name": "So Much More (Live)",
+        "url": "https://open.spotify.com/album/0A3W9PWXZRiohthISHRmGf"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384542,
+      "name": "So Much More (Live)",
+      "url": "https://open.spotify.com/track/2amP8TnRkOy9VKD02DTWzd"
+    },
+    {
+      "album": {
         "name": "So Well",
         "url": "https://open.spotify.com/album/7d7BQugPSaDI8dJP9hm8ij"
       },
@@ -13048,7 +13150,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 309999,
       "name": "The Battle And The Blessing - Live",
       "url": "https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG"
@@ -13424,7 +13526,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 390657,
       "name": "The King Is Coming (Live)",
       "url": "https://open.spotify.com/track/3AR2Tp3BJlJh4Fwdn9RAcz"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Solardo, Darell, Zion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,587 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,546 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Noche](https://open.spotify.com/track/2osRPu8IcR8Uy2i7IChVrc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Noche](https://open.spotify.com/album/2AHMI2JrrwcibzSd6M3mPL) | 2:43 |
-| 2 | [ARGENTINA \(feat\. Alan Gomez, Midel, Elixir\)](https://open.spotify.com/track/6vdDwwHVYFj9VzQPr5bvUw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [ARGENTINA \(feat\. Alan Gomez, Midel, Elixir\)](https://open.spotify.com/album/1K9oeJTfpmJpKfdj9BMyHo) | 3:37 |
+| 2 | [ARGENTINA \(feat\. Midel, Elixir\)](https://open.spotify.com/track/6vdDwwHVYFj9VzQPr5bvUw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [ARGENTINA \(feat\. Midel, Elixir\)](https://open.spotify.com/album/1K9oeJTfpmJpKfdj9BMyHo) | 3:37 |
 | 3 | [Una Noche Más](https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Una Noche Más](https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep) | 2:41 |
 | 4 | [Secreto de Amor \- La Noche](https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Secreto de Amor \(La Noche\)](https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY) | 4:31 |
 | 5 | [Outside \(feat\. Eladio Carrion\)](https://open.spotify.com/track/56LRkFZsRR5qDpiDm5mek2) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 3:40 |

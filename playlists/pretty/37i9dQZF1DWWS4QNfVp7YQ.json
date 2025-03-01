@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 86862,
+  "num_followers": 86914,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Desma",
+        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Desma",
+      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz) [Alan Rosales & TBX Remix]",
         "url": "https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 142514,
       "name": "Baila Conmigo (feat. Kelly Ruiz) - Alan Rosales & TBX Remix",
       "url": "https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Desma",
-        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Desma",
-      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -235,26 +235,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Bao Bao",
-        "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
       "artists": [
         {
-          "name": "Tribal Stars",
-          "url": "https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR"
-        },
-        {
           "name": "Cachirula",
           "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Bao Bao",
-      "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -283,18 +275,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+        "name": "Bao Bao",
+        "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
       "artists": [
         {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+          "name": "Tribal Stars",
+          "url": "https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         }
       ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+      "duration_ms": 203076,
+      "name": "Bao Bao",
+      "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -343,122 +343,6 @@
       "duration_ms": 199712,
       "name": "Baila Tribal",
       "url": "https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
-      },
-      "artists": [
-        {
-          "name": "Dj Moys",
-          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
-        }
-      ],
-      "duration_ms": 90292,
-      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Chiquetere vs Rockstar Tribal Mix",
-        "url": "https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn"
-      },
-      "artists": [
-        {
-          "name": "Dj Gecko",
-          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
-        }
-      ],
-      "duration_ms": 203303,
-      "name": "Chiquetere vs Rockstar Tribal Mix",
-      "url": "https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Ya Se Tardaron",
-        "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
-      },
-      "artists": [
-        {
-          "name": "Fierro Pa Dubai",
-          "url": "https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze"
-        },
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        },
-        {
-          "name": "Maxx Gallo",
-          "url": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-        }
-      ],
-      "duration_ms": 175652,
-      "name": "Ya Se Tardaron",
-      "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Luego Luegito [Electro Huapango]",
-        "url": "https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k"
-      },
-      "artists": [
-        {
-          "name": "Dj Gecko",
-          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
-        },
-        {
-          "name": "Chunti",
-          "url": "https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Luego Luegito [Electro Huapango]",
-      "url": "https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "vaMos",
-        "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
-      },
-      "artists": [
-        {
-          "name": "Dj Rocka",
-          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
-        },
-        {
-          "name": "Dj Zetian",
-          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
-        },
-        {
-          "name": "Dj Monst3r5",
-          "url": "https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe"
-        }
-      ],
-      "duration_ms": 171432,
-      "name": "vaMos",
-      "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -487,6 +371,106 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Chiquetere vs Rockstar Tribal Mix",
+        "url": "https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn"
+      },
+      "artists": [
+        {
+          "name": "Dj Gecko",
+          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
+        }
+      ],
+      "duration_ms": 203303,
+      "name": "Chiquetere vs Rockstar Tribal Mix",
+      "url": "https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
+      },
+      "artists": [
+        {
+          "name": "Dj Moys",
+          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
+        }
+      ],
+      "duration_ms": 90292,
+      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Luego Luegito [Electro Huapango]",
+        "url": "https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k"
+      },
+      "artists": [
+        {
+          "name": "Dj Gecko",
+          "url": "https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ"
+        },
+        {
+          "name": "Chunti",
+          "url": "https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Luego Luegito [Electro Huapango]",
+      "url": "https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Ya Se Tardaron",
+        "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
+      },
+      "artists": [
+        {
+          "name": "Fierro Pa Dubai",
+          "url": "https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze"
+        },
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
+        },
+        {
+          "name": "Maxx Gallo",
+          "url": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
+        }
+      ],
+      "duration_ms": 175652,
+      "name": "Ya Se Tardaron",
+      "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "vaMos",
+        "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
+      },
+      "artists": [
+        {
+          "name": "Dj Rocka",
+          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
+        },
+        {
+          "name": "Dj Zetian",
+          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+        },
+        {
+          "name": "Dj Monst3r5",
+          "url": "https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe"
+        }
+      ],
+      "duration_ms": 171432,
+      "name": "vaMos",
+      "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Meneando Cadera",
         "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 131320,
       "name": "Meneando Cadera",
       "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-07-05 22:41:57",

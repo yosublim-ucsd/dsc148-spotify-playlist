@@ -2,7 +2,7 @@
 
 ### [Golden Ghazals](https://open.spotify.com/playlist/37i9dQZF1DXdsiL9gD4vAA)
 
-> Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
+> Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
 198 songs - 17 hr 48 min
 
@@ -41,7 +41,7 @@
 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 | 2021-12-01 |  |
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/0AhzeZYaFByVhvN7AP1Q1Y) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Hothon Se Chhu Lo Tum](https://open.spotify.com/album/7aU7dUrUsmYhPZeuUM61b5) | 6:39 | 2022-07-26 | 2023-02-17 |
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/17PEMtVwg0DaC5sBjUBdAl) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 6:40 | 2023-02-16 | 2024-04-19 |
-| [Chandni Ke Bagh Mein](https://open.spotify.com/track/2T4vQ6JHDNhRtitTOrcc85) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 6:29 | 2024-04-18 | 2025-01-01 |
+| [Chandni Ke Bagh Mein](https://open.spotify.com/track/2T4vQ6JHDNhRtitTOrcc85) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 6:29 | 2024-04-18 |  |
 | [Chandni Ke Bagh Mein](https://open.spotify.com/track/6T4AUanQF0Nhs7WHoMXujI) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 6:29 | 2023-02-27 | 2024-04-19 |
 | [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-10 |  |
 | [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 | 2023-03-23 | 2025-02-28 |
@@ -95,7 +95,7 @@
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 | 2024-04-19 |
 | [Humne Duniya](https://open.spotify.com/track/6Z2yW8WWkwnetkQTZecj2A) | [Maahirii Bose](https://open.spotify.com/artist/4MNIF4TvN3PcvanPUrmnCa) | [Humne Duniya](https://open.spotify.com/album/7gLaSEKiizil6HQJRGJjv7) | 4:59 | 2024-02-28 | 2024-07-23 |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
-| [Ikhtiyar](https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 4:36 | 2024-08-23 |  |
+| [Ikhtiyar](https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 4:36 | 2024-08-23 | 2025-03-01 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
 | [Is Kadar Aap](https://open.spotify.com/track/17Wa63bXPvwp6ebsZ4wND4) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/3kienetTHzkuMoInDjWAnn) | 5:58 | 2024-02-15 | 2024-04-19 |

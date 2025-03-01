@@ -274,7 +274,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 127706,
       "name": "Amor Verdadero Remix",
       "url": "https://open.spotify.com/track/6v7QyrBo8GEOqEGCtAhTU0"
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "ANSIEDAD",
+        "url": "https://open.spotify.com/album/2Lf1kSyAC72Y3FsMoHgq33"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "ANSIEDAD",
+      "url": "https://open.spotify.com/track/017AKkkZuM8woBy4FuTImM"
+    },
+    {
+      "album": {
         "name": "Celda 4",
         "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 215437,
       "name": "Antes Que Me Vaya",
       "url": "https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d"
@@ -2309,6 +2327,28 @@
     },
     {
       "album": {
+        "name": "Llego el Verano",
+        "url": "https://open.spotify.com/album/0JlCZjXB8rlXnbO9EEwmpc"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "El Menorcito",
+          "url": "https://open.spotify.com/artist/6Iprh29CKL9W8jXWXthxM7"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112915,
+      "name": "Llego el Verano",
+      "url": "https://open.spotify.com/track/0so7ejHtVsoxIFX6E91wp1"
+    },
+    {
+      "album": {
         "name": "LLEGU\u00c9 YO",
         "url": "https://open.spotify.com/album/0gBAdQq0uKOeiFxCjutBB9"
       },
@@ -3248,7 +3288,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 137598,
       "name": "Pa Tra",
       "url": "https://open.spotify.com/track/6ilUEo4KFRlGX1GTx7lrsM"

@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164303,
+  "num_followers": 164329,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAACcm6mYT2g/kTlrhRAv2eU7",
+  "snapshot_id": "Z7+rAAAAAAD0FjpIFiS9gqiHig/eq6oD",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente do C\u00e9u",
-        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
       },
       "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 253932,
-      "name": "Presente do C\u00e9u",
-      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+        "name": "Presente do C\u00e9u",
+        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
       },
       "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
+      "duration_ms": 253932,
+      "name": "Presente do C\u00e9u",
+      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fome",
-        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
-      },
-      "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "fome",
-      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "085 RMX",
         "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 163102,
       "name": "085 RMX",
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fome",
+        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "fome",
+      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
     },
     {
       "added_at": null,

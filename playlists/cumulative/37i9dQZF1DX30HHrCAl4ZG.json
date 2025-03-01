@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Sam Fender",
+  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -10295,6 +10295,24 @@
     },
     {
       "album": {
+        "name": "Felicity",
+        "url": "https://open.spotify.com/album/3qzIT1RVYObfgrhC1YKyU0"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Felicity",
+      "url": "https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH"
+    },
+    {
+      "album": {
         "name": "Fender",
         "url": "https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s"
       },
@@ -13455,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "How to Kill Houseplants",
+        "url": "https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208797,
+      "name": "How to Kill Houseplants",
+      "url": "https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO"
+    },
+    {
+      "album": {
         "name": "How You Like",
         "url": "https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A"
       },
@@ -15621,6 +15657,24 @@
     },
     {
       "album": {
+        "name": "The Moon Is In The Wrong Place (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31bGqyJu3AtpzlFzNoE1aM"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184010,
+      "name": "I\u2019m A Fool",
+      "url": "https://open.spotify.com/track/4cWO14OwuDqi2Bq9ox3TJH"
+    },
+    {
+      "album": {
         "name": "The Machine Starts To Sing",
         "url": "https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6"
       },
@@ -16587,6 +16641,24 @@
     },
     {
       "album": {
+        "name": "Lead Up",
+        "url": "https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318949,
+      "name": "Lead Up",
+      "url": "https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg"
+    },
+    {
+      "album": {
         "name": "Leash (Babygirl Original Soundtrack)",
         "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
       },
@@ -16714,6 +16786,28 @@
       "duration_ms": 253964,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO"
+    },
+    {
+      "album": {
+        "name": "Let Me Go (feat. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/52CoE2Gs06mid6NMkGDzLY"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/7nGN1Wu9kCaKUUdqBcY9NZ"
     },
     {
       "album": {
@@ -22533,6 +22627,24 @@
     },
     {
       "album": {
+        "name": "Sinister Grift",
+        "url": "https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211126,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
+    },
+    {
+      "album": {
         "name": "Preacher",
         "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
       },
@@ -26326,6 +26438,24 @@
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/7cUtZJswFDe6W9wRXMseZQ"
+    },
+    {
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/4Gyhp0b6LoWP89ZqYJApAi"
+      },
+      "artists": [
+        {
+          "name": "Pretty Jane",
+          "url": "https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/1r6E88xX2qVfyD8I1rNsix"
     },
     {
       "album": {

@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 337500,
       "name": "A Cat",
       "url": "https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV"
@@ -1488,6 +1488,24 @@
       "duration_ms": 303226,
       "name": "Cigarra",
       "url": "https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ"
+    },
+    {
+      "album": {
+        "name": "Bird Bath",
+        "url": "https://open.spotify.com/album/75iqNBTWqvaTRymTb1RuNB"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Circular Motion of the Nine Muses",
+      "url": "https://open.spotify.com/track/6m4urlbrwW3LkPCneYZpDe"
     },
     {
       "album": {
@@ -3327,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Ten Tales For The MTV Generation",
+        "url": "https://open.spotify.com/album/6Ro7MgoEuwxYLbafgwnGbU"
+      },
+      "artists": [
+        {
+          "name": "Colin McSloy",
+          "url": "https://open.spotify.com/artist/4l1job1otNmcXIkSN3oVNy"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168210,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
+    },
+    {
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
@@ -4122,6 +4158,24 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "album": {
+        "name": "Grosses Wasser",
+        "url": "https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129986,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/4yYTydreYQ4qBj2GdEKTB3"
     },
     {
       "album": {
@@ -5491,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201178,
+      "name": "Plantasia",
+      "url": "https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f"
+    },
+    {
+      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -5632,7 +5704,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
@@ -5801,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207697,
+      "name": "Rhapsody in Green",
+      "url": "https://open.spotify.com/track/6YWl0uGhdL50JtN63OvO52"
+    },
+    {
+      "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
         "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
       },
@@ -5816,6 +5906,24 @@
       "duration_ms": 270000,
       "name": "Rhythm-O-Green",
       "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
+    },
+    {
+      "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "album": {
@@ -5902,7 +6010,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 172866,
       "name": "Rothko Chapel 5",
       "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
@@ -5974,7 +6082,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 243200,
       "name": "Salt Dreams",
       "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
@@ -7064,7 +7172,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 64000,
       "name": "The Geranium Room",
       "url": "https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v"
@@ -8045,6 +8153,24 @@
     },
     {
       "album": {
+        "name": "Golden Pear",
+        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
+      },
+      "artists": [
+        {
+          "name": "Omni Gardens",
+          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Wild Marionberries",
+      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
+    },
+    {
+      "album": {
         "name": "Nurture",
         "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
       },
@@ -8164,7 +8290,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 132958,
       "name": "Yawn Machine",
       "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"

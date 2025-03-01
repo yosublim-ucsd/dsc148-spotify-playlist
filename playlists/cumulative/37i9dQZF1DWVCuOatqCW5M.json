@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover - 'Holi Aayi Re' by Vishal Mishra, Malini Awasthi & Prateeksha Srivastava",
+  "description": "Latest music from your fav I-Pop artists. Cover - Asees Kaur",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3353,6 +3353,32 @@
     },
     {
       "album": {
+        "name": "Bas Tera Hoon",
+        "url": "https://open.spotify.com/album/7q6m5ywaWv4bmr17iOoDkX"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251552,
+      "name": "Bas Tera Hoon",
+      "url": "https://open.spotify.com/track/2VJJQbdn8Ar5FV51a7sE8e"
+    },
+    {
+      "album": {
         "name": "Bas Tujhse Pyaar Ho",
         "url": "https://open.spotify.com/album/7f7sUKr0VLjEjwETcNjVYF"
       },
@@ -3554,7 +3580,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 265064,
       "name": "Begana",
       "url": "https://open.spotify.com/track/5bGfwF9UalwiwJXHrDxQhe"
@@ -4924,7 +4950,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 206025,
       "name": "Channa",
       "url": "https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O"
@@ -5314,6 +5340,24 @@
       "duration_ms": 250515,
       "name": "Chorr De",
       "url": "https://open.spotify.com/track/2LiBHmTq3MA6RhOR0wGsWd"
+    },
+    {
+      "album": {
+        "name": "Choti Si Baat",
+        "url": "https://open.spotify.com/album/3XTyGQYMEqLxUwJWrltb7l"
+      },
+      "artists": [
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292665,
+      "name": "Choti Si Baat",
+      "url": "https://open.spotify.com/track/73PlprGKv36zcgrkRGT9UO"
     },
     {
       "album": {
@@ -8894,7 +8938,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 268037,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/7Ls3ec0l4Kd2OZ3rPrgq0W"
@@ -9898,6 +9942,32 @@
       "duration_ms": 220122,
       "name": "Hasde Zara",
       "url": "https://open.spotify.com/track/4yklEkROSTXhh1ACqXX86O"
+    },
+    {
+      "album": {
+        "name": "Haseen",
+        "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        },
+        {
+          "name": "Rippy Grewal",
+          "url": "https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Haseen",
+      "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
     },
     {
       "album": {
@@ -18785,6 +18855,32 @@
     },
     {
       "album": {
+        "name": "Mili Teri Nazar",
+        "url": "https://open.spotify.com/album/3SpZyVl6NTvo9SyHghTGz3"
+      },
+      "artists": [
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Poonam Thakkar",
+          "url": "https://open.spotify.com/artist/139edUgfzSa1wMhVze3E3f"
+        },
+        {
+          "name": "Nancy Thakkar",
+          "url": "https://open.spotify.com/artist/3hVGFswXK07Vf8NlxhtydK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245183,
+      "name": "Mili Teri Nazar",
+      "url": "https://open.spotify.com/track/3zrNxs04kltzD9tDFKPzcv"
+    },
+    {
+      "album": {
         "name": "Minnatein",
         "url": "https://open.spotify.com/album/69hsxJ8iGjmehV0BfCczdj"
       },
@@ -19326,6 +19422,24 @@
       "duration_ms": 191294,
       "name": "My Heeriye",
       "url": "https://open.spotify.com/track/0ui3bXDUEDSFoLmd69Pa8r"
+    },
+    {
+      "album": {
+        "name": "Na Kaha",
+        "url": "https://open.spotify.com/album/1VdXaHW9lwroJ4VN6Sv1My"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "Na Kaha",
+      "url": "https://open.spotify.com/track/21QvgSRtFLMOfIXBDmWW7y"
     },
     {
       "album": {
@@ -22870,7 +22984,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 284420,
       "name": "Room Khali Hai",
       "url": "https://open.spotify.com/track/6JD6V3WNiTnqqoAE9scHAF"
@@ -27048,7 +27162,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 200286,
       "name": "Teri Parchaiyaan",
       "url": "https://open.spotify.com/track/109AAqLTd5S43loCceOl1x"

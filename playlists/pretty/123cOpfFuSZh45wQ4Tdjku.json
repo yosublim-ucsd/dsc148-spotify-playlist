@@ -6,7 +6,7 @@
     "name": "ash (Ashley)",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAABV+UxuxVV8Ppoa5rictcWqoQd1L8N",
+  "snapshot_id": "AAABWWDXdT160SPGV8gBl0a0AqRqIPVs",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -5271,6 +5271,46 @@
       "duration_ms": 284265,
       "name": "FURFAG",
       "url": "https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF"
+    },
+    {
+      "added_at": "2025-02-28 08:00:57",
+      "album": {
+        "name": "Confessions of a Rotten Girl",
+        "url": "https://open.spotify.com/album/6eaUMgU5URwsLllOml5Iwn"
+      },
+      "artists": [
+        {
+          "name": "SAWTOWNE",
+          "url": "https://open.spotify.com/artist/7FrCrchJaoLmKcn3jcGWoX"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Confessions of a Rotten Girl",
+      "url": "https://open.spotify.com/track/1dHVuQPNmn5rhRgOdD0WlF"
+    },
+    {
+      "added_at": "2025-02-28 08:01:01",
+      "album": {
+        "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc",
+        "url": "https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 156972,
+      "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
     }
   ],
   "unique_name": "My favourite furry songs",

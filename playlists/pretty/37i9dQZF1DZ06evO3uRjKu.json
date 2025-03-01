@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 71491,
+  "num_followers": 71500,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAAC5VjrWlA3j8scJLGogkY1Y",
+  "snapshot_id": "Z7+rAAAAAAA8HCLSasJ+Q7cinqAKofXW",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Fondo Profundo",
+      "url": "https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Auto Rojo (Remix)",
         "url": "https://open.spotify.com/album/6U4jJAZvgbKH0G6CRORBLS"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 156600,
       "name": "Auto Rojo - Remix",
       "url": "https://open.spotify.com/track/3i5JpMYOAbrdNNPxgZmp4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Fondo Profundo",
-      "url": "https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vilma Palma E Vampiros, Grandes Exitos",
-        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 411947,
-      "name": "Verano traidor",
-      "url": "https://open.spotify.com/track/54b9f1JmWzssvXIvBogR2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 343440,
       "name": "Voy a Vos",
       "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 411947,
+      "name": "Verano traidor",
+      "url": "https://open.spotify.com/track/54b9f1JmWzssvXIvBogR2u"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vilma Palma E Vampiros, Grandes Exitos",
-        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Todo lo que fue",
-      "url": "https://open.spotify.com/track/323QM9uKGd3QmvH5G2JaBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
         "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 217333,
       "name": "Salvando Vidas - En Vivo",
       "url": "https://open.spotify.com/track/7LSJtOR7izWSEljRyLQb8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Todo lo que fue",
+      "url": "https://open.spotify.com/track/323QM9uKGd3QmvH5G2JaBE"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vilma Palma E Vampiros, Grandes Exitos",
-        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 185080,
-      "name": "cumbia",
-      "url": "https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Histeria",
         "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 252354,
       "name": "Borracho Hasta El Amanecer",
       "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vilma Palma E Vampiros, Grandes Exitos",
+        "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 185080,
+      "name": "cumbia",
+      "url": "https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 317413,
+      "name": "No Me Hagas Callar",
+      "url": "https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vilma Palma E Vampiros, Grandes Exitos",
         "url": "https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 221746,
       "name": "Vuelve A Comenzar",
       "url": "https://open.spotify.com/track/7MrnizaZmYy9OPY6aAW12l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 317413,
-      "name": "No Me Hagas Callar",
-      "url": "https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 267654,
       "name": "Todo por Esta Cancion",
       "url": "https://open.spotify.com/track/583falna8SnSHTYDCMSVVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": null,

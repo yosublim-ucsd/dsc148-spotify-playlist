@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70966,
+  "num_followers": 70968,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAADvFHqI+Jh5JThQEMxRDf8Z",
+  "snapshot_id": "Z7+rAAAAAABWZybqI7fJweMDXoarxTIG",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 214986,
       "name": "El List\u00f3n de Tu Pelo",
       "url": "https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -1023,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cantina",
-        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Flaco Jimenez",
-          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
-        },
-        {
-          "name": "Max Baca",
-          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "El Relampago",
-      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coraz\u00f3n - Live From Mexico: Live It To Believe It",
         "url": "https://open.spotify.com/album/5Pf54lJ07uRn4dqJYS7Fhp"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 315000,
       "name": "Una Noche en N\u00e1poles (feat. Lila Downs, Ni\u00f1a Pastori & Soledad) - Live",
       "url": "https://open.spotify.com/track/6SqV8sX6cfQ7ZK48uVhI6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cantina",
+        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        },
+        {
+          "name": "Max Baca",
+          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "El Relampago",
+      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
     }
   ],
   "unique_name": "This Is Lila Downs",

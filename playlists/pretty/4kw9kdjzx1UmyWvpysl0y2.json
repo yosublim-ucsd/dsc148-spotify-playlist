@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125420,
+  "num_followers": 125421,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATvPP/Fltf2rrFcohp6w+ZMY6ITKLl",
+  "snapshot_id": "AAATvbt+bHdawGHD/a11RtwbPz4TXmeq",
   "tracks": [
+    {
+      "added_at": "2025-02-28 15:31:03",
+      "album": {
+        "name": "1 MAN ARMY",
+        "url": "https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "duration_ms": 198677,
+      "name": "1 Man Army",
+      "url": "https://open.spotify.com/track/5PVplB3e8qidkOZrdHrbKg"
+    },
     {
       "added_at": "2025-02-27 15:10:55",
       "album": {

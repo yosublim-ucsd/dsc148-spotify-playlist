@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 417263,
+  "num_followers": 417373,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z75ZgAAAAAC9XvWDAsLFoG9XPkEySxZW",
+  "snapshot_id": "Z7+rAAAAAABxXJp+Q2P5bDcwLj57d+8K",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Lion",
-        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 252884,
-      "name": "Young Lion",
-      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
+      "duration_ms": 219200,
+      "name": "Be That Easy",
+      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Young Lion",
+        "url": "https://open.spotify.com/album/7sHuamApJfc919wUeRXZ3U"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 252884,
+      "name": "Young Lion",
+      "url": "https://open.spotify.com/track/4RE2d0lbKxbndeTy73eu4d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Be That Easy",
-      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+      "duration_ms": 247266,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 248373,
       "name": "Love Is Found",
       "url": "https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soldier of Love",
-        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Bring Me Home",
-      "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
     },
     {
       "added_at": null,

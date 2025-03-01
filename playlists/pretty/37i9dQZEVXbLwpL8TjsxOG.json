@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 115063,
+  "num_followers": 115073,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L1PVIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L1UmoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u767d\u679c",
         "url": "https://open.spotify.com/album/3ivzUnVBuoaFa8Yl32gkiN"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3RSo9nydGrGTIRz4WKhE66"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "I Need You In My Li(f)e (ViuTV\u5287\u96c6 \u300c\u7121\u7528\u7684\u8b0a\u8a00\u300d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6luOeRoLFaLb1ZA60hJ9PQ"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/31DFL3AiVPjGUAnSlEHTyK"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u597d\u5f97\u592a\u904e\u4efd",
-        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "\u597d\u5f97\u592a\u904e\u4efd",
-      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u8aaa\u8b0a\u8005",
         "url": "https://open.spotify.com/album/18MdItcgoV9V7ow0b5GlYh"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/1R116HqW5ECo5VRjeewhM9"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u597d\u5f97\u592a\u904e\u4efd",
+        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "\u597d\u5f97\u592a\u904e\u4efd",
+      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Every Single Time",
         "url": "https://open.spotify.com/album/1gwNl7ngGZeNb1TEJog5eg"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/1Y6JqAA9wRlgVMLpDnASah"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -129,7 +129,43 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u81f4\u6211",
+        "url": "https://open.spotify.com/album/5Mg69XJhcguD5u2nXCSv2z"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 232940,
+      "name": "\u81f4\u6211",
+      "url": "https://open.spotify.com/track/0FgvyfBRIWBwYaoAKaotHO"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
@@ -153,59 +189,7 @@
       "url": "https://open.spotify.com/track/5doooVlMVRZztQbySqARMI"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u81f4\u6211",
-        "url": "https://open.spotify.com/album/5Mg69XJhcguD5u2nXCSv2z"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 232940,
-      "name": "\u81f4\u6211",
-      "url": "https://open.spotify.com/track/0FgvyfBRIWBwYaoAKaotHO"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 234772,
-      "name": "DRAMA",
-      "url": "https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -225,43 +209,23 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "\u9ed1\u6708",
-        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
+        "name": "Hey Hey OK!",
+        "url": "https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m"
       },
       "artists": [
         {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
         }
       ],
-      "duration_ms": 205826,
-      "name": "\u9ed1\u6708",
-      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
+      "duration_ms": 197347,
+      "name": "Hey Hey OK!",
+      "url": "https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 153664,
-      "name": "TOO BAD",
-      "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -277,7 +241,23 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u9ed1\u6708",
+        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "\u9ed1\u6708",
+      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "ExtraL (feat. Doechii)",
         "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
@@ -297,23 +277,43 @@
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "Hey Hey OK!",
-        "url": "https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m"
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 197347,
-      "name": "Hey Hey OK!",
-      "url": "https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77"
+      "duration_ms": 234772,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 153664,
+      "name": "TOO BAD",
+      "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u5ca9\u5dc9",
         "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u4e00\u767e\u500b\u672a\u8001\u5148\u8870\u7684\u65b9\u6cd5",
         "url": "https://open.spotify.com/album/3rMaeLPzHfg3GcNjqA2AgG"
@@ -345,23 +345,7 @@
       "url": "https://open.spotify.com/track/33zXfdqtSYhvfdoRrEdiRH"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 190806,
-      "name": "earthquake",
-      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Jumping Machine (\u8df3\u697c\u673a)",
         "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
@@ -393,55 +377,23 @@
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
       "artists": [
         {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 143242,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc"
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 219004,
-      "name": "TAKE ME",
-      "url": "https://open.spotify.com/track/3vIkVVbhpMvsOJ1BKWT0nT"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "Inner l Child",
-        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "\u9ed1\u73bb\u7483",
-      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
         "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
@@ -457,7 +409,23 @@
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "Inner l Child",
+        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "\u9ed1\u73bb\u7483",
+      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -473,7 +441,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u6df1\u95a8",
         "url": "https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9"
@@ -489,7 +457,7 @@
       "url": "https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
@@ -500,28 +468,28 @@
           "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 193071,
-      "name": "IBELONGIIU",
-      "url": "https://open.spotify.com/track/4C2KCXzqC0kwNyTilyRLUx"
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "MY LIFE",
-        "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 208854,
-      "name": "MY LIFE",
-      "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
+      "duration_ms": 219004,
+      "name": "TAKE ME",
+      "url": "https://open.spotify.com/track/3vIkVVbhpMvsOJ1BKWT0nT"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -537,7 +505,23 @@
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "MY LIFE",
+        "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "MY LIFE",
+      "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u4ee5\u5b64\u7368\u547d\u540d",
         "url": "https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X"
@@ -553,7 +537,7 @@
       "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u6211\u5011\u4ec0\u9ebc\u90fd\u4e0d\u662f It\u2019s nothing",
         "url": "https://open.spotify.com/album/5SbIKBiNJSfOdBQaboeC65"
@@ -569,7 +553,7 @@
       "url": "https://open.spotify.com/track/0iUXhsKAxMnyHWJqZQIjSp"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u73a9\u5076\u5947\u9047\u8a18",
         "url": "https://open.spotify.com/album/0h9vXUEeAfK52pujHyOaY2"
@@ -585,39 +569,7 @@
       "url": "https://open.spotify.com/track/1hf26XBrWNvfKiOeXU2Vtk"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "NPC\u7684\u4e00\u5834\u610f\u5916",
         "url": "https://open.spotify.com/album/23InlFS43Q9t1UH8g6gVrc"
@@ -633,23 +585,7 @@
       "url": "https://open.spotify.com/track/2xoPgjS9kp36190AhzVyKB"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 195536,
-      "name": "\ubcf4\ub098\ub9c8\ub098 (BONAMANA)",
-      "url": "https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u7dca\u6025\u806f\u7d61\u4eba",
         "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
@@ -665,7 +601,23 @@
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
@@ -689,7 +641,23 @@
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
@@ -709,7 +677,23 @@
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 193071,
+      "name": "IBELONGIIU",
+      "url": "https://open.spotify.com/track/4C2KCXzqC0kwNyTilyRLUx"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -725,23 +709,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "GYRO-DROP",
-      "url": "https://open.spotify.com/track/1jZBYmBLMTEtRvUB1w2QeF"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -757,23 +725,7 @@
       "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
-      "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
-    },
-    {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u666e\u6e21\u773e\u751f (\u300a\u7834\uff0e\u5730\u7344\u300b THE LAST DANCE \u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1BtkZSoKfOpQGVvJals1gp"
@@ -789,23 +741,23 @@
       "url": "https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "\u5c0f\u5fc3\u78b0\u982d",
         "url": "https://open.spotify.com/album/1s43unuwwZCMAwFb6Yppwg"
@@ -821,7 +773,43 @@
       "url": "https://open.spotify.com/track/4UVccKUI1aiZ17lecEfbNu"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "Let go",
+        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "duration_ms": 230581,
+      "name": "Let go",
+      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
       "album": {
         "name": "EMO",
         "url": "https://open.spotify.com/album/78sxO8qhn7UpQ9m9ACO3Lb"
@@ -837,24 +825,36 @@
       "url": "https://open.spotify.com/track/5mcbg5lIyu9Ht9Eo0RNoxW"
     },
     {
-      "added_at": "2025-02-27 12:31:55",
+      "added_at": "2025-02-28 12:56:49",
       "album": {
-        "name": "\u6211\u611f\u89ba\u5230",
-        "url": "https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU"
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
       },
       "artists": [
         {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        },
-        {
-          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
-          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 273610,
-      "name": "\u6211\u611f\u89ba\u5230",
-      "url": "https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz"
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2025-02-28 12:56:49",
+      "album": {
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 195536,
+      "name": "\ubcf4\ub098\ub9c8\ub098 (BONAMANA)",
+      "url": "https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Ray Bull",
+  "description": "Underground indie rock gems. Cover: Model/Actriz",
   "name": "undercurrents",
   "tracks": [
     {
@@ -3761,6 +3761,42 @@
     },
     {
       "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/66hxxcnB5jqZm6wxgHUabu"
+      },
+      "artists": [
+        {
+          "name": "Colin Miller",
+          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/5wkPrNPC9DFUCyLIJ9wytE"
+    },
+    {
+      "album": {
+        "name": "Cakewalk",
+        "url": "https://open.spotify.com/album/4O0BvFqTYyPpyGsx9q1vSz"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141082,
+      "name": "Cakewalk",
+      "url": "https://open.spotify.com/track/4LN7y6UTtENmM9ilmmq4zA"
+    },
+    {
+      "album": {
         "name": "Call Me Home",
         "url": "https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc"
       },
@@ -4576,6 +4612,24 @@
       "duration_ms": 196000,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
+    },
+    {
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274012,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG"
     },
     {
       "album": {
@@ -8303,6 +8357,24 @@
     },
     {
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/0sC3SDpmoWiRKwB9PthRph"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143395,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/5CGGTKG06WAuWphG7ZJeza"
+    },
+    {
+      "album": {
         "name": "Faster Than The Medicine",
         "url": "https://open.spotify.com/album/1hKdTw7oqAH8sdObuiFkqT"
       },
@@ -10342,6 +10414,24 @@
     {
       "album": {
         "name": "Hammer",
+        "url": "https://open.spotify.com/album/6u8q6zqRY4QFxpnjJIIHLq"
+      },
+      "artists": [
+        {
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/2RamsZF43V7p6POXrQ44cM"
+    },
+    {
+      "album": {
+        "name": "Hammer",
         "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
       },
       "artists": [
@@ -10450,6 +10540,24 @@
       "duration_ms": 266544,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/10GrSejQ7WMLBtQCnrynig"
+    },
+    {
+      "album": {
+        "name": "HANNAH",
+        "url": "https://open.spotify.com/album/7s5waXjOyndvlPAGLWIJml"
+      },
+      "artists": [
+        {
+          "name": "AKA BK",
+          "url": "https://open.spotify.com/artist/0X4QGHQMh6BJOjveGen7b0"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "HANNAH",
+      "url": "https://open.spotify.com/track/7bQHlxL6JDQTNrT2PMO5Lt"
     },
     {
       "album": {
@@ -11343,6 +11451,24 @@
     },
     {
       "album": {
+        "name": "Holly",
+        "url": "https://open.spotify.com/album/02jrq50utCBlSaXIrd3QoV"
+      },
+      "artists": [
+        {
+          "name": "Casino Hearts",
+          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234485,
+      "name": "Holly",
+      "url": "https://open.spotify.com/track/5SXGNY8iwTa4TlgR6xdNMM"
+    },
+    {
+      "album": {
         "name": "Holly Holly",
         "url": "https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7"
       },
@@ -11582,6 +11708,24 @@
       "duration_ms": 271600,
       "name": "Hot and Clumsy",
       "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
+    },
+    {
+      "album": {
+        "name": "Hot Friend",
+        "url": "https://open.spotify.com/album/19xWGXCXeaC02R2JX0VH9L"
+      },
+      "artists": [
+        {
+          "name": "SMILE",
+          "url": "https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243652,
+      "name": "Hot Friend",
+      "url": "https://open.spotify.com/track/0j2nyOdTNjc27Dd3wYjnkd"
     },
     {
       "album": {
@@ -13031,6 +13175,32 @@
     },
     {
       "album": {
+        "name": "Infinity Inside a Shopping Cart",
+        "url": "https://open.spotify.com/album/4Ecc1jEyNT4W4BlPyXJ9Cu"
+      },
+      "artists": [
+        {
+          "name": "Attention Bird Utopia",
+          "url": "https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o"
+        },
+        {
+          "name": "Harrison Whitford",
+          "url": "https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8"
+        },
+        {
+          "name": "Eli Hirsch",
+          "url": "https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Infinity Inside a Shopping Cart",
+      "url": "https://open.spotify.com/track/4Hd3QNdIvSbXcw0GBsDdQK"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF"
       },
@@ -14024,6 +14194,24 @@
       "duration_ms": 245853,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA"
+    },
+    {
+      "album": {
+        "name": "Ladybug",
+        "url": "https://open.spotify.com/album/2sMqlpJJPsN7mB5ei2HSjp"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/41FdvZ4dl6CMZsOc5fg9zS"
     },
     {
       "album": {
@@ -19002,6 +19190,24 @@
       "duration_ms": 300000,
       "name": "reasons",
       "url": "https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC"
+    },
+    {
+      "album": {
+        "name": "Movies",
+        "url": "https://open.spotify.com/album/137J7ZwtKlnRNbjiQS0MlV"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255743,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/3cOJaWwa5MmirlH6BVheMZ"
     },
     {
       "album": {
@@ -24448,6 +24654,24 @@
       "duration_ms": 173814,
       "name": "Turning",
       "url": "https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97"
+    },
+    {
+      "album": {
+        "name": "The Moon Is a Harsh Mistress",
+        "url": "https://open.spotify.com/album/0wzsNoLN1rzCYi8QhtGe5Y"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122866,
+      "name": "Turns Out",
+      "url": "https://open.spotify.com/track/0J44KtQTje94RvWPLzFXt2"
     },
     {
       "album": {

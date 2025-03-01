@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: YADAM",
+  "description": "Fresh Latin Indie you should know. Cover: Andrea Bejar",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
@@ -4856,10 +4856,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 276613,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
+    },
+    {
+      "album": {
+        "name": "Estacionamiento",
+        "url": "https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235609,
+      "name": "Estacionamiento",
+      "url": "https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt"
     },
     {
       "album": {
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 189600,
       "name": "ETERNO RESPLANDOR",
       "url": "https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 213750,
       "name": "hawaii en invierno",
       "url": "https://open.spotify.com/track/4Q16s0BoPTTprvzFbWTIR8"
@@ -7528,7 +7546,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 191282,
       "name": "lo que dura la canci\u00f3n",
       "url": "https://open.spotify.com/track/0Tn2iauUDbOKWpP3et4Wuz"
@@ -9706,6 +9724,24 @@
       "duration_ms": 258618,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/4XHKwr7C9fymzCCCAzDvW0"
+    },
+    {
+      "album": {
+        "name": "Necesito Que Me Arranques De Ti",
+        "url": "https://open.spotify.com/album/5UfNLgBVSNX3x8ddeQz8ph"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Necesito Que Me Arranques De Ti",
+      "url": "https://open.spotify.com/track/3Vf0KIbzv9tky7AUO9iPX1"
     },
     {
       "album": {
@@ -12887,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Si Hoy Me Muero",
+        "url": "https://open.spotify.com/album/7kdgGgjCYxWUOJe2V5T0Jv"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Si Hoy Me Muero",
+      "url": "https://open.spotify.com/track/0lFT8KPtTQJTFA6t0KSXhI"
+    },
+    {
+      "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
@@ -13464,6 +13518,24 @@
       "duration_ms": 178166,
       "name": "Space Parade",
       "url": "https://open.spotify.com/track/5XHZv1rBmLCGzGiAHV5m6G"
+    },
+    {
+      "album": {
+        "name": "Splendido",
+        "url": "https://open.spotify.com/album/5vqb6U72TsrOHspbTVu0qB"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Splendido",
+      "url": "https://open.spotify.com/track/2TVlHotQLlDB9qvjpepm41"
     },
     {
       "album": {
@@ -14116,6 +14188,24 @@
       "duration_ms": 174253,
       "name": "Te Vi Mudar",
       "url": "https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU"
+    },
+    {
+      "album": {
+        "name": "Tears in the Kitchen",
+        "url": "https://open.spotify.com/album/3rHx3MOvb2naZVaF4FO76p"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174479,
+      "name": "Tears in the Kitchen",
+      "url": "https://open.spotify.com/track/5oMoGqIQH0fgLo21cEKAvD"
     },
     {
       "album": {

@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Live from the Damn Near Normal Tour",
+        "url": "https://open.spotify.com/album/2oa6sd6X59IMadOEMqQTUp"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226243,
+      "name": "Casamigos - Live from Colonial Life Arena, Columbia, SC",
+      "url": "https://open.spotify.com/track/2RAaiAboC74WJyyXJi5CFl"
+    },
+    {
+      "album": {
         "name": "Catching Up",
         "url": "https://open.spotify.com/album/1fWou5z7IOvui57IOrRCDV"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 184706,
       "name": "girl you're taking home",
       "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 194654,
       "name": "ONCE - WEDDING VERSION",
       "url": "https://open.spotify.com/track/3S8tOlOeJfhWcRdP24JN7d"
@@ -4744,6 +4762,24 @@
       "duration_ms": 211991,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
+    },
+    {
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/2Jyt1jchFhX1gLg4oS0gpl"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/54JWeEEIyxOZuLw17JgL5V"
     },
     {
       "album": {

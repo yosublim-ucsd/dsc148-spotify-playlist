@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Antes do Sol Expandir",
+        "url": "https://open.spotify.com/album/0GzzwwjXtHyqhKa8uHZzuS"
+      },
+      "artists": [
+        {
+          "name": "Velhos Aspargos",
+          "url": "https://open.spotify.com/artist/7wvHpAB3jtKp1dvquafebq"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220630,
+      "name": "Antes do Sol Expandir",
+      "url": "https://open.spotify.com/track/1blFj3NOSkDuo4fn5Q9biK"
+    },
+    {
+      "album": {
         "name": "ANTICORPOS",
         "url": "https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M"
       },
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 204893,
       "name": "Da Vida",
       "url": "https://open.spotify.com/track/3QvFljDpGAm0dG8gWtEauH"
@@ -4400,6 +4418,24 @@
       "duration_ms": 188689,
       "name": "Livre",
       "url": "https://open.spotify.com/track/2fKFoftNXdH6FWoYjEacx0"
+    },
+    {
+      "album": {
+        "name": "Livre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Gfl3q8I2HZcwn2fHFsRPC"
+      },
+      "artists": [
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/572YfgMpcF2gIvMVswqZlB"
     },
     {
       "album": {
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 161079,
       "name": "PROFETA",
       "url": "https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7"

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Crazy Stupid Love",
+        "url": "https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Crazy Stupid Love",
+      "url": "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns"
+    },
+    {
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
       },

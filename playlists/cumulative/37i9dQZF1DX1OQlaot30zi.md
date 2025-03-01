@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Flaco G, Shiva e tanti altri 🔥
 
-4,984 songs - 9 day 6 hr 54 min
+4,985 songs - 9 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3814,6 +3814,7 @@
 | [RESTANDO SVEGLIO](https://open.spotify.com/track/2ltjvU8KqMlrw4XGaVsY3v) | [Unknown\_2cc](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [RESTANDO SVEGLIO](https://open.spotify.com/album/7qqp5sJELuptPOvRX8qrF7) | 1:28 | 2025-01-17 | 2025-02-07 |
 | [Restare \(feat\. Lazza\)](https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:46 | 2023-05-25 | 2023-06-16 |
 | [Restiamo Soli \(feat\. Fabri Fibra\)](https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:16 | 2023-12-14 | 2024-01-12 |
+| [Retata](https://open.spotify.com/track/0vNPwcN99CXpJxpztRUVf2) | [Boyka](https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK) | [Retata](https://open.spotify.com/album/5f45luzzCWfNFvumEJv0Q8) | 2:47 | 2025-02-28 |  |
 | [Rey Mysterio](https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Rey Mysterio](https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo) | 3:06 | 2024-09-26 | 2024-10-04 |
 | [RFTS 1 \(Freestyle\)](https://open.spotify.com/track/4CvxrB8iJoMvi4msyflPh6) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 1 \(Freestyle\)](https://open.spotify.com/album/7rqzZPRYmDIGxHrLySd2V2) | 1:47 | 2022-05-10 | 2022-05-13 |
 | [RFTS 2 \(Freestyle\)](https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 2 \(Freestyle\)](https://open.spotify.com/album/2cgpTKFKtfQ52DYZnV6qJG) | 2:21 | 2022-05-10 | 2022-05-18 |

@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Cold Cold Rain",
+        "url": "https://open.spotify.com/album/4mLS4xeN1f84CqKKqTDqMy"
+      },
+      "artists": [
+        {
+          "name": "Janet Evra",
+          "url": "https://open.spotify.com/artist/0NTdVSX455k116Wpsv7Kl1"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175070,
+      "name": "Cold Cold Rain",
+      "url": "https://open.spotify.com/track/1YybV3nGg1XrwKoM2PN1Oy"
+    },
+    {
+      "album": {
         "name": "Colloquially",
         "url": "https://open.spotify.com/album/3ymtSnu23oE9Z6XjZmqWce"
       },
@@ -3244,6 +3262,28 @@
       "duration_ms": 224836,
       "name": "D'un feu secret",
       "url": "https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf"
+    },
+    {
+      "album": {
+        "name": "Dark and Lovely",
+        "url": "https://open.spotify.com/album/01dK18wyaylbyzfSaHpBHu"
+      },
+      "artists": [
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Evan Roberson",
+          "url": "https://open.spotify.com/artist/3c6kTutNRrIlGEEmN2acdX"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239767,
+      "name": "Dark and Lovely",
+      "url": "https://open.spotify.com/track/7bKnhhx9spNVHovrH6XZOv"
     },
     {
       "album": {
@@ -4130,6 +4170,24 @@
       "duration_ms": 234777,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/2aSj7bfPQzvHArWqlZGY3L"
+    },
+    {
+      "album": {
+        "name": "Ev\u2019ry Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283213,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX"
     },
     {
       "album": {
@@ -5314,7 +5372,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 100000,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/2XHZQMfaIft1QP0RFSl56F"
@@ -8794,7 +8852,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 300173,
       "name": "Love And Let Love",
       "url": "https://open.spotify.com/track/58YV1xj3V3TXkXlfIXFkhU"
@@ -9318,6 +9376,24 @@
       "duration_ms": 217454,
       "name": "Marina",
       "url": "https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9"
+    },
+    {
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "album": {
@@ -10840,7 +10916,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 192250,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6n7ooz0vPMRSrxEhmgTkTH"
@@ -11036,7 +11112,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 134987,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3"
@@ -12911,6 +12987,28 @@
     },
     {
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/5vaxC58sbSyUBcb2lIcJpL"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442715,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/0yxvhBHYlnbswQtcO2gpY6"
+    },
+    {
+      "album": {
         "name": "Steppin' Out With My Baby",
         "url": "https://open.spotify.com/album/1UkCpyDCYHCPFpE6WpiRvs"
       },
@@ -13942,7 +14040,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 239945,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD"

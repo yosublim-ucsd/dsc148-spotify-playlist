@@ -2,9 +2,9 @@
 
 ### [2010s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX97h7ftpNSYT)
 
-> Taking it back to the 2010s\. Cover: Chief Keef
+> Taking it back to the 2010s\. Cover: Big Sean
 
-632 songs - 1 day 14 hr 1 min
+633 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 | 2021-08-13 |  |
 | [Blasé \(feat\. Future & Rae Sremmurd\)](https://open.spotify.com/track/5suEtW2DUAfvroohjzgatb) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Free TC](https://open.spotify.com/album/2DtLmzu6cCDYO9U53a6hRA) | 4:45 | 2022-04-13 | 2022-05-13 |
 | [BLEACH](https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 4:33 | 2022-07-01 | 2023-01-14 |
-| [Blessings](https://open.spotify.com/track/1bzM1cd6oqFozdr4wK6HdR) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:12 | 2021-09-03 | 2022-04-21 |
+| [Blessings](https://open.spotify.com/track/1bzM1cd6oqFozdr4wK6HdR) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:12 | 2021-09-03 |  |
 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 | 2021-08-13 | 2023-07-01 |
 | [Blue Laces 2](https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:10 | 2022-04-13 | 2022-06-17 |
 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 | 2022-04-13 | 2022-05-22 |
@@ -274,6 +274,7 @@
 | [How It Feel](https://open.spotify.com/track/3ewyalkHgv1riGfwcEMTgg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 3:39 | 2022-09-09 | 2022-11-19 |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2021-08-13 | 2022-06-30 |
 | [Hussle & Motivate](https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:18 | 2021-09-03 | 2023-03-04 |
+| [I Don't Fuck With You](https://open.spotify.com/track/4qo0aBXSAj5WaXzpKzcXWj) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 4:44 | 2025-02-28 |  |
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2021-09-03 | 2022-06-23 |
 | [I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:53 | 2022-12-16 |  |
 | [I Don't Like](https://open.spotify.com/track/2ikkgfIIM9kGKZCXzXnTpj) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 4:53 | 2021-09-03 | 2022-07-02 |
@@ -588,7 +589,7 @@
 | [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 | 2021-08-13 |  |
 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/4DyBx5MYoq8RsU33cEAIxT) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/45TU0GIOO5AxFoiOPk08i1) | 2:46 | 2022-02-25 | 2022-04-19 |
 | [Type Of Way](https://open.spotify.com/track/0YKvEXArXE4GeGzqCsaifN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Type Of Way](https://open.spotify.com/album/6bC3wMBoe3KHiTdClzG5hg) | 4:16 | 2022-02-25 | 2022-03-21 |
-| [U Guessed It](https://open.spotify.com/track/4UUFTQKwwId0n1P9t4ZQhx) | [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [U Guessed It \- Single](https://open.spotify.com/album/6l64G9syOrb21VIigX06oQ) | 2:26 | 2022-02-25 |  |
+| [U Guessed It](https://open.spotify.com/track/4UUFTQKwwId0n1P9t4ZQhx) | [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [U Guessed It \- Single](https://open.spotify.com/album/6l64G9syOrb21VIigX06oQ) | 2:26 | 2022-02-25 | 2025-03-01 |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2022-02-25 |  |
 | [untitled 02 \| 06.23.2014.](https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 4:18 | 2022-07-01 | 2022-07-06 |
 | [Up](https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:19 | 2022-04-13 | 2022-04-27 |
@@ -619,7 +620,7 @@
 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 | 2021-09-03 | 2022-03-21 |
 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 | 2021-09-03 | 2022-05-28 |
 | [Who Dat Boy \(feat\. A$AP Rocky\)](https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:25 | 2022-04-13 | 2024-11-18 |
-| [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 | 2021-09-03 |  |
+| [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 | 2021-09-03 | 2025-03-01 |
 | [Why You Always Hatin?](https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4) | 3:16 | 2021-09-03 | 2022-05-10 |
 | [Wicked](https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:53 | 2022-04-13 | 2022-07-18 |
 | [WIN](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:35 | 2022-02-25 | 2022-07-29 |

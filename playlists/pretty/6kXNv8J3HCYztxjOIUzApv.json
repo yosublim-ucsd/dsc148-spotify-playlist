@@ -1,13 +1,33 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60993,
+  "num_followers": 61010,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIocCz+OigVOtfC4LHKCEzuui/5nJv",
+  "snapshot_id": "AAAIpVao4w9eMBDGb9dWJkDjeDQ5nV/n",
   "tracks": [
+    {
+      "added_at": "2025-02-28 17:36:30",
+      "album": {
+        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
+    },
     {
       "added_at": "2025-02-07 17:46:08",
       "album": {

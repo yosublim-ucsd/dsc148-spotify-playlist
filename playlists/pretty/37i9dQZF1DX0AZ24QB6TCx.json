@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 313988,
+  "num_followers": 314018,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Laika.",
-        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        },
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 180458,
-      "name": "Laika.",
-      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 247730,
       "name": "Envy",
       "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Laika.",
+        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 180458,
+      "name": "Laika.",
+      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
       },
       "artists": [
         {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
+      "duration_ms": 230074,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 259039,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 230074,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         }
       ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -727,6 +711,22 @@
       "duration_ms": 228196,
       "name": "Firmoral",
       "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Blissda",
-        "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 343332,
-      "name": "Blissda",
-      "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 467086,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Blissda",
+        "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Some Type of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Kaleidoscope Colours (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 322879,
       "name": "Kaleidoscope Colours - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Some Type of Skin - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0"
     },
     {
       "added_at": "2024-08-09 18:28:29",

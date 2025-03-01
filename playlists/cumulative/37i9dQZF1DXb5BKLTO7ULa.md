@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Claude
 
-9,963 songs - 21 day 17 hr 15 min
+9,964 songs - 21 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5286,6 +5286,7 @@
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-31 | 2024-06-07 |
 | [Love High](https://open.spotify.com/track/12eM0uD4SSYAL9d7xeIevn) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf) | [Love High](https://open.spotify.com/album/4iV74x19ucJ6sK9oXYH5Kf) | 2:51 | 2023-03-02 | 2023-03-10 |
 | [Love In HiFi](https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99) | [KDRC](https://open.spotify.com/artist/7znZBeCEOB0GsbZzA0oPTR), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Love In HiFi](https://open.spotify.com/album/3kARVuGckQBp1norYyrlvi) | 3:01 | 2025-01-16 | 2025-01-24 |
+| [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-27 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
 | [Love Is Alive](https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Love Is Alive](https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR) | 3:27 | 2024-08-01 | 2024-08-09 |
 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 | 2023-12-01 | 2023-12-09 |

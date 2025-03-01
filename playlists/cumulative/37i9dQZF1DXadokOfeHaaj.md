@@ -2,7 +2,7 @@
 
 ### [Indie Electronic ](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new electronic indie music\. Cover: Anthony Szmierek
+> The best new electronic indie music\. Cover: Antony Szmierek
 
 275 songs - 17 hr 22 min
 

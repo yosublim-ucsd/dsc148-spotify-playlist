@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-248 songs - 12 hr 4 min
+249 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 | 2023-09-11 |  |
 | [Enveloppe mon esprit](https://open.spotify.com/track/4xS7sINj4WKMF9NllK0a0U) | [Bruits Abstraits](https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C) | [Soothing White Noise For Sleep](https://open.spotify.com/album/1ngnExY2eUxygabPL1i4F9) | 2:02 | 2023-12-04 | 2024-02-06 |
 | [Every Night White Noise](https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Every Night White Noise](https://open.spotify.com/album/6ZKRu38HcgmoIaJwj61XgD) | 2:41 | 2023-09-11 |  |
-| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 |  |
+| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 | 2025-03-01 |
 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 | 2023-09-11 |  |
 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 | 2023-09-11 |  |
 | [Feathery White Noise](https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Feathery White Noise](https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1) | 2:53 | 2023-09-11 |  |
@@ -76,6 +76,7 @@
 | [In a state of White Noise Sleep](https://open.spotify.com/track/6RS9yHVAFYXf2yspUgQkDH) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [White Noise Pillow](https://open.spotify.com/album/2LbHdOqiVJHFVh1nZbqda5) | 4:04 | 2023-09-11 |  |
 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 | 2023-09-11 |  |
 | [In White Atmosphere](https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1) | [Lilly Almberg](https://open.spotify.com/artist/6LiML5bva810pCMI3MGXif) | [Cloud White Noise](https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct) | 2:24 | 2023-09-11 |  |
+| [Ivory Whispers](https://open.spotify.com/track/08wETzn6J6OVWkugoAbW3M) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Ivory Whispers](https://open.spotify.com/album/0bS3t5S05IXrlIumgadQsP) | 4:53 | 2025-02-04 |  |
 | [Life On The Sky](https://open.spotify.com/track/2wsosTZ3Rrl68esEF1uGTy) | [Skiez](https://open.spotify.com/artist/76TpbhaDR5e489v77KxN3H) | [Fountains From Wonderland](https://open.spotify.com/album/4j3s6FImdTmh7gcDKnmBO2) | 2:21 | 2023-09-11 | 2025-02-09 |
 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 | 2024-02-05 |  |
 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 | 2023-09-11 |  |

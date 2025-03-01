@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,007 songs - 2 day 6 hr 15 min
+1,008 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [DARDA DI DOSE](https://open.spotify.com/track/77PCdb5SjE2CEHP9JKWuP6) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [DARDA DI DOSE](https://open.spotify.com/album/5EsDaLxmdFpzywBC1Ka8h1) | 2:35 | 2022-05-26 | 2022-07-06 |
 | [Dark Circle](https://open.spotify.com/track/4Yy0Aval2j2K5UkLh6RAPO) | [Deep Fateh](https://open.spotify.com/artist/6TwRnAsvNFG4nXZyZhwXyn) | [Dark Circle](https://open.spotify.com/album/3D1EEKOLqoSXFIXGVhcngn) | 3:57 | 2022-03-25 | 2022-04-06 |
 | [Darling \- From "Kokka"](https://open.spotify.com/track/77WhbR5wdwAu28rKDriGfN) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Darling \(From "Kokka"\)](https://open.spotify.com/album/64B6K781jcvJ9lDgYUJv9w) | 3:36 | 2022-05-17 | 2022-05-20 |
+| [Darshan De](https://open.spotify.com/track/2kxSEoiDTtu7jiv9ahYcvJ) | [Arjun Sahota](https://open.spotify.com/artist/6QCwDjFaHI1lV2NRsp2dAU), [Hy G](https://open.spotify.com/artist/77McJiC5iYc61B8NqLKoNm), [Waaris](https://open.spotify.com/artist/0uNa5rNWuhxZGYzLKl5Kxt) | [GEN Z TAPE](https://open.spotify.com/album/4jhz7OifnPKtUv2XD6XXdu) | 2:57 | 2025-02-28 |  |
 | [Das Ke Ja](https://open.spotify.com/track/77F0pganLgCeb8An8BRzIb) | [Bobby Sidhu](https://open.spotify.com/artist/1vKbHEP0ytopMo06g1hLqh) | [Not Again](https://open.spotify.com/album/1qyokWQGVeVSaIzq3Zbchy) | 2:29 | 2022-04-25 | 2022-05-11 |
 | [Das Mereya Dilbara](https://open.spotify.com/track/5Fq4Quuh64GxxeZVAtVeP4) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Das Mereya Dilbara](https://open.spotify.com/album/3161Pz8iLdtagTywFeM04k) | 2:34 | 2023-09-27 | 2024-01-25 |
 | [Dassde](https://open.spotify.com/track/7qWApfggqk3A5UlEQwetaU) | [KRU172](https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc), [Surtaal Singh](https://open.spotify.com/artist/2FBUr8Sy2zQN6lqLb3B5jd) | [Dassde](https://open.spotify.com/album/1mz9DfdDowklM30GmvnsL1) | 3:16 | 2022-02-11 | 2022-02-19 |
@@ -927,7 +928,7 @@
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-15 | 2022-08-18 |
 | [Trouble Maker](https://open.spotify.com/track/3TAVm9vSyDhvTEHcdVesjV) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Mxrci](https://open.spotify.com/artist/2Nqey0jwMuyuUKuQ8f1d7D) | [Trouble Maker](https://open.spotify.com/album/7watxaAZ25ax1NQHbduhgU) | 2:38 | 2022-10-12 | 2023-02-04 |
 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 | 2024-07-31 |  |
-| [Tu Ae Mera](https://open.spotify.com/track/0kaadDImKbYPk4MXP2H8JV) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Tu Ae Mera](https://open.spotify.com/album/4Fll8pKZSs4zobfo2lloEf) | 2:30 | 2025-02-20 |  |
+| [Tu Ae Mera](https://open.spotify.com/track/0kaadDImKbYPk4MXP2H8JV) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Tu Ae Mera](https://open.spotify.com/album/4Fll8pKZSs4zobfo2lloEf) | 2:30 | 2025-02-20 | 2025-03-01 |
 | [Tu Chahida](https://open.spotify.com/track/5cUr6puvXjDPgs4yTfSW3o) | [G Romio](https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y) | [First Album](https://open.spotify.com/album/78HaqqhvApLn9ekzNudy3k) | 3:20 | 2024-08-28 | 2024-09-17 |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 | 2022-12-16 |
 | [Tu Hi Tu](https://open.spotify.com/track/6FJgSrM8PmiqJtLriJuAkV) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Hi Tu](https://open.spotify.com/album/6i1fAW7Dzh70fJd7qrTDDB) | 3:54 | 2024-10-09 | 2024-11-05 |

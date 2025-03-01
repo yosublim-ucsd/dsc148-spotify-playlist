@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Sam Fender
+> Explore all things indie rock right now\. Featuring music from Spacey Jane
 
-1,789 songs - 4 day 3 hr 57 min
+1,796 songs - 4 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-01 | 2022-10-01 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-06-25 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-14 | 2023-08-19 |
+| [Felicity](https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Felicity](https://open.spotify.com/album/3qzIT1RVYObfgrhC1YKyU0) | 3:40 | 2025-02-28 |  |
 | [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 | 2023-08-11 | 2023-11-11 |
 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 | 2023-07-21 | 2023-11-11 |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-02 | 2022-01-17 |
@@ -741,6 +742,7 @@
 | [How it Ends](https://open.spotify.com/track/0GcUVARFg3JrhbA8cUuoQU) | [The Stews](https://open.spotify.com/artist/4yUYrN1PFyzwUDSzEpYYEi) | [Lately / How it Ends](https://open.spotify.com/album/0AL0DTPsLVLQI87WwbaCRN) | 4:35 | 2024-05-17 | 2024-08-03 |
 | [How It Feels](https://open.spotify.com/track/01oxWSLxPWbyTEjPJVb6wO) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How It Feels](https://open.spotify.com/album/4nA3BORkAj8QNfb54fk1yf) | 2:37 | 2021-06-07 | 2022-06-11 |
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-29 | 2023-11-04 |
+| [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-02-28 |  |
 | [How You Like](https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [How You Like](https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A) | 3:40 | 2022-11-24 | 2022-12-08 |
 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 | 2024-05-17 | 2024-07-19 |
 | [howling @ the moon](https://open.spotify.com/track/2BxiLfiKCxyOqG7FMXWlm2) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [howling @ the moon](https://open.spotify.com/album/3dkTnNmHYTOZKET3JN7EI5) | 1:43 | 2022-12-02 | 2022-12-08 |
@@ -860,6 +862,7 @@
 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 | 2024-06-28 | 2024-10-05 |
 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 | 2024-09-27 | 2025-02-15 |
 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 | 2023-08-11 | 2023-10-21 |
+| [I’m A Fool](https://open.spotify.com/track/4cWO14OwuDqi2Bq9ox3TJH) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place \(Deluxe Edition\)](https://open.spotify.com/album/31bGqyJu3AtpzlFzNoE1aM) | 3:04 | 2025-02-28 |  |
 | [I’ve Got A Feeling \(Stay Lucky\)](https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [The Machine Starts To Sing](https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6) | 3:22 | 2025-02-21 |  |
 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 | 2021-06-15 | 2022-04-14 |
 | [Japanese Posters](https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/3zfsyrUc2lWulBUcDzaos7) | 2:36 | 2021-10-08 | 2022-06-11 |
@@ -913,6 +916,7 @@
 | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/track/641GXCVvbYOfstD2mJRQa3) | [Wormy](https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z), [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/album/0fsIKo7CKxRxzR34aDeQhS) | 3:54 | 2022-03-22 | 2022-04-29 |
 | [Layla](https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Layla](https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p) | 4:10 | 2023-02-03 | 2023-04-09 |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-12 | 2024-08-10 |
+| [Lead Up](https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Lead Up](https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge) | 5:18 | 2025-02-28 |  |
 | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG) | 4:21 | 2024-12-06 |  |
 | [Leash on My Neck](https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Leash on My Neck](https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf) | 2:38 | 2022-11-18 | 2022-11-25 |
 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 | 2024-08-30 | 2025-01-11 |
@@ -920,6 +924,7 @@
 | [legroom](https://open.spotify.com/track/4JzuUq7VjNF32PJb51l8n5) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom](https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4) | 1:37 | 2021-10-02 | 2022-04-25 |
 | [Let Em Talk](https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z) | [King Garbage](https://open.spotify.com/artist/2ziuYXYq2WG6cZpa43fWpX) | [Heavy Metal Greasy Love](https://open.spotify.com/album/0xbWAcPqKnN0zi4Fb7E5tD) | 4:02 | 2022-04-01 | 2022-04-21 |
 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 | 2023-10-20 | 2023-11-18 |
+| [Let Me Go \(feat\. Madison Cunningham\)](https://open.spotify.com/track/7nGN1Wu9kCaKUUdqBcY9NZ) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Let Me Go \(feat\. Madison Cunningham\)](https://open.spotify.com/album/52CoE2Gs06mid6NMkGDzLY) | 4:42 | 2025-02-28 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-09-08 | 2024-03-16 |
 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 | 2022-09-24 |
 | [Levee](https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 4:11 | 2023-09-29 | 2023-12-09 |
@@ -1236,6 +1241,7 @@
 | [Powder Train](https://open.spotify.com/track/7KSt2QahdvrzR12MTcGvBF) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Powder Train](https://open.spotify.com/album/12mbQczCrxtJoszrvwOarM) | 3:15 | 2021-08-20 | 2022-04-20 |
 | [Power](https://open.spotify.com/track/0sg8OUgbxnOqBJ0ZFFTDxr) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Power](https://open.spotify.com/album/1LejwXAibrEYVj87GE74o7) | 2:59 | 2024-07-12 | 2024-08-03 |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2021-08-10 | 2022-04-18 |
+| [Praise](https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Sinister Grift](https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9) | 3:31 | 2025-02-28 |  |
 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 | 2023-03-10 | 2023-05-27 |
 | [Premium Fantasy](https://open.spotify.com/track/5LhaUG07zkp7IqF5ttfvUg) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Premium Fantasy](https://open.spotify.com/album/2zJ09Nm8oJcnVJmdeGb4IF) | 3:02 | 2022-03-04 | 2022-04-24 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-04-05 | 2024-06-01 |
@@ -1442,6 +1448,7 @@
 | [Speed of the Sound \(of you\)](https://open.spotify.com/track/625gH2KUG4kE0G1FR3N7ZW) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Speed of the Sound \(of you\)](https://open.spotify.com/album/2FPUFdvALP5VPyXjlUXVdU) | 3:09 | 2024-04-12 | 2024-07-27 |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-07-01 | 2022-11-19 |
 | [Speeding 72](https://open.spotify.com/track/7cUtZJswFDe6W9wRXMseZQ) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/4cQ5UlLIkOL635iBx7S5Dx) | 3:58 | 2022-06-10 | 2022-06-15 |
+| [Spit](https://open.spotify.com/track/1r6E88xX2qVfyD8I1rNsix) | [Pretty Jane](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [Spit](https://open.spotify.com/album/4Gyhp0b6LoWP89ZqYJApAi) | 3:42 | 2025-02-28 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-14 | 2023-04-01 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-07 | 2022-12-25 |

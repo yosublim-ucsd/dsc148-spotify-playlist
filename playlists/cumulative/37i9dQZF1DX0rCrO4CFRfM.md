@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-155 songs - 9 hr 57 min
+156 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Drive \- Acoustic](https://open.spotify.com/track/2Yzw1oQwuCJDglARieFOEY) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Pardon Me](https://open.spotify.com/album/0ki1gVexSfmfMxVYWMTB3A) | 3:47 | 2021-01-15 |  |
 | [Drown](https://open.spotify.com/track/3ktWkdvtG0CF0T2dEpek0H) | [Front Porch Step](https://open.spotify.com/artist/4UXiNDHAiv8DOSLkp0GbSm) | [Aware](https://open.spotify.com/album/3z55Kfwyk2NIUHhcMGZ7Yb) | 3:38 | 2022-06-27 | 2022-09-22 |
 | [Drown](https://open.spotify.com/track/4xzgVo1zQucUU8CpUNRD9I) | [Front Porch Step](https://open.spotify.com/artist/4UXiNDHAiv8DOSLkp0GbSm) | [Aware](https://open.spotify.com/album/3tUe5FuMJfDk95wH4xd1cp) | 3:38 | 2020-11-10\* | 2021-10-11 |
+| [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG), [Queen of the Ring](https://open.spotify.com/artist/6pxTs68Zd9L3OHjCBCMhMR) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 | 2025-02-28 |  |
 | [Elevated \- Acoustic Version](https://open.spotify.com/track/7bCA82KIlcntFmdDIsrFqT) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [The Acoustic Things](https://open.spotify.com/album/2eDd5DqC4jpUXfRbLgO3va) | 3:49 | 2021-04-23 | 2021-10-12 |
 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 | 2020-11-10\* |  |
 | [Fell In Love Without You \- Acoustic](https://open.spotify.com/track/55G4pHzYpiTk2Hlknn5wXF) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Even If It Kills Me \(10th Anniversary Edition\)](https://open.spotify.com/album/58ouk6iUSqfeIUHOZ3GUyc) | 3:25 | 2021-04-19 |  |
@@ -63,7 +64,7 @@
 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 | 2022-09-22 |  |
 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 | 2021-01-15 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2020-11-10\* | 2022-09-22 |
-| [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 | 2021-04-19 |  |
+| [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 | 2021-04-19 | 2025-03-01 |
 | [Guilty](https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Yonaka Stripped Back](https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7) | 4:36 | 2021-01-15 | 2022-08-17 |
 | [Half The World Away](https://open.spotify.com/track/6aM4E6WfuoDnPAgaKaZ5hM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/6tgQeTZ3893n3c3MvlPzi7) | 4:21 | 2020-11-10\* | 2022-06-01 |
 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 | 2022-06-27 | 2022-09-22 |

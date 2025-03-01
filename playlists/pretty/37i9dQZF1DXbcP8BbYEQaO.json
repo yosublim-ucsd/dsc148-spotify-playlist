@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 273940,
+  "num_followers": 273937,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N5gAAAAA0xE0zk9JV0PAYt7ISUQzD",
+  "snapshot_id": "Z8FC/gAAAADe37sW4eThO86EhrM4oUGS",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:32",
@@ -85,6 +85,42 @@
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
     },
     {
+      "added_at": "2025-02-28 05:00:46",
+      "album": {
+        "name": "Off With Her Head",
+        "url": "https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 210365,
+      "name": "Make It Up (feat. Sampha)",
+      "url": "https://open.spotify.com/track/6746jCT3i9N8ICzu8DSBmJ"
+    },
+    {
+      "added_at": "2025-01-03 18:36:29",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
       "added_at": "2025-02-14 05:00:22",
       "album": {
         "name": "Algorithm",
@@ -99,6 +135,22 @@
       "duration_ms": 183363,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/4P9s672KFfDlbjhQAVeoT5"
+    },
+    {
+      "added_at": "2025-02-28 05:00:46",
+      "album": {
+        "name": "hi lo",
+        "url": "https://open.spotify.com/album/09WWLiA9AZWMpywKn0ksTS"
+      },
+      "artists": [
+        {
+          "name": "NOA LONE",
+          "url": "https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "hi lo",
+      "url": "https://open.spotify.com/track/7Ms7XQN4mDV3qWdkEHrFEN"
     },
     {
       "added_at": "2025-01-17 05:00:57",
@@ -135,22 +187,6 @@
       "duration_ms": 197586,
       "name": "DISCO (FT. TOMMY GENESIS)",
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
-    },
-    {
-      "added_at": "2025-01-03 18:36:29",
-      "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
       "added_at": "2025-01-24 05:00:50",
@@ -607,22 +643,6 @@
       "duration_ms": 270448,
       "name": "Galina",
       "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Queen of the Night",
-        "url": "https://open.spotify.com/album/72sw6HtTdCmRqFcT7EBFJi"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 234883,
-      "name": "Queen of the Night",
-      "url": "https://open.spotify.com/track/3kllpCSz33i8TKTAdARRFz"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1215,22 +1235,6 @@
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Got Me Started",
-        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
       "added_at": "2024-08-30 04:00:00",

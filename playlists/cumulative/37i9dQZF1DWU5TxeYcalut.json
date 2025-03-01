@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 257600,
       "name": "Fall Afternoon",
       "url": "https://open.spotify.com/track/1FSs2R5yWVDAj1OUfyO3Wm"
@@ -1570,6 +1570,24 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
     },
     {
       "album": {
@@ -3131,6 +3149,44 @@
     },
     {
       "album": {
+        "name": "Samba de Aroeira",
+        "url": "https://open.spotify.com/album/4okIIKUwHpfxM3S1mlaksZ"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e1vio Silva",
+          "url": "https://open.spotify.com/artist/5mC4ZacVsd5bOV2C5XRWdH"
+        },
+        {
+          "name": "Adil Silva",
+          "url": "https://open.spotify.com/artist/7gIf3bd8TyzvpFfsSHOkdh"
+        },
+        {
+          "name": "Daniel Castro",
+          "url": "https://open.spotify.com/artist/58WcPGsEIdjXByfgWhf88i"
+        },
+        {
+          "name": "Erivelton Silva",
+          "url": "https://open.spotify.com/artist/2OqcefwPOGeSVaJ5yU97Mo"
+        },
+        {
+          "name": "Helio Delmiro",
+          "url": "https://open.spotify.com/artist/7ChUVYeZ4bJr9K5ypJThnl"
+        },
+        {
+          "name": "Livio Almeida",
+          "url": "https://open.spotify.com/artist/033vOZ2lfCf1jsdMm1uFHa"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331092,
+      "name": "Samba de Aroeira",
+      "url": "https://open.spotify.com/track/3hcfWKBHZKRfCkSjbbhk8M"
+    },
+    {
+      "album": {
         "name": "C\u00e1ssia Eller & Victor Biglione In Blues",
         "url": "https://open.spotify.com/album/2zx348PyI6d3fEfDWnv3QP"
       },
@@ -3748,7 +3804,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 202272,
       "name": "\u00a1\u00c1ndale!",
       "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"

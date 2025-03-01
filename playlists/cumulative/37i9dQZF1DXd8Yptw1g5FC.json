@@ -1403,7 +1403,7 @@
         },
         {
           "name": "\u00d6zg\u00fcr",
-          "url": "https://open.spotify.com/artist/1tGoHbmZRw0aY1DzkdYfBn"
+          "url": "https://open.spotify.com/artist/0Jcj2hmaTp6HPLgybYHeAA"
         }
       ],
       "date_added": "2025-02-27",
@@ -2234,6 +2234,24 @@
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "album": {

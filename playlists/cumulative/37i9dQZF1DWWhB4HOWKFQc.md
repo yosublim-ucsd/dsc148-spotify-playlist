@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Kahitna
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Adrianne Lenker
 
 991 songs - 2 day 11 hr 47 min
 

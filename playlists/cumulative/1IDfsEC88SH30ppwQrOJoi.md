@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-375 songs - 19 hr 28 min
+378 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 | 2024-04-26 |  |
 | [Bee Gi](https://open.spotify.com/track/1yXC0qjBaRB49K89pVqGIq) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM) | [Bee Gi](https://open.spotify.com/album/7MxdsVS6QpdZuErsx6eD3Z) | 3:00 | 2023-08-11 | 2024-03-14 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-04-26 | 2024-05-01 |
+| [Believe](https://open.spotify.com/track/0xwI8bk8UBQHh6QemR76kR) | [Autone](https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue), [James Alexandr](https://open.spotify.com/artist/7dBNlsD2vMoHenuE5Wuguc), [PENELOPE](https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J) | [Believe](https://open.spotify.com/album/3cIjSNMTG8gk1UzRCBXnNV) | 3:20 | 2025-02-28 |  |
 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-04-26 | 2024-05-01 |
 | [Blade](https://open.spotify.com/track/2YXAvafKh5UL1g7zXk3NWH) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A) | [Blade](https://open.spotify.com/album/0CdT1QOfnUoXWX96RbNmwF) | 2:46 | 2025-02-07 |  |
 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 | 2023-12-08 | 2024-03-14 |
@@ -103,6 +104,7 @@
 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 | 2023-08-17 | 2024-05-01 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-04-26 | 2024-03-14 |
 | [Education](https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Education](https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP) | 3:06 | 2024-01-19 | 2024-03-14 |
+| [El Tikital \- Day Mix](https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Morena](https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [El Tikital \(Day Mix\)](https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915) | 2:30 | 2025-02-28 |  |
 | [Elysian](https://open.spotify.com/track/59iHbGAgtvnceRR53GQ52c) | [Berkcan Demir](https://open.spotify.com/artist/2uXBcKuO3VEJ2DGocGaloa), [Calzen](https://open.spotify.com/artist/6QPwdLzF9Rta9t5YkeZRwL) | [Elysian](https://open.spotify.com/album/5D7NmsWoctuHr5dF4V3SiL) | 3:42 | 2024-03-13 | 2024-04-27 |
 | [Essa Mi](https://open.spotify.com/track/1SsLW9VTYn13tVCfBlZVnW) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Essa Mi](https://open.spotify.com/album/1yyxYyJQxrCVGR5nnUpYEF) | 2:43 | 2023-10-13 | 2024-03-14 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-07 | 2024-05-01 |
@@ -355,6 +357,7 @@
 | [Told You](https://open.spotify.com/track/6jSLaYL3asiPzk0mCSm5pF) | [FutureShape](https://open.spotify.com/artist/0blllSlSM8o1rGyCTuIekr) | [Told You](https://open.spotify.com/album/66PrrpxI8kGjsn3OZeUP5M) | 2:24 | 2023-07-28 | 2024-03-14 |
 | [Torta](https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Torta](https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8) | 2:24 | 2023-09-06 | 2024-03-14 |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2023-06-13 | 2024-03-14 |
+| [Try Try Try](https://open.spotify.com/track/5UcXIF9BHOS8DP2mmFZ801) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Try Try Try \(feat\. Martay M'Kenzy\)](https://open.spotify.com/album/6qHoPyFEpxGY31QGj1kmHZ) | 2:29 | 2025-02-28 |  |
 | [Under My Body](https://open.spotify.com/track/6A1NvtGGH34biEXYbzv0Fo) | [4TUNE](https://open.spotify.com/artist/6cDaHyH3TTBe1IdwzEehmV) | [Under My Body](https://open.spotify.com/album/4E9LlkHXuTQqdstfXmKWP1) | 2:30 | 2023-06-02 | 2024-03-14 |
 | [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 | 2023-07-07 | 2024-03-14 |
 | [Up All Night](https://open.spotify.com/track/3Dyvf1mEk5qthK5dLIrfoC) | [SSR](https://open.spotify.com/artist/4uWBknldZjO1D4VmySU8qf), [MarshallYU](https://open.spotify.com/artist/68wVN92QinmN9C7c07BzXq) | [Up All Night](https://open.spotify.com/album/5opeH8Hg47MGy2AoZJrmLV) | 2:28 | 2023-07-28 | 2024-03-14 |

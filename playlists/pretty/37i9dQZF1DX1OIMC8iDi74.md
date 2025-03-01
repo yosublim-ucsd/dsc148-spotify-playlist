@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Knock2
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,479 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,479 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 79 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
 | 80 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 81 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
-| 82 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 83 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
-| 84 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
-| 85 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
-| 86 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
+| 82 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
+| 83 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
+| 84 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
+| 85 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
+| 86 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
 | 87 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 |
 | 88 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 89 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
 | 98 | [Prize](https://open.spotify.com/track/7kweAeNokxeIoJOUuS45Dy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [Robu](https://open.spotify.com/artist/5s3iXQgBxJvFSQVviVilbt) | [Prize](https://open.spotify.com/album/54wOA7NwxH2G1UtbtbeKyR) | 2:16 |
 | 99 | [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 |
-| 100 | [WE RUN THIS](https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [WE RUN THIS](https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6) | 3:14 |
+| 100 | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq) | 2:27 |
 
 Snapshot ID: `Z7kMRwAAAAB4s/dCnGHqAUgoMCBjeFut`

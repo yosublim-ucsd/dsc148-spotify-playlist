@@ -12199,6 +12199,24 @@
     },
     {
       "album": {
+        "name": "The right direction",
+        "url": "https://open.spotify.com/album/4rjamANRGSZLJ7JVLF8ujO"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128966,
+      "name": "The right direction",
+      "url": "https://open.spotify.com/track/1FSjVUQVSg4SDlQBEHohVI"
+    },
+    {
+      "album": {
         "name": "Testimony (EP)",
         "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
       },

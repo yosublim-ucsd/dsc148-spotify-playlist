@@ -3595,6 +3595,28 @@
     },
     {
       "album": {
+        "name": "I Can Feel Your Love",
+        "url": "https://open.spotify.com/album/3cBuDutAXydPeChsT1RQaX"
+      },
+      "artists": [
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        },
+        {
+          "name": "Emma Wells",
+          "url": "https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "I Can Feel Your Love",
+      "url": "https://open.spotify.com/track/45HQ2uow1flBrzw3uDIwlM"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -9838,7 +9860,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 217821,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj"

@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Brasileirinha (GoodTimes Mix)",
+        "url": "https://open.spotify.com/album/4niKshYWG6kbAni5JxsyQz"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "Brasileirinha (GoodTimes Mix)",
+      "url": "https://open.spotify.com/track/0v7Wol4NzsvR6FtTrkDUGA"
+    },
+    {
+      "album": {
         "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
         "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
       },
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 169756,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1M32IUGzkYJO6KykeldJGG"
@@ -1520,6 +1538,28 @@
       "duration_ms": 157439,
       "name": "Bron Bron",
       "url": "https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu"
+    },
+    {
+      "album": {
+        "name": "Burugudum",
+        "url": "https://open.spotify.com/album/6pIEb8jLJt7EYk0x47mAOH"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Victor Alc",
+          "url": "https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "Burugudum",
+      "url": "https://open.spotify.com/track/4deY3ALshu0QMAeGSCJkEo"
     },
     {
       "album": {
@@ -1954,7 +1994,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 229047,
       "name": "Collide",
       "url": "https://open.spotify.com/track/4PaBwFv5dmdOcgMlWXPFjb"
@@ -2727,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Don't Go Away",
+        "url": "https://open.spotify.com/album/6YdHrddRxVCUOeuq80axdl"
+      },
+      "artists": [
+        {
+          "name": "Mary Olivetti",
+          "url": "https://open.spotify.com/artist/23kb4zi6EJe9OsuSSR6Gth"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279231,
+      "name": "Don't Go Away - Edit",
+      "url": "https://open.spotify.com/track/7nF3iK80qv2twUtP8ITCrb"
+    },
+    {
+      "album": {
         "name": "Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/648IV7Co3PFq74vL5nimRr"
       },
@@ -2742,7 +2800,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 173333,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
@@ -3731,6 +3789,28 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "album": {
         "name": "Flute",
         "url": "https://open.spotify.com/album/6pWeipE5YJialIcLkicui8"
       },
@@ -3914,6 +3994,32 @@
       "duration_ms": 138750,
       "name": "For The Beat",
       "url": "https://open.spotify.com/track/3zuWoFhLtS3kcvEYffZUn2"
+    },
+    {
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/1l9ptCcbXf21rIlB3PhyP6"
+      },
+      "artists": [
+        {
+          "name": "Manzzy",
+          "url": "https://open.spotify.com/artist/33gsd5LjLbV9ETLSpMhu2g"
+        },
+        {
+          "name": "Fell",
+          "url": "https://open.spotify.com/artist/098nuJrPKVMgtg3hiVQC6P"
+        },
+        {
+          "name": "Blazeline",
+          "url": "https://open.spotify.com/artist/77KvZnuebqSZynviWTp8u6"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229354,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/1KQTSSOyGIEcYgi1QFm6Ob"
     },
     {
       "album": {
@@ -4812,7 +4918,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 183230,
       "name": "Higher State Of Consciousness",
       "url": "https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64"
@@ -9172,7 +9278,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 170875,
       "name": "Run",
       "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
@@ -9488,7 +9594,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 182500,
       "name": "Seek Your Truth (A Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/4Naysy4HW10kgLxKsvmhMw"
@@ -9817,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "Somebody'25",
+        "url": "https://open.spotify.com/album/6bhoXie2eUiR8r0bQwtV7N"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Somebody'25",
+      "url": "https://open.spotify.com/track/7sq9DUoHZR7Zxbb3sC2ejv"
+    },
+    {
+      "album": {
         "name": "Somebody's Watching Me",
         "url": "https://open.spotify.com/album/4a8EGYApAmuJP2U7npRXM9"
       },
@@ -10138,6 +10262,32 @@
       "duration_ms": 191233,
       "name": "Still My Baby",
       "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
+    },
+    {
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/66NEaEMfcGSCsb8togLiBD"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Alija",
+          "url": "https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV"
+        },
+        {
+          "name": "Jesus Luz",
+          "url": "https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "STORM",
+      "url": "https://open.spotify.com/track/5JtSFo0nU8IypydsU29Khu"
     },
     {
       "album": {
@@ -11142,6 +11292,32 @@
     {
       "album": {
         "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6vOKgtKHuaa07ULkjuaFZe"
+      },
+      "artists": [
+        {
+          "name": "Mark State",
+          "url": "https://open.spotify.com/artist/1Ownlen2OBmNYzXPruk73Q"
+        },
+        {
+          "name": "PACANI",
+          "url": "https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY"
+        },
+        {
+          "name": "AntiarT",
+          "url": "https://open.spotify.com/artist/4q3ZXSal7stTCwSZDsiaLN"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2OCAMrTUxMXGHcj9R5QfMl"
       },
       "artists": [
@@ -11226,7 +11402,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 232500,
       "name": "T\u00e1 Puto? - Extended Mix",
       "url": "https://open.spotify.com/track/4TKLdTCcitpeGamnAZsePo"
@@ -11506,7 +11682,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-01",
       "duration_ms": 166124,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk"

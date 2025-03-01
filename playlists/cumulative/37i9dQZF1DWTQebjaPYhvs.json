@@ -1967,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "I Ain't Livin'",
+        "url": "https://open.spotify.com/album/4VAGELmzkO9a7MWgt28vYe"
+      },
+      "artists": [
+        {
+          "name": "Dani Rose",
+          "url": "https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "I Ain't Livin'",
+      "url": "https://open.spotify.com/track/6IZWen7yu38Tb0O73JBsgp"
+    },
+    {
+      "album": {
         "name": "Apple Tree",
         "url": "https://open.spotify.com/album/1xrzzbxD5m2VAcYu70hszz"
       },
